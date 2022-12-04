@@ -78,12 +78,17 @@ with open(Output_path+"/alcedo_structured.csv", 'w+', newline='', encoding="utf-
     writer = csv.writer(csvfile, delimiter='|')
     writer.writerow(headrow_list)                
     for vol in range(1,6):
+
+        print(vol)
         parser = etree.XMLParser(remove_blank_text=True)
         doc = etree.parse(Master_path+"alcedo-"+str(vol)+"-utf8.xml", parser)
         data = get_entries(doc)
         for entry in data:
+            gazetteermatch_value=''
+            normname_value=''
+            entrytype_value=''
+            featuretype_value=''
             if entry.tag==ns+'entry':
-                gazetteermatch_value=''
                 entry_dict ={}
                 for child in entry:
                     for cchild in child:
@@ -102,10 +107,10 @@ with open(Output_path+"/alcedo_structured.csv", 'w+', newline='', encoding="utf-
                             for ccchild in cchild:
                                 gazetteermatch_value=''+detection_Value(ccchild)
                                 #print(gazetteermatch_value)
-                entry_id=detection_Entry_ID(entry)
-                #print(entry_id)
                 entry_headword=detection_Headword(entry)
                 entry_content=detection_Sense(entry)
+                entry_id=detection_Entry_ID(entry)
+                #print(entry_id)
                 #entry_dictionary()
                 writer.writerow([entry_id,entry_headword,normname_value,entrytype_value,featuretype_value,gazetteermatch_value,entry_content])
 

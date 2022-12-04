@@ -1,0 +1,267 @@
+# -*- coding: utf-8 -*-
+import re, csv
+from fuzzywuzzy import fuzz
+import pandas as pd
+
+def normalize(inputstring):
+    inputstring=re.sub(r'[\.,;:-]', '', str(inputstring)) # clean punct
+    inputstring=re.sub(r'á', 'a',  str(inputstring))
+    inputstring=re.sub(r'é', 'e',  str(inputstring))
+    inputstring=re.sub(r'í', 'i',  str(inputstring))
+    inputstring=re.sub(r'ó', 'o',  str(inputstring))
+    inputstring=re.sub(r'ú', 'u',  str(inputstring))
+    inputstring=re.sub(r'vv', 'w',  str(inputstring))
+    inputstring=re.sub(r'  ', ' ',  str(inputstring))
+    inputstring = inputstring.lower()
+    inputstring=re.sub(r'x([aeiouáéíóú])', r'j\1', inputstring)
+    inputstring=re.sub(r'X([aeiouáéíóú])', r'J\1', inputstring)
+    inputstring=re.sub(r'g([éeií])', r'j\1', inputstring)
+    inputstring=re.sub(r'G([éeíi])', r'J\1', inputstring)
+    inputstring=re.sub(r'gu', 'hu', inputstring)
+    inputstring=re.sub(r'Gu', 'Hu', inputstring)
+    inputstring=re.sub(r'v', 'b', inputstring)
+    inputstring=re.sub(r'tz', 'z', inputstring)
+    inputstring=re.sub(r'  ', ' ', inputstring)
+    inputstring=re.sub(r'y', 'i', inputstring)
+    inputstring=re.sub(r'tz', 'z', inputstring)
+    inputstring=re.sub(r'z', 's', inputstring)
+    inputstring=re.sub(r's([éeíi])', r'c\1', inputstring)
+    inputstring=re.sub(r'  ', ' ', inputstring)
+    inputstring=re.sub(r'Y', 'I', inputstring)
+    inputstring=re.sub(r'Tz', 'Z', inputstring)
+    inputstring=re.sub(r'Z', 'S', inputstring)
+    inputstring=re.sub(r'S([éeíi])', r'C\1', inputstring)
+    inputstring=re.sub(r'  ', ' ', inputstring)
+    inputstring=re.sub(r'([^c])h([aeiouáéíóú])([^eaéá])', r'\1\2\3', inputstring) #h átona
+    inputstring=re.sub(r'([cC])ua', r'\1oa', inputstring)
+    inputstring=re.sub(r'ñ', r'n', inputstring)
+    inputstring=re.sub(r'Ñ', r'N', inputstring)
+    inputstring=re.sub(r'v', r'u', inputstring)
+    inputstring=re.sub(r'([A-ZÑa-záéíóúüñç-]+)tan\b', r'\1tlan', inputstring)
+    inputstring=re.sub(r'([A-ZÑa-záéíóúüñç-]+)tla\b', r'\1tlan', inputstring)
+    inputstring=re.sub(r'([A-ZÑa-záéíóúüñç-]+)cinco\b', r'\1cingo', inputstring)
+    inputstring=re.sub(r'([A-ZÑa-záéíóúüñç-]+)zinco\b', r'\1cingo', inputstring)
+
+    inputstring=re.sub(r'  ', ' ', inputstring)
+    return inputstring
+
+def stopwordremove(inputstring):
+    inputstring=re.sub(r' de ', ' ', inputstring)
+    inputstring=re.sub(r' la ', ' ', inputstring)
+    inputstring=re.sub(r' el ', ' ', inputstring)
+    inputstring=re.sub(r' del ', ' ', inputstring)
+    inputstring=re.sub(r' las ', ' ', inputstring)
+    inputstring=re.sub(r' los ', ' ', inputstring)
+    inputstring=re.sub(r'Nuestra Señora ', ' ', inputstring)
+    inputstring=re.sub(r'  ', ' ', inputstring)
+
+csvin_path = 'F:\\EHESS\\Workbench\\processing\\Input\\alcedo.csv'
+csvmatching_path = 'F:\\EHESS\\Workbench\\processing\\Input\\hgis_gz.csv'
+regionlist = ['Luisiana','Guayana','CHA','CHL','GUA','SDO','NGR','VEN','PER','QUI','RPL','Popayan','NES']
+
+
+
+
+dfA = pd.read_csv(csvin_path, sep=';', dtype={"ID": "string","entry_id": "string","entry_headword": "string","normname_value": "string","entrytype_value": "string","featuretype_value": "string","Province": "string","District": "string","Region_Alcedo": "string","Region_matching": "string","Island_Alcedo": "string","Coast_Alcedo": "string","Sea_Alcedo": "string","Nation": "string","Matchingresource": "string","Match": "string","majortype": "string"})
+dfB =  pd.read_csv(csvmatching_path, sep=';', dtype={"gz_id": "string", "label": "string", "nombre": "string", "var1": "string", "var2": "string", "var3": "string", "var4": "string", "nombrehoy": "string", "Tipo": "string", "Partido": "string", "Provincia": "string", "REG": "string", "Pais": "string", "Lat": "string", "Lon":"string"})
+
+#dfA.set_index(['entry_id'], inplace = True)
+#dfB.set_index(['gz_id'], inplace = True)
+
+with open("F:\\EHESS\\Workbench\\processing\\Output\\alcedo_hgis_matches.csv", 'w+', newline='', encoding="utf-8") as csvfile:
+    writer = csv.writer(csvfile, delimiter='|')
+    writer.writerow(["step","entry_id","gz_id","toponymA","toponymB","typeA","typeB","districtA","districtB","provinceA","provinceB","ratio","Lat","Lon"])
+    for region in regionlist:
+        for i in range(0,dfA.shape[0]):
+            if dfA.loc[i,'Matchingresource']=="hgis_gz" and dfA.loc[i,'Region_matching']==region and dfA.loc[i,'Match'] == "not_matched":
+                toponymA = normalize(dfA.loc[i,'normname_value'])
+                toponymA2 = normalize(dfA.loc[i,'entry_headword'])
+                districtA = normalize(dfA.loc[i,'District'])
+                provinceA = normalize(dfA.loc[i,'Province'])
+                typeA = dfA.loc[i,'featuretype_value']
+                idA = dfA.loc[i,'entry_id']
+                #print(toponymA)
+                for i in range(0,dfB.shape[0]):
+                    if dfB.loc[i,'REG']==region:
+                        #print(dfB.loc[i,'label'])
+                        toponymB = normalize(dfB.loc[i,'label'])
+                        toponymB2 = normalize(dfB.loc[i,'nombre'])
+                        toponymB3 = normalize(dfB.loc[i,'var1'])
+                        toponymB4 = normalize(dfB.loc[i,'var2'])
+                        toponymB5 = normalize(dfB.loc[i,'var3'])
+                        toponymB6 = normalize(dfB.loc[i,'var4'])
+                        districtB = normalize(dfB.loc[i,'Partido'])
+                        provinceB = normalize(dfB.loc[i,'Provincia'])
+                        typeB = dfB.loc[i,'Tipo']
+                        idB = dfB.loc[i,'gz_id']
+                        LatB = normalize(dfB.loc[i,'Lat'])
+                        LonB = normalize(dfB.loc[i,'Lon'])
+                        toporatio1 = fuzz.ratio(toponymA, toponymB)
+                        toporatio2 = fuzz.ratio(toponymA, toponymB2)
+                        toporatio3 = fuzz.ratio(toponymA, toponymB3)
+                        toporatio4 = fuzz.ratio(toponymA, toponymB4)
+                        toporatio5 = fuzz.ratio(toponymA, toponymB5)
+                        toporatio6 = fuzz.ratio(toponymA, toponymB5)
+                        toporatio7 = fuzz.ratio(toponymA2, toponymB)
+                        toporatio8 = fuzz.ratio(toponymA2, toponymB2)
+                        toporatio9 = fuzz.ratio(toponymA2, toponymB3)
+                        toporatio10 = fuzz.ratio(toponymA2, toponymB4)
+                        toporatio11 = fuzz.ratio(toponymA2, toponymB5)
+                        toporatio12 = fuzz.ratio(toponymA2, toponymB5)
+                        distdistratio = fuzz.ratio(districtA, districtB)
+                        distprovratio = fuzz.ratio(districtA, provinceB)
+                        provdistratio = fuzz.ratio(provinceA, districtB)
+                        provprovratio = fuzz.ratio(provinceA, provinceB)
+                        
+                        if toponymA == toponymB and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toponymA == toponymB2 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6) and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA2 == toponymB and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA2 == toponymB2 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA2 == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6) and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step Ia6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toponymA == toponymB and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA == toponymB2 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6) and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA2 == toponymB and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA2 == toponymB2 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA2 == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6) and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IIa6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toporatio1 > 85 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio1),LatB,LonB,str(toporatio1)])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio2 > 85 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio2),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio3 > 85 or toporatio4 > 85 or toporatio5 > 85 or toporatio6 > 85) and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio3),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio7 > 85 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio7),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio8 > 85 and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio8),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio9 > 85 or toporatio10 > 85 or toporatio11 > 85 or toporatio12 > 85) and (districtA==provinceB or districtA==districtB or provinceA == districtB):
+                            writer.writerow(["Step IIIa6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio9),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio1 > 85 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio1),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio2 > 85 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio2),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio3 > 85 or toporatio4 > 85 or toporatio5 > 85 or toporatio6 > 85) and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio3),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio7 > 85 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio7),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio8 > 85 and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio8),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio9 > 85 or toporatio10 > 85 or toporatio11 > 85 or toporatio12 > 85) and (distprovratio >85 or distdistratio > 85 or provdistratio >85):
+                            writer.writerow(["Step IVa6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio9),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toponymA == toponymB and (provinceA == provinceB):
+                            writer.writerow(["Step Ib1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA == toponymB2 and (provinceA == provinceB):
+                            writer.writerow(["Step Ib2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6)  and (provinceA == provinceB):
+                            writer.writerow(["Step Ib3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toponymA2 == toponymB and (provinceA == provinceB):
+                            writer.writerow(["Step Ib4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toponymA2 == toponymB2 and (provinceA == provinceB):
+                            writer.writerow(["Step Ib5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA2 == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6)  and (provinceA == provinceB):
+                            writer.writerow(["Step Ib6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toponymA == toponymB and (provprovratio > 85):
+                            writer.writerow(["Step IIb1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toponymA == toponymB2 and (provprovratio > 85):
+                            writer.writerow(["Step IIb2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6)  and (provprovratio > 85):
+                            writer.writerow(["Step IIb3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toponymA2 == toponymB and (provprovratio > 85):
+                            writer.writerow(["Step IIb4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toponymA2 == toponymB2 and (provprovratio > 85):
+                            writer.writerow(["Step IIb5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toponymA2 == toponymB3 or toponymA == toponymB4 or toponymA == toponymB5 or toponymA == toponymB6)  and (provprovratio > 85):
+                            writer.writerow(["Step IIb6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,"100",LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+
+                        elif toporatio1 > 85 and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio1),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio2 > 85 and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio2),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio3 > 85 or toporatio4 > 85 or toporatio5 > 85 or toporatio6 > 85)  and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio3),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toporatio7 > 85 and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio7),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toporatio8 > 85 and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio8),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio9 > 85 or toporatio10 > 85 or toporatio11 > 85 or toporatio12 > 85)  and (provinceA == provinceB):
+                            writer.writerow(["Step IIIb6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio9),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+
+                        elif toporatio1 > 85 and (provprovratio > 85):
+                            writer.writerow(["Step IVb1",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio1),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif toporatio1 > 85 and (provprovratio > 85):
+                            writer.writerow(["Step IVb2",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio2),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio3 > 85 or toporatio4 > 85 or toporatio5 > 85 or toporatio6 > 85)  and (provprovratio > 85):
+                            writer.writerow(["Step IVb3",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio3),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toporatio7 > 85 and (provprovratio > 85):
+                            writer.writerow(["Step IVb4",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio7),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")                            
+                        elif toporatio8 > 85 and (provprovratio > 85):
+                            writer.writerow(["Step IVb5",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio8),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                        elif (toporatio9 > 85 or toporatio10 > 85 or toporatio11 > 85 or toporatio12 > 85)  and (provprovratio > 85):
+                            writer.writerow(["Step IVb6",idA,"hgis:gz:"+idB,toponymA,toponymB,typeA,typeB,districtA,districtB,provinceA,provinceB,str(toporatio9),LatB,LonB])
+                            print(toponymA+", "+toponymB+" in "+districtB+", "+provinceB+" matched!")
+                            
