@@ -9,12 +9,12 @@ ns='{http://www.tei-c.org/ns/1.0}'
 
 
 parser = etree.XMLParser(remove_blank_text=True)
-doc = etree.parse(Master_path+"alcedo-2-utf8.xml", parser)
+#doc = etree.parse(Master_path+"alcedo-2-utf8.xml", parser)
 
     #"Function used to remove blank new lines within entries"
 def clean_text(entry):
-    entry = entry.replace("\r\n", "")
-    entry = entry.replace("\n", "")
+    entry = re.sub("\r\n", "", entry)
+    entry = re.sub("\n", "", entry)
     entry = re.sub('\s{2,}', ' ', entry)
     return entry
 
@@ -76,7 +76,7 @@ headrow_list = ["entry_id","entry_headword","normname_value","entrytype_value","
 
 with open(Output_path+"/alcedo_structured.csv", 'w+', newline='', encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile, delimiter='|')
-    writer.writerow(headrow_list)                
+    writer.writerow(headrow_list)
     for vol in range(1,6):
 
         print(vol)
@@ -109,6 +109,7 @@ with open(Output_path+"/alcedo_structured.csv", 'w+', newline='', encoding="utf-
                                 #print(gazetteermatch_value)
                 entry_headword=detection_Headword(entry)
                 entry_content=detection_Sense(entry)
+                #entry_content=clean_text(entry_content)
                 entry_id=detection_Entry_ID(entry)
                 #print(entry_id)
                 #entry_dictionary()
