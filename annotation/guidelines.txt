@@ -1,0 +1,61 @@
+Annotation Guidelines
+
+Manual Annotation Guidelines (Alcedo-Dictionary)
+
+Excerpts of Alcedo’s dictionary are here: https://www.tagtog.com/cvbrandoe/TopUrbiAlcedoDico
+
+What do we annotate?: Named entities (places, territories, geographical features, persons, human groups) and entity types. For this, we have created the following categories:
+
+• 0_Entry_info: Toda la información que toca a la toponimia de la entidad principal de la entrada: “CHEPICA”; “con la advocación de San Juan”; “ó Pichadegua como dicen los indios”, “con el sobrenombre de Grande”.
+
+• 1_Featuretype: Tipo de elemento geográfico, de entidad territorial-administrativa o grupo humano (Río, provincia, monte, peñasco, bahía, punta de tierra, pueblo...).
+
+• 2_a_Landmark: Referencia a elementos naturales; se anota sólo el topónimo y no el tipo (río Orinoco), a menos que forme parte integral del topónimo (Seno mexicano). En caso de duda, siempre es mejor reducirse al topónimo (río Grande).
+
+• 2_b_Settlement: Referencia a asentamientos humanos (Tlapa, Lima, Santa Fe, Guape; ), con la misma regla como arriba (ciudad de Guatemala; Villa Vieja; Villa de León). Para distinguir con 2_c, cf. abajo.
+
+• 2_c Territorios: Referencia a territorios de alguna extensión, con la misma regla que arriba (Alcaldia mayor de Tlapa; Nuevo Reyno de Granada; Reyno de Guatemala; provincia y jurisdicción de la ciudad de Salta)
+
+• 2_d_Toponym_other: Referencia a entidades geográficas de incierta índole (el anotador no está seguro de qué tipo a-c se trata)
+
+• 3_Indigenous_nation: Referencia a naciones indígenas particulares, mencionadas por gentilicio (indios Apaches)
+
+• 4_Naciones_castas: Referencia a naciones europeas (ingleses, españoles, franceses) o a grupos sociales genéricos (indios, blancos, mulatos, mestizos, ladinos,...)
+
+• 5_Personal_name: Nombres de personas concretas, sin títulos, prefijos, etc. (Don Melchor de Verdugo, Mr. Condamine, Fray Bartolomé de las Casas)
+
+• 6_Organizations: Nombres de entidades colectivas sin componente de “entidad geográfica”, particularmente Ordenes religiosas (de los padres de San Francisco; capuchinos de la provincia de Andalucía)
+
+General notes:
+
+We do not annotate purely relative mentions (“de la misma provincia y reyno como el anterior”). Partial mentions are annotated whereever possible: “los indios de la provincia de Huanuco, y los de la de Tarma” – both toponyms indicate Provinces. In this case "3 leguas al sur de su Capital", we annotate capital as a feature type, even if implicitly, the mention refers to a concrete
+
+In plural, annotate the entire word (Islotes, not Islotes)
+
+Do not annotate annotate connectors (Punta de tierra ó Cabo, not Punta de tierra ó Cabo, provincia y gobierno, not provincia y gobierno.
+
+Disambiguation of geographic features
+
+There are specific terms which indicate territories and differentiate them from settlements. To facilitate annotation, we list the most important ones:
+
+Territory:
+
+Provincia, corregimiento, alcaldía mayor, gobierno, Reyno, Audiencia, jurisdicción, condado, capitanía
+
+Settlement:
+
+Ciudad, villa, pueblo, real de minas, asiento, cabecera, capital, aldea
+
+Special cases:
+
+Three territorial terms are problematic for our purposes. Curato (parish), distrito, and partido (district).
+
+Our main matching resource (HGIS de las Indias) does not track parishes as territories, which is why we rather want to identify the parish with its head settlement. Thus, here we would annotate as settlement: "en el curato de Molango". Similarly, HGIS de las Indias does not track tribute-payment districts (partidos) in New Spain, which are frequently mentioned "Pueblo de la cabecera y partido de Molango". In such cases, too, we would annotate as settlement anyway. However, partido and distrito are used in a large variety of contexts and often denote "typical" larger territories ("en el distrito de la Audiencia de Guadalaxara" means the whole north of Mexico).
+
+Therefore, the rule is:
+
+Annotate distrito/partido as settlement when: 1.) in combination with a settlement term (//cabecera y partido//) or 2.) not combined with another term and location is in New Spain (//partido de Molango, en la provincia de Antequera y reyno de Nueva España//)
+
+Annotate distrito/partido as territory when: 1.) in combination with a territory term ("en el corregimiento y partido de Sachica").
+
+Annotate distrito/partido as "Toponym_other" when neither applies ("partido de XY en el Reyno de Chile")

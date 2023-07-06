@@ -1,0 +1,10 @@
+1_Featuretype;Tipo de elemento geografico (provincia;rio;pueblo;corregimiento)
+4_Nations_castas;Referencia a naciones europeas y castas (ingleses; mulatos; indios)
+3_Indigenous_nation;Referencia a naciones indigenas particulares (indios Apaches)
+0_Entry_info;Referencias respecto al nombre de la entrada (LIMA; Tiene el mismo nombre con la advocacion de San Juan...)
+5_Personal_name;Nombres de personas concretas
+2_a_Landmark;Referencia a elementos naturales (Orinoco, Sierra Nevada)
+2_b_Settlement;Referencia a asentamientos humanos (Tlapa, Lima, Santa Fe, Guape)
+2_c_Territory;Referencia a territorios (Alcaldia mayor de Tlapa). SE ANOTA SOLO EL TOPONIMO (Tlapa)
+6_Organizations;Referencia a instituciones no-localizables, como órdenes religiosas
+2_d_Toponym_other;Referencia a un lugar de tipo no bien identificable
