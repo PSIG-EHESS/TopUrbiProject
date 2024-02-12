@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import csv, re, TopUrbi
 
-Main_path = "F:\\EHESS\\Workbench\\"
-Master_path = "F:\\EHESS\\Workbench\\Alcedo_Working_master\\"
-Output_path = "F:\\EHESS\\Workbench\\processing\\output\\"
+Main_path = "D:\\EHESS\\Workbench\\"
+Master_path = "D:\\EHESS\\Workbench\\Alcedo_Working_master\\"
+Output_path = "D:\\EHESS\\Workbench\\processing\\output\\"
 
 
     #Already executed lists
@@ -52,15 +52,14 @@ pattern_list =[(r'<TEI.+?<div n="title"><p>',
 ##        with open(Output_path+"alcedo-"+str(vol)+"textonly.txt", 'w+', encoding="utf-8") as myoutput:
 ##            myoutput.write(text)
 ##            myoutput.close()
-
-for vol in range(1,6):
-    with open(Output_path+'items'+str(vol)+'.csv', 'w+', encoding="utf-8") as myoutput:
-        with open(Output_path+"alcedo-"+str(vol)+"textonly.txt", 'r', encoding="utf-8") as myinput:
-            for line in myinput:
-                pagenumber = re.search(r'€€€@@@(.+?)@@@€€€', line)
-                title = pagenumber.group(1)
-                #print(title)
-                contents='"Diccionario geográfico-histórico de las Indias Occidentales o América";"'+title+'";"'+title+'.jpg";"'+line+'"\r\n'
-                contents= re.sub(r'€€€',r'\n', contents)
-                myoutput.write(contents)
-    myoutput.close()
+with open(Output_path+'items.csv', 'w+', encoding="utf-8") as myoutput:
+    for vol in range(1,6):
+            with open(Output_path+"alcedo-"+str(vol)+"textonly.txt", 'r', encoding="utf-8") as myinput:
+                for line in myinput:
+                    pagenumber = re.search(r'€€€@@@(.+?)@@@€€€', line)
+                    title = pagenumber.group(1)
+                    print(title)
+                    contents=title+'";"'+line+'"\r\n'
+                    contents= re.sub(r'€€€',r'\n', contents)
+                    myoutput.write(contents)
+myoutput.close()

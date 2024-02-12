@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import csv, re, TopUrbi
+import csv, re
 from lxml import etree
 from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
