@@ -1,0 +1,69 @@
+Structure {
+    color: black;
+    background-color: #ffe0cc;
+}
+
+Settlement {
+    color: black;
+    background-color: #ffc299;
+}
+
+Territory {
+    color: black;
+    background-color: #ff751a;
+}
+
+Landmark {
+    color: black;
+    background-color: #ccff99;
+}
+
+persName {
+    color: black;
+    background-color: #cc99ff;
+}
+
+humanGroup[type="religious_group"] {
+    color: black;
+    background-color: #e6ccff;
+}
+
+humanGroup[type="political_group"] {
+    color: black;
+    background-color: #bf80ff;
+}
+
+humanGroup[type="indigenous_group"] {
+    color: black;
+    background-color: #aa00ff;
+}
+
+Concept_Structure {
+    color: black;
+    background-color: #ffe680;
+}
+
+Concept_Settlement {
+    color: black;
+    background-color: #d9d9d9;
+}
+
+Concept_District {
+    color: black;
+    background-color: #c2c2a3;
+}
+
+Concept_Territory {
+    color: black;
+    background-color: #a3a375;
+}
+
+Concept_Landmark {
+    color: black;
+    background-color: #669900;
+}
+
+Concept_humanGroup {
+    color: black;
+    background-color: #b38f00;
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the complex types for each element -->
+  <xs:complexType name="SettlementType">
+    <xs:sequence>
+      <xs:element name="Settlement" type="xs:string"/>
+      <!-- Add any additional elements or attributes for SettlementType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="TerritoryType">
+    <xs:sequence>
+      <xs:element name="Territory" type="xs:string"/>
+      <!-- Add any additional elements or attributes for TerritoryType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="LandmarkType">
+    <xs:sequence>
+      <xs:element name="Landmark" type="xs:string"/>
+      <!-- Add any additional elements or attributes for LandmarkType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="StructureType">
+    <xs:sequence>
+      <xs:element name="Structure" type="xs:string"/>
+      <!-- Add any additional elements or attributes for StructureType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="LOCType">
+    <xs:sequence>
+      <xs:element name="LOC" type="xs:string"/>
+      <!-- Add any additional elements or attributes for LOCType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_SettlementType">
+    <xs:sequence>
+      <xs:element name="Concept_Settlement" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_SettlementType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_TerritoryType">
+    <xs:sequence>
+      <xs:element name="Concept_Territory" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_TerritoryType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_DistrictType">
+    <xs:sequence>
+      <xs:element name="Concept_District" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_DistrictType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_LandmarkType">
+    <xs:sequence>
+      <xs:element name="Concept_Landmark" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_LandmarkType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_StructureType">
+    <xs:sequence>
+      <xs:element name="Concept_Structure" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_StructureType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="Concept_humanGroupType">
+    <xs:sequence>
+      <xs:element name="Concept_humanGroup" type="xs:string"/>
+      <!-- Add any additional elements or attributes for Concept_humanGroupType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="persNameType">
+    <xs:sequence>
+      <xs:element name="persName" type="xs:string"/>
+      <!-- Add any additional elements or attributes for persNameType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="humanGroupType">
+    <xs:sequence>
+      <xs:element name="humanGroup" type="xs:string">
+        <xs:complexType>
+          <xs:attribute name="type" type="xs:string"/>
+        </xs:complexType>
+      </xs:element>
+      <!-- Add any additional elements or attributes for humanGroupType if needed -->
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- Define the main element -->
+  <xs:element name="xml">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Settlement" type="SettlementType"/>
+        <xs:element name="Territory" type="TerritoryType"/>
+        <xs:element name="Landmark" type="LandmarkType"/>
+        <xs:element name="Structure" type="StructureType"/>
+        <xs:element name="LOC" type="LOCType"/>
+        <xs:element name="Concept_Settlement" type="Concept_SettlementType"/>
+        <xs:element name="Concept_Territory" type="Concept_TerritoryType"/>
+        <xs:element name="Concept_District" type="Concept_DistrictType"/>
+        <xs:element name="Concept_Landmark" type="Concept_LandmarkType"/>
+        <xs:element name="Concept_Structure" type="Concept_StructureType"/>
+        <xs:element name="Concept_humanGroup" type="Concept_humanGroupType"/>
+        <xs:element name="persName" type="persNameType"/>
+        <xs:element name="humanGroup" type="humanGroupType"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
