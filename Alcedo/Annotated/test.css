@@ -1,3 +1,7 @@
+xml {
+	font: 'Calibri'
+}
+
 Structure {
     color: black;
     background-color: #ffe0cc;
@@ -40,30 +44,35 @@ humanGroup[type="indigenous_group"] {
 
 Concept_Structure {
     color: black;
-    background-color: #ffe680;
+    background-color: #f2f2f2;
 }
 
 Concept_Settlement {
     color: black;
-    background-color: #d9d9d9;
+	font-weight: bold;
+    background-color: #f2f2f2;
 }
 
 Concept_District {
     color: black;
-    background-color: #c2c2a3;
+	font-style: italic;
+    background-color: #f2f2f2;
 }
 
 Concept_Territory {
     color: black;
-    background-color: #a3a375;
+	font-weight: bold;
+	font-style: italic;
+    background-color: #f2f2f2;
 }
 
 Concept_Landmark {
     color: black;
-    background-color: #669900;
+	text-decoration: underline;
+    background-color: #f2f2f2;
 }
 
 Concept_humanGroup {
     color: black;
-    background-color: #b38f00;
+    background-color: #f2f2f2;
 }
