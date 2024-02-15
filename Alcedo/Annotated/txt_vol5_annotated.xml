@@ -2110,7 +2110,7 @@ TENENE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory
 TENENTE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y del <Territory>Rey</Territory> en el <Territory>Brasil</Territory>, situado entre los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Negro</Landmark> y <Landmark>Merigrande</Landmark>. 
 
 §§§id_15981§§§
-TENERIFE, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, fundada a la orilla Oriental del ##<Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark> el año de 1536 por el Capitán <persName>Francisco Henríquez</persName>; fue <Concept_Settlement>Población</Concept_Settlement> grande y de mucho comercio en otro tiempo, hoy está reducida a un miserable <Concept_Settlement>village</Concept_Settlement> solo habitado de gente de color; es de temperamento muy cálido y húmedo, estuvo de Cura en ella algún tiempo San Luis Beltrán, y en el Sagrario de su Iglesia Parroquial se conserva la Casulla con que decía Misa: está 46 leguas al SE de <Territory>Santa Marta</Territory>, en 305 gr. 50 min. de long. y en 10 gr. 3 min. de lat. 
+TENERIFE, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, fundada a la orilla Oriental del ##<Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark> el año de 1536 por el Capitán <persName>Francisco Henríquez</persName>; fue <Concept_Settlement>Población</Concept_Settlement> grande y de mucho comercio en otro tiempo, hoy está reducida a un miserable <Concept_Settlement>village</Concept_Settlement> solo habitado de <humanGroup type="social_group">gente de color</humanGroup>; es de temperamento muy cálido y húmedo, estuvo de Cura en ella algún tiempo San Luis Beltrán, y en el Sagrario de su Iglesia Parroquial se conserva la Casulla con que decía Misa: está 46 leguas al SE de <Territory>Santa Marta</Territory>, en 305 gr. 50 min. de long. y en 10 gr. 3 min. de lat. 
 
 §§§id_15982§§§
 TENEXAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. 
@@ -5090,7 +5090,7 @@ TORNACUSTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Terr
 TORNO, <Concept_Landmark>Brazo</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Orinoco</Landmark> en el <Territory>Nuevo Reyno de Granada</Territory>, uno de los <Concept_Landmark>caños</Concept_Landmark> que forman sus bocas para salir al <Concept_Landmark>mar</Concept_Landmark>, tiene este nombre porque aunque corre del Sur al N es culebreando de modo que forma varios tornos. 
 
 §§§id_16688§§§
-TORO, San Antonio del) <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, que también llaman <LOC>Puebla de los <Concept_Landmark>Brazos</Concept_Landmark></LOC> por quatro ##<Concept_Landmark>ríos</Concept_Landmark> que se unen delante de ella, fundada el año de 1553, es de clima cálido y de terreno muy fértil; pero pobre, pequeña y de malos edificios. 
+TORO, San Antonio del) <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, que también llaman <LOC>Puebla de los Brazos</LOC> por quatro ##<Concept_Landmark>ríos</Concept_Landmark> que se unen delante de ella, fundada el año de 1553, es de clima cálido y de terreno muy fértil; pero pobre, pequeña y de malos edificios. 
 
 §§§id_16689§§§
 Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chumbivilcas</Territory> en el <Territory>Perú</Territory>, que se arruinó y asoló el día 24 de Marzo del año de 1739, escapando de esta tragedia solo el Cura y un Indio, que volvieron el siguiente día a sacar el Santísimo Sacramento, y hallaron debaxo del ara quatro ídolos de cobre de figura humana, la Pixide en el cementerio, y una efigie de bulto de Santa Catalina Patrona del <Concept_Settlement>Pueblo</Concept_Settlement> fuera de él sobre una <Concept_Landmark>peña</Concept_Landmark>. 
@@ -11332,7 +11332,7 @@ YUECHI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Ca
 YUHUARI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre casi al N en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Omaguas</humanGroup>, y entra en aquel. 
 
 §§§id_18072§§§
-YUY, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, corre del SE al NO, y entra en el <Landmark>Uruguay</Landmark> enfrente del <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones, llamado <LOC>Santa María</LOC>, a sus orillas martirizaron los <humanGroup type="social_group">Indios</humanGroup> a los PP. <persName>Roque González de Santa Cruz</persName>, <persName>Alonso Rodríguez</persName>, y <persName>Juan del <Concept_Structure>Castillo</Concept_Structure></persName> de la extinguida Compañía el año de 1628. 
+YUY, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, corre del SE al NO, y entra en el <Landmark>Uruguay</Landmark> enfrente del <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones, llamado <LOC>Santa María</LOC>, a sus orillas martirizaron los <humanGroup type="social_group">Indios</humanGroup> a los PP. <persName>Roque González de Santa Cruz</persName>, <persName>Alonso Rodríguez</persName>, y <persName>Juan del Castillo</persName> de la extinguida Compañía el año de 1628. 
 
 §§§id_18073§§§
 YUINEIMA, <Concept_Landmark>Río</Concept_Landmark> de la 
@@ -12528,9 +12528,9 @@ Capula.
 <Settlement>San Pedro Huestahú</Settlement>. 
 <Settlement>Matlatepec</Settlement>. 
 <Settlement>Temascaltepec</Settlement>. 
-<Settlement>San Miguel de los <Concept_Structure>Ranchos</Concept_Structure></Settlement>. 
+<Settlement>San Miguel de los Ranchos</Settlement>. 
 <Settlement>San Francisco</Settlement>. 
-<Settlement>San Mateo de los <Concept_Structure>Ranchos</Concept_Structure></Settlement>. 
+<Settlement>San Mateo de los Ranchos</Settlement>. 
 <Settlement>San Martín Tequisquipa</Settlement>. 
 <Settlement>San Andrés de las Gamas</Settlement>. 
 <Settlement>San Simón de Barreteros</Settlement>. 
@@ -12941,7 +12941,7 @@ ___REYNO DE LA NUEVA ESPAÑA.___
 <Settlement>Orizava</Settlement>.
 <Settlement>Otumba</Settlement>.
 <Settlement>Papantla</Settlement>,
-<Settlement>Quatro <Concept_Settlement>Villas</Concept_Settlement></Settlement>.
+<Settlement>Quatro Villas</Settlement>.
 <Settlement>Quantla Amilpas</Settlement>.
 <Settlement>Quautitlan</Settlement>.
 <Settlement>Queretaro</Settlement>.
@@ -13936,7 +13936,7 @@ Nombre que daban a la Luna los <humanGroup type="social_group">Indios</humanGrou
 
 §§§id_18554§§§
 CHICHA.
-Bebida común de los <humanGroup type="social_group">Indios</humanGroup> y de la gente de color: es el fermento de alguna fruta, y por eso hay muchas especies de chichas, que toman el nombre de lo que la hacen, como chicha de pina, etc. 
+Bebida común de los <humanGroup type="social_group">Indios</humanGroup> y de la <humanGroup type="social_group">gente de color</humanGroup>: es el fermento de alguna fruta, y por eso hay muchas especies de chichas, que toman el nombre de lo que la hacen, como chicha de pina, etc. 
 
 §§§id_18555§§§
 CHICLE. 
@@ -15211,7 +15211,7 @@ Arbol que produce una madera exquisita de color morado muy hermoso, con vetas m�
 
 §§§id_18810§§§
 #NIGUA (''Pulex penetrans''). 
-Especie de pulga muy pequeña que penetra fácilmente las medias, y se introduce debaxo de las uñas de los pies, o en las coyunturas, y sobre los dedos: el dolor que causa al romper el cutis o el epidermis es semejante a la picadura de la pulga común: luego que se ha situado va corroyendo la carne al rededor causando una ligera comezón: sigue creciendo allí hasta llegar al tamaño de un guisante pequeñito, entonces pone sus huevos que son otras tantas niguas pequeñas que anidan al rededor de la madre, y se alimentan como ella, multiplicándose de tal modo que si no se cuida de sacarlas pudren toda la carne que hay al rededor de ellas, causan úlceras malignas, y muchas veces la cangrena. Luego que se sienten o se experimenta picazón es muy fácil el remedio rompiendo con un alfiler el cutis donde está la nigua, que se conoce por el color, y separándolo suavemente se saca el animal en la punta del alfiler, y se echa un polvo de tabaco o de ceniza de cigarro; pero es preciso gran cuidado en no mojarse aquella parte, porque sobrevendría el pasmo. Los <humanGroup type="social_group">Negros</humanGroup> y demás gente de color (que tienen poco aseo), suelen tener perdidos los pies por no sacarse a tiempo las niguas, y a muchos ha sido preciso cortárselos: los cerdos también son propensos a esta plaga, y tienen llenos siempre los pies de este insecto, que en el <Territory>Perú</Territory> llaman Pique. 
+Especie de pulga muy pequeña que penetra fácilmente las medias, y se introduce debaxo de las uñas de los pies, o en las coyunturas, y sobre los dedos: el dolor que causa al romper el cutis o el epidermis es semejante a la picadura de la pulga común: luego que se ha situado va corroyendo la carne al rededor causando una ligera comezón: sigue creciendo allí hasta llegar al tamaño de un guisante pequeñito, entonces pone sus huevos que son otras tantas niguas pequeñas que anidan al rededor de la madre, y se alimentan como ella, multiplicándose de tal modo que si no se cuida de sacarlas pudren toda la carne que hay al rededor de ellas, causan úlceras malignas, y muchas veces la cangrena. Luego que se sienten o se experimenta picazón es muy fácil el remedio rompiendo con un alfiler el cutis donde está la nigua, que se conoce por el color, y separándolo suavemente se saca el animal en la punta del alfiler, y se echa un polvo de tabaco o de ceniza de cigarro; pero es preciso gran cuidado en no mojarse aquella parte, porque sobrevendría el pasmo. Los <humanGroup type="social_group">Negros</humanGroup> y demás <humanGroup type="social_group">gente de color</humanGroup> (que tienen poco aseo), suelen tener perdidos los pies por no sacarse a tiempo las niguas, y a muchos ha sido preciso cortárselos: los cerdos también son propensos a esta plaga, y tienen llenos siempre los pies de este insecto, que en el <Territory>Perú</Territory> llaman Pique. 
 
 §§§id_18811§§§
 NISPERO (''Achras Sapota''). 

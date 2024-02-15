@@ -81,6 +81,12 @@
     </xs:simpleContent>
   </xs:complexType>
   
+  <xs:complexType name="ZbrType">
+    <xs:sequence>
+      <!-- Empty content model -->
+    </xs:sequence>
+  </xs:complexType>
+  
   <!-- Relax the schema for xmlType to allow mixed content -->
   <xs:complexType name="xmlType" mixed="true">
     <xs:sequence>

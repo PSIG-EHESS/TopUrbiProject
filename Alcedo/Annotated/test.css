@@ -12,6 +12,7 @@ Settlement {
     background-color: #ffc299;
 }
 
+
 Territory {
     color: black;
     background-color: #ff751a;
@@ -75,4 +76,13 @@ Concept_Landmark {
 Concept_humanGroup {
     color: black;
     background-color: #f2f2f2;
+}
+
+
+
+
+
+zbr::after{
+    content: "\a";
+    white-space: pre;
 }
