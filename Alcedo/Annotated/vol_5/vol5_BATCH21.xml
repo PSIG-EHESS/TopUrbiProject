@@ -35,7 +35,7 @@ Nombre que dan al contrabandista en el <Concept_Territory>Reyno</Concept_Territo
 <zbr/>
 §§§id_18457§§§<zbr/>
 BOLLO. <zbr/>
-Pasta de harina de maíz y manteca, que amasan como el pan en la mayor parte de la <Territory>América</Territory>, de que forman unos bollos muy blancos de palmo y medio de largo, y dos pulgadas de diámetro, que envuelven en hojas del mismo maíz, o de otra planta, y cocidos se venden en todas las Pulperías, porque es el pan común que comen los esclavos, y la mayor parte de la gente. <zbr/>
+Pasta de harina de maíz y manteca, que amasan como el pan en la mayor parte de la <Territory>América</Territory>, de que forman unos bollos muy blancos de palmo y medio de largo, y dos pulgadas de diámetro, que envuelven en hojas del mismo maíz, o de otra planta, y cocidos se venden en todas las Pulperías, porque es el pan común que comen los <humanGroup type="social_group">esclavos</humanGroup>, y la mayor parte de la gente. <zbr/>
 <zbr/>
 §§§id_18458§§§<zbr/>
 BOMBILLA. <zbr/>
@@ -83,7 +83,7 @@ Ave de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Vera Pa
 <zbr/>
 §§§id_18467§§§<zbr/>
 BUCANIERS. <zbr/>
-Nombre de los primeros Colonos <humanGroup type="political_group">Franceses</humanGroup> que se establecieron en la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Española</Territory>, o de <LOC>Santo Domingo</LOC> el año de 1660, cuya denominación viene de la voz Bucán, que daban a el campo destinado a secar la carne y los cueros de las reses vacunas que mataban, y donde tenían sus barracas, que llamaban Ayoupas, donde vivían de dos en dos en perfecta comunidad sin admitir mugeres, dándose mutuamente todos los auxilios de un padre de familia con perfecta participación de bienes, heredando el que sobrevivía al compañero: se gobernaban <zbr/>
+Nombre de los primeros <humanGroup type="social_group">Colonos</humanGroup> <humanGroup type="political_group">Franceses</humanGroup> que se establecieron en la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Española</Territory>, o de <LOC>Santo Domingo</LOC> el año de 1660, cuya denominación viene de la voz Bucán, que daban a el campo destinado a secar la carne y los cueros de las reses vacunas que mataban, y donde tenían sus barracas, que llamaban Ayoupas, donde vivían de dos en dos en perfecta comunidad sin admitir mugeres, dándose mutuamente todos los auxilios de un padre de familia con perfecta participación de bienes, heredando el que sobrevivía al compañero: se gobernaban <zbr/>
 <zbr/>
 @@@Alcedo_vol_5_americanismes-0030@@@<zbr/>
 <zbr/>
@@ -129,7 +129,7 @@ Nombre que dan en <Territory>Nueva España</Territory> al Maní. µµµVéase es
 <zbr/>
 §§§id_18474§§§<zbr/>
 CACHUPIN. <zbr/>
-Nombre que dan en <Territory>Nueva España</Territory> a los Europeos. <zbr/>
+Nombre que dan en <Territory>Nueva España</Territory> a los <humanGroup type="social_group">Europeos</humanGroup>. <zbr/>
 <zbr/>
 §§§id_18475§§§<zbr/>
 CAGUI (''Simia Jaechus''). <zbr/>
@@ -388,7 +388,7 @@ Nombre que dan los Mineros en la <Territory>América</Territory> a la cantidad d
 <zbr/>
 §§§id_18527§§§<zbr/>
 CAZAVE. <zbr/>
-Pan común de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Negros</humanGroup> y gente pobre en la mayor parte de la <Territory>América</Territory>: se hace rallando la yuca, que es una raíz, y después de lavarla dexándola antes en infusión para que suelte la parte venenosa, forman unas tortas grandes que cuecen en los hornos. Muchos Europeos lo prefieren al pan de trigo. Quando entraron los primeros <humanGroup type="political_group">Españoles</humanGroup> en <Territory>América</Territory> ya lo usaban los <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
+Pan común de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Negros</humanGroup> y gente pobre en la mayor parte de la <Territory>América</Territory>: se hace rallando la yuca, que es una raíz, y después de lavarla dexándola antes en infusión para que suelte la parte venenosa, forman unas tortas grandes que cuecen en los hornos. Muchos <humanGroup type="social_group">Europeos</humanGroup> lo prefieren al pan de trigo. Quando entraron los primeros <humanGroup type="political_group">Españoles</humanGroup> en <Territory>América</Territory> ya lo usaban los <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
 <zbr/>
 §§§id_18528§§§<zbr/>
 CAZON (''Squalus Galeas''). <zbr/>
@@ -452,13 +452,13 @@ Ave semejante al Tordo, de su mismo tamaño y color pardo, su carne es muy dura 
 <zbr/>
 §§§id_18542§§§<zbr/>
 CHAPETON.<zbr/>
-Nombre que dan en la <Territory>América Meridional</Territory> a los Europeos recién llegados, como en la <Territory>Septentrional</Territory> Cachupín. <zbr/>
+Nombre que dan en la <Territory>América Meridional</Territory> a los <humanGroup type="social_group">Europeos</humanGroup> recién llegados, como en la <Territory>Septentrional</Territory> Cachupín. <zbr/>
 <zbr/>
 @@@Alcedo_vol_5_americanismes-0053@@@<zbr/>
 <zbr/>
 §§§id_18543§§§<zbr/>
 #CHAPETONADA. <zbr/>
-La primera enfermedad que padecen los Europeos al llegar a la <Territory>America</Territory>, causada de la mutación de clima, de alimentos, y de las fatigas de la navegación: es rarísimo el que escapa de ella, y muchos los que mueren. <zbr/>
+La primera enfermedad que padecen los <humanGroup type="social_group">Europeos</humanGroup> al llegar a la <Territory>America</Territory>, causada de la mutación de clima, de alimentos, y de las fatigas de la navegación: es rarísimo el que escapa de ella, y muchos los que mueren. <zbr/>
 <zbr/>
 §§§id_18544§§§<zbr/>
 CHARAGUARAY. <zbr/>
@@ -574,7 +574,7 @@ Y en lengua Quechua Chirimoyo, que significa fruta de la semilla fría, porque l
 <zbr/>
 §§§id_18568§§§<zbr/>
 CHOLO. <zbr/>
-Indio pequeño que tiene cultura, se ha criado entre los Europeos, y habla el Castellano. <zbr/>
+Indio pequeño que tiene cultura, se ha criado entre los <humanGroup type="social_group">Europeos</humanGroup>, y habla el Castellano. <zbr/>
 <zbr/>
 §§§id_18569§§§<zbr/>
 CHOMBO. <zbr/>
@@ -652,7 +652,7 @@ Joya rica de piedras finas que man las Señoras en el <Territory>Perú</Territor
 <zbr/>
 §§§id_18586§§§<zbr/>
 COCA (''Erythroxilum Coca''). <zbr/>
-Arbolillo pequeño de color verde claro, que tiene la hoja parecida a la del Naranjo, y se cultiva mucho en el <Territory>Perú</Territory>: el zumo es el mayor corroborante, y de un alimento que parece increíble, porque sin otra prevención que la de las hojas de esta planta hacen los <humanGroup type="social_group">Indios</humanGroup> viages muy largos, y se mantienen robustos y vigorosos muchos días sin comer otra cosa: lo más singular es que a los Europeos les escalda e inflama la boca. Se produce en climas cálidos sin exceso, y de ella se hace un grandísimo comercio, cuyos derechos producen grandes sumas al Rey porque los Indios no pueden pasar sin ella. En la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Santa Marta</Territory> la llaman Hayo. Equivale en la virtud y uso al Betel de la <LOC>India Oriental</LOC>. <zbr/>
+Arbolillo pequeño de color verde claro, que tiene la hoja parecida a la del Naranjo, y se cultiva mucho en el <Territory>Perú</Territory>: el zumo es el mayor corroborante, y de un alimento que parece increíble, porque sin otra prevención que la de las hojas de esta planta hacen los <humanGroup type="social_group">Indios</humanGroup> viages muy largos, y se mantienen robustos y vigorosos muchos días sin comer otra cosa: lo más singular es que a los <humanGroup type="social_group">Europeos</humanGroup> les escalda e inflama la boca. Se produce en climas cálidos sin exceso, y de ella se hace un grandísimo comercio, cuyos derechos producen grandes sumas al Rey porque los Indios no pueden pasar sin ella. En la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Santa Marta</Territory> la llaman Hayo. Equivale en la virtud y uso al Betel de la <LOC>India Oriental</LOC>. <zbr/>
 <zbr/>
 §§§id_18587§§§<zbr/>
 COCADA. <zbr/>
