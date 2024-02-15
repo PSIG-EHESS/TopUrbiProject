@@ -1,4 +1,3 @@
-#Written assisted by Bing CoPilot.
 import os
 import re
 
@@ -8,9 +7,9 @@ def read_text_file(file_path):
 
 def write_text_file(file_path, content):
     with open(file_path, 'w', encoding='utf-8') as file:
-        file.write('<?xml-stylesheet type="text/css" href="../test.css"?>\n<xml>')
+        #file.write('<?xml-stylesheet type="text/css" href="../test.css"?>\n<xml>')
         file.write(content)
-        file.write('</xml>')
+        #file.write('</xml>')
 def segment_text_files(input_directory, output_directory):
     # Process each input file
     for i in range(1, 6):

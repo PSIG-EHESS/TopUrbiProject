@@ -168,7 +168,7 @@ TAUCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>
 Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> en la <Territory>Nueva Andalucía</Territory>, entra en el de <Landmark>Caura</Landmark> cerca de su boca. <zbr/>
 <zbr/>
 §§§id_15841§§§<zbr/>
-TAUCAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> del <Territory>Perú</Territory> que habita a Levante de la de los <humanGroup type="indigenous_group">Chiquitos</humanGroup>, algunas tribus de los quales llegan <zbr/>
+TAUCAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> del <Territory>Perú</Territory> que habita a Levante de la de los <humanGroup type="indigenous_group">Chiquitos</humanGroup>, algunas <Concept_Group>tribus</Concept_Group> de los quales llegan <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0055@@@<zbr/>
 <zbr/>
@@ -297,7 +297,7 @@ TECALI, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Al
 <zbr/>
 @@@Alcedo_vol_5-0060@@@<zbr/>
 <zbr/>
-#aplicados fabrican mantas de algodón y otros texidos con que hacen su comercio, y especialmente de esteras de palma y canastos, de que abastece casi todo el <Concept_Territory>Reyno</Concept_Territory>, pues aunque los hacen en otras partes los de ésta son más estimados: hay también una cantera de marmol, entre cuyas betas se encuentra mucha de color verde y blanca, de que fabrican muchas curiosidades, aras para altares y clarabo##yas tan claras como si fueran de vidrio, y de las de otros colores tablas para mesas: esta <Concept_Territory>jurisdicción</Concept_Territory> se divide en dos <Concept_District>partidos</Concept_District> o parcialidades a quienes estan sujetos diez y siete <Concept_Settlement>Pueblos</Concept_Settlement>, los siete a la parte de Poniente, cinco a la del N, y dos a la del <Territory>Sur</Territory>, en que se cuentan mil trescientas quarenta y siete familias, en medio de las quales está la <Concept_Settlement>Capital</Concept_Settlement> como en el centro, y son <zbr/>
+#aplicados fabrican mantas de algodón y otros texidos con que hacen su comercio, y especialmente de esteras de palma y canastos, de que abastece casi todo el <Concept_Territory>Reyno</Concept_Territory>, pues aunque los hacen en otras partes los de ésta son más estimados: hay también una cantera de marmol, entre cuyas betas se encuentra mucha de color verde y blanca, de que fabrican muchas curiosidades, aras para altares y clarabo##yas tan claras como si fueran de vidrio, y de las de otros colores tablas para mesas: esta <Concept_Territory>jurisdicción</Concept_Territory> se divide en dos <Concept_District>partidos</Concept_District> o <Concept_Group>parcialidades</Concept_Group> a quienes estan sujetos diez y siete <Concept_Settlement>Pueblos</Concept_Settlement>, los siete a la parte de Poniente, cinco a la del N, y dos a la del <Territory>Sur</Territory>, en que se cuentan mil trescientas quarenta y siete familias, en medio de las quales está la <Concept_Settlement>Capital</Concept_Settlement> como en el centro, y son <zbr/>
 <zbr/>
 ßßß<zbr/>
 #<Settlement>Santa María Toxtepec</Settlement>. <zbr/>

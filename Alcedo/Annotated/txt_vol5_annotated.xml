@@ -1,4 +1,5 @@
-<BATCH/>@@@Alcedo_vol_5-titular@@@<zbr/>
+<BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-titular@@@<zbr/>
 <zbr/>
 #DICCIONARIO <zbr/>
 GEOGRAFICO-HISTORICO <zbr/>
@@ -613,8 +614,8 @@ Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre, de las 
 <zbr/>
 §§§id_15629§§§<zbr/>
 Otro con la advocación de San Juan en la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nochistlán</Territory>, y del <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0026@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0026@@@<zbr/>
 #<Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>, tiene 78 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 2 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
 <zbr/>
 §§§id_15630§§§<zbr/>
@@ -1137,7 +1138,7 @@ TAPURU, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territ
 #TAPUYAS, <Concept_Settlement>Aldea</Concept_Settlement> de los <humanGroup type="political_group">Portugueses</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Puertoseguro</Territory> en el <Territory>Brasil</Territory>, situada a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Verde</Landmark>. <zbr/>
 <zbr/>
 §§§id_15775§§§<zbr/>
-TAPUYES, <Concept_Group>Nación bárbara de Indios</Concept_Group> la más numerosa de las que habitan el <Territory>Brasil</Territory>, esparcida por grande espacio de terreno hacia Poniente, se divide en muchas Tribus, <Concept_District>Cantones</Concept_District> o <Concept_Territory>Gobiernos</Concept_Territory>, cada uno de los quales tiene su Rey particular, son los más grandes y más robustos de todos los Brasilianos, y en algunas cosas también los más bárbaros; son de color obscuro, tienen los cabellos largos y negros tendidos sobre la espalda, y se afeytan desde la fuente hasta las orejas y todo el cuerpo, sin exceptuar las cejas: sus Reyes tienen por distinción rapada la cabeza en forma de corona, y las uñas de los dedos muy largas; ambos sexos van desnudos, a excepción de una faxa pequeña que llevan al rededor de la cintura: los hombres se ponen comunmente plumas en la cabeza pegadas en la frente con miel silvestre, eligiendo las de los páxaros más delicados; texen mantas de hilo de algodón al ##modo de redes tan fuertemente unidas con plumas que resisten al agua más fuerte quando llueve: se agujerean las orejas, las narices y el labio inferior; se tiñen el cuerpo de color obscuro, pegándose con miel gran porción de plumas; las sandalias que usan son de la corteza del fruto que llaman aguay: quando muere el padre o la madre de alguno expresan su dolor con quitarse los cabellos: comen la carne humana con mucho apetito, y si malpare alguna muger devoran al instante el feto: sus principales armas son el arco y las flechas, con las quales son tan diestros que matan las aves al vuelo; algunos no usan estas, pero arrojan dardos con una seguridad increíble, y otros no llevan más que una clava de madera fortísima en forma de punta al un extremo, y la manejan con mucho valor; su instrumento marcial es una especie de trompa hecha de algún hueso humano o del cuerno de algún animal: sin embargo de ser estos <humanGroup type="social_group">Indios</humanGroup> los más robustos no son los mejores soldados de los Brasilianos; andan siempre vagantes mudando <zbr/>
+TAPUYES, <Concept_Group>Nación bárbara de Indios</Concept_Group> la más numerosa de las que habitan el <Territory>Brasil</Territory>, esparcida por grande espacio de terreno hacia Poniente, se divide en muchas <Concept_Group>Tribus</Concept_Group>, <Concept_District>Cantones</Concept_District> o <Concept_Territory>Gobiernos</Concept_Territory>, cada uno de los quales tiene su Rey particular, son los más grandes y más robustos de todos los Brasilianos, y en algunas cosas también los más bárbaros; son de color obscuro, tienen los cabellos largos y negros tendidos sobre la espalda, y se afeytan desde la fuente hasta las orejas y todo el cuerpo, sin exceptuar las cejas: sus Reyes tienen por distinción rapada la cabeza en forma de corona, y las uñas de los dedos muy largas; ambos sexos van desnudos, a excepción de una faxa pequeña que llevan al rededor de la cintura: los hombres se ponen comunmente plumas en la cabeza pegadas en la frente con miel silvestre, eligiendo las de los páxaros más delicados; texen mantas de hilo de algodón al ##modo de redes tan fuertemente unidas con plumas que resisten al agua más fuerte quando llueve: se agujerean las orejas, las narices y el labio inferior; se tiñen el cuerpo de color obscuro, pegándose con miel gran porción de plumas; las sandalias que usan son de la corteza del fruto que llaman aguay: quando muere el padre o la madre de alguno expresan su dolor con quitarse los cabellos: comen la carne humana con mucho apetito, y si malpare alguna muger devoran al instante el feto: sus principales armas son el arco y las flechas, con las quales son tan diestros que matan las aves al vuelo; algunos no usan estas, pero arrojan dardos con una seguridad increíble, y otros no llevan más que una clava de madera fortísima en forma de punta al un extremo, y la manejan con mucho valor; su instrumento marcial es una especie de trompa hecha de algún hueso humano o del cuerno de algún animal: sin embargo de ser estos <humanGroup type="social_group">Indios</humanGroup> los más robustos no son los mejores soldados de los Brasilianos; andan siempre vagantes mudando <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0044@@@<zbr/>
 <zbr/>
@@ -1343,8 +1344,8 @@ TARMA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Cor
 @@@Alcedo_vol_5-0050@@@<zbr/>
 <zbr/>
 #Huamalies y <Territory>Guanuco</Territory>, por el E con las <Concept_Landmark>montañas</Concept_Landmark> de los <Concept_Group>Indios infieles</Concept_Group>, por el Sur con la de <Territory>Xauja</Territory>, por el SO con la de <Territory>Guarochiri</Territory>, por el O con la de <Territory>Canta</Territory> y por el NO con la de <Territory>Caxatambo</Territory>, y también confina por el O con un girón que hace por el <Concept_Territory>territorio</Concept_Territory> de <Territory>Checras</Territory> la de <Territory>Chancay</Territory>; su temperamento es generalmente frío, y así casi toda su subsistencia la tiene de otras <Concept_Territory>Provincias</Concept_Territory>: con todo produce algún maíz y bastantes papas; pero es abundantísima de ganados, de cuyas lanas fabrica mucha ropa de la tierra, que es su principal comercio: tiene muchas <Concept_Landmark>minas</Concept_Landmark> que se trabajan con bastante utilidad, particularmente en el célebre mineral de <Landmark>Lauricocha</Landmark> que tiene más de sesenta ingenios para su beneficio y pero descaecieron mucho con el motivo de la sublevación de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Chunchos</humanGroup> en esta <Concept_Territory>Provincia</Concept_Territory> el año de 1742 que destruyeron algunos <Concept_Settlement>Pueblos</Concept_Settlement> como el de <Settlement>Huancabamba</Settlement> que estaba en la <Concept_Landmark>montaña</Concept_Landmark>, y desde entonces no se saca de ella nada de lo que le producía antes, como maderas, coca, frutas y legumbres, sin embargo de ha##berla pacificado el Mariscal de Campo Don <persName>Joseph de Llamas</persName>, <persName>Marqués de Mena Hermosa</persName>, que se hallaba de General del <Settlement>Callao</Settlement>, y <Concept_Landmark>Cabo</Concept_Landmark> principal de las Armas del <Territory>Perú</Territory>, a quien envió el Virrey <persName>Conde de Superunda</persName>, y construyó para seguridad de la <Concept_Territory>Provincia</Concept_Territory> en adelante diferentes fuertes que contienen a los <humanGroup type="social_group">Indios</humanGroup> de la <Concept_Landmark>montaña</Concept_Landmark>: riéganla varios <Concept_Landmark>ríos</Concept_Landmark>, y los principales son el de <Landmark>Parí</Landmark> que nace en ella de una <Concept_Landmark>laguna</Concept_Landmark> llamada <Landmark>Chinchaycocha</Landmark>, que tiene 9 leguas de largo y 3 de ancho; este <Concept_Landmark>río</Concept_Landmark> corre al Sur, y han creído muchos que es el origen del <Landmark>Marañon</Landmark>, y le dan este nombre porque atravesando por lo largo la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Xauja</Territory> y llegando a la de <Territory>Guanuco</Territory> recoge las aguas de otros muchos, y se hace muy grande y caudaloso: otro <Concept_Landmark>río</Concept_Landmark> corre por el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Rancas</Settlement>, anexo del <Concept_District>Curato</Concept_District> del de <Settlement>Pasco</Settlement>, que tiene su origen de los <Concept_Landmark>arroyos</Concept_Landmark> de las vertientes de la <Concept_Landmark>Cordillera</Concept_Landmark>, y se une con el otro: hacia la parte del Norte, cerca de la <Concept_Landmark>laguna</Concept_Landmark> llamada <Landmark>Lauricocha</Landmark>, sale otro pequeño <Concept_Landmark>río</Concept_Landmark> que pasa por la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guamalies</Territory> corriendo al N, que según el <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0051@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0051@@@<zbr/>
 <zbr/>
 #P. Samuel Fritz, sabio Misionero Alemán, es el verdadero origen del Marañon: tenía este Corregmiento de repartimiento 200.000 pesos, y pagaba de alcavala su Corregidor 400 cada año, de que se infiere lo muy poblada que está, y prueba ##la lista de <Concept_Settlement>Pueblos</Concept_Settlement> que sigue, de quien <zbr/>
 <zbr/>
@@ -1513,7 +1514,7 @@ TAUCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>
 Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> en la <Territory>Nueva Andalucía</Territory>, entra en el de <Landmark>Caura</Landmark> cerca de su boca. <zbr/>
 <zbr/>
 §§§id_15841§§§<zbr/>
-TAUCAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> del <Territory>Perú</Territory> que habita a Levante de la de los <humanGroup type="indigenous_group">Chiquitos</humanGroup>, algunas tribus de los quales llegan <zbr/>
+TAUCAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> del <Territory>Perú</Territory> que habita a Levante de la de los <humanGroup type="indigenous_group">Chiquitos</humanGroup>, algunas <Concept_Group>tribus</Concept_Group> de los quales llegan <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0055@@@<zbr/>
 <zbr/>
@@ -1642,7 +1643,7 @@ TECALI, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Al
 <zbr/>
 @@@Alcedo_vol_5-0060@@@<zbr/>
 <zbr/>
-#aplicados fabrican mantas de algodón y otros texidos con que hacen su comercio, y especialmente de esteras de palma y canastos, de que abastece casi todo el <Concept_Territory>Reyno</Concept_Territory>, pues aunque los hacen en otras partes los de ésta son más estimados: hay también una cantera de marmol, entre cuyas betas se encuentra mucha de color verde y blanca, de que fabrican muchas curiosidades, aras para altares y clarabo##yas tan claras como si fueran de vidrio, y de las de otros colores tablas para mesas: esta <Concept_Territory>jurisdicción</Concept_Territory> se divide en dos <Concept_District>partidos</Concept_District> o parcialidades a quienes estan sujetos diez y siete <Concept_Settlement>Pueblos</Concept_Settlement>, los siete a la parte de Poniente, cinco a la del N, y dos a la del <Territory>Sur</Territory>, en que se cuentan mil trescientas quarenta y siete familias, en medio de las quales está la <Concept_Settlement>Capital</Concept_Settlement> como en el centro, y son <zbr/>
+#aplicados fabrican mantas de algodón y otros texidos con que hacen su comercio, y especialmente de esteras de palma y canastos, de que abastece casi todo el <Concept_Territory>Reyno</Concept_Territory>, pues aunque los hacen en otras partes los de ésta son más estimados: hay también una cantera de marmol, entre cuyas betas se encuentra mucha de color verde y blanca, de que fabrican muchas curiosidades, aras para altares y clarabo##yas tan claras como si fueran de vidrio, y de las de otros colores tablas para mesas: esta <Concept_Territory>jurisdicción</Concept_Territory> se divide en dos <Concept_District>partidos</Concept_District> o <Concept_Group>parcialidades</Concept_Group> a quienes estan sujetos diez y siete <Concept_Settlement>Pueblos</Concept_Settlement>, los siete a la parte de Poniente, cinco a la del N, y dos a la del <Territory>Sur</Territory>, en que se cuentan mil trescientas quarenta y siete familias, en medio de las quales está la <Concept_Settlement>Capital</Concept_Settlement> como en el centro, y son <zbr/>
 <zbr/>
 ßßß<zbr/>
 #<Settlement>Santa María Toxtepec</Settlement>. <zbr/>
@@ -2092,8 +2093,8 @@ TENANZINCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settl
 <zbr/>
 §§§id_15977§§§<zbr/>
 TENAYUCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tacuba</Territory> en <Territory>Nueva España</Territory>, fue antiguamente una de las mejores poblaciones del <Concept_Territory>Reyno</Concept_Territory>, <Concept_Settlement>Capital</Concept_Settlement> del Imperio de los <humanGroup type="indigenous_group">Chichimecos</humanGroup>, y donde tenía su Palacio y Corte el Emperador <persName>Xiloc</persName>, entonces llegaba hasta allí la <Concept_Landmark>laguna</Concept_Landmark>: después de la conquista por los <humanGroup type="political_group">Españoles</humanGroup> era una de las <Concept_Territory>Al<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0076@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0076@@@<zbr/>
 <zbr/>
 #caldías mayores</Concept_Territory> más apreciadas por su utilidad; pero la injuria del tiempo lo ha reducido a una miserable <Concept_Settlement>población</Concept_Settlement>, situada en la falda de una <Concept_Landmark>montaña</Concept_Landmark> que es cantera de piedra, de donde sacan y cortan grandes losas para enlosar los patios que llaman tenayucas, por lo qual le viene la denominación al <Concept_Settlement>Pueblo</Concept_Settlement> que tiene 160 familias: dista de <Settlement>México</Settlement> 3 leguas al NNO. <zbr/>
 <zbr/>
@@ -2191,7 +2192,7 @@ TEOPANTLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlemen
 TEOPARI, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>. <zbr/>
 <zbr/>
 §§§id_16005§§§<zbr/>
-TEOPIXCA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, fue <Concept_District>Curato</Concept_District> y Doctrina de los Religiosos de Sto. Domingo que construyeron en ella una hermosa Iglesia que es la Parroquial, su vecindario que es numeroso se compone todo de <humanGroup type="social_group">Indios</humanGroup> muy exercitados y diestros en montar a caballo, la <Concept_Settlement>Población</Concept_Settlement> es grande, y pasa por la principal después de la <Concept_Settlement>Capital</Concept_Settlement>, de donde dista 6 leguas. <zbr/>
+TEOPIXCA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, fue <Concept_District>Curato</Concept_District> y <Concept_District>Doctrina</Concept_District> de los Religiosos de Sto. Domingo que construyeron en ella una hermosa Iglesia que es la Parroquial, su vecindario que es numeroso se compone todo de <humanGroup type="social_group">Indios</humanGroup> muy exercitados y diestros en montar a caballo, la <Concept_Settlement>Población</Concept_Settlement> es grande, y pasa por la principal después de la <Concept_Settlement>Capital</Concept_Settlement>, de donde dista 6 leguas. <zbr/>
 <zbr/>
 §§§id_16006§§§<zbr/>
 TEOPUXCO, Santa María de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Teutitlan</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuicatlan</Territory> en <Territory>Nueva España</Territory>, tiene 98 familias de <humanGroup type="social_group">Indios</humanGroup> que comercian en grana, semillas y texidos de algodón, es de temperamento frío y <zbr/>
@@ -2753,8 +2754,8 @@ TERESEN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territor
 <zbr/>
 §§§id_16119§§§<zbr/>
 TERMINOS, Laguna de) en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Yucatán</Territory>, le dio este nombre el Piloto <persName>Antón de Alaminos</persName>, que la descubrió en el viage que hizo con el Capitán <persName>Juan de Grijalva</persName> el año de 1518, porque desagua al <Concept_Landmark>mar</Concept_Landmark>, y creyó que <Territory>Yucatán</Territory> era <Concept_Landmark>Isla</Concept_Landmark> y aquel <Concept_Landmark>desagüe</Concept_Landmark> el término: esta boca es un <Concept_Landmark>puerto</Concept_Landmark> seguro <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0101@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0101@@@<zbr/>
 <zbr/>
 #en que se han librado de perderse muchas embarcaciones, estaban llenas sus orillas de adoratorios e ídolos, y de mucha caza. <zbr/>
 <zbr/>
@@ -3491,8 +3492,8 @@ TICOMAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settleme
 <zbr/>
 §§§id_16297§§§<zbr/>
 TICONDERAGO, <Concept_Structure>Fuerte</Concept_Structure> construido por los <humanGroup type="political_group">Franceses</humanGroup> en la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, en el estrecho paso o comunicación que hay entre los dos <Concept_Landmark>lagos</Concept_Landmark> <Landmark>George</Landmark> y <Landmark>Champlain</Landmark>, tiene todas las ventajas de la naturaleza y del arte, defendido por <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0126@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0126@@@<zbr/>
 <zbr/>
 #tres lados de agua rodeada de <Concept_Landmark>peñas</Concept_Landmark>, y la mitad del quarto por una <Concept_Landmark>playa</Concept_Landmark>, donde hicieron los <humanGroup type="political_group">Franceses</humanGroup> una obra exterior de nueve pies de alto: en la guerra que sostuvieron las <Concept_Territory>Colonias</Concept_Territory> <humanGroup type="political_group">Inglesas</humanGroup> de la <Territory>América</Territory> y los <humanGroup type="political_group">Franceses</humanGroup> contra la <LOC>Inglaterra</LOC> abandonaron estos este importante <Concept_Landmark>Puerto</Concept_Landmark>, de que se apoderó el General <persName>Howe</persName> el año de 1777; pero los <humanGroup type="political_group">Franceses</humanGroup> lo recobraron pocos días después en una acción donde perdieron los <humanGroup type="political_group">Ingleses</humanGroup> mucha gente y embarcaciones. <zbr/>
 <zbr/>
@@ -4192,8 +4193,8 @@ TLANECHICO, San Lucas de) <Concept_Settlement>Pueblo</Concept_Settlement> de la 
 <zbr/>
 §§§id_16482§§§<zbr/>
 TLANICOTLA, San Simón de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guejozingo</Territory>, tiene 30 familias de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0151@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0151@@@<zbr/>
 <zbr/>
 §§§id_16483§§§<zbr/>
 #TLAOLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guauchinango</Territory>, tiene un Convento de Religiosos de San Agustín y 407 familias de <humanGroup type="social_group">Indios</humanGroup> con los que habitan en siete <Concept_Settlement>Pueblecillos</Concept_Settlement> cortos de su <Concept_District>distrito</Concept_District>, que se mantienen de sembrar semillas, algodón y cortar maderas: está 5 leguas al S de la <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
@@ -4947,8 +4948,8 @@ TONUSCO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Prov
 <zbr/>
 §§§id_16649§§§<zbr/>
 TOPACURO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Seara</Territory> en el <Territory>Brasil</Territory>, corre al N, y sale al <Concept_Landmark>mar</Concept_Landmark> <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0176@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0176@@@<zbr/>
 <zbr/>
 #entre el de <Landmark>Josari</Landmark> y el de <Landmark>Iguarasú</Landmark>. <zbr/>
 <zbr/>
@@ -5610,8 +5611,8 @@ TRUXILLO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>
 <zbr/>
 §§§id_16835§§§<zbr/>
 La <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Ciudad</Concept_Settlement> <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0201@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0201@@@<zbr/>
 <zbr/>
 #del mismo nombre, Cabeza de <Concept_Territory>Obispado</Concept_Territory> sufragáneo de <Settlement>Lima</Settlement>, erigido por <persName>Paulo V</persName> el año de 1609; la fundó D. <persName>Francisco Pizarro</persName>, Marqués de los Charcas y Atavillos, conquistador del <Territory>Perú</Territory>, el año de 1535, dándole el nombre en memoria de su patria en <Territory>Extremadura</Territory>, en un agradable y hermoso <Concept_Landmark>llano</Concept_Landmark> llamado de <Landmark>Chimú</Landmark>, por haber sido todo el <Concept_Territory>territorio</Concept_Territory> de un Regulo así llamado, que quiere decir poderoso señor; es muy abundante en trigo y azúcar, de que hacen exquisitos dulces que forman el principal renglón de su comercio; es de temperamento cálido y seco, pero muy benigno y sano; el suelo es arenoso, y por eso incómodo para andar, y la <Concept_Settlement>Población</Concept_Settlement>, de figura oval, cercada de una muralla de adobe que mandó hacer el Virrey <persName>Duque de la Palata</persName>, y contiene quince baluartes y otras tantas cortinas; las calles son de trece varas de ancho, tiradas a cordel, y las casas hermosas, labradas con magnificencia y primor; tiene además de la Catedral tres <Concept_District>Parroquias</Concept_District>, que son Santa Ana, San Sebastián y San Estevan, Conventos de Religiosos de las Orde##nes de San Francisco, Santo Domingo, la Merced, San Agustín, Colegio que fue de los Regulares de la Compañía y Hospital de Betletmitas, Monasterios de Religiosas de Santa Clara y de Carmelitas Descalzas, y un Colegio Seminario: ha padecido mucho con varios terremotos, primero el día 14 de Febrero de 1619, en cuya memoria votó la <Concept_Settlement>Ciudad</Concept_Settlement> por su Patrono a San Valentín; el día 6 de Enero de 1625, el 20 de Octubre de 1687, y el 2 de Septiembre de 1759: en su <Concept_District>distrito</Concept_District> se han hallado muchas riquezas de las que ocultaron en <Settlement>Huacas</Settlement> los <humanGroup type="social_group">Indios</humanGroup> a la entrada de los <humanGroup type="political_group">Españoles</humanGroup>, y especialmente el que halló <persName>Juan Gutiérrez de Toledo</persName> el año de 1576, que le produxo al Rey del quinto que le tocaba 58527 castellanos de oro: pasa distante una legua el <Concept_Landmark>río</Concept_Landmark> <Landmark>Mocha</Landmark> que fertiliza su <Concept_District>distrito</Concept_District>, y de donde se trae por conductos el agua a la <Concept_Settlement>Ciudad</Concept_Settlement>, así para el consumo público como para regar las huertas y jardines: sus habitantes, que son más de 9000, entre quienes se cuentan muchas familias ilustres descendientes de los conquistadores, son <zbr/>
 <zbr/>
@@ -6046,8 +6047,8 @@ TUINAITA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Terr
 <zbr/>
 §§§id_16900§§§<zbr/>
 TUINAMANES, <Concept_Group>Nación bárbara de Indios</Concept_Group> que habita la antigua <Concept_Territory>Provincia</Concept_Territory> de <Territory>Catapararo</Territory> en los <Concept_Landmark>bosques</Concept_Landmark> <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0226@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0226@@@<zbr/>
 <zbr/>
 #al Mediodía del <Concept_Landmark>río</Concept_Landmark> <Landmark>Caquetá</Landmark>, se extiende hasta el origen del <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>, pero hay pocas noticias de sus costumbres. <zbr/>
 <zbr/>
@@ -6706,7 +6707,7 @@ UBARANA, Ensenada de) en la <Concept_Landmark>Costa</Concept_Landmark> de la <Co
 Tiene el mismo nombre una <Concept_Landmark>punta de tierra</Concept_Landmark> que es una de las que forman la <Concept_Landmark>Ensenada</Concept_Landmark> anterior. <zbr/>
 <zbr/>
 §§§id_17050§§§<zbr/>
-UBATE, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> del <Concept_Territory>Corregimiento</Concept_Territory> de este nombre en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero sin exceso; produce con abundancia los frutos de este clima, y especialmente trigo, maíz, papas, manzanas y cebada: en su Iglesia se venera una milagrosa Imagen de Christo crucificado, a cuyo <Concept_Structure>Santuario</Concept_Structure> vienen de otras <Concept_Territory>Provincias</Concept_Territory> llamados de la devoción; tiene más de 1.000 vecinos, y fue uno de los primeros <Concept_Settlement>Pueblos</Concept_Settlement> del <Concept_Territory>Reyno</Concept_Territory> que convirtieron a la Religión los Misioneros del Orden de San Francisco, de quienes fue <Concept_District>Curato</Concept_District> y Doctrina muchos años; está 12 <zbr/>
+UBATE, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> del <Concept_Territory>Corregimiento</Concept_Territory> de este nombre en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero sin exceso; produce con abundancia los frutos de este clima, y especialmente trigo, maíz, papas, manzanas y cebada: en su Iglesia se venera una milagrosa Imagen de Christo crucificado, a cuyo <Concept_Structure>Santuario</Concept_Structure> vienen de otras <Concept_Territory>Provincias</Concept_Territory> llamados de la devoción; tiene más de 1.000 vecinos, y fue uno de los primeros <Concept_Settlement>Pueblos</Concept_Settlement> del <Concept_Territory>Reyno</Concept_Territory> que convirtieron a la Religión los Misioneros del Orden de San Francisco, de quienes fue <Concept_District>Curato</Concept_District> y <Concept_District>Doctrina</Concept_District> muchos años; está 12 <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0249@@@<zbr/>
 <zbr/>
@@ -6754,8 +6755,8 @@ UCAREO, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Ca
 <zbr/>
 §§§id_17062§§§<zbr/>
 UCAYALE, <Concept_Landmark>Río</Concept_Landmark> caudalosísimo y navegable, el mayor de los que entran en el <Landmark>Marañon</Landmark>, y según algunos más grande que este en su boca, tiene su origen de una gran <Concept_Landmark>laguna</Concept_Landmark> en las <Concept_Landmark>montañas</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guanuco</Territory> en el <Territory>Perú</Territory>, corre primero al Mediodía, luego tuerce su curso a Levante, y después de muchos rodeos vuelve al N, forma muchas <Concept_Landmark>Islas</Concept_Landmark> y <Concept_Landmark>lagunas</Concept_Landmark> en que hay multitud de caimanes y tortugas; entre los muchos <Concept_Landmark>ríos</Concept_Landmark> que recoge en su curso son los <Landmark>Paucartambo</Landmark>, <Landmark>Manua</Landmark>, <Landmark>Sarayacu</Landmark>, <Landmark>Cassavatay</Landmark> y <Landmark>Tapissi</Landmark>, según las observaciones modernas corre más de 200 leguas; en los <Concept_Landmark>bosques</Concept_Landmark> inmediatos a él viven las <Concept_Group>Naciones</Concept_Group> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Piros</humanGroup>, <humanGroup type="indigenous_group">Cunivos</humanGroup> y <humanGroup type="indigenous_group">Cocamas</humanGroup>, que se habían reducido la mayor parte por medio de los Misioneros Jesuítas de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Quito</Territory>, pero improvisamente se sublevaron, dieron muerte al Padre En<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0251@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0251@@@<zbr/>
 <zbr/>
 #rique Ricter, a un Clérigo llamado <persName>Vázquez</persName>, y se retiraron a los <Concept_Landmark>montes</Concept_Landmark>, y aunque se intentó nuevamente reducirlos primero el año de 1695, y después el de 1764, no se pudo conseguir: entra como hemos dicho en el <Landmark>Marañon</Landmark> este <Concept_Landmark>río</Concept_Landmark> <Landmark>Ucayale</Landmark> por la banda del Mediodía en 4 gr. 5 min. de lat. aust. <zbr/>
 <zbr/>
@@ -7415,7 +7416,7 @@ VALLES, <Concept_Territory>Jurisdicción</Concept_Territory> y <Concept_Territor
 #ces, de que fabrican azúcar de piloncillo en muchos <Concept_Settlement>Pueblos</Concept_Settlement>, hacen costales de pita, esteras de junco, y cestas, de que hacen su comercio con las demás <Concept_Territory>Provincias</Concept_Territory>. <zbr/>
 <zbr/>
 §§§id_17253§§§<zbr/>
-La <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Villa</Concept_Settlement> del mismo nombre fundada en un hermoso <Concept_Landmark>llano</Concept_Landmark> a la orilla de un <Concept_Landmark>río</Concept_Landmark> que baxa de una encumbrada sierra, es de temperamento cálido y húmedo, tiene de vecindario 242 familias, la mayor ##parte de <humanGroup type="social_group">Españoles</humanGroup>, y las otras de <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup> que mucho tiempo del año viven en las <Concept_Structure>haciendas</Concept_Structure>, y 75 de <humanGroup type="social_group">Indios</humanGroup>; era antes <Concept_District>Curato</Concept_District> y Doctrina de los Religiosos de San Francisco de la Custodia de <Settlement>Tampico</Settlement>, está 140 leguas al N de <Settlement>México</Settlement> en 275 gr. 9 min. de long. y en 23 gr. 5 min. de lat. los demás <Concept_Settlement>Pueblos</Concept_Settlement> de este <Concept_District>partido</Concept_District> son los siguientes: <zbr/>
+La <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Villa</Concept_Settlement> del mismo nombre fundada en un hermoso <Concept_Landmark>llano</Concept_Landmark> a la orilla de un <Concept_Landmark>río</Concept_Landmark> que baxa de una encumbrada sierra, es de temperamento cálido y húmedo, tiene de vecindario 242 familias, la mayor ##parte de <humanGroup type="social_group">Españoles</humanGroup>, y las otras de <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup> que mucho tiempo del año viven en las <Concept_Structure>haciendas</Concept_Structure>, y 75 de <humanGroup type="social_group">Indios</humanGroup>; era antes <Concept_District>Curato</Concept_District> y <Concept_District>Doctrina</Concept_District> de los Religiosos de San Francisco de la Custodia de <Settlement>Tampico</Settlement>, está 140 leguas al N de <Settlement>México</Settlement> en 275 gr. 9 min. de long. y en 23 gr. 5 min. de lat. los demás <Concept_Settlement>Pueblos</Concept_Settlement> de este <Concept_District>partido</Concept_District> son los siguientes: <zbr/>
 <zbr/>
 ßßß<zbr/>
 #<Settlement>Tamoin</Settlement>. <zbr/>
@@ -7486,8 +7487,8 @@ Un <Concept_Settlement>Pueblo</Concept_Settlement> llamado también <Concept_Lan
 S. VALENTIN, <Concept_Landmark>Bahía</Concept_Landmark> de) en la <Concept_Landmark>Costa</Concept_Landmark> del O del <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Maire</Landmark>, entre el <Concept_Landmark>cabo</Concept_Landmark> del <Landmark>Buen Suceso</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> <Landmark>Mauricio</Landmark>, es descubierta y de mal fondo. <zbr/>
 <zbr/>
 §§§id_17262§§§ <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0276@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0276@@@<zbr/>
 <zbr/>
 #Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> que corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> anterior. <zbr/>
 <zbr/>
@@ -8258,8 +8259,8 @@ VERTE, <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Landmark>Costa
 <zbr/>
 §§§id_17381§§§<zbr/>
 Tiene el mismo nombre <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0301@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0301@@@<zbr/>
 <zbr/>
 #otra <Concept_Landmark>bahía</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en los <Territory>Estados Unidos de la América</Territory> en el <Concept_Landmark>estrecho</Concept_Landmark> que forma con la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Juan</Landmark>. <zbr/>
 <zbr/>
@@ -9094,8 +9095,8 @@ VIZARRON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territo
 <zbr/>
 §§§id_17535§§§<zbr/>
 VIZCAYA, Nueva) <Concept_Territory>Reyno</Concept_Territory> de la <Territory>América Septentrional</Territory>, confina por el N con el del <Territory>Nuevo México</Territory>, por el Sur con el de la <Territory>Nueva Galicia</Territory>, por el E con el del <Territory>Nuevo León</Territory>, y por el O con las <LOC>Californias</LOC>; tiene 200 leguas de largo N S desde el <Concept_Settlement>Real de Minas</Concept_Settlement> de <Settlement>Chalchihuites</Settlement> hasta el <Concept_Settlement>presidio</Concept_Settlement> del paso del <Landmark>Norte</Landmark>, y casi otras tantas de ancho, comprehende las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Tepeguana</Territory>, <Territory>Taraumara</Territory>, <Territory>Batopilas</Territory>, <Territory>Sinaloa</Territory>, <Territory>Culiacán</Territory>, <Territory>Ostimuri</Territory>, <LOC>Sonora</LOC>, <LOC>Pimería alta</LOC> y baxa, y <Territory>Chiametlán</Territory>, en cuyos artículos hemos dado noticia de sus climas, producciones, situación y comercio; atraviesa y riega este dilatado <Concept_Territory>país</Concept_Territory> el caudaloso <Concept_Landmark>río</Concept_Landmark> de las <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0326@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0326@@@<zbr/>
 <zbr/>
 #Nasas, que es muy grande: pobló este <Concept_Territory>Reyno</Concept_Territory> el Capitán <persName>Francisco de Ibarra</persName> en tiempo del Virrey Don <persName>Luis de Velasco</persName>, <persName>Marqués de Salinas</persName>, y reduxeron a sus naturales a la Religión los Regulares de ##la Compañía, pero se han sublevado en diferentes ocasiones; confina con los <Concept_Group>Indios bárbaros</Concept_Group> <humanGroup type="indigenous_group">Chichimecas</humanGroup>, contra los quales se establecieron cinco <Concept_Settlement>presidios</Concept_Settlement> en la frontera con los nombres de <zbr/>
 <zbr/>
@@ -9219,7 +9220,7 @@ WALES <Territory>Nueva Septentrional</Territory>, <Concept_Territory>País</Conc
 #hía, a quien por este engaño llamó de la Repulsa. <zbr/>
 <zbr/>
 §§§id_17556a§§§<zbr/>
-Tiene el mismo nombre con el aditamento de Meridional para distinguirlo del anterior otro <Concept_Territory>país</Concept_Territory> dilatado de la <Territory>América</Territory>, al rededor de la parte meridional de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark>, que tiene más de 100 leguas, confina por el E y por él S con la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, por el O con unas tierras desconocidas que habitan muchas tribus de <humanGroup type="social_group">Indios</humanGroup>; no se puede decir con toda certidumbre su extensión, porque los <humanGroup type="political_group">Ingleses</humanGroup>, que son los únicos que comercian allí, no tienen ningún <Concept_Settlement>establecimiento</Concept_Settlement> en lo interior, sino en la <Concept_Landmark>Costa</Concept_Landmark>; desde el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Santa Margarita</Landmark> que entra en el de <Landmark>San Lorenzo</Landmark> hasta el de <Landmark>Ruperto</Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark> no hay más que 150 millas: el <Territory>Labrador</Territory> se llama continente oriental, y este <Concept_Territory>país</Concept_Territory> de <LOC>Nuevo Wales</LOC> continente occidental, donde tiene varios <Concept_Settlement>establecimientos</Concept_Settlement> la Compañía de <Landmark>Hudson</Landmark>: 5 o 6 leguas de él hay una <Concept_Landmark>Isla</Concept_Landmark> llamada la pequeña <LOC>Rocky</LOC>, que es un montón de <Concept_Landmark>peñascos</Concept_Landmark> en que han crecido algunos árboles, y se cubre con el <Concept_Landmark>mar</Concept_Landmark> quando soplan vien##tos del NO, que hacen mayores las pleamares allí. La <Concept_Landmark>Isla</Concept_Landmark> de <LOC>Charlton</LOC>, que es compuesta de arena blanca, está poblada de árboles, de gengibre, y otros aunque no muy grandes, y en la primavera ofrece una vista agradable a los que se acercan a ella después de un viage de tres o quatro meses en los <Concept_Landmark>mares</Concept_Landmark> más incómodos y peligrosos por las grandes <Concept_Landmark>montañas</Concept_Landmark> de yelo que hay en la <Concept_Landmark>Bahía</Concept_Landmark> y en sus <Concept_Landmark>estrechos</Concept_Landmark>, contra las quales si chocase una embarcación se haría pedazos como si fuera en <Concept_Landmark>peña</Concept_Landmark>, pues están petrificadas de la continuación de los yelos. Al ver la <Concept_Landmark>Costa</Concept_Landmark> occidental enteramente desnuda, sus <Concept_Landmark>montañas</Concept_Landmark> cubiertas de nieve, y por todas partes el hórrido aspecto de un invierno erizado, y al día siguiente la <Concept_Landmark>Isla</Concept_Landmark> de <LOC>Charlton</LOC> florida de árboles, que forma una superficie alfombrada de verde, es una mudanza capaz de excitar la alegría de qualquiera después de un viage intolerable y cruel: el ayre hasta el fondo de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark> es durante nueve meses excesivamente frio, y en los tres restantes muy cálido, excepto quando so<zbr/>
+Tiene el mismo nombre con el aditamento de Meridional para distinguirlo del anterior otro <Concept_Territory>país</Concept_Territory> dilatado de la <Territory>América</Territory>, al rededor de la parte meridional de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark>, que tiene más de 100 leguas, confina por el E y por él S con la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, por el O con unas tierras desconocidas que habitan muchas <Concept_Group>tribus de Indios</Concept_Group>; no se puede decir con toda certidumbre su extensión, porque los <humanGroup type="political_group">Ingleses</humanGroup>, que son los únicos que comercian allí, no tienen ningún <Concept_Settlement>establecimiento</Concept_Settlement> en lo interior, sino en la <Concept_Landmark>Costa</Concept_Landmark>; desde el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Santa Margarita</Landmark> que entra en el de <Landmark>San Lorenzo</Landmark> hasta el de <Landmark>Ruperto</Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark> no hay más que 150 millas: el <Territory>Labrador</Territory> se llama continente oriental, y este <Concept_Territory>país</Concept_Territory> de <LOC>Nuevo Wales</LOC> continente occidental, donde tiene varios <Concept_Settlement>establecimientos</Concept_Settlement> la Compañía de <Landmark>Hudson</Landmark>: 5 o 6 leguas de él hay una <Concept_Landmark>Isla</Concept_Landmark> llamada la pequeña <LOC>Rocky</LOC>, que es un montón de <Concept_Landmark>peñascos</Concept_Landmark> en que han crecido algunos árboles, y se cubre con el <Concept_Landmark>mar</Concept_Landmark> quando soplan vien##tos del NO, que hacen mayores las pleamares allí. La <Concept_Landmark>Isla</Concept_Landmark> de <LOC>Charlton</LOC>, que es compuesta de arena blanca, está poblada de árboles, de gengibre, y otros aunque no muy grandes, y en la primavera ofrece una vista agradable a los que se acercan a ella después de un viage de tres o quatro meses en los <Concept_Landmark>mares</Concept_Landmark> más incómodos y peligrosos por las grandes <Concept_Landmark>montañas</Concept_Landmark> de yelo que hay en la <Concept_Landmark>Bahía</Concept_Landmark> y en sus <Concept_Landmark>estrechos</Concept_Landmark>, contra las quales si chocase una embarcación se haría pedazos como si fuera en <Concept_Landmark>peña</Concept_Landmark>, pues están petrificadas de la continuación de los yelos. Al ver la <Concept_Landmark>Costa</Concept_Landmark> occidental enteramente desnuda, sus <Concept_Landmark>montañas</Concept_Landmark> cubiertas de nieve, y por todas partes el hórrido aspecto de un invierno erizado, y al día siguiente la <Concept_Landmark>Isla</Concept_Landmark> de <LOC>Charlton</LOC> florida de árboles, que forma una superficie alfombrada de verde, es una mudanza capaz de excitar la alegría de qualquiera después de un viage intolerable y cruel: el ayre hasta el fondo de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark> es durante nueve meses excesivamente frio, y en los tres restantes muy cálido, excepto quando so<zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0330@@@<zbr/>
 <zbr/>
@@ -9756,8 +9757,8 @@ Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre con el a
 <zbr/>
 §§§id_17697§§§<zbr/>
 XALATLACO, Santa María de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> y <Concept_Territory>jurisdición</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Antequera</Settlement> en <Territory>Nueva España</Territory>, situado tan inmediato a ella que so<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0351@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0351@@@<zbr/>
 <zbr/>
 #lo los divide un <Concept_Landmark>río</Concept_Landmark> que media entre las dos <Concept_Settlement>Poblaciones</Concept_Settlement>; tiene 40 familias de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, algunas de <humanGroup type="social_group">Mulatos</humanGroup>, y 380 de <humanGroup type="social_group">Indios</humanGroup>; el temperamento es templado y seco, pero los ayres muy sulfúreos y nitrosos, por lo qual se logran poco las sementeras de trigo, que se cría desmedrado, de ollejo duro y médula obscura, pero al mismo tiempo es muy fértil y abundante en maíz y otras semillas, como en grana y cochinilla, de que hace su principal comercio por la multitud que tiene de nopaleras o tunales. <zbr/>
 <zbr/>
@@ -10399,8 +10400,8 @@ XUXUPANGO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settle
 <zbr/>
 §§§id_17840§§§<zbr/>
 XUXUI, S. Salvador de) <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>, fundada el año de 1580 a la boca de una <Concept_Landmark>quebrada</Concept_Landmark> que tiene más de 30 <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0376@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0376@@@<zbr/>
 <zbr/>
 #leguas de largo, pero los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Omohuacas</humanGroup>, que algunos años antes habían abrazado la Religión Católica, se sublevaron, y repitiendo por muchos años sus incursiones la arruinaron dos veces, reedificándola otras tantas sus Gobernadores para que les sirviese de antemural, y últimamente Don <persName>Francisco Argañaráz y Murguia</persName> de orden del Gobernador D. <persName>Juan Ramírez de Velasco</persName> en el primer sitio que se fundó, que es una <Concept_Landmark>llanura</Concept_Landmark> dilatada y deliciosa; es de temperamento cálido, tiene una <Concept_District>Parroquia</Concept_District> con cinco Capillas en las inmediaciones de la <Concept_Settlement>Ciudad</Concept_Settlement>, y en esta otra, con la advocación de S. Roque, la qual sirvió de Par##roquia hasta el año de 1568 que se acabó la fábrica de esta; un Convento de Religiosos de S. Francisco, otro de la Merced, y una Casa de residencia que tenían los Regulares de la extinguida Compañía; quando se permitían internar al <Territory>Perú</Territory> las mercaderías de <LOC>Europa</LOC> desde <Territory>Buenos Ayres</Territory> se conducían en carretas hasta esta <Concept_Settlement>Ciudad</Concept_Settlement>, y de allí en mulas, con lo qual gozaban mucho lucro sus vecinos, pero ha decaído mucho con haberse suspendido esta entrada, por lo qual es ahora muy reducido su comercio de algunas semillas, vacas, caballos, mulas, y una corta porción de maderas: pertenecen a su <Concept_District>distrito</Concept_District> los <Concept_District>Curatos</Concept_District> siguientes: <zbr/>
 <zbr/>
@@ -10547,7 +10548,7 @@ YAGUACHE, <Concept_District>Partido</Concept_District> de la <Concept_Territory>
 <zbr/>
 @@@Alcedo_vol_5-0381@@@<zbr/>
 <zbr/>
-#altura y abundancia de fruto, pues cada mes echa un racimo que tiene de 12 a 16 cocos del tamaño de un melón regular, de cuya corteza hacen estopa para calafatear las embarcaciones, del hueso vasijas para los usos caseros, del agua que tienen dentro una bebida agradable al gusto y muy saludable, y de la médula, que es más blanca que la almendra, una conserva muy estimada: en las <Concept_Landmark>montañas</Concept_Landmark> que llaman de <Landmark>Bulubulu</Landmark> hay abundancia de cerdos, zahinos y jabalíes, y otras especies de caza de que hacen su provisión de carnes, aprovechando las pieles para diferentes usos: este <Concept_District>partido</Concept_District>, cuya <Concept_Territory>jurisdición</Concept_Territory> empieza desde el pie de las <Concept_Landmark>montañas</Concept_Landmark> que dividen al Sur el <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cuenca</Territory>, y al Oriente de la de <Territory>Chimbo</Territory>, comprehende parte de la antigua de los <Territory>Guancavilcas</Territory>, <Concept_Group>nación</Concept_Group> distinguida entre todas por la falta de los dos dientes superiores de en medio que se sacaban por costumbre inmemorial, y es lo que en su idioma significa aquel nombre, era una de aquellas cuyo carácter desmien##te los defectos que a todos los <humanGroup type="social_group">Indios</humanGroup> imputan generalmente algunos filósofos, pues aunque habitaba un clima muy cálido no era débil ni desnervada, sino vigorosa, robusta y de grandes fuerzas; y sin embargo de haber experimentado muy poco el yugo del imperio de los Incas del <Territory>Perú</Territory>, y nada de su instrucción, mantuvo un gobierno arreglado, sin que obstase su rusticidad para tener nobles pensamientos y acciones generosas, ni el habitar en la zona ardiente para ser una de las más guerreras y valerosas, dividida en muchas tribus numerosas, con sus Caciques diversos que formaban un Gobierno Republicano, manteniendo continua guerra con las <Concept_Territory>Provincias</Concept_Territory> altas más famosas en armas, como eran las de los <Territory>Cañares</Territory> y <Territory>Purhuayes</Territory>: recibió con ánimo noble a los <humanGroup type="political_group">Españoles</humanGroup> sin hacer guerra ni resistencia por convenio de sus Caciques, y no solo les permitió fundar la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Guayaquil</Territory>, sino que cooperó a ello; pero conociendo después que les era gravoso el dominio Español, no tanto porque les quitaban el oro que apreciaban en poco <zbr/>
+#altura y abundancia de fruto, pues cada mes echa un racimo que tiene de 12 a 16 cocos del tamaño de un melón regular, de cuya corteza hacen estopa para calafatear las embarcaciones, del hueso vasijas para los usos caseros, del agua que tienen dentro una bebida agradable al gusto y muy saludable, y de la médula, que es más blanca que la almendra, una conserva muy estimada: en las <Concept_Landmark>montañas</Concept_Landmark> que llaman de <Landmark>Bulubulu</Landmark> hay abundancia de cerdos, zahinos y jabalíes, y otras especies de caza de que hacen su provisión de carnes, aprovechando las pieles para diferentes usos: este <Concept_District>partido</Concept_District>, cuya <Concept_Territory>jurisdición</Concept_Territory> empieza desde el pie de las <Concept_Landmark>montañas</Concept_Landmark> que dividen al Sur el <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cuenca</Territory>, y al Oriente de la de <Territory>Chimbo</Territory>, comprehende parte de la antigua de los <Territory>Guancavilcas</Territory>, <Concept_Group>nación</Concept_Group> distinguida entre todas por la falta de los dos dientes superiores de en medio que se sacaban por costumbre inmemorial, y es lo que en su idioma significa aquel nombre, era una de aquellas cuyo carácter desmien##te los defectos que a todos los <humanGroup type="social_group">Indios</humanGroup> imputan generalmente algunos filósofos, pues aunque habitaba un clima muy cálido no era débil ni desnervada, sino vigorosa, robusta y de grandes fuerzas; y sin embargo de haber experimentado muy poco el yugo del imperio de los Incas del <Territory>Perú</Territory>, y nada de su instrucción, mantuvo un gobierno arreglado, sin que obstase su rusticidad para tener nobles pensamientos y acciones generosas, ni el habitar en la zona ardiente para ser una de las más guerreras y valerosas, dividida en muchas <Concept_Group>tribus</Concept_Group> numerosas, con sus Caciques diversos que formaban un Gobierno Republicano, manteniendo continua guerra con las <Concept_Territory>Provincias</Concept_Territory> altas más famosas en armas, como eran las de los <Territory>Cañares</Territory> y <Territory>Purhuayes</Territory>: recibió con ánimo noble a los <humanGroup type="political_group">Españoles</humanGroup> sin hacer guerra ni resistencia por convenio de sus Caciques, y no solo les permitió fundar la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Guayaquil</Territory>, sino que cooperó a ello; pero conociendo después que les era gravoso el dominio Español, no tanto porque les quitaban el oro que apreciaban en poco <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0382@@@<zbr/>
 <zbr/>
@@ -10757,7 +10758,7 @@ YANGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>
 YANGUA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre al O, y entra en el <Landmark>Paraná</Landmark> cerca del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Corpus Christi</Settlement>. <zbr/>
 <zbr/>
 §§§id_17935§§§<zbr/>
-YANGUITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en <Territory>Nueva España</Territory>, fue antes <Concept_Territory>Jurisdicción</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> separada, tiene un Convento de Religiosos de Santo Domingo a quienes pertenece la Doctrina y <Concept_District>Curato</Concept_District>, es todo de piedra labrada, y sobre arcos y bóvedas en que tienen que admirar todos los inteligentes, pues es la mejor <zbr/>
+YANGUITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en <Territory>Nueva España</Territory>, fue antes <Concept_Territory>Jurisdicción</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> separada, tiene un Convento de Religiosos de Santo Domingo a quienes pertenece la <Concept_District>Doctrina</Concept_District> y <Concept_District>Curato</Concept_District>, es todo de piedra labrada, y sobre arcos y bóvedas en que tienen que admirar todos los inteligentes, pues es la mejor <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0390@@@<zbr/>
 <zbr/>
@@ -11117,8 +11118,8 @@ YETZELALA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement
 <zbr/>
 §§§id_18035§§§<zbr/>
 YETZICUBI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la misma <Concept_Territory>Alcaldía mayor</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> que el anterior, es de temperamento frío, tie<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0401@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0401@@@<zbr/>
 <zbr/>
 #ne 89 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 2 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
 <zbr/>
@@ -11550,8 +11551,8 @@ ZACAPULA, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_Territory
 <zbr/>
 §§§id_18136§§§<zbr/>
 ZACATA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Asiento de Minas</Concept_Settlement> de Plata de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Juli</Settlement>, en <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0426@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0426@@@<zbr/>
 <zbr/>
 #su <Concept_District>distrito</Concept_District> tiene dos Capillas en dos <Concept_Landmark>salinas</Concept_Landmark> de que abastece toda la <Concept_Territory>Provincia</Concept_Territory>. <zbr/>
 <zbr/>
@@ -12278,8 +12279,8 @@ ZINU, <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso de la misma <
 <zbr/>
 §§§id_18292§§§<zbr/>
 Tiene el mismo nombre una <Concept_Settlement>Villa</Concept_Settlement> de esta <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory>, situada a la orilla Oriental del <Concept_Landmark>río</Concept_Landmark> anterior, era <Concept_Settlement>población</Concept_Settlement> grande en tiempo de los <humanGroup type="social_group">Indios</humanGroup>, y en ella halló mucho oro <persName>Pedro de Heredia</persName> el año de 1534, hoy está reducido a un <Concept_Settlement>Pueblo</Concept_Settlement> miserable. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5-0451@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5-0451@@@<zbr/>
 <zbr/>
 §§§id_18293§§§<zbr/>
 #ZINZI, <Concept_Settlement>Pueblo</Concept_Settlement> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> que la <Concept_Settlement>Villa</Concept_Settlement> anterior, situado al N de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Bernardo Abad</Settlement>. <zbr/>
@@ -12297,7 +12298,7 @@ ZIORICA, <Concept_Landmark>Isla</Concept_Landmark> del <Concept_Landmark>río</C
 ZIPACON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Bogotá</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento muy frío, situado en <Concept_Territory>país</Concept_Territory> áspero y montuoso, donde son muy continuas las nieblas, está cerca del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Facativa</Settlement>, y a espaldas del de <Settlement>Bojaca</Settlement>, 8 leguas al SO de <Settlement>Santa Fe</Settlement>. <zbr/>
 <zbr/>
 §§§id_18298§§§<zbr/>
-ZIPAQUIRA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> del <Concept_Territory>Corregimiento</Concept_Territory> de su nombre en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero benigno y sano, situado en una hermosa y agradable <Concept_Landmark>llanura</Concept_Landmark>, produce con abundancia trigo, maíz, cebada, papas y legumbres, que vende para las demás <Concept_Territory>Provincias</Concept_Territory>, con lo que hace ##un lucroso comercio en el mercado que celebra cada cinco días, tiene unas abundantísimas <Concept_Landmark>salinas</Concept_Landmark> de que saca 20.000 fanegas de sal cada año, su vecindario se compone de más de 800 vecinos y 80 <humanGroup type="social_group">Indios</humanGroup>, fue doctrina de los Religiosos de San Francisco; está 4 leguas al N de <Settlement>Santa Fe</Settlement>. <zbr/>
+ZIPAQUIRA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> del <Concept_Territory>Corregimiento</Concept_Territory> de su nombre en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero benigno y sano, situado en una hermosa y agradable <Concept_Landmark>llanura</Concept_Landmark>, produce con abundancia trigo, maíz, cebada, papas y legumbres, que vende para las demás <Concept_Territory>Provincias</Concept_Territory>, con lo que hace ##un lucroso comercio en el mercado que celebra cada cinco días, tiene unas abundantísimas <Concept_Landmark>salinas</Concept_Landmark> de que saca 20.000 fanegas de sal cada año, su vecindario se compone de más de 800 vecinos y 80 <humanGroup type="social_group">Indios</humanGroup>, fue <Concept_District>doctrina</Concept_District> de los Religiosos de San Francisco; está 4 leguas al N de <Settlement>Santa Fe</Settlement>. <zbr/>
 <zbr/>
 §§§id_18299§§§<zbr/>
 ZIPATALIGUARIS, <Concept_Group>Nación bárbara de Indios</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, descendiente de la de los <humanGroup type="indigenous_group">Xarayes</humanGroup>, confina por el Mediodía con la de los <humanGroup type="indigenous_group">Taicomas</humanGroup>, por el N con las de los <humanGroup type="indigenous_group">Gorgotoques</humanGroup> y de los <humanGroup type="indigenous_group">Varais</humanGroup>, y por el Poniente con las <Concept_Landmark>montañas</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Cruz de la Sierra</Territory>. <zbr/>
@@ -13072,8 +13073,8 @@ ___REYNO DE LA NUEVA ESPAÑA.___<zbr/>
 ##<Territory>Cuba</Territory>.<zbr/>
 <Territory>Florida</Territory>.<zbr/>
 <Territory>Luisiana</Territory>. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0001@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0001@@@<zbr/>
 <zbr/>
 #___VOCABULARIODE LAS VOCES PROVINCIALES DE LA AMERICA___<zbr/>
 ___Usadas en el Diccionario Geográfico-Historico de ella; y de los Nombres propios de plantas. aves y animales.___ <zbr/>
@@ -13427,8 +13428,8 @@ Una Culebra hay también llamada así por la semejanza que tiene con el Bejuco e
 §§§id_18449§§§<zbr/>
 BEJUQUILLO. <zbr/>
 Planta que tiene la hoja quasi redonda, y bastante grande, cuyas ramas o nervios van siempre ganando terreno como la hiedra, haciendo raices en los artículos y cosiéndose con ellos al dilatarse: este nervio o bejuco tomado quando más en cantidad de un adarme, es en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Mainas</Territory> un purgante violentísimo: el que se conoce en <Territory>Europa</Territory> con nombre de Bejuquillo es la Hi<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0026@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0026@@@<zbr/>
 <zbr/>
 #pecacuana, y también se le da en algunas partes de <Territory>América</Territory>. <zbr/>
 <zbr/>
@@ -13731,7 +13732,7 @@ Nombre genérico que dan a toda especie de monos <zbr/>
 <zbr/>
 @@@Alcedo_vol_5_americanismes-0045@@@<zbr/>
 <zbr/>
-#los <humanGroup type="social_group">Indios</humanGroup> de la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Paraguay</Territory>, donde hay muchísimos de diferentes castas. <zbr/>
+#los <humanGroup type="social_group">Indios</humanGroup> de la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Paraguay</Territory>, donde hay muchísimos de diferentes <Concept_Group>castas</Concept_Group>. <zbr/>
 <zbr/>
 §§§id_18509a§§§<zbr/>
 CARDENAL (''Loxia Cardinalis''). <zbr/>
@@ -14292,8 +14293,8 @@ Nombre que dan los <humanGroup type="political_group">Holandeses</humanGroup> en
 §§§id_18626§§§<zbr/>
 DAINO. <zbr/>
 Gamo pequeño de la <Territory>América Septentrional</Territory>: se cría en las <Concept_Territory>Provincias</Concept_Territory> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>: los <humanGroup type="social_group">Indios</humanGroup> hacen mucha caza de ellos para aprovechar las pieles de que curten gamuzas muy finas y estimadas en la <Territory>Europa</Territory>, de que hacen gran comercio con los <humanGroup type="political_group">Ingleses</humanGroup> y <humanGroup type="political_group">Franceses</humanGroup>. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0076@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0076@@@<zbr/>
 <zbr/>
 §§§id_18627§§§<zbr/>
 #DAMA. <zbr/>
@@ -14751,8 +14752,8 @@ LEÑO JABON. <zbr/>
 §§§id_18721§§§<zbr/>
 LEON MARINO (''Phoca Leonina''). <zbr/>
 Tiene el cuerpo más ágil, más elegante, y más bien hecho que las demás Phocas, y aunque también es cónico y su pelo de color amarillo claro: es corto desde las espaldas hasta la cola; y largo en el cuello y en la cabeza como el de las Cabras: esta clin muy visible le da alguna conformidad exterior con el León Africano, y un derecho exclusivo para llamarle León Marino, y no al que impropiamente se le dio el Almirante <persName>Anson</persName>, y adoptó Linneo. Los <humanGroup type="social_group">Indios</humanGroup> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> le pusieron el de Thopel-Lame, que quiere decir Lame guedejudo, porque no conocían al León: se parece también a este en la hechura de la cabeza, y aun en la nariz, que es larga y aplanada, pero sin pelo desde la mitad de su largo hasta la extremidad: las orejas casi redon<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0101@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0101@@@<zbr/>
 <zbr/>
 #das se levantan como siete ú ocho lineas encima del cráneo: sus ojos muy vivos y alegres tienen las pupilas de color verdegai: le adornan el labio superior unos mostachos largos y blancos iguales a los del Tigre, y de todas las Phocas. La boca bien rasgada está guarnecida de 34 dientes tan blancos como el marfil, grandes y sólidos enteramente, y que ocultan en sus alveolas las dos tercias partes de todo su largo: los incisivos tienen 4 pulgadas, y de diámetro 18 líneas; pero los colmillos no salen fuera como los de los ''Lames'', ni se diferencia la distribución de estos dientes de la de los ''Uriñes'': los pies posteriores son palmados y tienen la misma figura y número de dedos de estos: los anteriores son ternillosos y cortos respecto de la masa del cuerpo, dividiéndose hacia su extremidad en cinco dedos armados de garras y unidos entre sí con una membrana al modo de los de la <LOC>Phoca Elephantina</LOC>. Finalmente la cola situada entre los pies posteriores, es negra y redonda, y apenas excede de un palmo de largo. La hembra mucho más pequeña que el macho carece de guedeja como la Leona, tiene dos pechos lo mismo que ésta, y pare un hijo en cada parto, al qual da de mamar con señales de verdadera ternura. Algunos les dan hasta 25 pies de largo: estos animales son muy grasos y abundantes de sangre, se arrojan al <Concept_Landmark>mar</Concept_Landmark> luego que se sienten heridos, dexando detrás de sí encima del agua, conforme se van retirando, largos rastros de sangre, que se distinguen desde lejos, y entonces los persiguen los Lames y los Uriñes, y los destrozan y devoran, lo qual no sucede a estos con otros animales en igual caso. <zbr/>
 <zbr/>
@@ -15148,8 +15149,8 @@ Mosquito de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Sa
 §§§id_18799§§§<zbr/>
 MOTAQUI. <zbr/>
 Palma de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Santa Cruz de la Sierra</Territory> en el <Territory>Perú</Territory>, de cuyas hojas se sirve la gente pobre para cubrir sus chozas en lugar de tejas: el cogollo o palmito les sirve para hacer una ensalada muy gustosa, y del corazón sacan una harina de que fabrican unas tor<zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0126@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0126@@@<zbr/>
 <zbr/>
 #tas dulces con que suplen la falta del pan; y así tienen en la mayor estimación esta planta, de que sacan tanto provecho. <zbr/>
 <zbr/>
@@ -15582,8 +15583,8 @@ Insecto pequeñísimo e imperceptible de que están cubiertos los campos o <Conc
 §§§id_18885§§§<zbr/>
 PIPIAN. <zbr/>
 Manjar que se hace en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, y en el de <Territory>Tierrafirme</Territory>. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0151@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0151@@@<zbr/>
 <zbr/>
 §§§id_18886§§§<zbr/>
 #PIQUE. <zbr/>
@@ -16081,8 +16082,8 @@ Se distingue de la de tierra en el tamaño, en ser más fea, y en sus pies para 
 §§§id_18990§§§<zbr/>
 TOTO. <zbr/>
 Ave pequeña de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>: es más chica que un pichón, y de color amarillo; pero las plumas de las alas son de un hermoso verde, y los <humanGroup type="social_group">Indios</humanGroup> las estiman tanto para sus adornos y sus galas, que texen primorosamente, que solo para utilizarse de ellas cogen este páxaro, volviéndolo a soltar luego que se las han quitado para que críe otras, por lo qual es entre ellos delito capital el matarlo. <zbr/>
-<zbr/>
-<BATCH/>@@@Alcedo_vol_5_americanismes-0176@@@<zbr/>
+<zbr/></xml><BATCH/><?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_5_americanismes-0176@@@<zbr/>
 <zbr/>
 §§§id_18991§§§<zbr/>
 #TOTORA (''Ipha Latifolia''). <zbr/>
@@ -16306,4 +16307,4 @@ ZURRON. <zbr/>
 Saco de cuero de Vaca de una vara de alto y media de ancho, cosido con tiras del mismo cuero, en que traen a <Territory>Europa</Territory> el Cacao, la Quina, el Tabaco, la Grana y otros efectos. <zbr/>
 <zbr/>
 <zbr/>
-FIN.<zbr/>
+FIN.<zbr/></xml>

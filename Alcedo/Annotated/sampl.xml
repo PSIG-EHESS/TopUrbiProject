@@ -9,7 +9,7 @@
     frutas de ##la tierra, que es lo <Landmark>único</Landmark> en que
         <Settlement>trafican</Settlement>, pues aunque antiguamente <Landmark>cogían</Landmark>
     crecidas porciones de grana, hoy no tienen este beneficio por haber dexado perder los
-        <humanGroup>Indios</humanGroup> las nopaleras que la producían, sin saberse el motivo de
+        <humanGroup type="indigenous_group">Indios</humanGroup> las nopaleras que la producían, sin saberse el motivo de
     abandonar un renglón de tanta utilidad, que es el <Settlement>fruto</Settlement> de más
     estimación en aquel <Concept_Territory>Reyno</Concept_Territory>, de que se infiere que por
     escasez de medios en sus naturales ha decaído su beneficio, pues al presente se coge tan poca
