@@ -47,8 +47,8 @@
 <zbr/>
 <zbr/>###<Settlement>Tiata</Settlement>.
 <zbr/><Settlement>Mitmas</Settlement>.
-<zbr/><Settlement>Yambrasbamba</Settlement>
-<zbr/><Settlement>.Chirta</Settlement>.
+<zbr/><Settlement>Yambrasbamba</Settlement>.
+<zbr/><Settlement>Chirta</Settlement>.
 <zbr/><Settlement>Yapa</Settlement>.
 <zbr/><Settlement>Chiliquin</Settlement>.
 <zbr/><Settlement>Goncha</Settlement>.
@@ -114,9 +114,9 @@
 <zbr/>Aquilotes.
 <zbr/>Malbalaes.
 <zbr/>Agoyas.
-<zbr/><Settlement>Amulalaes</Settlement>.
-<zbr/><Settlement>Palomos</Settlement>.
-<zbr/><Settlement>Lules</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Amulalaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Palomos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Lules</humanGroup>.
 <zbr/>Toconotes.
 <zbr/>Toquistineses.
 <zbr/>Tanuyes.
@@ -130,28 +130,28 @@
 <zbr/>Chichas.
 <zbr/>Orejones.
 <zbr/>##Guaicurues.
-<zbr/><Settlement>Callagaes</Settlement>.
-<zbr/><Settlement>Calchaquies</Settlement>.
-<zbr/><Settlement>Abipones</Settlement>.
-<zbr/><Settlement>Teutas</Settlement>.
-<zbr/><Settlement>Palalis</Settlement>.
-<zbr/><Settlement>Huarpas</Settlement>.
-<zbr/><Settlement>Taños</Settlement>.
-<zbr/><Settlement>Mogosnas</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Callagaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Calchaquies</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Abipones</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Teutas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Palalis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Huarpas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Taños</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Mogosnas</humanGroup>.
 <zbr/>Choroties.
-<zbr/><Settlement>Naparus</Settlement>.
-<zbr/><Settlement>Guanas</Settlement>.
-<zbr/><Settlement>Abayas</Settlement>.
-<zbr/><Settlement>Yapayaes</Settlement>.
-<zbr/><Settlement>Niguaraas</Settlement>.
-<zbr/><Settlement>Yvirayaras</Settlement>.
-<zbr/><Settlement>Socondues</Settlement>.
-<zbr/><Settlement>Marapanos</Settlement>.
-<zbr/><Settlement>Cipores</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Naparus</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Guanas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Abayas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yapayaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Niguaraas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yvirayaras</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Socondues</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Marapanos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Cipores</humanGroup>.
 <zbr/>Ayusequiteres.
 <zbr/>Corometes.
-<zbr/><Settlement>Taparunas</Settlement>.
-<zbr/><Settlement>Bayatuis</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Taparunas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Bayatuis</humanGroup>.
 <zbr/>
 <zbr/>###Layanos.
 <zbr/>Payaguas.

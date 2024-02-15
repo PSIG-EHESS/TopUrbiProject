@@ -44,7 +44,7 @@
 <zbr/>#lebres; pero hoy está quasi abandonado este beneficio, siendo muy poco lo que se trabajan, por haberse dedicado sus naturales más al cultivo de la grana en que abunda su <Concept_Territory>territorio</Concept_Territory> y; produce también muchas semillas y maíz; la <Concept_Territory>jurisdicción</Concept_Territory> es de las más pingues y fértiles de la <Concept_Territory>Provincia</Concept_Territory> cons##ta de 5 <Concept_Settlement>Pueblos</Concept_Settlement> Cabeceras de <Concept_District>Partido</Concept_District>, a que están sujetos otros muchos más pequeños: tiene la <Concept_Settlement>Capital</Concept_Settlement> 430 familias de <humanGroup type="social_group">Indios</humanGroup>, y algunas de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>: está 90 leguas de <Settlement>México</Settlement> entre Oriente y S en 277 grad. 30 min. de long. y 18 grad. 15 min. de lat.: los demás <Concept_Settlement>Pueblos</Concept_Settlement> son:
 <zbr/>
 <zbr/>ßßß
-<zbr/>#<Concept_Landmark>Río</Concept_Landmark> <Landmark>Hondo</Landmark> o <Settlement>Thequila</Settlement>.
+<zbr/>#<Settlement>Río Hondo</Settlement> o <Settlement>Thequila</Settlement>.
 <zbr/><Settlement>San Agustín de Losicha</Settlement>.
 <zbr/>##<Settlement>Tetipác</Settlement>.
 <zbr/><Settlement>Cozautepec</Settlement>.
@@ -133,10 +133,10 @@
 <zbr/>@@@Alcedo_vol_1-0503@@@
 <zbr/>
 <zbr/>ßßß
-<zbr/>#<LOC>Ahuehuezingo</LOC>.
-<zbr/>##<LOC>San Nicolás de Tenexcalco</LOC>. 
+<zbr/>#<Settlement>Ahuehuezingo</Settlement>.
+<zbr/>##<Settlement>San Nicolás de Tenexcalco</Settlement>. 
 <zbr/>
-<zbr/>###<LOC>Santiago de Azalan</LOC>.
+<zbr/>###<Settlement>Santiago de Azalan</Settlement>.
 <zbr/>
 <zbr/>$$$
 <zbr/>§§§id_03652§§§
@@ -198,7 +198,8 @@
 <zbr/><Settlement>Zacanhualin</Settlement>.
 <zbr/><Settlement>Tlaquilzingo</Settlement>.
 <zbr/><Settlement>Palantla</Settlement>.
-<zbr/><Settlement>Ayahualtempa</Settlement>. <Settlement>Petatlán</Settlement>.
+<zbr/><Settlement>Ayahualtempa</Settlement>. 
+<zbr/><Settlement>Petatlán</Settlement>.
 <zbr/>
 <zbr/>###<Settlement>Ayahualulco</Settlement>.
 <zbr/><Settlement>Mitlazingo</Settlement>.
@@ -276,24 +277,24 @@
 <zbr/>
 <zbr/>ßßß
 <zbr/>#Cuyo.
-<zbr/><Settlement>Copiapó</Settlement>.
-<zbr/><Settlement>La Serena</Settlement> o <Settlement>Coquimbo</Settlement>.
-<zbr/><Settlement>Quillota</Settlement>.
-<zbr/><Settlement>Aconcagua</Settlement>.
-<zbr/><LOC>Islas de Juan Fernandez</LOC>.
-<zbr/>##<Settlement>Santiago</Settlement>.
-<zbr/><Settlement>Melipilla</Settlement>.
-<zbr/><Settlement>Rancagua</Settlement>.
-<zbr/><Settlement>Colchagua</Settlement>.
-<zbr/><Settlement>Maule</Settlement>.
-<zbr/><Settlement>Ytata</Settlement>.
+<zbr/><Territory>Copiapó</Territory>.
+<zbr/><Territory>La Serena</Territory> o <Territory>Coquimbo</Territory>.
+<zbr/><Territory>Quillota</Territory>.
+<zbr/><Territory>Aconcagua</Territory>.
+<zbr/><Territory>Islas de Juan Fernandez</Territory>.
+<zbr/>##<Territory>Santiago</Territory>.
+<zbr/><Territory>Melipilla</Territory>.
+<zbr/><Territory>Rancagua</Territory>.
+<zbr/><Territory>Colchagua</Territory>.
+<zbr/><Territory>Maule</Territory>.
+<zbr/><Territory>Ytata</Territory>.
 <zbr/>
 <zbr/>##Chillan.
 <zbr/>Estancia del Rey o Rede.
-<zbr/><Settlement>Puchacay</Settlement>.
-<zbr/><Settlement>La Concepción</Settlement>.
-<zbr/><Settlement>Valdivia</Settlement>.
-<zbr/><Settlement>Chiloé</Settlement>. 
+<zbr/><Territory>Puchacay</Territory>.
+<zbr/><Territory>La Concepción</Territory>.
+<zbr/><Territory>Valdivia</Territory>.
+<zbr/><Territory>Chiloé</Territory>. 
 <zbr/>La <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Santiago</Settlement>.
 <zbr/>
 <zbr/>$$$
@@ -339,117 +340,115 @@
 <zbr/><Settlement>Villarica</Settlement>.
 <zbr/>
 <zbr/>FUERTES.
-<zbr/><Settlement>Arauco</Settlement>.
-<zbr/><Settlement>Los Angeles</Settlement>.
-<zbr/><Settlement>San Fernando</Settlement>.
-<zbr/><Settlement>Tucapel</Settlement>.
-<zbr/><Settlement>Yumbel</Settlement>.
-<zbr/><Settlement>RIOS</Settlement>.
-<zbr/><Settlement>Andalie</Settlement>.
-<zbr/><Settlement>Arancagua</Settlement>.
-<zbr/><Settlement>Biobio</Settlement>.
-<zbr/><Settlement>Buono</Settlement>.
-<zbr/><Settlement>Cachapoal</Settlement>.
+<zbr/><Structure>Arauco</Structure>.
+<zbr/><Structure>Los Angeles</Structure>.
+<zbr/><Structure>San Fernando</Structure>.
+<zbr/><Structure>Tucapel</Structure>.
+<zbr/><Structure>Yumbel</Structure>.
+<zbr/><Structure>RIOS</Structure>.
+<zbr/><Structure>Andalie</Structure>.
+<zbr/><Structure>Arancagua</Structure>.
+<zbr/><Structure>Biobio</Structure>.
+<zbr/><Structure>Buono</Structure>.
+<zbr/><Structure>Cachapoal</Structure>.
 <zbr/>Cauquenes.
-<zbr/><Settlement>Caunen</Settlement>.
-<zbr/><Settlement>Cauten</Settlement>.
-<zbr/><Settlement>Chavin</Settlement>.
-<zbr/><Settlement>Civapa</Settlement>.
-<zbr/><Settlement>Claro</Settlement>.
-<zbr/><Settlement>Copiapó</Settlement>.
-<zbr/><Settlement>Curarahua</Settlement>.
-<zbr/>De <Settlement>Lora</Settlement>.
-<zbr/><Settlement>De la Sal</Settlement>.
-<zbr/><Settlement>Eyou</Settlement>.
-<zbr/><Settlement>Guasco</Settlement>.
-<zbr/><Settlement>Ytata</Settlement>.
-<zbr/><Settlement>Labapi</Settlement>.
-<zbr/><Settlement>Laxa</Settlement>.
-<zbr/><Settlement>Lebo</Settlement>.
-<zbr/><Settlement>Ligua</Settlement>.
-<zbr/><Settlement>Liman</Settlement>.
+<zbr/><Structure>Caunen</Structure>.
+<zbr/><Structure>Cauten</Structure>.
+<zbr/><Structure>Chavin</Structure>.
+<zbr/><Structure>Civapa</Structure>.
+<zbr/><Structure>Claro</Structure>.
+<zbr/><Structure>Copiapó</Structure>.
+<zbr/><Structure>Curarahua</Structure>.
+<zbr/>De <Structure>Lora</Structure>.
+<zbr/><Structure>De la Sal</Structure>.
+<zbr/><Structure>Eyou</Structure>.
+<zbr/><Structure>Guasco</Structure>.
+<zbr/><Structure>Ytata</Structure>.
+<zbr/><Structure>Labapi</Structure>.
+<zbr/><Structure>Laxa</Structure>.
+<zbr/><Structure>Lebo</Structure>.
+<zbr/><Structure>Ligua</Structure>.
+<zbr/><Structure>Liman</Structure>.
 <zbr/>
 <zbr/>###Limachi.
 <zbr/>Longatoma.
-<zbr/><Settlement>Mapocho</Settlement>.
-<zbr/><Settlement>Mataquito</Settlement>.
-<zbr/><Settlement>Maule</Settlement>.
-<zbr/><Settlement>Maypo</Settlement>.
-<zbr/><Settlement>Nubbe</Settlement> o <Settlement>Nuble</Settlement>.
-<zbr/><Settlement>Pereroa</Settlement>.
-<zbr/><Settlement>Poangue</Settlement>.
-<zbr/><Settlement>Queule</Settlement>.
-<zbr/><Settlement>Ralemo</Settlement>.
-<zbr/><Settlement>Salado</Settlement>.
-<zbr/><Settlement>Teno</Settlement>.
-<zbr/><Settlement>Toltén</Settlement>.
-<zbr/><Settlement>Tongoy</Settlement>.
-<zbr/><Settlement>Topocalma</Settlement>.
-<zbr/><Settlement>Turuyan</Settlement>.
-<zbr/><Settlement>Uten</Settlement>.
+<zbr/><Structure>Mapocho</Structure>.
+<zbr/><Structure>Mataquito</Structure>.
+<zbr/><Structure>Maule</Structure>.
+<zbr/><Structure>Maypo</Structure>.
+<zbr/><Structure>Nubbe</Structure> o <Structure>Nuble</Structure>.
+<zbr/><Structure>Pereroa</Structure>.
+<zbr/><Structure>Poangue</Structure>.
+<zbr/><Structure>Queule</Structure>.
+<zbr/><Structure>Ralemo</Structure>.
+<zbr/><Structure>Salado</Structure>.
+<zbr/><Structure>Teno</Structure>.
+<zbr/><Structure>Toltén</Structure>.
+<zbr/><Structure>Tongoy</Structure>.
+<zbr/><Structure>Topocalma</Structure>.
+<zbr/><Structure>Turuyan</Structure>.
+<zbr/><Structure>Uten</Structure>.
 <zbr/>
 <zbr/>LAGUNAS.
 <zbr/>Aguas Calientes.
-<zbr/><Settlement>Guanacache</Settlement>.
-<zbr/><Settlement>Mallabauquen</Settlement>.
-<zbr/><Settlement>Padaguel</Settlement>.
-<zbr/><Settlement>Puren</Settlement>.
+<zbr/><Landmark>Guanacache</Landmark>.
+<zbr/><Landmark>Mallabauquen</Landmark>.
+<zbr/><Landmark>Padaguel</Landmark>.
+<zbr/><Landmark>Puren</Landmark>.
 <zbr/>
 <zbr/>MONTES.
-<zbr/><Settlement>Antojo</Settlement>.
-<zbr/><Settlement>Chillán</Settlement>. Volc.
-<zbr/>Chuapa <Settlement>Volc</Settlement>.
-<zbr/><Settlement>Estancia del Rey</Settlement>. 
-<zbr/><Settlement>Oro</Settlement>. 
+<zbr/><Landmark>Antojo</Landmark>.
+<zbr/><Landmark>Chillán</Landmark>. Volc.
+<zbr/><Landmark>Chuapa</Landmark> Volc.
+<zbr/><Landmark>Estancia del Rey</Landmark>. Oro. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0514@@@
 <zbr/>
-<zbr/>#Lampangui. 
-<zbr/>Plata.
-<zbr/><Settlement>Ligua</Settlement>. Volc.
-<zbr/><Settlement>Llaon</Settlement>. <Settlement>Oro</Settlement>.
-<zbr/><Settlement>Llupangui</Settlement>. <Settlement>Oro</Settlement>.
-<zbr/><Settlement>Notuco</Settlement>. Volc.
-<zbr/><Settlement>Payen</Settlement>. <Settlement>Plomo</Settlement>.
-<zbr/><Settlement>Peteroa</Settlement>. Volc.
-<zbr/><Settlement>Petorca</Settlement>. <Settlement>Oro</Settlement>.
-<zbr/><Settlement>Quillacoya</Settlement>. <Settlement>Oro</Settlement>.
-<zbr/><Settlement>Sinn</Settlement>. Volc.
-<zbr/><Settlement>Yapel</Settlement>. <Settlement>Oro</Settlement>.
+<zbr/>#Lampangui. Plata.
+<zbr/><Landmark>Ligua</Landmark>. Volc.
+<zbr/><Landmark>Llaon</Landmark>. Oro.
+<zbr/><Landmark>Llupangui</Landmark>. Oro.
+<zbr/><Landmark>Notuco</Landmark>. Volc.
+<zbr/><Landmark>Payen</Landmark>. Plomo.
+<zbr/><Landmark>Peteroa</Landmark>. Volc.
+<zbr/><Landmark>Petorca</Landmark>. Oro.
+<zbr/><Landmark>Quillacoya</Landmark>. Oro.
+<zbr/><Landmark>Sinn</Landmark>. Volc.
+<zbr/><Landmark>Yapel</Landmark>. Oro.
 <zbr/>
 <zbr/>PROMONTORIOS.
 <zbr/>Ballena.
 <zbr/>
 <zbr/>##Carnero.
-<zbr/><Settlement>Cauten</Settlement>.
-<zbr/><Settlement>Changui</Settlement>.
-<zbr/><Settlement>Feliz</Settlement>.
-<zbr/><Settlement>Villiva</Settlement>.
+<zbr/><Landmark>Cauten</Landmark>.
+<zbr/><Landmark>Changui</Landmark>.
+<zbr/><Landmark>Feliz</Landmark>.
+<zbr/><Landmark>Villiva</Landmark>.
 <zbr/>
 <zbr/>PUERTOS.
 <zbr/>
-<zbr/><Settlement>Castro</Settlement>.
-<zbr/><Settlement>Cauten</Settlement>.
-<zbr/><Settlement>Cerrito Verde</Settlement>.
-<zbr/><Settlement>Chacao</Settlement>.
-<zbr/><Settlement>Cumberland</Settlement>.
-<zbr/><Settlement>Guasco</Settlement>.
-<zbr/><Settlement>Paracas</Settlement>.
+<zbr/><Landmark>Castro</Landmark>.
+<zbr/><Landmark>Cauten</Landmark>.
+<zbr/><Landmark>Cerrito Verde</Landmark>.
+<zbr/><Landmark>Chacao</Landmark>.
+<zbr/><Landmark>Cumberland</Landmark>.
+<zbr/><Landmark>Guasco</Landmark>.
+<zbr/><Landmark>Paracas</Landmark>.
 <zbr/>
-<zbr/>###<Settlement>Quillin</Settlement>.
-<zbr/><Settlement>Talcaguano</Settlement>.
+<zbr/>###<Landmark>Quillin</Landmark>.
+<zbr/><Landmark>Talcaguano</Landmark>.
 <zbr/>Tome.
-<zbr/><Settlement>Tongoy</Settlement>.
+<zbr/><Landmark>Tongoy</Landmark>.
 <zbr/>
 <zbr/>ISLAS.
-<zbr/><Settlement>Chiloé</Settlement>.
-<zbr/><Settlement>Ciones</Settlement>.
-<zbr/><Settlement>Farallones</Settlement>.
-<zbr/><Settlement>Fernandez</Settlement>.
-<zbr/><Settlement>Guaiteca</Settlement>.
-<zbr/><Settlement>Moche</Settlement>.
-<zbr/><Settlement>Quiriquina</Settlement>.
-<zbr/><Settlement>Santa María</Settlement>.
+<zbr/><Landmark>Chiloé</Landmark>.
+<zbr/><Landmark>Ciones</Landmark>.
+<zbr/><Landmark>Farallones</Landmark>.
+<zbr/><Landmark>Fernandez</Landmark>.
+<zbr/><Landmark>Guaiteca</Landmark>.
+<zbr/><Landmark>Moche</Landmark>.
+<zbr/><Landmark>Quiriquina</Landmark>.
+<zbr/><Landmark>Santa María</Landmark>.
 <zbr/>$$$
 <zbr/>
 <zbr/>___CATALOGO BE LOS PRESIDENTES, Gobernadores y Capitanes Generales del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>.___

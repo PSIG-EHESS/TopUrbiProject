@@ -159,7 +159,7 @@
 <zbr/><Settlement>Menzapa</Settlement>.
 <zbr/><Settlement>Molocán</Settlement>.
 <zbr/><Settlement>Huimanquillo</Settlement>.
-<zbr/>##<LOC>Zoconusco</LOC>. 
+    <zbr/>##<Settlement>Zoconusco</Settlement>. 
 <zbr/><Settlement>Olutla</Settlement>.
 <zbr/><Settlement>Oteapa</Settlement>.
 <zbr/><Settlement>Pochutla</Settlement>.
@@ -256,7 +256,7 @@
 <zbr/><Settlement>Lucre</Settlement>.
 <zbr/><Settlement>Sirca</Settlement>.
 <zbr/><Settlement>Pichurhua</Settlement>.
-<zbr/><Settlement>Colca</Settlement>bamba. 
+<zbr/><Settlement>Colcabamba</Settlement>. 
 <zbr/><Settlement>Soraya</Settlement>.
 <zbr/><Settlement>Huairahuacho</Settlement>. 
 <zbr/><Settlement>Toraya</Settlement>.
@@ -491,7 +491,7 @@
 <zbr/>ßßß
 <zbr/>#<Settlement>San Juan de Sahagun</Settlement>.
 <zbr/><Settlement>S. Juan de Buenavista</Settlement>.
-<zbr/><Settlement>Santa Cruz del Valle</Settlement> ameno.
+<zbr/><Settlement>Santa Cruz del Valle ameno</Settlement>.
 <zbr/>##<Settlement>Concepción de Apolobamba</Settlement>.
 <zbr/><Settlement>San Antonio de Aten</Settlement>.
 <zbr/>###<Settlement>San Joseph de Uchupiamonas</Settlement>.
@@ -523,12 +523,12 @@
 <zbr/>#''Se ha de añadir'': que las lluvias solo son en los meses de Diciembre, Enero y Febrero: los once <Concept_Settlement>Pueblos</Concept_Settlement> están en sus inmediaciones o <Concept_Settlement>arrabales</Concept_Settlement>, y son: 
 <zbr/>
 <zbr/>ßßß
-<zbr/>#<LOC>Chihuata</LOC>.
+<zbr/>#<Settlement>Chihuata</Settlement>.
 <zbr/><Settlement>Yanahuaya</Settlement>.
 <zbr/><Settlement>Characoto</Settlement>.
 <zbr/>##<Settlement>Caima</Settlement>.
 <zbr/><Settlement>Paucarpata</Settlement>.
-<zbr/><LOC>Valle de Víctor</LOC> 
+<zbr/><Settlement>Valle de Víctor</Settlement> 
 <zbr/>###<Settlement>Tiabuya</Settlement>.
 <zbr/><Settlement>Valle de Jambo</Settlement>.
 <zbr/>$$$

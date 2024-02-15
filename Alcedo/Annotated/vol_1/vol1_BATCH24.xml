@@ -137,7 +137,7 @@
 <zbr/><Settlement>Suri</Settlement>.
 <zbr/><Settlement>Cabari</Settlement>.
 <zbr/><Settlement>Mohosa</Settlement>. 
-<zbr/>##<LOC>Capiñeta</LOC>. 
+<zbr/>##<Settlement>Capiñeta</Settlement>. 
 <zbr/><Settlement>Ychoca</Settlement>.
 <zbr/><Settlement>Coani</Settlement>. 
 <zbr/><Settlement>Yaco</Settlement>.
@@ -202,9 +202,9 @@
 <zbr/>##<Settlement>Santa Ana Turicato</Settlement>.
 <zbr/><Settlement>Paraquaro</Settlement>. 
 <zbr/>
-<zbr/>###<LOC>Nocupetajo</LOC>. 
-<zbr/><LOC>Acuiyo</LOC>.
-<zbr/><LOC>Pungueo</LOC>.
+<zbr/>###<Settlement>Nocupetajo</Settlement>. 
+<zbr/><Settlement>Acuiyo</Settlement>.
+<zbr/><Settlement>Pungueo</Settlement>.
 <zbr/>
 <zbr/>$$$
 <zbr/>§§§id_04034§§§
@@ -216,12 +216,12 @@
 <zbr/>
 <zbr/>ßßß
 <zbr/>#<Settlement>Montes Claros</Settlement>. 
-<zbr/><LOC>Real de Alamos</LOC>.
+<zbr/><Settlement>Real de Alamos</Settlement>.
 <zbr/>##<Settlement>Bocaverito</Settlement>. 
 <zbr/><Settlement>Noguera</Settlement>.
 <zbr/>
-<zbr/>###<LOC>Camoa</LOC>.
-<zbr/><LOC>Guarabe</LOC>. 
+<zbr/>###<Settlement>Camoa</Settlement>.
+<zbr/><Settlement>Guarabe</Settlement>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0583@@@
 <zbr/>
@@ -433,8 +433,8 @@
 <zbr/>
 <zbr/>ßßß
 <zbr/>
-<zbr/><LOC>San Francisco Aguayo</LOC>.
-<zbr/><LOC>San Miguel</LOC>.
+<zbr/><Settlement>San Francisco Aguayo</Settlement>.
+<zbr/><Settlement>San Miguel</Settlement>.
 <zbr/>El <Concept_Settlement>Presidio</Concept_Settlement> del <LOC>Sacramento</LOC>.
 <zbr/>##<LOC>San Juan Bautista de <Concept_Landmark>río</Concept_Landmark> grande</LOC>.
 <zbr/><LOC>Petoyes</LOC>.
@@ -544,9 +544,9 @@
 <zbr/>##<Settlement>Santa Bárbara</Settlement>. 
 <zbr/><Settlement>Tultepec</Settlement>.
 <zbr/><Settlement>Huehuctoca</Settlement>.
-<zbr/><Settlement>San Miguel de</Settlement>
+<zbr/><Settlement>San Miguel de
 <zbr/>
-<zbr/>###los Xaqueyes. 
+<zbr/>###los Xaqueyes</Settlement>. 
 <zbr/><Settlement>Teoloyuca</Settlement>. 
 <zbr/><Settlement>Tepozotlán</Settlement>. 
 <zbr/><Settlement>Xaltocan</Settlement>.

@@ -354,19 +354,19 @@
 <zbr/>
 <zbr/>ßßß
 <zbr/>#<Concept_Group>Naciones Bárb.</Concept_Group>
-<zbr/><Settlement>Amacaches</Settlement>.
-<zbr/><Settlement>Amixócores</Settlement>.
-<zbr/><Settlement>Annacioris</Settlement>.
-<zbr/><Settlement>Apotous</Settlement>.
-<zbr/><Settlement>Apuyes</Settlement>.
-<zbr/><Settlement>Aquiguires</Settlement>.
-<zbr/><Settlement>Aracures</Settlement>.
-<zbr/><Settlement>Arapes</Settlement>.
-<zbr/><Settlement>Aryes</Settlement>.
-<zbr/><Settlement>Augaras</Settlement>.
-<zbr/><Settlement>Guastacasios</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Amacaches</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Amixócores</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Annacioris</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Apotous</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Apuyes</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Aquiguires</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Aracures</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Arapes</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Aryes</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Augaras</Indianer>.
+<zbr/><humanGroup type="indigenous_group">Guastacasios</Indianer>.
 <zbr/>Margajates.
-<zbr/><Settlement>Maribuces</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Maribuces</Indianer>.
 <zbr/>
 <zbr/>##Mariquites.
 <zbr/>Obacatiaras.
@@ -398,11 +398,11 @@
 <zbr/><Settlement>Pernambuco</Settlement>. 
 <zbr/><Settlement>Olinda</Settlement>.
 <zbr/><Settlement>Puerto Seguro</Settlement>.
-<zbr/><Settlement>San Luis del Ma</Settlement>
+<zbr/><Settlement>San Luis del Ma
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0264@@@
 <zbr/>
-<zbr/>#rañan.
+<zbr/>#rañan</Settlement>.
 <zbr/><Settlement>San Pablo</Settlement>.
 <zbr/><Settlement>San Salvador</Settlement>.
 <zbr/><Settlement>San Vicente</Settlement>.
@@ -412,58 +412,59 @@
 <zbr/><Settlement>Todos Santos</Settlement>.
 <zbr/>
 <zbr/>RIOS.
-<zbr/><Settlement>Alagoa</Settlement>.
-<zbr/><Settlement>Aniembi</Settlement>.
-<zbr/><Settlement>Arari</Settlement>.
-<zbr/><Settlement>Araxay</Settlement>.
-<zbr/><Settlement>Aruguaya</Settlement>.
-<zbr/><Settlement>Bibirice</Settlement>.
-<zbr/><Settlement>Camuri</Settlement>.
-<zbr/><Settlement>Capí</Settlement>.
-<zbr/><Settlement>Cirigi</Settlement>.
-<zbr/><Settlement>Contas</Settlement>.
-<zbr/><Settlement>Cunhao</Settlement>.
-<zbr/><Settlement>Cururui</Settlement>.
-<zbr/><Settlement>Dulce</Settlement>.
-<zbr/>De los <Settlement>Ilheos</Settlement>.
-<zbr/><Settlement>Duna</Settlement>.
-<zbr/><Settlement>Galiolo</Settlement>.
-<zbr/><Settlement>Grande</Settlement>.
-<zbr/><Settlement>Guaraiguazu</Settlement>.
-<zbr/><Settlement>Ipoche</Settlement>.
-<zbr/><Settlement>Jeneyro</Settlement>.
-<zbr/><Settlement>Laguaribe</Settlement>.
-<zbr/><Settlement>Maracú</Settlement>.
-<zbr/><Settlement>Martín</Settlement>.
-<zbr/><Settlement>Meari</Settlement>.
-<zbr/><Settlement>Mongaguaba</Settlement>. <Settlement>Meni</Settlement>.
-<zbr/><Settlement>Muju</Settlement>.
-<zbr/><Settlement>Ovaquezupi</Settlement>.
-<zbr/><Settlement>Paranáiba</Settlement>.
-<zbr/><Settlement>Parapinzingaa</Settlement>.
-<zbr/><Settlement>Parashui</Settlement>.
-<zbr/>#<Settlement>Paraiba</Settlement>.
-<zbr/><Settlement>Patipe</Settlement>.
-<zbr/><Settlement>Patipinga</Settlement>.
-<zbr/><Settlement>Paxaca</Settlement>.
-<zbr/><Settlement>Periperi</Settlement>.
-<zbr/><Settlement>Pinare</Settlement>.
-<zbr/><Settlement>Ponica</Settlement>.
-<zbr/><Settlement>Poyuca</Settlement>.
-<zbr/><Settlement>Río Real</Settlement>.
-<zbr/><Settlement>San Francisco</Settlement>.
-<zbr/><Settlement>San Miguel</Settlement>.
-<zbr/><Settlement>Tapados</Settlement>.
-<zbr/><Settlement>Tapocuru</Settlement>.
-<zbr/><Settlement>Tocantines</Settlement>.
-<zbr/><Settlement>Trembi</Settlement>.
-<zbr/><Settlement>Varirin</Settlement>.
-<zbr/><Settlement>Vazabazas</Settlement>.
-<zbr/><Settlement>Vermellas</Settlement> o <Settlement>Ipenin</Settlement>. 
-<zbr/><Settlement>Yari</Settlement>.
-<zbr/><Settlement>Inaya</Settlement>.
-<zbr/><Settlement>Itapemeri</Settlement>.
-<zbr/><Settlement>Yucaru</Settlement>.
+<zbr/><Landmark>Alagoa</Landmark>.
+<zbr/><Landmark>Aniembi</Landmark>.
+<zbr/><Landmark>Arari</Landmark>.
+<zbr/><Landmark>Araxay</Landmark>.
+<zbr/><Landmark>Aruguaya</Landmark>.
+<zbr/><Landmark>Bibirice</Landmark>.
+<zbr/><Landmark>Camuri</Landmark>.
+<zbr/><Landmark>Capí</Landmark>.
+<zbr/><Landmark>Cirigi</Landmark>.
+<zbr/><Landmark>Contas</Landmark>.
+<zbr/><Landmark>Cunhao</Landmark>.
+<zbr/><Landmark>Cururui</Landmark>.
+<zbr/><Landmark>Dulce</Landmark>.
+<zbr/>De los <Landmark>Ilheos</Landmark>.
+<zbr/><Landmark>Duna</Landmark>.
+<zbr/><Landmark>Galiolo</Landmark>.
+<zbr/><Landmark>Grande</Landmark>.
+<zbr/><Landmark>Guaraiguazu</Landmark>.
+<zbr/><Landmark>Ipoche</Landmark>.
+<zbr/><Landmark>Jeneyro</Landmark>.
+<zbr/><Landmark>Laguaribe</Landmark>.
+<zbr/><Landmark>Maracú</Landmark>.
+<zbr/><Landmark>Martín</Landmark>.
+<zbr/><Landmark>Meari</Landmark>.
+<zbr/><Landmark>Mongaguaba</Landmark>. 
+<zbr/><Landmark>Meni</Landmark>.
+<zbr/><Landmark>Muju</Landmark>.
+<zbr/><Landmark>Ovaquezupi</Landmark>.
+<zbr/><Landmark>Paranáiba</Landmark>.
+<zbr/><Landmark>Parapinzingaa</Landmark>.
+<zbr/><Landmark>Parashui</Landmark>.
+<zbr/>#<Landmark>Paraiba</Landmark>.
+<zbr/><Landmark>Patipe</Landmark>.
+<zbr/><Landmark>Patipinga</Landmark>.
+<zbr/><Landmark>Paxaca</Landmark>.
+<zbr/><Landmark>Periperi</Landmark>.
+<zbr/><Landmark>Pinare</Landmark>.
+<zbr/><Landmark>Ponica</Landmark>.
+<zbr/><Landmark>Poyuca</Landmark>.
+<zbr/><Landmark>Río Real</Landmark>.
+<zbr/><Landmark>San Francisco</Landmark>.
+<zbr/><Landmark>San Miguel</Landmark>.
+<zbr/><Landmark>Tapados</Landmark>.
+<zbr/><Landmark>Tapocuru</Landmark>.
+<zbr/><Landmark>Tocantines</Landmark>.
+<zbr/><Landmark>Trembi</Landmark>.
+<zbr/><Landmark>Varirin</Landmark>.
+<zbr/><Landmark>Vazabazas</Landmark>.
+<zbr/><Landmark>Vermellas</Landmark> o <Landmark>Ipenin</Landmark>. 
+<zbr/><Landmark>Yari</Landmark>.
+<zbr/><Landmark>Inaya</Landmark>.
+<zbr/><Landmark>Itapemeri</Landmark>.
+<zbr/><Landmark>Yucaru</Landmark>.
 <zbr/>
 <zbr/>MINAS.
 <zbr/>Cuyaba..... diam.....
@@ -474,51 +475,51 @@
 <zbr/>
 <zbr/>PROMONTORIOS.
 <zbr/>Blanco.
-<zbr/><Settlement>Corso</Settlement>.
-<zbr/><Settlement>Frió</Settlement>.
-<zbr/><Settlement>Ledo</Settlement>.
-<zbr/><Settlement>Potocalmo</Settlement>.
-<zbr/><Settlement>San Roque</Settlement>.
-<zbr/><Settlement>San Agustín</Settlement>.
+<zbr/><Landmark>Corso</Landmark>.
+<zbr/><Landmark>Frió</Landmark>.
+<zbr/><Landmark>Ledo</Landmark>.
+<zbr/><Landmark>Potocalmo</Landmark>.
+<zbr/><Landmark>San Roque</Landmark>.
+<zbr/><Landmark>San Agustín</Landmark>.
 <zbr/>
 <zbr/>###Sousa.
 <zbr/>
 <zbr/>PUERTOS. 
-<zbr/><Settlement>Cayvo</Settlement>.
-<zbr/><Settlement>Jeneiro</Settlement>.
-<zbr/><Settlement>Pará</Settlement>.
-<zbr/><Settlement>San Luis de Marañan</Settlement>.
-<zbr/><Settlement>San Salvador o la Bahía</Settlement>.
-<zbr/><Settlement>Seregipe</Settlement>..
-<zbr/><Settlement>Tamaraca</Settlement>.
-<zbr/><Settlement>Tojuqua</Settlement>.
+<zbr/><Landmark>Cayvo</Landmark>.
+<zbr/><Landmark>Jeneiro</Landmark>.
+<zbr/><Landmark>Pará</Landmark>.
+<zbr/><Landmark>San Luis de Marañan</Landmark>.
+<zbr/><Landmark>San Salvador o la Bahía</Landmark>.
+<zbr/><Landmark>Seregipe</Landmark>..
+<zbr/><Landmark>Tamaraca</Landmark>.
+<zbr/><Landmark>Tojuqua</Landmark>.
 <zbr/>
 <zbr/>ISLAS.
-<zbr/><Settlement>Ascension</Settlement>.
-<zbr/><Settlement>Cananea</Settlement>.
-<zbr/><Settlement>Catherina</Settlement>.
-<zbr/><Settlement>Del Gallo</Settlement>.
-<zbr/>De los <Settlement>Ilheos</Settlement>.
-<zbr/><Settlement>Goare</Settlement>.
-<zbr/><Settlement>Grande</Settlement>.
-<zbr/><Settlement>Machiana</Settlement>.
-<zbr/><Settlement>Maragnau</Settlement>.
-<zbr/><Settlement>Marayo</Settlement>.
-<zbr/><Settlement>Maricana</Settlement>.
-<zbr/><Settlement>Martín Vas</Settlement>. 
-<zbr/><Settlement>Noroña</Settlement>.
-<zbr/><Settlement>Picos</Settlement>.
-<zbr/><Settlement>San Salvador</Settlement>.
-<zbr/><Settlement>Santa Ana</Settlement>.
-<zbr/><Settlement>San Antonio</Settlement>.
-<zbr/><Settlement>Santa Bárbara</Settlement>.
-<zbr/><Settlement>Sipotuba</Settlement>.
-<zbr/><Settlement>Espíritu Santo</Settlement>.
-<zbr/><Settlement>Taparica</Settlement>.
-<zbr/><Settlement>Tatipara</Settlement>.
-<zbr/><Settlement>Trinidad</Settlement>.
-<zbr/><Settlement>Upaya</Settlement>.
-<zbr/><Settlement>Ygarapotoe</Settlement>.
+<zbr/><Landmark>Ascension</Landmark>.
+<zbr/><Landmark>Cananea</Landmark>.
+<zbr/><Landmark>Catherina</Landmark>.
+<zbr/>Del <Landmark>Gallo</Landmark>.
+<zbr/>De los <Landmark>Ilheos</Landmark>.
+<zbr/><Landmark>Goare</Landmark>.
+<zbr/><Landmark>Grande</Landmark>.
+<zbr/><Landmark>Machiana</Landmark>.
+<zbr/><Landmark>Maragnau</Landmark>.
+<zbr/><Landmark>Marayo</Landmark>.
+<zbr/><Landmark>Maricana</Landmark>.
+<zbr/><Landmark>Martín Vas</Landmark>. 
+<zbr/><Landmark>Noroña</Landmark>.
+<zbr/><Landmark>Picos</Landmark>.
+<zbr/><Landmark>San Salvador</Landmark>.
+<zbr/><Landmark>Santa Ana</Landmark>.
+<zbr/><Landmark>San Antonio</Landmark>.
+<zbr/><Landmark>Santa Bárbara</Landmark>.
+<zbr/><Landmark>Sipotuba</Landmark>.
+<zbr/><Landmark>Espíritu Santo</Landmark>.
+<zbr/><Landmark>Taparica</Landmark>.
+<zbr/><Landmark>Tatipara</Landmark>.
+<zbr/><Landmark>Trinidad</Landmark>.
+<zbr/><Landmark>Upaya</Landmark>.
+<zbr/><Landmark>Ygarapotoe</Landmark>.
 <zbr/>$$$
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0265@@@

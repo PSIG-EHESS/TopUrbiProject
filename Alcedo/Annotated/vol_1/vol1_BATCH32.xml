@@ -179,16 +179,16 @@
 <zbr/>Los <Concept_Settlement>Pueblos</Concept_Settlement> de esta <Concept_Territory>Provincia</Concept_Territory> son: 
 <zbr/>
 <zbr/>ßßß
-<zbr/>#<LOC>Cañete</LOC>.
-<zbr/><LOC>Chilca</LOC>.
-<zbr/>##<LOC>Calango</LOC>.
-<zbr/><LOC>Chincha</LOC>.
-<zbr/>###<LOC>Tanqui</LOC>.
-<zbr/><LOC>Coillo</LOC>. 
+<zbr/>#<Settlement>Cañete</Settlement>.
+<zbr/><Settlement>Chilca</Settlement>.
+<zbr/>##<Settlement>Calango</Settlement>.
+<zbr/><Settlement>Chincha</Settlement>.
+<zbr/>###<Settlement>Tanqui</Settlement>.
+<zbr/><Settlement>Coillo</Settlement>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0776@@@
 <zbr/>
-<zbr/>#<LOC>San Pedro de Almagro</LOC>. 
+<zbr/>#<Settlement>San Pedro de Almagro</Settlement>. 
 <zbr/><Settlement>Tacarán</Settlement>.
 <zbr/><Settlement>Mala</Settlement>. 
 <zbr/><Settlement>Lunaguana</Settlement>. 

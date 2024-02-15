@@ -6,32 +6,32 @@
 <zbr/>ßßß
 <zbr/>#NACIONES.
 <zbr/>Acomes.
-<zbr/><Settlement>Amapaes</Settlement>.
-<zbr/><Settlement>Aravis</Settlement>.
-<zbr/><Settlement>Aricaretis</Settlement>.
-<zbr/><Settlement>Aricoris</Settlement>.
-<zbr/><LOC>Arbacas</LOC>.
+<zbr/><humanGroup type="indigenous_group">Amapaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aravis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aricaretis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aricoris</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Arbacas</humanGroup>.
 <zbr/>Campagotes.
 <zbr/>Canuris.
-<zbr/><Settlement>Carivinis</Settlement>.
-<zbr/><LOC>Chahuas</LOC>.
-<zbr/><LOC>Cumanaes</LOC>.
-<zbr/><LOC>Eparagois</LOC>.
-<zbr/><LOC>Marones</LOC>.
-<zbr/><LOC>Mayos</LOC>.
-<zbr/><Settlement>Morinies</Settlement>.
-<zbr/><Settlement>Omiguas</Settlement>.
-<zbr/><LOC>Palenques</LOC>.
-<zbr/><LOC>Papinis</LOC>.
-<zbr/><LOC>Parimoes</LOC>.
+<zbr/><humanGroup type="indigenous_group">Carivinis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chahuas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Cumanaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Eparagois</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Marones</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Mayos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Morinies</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Omiguas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Palenques</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Papinis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Parimoes</humanGroup>.
 <zbr/>Parragores.
 <zbr/>Peritoes.
 <zbr/>Saymagoes.
 <zbr/>Sebayos.
 <zbr/>Supiayes.
-<zbr/><Settlement>Vacaronis</Settlement>.
-<zbr/><Settlement>Yaos</Settlement>.
-<zbr/><Settlement>Yuarepices</Settlement>.
+<zbr/><humanGroup type="indigenous_group">Vacaronis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yaos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yuarepices</humanGroup>.
 <zbr/>CIUDADES.
 <zbr/>
 <zbr/>Cadiz Nueva.
@@ -40,73 +40,73 @@
 <zbr/>
 <zbr/>##MONTES.
 <zbr/>
-<zbr/><Settlement>Guanta</Settlement>.
-<zbr/><Settlement>Panagara</Settlement>.
-<zbr/><Settlement>San Pedro</Settlement>.
-<zbr/><Settlement>Saporovis</Settlement>.
-<zbr/><Settlement>Vacarima</Settlement>.
+<zbr/><Landmark>Guanta</Landmark>.
+<zbr/><Landmark>Panagara</Landmark>.
+<zbr/><Landmark>San Pedro</Landmark>.
+<zbr/><Landmark>Saporovis</Landmark>.
+<zbr/><Landmark>Vacarima</Landmark>.
 <zbr/>
 <zbr/>RIOS.
 <zbr/>
 <zbr/>Amacore o
 <zbr/>Amacuri.
-<zbr/><Settlement>Amaná</Settlement>.
-<zbr/><Settlement>Aquire</Settlement>.
-<zbr/><Settlement>Aricani</Settlement>.
-<zbr/><Settlement>Aro</Settlement>.
-<zbr/><Settlement>Aropa</Settlement>.
-<zbr/><Settlement>Aruari</Settlement>.
-<zbr/><Settlement>Atanari</Settlement>.
-<zbr/><Settlement>Berbis</Settlement>.
-<zbr/><Settlement>Buria</Settlement>.
-<zbr/><Settlement>Cabomi</Settlement>.
-<zbr/><Settlement>Caora</Settlement>.
-<zbr/><Settlement>Capurvacá</Settlement>.
-<zbr/><Settlement>Cassipouri</Settlement>.
-<zbr/><Settlement>Caturi</Settlement>.
-<zbr/><Settlement>Cavo</Settlement>.
-<zbr/><Settlement>Corentin</Settlement>.
-<zbr/><Settlement>Coropatuba</Settlement>.
-<zbr/><Settlement>Coura</Settlement>.
-<zbr/><Settlement>Curiguacuriu</Settlement>.
-<zbr/><Settlement>Demarari</Settlement>.
-<zbr/><Settlement>Esequebo</Settlement> o <Settlement>Esquibo</Settlement>.
-<zbr/><Settlement>Europa</Settlement>.
-<zbr/>###<Settlement>Guaveteri</Settlement>.
-<zbr/><Settlement>Guarapiche</Settlement>.
-<zbr/><Settlement>Majo</Settlement>.
-<zbr/><Settlement>Mahuri</Settlement>.
-<zbr/><Settlement>Masiacari</Settlement>.
-<zbr/><Settlement>Maravini</Settlement>.
-<zbr/><Settlement>Maroni</Settlement>.
-<zbr/><Settlement>Maipari</Settlement>.
-<zbr/><Settlement>Moruga</Settlement>.
-<zbr/><Settlement>Orinoco</Settlement>.
-<zbr/><Settlement>Ovabariche</Settlement>.
-<zbr/><Settlement>Ovetacates</Settlement>.
-<zbr/><Settlement>Pao</Settlement>.
-<zbr/><Settlement>Paraba</Settlement>.
-<zbr/><Settlement>Piari</Settlement>.
-<zbr/><Settlement>Saima</Settlement>.
-<zbr/><Settlement>Sinamari</Settlement>.
-<zbr/><Settlement>Surinam</Settlement>.
-<zbr/><Settlement>Timeraris</Settlement>.
-<zbr/><Settlement>Varca</Settlement>.
-<zbr/><Settlement>Varima</Settlement>.
-<zbr/><Settlement>Via</Settlement> o 
-<zbr/><Settlement>Uvia</Settlement>.
-<zbr/><Settlement>Vyacopo</Settlement> o Yapoco.
-<zbr/><Settlement>Yvaricopo</Settlement>.
+<zbr/><Landmark>Amaná</Landmark>.
+<zbr/><Landmark>Aquire</Landmark>.
+<zbr/><Landmark>Aricani</Landmark>.
+<zbr/><Landmark>Aro</Landmark>.
+<zbr/><Landmark>Aropa</Landmark>.
+<zbr/><Landmark>Aruari</Landmark>.
+<zbr/><Landmark>Atanari</Landmark>.
+<zbr/><Landmark>Berbis</Landmark>.
+<zbr/><Landmark>Buria</Landmark>.
+<zbr/><Landmark>Cabomi</Landmark>.
+<zbr/><Landmark>Caora</Landmark>.
+<zbr/><Landmark>Capurvacá</Landmark>.
+<zbr/><Landmark>Cassipouri</Landmark>.
+<zbr/><Landmark>Caturi</Landmark>.
+<zbr/><Landmark>Cavo</Landmark>.
+<zbr/><Landmark>Corentin</Landmark>.
+<zbr/><Landmark>Coropatuba</Landmark>.
+<zbr/><Landmark>Coura</Landmark>.
+<zbr/><Landmark>Curiguacuriu</Landmark>.
+<zbr/><Landmark>Demarari</Landmark>.
+<zbr/><Landmark>Esequebo</Landmark> o <Landmark>Esquibo</Landmark>.
+<zbr/><Landmark>Europa</Landmark>.
+<zbr/>###<Landmark>Guaveteri</Landmark>.
+<zbr/><Landmark>Guarapiche</Landmark>.
+<zbr/><Landmark>Majo</Landmark>.
+<zbr/><Landmark>Mahuri</Landmark>.
+<zbr/><Landmark>Masiacari</Landmark>.
+<zbr/><Landmark>Maravini</Landmark>.
+<zbr/><Landmark>Maroni</Landmark>.
+<zbr/><Landmark>Maipari</Landmark>.
+<zbr/><Landmark>Moruga</Landmark>.
+<zbr/><Landmark>Orinoco</Landmark>.
+<zbr/><Landmark>Ovabariche</Landmark>.
+<zbr/><Landmark>Ovetacates</Landmark>.
+<zbr/><Landmark>Pao</Landmark>.
+<zbr/><Landmark>Paraba</Landmark>.
+<zbr/><Landmark>Piari</Landmark>.
+<zbr/><Landmark>Saima</Landmark>.
+<zbr/><Landmark>Sinamari</Landmark>.
+<zbr/><Landmark>Surinam</Landmark>.
+<zbr/><Landmark>Timeraris</Landmark>.
+<zbr/><Landmark>Varca</Landmark>.
+<zbr/><Landmark>Varima</Landmark>.
+<zbr/><Landmark>Via</Landmark> o 
+<zbr/><Landmark>Uvia</Landmark>.
+<zbr/><Landmark>Vyacopo</Landmark> o Yapoco.
+<zbr/><Landmark>Yvaricopo</Landmark>.
 <zbr/>
 <zbr/>PROMONTORIOS.
 <zbr/>
-<zbr/><Settlement>Caldera</Settlement>.
-<zbr/><Settlement>Cepereu</Settlement>.
-<zbr/><Settlement>Cenobebo</Settlement>.
-<zbr/>De <Settlement>Salinas</Settlement>
-<zbr/><Settlement>.Oranges</Settlement>.
-<zbr/><Settlement>Pinzon</Settlement>.
-<zbr/><Settlement>Romatá</Settlement>. 
+<zbr/><Landmark>Caldera</Landmark>.
+<zbr/><Landmark>Cepereu</Landmark>.
+<zbr/><Landmark>Cenobebo</Landmark>.
+<zbr/>De <Landmark>Salinas</Landmark>
+<zbr/><Landmark>.Oranges</Landmark>.
+<zbr/><Landmark>Pinzon</Landmark>.
+<zbr/><Landmark>Romatá</Landmark>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0097@@@
 <zbr/>
@@ -117,27 +117,27 @@
 <zbr/>
 <zbr/>FUENTES.
 <zbr/>
-<zbr/><Settlement>Araya</Settlement>.
-<zbr/>##<Settlement>Essequeb</Settlement>.
-<zbr/><Settlement>Mompatar</Settlement>.
-<zbr/><Settlement>Surinam</Settlement>.
+<zbr/><Landmark>Araya</Landmark>.
+<zbr/>##<Landmark>Essequeb</Landmark>.
+<zbr/><Landmark>Mompatar</Landmark>.
+<zbr/><Landmark>Surinam</Landmark>.
 <zbr/>
 <zbr/>ISLAS.
 <zbr/>
-<zbr/><Settlement>Assapara</Settlement>.
-<zbr/><Settlement>Blanca</Settlement>.
-<zbr/><Settlement>Cayena</Settlement>.
-<zbr/>###<Settlement>Coche</Settlement>.
-<zbr/><Settlement>Cubagua</Settlement>.
-<zbr/><Settlement>Iracapono</Settlement>.
-<zbr/><Settlement>Maiparo</Settlement>.
-<zbr/><Settlement>Maraca</Settlement>.
-<zbr/><Settlement>Marasi</Settlement>.
-<zbr/><Settlement>Margarita</Settlement>.
-<zbr/><Settlement>Ovaracapa</Settlement>.
-<zbr/><Settlement>Escudo</Settlement>.
-<zbr/><Settlement>Tortuga</Settlement>.
-<zbr/><Settlement>Trinidad</Settlement>. 
+<zbr/><Landmark>Assapara</Landmark>.
+<zbr/><Landmark>Blanca</Landmark>.
+<zbr/><Landmark>Cayena</Landmark>.
+<zbr/>###<Landmark>Coche</Landmark>.
+<zbr/><Landmark>Cubagua</Landmark>.
+<zbr/><Landmark>Iracapono</Landmark>.
+<zbr/><Landmark>Maiparo</Landmark>.
+<zbr/><Landmark>Maraca</Landmark>.
+<zbr/><Landmark>Marasi</Landmark>.
+<zbr/><Landmark>Margarita</Landmark>.
+<zbr/><Landmark>Ovaracapa</Landmark>.
+<zbr/><Landmark>Escudo</Landmark>.
+<zbr/><Landmark>Tortuga</Landmark>.
+<zbr/><Landmark>Trinidad</Landmark>. 
 <zbr/>$$$
 <zbr/>§§§id_00759§§§
 <zbr/>#ANDAMARCA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla</Territory>, en el <Territory>Perú</Territory>.
@@ -568,22 +568,22 @@
 <zbr/>ßßß
 <zbr/>#De los <humanGroup type="political_group">ingleses</humanGroup>:
 <zbr/>Vírgenes.
-<zbr/><Settlement>Anguila</Settlement>.
-<zbr/><Settlement>S. Christóbal</Settlement>.
-<zbr/><Settlement>Barbada</Settlement>.
-<zbr/><Settlement>Nieves</Settlement>.
-<zbr/><Settlement>Antigua</Settlement>.
-<zbr/><Settlement>Monserrat</Settlement>.
-<zbr/><Settlement>Marigalante</Settlement>.
-<zbr/><Settlement>Santa Cruz</Settlement>.
+<zbr/><Landmark>Anguila</Landmark>.
+<zbr/><Landmark>S. Christóbal</Landmark>.
+<zbr/><Landmark>Barbada</Landmark>.
+<zbr/><Landmark>Nieves</Landmark>.
+<zbr/><Landmark>Antigua</Landmark>.
+<zbr/><Landmark>Monserrat</Landmark>.
+<zbr/><Landmark>Marigalante</Landmark>.
+<zbr/><Landmark>Santa Cruz</Landmark>.
 <zbr/>##De los <humanGroup type="political_group">franceses</humanGroup>:
-<zbr/><Settlement>S. Bartolomé</Settlement>.
-<zbr/><Settlement>Guadalupe</Settlement>.
-<zbr/><Settlement>Deseada</Settlement>. 
-<zbr/><Settlement>Los Santos</Settlement>.
-<zbr/><Settlement>Martinica</Settlement>.
-<zbr/><Settlement>Granada</Settlement>.
-<zbr/>De los <LOC>Franc</LOC>. y <LOC>Hol</LOC>. <Settlement>San Martín</Settlement>. 
+<zbr/><Landmark>S. Bartolomé</Landmark>.
+<zbr/><Landmark>Guadalupe</Landmark>.
+<zbr/><Landmark>Deseada</Landmark>. 
+<zbr/><Landmark>Los Santos</Landmark>.
+<zbr/><Landmark>Martinica</Landmark>.
+<zbr/><Landmark>Granada</Landmark>.
+<zbr/>De los <LOC>Franc</LOC>. y <LOC>Hol</LOC>. <Landmark>San Martín</Landmark>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0120@@@
 <zbr/>
@@ -595,18 +595,18 @@
 <zbr/>
 <zbr/>De los <humanGroup type="political_group">Españoles</humanGroup>: 
 <zbr/>Margarita.
-<zbr/><Settlement>Trinidad</Settlement>. 
+<zbr/><Landmark>Trinidad</Landmark>. 
 <zbr/>
-<zbr/>##De los Dinamarqueses:
-<zbr/><Settlement>Santo Tomé</Settlement>. 
+    <zbr/>##De los <humanGroup type="political_group">Dinamarqueses</humanGroup>:
+<zbr/><Landmark>Santo Tomé</Landmark>. 
 <zbr/>Caribes:
-<zbr/><Settlement>Dominica</Settlement>.
-<zbr/><Settlement>San Vicente</Settlement>.
-<zbr/><Settlement>Becoya</Settlement>.
+<zbr/><Landmark>Dominica</Landmark>.
+<zbr/><Landmark>San Vicente</Landmark>.
+<zbr/><Landmark>Becoya</Landmark>.
 <zbr/>
 <zbr/>Desiertas:
 <zbr/><Territory>Tabago</Territory>.
-<zbr/><Settlement>Santa Lucía</Settlement>.
+<zbr/><Landmark>Santa Lucía</Landmark>.
 <zbr/>$$$
 <zbr/>
 <zbr/>#Casi todas logran un temperamento muy benigno, y no se conoce en ellas el Invierno, ni el frío; el campo siempre se mantiene verde, y su terreno es muy fértil en toda especie de frutos, particularmente azúcar, aguardiente, algodón, genjibre, añil, café y tabaco, que son los principales ramos de su comercio. Ademas de las dichas hay la Anegada, Sombrero, Saba, Granadilla, y otras más pequeñas, que mejor se pueden llamar <Concept_Landmark>Islotes</Concept_Landmark> o <Concept_Landmark>peñascos</Concept_Landmark>; al tiempo de su descubrimiento estaban pobladas de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup>, Antropófagos o comedores de carne humana, muy feroces, de que hoy han quedado pocos habitantes en las más pequeñas. Los <humanGroup type="social_group">Europeos</humanGroup> se establecieron en ellas el año de 1625, después que los <humanGroup type="social_group">Españoles</humanGroup> desde su descubrimiento poseían las principales, llevando <humanGroup type="social_group">Colonos</humanGroup> a ellas los <humanGroup type="political_group">Ingleses</humanGroup>, <humanGroup type="political_group">Franceses</humanGroup>, <humanGroup type="political_group">Holandeses</humanGroup> y <humanGroup type="political_group">Dinamarqueses</humanGroup>, y <humanGroup type="social_group">Negros</humanGroup> de la Cos##ta de <Territory>Africa</Territory> para los trabajos, de que es la mayor parte de su población: las viñas, aunque han prendido allí, son poco durables los vinos. Están muy sujetas a uracanes violentos, y rara vez pasan cinco años sin que haga terribles estragos en alguna de ellas.

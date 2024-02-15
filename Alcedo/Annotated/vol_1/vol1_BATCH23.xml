@@ -83,7 +83,7 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0550@@@
 <zbr/>
-<zbr/>#<LOC>San Francisco</LOC>.
+<zbr/>#<Settlement>San Francisco</Settlement>.
 <zbr/><Settlement>San Mateo</Settlement>.
 <zbr/><Settlement>San Gabriel</Settlement>.
 <zbr/><Settlement>San Lucas</Settlement>.
@@ -312,7 +312,7 @@
 <zbr/><Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>San Antonio de Esquilache</Settlement>.
 <zbr/>##<Settlement>Pomata</Settlement>.
 <zbr/><Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>Huacullani</Settlement>.
-<zbr/><Concept_Settlement>Asiento</Concept_Settlement> del Desaguadero. 
+    <zbr/><Concept_Settlement>Asiento</Concept_Settlement> del <Settlement>Desaguadero</Settlement>. 
 <zbr/>
 <zbr/>###<Settlement>Acora</Settlement>.
 <zbr/><Settlement>Hilave</Settlement>.
