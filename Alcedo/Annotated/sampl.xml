@@ -6,11 +6,12 @@
     leguas de largo N S, y su terreno es todo de <Concept_Landmark>cerros</Concept_Landmark>
     quebrados y barrancas intransibles e incapaces de cultivo; de Oriente a Poniente tiene dos
     leguas de ancho, y en los pocos llanos que hay cogen cortas cosechas de trigo, maíz, lentejas y
-    frutas de ##la tierra, que es lo <Landmark>único</Landmark> en que trafican, pues aunque
-    antiguamente <Landmark>cogían</Landmark> crecidas porciones de grana, hoy no tienen este
-    beneficio por haber dexado perder los Indios las nopaleras que la producían, sin saberse el
-    motivo de abandonar un renglón de tanta utilidad, que es el <Settlement>fruto</Settlement> de
-    más estimación en aquel <Concept_Territory>Reyno</Concept_Territory>, de que se infiere que por
+    frutas de ##la tierra, que es lo <Landmark>único</Landmark> en que
+        <Settlement>trafican</Settlement>, pues aunque antiguamente <Landmark>cogían</Landmark>
+    crecidas porciones de grana, hoy no tienen este beneficio por haber dexado perder los
+        <humanGroup>Indios</humanGroup> las nopaleras que la producían, sin saberse el motivo de
+    abandonar un renglón de tanta utilidad, que es el <Settlement>fruto</Settlement> de más
+    estimación en aquel <Concept_Territory>Reyno</Concept_Territory>, de que se infiere que por
     escasez de medios en sus naturales ha decaído su beneficio, pues al presente se coge tan poca
     que les dexa menos lucro que el <Landmark>fruto</Landmark> más inferior de esta
         <Concept_Territory>jurisdicción</Concept_Territory>, que se halla tan pobre, que sabiéndose
@@ -19,12 +20,12 @@
     desamparando y agregándose a otras <Concept_Territory>jurisdicciones</Concept_Territory>, como
     se evidencia de que pagan los tributos en la de <Territory>Coautla Amipas</Territory>,
     solicitando sus comodidades fuera: consta su Población de solos tres
-        <Concept_Settlement>Pueblos</Concept_Settlement>, que son <Settlement>Metepec</Settlement>,
-        <Settlement>Xuchicalco</Settlement> y <Settlement>Hueyapan</Settlement>: la
+        <Concept_Settlement>Pueblos</Concept_Settlement>, que son Metepec,
+        <Settlement>Xuchicalco</Settlement> y <Territory>Hueyapan</Territory>: la
         <Concept_Settlement>Capital</Concept_Settlement> es el
         <Concept_Settlement>Pueblo</Concept_Settlement> de su nombre, tiene 100 familias de indios
-    Me @@@Alcedo_vol_5-0103@@@ #xicanos y 10 de Españoles, y un Convento de <humanGroup
-        type="religious_group">Religiosos de Santo Domingo</humanGroup>: está 20 leguas al SE de
+        <humanGroup>Me @@@Alcedo_vol_5-0103@@@ #xicanos</humanGroup> y 10 de Españoles, y un
+    Convento de Religiosos de <Territory>Santo Domingo</Territory>: está 20 leguas al SE de
         <Settlement>México</Settlement>, en 274 gr. 30 min. de long. y en 19 gr. 35 min. de lat.
     §§§id_16137§§§ Tiene el <humanGroup type="indigenous_group">mismo nombre</humanGroup> con la
     advocación de <humanGroup type="political_group">San Gaspar</humanGroup> otro
