@@ -164,16 +164,16 @@ PIRITU, <Concept_Territory>Provincia</Concept_Territory> del <Territory>Nuevo Re
 ßßß<zbr/>
 #Nra. Sra. de la Concepción del Piritú. <zbr/>
 <Settlement>Sta. Clara de Zapata</Settlement>. <zbr/>
-##S. <LOC>Antonio de Manareima</LOC>. <zbr/>
-S. <LOC>Joseph de Chiguatacuar</LOC>. <zbr/>
-###S. <LOC>Miguel de Araveneicuar</LOC>. <zbr/>
-Jesús, María y <LOC>Joseph de Caigua Patar</LOC>. <zbr/>
+##<Settlement>S. Antonio de Manareima</Settlement>. <zbr/>
+<Settlement>S. Joseph de Chiguatacuar</Settlement>. <zbr/>
+###<Settlement>S. Miguel de Araveneicuar</Settlement>. <zbr/>
+<Settlement>Jesús, María y Joseph de Caigua Patar</Settlement>. <zbr/>
 <zbr/>
 @@@Alcedo_vol_4-0232@@@<zbr/>
 <zbr/>
-#S. <LOC>Antonio de Clarines</LOC>. <zbr/>
-<Settlement>Ntra</Settlement>. Sra. del <persName>Pilar de Guaimacuar</persName>. <zbr/>
-S. <LOC>Juan Evangelista de Aguaritacuar</LOC>. <zbr/>
+#<Settlement>S. Antonio de Clarines</Settlement>. <zbr/>
+<Settlement>Ntra. Sra. del Pilar de Guaimacuar</Settlement>. <zbr/>
+<Settlement>S. Juan Evangelista de Aguaritacuar</Settlement>. <zbr/>
 <Settlement>S. Lorenzo de Aguaritacuar</Settlement>. <zbr/>
 <Settlement>San Buenaventura de Chacopata</Settlement>. <zbr/>
 <Settlement>S. Diego de Chacopata</Settlement>. <zbr/>
@@ -181,7 +181,7 @@ S. <LOC>Juan Evangelista de Aguaritacuar</LOC>. <zbr/>
 <Settlement>San Bernardino Guertecuar</Settlement>. <zbr/>
 <Settlement>San Pablo de Mataruco</Settlement>. <zbr/>
 <Settlement>Santísimo Christo de Pariaguan</Settlement>. <zbr/>
-##<Settlement>Ntra</Settlement>. Sra. de los <LOC>Dolores de Quiamare</LOC>. <zbr/>
+##<Settlement>Ntra. Sra. de los Dolores de Quiamare</Settlement>. <zbr/>
 <Settlement>Sta. Cruz de Cachipo</Settlement>. <zbr/>
 <Settlement>Sta. Clara de Aribi</Settlement>. <zbr/>
 <Settlement>Encarnación de Mustacu</Settlement>. <zbr/>
@@ -190,7 +190,8 @@ S. <LOC>Juan Evangelista de Aguaritacuar</LOC>. <zbr/>
 <Settlement>San Juan Evangelista del Tucuyo</Settlement>. <zbr/>
 <Settlement>San Juan Capistrano de Puruey</Settlement>. <zbr/>
 <Settlement>Pozuelos</Settlement>. <zbr/>
-<Settlement>Roldanillo</Settlement>. <Settlement>San Diego de Cuacuar</Settlement>. <zbr/>
+<Settlement>Roldanillo</Settlement>. <zbr/>
+<Settlement>San Diego de Cuacuar</Settlement>. <zbr/>
 <Settlement>Santo Domingo de Araguita</Settlement>. <zbr/>
 ###<Settlement>San Pedro Alcántara de Chupaquire</Settlement>. <zbr/>
 <Settlement>San Mateo de Orituco</Settlement>. <zbr/>
@@ -198,12 +199,12 @@ S. <LOC>Juan Evangelista de Aguaritacuar</LOC>. <zbr/>
 <Settlement>Santa Bárbara</Settlement>. <zbr/>
 <Settlement>S. Joaquin de Pariri</Settlement>. <zbr/>
 <Settlement>Sta. Rosa de Ocopi</Settlement>. <zbr/>
-<Settlement>Ntra</Settlement>. Sra. de <Settlement>Chamariapa</Settlement>. <zbr/>
+<Settlement>Ntra. Sra. de Chamariapa</Settlement>. <zbr/>
 <Settlement>San Antonio de Guazaiparo</Settlement>. <zbr/>
 <Settlement>Mucuras</Settlement>. <zbr/>
 <Settlement>Atapiriri</Settlement>. <zbr/>
-<LOC>San Pedro Regalado de Cabrutica</LOC>. <zbr/>
-<LOC>San Francisco Solano del Platanar</LOC>: <zbr/>
+<Settlement>San Pedro Regalado de Cabrutica</Settlement>. <zbr/>
+<Settlement>San Francisco Solano del Platanar</Settlement>: <zbr/>
 $$$<zbr/>
 #el nombre de <LOC>Piritú</LOC> lo toma del <Concept_Territory>país</Concept_Territory> o <Concept_Territory>territorio</Concept_Territory> que habitaban sus <humanGroup type="social_group">naturales</humanGroup>, por la abundancia que hay en él de una especie de palma pequeña, cuyo fruto es unos racimitos como de uvas en agraz, y su tronco es como una caña, cubierto de espinas, muy negro, y tan fuerte y terso que lo usan para hacer pipas en que fumar tabaco porque resiste mucho al fuego: el que quisiere instruirse más en este ##artículo puede ver la conversión de Indios del <LOC>Piritú</LOC>, escrito por el P. Fr. <persName>Matías Ruiz Blanco</persName>, y la Historia de la <Territory>Nueva Andalucía</Territory> de Fr. <persName>Antonio Caulin</persName>, ambos Religiosos Misioneros Apostólicos del Orden de San Francisco en esta <Concept_Territory>Provincia</Concept_Territory>. <zbr/>
 <zbr/>

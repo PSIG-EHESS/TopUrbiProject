@@ -601,7 +601,7 @@ RIOBAMBA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>
 ___En el primero.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-# Calpi. <zbr/>
+#Calpi. <zbr/>
 <Settlement>Lican</Settlement>. <zbr/>
 <Settlement>Yaruquiz</Settlement>.<zbr/>
 <Settlement>San Luis</Settlement>.<zbr/>
@@ -624,12 +624,12 @@ $$$<zbr/>
 ___ En el <Concept_District>partido</Concept_District> de <Settlement>Ambato</Settlement>.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-# Isamba. <zbr/>
+#Isamba. <zbr/>
 Quisapincha. <zbr/>
 ##<Settlement>Quero</Settlement>. <zbr/>
 Peliléo. <zbr/>
-###<LOC>Patate</LOC>. <zbr/>
-<LOC>Sta</LOC>. <Settlement>Rosa de Pilaguin</Settlement>. <zbr/>
+###<Settlement>Patate</Settlement>. <zbr/>
+<Settlement>Sta. Rosa de Pilaguin</Settlement>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_14125§§§<zbr/>

@@ -69,43 +69,44 @@ GALICIA, Nueva) <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Am
 #godón: se adornan el cuello, <Concept_Landmark>brazos</Concept_Landmark> y piernas con sartas de cuentas verdes de vidrio, y caracoles pequeños; muy inclinados a baylar todo el día con el tamboril, que es de un madero hueco, y sonido muy ronco, para lo qual se pintan y engalanan con muchas plumas de colores, y el bayle para en emborracharse con vino de maguey, cuyo cultivo es el único a que se aplican despreciando el de todos los demás frutos: no tienen amor a la patria, ni a lo que heredan de sus pasados: usan mucho la bebida del cacao mezclado con maíz y pimienta, cuya mezcla llevan siempre molida en un saquillo, y en qualquiera parte lo deslien en agua: hacen muy bue##nos texidos de lana, algodón y pluma en telares que llevan consigo, y los cuelgan a la sombra del primer árbol en que quieren trabajar, y aunque pudieran cultivar mucho algodón no lo hacen: el principal comercio de este <Concept_Territory>Reyno</Concept_Territory> es de las <Concept_Landmark>minas</Concept_Landmark> de plata, y los <humanGroup type="social_group">Indios</humanGroup> que lo habitan, y son de las <Concept_Group>Naciones</Concept_Group> <humanGroup type="indigenous_group">Cazcanes</humanGroup>, <humanGroup type="indigenous_group">Guachichiles</humanGroup> y <humanGroup type="indigenous_group">Gumares</humanGroup> que tienen idiomas diferentes, en alquilarse para cargar y conducir efectos: consta su Población de treinta y ocho <Concept_Territory>Alcaldías mayores</Concept_Territory>, de todas las quales es la <Concept_Settlement>Capital</Concept_Settlement> <Territory>Guadalaxara</Territory>, en que reside el Tribunal de <Concept_Territory>Real Audiencia</Concept_Territory> que lo gobierna, y toda su extensión pertenece a un <Concept_Territory>Obispado</Concept_Territory>. Las <Concept_Territory>Alcaldías</Concept_Territory> son: <zbr/>
 <zbr/>
 ßßß<zbr/>
-#<Settlement>Guadalaxara</Settlement>.<zbr/>
-<Settlement>Autlán</Settlement>.<zbr/>
-<Settlement>Amola</Settlement>.<zbr/>
-<Settlement>Zayula</Settlement><zbr/>
- <Settlement>Zacatecas</Settlement>.<zbr/>
-<Settlement>Xala</Settlement>.<zbr/>
-<Settlement>Tepic</Settlement>.<zbr/>
-<Settlement>Sentipac</Settlement>.<zbr/>
-<Settlement>Tequepespa</Settlement>.<zbr/>
-<Settlement>Tonalá</Settlement>. <Settlement>Ostotipaquillo</Settlement>.<zbr/>
-<Settlement>Analco</Settlement>.<zbr/>
-<Settlement>Mazapil</Settlement>.<zbr/>
-##<Settlement>Aguas Calientes</Settlement>.<zbr/>
-<Settlement>Zapopán</Settlement>.<zbr/>
-<Settlement>Tala</Settlement>.<zbr/>
-<Settlement>Caxititlán</Settlement>.<zbr/>
-<Settlement>Tlajomulco</Settlement>.<zbr/>
-<Settlement>Zapotlán</Settlement>.<zbr/>
-<Settlement>Izatlán</Settlement>.<zbr/>
-<Settlement>Huauchinango</Settlement>.<zbr/>
-<Settlement>Purificación</Settlement>.<zbr/>
-<Settlement>Ostotipac</Settlement>.<zbr/>
-<Settlement>Compostela</Settlement>.<zbr/>
-<Settlement>Acaponeta</Settlement>.<zbr/>
-<Settlement>Nayarith</Settlement>.<zbr/>
-###<Settlement>Barca</Settlement>.<zbr/>
-<Settlement>Tecpatitlán</Settlement>.<zbr/>
-<Settlement>Lagos</Settlement>.<zbr/>
-<Settlement>Cuquio</Settlement>.<zbr/>
-<Settlement>Tecualtichi</Settlement>.<zbr/>
-<Settlement>Juchipilá</Settlement>.<zbr/>
-<Settlement>Colotlán</Settlement>.<zbr/>
-<Settlement>Xerez</Settlement>.<zbr/>
-<Settlement>Fresnillo</Settlement>.<zbr/>
-<Settlement>Ibarra</Settlement>.<zbr/>
-<Concept_Landmark>Sierra</Concept_Landmark> de Pinos<zbr/>
-<Settlement>Charcas</Settlement>.<zbr/>
+#<Territory>Guadalaxara</Territory>.<zbr/>
+<Territory>Autlán</Territory>.<zbr/>
+<Territory>Amola</Territory>.<zbr/>
+<Territory>Zayula</Territory><zbr/>
+ <Territory>Zacatecas</Territory>.<zbr/>
+<Territory>Xala</Territory>.<zbr/>
+<Territory>Tepic</Territory>.<zbr/>
+<Territory>Sentipac</Territory>.<zbr/>
+<Territory>Tequepespa</Territory>.<zbr/>
+<Territory>Tonalá</Territory>. 
+ <Territory>Ostotipaquillo</Territory>.<zbr/>
+<Territory>Analco</Territory>.<zbr/>
+<Territory>Mazapil</Territory>.<zbr/>
+##<Territory>Aguas Calientes</Territory>.<zbr/>
+<Territory>Zapopán</Territory>.<zbr/>
+<Territory>Tala</Territory>.<zbr/>
+<Territory>Caxititlán</Territory>.<zbr/>
+<Territory>Tlajomulco</Territory>.<zbr/>
+<Territory>Zapotlán</Territory>.<zbr/>
+<Territory>Izatlán</Territory>.<zbr/>
+<Territory>Huauchinango</Territory>.<zbr/>
+<Territory>Purificación</Territory>.<zbr/>
+<Territory>Ostotipac</Territory>.<zbr/>
+<Territory>Compostela</Territory>.<zbr/>
+<Territory>Acaponeta</Territory>.<zbr/>
+<Territory>Nayarith</Territory>.<zbr/>
+###<Territory>Barca</Territory>.<zbr/>
+<Territory>Tecpatitlán</Territory>.<zbr/>
+<Territory>Lagos</Territory>.<zbr/>
+<Territory>Cuquio</Territory>.<zbr/>
+<Territory>Tecualtichi</Territory>.<zbr/>
+<Territory>Juchipilá</Territory>.<zbr/>
+<Territory>Colotlán</Territory>.<zbr/>
+<Territory>Xerez</Territory>.<zbr/>
+<Territory>Fresnillo</Territory>.<zbr/>
+<Territory>Ibarra</Territory>.<zbr/>
+<Territory>Sierra de Pinos</Territory><zbr/>
+<Territory>Charcas</Territory>.<zbr/>
 $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0181@@@<zbr/>

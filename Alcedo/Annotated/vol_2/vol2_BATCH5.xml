@@ -144,47 +144,48 @@ Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory
 También llaman <Concept_Landmark>Estero</Concept_Landmark> en la <Territory>América</Territory> a los <Concept_Landmark>canales</Concept_Landmark> de agua del <Concept_Landmark>mar</Concept_Landmark> que entran algunas leguas tierra adentro: hay muchos en las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Guayaquil</Territory>, de <Territory>Panamá</Territory>, y de <Territory>Cartagena</Territory>, los más nombrados son: <zbr/>
 <zbr/>
 ßßß<zbr/>
-#___En <Settlement>Guayaquil</Settlement>___.<zbr/>
+#___En <Landmark>Guayaquil</Landmark>___.<zbr/>
 <Concept_Landmark>Estero</Concept_Landmark> del <Concept_Landmark>Morro</Concept_Landmark>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> Quemado.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Pan</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Bravo</Settlement>. <Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Mandinga</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Balzas</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Manglares</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Hostiones</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> Viejo.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Salado</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Rey</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement> S. Juan Baptista</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Salinas</Settlement>.<zbr/>
-##<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Buey</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Lagartos</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Santa Lucía</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Chuchos</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Zambo</Settlement>.<zbr/>
-___En <Settlement>Panamá</Settlement>.___<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Rey</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <LOC>Congo</LOC>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <LOC>Maestro</LOC>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <LOC>Pacheco</LOC>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> Mayor.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Capira</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> Lucio.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Gatos</Settlement>.<zbr/>
-###<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Palmas</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Seco</Settlement>.<zbr/>
-___En <Settlement>Cartagena</Settlement>___.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Bobo</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Cocos</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Manoa</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de S. Joseph.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Tortugas</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Santa María</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Grande</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> del <Settlement>Hospital</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> <Settlement>Salado</Settlement>.<zbr/>
-<Settlement>Esterillo</Settlement>.<zbr/>
-<Concept_Landmark>Estero</Concept_Landmark> de <Settlement>Patos</Settlement>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Quemado</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Pan</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Bravo</Landmark>. 
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Mandinga</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Balzas</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Manglares</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Hostiones</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Viejo</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Salado</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Rey</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark> S. Juan Baptista</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Salinas</Landmark>.<zbr/>
+##<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Buey</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Lagartos</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Santa Lucía</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Chuchos</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Zambo</Landmark>.<zbr/>
+___En <Landmark>Panamá</Landmark>.___<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Rey</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Congo</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Maestro</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Pacheco</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Mayor</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Capira</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Lucio</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Gatos</Landmark>.<zbr/>
+###<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Palmas</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Seco</Landmark>.<zbr/>
+___En <Landmark>Cartagena</Landmark>___.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Bobo</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Cocos</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Manoa</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>S. Joseph</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Tortugas</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Santa María</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Grande</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> del <Landmark>Hospital</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> <Landmark>Salado</Landmark>.<zbr/>
+<Landmark>Esterillo</Landmark>.<zbr/>
+<Concept_Landmark>Estero</Concept_Landmark> de <Landmark>Patos</Landmark>.<zbr/>
 $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0110@@@<zbr/>

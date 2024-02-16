@@ -43,33 +43,31 @@ GUATEMALA, y no Goatemala como escriben otros, derivado del nombre Quauthemallan
 #abundante pesca: tiene muchas <Concept_Landmark>minas</Concept_Landmark> de varios metales, que producen grandes riquezas, y particularmente las de plata: riéganle muchos <Concept_Landmark>ríos</Concept_Landmark> caudalosos, que unos desaguan en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Norte</Landmark>, y otros en la del <Landmark>Sur</Landmark>; abunda de sal, que sacan de un modo particular, que es cociendo la tierra que baña el <Concept_Landmark>mar</Concept_Landmark> en hornos para extraerla: conquistó este <Concept_Territory>Reyno</Concept_Territory> el Capitán <persName>Pedro de Alvarado</persName>, natural de <Settlement>Badajoz</Settlement>, el año de 1524 por comisión del célebre con##quistador de <LOC>México</LOC> <persName>Hernán Cortés</persName>; sus naturales seguian los mismos ritos de idolatría que los <humanGroup type="indigenous_group">Mexicanos</humanGroup>; sacrificaban los hombres a sus ídolos y se comian los cuerpos, y tenían pinturas que representaban los hechos de su <Concept_Group>Nación</Concept_Group> por más de 800 años de antigüedad: costó mucho trabajo reducirlos a la Fe Católica poc su indolencia extremada y multitud de idiomas que había: las 13 <Concept_Territory>Provincias</Concept_Territory> referidas se dividen en 25 <Concept_Territory>Gobiernos</Concept_Territory> y <Concept_Territory>Alcaldías mayores</Concept_Territory>, que son <zbr/>
 <zbr/>
 ßßß<zbr/>
-<zbr/>
-#<Settlement>Nicaragua</Settlement>.<zbr/>
-<Settlement>León</Settlement>.<zbr/>
-<Settlement>Castillo de S. Juan</Settlement>.<zbr/>
-<Settlement>Sutiava</Settlement>.<zbr/>
-<Settlement>Matagalpa</Settlement>.<zbr/>
-<Settlement>Matina</Settlement>.<zbr/>
-<Settlement>Comayagua</Settlement>.<zbr/>
-<Settlement>Castillo del Peten</Settlement>.<zbr/>
-<Settlement>San Fernando de <zbr/>
-</Settlement>##<Settlement>Omóa</Settlement>.<zbr/>
-<Settlement>Golfo dulce</Settlement>.<zbr/>
-<Settlement>Totonicapán</Settlement>.<zbr/>
-<Settlement>San Salvador</Settlement>.<zbr/>
-<Settlement>Vera Paz</Settlement>.<zbr/>
-<Settlement>Escuintla</Settlement>.<zbr/>
-<Settlement>Amatitanes</Settlement>.<zbr/>
-<Settlement>Soconusco</Settlement>.<zbr/>
-<Settlement>Quesaltenango</Settlement>.<zbr/>
-###<Settlement>San Miguel</Settlement>.<zbr/>
-<Settlement>Chiquimula</Settlement>.<zbr/>
-<Settlement>Valle de Guatemala</Settlement>.<zbr/>
-<Settlement>Tuxtla</Settlement>.<zbr/>
-<Settlement>Solola</Settlement>.<zbr/>
-<Settlement>Suchitepeque</Settlement>.<zbr/>
-<Settlement>Sonsonate</Settlement>.<zbr/>
-<Settlement>Chimaltenango</Settlement>.<zbr/>
+#<Territory>Nicaragua</Territory>.<zbr/>
+<Territory>León</Territory>.<zbr/>
+<Territory>Castillo de S. Juan</Territory>.<zbr/>
+<Territory>Sutiava</Territory>.<zbr/>
+<Territory>Matagalpa</Territory>.<zbr/>
+<Territory>Matina</Territory>.<zbr/>
+<Territory>Comayagua</Territory>.<zbr/>
+<Territory>Castillo del Peten</Territory>.<zbr/>
+<Territory>San Fernando de ##Omóa</Territory>.<zbr/>
+<Territory>Golfo dulce</Territory>.<zbr/>
+<Territory>Totonicapán</Territory>.<zbr/>
+<Territory>San Salvador</Territory>.<zbr/>
+<Territory>Vera Paz</Territory>.<zbr/>
+<Territory>Escuintla</Territory>.<zbr/>
+<Territory>Amatitanes</Territory>.<zbr/>
+<Territory>Soconusco</Territory>.<zbr/>
+<Territory>Quesaltenango</Territory>.<zbr/>
+###<Territory>San Miguel</Territory>.<zbr/>
+<Territory>Chiquimula</Territory>.<zbr/>
+<Territory>Valle de Guatemala</Territory>.<zbr/>
+<Territory>Tuxtla</Territory>.<zbr/>
+<Territory>Solola</Territory>.<zbr/>
+<Territory>Suchitepeque</Territory>.<zbr/>
+<Territory>Sonsonate</Territory>.<zbr/>
+<Territory>Chimaltenango</Territory>.<zbr/>
 $$$<zbr/>
 <zbr/>
 #Gobiérnase este <Concept_Territory>Reyno</Concept_Territory> por un Presidente que es Capitán General de el, con subordinación al Virrey de <Territory>México</Territory>, y una Audiencia Real establecida el año de 1544, que al principio se llamó de los Confines porque estaba en la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Gracias a Dios</Settlement>; y su Ar##zobispado tiene por sufragáneos a los <Concept_Territory>Obispados</Concept_Territory> de <Territory>Chiapa</Territory>, <Territory>Honduras</Territory> y <Territory>Nicaragua</Territory>: la <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Santiago de Guatemala</Settlement>. <zbr/>
@@ -417,14 +415,14 @@ GUAYANA, <Concept_Territory>Provincia</Concept_Territory> grande del <Concept_Te
 #los <Concept_Landmark>bosques</Concept_Landmark>, son los <LOC>Arvacas</LOC> y los Caribes marítimos y terrestres, los Yaos, Aricuris, Aricaretes, <Landmark>Sebayos</Landmark>, <Landmark>Papinis</Landmark> y <Landmark>Caribines</Landmark>, y las <Concept_Landmark>Islas</Concept_Landmark> de más consideración <Landmark>Casana</Landmark>, <Landmark>Maraca</Landmark>, <Landmark>Maiparo</Landmark>, <Landmark>Iracapono</Landmark> y <Landmark>Ovaracapa</Landmark>: los primeros Religiosos que entraron a la conversión de estos Indios fueron los PP. <persName>Ignacio Llauri</persName> y <persName>Julian de ##Vergara</persName> de la extinguida Compañía el año de 1576, que tres años después se retiraron obligados de la necesidad por la invasión del Capitán <persName>Janson</persName>, Holandés; el de 1687 entraron los PP. Capuchinos de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cataluña</Territory> que tienen hecho copioso fruto, y fundados 28 <Concept_Settlement>Pueblos</Concept_Settlement>, que son <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Caroni:<zbr/>
-<LOC>Santa María</LOC>:<zbr/>
+#<Settlement>Caroni</Settlement>:<zbr/>
+<Settlement>Santa María</Settlement>:<zbr/>
 <Settlement>Cupapuy</Settlement>:<zbr/>
 <Settlement>Palmar</Settlement>:<zbr/>
 <Settlement>San Antonio</Settlement>:<zbr/>
 <Settlement>Altagracia</Settlement>:<zbr/>
 <Settlement>San Joseph</Settlement>:<zbr/>
-<LOC>Divina Pastora</LOC>:<zbr/>
+<Settlement>Divina Pastora</Settlement>:<zbr/>
 <Settlement>Miamo</Settlement>:<zbr/>
 <Settlement>Carapo</Settlement>: <zbr/>
 ##<Settlement>Morocuri</Settlement>:<zbr/>
@@ -437,8 +435,8 @@ GUAYANA, <Concept_Territory>Provincia</Concept_Territory> grande del <Concept_Te
 <Settlement>Puedpa</Settlement>:<zbr/>
 <Settlement>Aguri</Settlement>:<zbr/>
 <Settlement>Santa Ana</Settlement>: <zbr/>
-###<LOC>Santa Rosa</LOC>:<zbr/>
-<LOC>Monte Calvario</LOC>:<zbr/>
+###<Settlement>Santa Rosa</Settlement>:<zbr/>
+<Settlement>Monte Calvario</Settlement>:<zbr/>
 <Settlement>San Pedro</Settlement>:<zbr/>
 <Settlement>Barinagotos</Settlement>:<zbr/>
 <Settlement>Upata</Settlement>:<zbr/>

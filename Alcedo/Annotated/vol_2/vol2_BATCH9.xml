@@ -253,24 +253,22 @@ GRAMADAL, Punta de) en la <Concept_Landmark>Costa</Concept_Landmark> del <Territ
 GRANADA, Nuevo Reyno de) en la <Territory>América Meridional</Territory>, confina por el Oriente hasta el Mediodía con los dilatados <LOC>Llanos de S. Juan</LOC>, al Occidente por unas <Concept_Landmark>montañas</Concept_Landmark> y <Concept_Landmark>bosques</Concept_Landmark> espesísimos y de mucha longitud, y al Septentrión con otras asperísimas <Concept_Landmark>montañas</Concept_Landmark> que llegan hasta las <Concept_Landmark>Costas</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>: tiene 80 leguas de largo N S, y pocas menos de ancho E O: llamose en tiempo de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Cundinamarca</humanGroup>: lo descubrió y conquistó <persName>Gonzalo Ximénez de Quesada</persName>, que le puso el nombre en memoria del <Concept_Territory>Reyno</Concept_Territory> que le tiene en <Territory>Andalucía</Territory> de donde era natural: contiene las <Concept_Territory>Provincias</Concept_Territory> de <zbr/>
 <zbr/>
 ßßß<zbr/>
-#<Settlement>Bogotá</Settlement>.<zbr/>
-<Settlement>Velez</Settlement>.<zbr/>
-<Settlement>Pamplona</Settlement>.<zbr/>
-<Settlement>La Grita</Settlement>.<zbr/>
-##<Settlement>Mérida</Settlement>.<zbr/>
-<Settlement>Muzo</Settlement>.<zbr/>
-<Settlement>Ubaté</Settlement>.<zbr/>
-<Settlement>Panches</Settlement>.<zbr/>
-###<Settlement>Neiba</Settlement>.<zbr/>
-<Settlement>Marquetones</Settlement>.<zbr/>
-<Settlement>Sutagaos</Settlement>.<zbr/>
-<Settlement>Ubaqué</Settlement>.<zbr/>
-####<zbr/>
-<zbr/>
-<Settlement>Tenza</Settlement>.<zbr/>
-<Settlement>Lengupa</Settlement>.<zbr/>
-<Settlement>Sogamoso</Settlement>.<zbr/>
-<Settlement>Chita</Settlement>.<zbr/>
+#<Territory>Bogotá</Territory>.<zbr/>
+<Territory>Velez</Territory>.<zbr/>
+<Territory>Pamplona</Territory>.<zbr/>
+<Territory>La Grita</Territory>.<zbr/>
+##<Territory>Mérida</Territory>.<zbr/>
+<Territory>Muzo</Territory>.<zbr/>
+<Territory>Ubaté</Territory>.<zbr/>
+<Territory>Panches</Territory>.<zbr/>
+###<Territory>Neiba</Territory>.<zbr/>
+<Territory>Marquetones</Territory>.<zbr/>
+<Territory>Sutagaos</Territory>.<zbr/>
+<Territory>Ubaqué</Territory>.<zbr/>
+####<Territory>Tenza</Territory>.<zbr/>
+<Territory>Lengupa</Territory>.<zbr/>
+<Territory>Sogamoso</Territory>.<zbr/>
+<Territory>Chita</Territory>.<zbr/>
 $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0209@@@<zbr/>
@@ -294,7 +292,7 @@ $$$<zbr/>
 #___CATALOGO DE LAS NACIONES BARBARAS y principales Lugares del <Territory>Nuevo Reyno de Granada</Territory>___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#CIUDADES.<zbr/>
+#___CIUDADES___.<zbr/>
 <Settlement>Agreda</Settlement>.<zbr/>
 <Settlement>Altagracia</Settlement>.<zbr/>
 <Settlement>Angeles</Settlement>.<zbr/>
@@ -332,188 +330,188 @@ $$$<zbr/>
 <Settlement>Tunja</Settlement>.<zbr/>
 <Settlement>Velez</Settlement>.<zbr/>
 <Settlement>Victoria</Settlement>.<zbr/>
-Zaragoza.<zbr/>
-NACIONES.<zbr/>
-<Settlement>Abanes</Settlement>.<zbr/>
-<Settlement>Achaguas</Settlement>.<zbr/>
-<Settlement>Adoles</Settlement>.<zbr/>
-<Settlement>Agnalos</Settlement>.<zbr/>
-<Settlement>Amucas</Settlement>.<zbr/>
-<Settlement>Andaquies</Settlement>.<zbr/>
-<Settlement>Airicos</Settlement>.<zbr/>
-<Settlement>Barbures</Settlement>.<zbr/>
-<Settlement>Betoyes</Settlement>.<zbr/>
-<Settlement>Bodiguas</Settlement>.<zbr/>
-<Settlement>Bondas</Settlement>.<zbr/>
-<Settlement>Caberres</Settlement>.<zbr/>
-<Settlement>Calandaimas</Settlement>.<zbr/>
-<Settlement>Cayos</Settlement>.<zbr/>
-<Settlement>Cayvanis</Settlement>.<zbr/>
-Chimicas.<zbr/>
-Chimilas.<zbr/>
-<Settlement>Chinatos</Settlement>.<zbr/>
-Chiricoas.<zbr/>
-Chiscas.<zbr/>
-Chitanos.<zbr/>
-Choques.<zbr/>
-<Settlement>Chyayzaques</Settlement>.<zbr/>
-<Settlement>Colimas</Settlement>.<zbr/>
-<Settlement>Corumenes</Settlement>.<zbr/>
-<Settlement>Doas</Settlement>.<zbr/>
-<Settlement>Doimas</Settlement>.<zbr/>
-###<Settlement>Fusungaes</Settlement>.<zbr/>
-Geruras.<zbr/>
-Gorrones.<zbr/>
-Guachicos.<zbr/>
-Guamos.<zbr/>
-Guaneros.<zbr/>
-Guapis.<zbr/>
-Guaraepoanos.<zbr/>
-Guaranos.<zbr/>
-Guaraunas.<zbr/>
-Guarinoes.<zbr/>
-Guatabitas.<zbr/>
-Guaticas.<zbr/>
-Guaxiros.<zbr/>
-Guaibas.<zbr/>
-Guaiquiries.<zbr/>
-Guazquias.<zbr/>
-<LOC>Iraruros</LOC>.<zbr/>
-Itotos. <zbr/>
-eribocas.<zbr/>
-<LOC>Jiraras</LOC>.<zbr/>
-<LOC>Laches</LOC>.<zbr/>
-<Settlement>Lolucos</Settlement>.<zbr/>
-<Settlement>Macos</Settlement>.<zbr/>
-<Settlement>Malambos</Settlement>.<zbr/>
-Malifilitos.<zbr/>
-Mapoyes.<zbr/>
-Marquetones.<zbr/>
-Mazques.<zbr/>
-Malpures.<zbr/>
-Moscas o Muiscas.<zbr/>
-<Settlement>Muzos</Settlement>.<zbr/>
-<Settlement>Natagaimas</Settlement>.<zbr/>
-<Settlement>Nauras</Settlement>.<zbr/>
-Orotomecas.<zbr/>
+<Settlement>Zaragoza</Settlement>.<zbr/>
+___NACIONES___.<zbr/>
+<humanGroup type="indigenous_group">Abanes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Achaguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Adoles</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Agnalos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Amucas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Andaquies</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Airicos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Barbures</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Betoyes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Bodiguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Bondas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Caberres</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Calandaimas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cayos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cayvanis</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chimicas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chimilas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chinatos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chiricoas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chiscas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chitanos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Choques</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chyayzaques</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Colimas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Corumenes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Doas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Doimas</humanGroup>.<zbr/>
+###<humanGroup type="indigenous_group">Fusungaes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Geruras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Gorrones</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guachicos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guamos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaneros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guapis</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaraepoanos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaranos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaraunas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guarinoes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guatabitas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaticas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaxiros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaibas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaiquiries</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guazquias</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Iraruros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Itotos</humanGroup>. <zbr/>
+<humanGroup type="indigenous_group">Jeribocas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Jiraras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Laches</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Lolucos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Macos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Malambos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Malifilitos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Mapoyes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Marquetones</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Mazques</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Maipures</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Moscas</humanGroup> o <humanGroup type="indigenous_group">Muiscas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Muzos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Natagaimas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Nauras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Orotomecas</humanGroup>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0214@@@<zbr/>
 <zbr/>
-#Otomacos.<zbr/>
-Paeces.<zbr/>
-Palamos.<zbr/>
-Paos.<zbr/>
-Parriparries.<zbr/>
-Pastagoros.<zbr/>
-Pazcas.<zbr/>
-Pijaos.<zbr/>
-Quecas.<zbr/>
-Quilla-chingas.<zbr/>
-Quinchias.<zbr/>
-Salivas.<zbr/>
-Supias.<zbr/>
-<Settlement>Sutagaos</Settlement>.<zbr/>
-Tamanacas.<zbr/>
-Tapuyes.<zbr/>
-Teguas.<zbr/>
-Tunebos.<zbr/>
-Urriabaes.<zbr/>
-Zunubas.<zbr/>
+#<humanGroup type="indigenous_group">Otomacos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Paeces</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Palamos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Paos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Parriparries</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pastagoros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pazcas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pijaos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Quecas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Quilla-chingas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Quinchias</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Salivas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Supias</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Sutagaos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tamanacas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tapuyes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Teguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tunebos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Urriabaes</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Zunubas</humanGroup>.<zbr/>
 <zbr/>
-RIOS.<zbr/>
-Albarregas.<zbr/>
-<Settlement>Amariguara</Settlement>.<zbr/>
-<Settlement>Amuturi</Settlement>.<zbr/>
-<Settlement>Anari</Settlement>.<zbr/>
-<Settlement>Apure</Settlement>.<zbr/>
-<Settlement>Aquiri</Settlement>.<zbr/>
-<Settlement>Arauca</Settlement>.<zbr/>
-<Settlement>Aritagua</Settlement>.<zbr/>
-<Settlement>Aroi</Settlement>.<zbr/>
-<Settlement>Atanari</Settlement>.<zbr/>
-<Settlement>Auyama</Settlement>.<zbr/>
-<Settlement>Babillo</Settlement>.<zbr/>
-<Settlement>Benituari</Settlement>.<zbr/>
-<Settlement>Bogotá</Settlement>.<zbr/>
-<Settlement>Burari</Settlement>.<zbr/>
-<Settlement>Cabiari</Settlement>.<zbr/>
-<Settlement>Caboto</Settlement>.<zbr/>
-##<Settlement>Carare</Settlement>.<zbr/>
-<Settlement>Caroni</Settlement>.<zbr/>
-<Settlement>Casiarucuti</Settlement>.<zbr/>
-<Settlement>Cauca</Settlement>.<zbr/>
-<Settlement>Cazanare</Settlement>.<zbr/>
-<Settlement>Cesar o Pompatao</Settlement>.<zbr/>
-<Settlement>Chuma</Settlement>.<zbr/>
-<Settlement>Cravo</Settlement>.<zbr/>
-<Settlement>Cuchiguero</Settlement>.<zbr/>
-<Settlement>Cuiloto</Settlement>.<zbr/>
-<Settlement>Dauney</Settlement>.<zbr/>
-<Settlement>Dubarro</Settlement>.<zbr/>
-<Settlement>Duma</Settlement>.<zbr/>
-<Settlement>Duya</Settlement>.<zbr/>
-<Settlement>Eclava</Settlement>.<zbr/>
-<Settlement>Ele</Settlement>.<zbr/>
-<Settlement>Funzha</Settlement>.<zbr/>
-<Settlement>Fusagasuga</Settlement>.<zbr/>
-<Settlement>Gaira</Settlement>.<zbr/>
-<Settlement>Guali</Settlement>.<zbr/>
-<Settlement>Guamuca</Settlement>.<zbr/>
-<Settlement>Guanapalo</Settlement>.<zbr/>
-<Settlement>Guaricu</Settlement>.<zbr/>
-<Settlement>Guarino</Settlement>.<zbr/>
-<Settlement>Guatapori</Settlement>.<zbr/>
-<Settlement>Inirricha</Settlement>.<zbr/>
-<Settlement>Macomite</Settlement>.<zbr/>
-<Settlement>Magdalena</Settlement>.<zbr/>
-<Settlement>Mamo</Settlement>.<zbr/>
-<Settlement>Manacasia</Settlement>.<zbr/>
-<Settlement>Masparro</Settlement>.<zbr/>
-<Settlement>Meta</Settlement>.<zbr/>
-<Settlement>Moco</Settlement>.<zbr/>
-<Settlement>Orinoco</Settlement>.<zbr/>
-<Settlement>Papamene</Settlement>.<zbr/>
-<Settlement>Parvasi</Settlement>.<zbr/>
-<Settlement>Pau</Settlement>.<zbr/>
-<Settlement>San Carlos</Settlement>.<zbr/>
-<Settlement>Tame</Settlement>.<zbr/>
-###LAGUNAS. <zbr/>
-<Settlement>Fuquene</Settlement>.<zbr/>
-<Settlement>Guanacas</Settlement>.<zbr/>
-<Settlement>Guatavita</Settlement>.<zbr/>
-<Settlement>Tesca</Settlement>.<zbr/>
-<Settlement>Tota</Settlement>.<zbr/>
+ ___RIOS___.<zbr/>
+<Landmark>Albarregas</Landmark>.<zbr/>
+<Landmark>Amariguara</Landmark>.<zbr/>
+<Landmark>Amuturi</Landmark>.<zbr/>
+<Landmark>Anari</Landmark>.<zbr/>
+<Landmark>Apure</Landmark>.<zbr/>
+<Landmark>Aquiri</Landmark>.<zbr/>
+<Landmark>Arauca</Landmark>.<zbr/>
+<Landmark>Aritagua</Landmark>.<zbr/>
+<Landmark>Aroi</Landmark>.<zbr/>
+<Landmark>Atanari</Landmark>.<zbr/>
+<Landmark>Auyama</Landmark>.<zbr/>
+<Landmark>Babillo</Landmark>.<zbr/>
+<Landmark>Benituari</Landmark>.<zbr/>
+<Landmark>Bogotá</Landmark>.<zbr/>
+<Landmark>Burari</Landmark>.<zbr/>
+<Landmark>Cabiari</Landmark>.<zbr/>
+<Landmark>Caboto</Landmark>.<zbr/>
+##<Landmark>Carare</Landmark>.<zbr/>
+<Landmark>Caroni</Landmark>.<zbr/>
+<Landmark>Casiarucuti</Landmark>.<zbr/>
+<Landmark>Cauca</Landmark>.<zbr/>
+<Landmark>Cazanare</Landmark>.<zbr/>
+<Landmark>Cesar o Pompatao</Landmark>.<zbr/>
+<Landmark>Chuma</Landmark>.<zbr/>
+<Landmark>Cravo</Landmark>.<zbr/>
+<Landmark>Cuchiguero</Landmark>.<zbr/>
+<Landmark>Cuiloto</Landmark>.<zbr/>
+<Landmark>Dauney</Landmark>.<zbr/>
+<Landmark>Dubarro</Landmark>.<zbr/>
+<Landmark>Duma</Landmark>.<zbr/>
+<Landmark>Duya</Landmark>.<zbr/>
+<Landmark>Eclava</Landmark>.<zbr/>
+<Landmark>Ele</Landmark>.<zbr/>
+<Landmark>Funzha</Landmark>.<zbr/>
+<Landmark>Fusagasuga</Landmark>.<zbr/>
+<Landmark>Gaira</Landmark>.<zbr/>
+<Landmark>Guali</Landmark>.<zbr/>
+<Landmark>Guamuca</Landmark>.<zbr/>
+<Landmark>Guanapalo</Landmark>.<zbr/>
+<Landmark>Guaricu</Landmark>.<zbr/>
+<Landmark>Guarino</Landmark>.<zbr/>
+<Landmark>Guatapori</Landmark>.<zbr/>
+<Landmark>Inirricha</Landmark>.<zbr/>
+<Landmark>Macomite</Landmark>.<zbr/>
+<Landmark>Magdalena</Landmark>.<zbr/>
+<Landmark>Mamo</Landmark>.<zbr/>
+<Landmark>Manacasia</Landmark>.<zbr/>
+<Landmark>Masparro</Landmark>.<zbr/>
+<Landmark>Meta</Landmark>.<zbr/>
+<Landmark>Moco</Landmark>.<zbr/>
+<Landmark>Orinoco</Landmark>.<zbr/>
+<Landmark>Papamene</Landmark>.<zbr/>
+<Landmark>Parvasi</Landmark>.<zbr/>
+<Landmark>Pau</Landmark>.<zbr/>
+<Landmark>San Carlos</Landmark>.<zbr/>
+<Landmark>Tame</Landmark>.<zbr/>
+ ###___LAGUNAS___. <zbr/>
+<Landmark>Fuquene</Landmark>.<zbr/>
+<Landmark>Guanacas</Landmark>.<zbr/>
+<Landmark>Guatavita</Landmark>.<zbr/>
+<Landmark>Tesca</Landmark>.<zbr/>
+<Landmark>Tota</Landmark>.<zbr/>
 <zbr/>
-MONTES.<zbr/>
-<Settlement>Abides</Settlement>.<zbr/>
-<Settlement>Abipi</Settlement>.<zbr/>
-<Settlement>Bocaneme</Settlement> <Concept_Landmark>mina</Concept_Landmark> de plata.<zbr/>
-<Settlement>Buritaca</Settlement> <Concept_Landmark>mina</Concept_Landmark> de oro.<zbr/>
-<Settlement>Fosca</Settlement>.<zbr/>
-<Settlement>Gachaneque</Settlement>.<zbr/>
-<Settlement>Itoco</Settlement> <Concept_Landmark>mina</Concept_Landmark> de esmeraldas.<zbr/>
+ ___MONTES___.<zbr/>
+<Landmark>Abides</Landmark>.<zbr/>
+<Landmark>Abipi</Landmark>.<zbr/>
+<Landmark>Bocaneme</Landmark> <Concept_Landmark>mina</Concept_Landmark> de plata.<zbr/>
+<Landmark>Buritaca</Landmark> <Concept_Landmark>mina</Concept_Landmark> de oro.<zbr/>
+<Landmark>Fosca</Landmark>.<zbr/>
+<Landmark>Gachaneque</Landmark>.<zbr/>
+<Landmark>Itoco</Landmark> <Concept_Landmark>mina</Concept_Landmark> de esmeraldas.<zbr/>
 <zbr/>
-PUERTOS.<zbr/>
-<Settlement>Carari</Settlement>.<zbr/>
-<Settlement>Cartagena</Settlement>.<zbr/>
-<Settlement>Tolu</Settlement>.<zbr/>
+ ___PUERTOS___.<zbr/>
+<Landmark>Carari</Landmark>.<zbr/>
+<Landmark>Cartagena</Landmark>.<zbr/>
+<Landmark>Tolu</Landmark>.<zbr/>
 <zbr/>
-PROMONTORIOS.<zbr/>
-Canoa.<zbr/>
-<LOC>Caribana</LOC>.<zbr/>
-<LOC>Corrientes</LOC>.<zbr/>
+ ___PROMONTORIOS___.<zbr/>
+<Landmark>Canoa</Landmark>.<zbr/>
+<Landmark>Caribana</Landmark>.<zbr/>
+<Landmark>Corrientes</Landmark>.<zbr/>
 De las <LOC>Arenas</LOC>.<zbr/>
 <zbr/>
-ISLAS.<zbr/>
-<Settlement>Baru</Settlement>.<zbr/>
-<Settlement>Faxardo</Settlement>.<zbr/>
-<Settlement>San Bernardo</Settlement>.<zbr/>
-<Settlement>Verde</Settlement>.<zbr/>
+ ___ISLAS___.<zbr/>
+<Landmark>Baru</Landmark>.<zbr/>
+<Landmark>Faxardo</Landmark>.<zbr/>
+<Landmark>San Bernardo</Landmark>.<zbr/>
+<Landmark>Verde</Landmark>.<zbr/>
 <zbr/>
-FORTALEZAS.<zbr/>
-<Settlement>San Fernando</Settlement>.<zbr/>
-<Settlement>San Joseph</Settlement>.<zbr/>
-<Settlement>San Lazaro</Settlement><zbr/>
+ ___FORTALEZAS___.<zbr/>
+<Structure>San Fernando</Structure>.<zbr/>
+<Structure>San Joseph</Structure>.<zbr/>
+<Structure>San Lazaro</Structure><zbr/>
 $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0215@@@<zbr/>

@@ -239,7 +239,7 @@ ___Poblaciones, <Concept_Landmark>ríos</Concept_Landmark>, <Concept_Landmark>mo
 #CIUDADES. <zbr/>
 <Settlement>Almaguer</Settlement>. <zbr/>
 <Settlement>Anserma vieja</Settlement>.<zbr/>
- <Settlement>Anserma nueva</Settlement>. <zbr/>
+<Settlement>Anserma nueva</Settlement>. <zbr/>
 <Settlement>Barbacoas</Settlement>. <zbr/>
 <Settlement>Buga</Settlement>. <zbr/>
 <Settlement>Cali</Settlement>. <zbr/>
@@ -275,10 +275,10 @@ PUEBLOS. <zbr/>
 <zbr/>
 @@@Alcedo_vol_4-0260@@@<zbr/>
 <zbr/>
-#La Cruz del <Territory>Raposo</Territory>. <zbr/>
+<Settlement>#La Cruz del Raposo</Settlement>. <zbr/>
 Cañas gordas. <zbr/>
 DE INDIOS. <zbr/>
-<LOC>Cruz de Almaguer</LOC>. <zbr/>
+<Settlement>Cruz de Almaguer</Settlement>. <zbr/>
 <Settlement>Purasé</Settlement>. <zbr/>
 <Settlement>Pulindara y Totoro</Settlement>. <zbr/>
 <Settlement>Buisaco</Settlement>. <zbr/>
@@ -291,43 +291,43 @@ DE INDIOS. <zbr/>
 <Settlement>Puelenge</Settlement>. <zbr/>
 <Settlement>Guanvia</Settlement>. <zbr/>
 NACIONES DE INDIOS. <zbr/>
-Andaquíes. <zbr/>
+<humanGroup type="social_group">Andaquíes</humanGroup>. <zbr/>
 ##MONTES. <zbr/>
-<Settlement>Cucunuco</Settlement>. <zbr/>
-<Settlement>Purasé</Settlement>. <zbr/>
-<Settlement>Santa Bárbara</Settlement>. <zbr/>
-<Settlement>Guanacas</Settlement>. <zbr/>
-<Settlement>Alto del Rey</Settlement>. <zbr/>
-<Settlement>Quindio</Settlement>. <zbr/>
-<Settlement>La Poblazón</Settlement>. <zbr/>
+<Landmark>Cucunuco</Landmark>. <zbr/>
+<Landmark>Purasé</Landmark>. <zbr/>
+<Landmark>Santa Bárbara</Landmark>. <zbr/>
+<Landmark>Guanacas</Landmark>. <zbr/>
+<Landmark>Alto del Rey</Landmark>. <zbr/>
+<Landmark>Quindio</Landmark>. <zbr/>
+<Landmark>La Poblazón</Landmark>. <zbr/>
 RIOS. <zbr/>
-<Settlement>Aguas Blancas</Settlement>. <zbr/>
+<Landmark>Aguas Blancas</Landmark>. <zbr/>
 Botijas. <zbr/>
-<Settlement>Bojoleo</Settlement>. <zbr/>
-<Settlement>Cauca</Settlement>. <zbr/>
-<Settlement>El Cofre</Settlement>. <zbr/>
-<Settlement>Ejido</Settlement>. <zbr/>
-<Settlement>Esmita</Settlement>. <zbr/>
-<Settlement>Guachicon</Settlement>. <zbr/>
-<Settlement>Yervas buenas</Settlement>. <zbr/>
+<Landmark>Bojoleo</Landmark>. <zbr/>
+<Landmark>Cauca</Landmark>. <zbr/>
+<Landmark>El Cofre</Landmark>. <zbr/>
+<Landmark>Ejido</Landmark>. <zbr/>
+<Landmark>Esmita</Landmark>. <zbr/>
+<Landmark>Guachicon</Landmark>. <zbr/>
+<Landmark>Yervas buenas</Landmark>. <zbr/>
 S. Jorge. <zbr/>
-<Settlement>Mayo</Settlement>. <zbr/>
-<Settlement>Malvasá</Settlement>. <zbr/>
-###<Settlement>El Molino</Settlement>. <zbr/>
-<Settlement>Mojarras</Settlement>. <zbr/>
+<Landmark>Mayo</Landmark>. <zbr/>
+<Landmark>Malvasá</Landmark>. <zbr/>
+###<Landmark>El Molino</Landmark>. <zbr/>
+<Landmark>Mojarras</Landmark>. <zbr/>
 Ovejas. <zbr/>
-<Settlement>Ollucos</Settlement>. <zbr/>
-<Settlement>Palasé</Settlement>. <zbr/>
-<Settlement>Palo bobo</Settlement>. <zbr/>
-<Settlement>Patia</Settlement>. <zbr/>
-<Settlement>Piendamó</Settlement>. <zbr/>
-<Settlement>Pulindara</Settlement>. <zbr/>
-<Settlement>Purasé</Settlement>. <zbr/>
-<Settlement>Quilcasé</Settlement>. <zbr/>
-<Settlement>Río Negro</Settlement>. <zbr/>
-<Settlement>Timbio</Settlement>. <zbr/>
-<Settlement>Vinagre</Settlement>. <zbr/>
-PUERTO. <Settlement>San Buenaventura</Settlement> en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, que pertenece a la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Raposo</Territory>, una de las del <Territory>Chocó</Territory>, y dista 50 leguas de <Settlement>Popayán</Settlement>.<zbr/>
+<Landmark>Ollucos</Landmark>. <zbr/>
+<Landmark>Palasé</Landmark>. <zbr/>
+<Landmark>Palo bobo</Landmark>. <zbr/>
+<Landmark>Patia</Landmark>. <zbr/>
+<Landmark>Piendamó</Landmark>. <zbr/>
+<Landmark>Pulindara</Landmark>. <zbr/>
+<Landmark>Purasé</Landmark>. <zbr/>
+<Landmark>Quilcasé</Landmark>. <zbr/>
+<Landmark>Río Negro</Landmark>. <zbr/>
+<Landmark>Timbio</Landmark>. <zbr/>
+<Landmark>Vinagre</Landmark>. <zbr/>
+PUERTO. <Landmark>San Buenaventura</Landmark> en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, que pertenece a la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Raposo</Territory>, una de las del <Territory>Chocó</Territory>, y dista 50 leguas de <Settlement>Popayán</Settlement>.<zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_13312§§§<zbr/>

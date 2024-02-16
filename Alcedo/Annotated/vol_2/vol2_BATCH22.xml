@@ -292,7 +292,7 @@ JUNDIAYO o Jundiai) <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Co
 JUNIPER, <Concept_Landmark>Río</Concept_Landmark> pequeño ##de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> en el <Concept_Territory>Condado</Concept_Territory> de <Territory>Hallifax</Territory>, corre al E, y entra en el de <Landmark>Meherin</Landmark>. <zbr/>
 <zbr/>
 §§§id_08538§§§<zbr/>
-JUNTA de los Ríos de San Pedro y de Melipilla<) <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los Religiosos de San Francisco en la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acaponeta</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>. <zbr/>
+JUNTA de los Ríos de San Pedro y de Melipilla) <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los Religiosos de San Francisco en la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acaponeta</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>. <zbr/>
 <zbr/>
 §§§id_08539§§§<zbr/>
 JUNTAS, San Onofre de las) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>S. Agustín</Landmark>. <zbr/>
@@ -724,91 +724,89 @@ LAGO significa una porción de agua cerrada por todos lados donde nunca falta, y
 ___Lagos principales de la <Territory>America Meridional</Territory>.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#Arabanaté. <zbr/>
-<Settlement>Aullaga</Settlement>. <zbr/>
-<Settlement>Balza</Settlement>. <zbr/>
-<Settlement>Boca de Mar</Settlement>. <zbr/>
-<Settlement>Bonbón</Settlement>. <zbr/>
-<Settlement>Capucui</Settlement>. <zbr/>
-<Settlement>Caracares</Settlement>. <zbr/>
-<Settlement>Cassipa</Settlement>. <zbr/>
-<Settlement>Cayama</Settlement>. <zbr/>
-<Settlement>Cayubaba</Settlement>. <zbr/>
-<Settlement>Chimarác</Settlement>. <zbr/>
-<Settlement>Chimbuza</Settlement>. <zbr/>
-<Settlement>Chinchay-cocha</Settlement>. <zbr/>
-<Settlement>Choclo-cocha</Settlement>. <zbr/>
-<Settlement>Colay-cocha</Settlement>. <zbr/>
-<Settlement>Colta</Settlement>. <zbr/>
-<Settlement>Cullue</Settlement>. <zbr/>
-<Settlement>Cuy-cocha</Settlement>. <zbr/>
-##<Settlement>Dantas</Settlement>. <zbr/>
-<Settlement>Fuquene</Settlement>. <zbr/>
-<Settlement>Gran Cocama</Settlement>.<zbr/>
-<Settlement>Guanacache</Settlement>. <zbr/>
-<Settlement>Guatavita</Settlement>. <zbr/>
-<Settlement>Huarmicocha</Settlement>. <zbr/>
-<Settlement>Huaichao</Settlement>. <zbr/>
-<Settlement>Huaillarun</Settlement>. <zbr/>
-<Settlement>Itaya</Settlement>. <zbr/>
-<Settlement>Jacabamba</Settlement>. <zbr/>
-<Settlement>Lauri-cocha</Settlement>. <zbr/>
-<Settlement>Loro-cocha</Settlement>. <zbr/>
-<Settlement>Mactallan-cocha</Settlement>. <zbr/>
-<Settlement>Mahuati</Settlement>. <zbr/>
-<Settlement>Mallabauquen</Settlement>. <zbr/>
-<Settlement>Manioré</Settlement>. <zbr/>
-<Settlement>Maracaibo</Settlement>. <zbr/>
-<Settlement>Mocoa</Settlement>. <zbr/>
-###<Settlement>Mocorca</Settlement>. <zbr/>
-<Settlement>Nachego</Settlement>. <zbr/>
-<Settlement>Paria</Settlement>. <zbr/>
-<Settlement>Parime</Settlement>. <zbr/>
-<Settlement>Patan-cocha</Settlement>. <zbr/>
-<Settlement>Porongo</Settlement>. <zbr/>
-<Settlement>Puma-cocha</Settlement>. <zbr/>
-<Settlement>Punrun</Settlement>. <zbr/>
-<Settlement>Puegue</Settlement>. <zbr/>
-<Settlement>Puren</Settlement>. <zbr/>
-<Settlement>Rimachuma</Settlement>. <zbr/>
-<Settlement>S. Pablo</Settlement>. <zbr/>
-<Settlement>Tesca</Settlement>. <zbr/>
-<Settlement>Ticlla-cocha</Settlement>. <zbr/>
-<Settlement>Titi-caca</Settlement>.<zbr/>
-<Settlement>Tota</Settlement>. <zbr/>
-<Settlement>Turatini</Settlement>. <zbr/>
-<Settlement>Uncuicia</Settlement>. <zbr/>
+#<Landmark>Arabanaté</Landmark>. <zbr/>
+<Landmark>Aullaga</Landmark>. <zbr/>
+<Landmark>Balza</Landmark>. <zbr/>
+<Landmark>Boca de Mar</Landmark>. <zbr/>
+<Landmark>Bonbón</Landmark>. <zbr/>
+<Landmark>Capucui</Landmark>. <zbr/>
+<Landmark>Caracares</Landmark>. <zbr/>
+<Landmark>Cassipa</Landmark>. <zbr/>
+<Landmark>Cayama</Landmark>. <zbr/>
+<Landmark>Cayubaba</Landmark>. <zbr/>
+<Landmark>Chimarác</Landmark>. <zbr/>
+<Landmark>Chimbuza</Landmark>. <zbr/>
+<Landmark>Chinchay-cocha</Landmark>. <zbr/>
+<Landmark>Choclo-cocha</Landmark>. <zbr/>
+<Landmark>Colay-cocha</Landmark>. <zbr/>
+<Landmark>Colta</Landmark>. <zbr/>
+<Landmark>Cullue</Landmark>. <zbr/>
+<Landmark>Cuy-cocha</Landmark>. <zbr/>
+##<Landmark>Dantas</Landmark>. <zbr/>
+<Landmark>Fuquene</Landmark>. <zbr/>
+<Landmark>Gran Cocama</Landmark>.<zbr/>
+<Landmark>Guanacache</Landmark>. <zbr/>
+<Landmark>Guatavita</Landmark>. <zbr/>
+<Landmark>Huarmicocha</Landmark>. <zbr/>
+<Landmark>Huaichao</Landmark>. <zbr/>
+<Landmark>Huaillarun</Landmark>. <zbr/>
+<Landmark>Itaya</Landmark>. <zbr/>
+<Landmark>Jacabamba</Landmark>. <zbr/>
+<Landmark>Lauri-cocha</Landmark>. <zbr/>
+<Landmark>Loro-cocha</Landmark>. <zbr/>
+<Landmark>Mactallan-cocha</Landmark>. <zbr/>
+<Landmark>Mahuati</Landmark>. <zbr/>
+<Landmark>Mallabauquen</Landmark>. <zbr/>
+<Landmark>Manioré</Landmark>. <zbr/>
+<Landmark>Maracaibo</Landmark>. <zbr/>
+<Landmark>Mocoa</Landmark>. <zbr/>
+###<Landmark>Mocorca</Landmark>. <zbr/>
+<Landmark>Nachego</Landmark>. <zbr/>
+<Landmark>Paria</Landmark>. <zbr/>
+<Landmark>Parime</Landmark>. <zbr/>
+<Landmark>Patan-cocha</Landmark>. <zbr/>
+<Landmark>Porongo</Landmark>. <zbr/>
+<Landmark>Puma-cocha</Landmark>. <zbr/>
+<Landmark>Punrun</Landmark>. <zbr/>
+<Landmark>Puegue</Landmark>. <zbr/>
+<Landmark>Puren</Landmark>. <zbr/>
+<Landmark>Rimachuma</Landmark>. <zbr/>
+<Landmark>S. Pablo</Landmark>. <zbr/>
+<Landmark>Tesca</Landmark>. <zbr/>
+<Landmark>Ticlla-cocha</Landmark>. <zbr/>
+<Landmark>Titi-caca</Landmark>.<zbr/>
+<Landmark>Tota</Landmark>. <zbr/>
+<Landmark>Turatini</Landmark>. <zbr/>
+<Landmark>Uncuicia</Landmark>. <zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0548@@@<zbr/>
 <zbr/>
-#Vilafro. <zbr/>
-Xareyes.<zbr/>
-##<Settlement>Yaguar-cocha</Settlement>.<zbr/>
-<Settlement>Yurubi</Settlement>.<zbr/>
-###<Settlement>Yuturi-yacu</Settlement>. <zbr/>
-$$$<zbr/>
+#<Landmark>Vilafro</Landmark>. <zbr/>
+<Landmark>Xareyes</Landmark>.<zbr/>
+##<Landmark>Yaguar-cocha</Landmark>.<zbr/>
+<Landmark>Yurubi</Landmark>.<zbr/>
+###<Landmark>Yuturi-yacu</Landmark>. <zbr/>
 <zbr/>
 ___En la <Territory>América Septentrional</Territory>.___<zbr/>
-ßßß<zbr/>
-#<Settlement>Abitibis</Settlement>. <zbr/>
-<Settlement>Asiniboels</Settlement>. <zbr/>
-<Settlement>Atimipegon</Settlement>.<zbr/>
-<Settlement>Bois</Settlement>.<zbr/>
-<Settlement>Champlain</Settlement>. <zbr/>
-<Settlement>Chapala</Settlement>.<zbr/>
-##<Settlement>Cristinaux</Settlement>. <zbr/>
-<Settlement>Enriquillo</Settlement>.<zbr/>
-<Settlement>Erié</Settlement>.<zbr/>
-<Settlement>Hurón</Settlement>.<zbr/>
-<Settlement>Michigán</Settlement>.<zbr/>
-<Settlement>Nicaragua</Settlement>.<zbr/>
-###<Settlement>Ontario</Settlement>. <zbr/>
-<Settlement>Quidchidechován</Settlement>.  <zbr/>
-<Settlement>Superior</Settlement>.  <zbr/>
-<Settlement>Tecamaniovén</Settlement>. <zbr/>
-<Settlement>Temíscaming</Settlement>.  <zbr/>
-<Settlement>Xaragua</Settlement>. $$$<zbr/>
-<zbr/>
+#<Landmark>Abitibis</Landmark>. <zbr/>
+<Landmark>Asiniboels</Landmark>. <zbr/>
+<Landmark>Atimipegon</Landmark>.<zbr/>
+<Landmark>Bois</Landmark>.<zbr/>
+<Landmark>Champlain</Landmark>. <zbr/>
+<Landmark>Chapala</Landmark>.<zbr/>
+##<Landmark>Cristinaux</Landmark>. <zbr/>
+<Landmark>Enriquillo</Landmark>.<zbr/>
+<Landmark>Erié</Landmark>.<zbr/>
+<Landmark>Hurón</Landmark>.<zbr/>
+<Landmark>Michigán</Landmark>.<zbr/>
+<Landmark>Nicaragua</Landmark>.<zbr/>
+###<Landmark>Ontario</Landmark>. <zbr/>
+<Landmark>Quidchidechován</Landmark>.  <zbr/>
+<Landmark>Superior</Landmark>.  <zbr/>
+<Landmark>Tecamaniovén</Landmark>. <zbr/>
+<Landmark>Temíscaming</Landmark>.  <zbr/>
+<Landmark>Xaragua</Landmark>. <zbr/>
+$$$<zbr/>
 §§§id_08660§§§<zbr/>
 LAGOA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tienen allí los PP. Carmelitas de <Territory>Portugal</Territory>, está situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Paranaiba</Landmark>. <zbr/>
 <zbr/>

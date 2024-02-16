@@ -610,7 +610,7 @@ HAMPSHIRE, Nueva) <Concept_Territory>Provincia</Concept_Territory> de la <Territ
 <Settlement>Nottingham</Settlement>.<zbr/>
 <Settlement>Dunstable</Settlement>.<zbr/>
 ##<Settlement>Hollis</Settlement>.<zbr/>
-<LOC>Masón</LOC>.<zbr/>
+<Settlement>Masón</Settlement>.<zbr/>
 <Settlement>New Ipswich</Settlement>.<zbr/>
 <Settlement>Rindge</Settlement>.<zbr/>
 <Settlement>Richmond</Settlement>.<zbr/>
@@ -621,7 +621,7 @@ HAMPSHIRE, Nueva) <Concept_Territory>Provincia</Concept_Territory> de la <Territ
 <Settlement>Amherst</Settlement>. <zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0349@@@<zbr/>
-#Merrymack.<zbr/>
+#<Settlement>Merrymack</Settlement>.<zbr/>
 <Settlement>Bedford</Settlement>.<zbr/>
 <Settlement>Derryfield</Settlement>.<zbr/>
 <Settlement>Poplin</Settlement>.<zbr/>
@@ -635,8 +635,8 @@ HAMPSHIRE, Nueva) <Concept_Territory>Provincia</Concept_Territory> de la <Territ
 <Settlement>Goffstown</Settlement>.<zbr/>
 <Settlement>Bow</Settlement>.<zbr/>
 <Settlement>Wears</Settlement>.<zbr/>
-New <Settlement>Boston</Settlement>.<zbr/>
-Francés town.<zbr/>
+<Settlement>New Boston</Settlement>.<zbr/>
+<Settlement>Frances town</Settlement>.<zbr/>
 <Settlement>Dearing</Settlement>.<zbr/>
 <Settlement>Limbrick</Settlement>.<zbr/>
 <Settlement>Packersfield</Settlement>.<zbr/>
@@ -650,8 +650,7 @@ Francés town.<zbr/>
 <Settlement>Fisherfield</Settlement>.<zbr/>
 <Settlement>Almsbury</Settlement>.<zbr/>
 <Settlement>Hennaker</Settlement>.<zbr/>
-<zbr/>
-##Hopkintown.<zbr/>
+##<Settlement>Hopkintown</Settlement>.<zbr/>
 <Settlement>Concord</Settlement>.<zbr/>
 <Settlement>Barrington</Settlement>.<zbr/>
 <Settlement>Rochester</Settlement>.<zbr/>

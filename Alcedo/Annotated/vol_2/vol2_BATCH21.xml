@@ -2,7 +2,7 @@
 <xml>@@@Alcedo_vol_2-0501@@@<zbr/>
 <zbr/>
 ßßß<zbr/>
-#Carahi. <zbr/>
+#<Settlement>Carahi</Settlement>. <zbr/>
 <Settlement>Guarahi</Settlement>.<zbr/>
 <Settlement>Magemerin</Settlement>.<zbr/>
 <Settlement>Magoa</Settlement>.<zbr/>
@@ -67,9 +67,7 @@ JERSEI, Nueva) <Concept_Territory>Provincia</Concept_Territory> de la <Territory
 ßßß<zbr/>
 #<Settlement>Morimouth</Settlement>. <zbr/>
 ##<Settlement>Midlesex</Settlement>. <zbr/>
-<zbr/>
-###<LOC>Essex</LOC>. <zbr/>
-<zbr/>
+    ###<Settlement>Essex</Settlement>. <zbr/>
 ####<Settlement>Bergen</Settlement>. <zbr/>
 $$$<zbr/>
 <zbr/>

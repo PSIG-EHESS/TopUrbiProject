@@ -260,17 +260,16 @@ GUANUCO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>C
 ###<Settlement>Cairan</Settlement>.<zbr/>
 <Settlement>Conchamarca</Settlement>.<zbr/>
 <Settlement>Cani</Settlement>.<zbr/>
-Acomayo.$$$<zbr/>
+<Settlement>Acomayo</Settlement>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0287@@@<zbr/>
 <zbr/>
-ßßß<zbr/>
 #<Settlement>Churubamba</Settlement>.<zbr/>
 <Settlement>Llacon</Settlement>.<zbr/>
 ##<Settlement>Pachabamba</Settlement>.<zbr/>
 <Settlement>Pachacoto</Settlement>.<zbr/>
 ###<Settlement>Pillao</Settlement>.<zbr/>
-<LOC>Panao</LOC>.<zbr/>
+<Settlement>Panao</Settlement>.<zbr/>
 $$$<zbr/>
 <zbr/>
 #Su repartimiento era de 50.000 pesos, pagando de alcávala en cada año 400. <zbr/>
@@ -494,7 +493,7 @@ GUARINA, <Concept_Landmark>Llanura</Concept_Landmark> espaciosa, dilatada y fér
 GUARINO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> de los <Territory>Marquetones</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, corre al E, y entra en el de la <Landmark>Magdalena</Landmark> más arriba de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mariquita</Settlement>. <zbr/>
 <zbr/>
 §§§id_06859§§§<zbr/>
-GUARINUMAS, <Concept_Group>Nación bárbara de Indios<Concept_Group> que habita en las <Concept_Landmark>selvas</Concept_Landmark> inmediatas al <Concept_Landmark>río</Concept_Landmark> <Landmark>Cayari</Landmark> al Sur ##del <Landmark>Marañon</Landmark>, en el <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, es belicosa, y se mantiene de la pesca y de la caza, algunos la llaman Garinomas. <zbr/>
+GUARINUMAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> que habita en las <Concept_Landmark>selvas</Concept_Landmark> inmediatas al <Concept_Landmark>río</Concept_Landmark> <Landmark>Cayari</Landmark> al Sur ##del <Landmark>Marañon</Landmark>, en el <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, es belicosa, y se mantiene de la pesca y de la caza, algunos la llaman Garinomas. <zbr/>
 <zbr/>
 §§§id_06860§§§<zbr/>
 GUARIPO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>San Juan de los Llanos</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, es pequeño, corre al E, y entra en el <Landmark>Orinoco</Landmark> por la vanda del O. <zbr/>
@@ -529,7 +528,7 @@ GUAROCHIRI, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territor
 #competente utilidad. El nuevo Potosí fue célebre por la abundancia de metales y ri##quezas que ha dado. La Población consta de los 52 <Concept_Settlement>Pueblos</Concept_Settlement> siguientes. La <Concept_Settlement>Capital</Concept_Settlement> es <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Guarochírí.<zbr/>
+#<Settlement>Guarochírí</Settlement>.<zbr/>
 <Settlement>San Lorenzo de Quinti</Settlement>.<zbr/>
 <Settlement>Olleros</Settlement>.<zbr/>
 <Settlement>Chorrillo</Settlement>.<zbr/>

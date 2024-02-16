@@ -517,12 +517,12 @@ ___Catálogo de los principales lugares y <Concept_Group>naciones bárbaras</Con
 Abixiras. <zbr/>
 Ancuteres. <zbr/>
 Apichiquies. <zbr/>
-<Settlement>Ardas</Settlement>. <zbr/>
+<humanGroup type="social_group">Ardas</humanGroup>. <zbr/>
 Ayacoras. <zbr/>
-<Settlement>Barbacoas</Settlement>. <zbr/>
+<humanGroup type="social_group">Barbacoas</humanGroup>. <zbr/>
 Becavas. <zbr/>
 Cañaris. <zbr/>
-<Settlement>Caranguis</Settlement>. <zbr/>
+<humanGroup type="social_group">Caranguis</humanGroup>. <zbr/>
 Chavelos. <zbr/>
 Cherinas. <zbr/>
 Chufias. <zbr/>
@@ -534,7 +534,7 @@ Gayes. <zbr/>
 Inuris. <zbr/>
 Ipapuisas. <zbr/>
 Malaguas. <zbr/>
-<Settlement>Mantas</Settlement>. <zbr/>
+<humanGroup type="social_group">Mantas</humanGroup>. <zbr/>
 Oas. <zbr/>
 Peguas. <zbr/>
 Pichunsis. <zbr/>
@@ -573,148 +573,148 @@ Icahuates. <zbr/>
 <Settlement>Zamora</Settlement>. <zbr/>
 <Settlement>Zaruma</Settlement>. <zbr/>
 <Settlement>Ibarra</Settlement>. <zbr/>
-###<Settlement>MONTES</Settlement>. <zbr/>
-<Settlement>Altar</Settlement>. <zbr/>
-<Settlement>Avitahua</Settlement>. <zbr/>
-<Settlement>Azuay</Settlement>. <zbr/>
-<Settlement>San Lucas</Settlement>. <zbr/>
-<Settlement>Caruayrasu</Settlement>. Volc. <zbr/>
-<Settlement>Caxanuma</Settlement>. <zbr/>
-<Settlement>Cayambe</Settlement>. Volc. <zbr/>
-<Settlement>Cequin</Settlement>. <zbr/>
-<Settlement>Chima</Settlement>. <zbr/>
-<Settlement>Chimborasu</Settlement>. <zbr/>
-<Settlement>Collanes</Settlement>. <zbr/>
-<Settlement>Corazon</Settlement>. <zbr/>
-<Settlement>Cotacache</Settlement>. <zbr/>
-<Settlement>Cotopaxi</Settlement>. Volc. <zbr/>
-<Settlement>Cumbal</Settlement>. Volc. <zbr/>
-<Settlement>Elenisa</Settlement>. Volc. <zbr/>
-<Settlement>Guacaya</Settlement>. <zbr/>
-<Settlement>Llanganate</Settlement>. <zbr/>
-<Settlement>Mohanda</Settlement>. <zbr/>
-<Settlement>Pandomime</Settlement>. <zbr/>
-<Settlement>Pichinche</Settlement>. Volc. <zbr/>
-<Settlement>Pilachiquir</Settlement>. <zbr/>
-<Settlement>Pintac</Settlement>. <zbr/>
-<Settlement>Sinchulahua</Settlement>. <zbr/>
-<Settlement>Quelendana</Settlement>. <zbr/>
-<Settlement>Rum-ñavi</Settlement>. <zbr/>
-<Settlement>Saldaña</Settlement>. <zbr/>
-<Settlement>Sangay</Settlement>. Volc. <zbr/>
-<Settlement>Sara-urcu</Settlement>. Volc. <zbr/>
+###<Concept_Landmark>MONTES</Concept_Landmark>. <zbr/>
+<Landmark>Altar</Landmark>. <zbr/>
+<Landmark>Avitahua</Landmark>. <zbr/>
+<Landmark>Azuay</Landmark>. <zbr/>
+<Landmark>San Lucas</Landmark>. <zbr/>
+<Landmark>Caruayrasu</Landmark>. Volc. <zbr/>
+<Landmark>Caxanuma</Landmark>. <zbr/>
+<Landmark>Cayambe</Landmark>. Volc. <zbr/>
+<Landmark>Cequin</Landmark>. <zbr/>
+<Landmark>Chima</Landmark>. <zbr/>
+<Landmark>Chimborasu</Landmark>. <zbr/>
+<Landmark>Collanes</Landmark>. <zbr/>
+<Landmark>Corazon</Landmark>. <zbr/>
+<Landmark>Cotacache</Landmark>. <zbr/>
+<Landmark>Cotopaxi</Landmark>. Volc. <zbr/>
+<Landmark>Cumbal</Landmark>. Volc. <zbr/>
+<Landmark>Elenisa</Landmark>. Volc. <zbr/>
+<Landmark>Guacaya</Landmark>. <zbr/>
+<Landmark>Llanganate</Landmark>. <zbr/>
+<Landmark>Mohanda</Landmark>. <zbr/>
+<Landmark>Pandomime</Landmark>. <zbr/>
+<Landmark>Pichinche</Landmark>. Volc. <zbr/>
+<Landmark>Pilachiquir</Landmark>. <zbr/>
+<Landmark>Pintac</Landmark>. <zbr/>
+<Landmark>Sinchulahua</Landmark>. <zbr/>
+<Landmark>Quelendana</Landmark>. <zbr/>
+<Landmark>Rum-ñavi</Landmark>. <zbr/>
+<Landmark>Saldaña</Landmark>. <zbr/>
+<Landmark>Sangay</Landmark>. Volc. <zbr/>
+<Landmark>Sara-urcu</Landmark>. Volc. <zbr/>
 <zbr/>
 @@@Alcedo_vol_4-0372@@@<zbr/>
 <zbr/>
 #Supay-urcu. <zbr/>
-<Settlement>Tolonta</Settlement>. <zbr/>
-<Settlement>Tungurahua</Settlement>. <zbr/>
-<Settlement>Uritusinga</Settlement>. <zbr/>
-<Settlement>Yana-urcu</Settlement>. <zbr/>
-<Settlement>Imbabura</Settlement>. <zbr/>
+<Landmark>Tolonta</Landmark>. <zbr/>
+<Landmark>Tungurahua</Landmark>. <zbr/>
+<Landmark>Uritusinga</Landmark>. <zbr/>
+<Landmark>Yana-urcu</Landmark>. <zbr/>
+<Landmark>Imbabura</Landmark>. <zbr/>
 ___RIOS.___ <zbr/>
-<Settlement>Aquarico</Settlement>. <zbr/>
-<Settlement>Alaqués</Settlement>. <zbr/>
-<Settlement>Alpa-yacu</Settlement>. <zbr/>
-<Settlement>Aulapi</Settlement>. <zbr/>
-<Settlement>Ayrunu</Settlement>. <zbr/>
-<Settlement>Azuela</Settlement>. <zbr/>
-<Settlement>Balso</Settlement>. <zbr/>
-<Settlement>Beleno</Settlement>. <zbr/>
-<Settlement>Benerisa</Settlement>. <zbr/>
-<Settlement>Bobonasa</Settlement>. <zbr/>
-<Settlement>Bogotá</Settlement>. <zbr/>
-<Settlement>Bolas</Settlement>. <zbr/>
-<Settlement>Bombasicaro</Settlement>. <zbr/>
-<Settlement>Buisaco</Settlement>. <zbr/>
-<Settlement>Cacachavi</Settlement>. <zbr/>
-<Settlement>Caluma</Settlement>. <zbr/>
-<Settlement>Capaguari</Settlement>. <zbr/>
-<Settlement>Caquetá</Settlement>. <zbr/>
-<Settlement>Cascabeles</Settlement>. <zbr/>
-<Settlement>Caspi-yacu</Settlement>. <zbr/>
-<Settlement>Cata-mayu</Settlement>. <zbr/>
-<Settlement>Cevadas</Settlement>. <zbr/>
-<Settlement>Chaca-yacu</Settlement>. <zbr/>
-<Settlement>Chamangue</Settlement>. <zbr/>
-<Settlement>Chamba</Settlement>. <zbr/>
-<Settlement>Chambo</Settlement>. <zbr/>
-<Settlement>Chequehue</Settlement>. <zbr/>
-<Settlement>Chinchipe</Settlement>. <zbr/>
-<Settlement>Chiuloaya</Settlement>. <zbr/>
-<Settlement>Chones</Settlement>. <zbr/>
-##<Settlement>Cípre</Settlement>. <zbr/>
-<Settlement>Coca</Settlement>. <zbr/>
-<Settlement>Colopo</Settlement>. <zbr/>
-<Settlement>Condache</Settlement>. <zbr/>
-<Settlement>Copa</Settlement>. <zbr/>
-<Settlement>Coquindo</Settlement>. <zbr/>
-<Settlement>Cosanga</Settlement>. <zbr/>
-<Settlement>Cotopasa</Settlement>. <zbr/>
-<Settlement>Cotuche</Settlement>. <zbr/>
-<Settlement>Curaray</Settlement>. <zbr/>
-<Settlement>Dacino</Settlement>. <zbr/>
-<Settlement>Daule</Settlement>. <zbr/>
-<Settlement>Duino</Settlement>. <zbr/>
-<Settlement>Durango</Settlement>. <zbr/>
-<Settlement>Granoble</Settlement>. <zbr/>
-<Settlement>Guanambú</Settlement>. <zbr/>
-<Settlement>Guanca-bamba</Settlement>. <zbr/>
-<Settlement>Huahuy</Settlement>. <zbr/>
-<Settlement>Huapante</Settlement>. <zbr/>
-<Settlement>Huaitara</Settlement>. <zbr/>
-<Settlement>Huelmambi</Settlement>. <zbr/>
-<Settlement>Jama</Settlement>. <zbr/>
-<Settlement>Jubones</Settlement>. <zbr/>
-<Settlement>Lluzin</Settlement>. <zbr/>
-<Settlement>Macara</Settlement>. <zbr/>
-<Settlement>Machangara</Settlement>. <zbr/>
-<Settlement>Mataje</Settlement>. <zbr/>
-<Settlement>Min</Settlement>. <zbr/>
-<Settlement>Mira</Settlement>. <zbr/>
-<Settlement>Moximo</Settlement>. <zbr/>
-<Settlement>Nambacasa</Settlement>. <zbr/>
-<Settlement>Namballe</Settlement>. <zbr/>
-<Settlement>Napo</Settlement>. <zbr/>
-<Settlement>Noesino</Settlement>. <zbr/>
-<Settlement>Otallúc</Settlement>. <zbr/>
-<Settlement>Ozogoche</Settlement>. <zbr/>
-<Settlement>Paba-vaeu</Settlement>. <zbr/>
-<Settlement>Pacas-mayu</Settlement>. <zbr/>
-<Settlement>Palanda</Settlement>. <zbr/>
-###<Settlement>Pastaza</Settlement>. <zbr/>
-<Settlement>Patate</Settlement>. <zbr/>
-<Settlement>Patía</Settlement>. <zbr/>
-<Settlement>Pato</Settlement>. <zbr/>
-<Settlement>Paute</Settlement>. <zbr/>
-<Settlement>Pelingara</Settlement>.<zbr/>
-<Settlement>Perdomo</Settlement>. <zbr/>
-<Settlement>Pita</Settlement>. <zbr/>
-<Settlement>Puja-yacu</Settlement>. <zbr/>
-<Settlement>Quinindi</Settlement>. <zbr/>
-<Settlement>Quirós</Settlement>. <zbr/>
-<Settlement>Rotuno</Settlement>. <zbr/>
-<Settlement>Sangalla</Settlement>. <zbr/>
-<Settlement>San Francisco</Settlement>. <zbr/>
-<Settlement>Santiago</Settlement>. <zbr/>
-<Settlement>Sarayacu</Settlement>. <zbr/>
-<Settlement>Sardinas</Settlement>. <zbr/>
-<Settlement>Savanillas</Settlement>. <zbr/>
-<Settlement>Simanchi</Settlement>. <zbr/>
+<Landmark>Aquarico</Landmark>. <zbr/>
+<Landmark>Alaqués</Landmark>. <zbr/>
+<Landmark>Alpa-yacu</Landmark>. <zbr/>
+<Landmark>Aulapi</Landmark>. <zbr/>
+<Landmark>Ayrunu</Landmark>. <zbr/>
+<Landmark>Azuela</Landmark>. <zbr/>
+<Landmark>Balso</Landmark>. <zbr/>
+<Landmark>Beleno</Landmark>. <zbr/>
+<Landmark>Benerisa</Landmark>. <zbr/>
+<Landmark>Bobonasa</Landmark>. <zbr/>
+<Landmark>Bogotá</Landmark>. <zbr/>
+<Landmark>Bolas</Landmark>. <zbr/>
+<Landmark>Bombasicaro</Landmark>. <zbr/>
+<Landmark>Buisaco</Landmark>. <zbr/>
+<Landmark>Cacachavi</Landmark>. <zbr/>
+<Landmark>Caluma</Landmark>. <zbr/>
+<Landmark>Capaguari</Landmark>. <zbr/>
+<Landmark>Caquetá</Landmark>. <zbr/>
+<Landmark>Cascabeles</Landmark>. <zbr/>
+<Landmark>Caspi-yacu</Landmark>. <zbr/>
+<Landmark>Cata-mayu</Landmark>. <zbr/>
+<Landmark>Cevadas</Landmark>. <zbr/>
+<Landmark>Chaca-yacu</Landmark>. <zbr/>
+<Landmark>Chamangue</Landmark>. <zbr/>
+<Landmark>Chamba</Landmark>. <zbr/>
+<Landmark>Chambo</Landmark>. <zbr/>
+<Landmark>Chequehue</Landmark>. <zbr/>
+<Landmark>Chinchipe</Landmark>. <zbr/>
+<Landmark>Chiuloaya</Landmark>. <zbr/>
+<Landmark>Chones</Landmark>. <zbr/>
+##<Landmark>Cípre</Landmark>. <zbr/>
+<Landmark>Coca</Landmark>. <zbr/>
+<Landmark>Colopo</Landmark>. <zbr/>
+<Landmark>Condache</Landmark>. <zbr/>
+<Landmark>Copa</Landmark>. <zbr/>
+<Landmark>Coquindo</Landmark>. <zbr/>
+<Landmark>Cosanga</Landmark>. <zbr/>
+<Landmark>Cotopasa</Landmark>. <zbr/>
+<Landmark>Cotuche</Landmark>. <zbr/>
+<Landmark>Curaray</Landmark>. <zbr/>
+<Landmark>Dacino</Landmark>. <zbr/>
+<Landmark>Daule</Landmark>. <zbr/>
+<Landmark>Duino</Landmark>. <zbr/>
+<Landmark>Durango</Landmark>. <zbr/>
+<Landmark>Granoble</Landmark>. <zbr/>
+<Landmark>Guanambú</Landmark>. <zbr/>
+<Landmark>Guanca-bamba</Landmark>. <zbr/>
+<Landmark>Huahuy</Landmark>. <zbr/>
+<Landmark>Huapante</Landmark>. <zbr/>
+<Landmark>Huaitara</Landmark>. <zbr/>
+<Landmark>Huelmambi</Landmark>. <zbr/>
+<Landmark>Jama</Landmark>. <zbr/>
+<Landmark>Jubones</Landmark>. <zbr/>
+<Landmark>Lluzin</Landmark>. <zbr/>
+<Landmark>Macara</Landmark>. <zbr/>
+<Landmark>Machangara</Landmark>. <zbr/>
+<Landmark>Mataje</Landmark>. <zbr/>
+<Landmark>Min</Landmark>. <zbr/>
+<Landmark>Mira</Landmark>. <zbr/>
+<Landmark>Moximo</Landmark>. <zbr/>
+<Landmark>Nambacasa</Landmark>. <zbr/>
+<Landmark>Namballe</Landmark>. <zbr/>
+<Landmark>Napo</Landmark>. <zbr/>
+<Landmark>Noesino</Landmark>. <zbr/>
+<Landmark>Otallúc</Landmark>. <zbr/>
+<Landmark>Ozogoche</Landmark>. <zbr/>
+<Landmark>Paba-vaeu</Landmark>. <zbr/>
+<Landmark>Pacas-mayu</Landmark>. <zbr/>
+<Landmark>Palanda</Landmark>. <zbr/>
+###<Landmark>Pastaza</Landmark>. <zbr/>
+<Landmark>Patate</Landmark>. <zbr/>
+<Landmark>Patía</Landmark>. <zbr/>
+<Landmark>Pato</Landmark>. <zbr/>
+<Landmark>Paute</Landmark>. <zbr/>
+<Landmark>Pelingara</Landmark>.<zbr/>
+<Landmark>Perdomo</Landmark>. <zbr/>
+<Landmark>Pita</Landmark>. <zbr/>
+<Landmark>Puja-yacu</Landmark>. <zbr/>
+<Landmark>Quinindi</Landmark>. <zbr/>
+<Landmark>Quirós</Landmark>. <zbr/>
+<Landmark>Rotuno</Landmark>. <zbr/>
+<Landmark>Sangalla</Landmark>. <zbr/>
+<Landmark>San Francisco</Landmark>. <zbr/>
+<Landmark>Santiago</Landmark>. <zbr/>
+<Landmark>Sarayacu</Landmark>. <zbr/>
+<Landmark>Sardinas</Landmark>. <zbr/>
+<Landmark>Savanillas</Landmark>. <zbr/>
+<Landmark>Simanchi</Landmark>. <zbr/>
 <LOC>Esmeraldas</LOC>. <zbr/>
-<Settlement>Suno</Settlement>. <zbr/>
-<Settlement>Tango</Settlement>. <zbr/>
-<Settlement>Tasagua</Settlement>. <zbr/>
-<Settlement>Telembí</Settlement>. <zbr/>
-<Settlement>Tinguiza</Settlement>. <zbr/>
-<Settlement>Tululví</Settlement>. <zbr/>
-<Settlement>Turibuno</Settlement>. <zbr/>
-<Settlement>Umúc</Settlement>. <zbr/>
-<Settlement>Veriel</Settlement>. <zbr/>
-<Settlement>Vichy</Settlement>. <zbr/>
-<Settlement>Iscansé</Settlement>. <zbr/>
+<Landmark>Suno</Landmark>. <zbr/>
+<Landmark>Tango</Landmark>. <zbr/>
+<Landmark>Tasagua</Landmark>. <zbr/>
+<Landmark>Telembí</Landmark>. <zbr/>
+<Landmark>Tinguiza</Landmark>. <zbr/>
+<Landmark>Tululví</Landmark>. <zbr/>
+<Landmark>Turibuno</Landmark>. <zbr/>
+<Landmark>Umúc</Landmark>. <zbr/>
+<Landmark>Veriel</Landmark>. <zbr/>
+<Landmark>Vichy</Landmark>. <zbr/>
+<Landmark>Iscansé</Landmark>. <zbr/>
 ___PROMONTORIOS.___ <zbr/>
-<Settlement>Amapulu</Settlement>. <zbr/>
+<Landmark>Amapulu</Landmark>. <zbr/>
 Arrastradero. <zbr/>
 Arenas. <zbr/>
 Ballenas. <zbr/>
@@ -722,56 +722,56 @@ Blanco. <zbr/>
 <zbr/>
 @@@Alcedo_vol_4-0373@@@<zbr/>
 <zbr/>
-#<Settlement>Bocaca</Settlement>. <zbr/>
-<Settlement>Galera</Settlement>. <zbr/>
-<Settlement>Jaca</Settlement>. <zbr/>
-<Settlement>Mandinga</Settlement>. <zbr/>
-<Settlement>Manglares</Settlement>. <zbr/>
-<Settlement>Mariana</Settlement>. <zbr/>
-<Settlement>Mero</Settlement>. <zbr/>
-<Settlement>Pajonál</Settlement>. <zbr/>
-<Settlement>Palmar</Settlement>. <zbr/>
-<Settlement>Pedernal</Settlement>. <zbr/>
-<Settlement>Salahonda</Settlement>. <zbr/>
-<Settlement>Same</Settlement>. <zbr/>
-<Settlement>San Francisco</Settlement>. <zbr/>
-<Settlement>San Lorenzo</Settlement>. <zbr/>
-<Settlement>Santa Elena</Settlement>. <zbr/>
-<Settlement>Sua</Settlement>. <zbr/>
-<Settlement>Viejo</Settlement>. <zbr/>
-<Settlement>Venado</Settlement>. <zbr/>
+#<Landmark>Bocaca</Landmark>. <zbr/>
+<Landmark>Galera</Landmark>. <zbr/>
+<Landmark>Jaca</Landmark>. <zbr/>
+<Landmark>Mandinga</Landmark>. <zbr/>
+<Landmark>Manglares</Landmark>. <zbr/>
+<Landmark>Mariana</Landmark>. <zbr/>
+<Landmark>Mero</Landmark>. <zbr/>
+<Landmark>Pajonál</Landmark>. <zbr/>
+<Landmark>Palmar</Landmark>. <zbr/>
+<Landmark>Pedernal</Landmark>. <zbr/>
+<Landmark>Salahonda</Landmark>. <zbr/>
+<Landmark>Same</Landmark>. <zbr/>
+<Landmark>San Francisco</Landmark>. <zbr/>
+<Landmark>San Lorenzo</Landmark>. <zbr/>
+<Landmark>Santa Elena</Landmark>. <zbr/>
+<Landmark>Sua</Landmark>. <zbr/>
+<Landmark>Viejo</Landmark>. <zbr/>
+<Landmark>Venado</Landmark>. <zbr/>
 ##PUERTOS. <zbr/>
-<Settlement>Charapoto</Settlement>. <zbr/>
-<Settlement>Guayaquil</Settlement>. <zbr/>
-<Settlement>Quaques</Settlement>. <zbr/>
-<Settlement>Atacames</Settlement>. <zbr/>
+<Landmark>Charapoto</Landmark>. <zbr/>
+<Landmark>Guayaquil</Landmark>. <zbr/>
+<Landmark>Quaques</Landmark>. <zbr/>
+<Landmark>Atacames</Landmark>. <zbr/>
 GOLFOS. <zbr/>
-<Settlement>Charapoto</Settlement>. <zbr/>
-<Settlement>Guayaquil</Settlement>. <zbr/>
-<Settlement>Quaques</Settlement>. <zbr/>
+<Landmark>Charapoto</Landmark>. <zbr/>
+<Landmark>Guayaquil</Landmark>. <zbr/>
+<Landmark>Quaques</Landmark>. <zbr/>
 Sardinas. <zbr/>
 LAGOS. <zbr/>
-<Settlement>Capocui</Settlement>. <zbr/>
+<Landmark>Capocui</Landmark>. <zbr/>
 Chimbuza. <zbr/>
 Colay-cocha. <zbr/>
-<Settlement>Colta</Settlement>. <zbr/>
-###<Settlement>Cuvillú</Settlement>. <zbr/>
-<Settlement>Cuy-cocha</Settlement>. <zbr/>
-<Settlement>Balzas</Settlement>. <zbr/>
-<Settlement>Mactallan-cocha</Settlement>. <zbr/>
-<Settlement>Mocoa</Settlement>. <zbr/>
-<Settlement>Pichaviñac</Settlement>. <zbr/>
-<Settlement>Quirotoa</Settlement>. <zbr/>
-<Settlement>Sachahuaca-urcu</Settlement>. <zbr/>
-<Settlement>San Pablo</Settlement>. <zbr/>
-<Settlement>Ucuicia</Settlement>. <zbr/>
+<Landmark>Colta</Landmark>. <zbr/>
+###<Landmark>Cuvillú</Landmark>. <zbr/>
+<Landmark>Cuy-cocha</Landmark>. <zbr/>
+<Landmark>Balzas</Landmark>. <zbr/>
+<Landmark>Mactallan-cocha</Landmark>. <zbr/>
+<Landmark>Mocoa</Landmark>. <zbr/>
+<Landmark>Pichaviñac</Landmark>. <zbr/>
+<Landmark>Quirotoa</Landmark>. <zbr/>
+<Landmark>Sachahuaca-urcu</Landmark>. <zbr/>
+<Landmark>San Pablo</Landmark>. <zbr/>
+<Landmark>Ucuicia</Landmark>. <zbr/>
 ISLAS. <zbr/>
-<Settlement>Gallo</Settlement>. <zbr/>
-<Settlement>Gorgona</Settlement>. <zbr/>
-<Settlement>Palmas</Settlement>. <zbr/>
-<Settlement>Puná</Settlement>. <zbr/>
-<Settlement>Santa Clara</Settlement>. <zbr/>
-<Settlement>Tumaco</Settlement>. <zbr/>
+<Landmark>Gallo</Landmark>. <zbr/>
+<Landmark>Gorgona</Landmark>. <zbr/>
+<Landmark>Palmas</Landmark>. <zbr/>
+<Landmark>Puná</Landmark>. <zbr/>
+<Landmark>Santa Clara</Landmark>. <zbr/>
+<Landmark>Tumaco</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_13862§§§<zbr/>

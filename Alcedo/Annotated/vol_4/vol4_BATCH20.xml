@@ -64,7 +64,7 @@ S. SALVADOR, <Concept_Settlement>Ciudad Capital</Concept_Settlement> del <Concep
 Tiene el mismo nombre una <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, confina por el E con la de <Territory>San Miguel</Territory>, por el O con la de <Territory>Guatemala</Territory>, por el N con la de <Territory>Honduras</Territory> y por el S con el <Concept_Landmark>mar</Concept_Landmark> <Landmark>Pacífico</Landmark>, es de corta extensión y poquísimo comercio, produce alguna azúcar y añil, y sin embargo tiene suficiente población que se compone de los <Concept_Settlement>Pueblos</Concept_Settlement> siguientes. <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Sta. <Settlement>Lucía de Suchitoto</Settlement>. <zbr/>
+#<Settlement>Sta. Lucía de Suchitoto</Settlement>. <zbr/>
 <Settlement>Tenanzingo</Settlement>. <zbr/>
 <Settlement>S. Christóval Tutiapa</Settlement>. <zbr/>
 <Settlement>Chalatenango</Settlement>. <zbr/>
@@ -316,7 +316,7 @@ SAÑA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Cor
 <Settlement>Ferrenafe</Settlement>. <zbr/>
 <Settlement>Chiclayo</Settlement>. <zbr/>
 <Settlement>San Ildefonso de <zbr/>
-###<Concept_Settlement>Pueblo</Concept_Settlement> Nuevo</Settlement>. <zbr/>
+###Pueblo Nuevo</Settlement>. <zbr/>
 <Settlement>S. Pedro de Lloco</Settlement>. <zbr/>
 <Settlement>S. Miguel de Pixce</Settlement>. <zbr/>
 <Settlement>Eten</Settlement>. <zbr/>
@@ -334,7 +334,7 @@ SANARE, Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Con
 <zbr/>
 @@@Alcedo_vol_4-0491@@@<zbr/>
 <zbr/>
-#teras de trigo y otros granos: confina al Oriente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Nuestra Señora de la Aparición de la Corteza</Settlement>, del Vicariato de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Araure</Settlement>: al Poniente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Barbacoas</Settlement>, distante 17 leguas al N con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Cubiro</Settlement>, distante 7 y al S con declinación al Poniente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Guarico</Settlement> que dista 9: consta su vecindario de 1809 <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group">gente de color</humanGroup type="social_group">, y 244 <humanGroup type="social_group">Indios</humanGroup>.<zbr/>
+#teras de trigo y otros granos: confina al Oriente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Nuestra Señora de la Aparición de la Corteza</Settlement>, del Vicariato de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Araure</Settlement>: al Poniente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Barbacoas</Settlement>, distante 17 leguas al N con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Cubiro</Settlement>, distante 7 y al S con declinación al Poniente con el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Guarico</Settlement> que dista 9: consta su vecindario de 1809 <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group">gente de color</humanGroup>, y 244 <humanGroup type="social_group">Indios</humanGroup>.<zbr/>
 <zbr/>
 §§§id_14632§§§<zbr/>
 SAÑASCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Aimaraes</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Soraya</Settlement>.<zbr/>
@@ -449,8 +449,8 @@ SANTA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Cor
 <Settlement>Cusmo</Settlement>. <zbr/>
 <Settlement>Pativilca</Settlement>. <zbr/>
 <Settlement>Llaután</Settlement>. <zbr/>
-###<Settlement>Lacramarca</Settlement>. <Settlement>T<zbr/>
-aquilpin</Settlement>. <zbr/>
+###<Settlement>Lacramarca</Settlement>. <zbr/>
+<Settlement>Taquilpin</Settlement>. <zbr/>
 <Settlement>Quisquis</Settlement>. <zbr/>
 <Settlement>Quillo</Settlement>. <zbr/>
 $$$<zbr/>
@@ -507,4 +507,11 @@ ___OBISPOS QUE HA HABIDO EN SANTIAGO de <Territory>Chile</Territory>.___<zbr/>
 3 Don Fr. Diego de <Settlement>Medellín</Settlement>, a quien otros llaman Pedro, del mismo Orden que el anterior, Colegial en el Colegio Real de <Settlement>Lima</Settlement>, y el primer Sacerdote y Doctor que hubo en él, Predicador admirable y de celestial espíritu, Varón Apostólico y de excelentes virtudes, fue Provincial de la <Concept_Territory>Provincia</Concept_Territory> de los doce Apóstoles de <Settlement>Lima</Settlement>, Guardian del Convento de esta <Concept_Settlement>Capital</Concept_Settlement>, de inculpable vida y exemplar modestia, electo Obispo de esta Santa Iglesia de <Territory>Santiago de Chile</Territory> el año de 1574, asistió al Concilio de <Settlement>Lima</Settlement>, y gobernó con santidad y prudencia 17 años venerado de todos, murió muy pobre, y fue sepultado en una Capilla que fundó, el año de 1593. <zbr/>
 4 Don Fr. <persName>Pedro de Azuaga</persName>, natural de <Settlement>Medellín</Settlement> en <Territory>Estremadura</Territory>, Religioso del Orden de San Francisco en la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Nuevo Reyno de Granada</Territory>, electo Obispo de <Territory>Santiago de Chile</Territory> el año de 1595, de que tomó posesión el siguiente sin estar consagrado, y así falleció el de 1597. <zbr/>
 5 Don Fr. <persName>Juan Pérez de Espinosa</persName>, también Religioso del Orden de San Francisco, natural de <Settlement>Toledo</Settlement>, pasó a la <Territory>América</Territory> de Misionero, donde permaneció 44 años, y el Rey Don <persName>Felipe II</persName>I le presentó para este <Concept_Territory>Obispado</Concept_Territory> el año de 1600, fundó en su Iglesia un Seminario, volvió a <Territory>España</Territory> sin licencia del Rey ni de su Santidad, expuso los motivos que había tenido para ello, y no juzgándose suficientes se le mandó volver a su Iglesia, anulando el Consejo de Indias las memorias que habia fundado en <Settlement>Toledo</Settlement>, <Settlement>Se<zbr/>
+<zbr/>
+@@@Alcedo_vol_4-0501@@@<zbr/>
+<zbr/>
+#villa</Settlement> y <Settlement>Alcalá</Settlement>, por ser con dinero de aquel <Concept_Territory>Obispado</Concept_Territory>, de donde trajo 70.000 pesos que se mandaron volver a él después que murió en el Convento de su Orden en <Settlement>Sevilla</Settlement> el año de 1622. <zbr/>
+6 Don <persName>Francisco de Salcedo</persName>, Canónigo Dignidad de Tesorero de la Iglesia del <Settlement>Tucumán</Settlement>, Dean de la Metropolitana de <Territory>Charcas</Territory>, electo Obispo de <Territory>Santiago de Chile</Territory> el referido año de 1622, celebró Sínodo para el mejor gobierno de su Diócesis el de 1628, erigió la <Concept_District>Parroquia</Concept_District> de Santa Ana, y en su tiempo consiguieron los <humanGroup type="political_group">Españoles</humanGroup> una célebre victoria de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup>, murió el año de 1635. <zbr/>
+7 Don Fr. <persName>Gaspar de Villarroel</persName>, del Orden de San Agustín, natural de <Settlement>Quito</Settlement>, fue Lector de Artes y Prior de algunos Conventos en su <Concept_Territory>Provincia</Concept_Territory>, pasó a <Territory>España</Territory>, donde adquirió créditos de célebre Predicador y sabio escritor, como acreditan sus obras, y singularmente la intitulada Pacífica unión y concordia de los dos cuchillos Pontificio y Regio, electo Obispo de <Settlement>Santiago de Chile</Settlement> el año de 1637: en su tiempo hizo el <persName>Marqués de Baydes</persName>, <persName>Conde del Pedroso</persName>, la paz con los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup> el año de 1642, y en el mismo sucedió un gran terremoto que arruinó la mayor parte de la <Concept_Settlement>Ciudad</Concept_Settlement>; y sin embargo de ser de noche salió el Obispo, y con incansable afán desempeñó su ministerio pastoral, dio cuenta al Rey escribiendo con individualidad y eloqüencia tan lamentable suceso, y fue promovido a la Iglesia de <Settlement>Arequipa</Settlement> el año de 1651. <zbr/>
+8 Don <persName>Diego de Zambrana y Villalobos</persName>, natural de <Settlement>Mérida</Settlement> en <Territory>Estremadura</Territory>, estudió Cánones, y se graduó en la Universidad de <Territory>Salamanca</Territory>, fue Cura de <Settlement>Torre-Mocha</Settlement> en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Badajoz</Territory>, pasó al <Territory>Perú</Territory>, y lo hicieron Beneficiado de la Iglesia de <Settlement>Potosí</Settlement> y su Vicario, <persName>Juez Ordinario, Visitador</persName> del <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Paz</Territory>, Comisario del Santo Oficio y de la Santa Cruzada, electo Obispo de la <Territory>Concepción de Chile</Territory>, y promovido a este de <Settlement>Santiago</Settlement> el año de 1651, llegó a ser el Decano de los Prelados de <zbr/>
 <zbr/></xml>

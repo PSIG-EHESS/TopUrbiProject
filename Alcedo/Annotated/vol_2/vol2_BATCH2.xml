@@ -40,106 +40,111 @@
 <Settlement>Monte Christi</Settlement>.<zbr/>
 <Settlement>Puerto de Plata</Settlement>.<zbr/>
 <Settlement>S. Carlos</Settlement>.<zbr/>
-BAHIAS Y PUERTOS.<zbr/>
+___BAHIAS Y PUERTOS___.<zbr/>
  <Concept_Landmark>Bahía</Concept_Landmark> de las <Landmark>Aguilas</Landmark>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> de la <Settlement>Beata</Settlement>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> de <Settlement>Petitrú</Settlement>.<zbr/>
-<Concept_Landmark>Bahía</Concept_Landmark> de <Settlement>Neiba</Settlement> o de <Landmark>Juliana</Landmark>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> Viejo de <Settlement>Azúa</Settlement>.<zbr/>
-<Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Ocóa</Landmark>. <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Caldera</Landmark>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> de la <Settlement>Catalina</Settlement>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> de <Settlement>Santo Domingo</Settlement>.<zbr/>
-<Settlement>Puerto de la Caleta</Settlement>.<zbr/>
-<Settlement>Cala de Macoriz</Settlement>.<zbr/>
-Del <Settlement>Soco</Settlement>. <zbr/>
-###De la <LOC>Romana</LOC>.<zbr/>
-De <Settlement>Quiabon</Settlement>.<zbr/>
-<Concept_Landmark>Bahía</Concept_Landmark> de <Settlement>Higuey</Settlement>.<zbr/>
-<Concept_Landmark>Bahía</Concept_Landmark> de <Settlement>Samaná</Settlement> o de las <Landmark>Flechas</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Beata</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Petitrú</Landmark>.<zbr/>
+<Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Neiba</Landmark> o de <Landmark>Juliana</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> Viejo de <Landmark>Azúa</Landmark>.<zbr/>
+<Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Ocóa</Landmark>. 
+ <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Caldera</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Catalina</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Santo Domingo</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Caleta</Landmark>.<zbr/>
+<Concept_Landmark>Cala</Concept_Landmark> de <Landmark>Macoriz</Landmark>.<zbr/>
+Del <Landmark>Soco</Landmark>. <zbr/>
+###De la <Landmark>Romana</Landmark>.<zbr/>
+De <Landmark>Quiabon</Landmark>.<zbr/>
+<Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Higuey</Landmark>.<zbr/>
+<Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark> o de las <Landmark>Flechas</Landmark>.<zbr/>
 <Concept_Landmark>Puerto</Concept_Landmark> de <LOC>Estero grande</LOC>.<zbr/>
-<LOC>Bahía Escocesa</LOC> o de <Landmark>Cosbec</Landmark>.<zbr/>
+<Concept_Landmark>Bahía</Concept_Landmark> <Landmark>Escocesa</Landmark> o de <Landmark>Cosbec</Landmark>.<zbr/>
 <Concept_Landmark>Bahía</Concept_Landmark> del <Landmark>Bálsamo</Landmark>.<zbr/>
-<Concept_Landmark>Puerto</Concept_Landmark> de <Settlement>Santiago</Settlement>.<zbr/>
-<Settlement>Puerto de Plata</Settlement>. <Settlement>Puerto Caballo</Settlement> o de <LOC>Gracia</LOC>.<zbr/>
-<Settlement>Puerto de Isabela</Settlement>.<zbr/>
-<Settlement>Puerto de <Concept_Landmark>Estero</Concept_Landmark> hondo</Settlement>.<zbr/>
-<Concept_Landmark>Rada</Concept_Landmark> de <Settlement>Monte Christi</Settlement>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Santiago</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Plata</Landmark>. 
+<Concept_Landmark>Puerto</Concept_Landmark> <Landmark>Caballo</Landmark> o de <Landmark>Gracia</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Isabela</Landmark>.<zbr/>
+<Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Estero hondo</Landmark>.<zbr/>
+<Concept_Landmark>Rada</Concept_Landmark> de <Landmark>Monte Christi</Landmark>.<zbr/>
 <Concept_Landmark>Bahía</Concept_Landmark> del <Landmark>Manzanillo</Landmark>. <zbr/>
-ISLAS.<zbr/>
-<Settlement>Beata</Settlement>.<zbr/>
+___ISLAS___.<zbr/>
+<Landmark>Beata</Landmark>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_2-0028@@@<zbr/>
 <zbr/>
-#<LOC>Santa Catalina</LOC>. <zbr/>
-<LOC>Saona</LOC>. <zbr/>
-<Settlement>Mona</Settlement>. <zbr/>
-Monito. <zbr/>
-Desecho. <Concept_Landmark>Baxos</Concept_Landmark> de Plata. <zbr/>
-Abroxos. <zbr/>
-Pañuelo quadrado. <zbr/>
+#<Landmark>Santa Catalina</Landmark>. <zbr/>
+<Landmark>Saona</Landmark>. <zbr/>
+<Landmark>Mona</Landmark>. <zbr/>
+<Landmark>Monito</Landmark>. <zbr/>
+ <Landmark>Desecho</Landmark>. <zbr/>
+ <Concept_Landmark>Baxos</Concept_Landmark> de <Landmark>Plata</Landmark>. <zbr/>
+<Landmark>Abroxos</Landmark>. <zbr/>
+<Landmark>Pañuelo quadrado</Landmark>. <zbr/>
 <Concept_Landmark>Islas</Concept_Landmark> <Landmark>Turcas</Landmark>. <zbr/>
-<Settlement>Caicos</Settlement>. <zbr/>
+<Landmark>Caicos</Landmark>. <zbr/>
 <zbr/>
-RIOS. <zbr/>
+___RIOS___. <zbr/>
 <zbr/>
-<Settlement>Ozama</Settlement>.<zbr/>
-<Settlement>Jaina</Settlement>. <zbr/>
-<Settlement>Nigua</Settlement>. <zbr/>
-<Settlement>Nisao</Settlement>.<zbr/>
-<Settlement>Ocóa</Settlement>. <zbr/>
-<Settlement>De Mulas</Settlement>.<zbr/>
- <Settlement>Tavara</Settlement>. <zbr/>
-<Settlement>Mijo</Settlement>. <zbr/>
-##<Settlement>Yaque</Settlement>.<zbr/>
-<Settlement>Artibonito</Settlement>.<zbr/>
-<Settlement>Camú</Settlement>. <zbr/>
-<Settlement>Mao</Settlement>. <zbr/>
-<Settlement>Guayubin</Settlement>. <zbr/>
-<Settlement>Daxabón</Settlement>. <Settlement>Yuna</Settlement>. <zbr/>
-<Settlement>La Isabela</Settlement>.<zbr/>
-<Settlement>S. Lorenzo</Settlement>. <zbr/>
-<Settlement>Neiba</Settlement>.<zbr/>
-<Settlement>La Romana</Settlement>. <zbr/>
-<Settlement>Macoris</Settlement>.<zbr/>
-<Settlement>Soco</Settlement>.<zbr/>
-<Settlement>Cucumaya</Settlement>.<zbr/>
-<Settlement>Higuey</Settlement>. <zbr/>
-<Settlement>Yuna</Settlement>. <zbr/>
+<Landmark>Ozama</Landmark>.<zbr/>
+<Landmark>Jaina</Landmark>. <zbr/>
+<Landmark>Nigua</Landmark>. <zbr/>
+<Landmark>Nisao</Landmark>.<zbr/>
+<Landmark>Ocóa</Landmark>. <zbr/>
+<Landmark>De Mulas</Landmark>.<zbr/>
+ <Landmark>Tavara</Landmark>. <zbr/>
+<Landmark>Mijo</Landmark>. <zbr/>
+##<Landmark>Yaque</Landmark>.<zbr/>
+<Landmark>Artibonito</Landmark>.<zbr/>
+<Landmark>Camú</Landmark>. <zbr/>
+<Landmark>Mao</Landmark>. <zbr/>
+<Landmark>Guayubin</Landmark>. <zbr/>
+ <Landmark>Daxabón</Landmark>. <zbr/>
+ <Landmark>Yuna</Landmark>. <zbr/>
+<Landmark>La Isabela</Landmark>.<zbr/>
+<Landmark>S. Lorenzo</Landmark>. <zbr/>
+<Landmark>Neiba</Landmark>.<zbr/>
+<Landmark>La Romana</Landmark>. <zbr/>
+<Landmark>Macoris</Landmark>.<zbr/>
+<Landmark>Soco</Landmark>.<zbr/>
+<Landmark>Cucumaya</Landmark>.<zbr/>
+<Landmark>Higuey</Landmark>. <zbr/>
+<Landmark>Yuna</Landmark>. <zbr/>
 <Landmark>Indios</Landmark>. <zbr/>
 <zbr/>
 CABOS Y PUNTAS. <zbr/>
 <zbr/>
-Del <Settlement>Manglar</Settlement>.<zbr/>
-De la <LOC>Salina chica</LOC>.<zbr/>
-###De la <Settlement>Roche</Settlement>.<zbr/>
-De <Settlement>Isabelica</Settlement><zbr/>
-<Settlement>.Roxo</Settlement>. <zbr/>
-<Settlement>Francés Viejo</Settlement>. <zbr/>
-<Settlement>Samaná</Settlement>.<zbr/>
-<Settlement>Cabrón</Settlement>. <zbr/>
-De <Settlement> S. Rafael</Settlement>. <zbr/>
-De <Settlement>Engaño</Settlement>.<zbr/>
-De <Settlement>Espada</Settlement>.<zbr/>
-De la <Settlement>Magdalena</Settlement>.<zbr/>
-De <Settlement>Caucedo</Settlement>.<zbr/>
-Del <Settlement>Palenque</Settlement>.<zbr/>
-De <Settlement>Salina grande</Settlement>.<zbr/>
-De la <Settlement>Beata</Settlement>.<zbr/>
-De <Settlement>Nizáo</Settlement>.<zbr/>
-De <Settlement>Mongón</Settlement>.<zbr/>
-De <Settlement>Peña</Settlement>. <Settlement>Nisáo</Settlement>.<zbr/>
-De <Settlement>Mascuri</Settlement>.<zbr/>
-De <Settlement>Sabanetas</Settlement>.<zbr/>
-De <Settlement>Hicacos</Settlement>.<zbr/>
-De <Settlement>Reson</Settlement>.<zbr/>
-De <Settlement>Brisevál</Settlement>. <zbr/>
+Del <Landmark>Manglar</Landmark>.<zbr/>
+De la <Landmark>Salina chica</Landmark>.<zbr/>
+###De la <Landmark>Roche</Landmark>.<zbr/>
+De <Landmark>Isabelica</Landmark><zbr/>
+<Landmark>.Roxo</Landmark>. <zbr/>
+<Landmark>Francés Viejo</Landmark>. <zbr/>
+<Landmark>Samaná</Landmark>.<zbr/>
+<Landmark>Cabrón</Landmark>. <zbr/>
+De <Landmark> S. Rafael</Landmark>. <zbr/>
+De <Landmark>Engaño</Landmark>.<zbr/>
+De <Landmark>Espada</Landmark>.<zbr/>
+De la <Landmark>Magdalena</Landmark>.<zbr/>
+De <Landmark>Caucedo</Landmark>.<zbr/>
+Del <Landmark>Palenque</Landmark>.<zbr/>
+De <Landmark>Salina grande</Landmark>.<zbr/>
+De la <Landmark>Beata</Landmark>.<zbr/>
+De <Landmark>Nizáo</Landmark>.<zbr/>
+De <Landmark>Mongón</Landmark>.<zbr/>
+ De <Landmark>Peña</Landmark>. <zbr/>
+ <Landmark>Nisáo</Landmark>.<zbr/>
+De <Landmark>Mascuri</Landmark>.<zbr/>
+De <Landmark>Sabanetas</Landmark>.<zbr/>
+De <Landmark>Hicacos</Landmark>.<zbr/>
+De <Landmark>Reson</Landmark>.<zbr/>
+De <Landmark>Brisevál</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 En la parte de los <humanGroup type="political_group">Franceses</humanGroup>.<zbr/>
 <zbr/>
 ßßß<zbr/>
-#PUEBLOS.<zbr/>
-<Concept_Landmark>Cabo</Concept_Landmark> Francés. <zbr/>
+#___PUEBLOS___.<zbr/>
+<Settlement>Cabo Francés</Settlement>. <zbr/>
 <Settlement>Puerto del Príncipe</Settlement>. <zbr/>
 <Settlement>Leogán</Settlement>.<zbr/>
 <Settlement>Cruz de Ramilletes</Settlement>.<zbr/>
@@ -163,7 +168,7 @@ En la parte de los <humanGroup type="political_group">Franceses</humanGroup>.<zb
 <Settlement>Coteaux</Settlement>.<zbr/>
 <Settlement>Tiburón</Settlement>.<zbr/>
 <Settlement>Jacmel</Settlement>.<zbr/>
-###Cayes de <Settlement>Jacmel</Settlement>.<zbr/>
+###<Settlement>Cayes de Jacmel</Settlement>.<zbr/>
 <Settlement>Baynét</Settlement>.<zbr/>
 <Settlement>Port Dauphin</Settlement>.<zbr/>
 <Settlement>Port de Paix</Settlement>.<zbr/>
@@ -178,7 +183,7 @@ En la parte de los <humanGroup type="political_group">Franceses</humanGroup>.<zb
 <zbr/>
 @@@Alcedo_vol_2-0029@@@<zbr/>
 <zbr/>
-#Ovanaminthe.<zbr/>
+#<Settlement>Ovanaminthe</Settlement>.<zbr/>
 <Settlement>L'Accul</Settlement>.<zbr/>
 <Settlement>Le Limbé</Settlement>.<zbr/>
 <Settlement>Port Margot</Settlement>.<zbr/>
@@ -189,53 +194,54 @@ En la parte de los <humanGroup type="political_group">Franceses</humanGroup>.<zb
 <Settlement>Jean Rabel</Settlement>.<zbr/>
 <Settlement>Mole S. Nicolas</Settlement>.<zbr/>
 <zbr/>
-RIOS. <zbr/>
+___RIOS___. <zbr/>
 <zbr/>
-De <LOC>Trois Rivieres</LOC>.<zbr/>
-De la <Settlement>Petite Anse</Settlement>. <zbr/>
-<Settlement>Riviere Grand</Settlement>.<zbr/>
-<Settlement>Guaraguey</Settlement>.<zbr/>
-<Settlement>Guaramu</Settlement>.<zbr/>
-<Settlement>Capotilla</Settlement>.<zbr/>
-<Settlement>Dajabon</Settlement>.<zbr/>
-##<Settlement>Guararéy</Settlement>.<zbr/>
-<LOC>Grande</LOC>.<zbr/>
-<LOC>Salado</LOC>.<zbr/>
-De las <LOC>Damas</LOC>.<zbr/>
-De la <Settlement>Petite Ance</Settlement>.<zbr/>
+De <Landmark>Trois Rivieres</Landmark>.<zbr/>
+De la <Landmark>Petite Anse</Landmark>. <zbr/>
+<Landmark>Riviere Grand</Landmark>.<zbr/>
+<Landmark>Guaraguey</Landmark>.<zbr/>
+<Landmark>Guaramu</Landmark>.<zbr/>
+<Landmark>Capotilla</Landmark>.<zbr/>
+<Landmark>Dajabon</Landmark>.<zbr/>
+##<Landmark>Guararéy</Landmark>.<zbr/>
+<Landmark>Grande</Landmark>.<zbr/>
+<Landmark>Salado</Landmark>.<zbr/>
+De las <Landmark>Damas</Landmark>.<zbr/>
+De la <Landmark>Petite Ance</Landmark>.<zbr/>
 <zbr/>
-CABOS Y PUNTAS. <zbr/>
+___CABOS Y PUNTAS___. <zbr/>
 <zbr/>
-De <LOC>San Nicolás</LOC>.<zbr/>
-De los Locos.<zbr/>
-De <Settlement>Grand Pierre</Settlement>.<zbr/>
-De <Settlement> S. Marcos</Settlement>.<zbr/>
-<Settlement>Percée</Settlement>. De la <Settlement>Geringa</Settlement>.<zbr/>
-De <Settlement>Doña María</Settlement>.<zbr/>
-De las Ballenas.<zbr/>
-De <Settlement>Irois</Settlement>.<zbr/>
-De <Settlement>Burgados</Settlement>.<zbr/>
-De <Settlement>Cascajo</Settlement>.<zbr/>
-De <Settlement>Abacu</Settlement>. <zbr/>
-###De <Settlement>Pasqual</Settlement>.<zbr/>
-De <Settlement>Trois Lataniers</Settlement>.<zbr/>
-De <Settlement>Benet</Settlement>.<zbr/>
-Del <Settlement>Moral</Settlement>.<zbr/>
-De <Settlement>Jacquemel</Settlement>.<zbr/>
-De <Settlement>Marechau</Settlement>.<zbr/>
-De <Settlement>Belle Roche</Settlement>.<zbr/>
-De <Settlement>Margót</Settlement>.<zbr/>
-De <Settlement>Feste</Settlement>.<zbr/>
-<Settlement>Colorado</Settlement>.<zbr/>
+De <Landmark>San Nicolás</Landmark>.<zbr/>
+De los <Landmark>Locos</Landmark>.<zbr/>
+De <Landmark>Grand Pierre</Landmark>.<zbr/>
+De <Landmark> S. Marcos</Landmark>.<zbr/>
+ <Landmark>Percée</Landmark>. <zbr/>
+ De la <Landmark>Geringa</Landmark>.<zbr/>
+De <Landmark>Doña María</Landmark>.<zbr/>
+De las <Landmark>Ballenas</Landmark>.<zbr/>
+De <Landmark>Irois</Landmark>.<zbr/>
+De <Landmark>Burgados</Landmark>.<zbr/>
+De <Landmark>Cascajo</Landmark>.<zbr/>
+De <Landmark>Abacu</Landmark>. <zbr/>
+###De <Landmark>Pasqual</Landmark>.<zbr/>
+De <Landmark>Trois Lataniers</Landmark>.<zbr/>
+De <Landmark>Benet</Landmark>.<zbr/>
+Del <Landmark>Moral</Landmark>.<zbr/>
+De <Landmark>Jacquemel</Landmark>.<zbr/>
+De <Landmark>Marechau</Landmark>.<zbr/>
+De <Landmark>Belle Roche</Landmark>.<zbr/>
+De <Landmark>Margót</Landmark>.<zbr/>
+De <Landmark>Feste</Landmark>.<zbr/>
+<Landmark>Colorado</Landmark>.<zbr/>
 <zbr/>
-ISLAS. <zbr/>
+___ISLAS___. <zbr/>
 <zbr/>
-Tortuga. <zbr/>
-<Settlement>Goanava</Settlement>.<zbr/>
-<LOC>Navaza</LOC>.<zbr/>
-<LOC>Vaca</LOC>.<zbr/>
-De <LOC>Agua</LOC>.<zbr/>
-Caimitos. <zbr/>
+<Landmark>Tortuga</Landmark>. <zbr/>
+<Landmark>Goanava</Landmark>.<zbr/>
+<Landmark>Navaza</Landmark>.<zbr/>
+<Landmark>Vaca</Landmark>.<zbr/>
+De <Landmark>Agua</Landmark>.<zbr/>
+<Landmark>Caimitos</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 PRESIDENTES, GOBERNADORES Y CAPITANES generales que ha tenido la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>. <zbr/>

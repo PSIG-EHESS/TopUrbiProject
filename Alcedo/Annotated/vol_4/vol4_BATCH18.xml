@@ -309,10 +309,10 @@ RODE ISLAND, <Concept_Territory>Provincia</Concept_Territory> de la <Territory>N
 ___En el <Concept_Territory>Condado</Concept_Territory> de la <Territory>Providencia</Territory>.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<LOC>Smithfield</LOC>. <zbr/>
+#<Settlement>Smithfield</Settlement>. <zbr/>
 Warwick.<zbr/>
 ##<Settlement>Glocester</Settlement>. <zbr/>
- <Settlement>Scituate</Settlement>. <zbr/>
+<Settlement>Scituate</Settlement>. <zbr/>
 ###<LOC>Coventay</LOC>.<zbr/>
 <LOC>Providencia</LOC>, <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
 $$$<zbr/>
@@ -322,7 +322,7 @@ $$$<zbr/>
 #___En el <Concept_Territory>Condado</Concept_Territory> del <Territory>Rey</Territory>.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<LOC>Greenwich Occidental</LOC>. <zbr/>
+#<Settlement>Greenwich Occidental</Settlement>. <zbr/>
 <Settlement>Exeter</Settlement>.<zbr/>
 ##<Settlement>Westerly</Settlement>.<zbr/>
 <Settlement>Richmond</Settlement>.<zbr/>
