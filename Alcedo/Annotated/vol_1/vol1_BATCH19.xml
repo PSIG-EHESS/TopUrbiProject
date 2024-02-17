@@ -19,7 +19,7 @@
 <zbr/>#<Settlement>San Juan de la Frontera</Settlement>.
 <zbr/><Settlement>Santa Ana</Settlement>.
 <zbr/><Settlement>San Lázaro</Settlement>.
-<zbr/>El <Settlement>Santo Christo de Burgos</Settlement>.
+<zbr/><Settlement>El Santo Christo de Burgos</Settlement>.
 <zbr/><Settlement>San Cristóval de las Balzas</Settlement>.
 <zbr/><Settlement>Chuquibamba</Settlement>.
 <zbr/><Settlement>San Pedro de Utac</Settlement>.
@@ -44,7 +44,6 @@
 <zbr/><Settlement>Santo Tomás</Settlement>.
 <zbr/><Settlement>Chisquilla</Settlement>.
 <zbr/><Settlement>Junvilla</Settlement>.
-<zbr/>
 <zbr/>###<Settlement>Tiata</Settlement>.
 <zbr/><Settlement>Mitmas</Settlement>.
 <zbr/><Settlement>Yambrasbamba</Settlement>.
@@ -106,30 +105,30 @@
 <zbr/>#___CATALOGO DE LAS NACIONES que habitan el <Territory>Chaco</Territory>.___
 <zbr/>
 <zbr/>ßßß
-<zbr/>#Chiriguanas.
-<zbr/>Churumatas.
-<zbr/>Mataguayos.
-<zbr/>Tobas.
-<zbr/>Mocobies.
-<zbr/>Aquilotes.
-<zbr/>Malbalaes.
-<zbr/>Agoyas.
+<zbr/>#<humanGroup type="indigenous_group">Chiriguanas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Churumatas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Mataguayos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Tobas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Mocobies</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aquilotes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Malbalaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Agoyas</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Amulalaes</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Palomos</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Lules</humanGroup>.
-<zbr/>Toconotes.
-<zbr/>Toquistineses.
-<zbr/>Tanuyes.
-<zbr/>Chunipies.
-<zbr/>Bílelas.
-<zbr/>Yxistineses.
-<zbr/>Oristineses.
-<zbr/>Guamalcas.
-<zbr/>Zapitalaguas.
-<zbr/>Ojotaes.
-<zbr/>Chichas.
-<zbr/>Orejones.
-<zbr/>##Guaicurues.
+<zbr/><humanGroup type="indigenous_group">Toconotes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Toquistineses</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Tanuyes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chunipies</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Bilelas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yxistineses</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Oristineses</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Guamalcas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Zapitalaguas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Ojotaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chichas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Orejones</humanGroup>.
+<zbr/>##<humanGroup type="indigenous_group">Guaicurues</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Callagaes</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Calchaquies</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Abipones</humanGroup>.
@@ -138,7 +137,7 @@
 <zbr/><humanGroup type="indigenous_group">Huarpas</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Taños</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Mogosnas</humanGroup>.
-<zbr/>Choroties.
+<zbr/><humanGroup type="indigenous_group">Choroties</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Naparus</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Guanas</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Abayas</humanGroup>.
@@ -148,33 +147,33 @@
 <zbr/><humanGroup type="indigenous_group">Socondues</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Marapanos</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Cipores</humanGroup>.
-<zbr/>Ayusequiteres.
-<zbr/>Corometes.
+<zbr/><humanGroup type="indigenous_group">Ayusequiteres</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Corometes</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Taparunas</humanGroup>.
 <zbr/><humanGroup type="indigenous_group">Bayatuis</humanGroup>.
-<zbr/>
-<zbr/>###Layanos.
-<zbr/>Payaguas.
-<zbr/>Poreromos.
-<zbr/>Chilacutiquies. Chiquinos.
-<zbr/>Gortonos.
-<zbr/>Humayonos.
-<zbr/>Tainuyes.
-<zbr/>Tracanos.
-<zbr/>Tobotionos.
-<zbr/>Pildoris.
-<zbr/>Caramais.
-<zbr/>Perequanos.
-<zbr/>Cucroyenos.
-<zbr/>Bocaracanas.
-<zbr/>Xolotas.
-<zbr/>Curetes.
-<zbr/>Upionos.
-<zbr/>Morionos.
-<zbr/>Bocoos.
-<zbr/>Motitis.
-<zbr/>Corotonos.
-<zbr/>Chiribionos. 
+<zbr/>###<humanGroup type="indigenous_group">Layanos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Payaguas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Poreromos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chilacutiquies</humanGroup>. 
+<zbr/><humanGroup type="indigenous_group">Chiquinos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Gortonos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Humayonos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Tainuyes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Tracanos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Tobotionos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Pildoris</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Caramais</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Perequanos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Cucroyenos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Bocaracanas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Xolotas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Curetes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Upionos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Morionos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Bocoos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Motitis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Corotonos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chiribionos</humanGroup>. 
 <zbr/>
 <zbr/>$$$
 <zbr/>§§§id_03314§§§
@@ -182,7 +181,7 @@
 <zbr/>§§§id_03315§§§
 <zbr/>CHACOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Huariaca</Settlement>.
 <zbr/>§§§id_03316§§§
-<zbr/>CHACOTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y Corregimien##to de <Territory>Arica</Territory> en el <Territory>Perú</Territory>, situado junto a la <Concept_Landmark>quebrada</Concept_Landmark> de <Landmark>Víctor</Landmark>. 
+<zbr/>CHACOTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Corregimien##to de <Territory>Arica</Territory> en el <Territory>Perú</Territory>, situado junto a la <Concept_Landmark>quebrada</Concept_Landmark> de <Landmark>Víctor</Landmark>. 
 <zbr/>§§§id_03317§§§
 <zbr/>CHACRALLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Abucara</Settlement>.
 <zbr/>§§§id_03318§§§
@@ -272,7 +271,6 @@
 <zbr/><Settlement>Tepetuxpan</Settlement>.
 <zbr/><Settlement>Atlautla</Settlement>.
 <zbr/><Settlement>Ayapango</Settlement>.
-<zbr/>
 <zbr/>###<Settlement>Ixtapalucan</Settlement>.
 <zbr/><Settlement>Ayozingo</Settlement>.
 <zbr/><Settlement>Mexquique</Settlement>.
@@ -384,7 +382,7 @@
 <zbr/>§§§id_03388§§§
 <zbr/>CHAMI, San Juan de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory>, situado en el <Concept_District>Partido</Concept_District> de <Settlement>Thatama</Settlement>, cerca de las ruinas da la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Juan de Rodas</Settlement>, al O de la de <Settlement>Sarn tiago de Arma</Settlement>.
 <zbr/>§§§id_03389§§§
-<zbr/>CHAMIANOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y Gobier
+<zbr/>CHAMIANOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Gobier
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0462@@@
 <zbr/>
@@ -408,7 +406,7 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0463@@@
 <zbr/>
-<zbr/>#la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Costarica</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>: desemboca en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> cerca de los límites de esta <Concept_Territory>jurisdicción</Concept_Territory> y la de <Territory>Chiriqui</Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>.
+<zbr/>#la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Costarica</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>: desemboca en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> cerca de los límites de esta <Concept_Territory>jurisdicción</Concept_Territory> la de <Territory>Chiriqui</Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>.
 <zbr/>§§§id_03398§§§
 <zbr/>CHAMULA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>.
 <zbr/>§§§id_03399§§§
@@ -423,7 +421,7 @@
 <zbr/>#<LOC>Lima</LOC> para su abasto, y llega un año con otro a 22.000 cabezas, cuyo comercio produce a los hacendados cerca de 300.000 pesos: hay algunas <Concept_Structure>haciendas</Concept_Structure> de azúcar, otras de fríxoles y trigo, y éste y el vino eran en otro tiempo la mayor cosecha de esta <Concept_Territory>Provincia</Concept_Territory>; pero después que se han dedicado a las sementeras del maíz se coge poco; conduce mucho a fertilizar las tierras el Huano, que en idioma de los <humanGroup type="social_group">Indios</humanGroup> significa estiércol, y se trae de unas pequeñas <Concept_Landmark>Islas</Concept_Landmark> poco distantes de la <Concept_Landmark>Costa</Concept_Landmark> hacia la parte del N; se cree que es de unos páxaros llamados huanaes, que lo deponen allí de tiempo inmemorial, y se halla también en otras varías <Concept_Landmark>Islas</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de <Landmark>Cañete</Landmark>, <Landmark>Ariea</Landmark> y otras, del qual hechando un puñado al pie ##de una planta de maíz lo hace crecer con tanto vigor que acude a más de 200 por uno, y consumen cada año cerca de 90.000 fanegas de huano: en el centro de la <Concept_Territory>Provincia</Concept_Territory> hay en la <Concept_Landmark>Costa</Concept_Landmark> unas <Concept_Landmark>salinas</Concept_Landmark> abundantes, de que se proveen algunos de las comarcanas, como las de <Settlement>Canta</Settlement>, <Settlement>Tarma</Settlement>, <Settlement>Caxatambo</Settlement>, <Settlement>Huamalies</Settlement>, <Settlement>Huanuco</Settlement>, <Settlement>Conchuco</Settlement> y <Settlement>Huailas</Settlement>, tanto para el beneficio de los metales, como para preservar a los ganados de un insecto llamardo alicuya, que les daña interiormente el hígado hasta que mueren: su población consta de 37 <Concept_Settlement>Pueblos</Concept_Settlement>, cuya. <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Arnedo</Settlement> o <Settlement>Chancay</Settlement>: tenía de repartimiento 122.000 pesos, pagando de alcavala 976 en cada año. 
 <zbr/>
 <zbr/>ßßß
-<zbr/>#Arnedo o Chancay.
+<zbr/>#<Settlement>Arnedo</Settlement> o <Settlement>Chancay</Settlement>.
 <zbr/><Settlement>S. Juan de Huaral</Settlement>.
 <zbr/><Settlement>Huaura</Settlement>.
 <zbr/><Settlement>Mazo</Settlement>.
@@ -433,7 +431,7 @@
 <zbr/><Settlement>Auccayama</Settlement>.
 <zbr/><Settlement>Sayan</Settlement>.
 <zbr/>##<Settlement>Tapaya</Settlement>.
-<zbr/><Settlement>Cancház</Settlement> o Maráz.
+<zbr/><Settlement>Cancház</Settlement> o <Settlement>Maráz</Settlement>.
 <zbr/><Settlement>Yurayaco</Settlement>.
 <zbr/><Settlement>Picoy</Settlement>.
 <zbr/><Settlement>Parquin</Settlement>.
@@ -442,8 +440,7 @@
 <zbr/><Settlement>Mollobamba</Settlement>.
 <zbr/><Settlement>Pañun</Settlement>.
 <zbr/><Settlement>Turpay</Settlement>.
-<zbr/>
-<zbr/>###Tongos.
+<zbr/>###<Settlement>Tongos</Settlement>.
 <zbr/><Settlement>Chiuchin</Settlement>.
 <zbr/><Settlement>Paccho</Settlement>.
 <zbr/><Settlement>Ayaranga</Settlement>.
@@ -513,7 +510,7 @@
 <zbr/>§§§id_03418§§§
 <zbr/>CHAPACOTO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chimbo</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>: situado a la falda de la gran cuesta o <Concept_Landmark>montaña</Concept_Landmark> de <Landmark>San Antonio</Landmark>: pasa por él un pequeño <Concept_Landmark>río</Concept_Landmark> que baxa de ella y desemboca en el <Concept_Landmark>río</Concept_Landmark> de <Territory>Chimbo</Territory>: es de temperamento muy frío y está enmedió de un <Concept_Landmark>bosque</Concept_Landmark> en 1 gr. 40 min. de lat. aust. 
 <zbr/>§§§id_03419§§§
-<zbr/>##CHAPADA, <Concept_Landmark>Sierra</Concept_Landmark>) <Concept_Landmark>montañas</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>todos Santos</Territory>, corren E O hasta cerca de la <Concept_Landmark>Costa</Concept_Landmark>.
+<zbr/>##CHAPADA, <Concept_Landmark>Sierra</Concept_Landmark>) <Concept_Landmark>montañas</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>todos Santos</Territory>, corren E O hasta cerca de la <Concept_Landmark>Costa</Concept_Landmark>.
 <zbr/>§§§id_03420§§§
 <zbr/>CHAPALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Caxititlán</Territory> en <Territory>Nueva España</Territory>, situado a la orilla de la gran <Concept_Landmark>laguna</Concept_Landmark> o <Concept_Landmark>mar</Concept_Landmark> de este nombre: tiene un buen Convento de San Francisco, y en su <Concept_Landmark>Valle</Concept_Landmark> que es muy fértil, se dan con abundancia toda especie de semillas, como trigo, maíz, fríxoles y muchas frutas delicadas.
 <zbr/>§§§id_03421§§§
@@ -553,7 +550,7 @@
 <zbr/>§§§id_03435§§§
 <zbr/>Tiene el mismo nombre ##con la advocación de San Juan otro <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_District>Partido</Concept_District> y Cabecera de <Settlement>Tlacoluca</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Xalapa</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, fundado entre 4 <Concept_Landmark>cerros</Concept_Landmark>, cuyas faldas le hacen círculo: tiene 100 familias de <humanGroup type="social_group">Indios</humanGroup>, inclusos los del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Paztepec</Settlement> que está inmediato: aunque antiguamente pasaba su vecindario de 500 familias, se ignora la causa de hallarse hoy tan deteriorado; no obstante de que los ancianos dicen que es castigo de Dios por haber perdido el respeto a su Cura y dádole mil pesares por el zelo con que procuraba impedirles la idolatría, por cuya razón hoy son muy temerosos y dóciles: está 2 leguas al NE de su <Concept_Settlement>Cabecera</Concept_Settlement>.
 <zbr/>§§§id_03436§§§
-<zbr/>Otro con la misma advocación de San Juan en la <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Settlement>Villa</Concept_Settlement> del <Concept_Territory>Marquesado</Concept_Territory> y y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro Villas</Territory>: tiene 25 familias de <humanGroup type="social_group">Indios</humanGroup>, que se ocupan en el cultivo y comercio de la grana, trigo, maíz, frutas, maderas, carbón, cal y leña, está poco más de una milla al SO de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>Otro con la misma advocación de San Juan en la <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Settlement>Villa</Concept_Settlement> del <Concept_Territory>Marquesado</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro Villas</Territory>: tiene 25 familias de <humanGroup type="social_group">Indios</humanGroup>, que se ocupan en el cultivo y comercio de la grana, trigo, maíz, frutas, maderas, carbón, cal y leña, está poco más de una milla al SO de su <Concept_Settlement>Capital</Concept_Settlement>.
 <zbr/>§§§id_03437§§§
 <zbr/>Otro con la advocación de San Miguel en la Ca
 <zbr/>

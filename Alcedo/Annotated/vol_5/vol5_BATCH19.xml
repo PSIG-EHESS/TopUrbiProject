@@ -113,7 +113,7 @@ ZONCOLOTLA, Santa María de) <Concept_Settlement>Pueblo</Concept_Settlement> de 
 ZONGUILUCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tulanzinco</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, tiene un Convento de Religiosos Agustinos, y 43 familias de <humanGroup type="social_group">Indios</humanGroup>, está 4 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>, <zbr/>
 <zbr/>
 §§§id_18319§§§<zbr/>
-ZONZERON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Sergipe</Territory> en el <Territory>Brasil</Territory>, situado <zbr/>
+ZONZERON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Sergipe</Territory> en el <Territory>Brasil</Territory>, situado <zbr/>
 <zbr/>
 @@@Alcedo_vol_5-0455@@@<zbr/>
 <zbr/>
@@ -574,7 +574,7 @@ ___REYNO DE <Territory>CHILE</Territory>___<zbr/>
 <Settlement>Valparaiso</Settlement>.<zbr/>
 <Settlement>Chiloé</Settlement>.<zbr/>
 <Concept_Landmark>Islas</Concept_Landmark> <Landmark>Maluinas</Landmark>.<zbr/>
-<Concept_Landmark>Islas</Concept_Landmark> de <LOC>Juan Fernandez</LOC>.<zbr/>
+<Concept_Landmark>Islas</Concept_Landmark> de <Landmark>Juan Fernandez</Landmark>.<zbr/>
 #Correg.tos<zbr/>
 ##<Settlement>Aconcagua</Settlement>.<zbr/>
 <Settlement>Cuyo</Settlement>.<zbr/>
@@ -592,7 +592,7 @@ ___REYNO DE <Territory>CHILE</Territory>___<zbr/>
 <Settlement>Rancagua</Settlement>.<zbr/>
 <Settlement>Itata</Settlement>.<zbr/>
 #___AMERICA SEPTENTRIONAL.<zbr/>
-que solo tiene un <Concept_Territory>Virreynato</Concept_Territory> y contiene los <Concept_Territory>Reynos</Concept_Territory> y <Concept_Territory>Provincias</Concept_Territory> siguientes.<zbr/>
+que solo tiene un <Concept_Territory>Virreynato</Concept_Territory> contiene los <Concept_Territory>Reynos</Concept_Territory> y <Concept_Territory>Provincias</Concept_Territory> siguientes.<zbr/>
 <zbr/>
 ___REYNO DE LA NUEVA ESPAÑA.___<zbr/>
 <zbr/>

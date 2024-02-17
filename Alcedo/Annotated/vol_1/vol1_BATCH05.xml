@@ -1,0 +1,605 @@
+<?xml-stylesheet type="text/css" href="../test.css"?>
+<xml>@@@Alcedo_vol_1-0096@@@
+<zbr/>
+<zbr/>#___CATALOGO DE LAS NACIONES Bárbaras y Lugares principales de esta <Concept_Territory>Provincia</Concept_Territory>.___
+<zbr/>
+<zbr/>ßßß
+<zbr/>#___NACIONES___.
+<zbr/><humanGroup type="indigenous_group">Acomes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Amapaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aravis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aricaretis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Aricoris</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Arbacas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Campagotes.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Canuris.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Carivinis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Chahuas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Cumanaes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Eparagois</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Marones</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Mayos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Morinies</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Omiguas</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Palenques</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Papinis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Parimoes</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Parragores.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Peritoes.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Saymagoes.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Sebayos.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Supiayes.</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Vacaronis</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yaos</humanGroup>.
+<zbr/><humanGroup type="indigenous_group">Yuarepices</humanGroup>.
+<zbr/>___CIUDADES___.
+<zbr/><Settlement>Cadiz Nueva</Settlement>.
+<zbr/><Settlement>Cordova</Settlement>.
+<zbr/><Settlement>Cumaná</Settlement>.
+<zbr/>##___MONTES___.
+<zbr/><Landmark>Guanta</Landmark>.
+<zbr/><Landmark>Panagara</Landmark>.
+<zbr/><Landmark>San Pedro</Landmark>.
+<zbr/><Landmark>Saporovis</Landmark>.
+<zbr/><Landmark>Vacarima</Landmark>.
+<zbr/>___RIOS___.
+<zbr/><Landmark>Amacore</Landmark> o <Landmark>Amacuri</Landmark>.
+<zbr/><Landmark>Amaná</Landmark>.
+<zbr/><Landmark>Aquire</Landmark>.
+<zbr/><Landmark>Aricani</Landmark>.
+<zbr/><Landmark>Aro</Landmark>.
+<zbr/><Landmark>Aropa</Landmark>.
+<zbr/><Landmark>Aruari</Landmark>.
+<zbr/><Landmark>Atanari</Landmark>.
+<zbr/><Landmark>Berbis</Landmark>.
+<zbr/><Landmark>Buria</Landmark>.
+<zbr/><Landmark>Cabomi</Landmark>.
+<zbr/><Landmark>Caora</Landmark>.
+<zbr/><Landmark>Capurvacá</Landmark>.
+<zbr/><Landmark>Cassipouri</Landmark>.
+<zbr/><Landmark>Caturi</Landmark>.
+<zbr/><Landmark>Cavo</Landmark>.
+<zbr/><Landmark>Corentin</Landmark>.
+<zbr/><Landmark>Coropatuba</Landmark>.
+<zbr/><Landmark>Coura</Landmark>.
+<zbr/><Landmark>Curiguacuriu</Landmark>.
+<zbr/><Landmark>Demarari</Landmark>.
+<zbr/><Landmark>Esequebo</Landmark> o <Landmark>Esquibo</Landmark>.
+<zbr/><Landmark>Europa</Landmark>.
+<zbr/>###<Landmark>Guaveteri</Landmark>.
+<zbr/><Landmark>Guarapiche</Landmark>.
+<zbr/><Landmark>Majo</Landmark>.
+<zbr/><Landmark>Mahuri</Landmark>.
+<zbr/><Landmark>Masiacari</Landmark>.
+<zbr/><Landmark>Maravini</Landmark>.
+<zbr/><Landmark>Maroni</Landmark>.
+<zbr/><Landmark>Maipari</Landmark>.
+<zbr/><Landmark>Moruga</Landmark>.
+<zbr/><Landmark>Orinoco</Landmark>.
+<zbr/><Landmark>Ovabariche</Landmark>.
+<zbr/><Landmark>Ovetacates</Landmark>.
+<zbr/><Landmark>Pao</Landmark>.
+<zbr/><Landmark>Paraba</Landmark>.
+<zbr/><Landmark>Piari</Landmark>.
+<zbr/><Landmark>Saima</Landmark>.
+<zbr/><Landmark>Sinamari</Landmark>.
+<zbr/><Landmark>Surinam</Landmark>.
+<zbr/><Landmark>Timeraris</Landmark>.
+<zbr/><Landmark>Varca</Landmark>.
+<zbr/><Landmark>Varima</Landmark>.
+<zbr/><Landmark>Via</Landmark> o 
+<zbr/><Landmark>Uvia</Landmark>.
+<zbr/><Landmark>Vyacopo</Landmark> o <Landmark>Yapoco</Landmark>.
+<zbr/><Landmark>Yvaricopo</Landmark>.
+<zbr/>___PROMONTORIOS___.
+<zbr/><Landmark>Caldera</Landmark>.
+<zbr/><Landmark>Cepereu</Landmark>.
+<zbr/><Landmark>Cenobebo</Landmark>.
+<zbr/>De <Landmark>Salinas</Landmark>
+<zbr/><Landmark>.Oranges</Landmark>.
+<zbr/><Landmark>Pinzon</Landmark>.
+<zbr/><Landmark>Romatá</Landmark>. 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0097@@@
+<zbr/>
+<zbr/>#___LAGUNAS___.
+<zbr/><Landmark>Cassipa</Landmark>.
+<zbr/><Landmark>Parime</Landmark>.
+<zbr/>___FUENTES___.
+<zbr/><Landmark>Araya</Landmark>.
+<zbr/>##<Landmark>Essequeb</Landmark>.
+<zbr/><Landmark>Mompatar</Landmark>.
+<zbr/><Landmark>Surinam</Landmark>.
+<zbr/>___ISLAS___.
+<zbr/><Landmark>Assapara</Landmark>.
+<zbr/><Landmark>Blanca</Landmark>.
+<zbr/><Landmark>Cayena</Landmark>.
+<zbr/>###<Landmark>Coche</Landmark>.
+<zbr/><Landmark>Cubagua</Landmark>.
+<zbr/><Landmark>Iracapono</Landmark>.
+<zbr/><Landmark>Maiparo</Landmark>.
+<zbr/><Landmark>Maraca</Landmark>.
+<zbr/><Landmark>Marasi</Landmark>.
+<zbr/><Landmark>Margarita</Landmark>.
+<zbr/><Landmark>Ovaracapa</Landmark>.
+<zbr/><Landmark>Escudo</Landmark>.
+<zbr/><Landmark>Tortuga</Landmark>.
+<zbr/><Landmark>Trinidad</Landmark>. 
+<zbr/>$$$
+<zbr/>§§§id_00759§§§
+<zbr/>#ANDAMARCA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00760§§§
+<zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Carangas</Territory>, del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory>, en el mismo <Concept_Territory>Reyno</Concept_Territory>.
+<zbr/>§§§id_00761§§§
+<zbr/>Otro en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Parinacochas</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Charcana</Settlement>.
+<zbr/>§§§id_00762§§§
+<zbr/>Otro en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Jauxa</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Comas</Settlement>, situado en la frontera de los <humanGroup type="social_group">Indios</humanGroup> Infieles de la <Concept_Landmark>Montaña</Concept_Landmark>.
+<zbr/>§§§id_00763§§§
+<zbr/>ANDAMARCAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Cabana</Settlement>.
+<zbr/>§§§id_00764§§§
+<zbr/>ANDAPIRCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Tarma</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Chacayan</Settlement>.
+<zbr/>§§§id_00765§§§
+<zbr/>ANDAQUIES, <Concept_Settlement>Pueblo</Concept_Settlement> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el <Territory>Nuevo ##Reyno de Granada</Territory>.
+<zbr/>§§§id_00766§§§
+<zbr/>ANDARAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de Condensuyos de <Territory>Arequipa</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00767§§§
+<zbr/>ANDARAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Andahuailas</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>San Gerónimo</Settlement>.
+<zbr/>§§§id_00768§§§
+<zbr/>ANDARIEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del N, a la orilla del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>Urabá</Landmark>.
+<zbr/>§§§id_00769§§§
+<zbr/>ANDASTES, <Concept_Group>Nación bárbara de Indios</Concept_Group> del <Territory>Canadá</Territory>, confinantes con la <Territory>Virginia</Territory>.
+<zbr/>§§§id_00770§§§
+<zbr/>ANDES, Cordillera de los) <Concept_Landmark>Cadena de montañas</Concept_Landmark> y <Concept_Landmark>serranías</Concept_Landmark> altísimas que atraviesan casi toda la <Territory>América</Territory>, por espacio de más de 1.000 leguas, corriendo siempre N S, desde la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Santa Marta</Territory>, en que tienen principie en la <Concept_Landmark>Sierra</Concept_Landmark> <Landmark>Nevada</Landmark>, del <Territory>Nuevo Reyno de Granada</Territory>, siguiendo 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0098@@@
+<zbr/>
+<zbr/>#por las <Concept_Territory>Provincias</Concept_Territory> del <Territory>Perú</Territory> y <Territory>Chile</Territory>, hasta el <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> y <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Hornos</Landmark>, donde terminan: se divide en otras ramas, una que tira por lo interior del <Territory>Nuevo Reyno de Granada</Territory>; a la parte austral de los <Concept_Landmark>llanos</Concept_Landmark> de <Landmark>San Juan</Landmark>, y hace cabeza en la <Territory>Guayana</Territory>, y otra que forma varias líneas y arcos divididos en diferentes direcciones por el <Landmark>Cuzco</Landmark>, <Territory>Tucumán</Territory>, <Territory>Tarma</Territory> y <Landmark>Paraguay</Landmark>, y se unen luego con la gran cadena del <Landmark>Brasil</Landmark>: por el <Concept_Landmark>Istmo</Concept_Landmark> de <Landmark>Panamá</Landmark> atraviesa a el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nicaragua</Territory>, pasa a los de <Territory>Goatemala</Territory>, <Territory>Mechoacán</Territory> y <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cinaloa</Territory>, y sigue por los demas <Concept_Territory>Países</Concept_Territory> incógnitos de la <Territory>América Septentrional</Territory>: estas <Concept_Landmark>montañas</Concept_Landmark> están llenas de inmensos <Concept_Landmark>bosques</Concept_Landmark>, y sus cimas siempre cubiertas de nieve, de que se forman grandes <Concept_Landmark>lagunas</Concept_Landmark>, y los mayores <Concept_Landmark>ríos</Concept_Landmark> del mundo; su mayor elevación es en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, donde descuella sobre todos el gran <Landmark>Chimborazo</Landmark>, muchos son <Concept_Landmark>volcanes</Concept_Landmark> que arroian fuego, y han causado infinito daño en las <Concept_Territory>Provincias</Concept_Territory>, produciendo terremotos, inundaciones de agua, lodo, betún y piedras encendidas; sus entrañas encierran los mayores tesoros de la naturaleza, como el oro, pla##ta y demás metales, piedras preciosas, mármoles y tierras minerales, las más raras y estimadas: quasi todas las <Concept_Landmark>minas</Concept_Landmark> se trabajan en el <Concept_Landmark>seno</Concept_Landmark> de estos riquísimos <Concept_Landmark>montes</Concept_Landmark>, principalmente en el <Territory>Perú</Territory> y <Territory>Chile</Territory>: además del nombre común de Andes tienen otros varios que le dan los <Concept_Settlement>Pueblos</Concept_Settlement> inmediatos: los caminos que por ellos abrieron los Incas Emperadores del <Territory>Perú</Territory>, eran magníficos; pero hoy están destruidos, y los que hay para la comunicación de las <Concept_Territory>Provincias</Concept_Territory> interiores, se pueden llamar precipicios más bien quecaminos, y solo se pasan a pie, o en mulas que son muy prácticas y seguras; habitan en ellas muchas <Concept_Group>naciones bárbaras</Concept_Group> como fieras, y se encuentran muchas aguas minerales, excelentes para el uso de la medicina: la mayor extensión de estas <Concept_Landmark>montañas</Concept_Landmark> es de 20 leguas de ancho, separándose en algunos parajes 12, leguas de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>, y en otras acercándose a 5; crían muchas vicuñas, guanacos, monos y micos de infinitas especies, tigres, leopardos y puercos, que tienen el ombligo en el espinazo, y huelen a almizcle, con otra multitud de animales y aves muy extraños, y no conocidos en <Territory>Europa</Territory> como el 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0099@@@
+<zbr/>
+<zbr/>#cóndor en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, que es ave carnicera de extraordinaria grandeza que arrebata por el ayre animales de mucho peso, como un carnero, y aun terneros pequeños, haciendo tanto ruido con las alas al volar que se oye a gran distancia: abunda también en estas asperezas la yerba coca, tan útil para los <humanGroup type="social_group">Indios</humanGroup> y la canchalagna: se atraviesan para pasar de <Territory>Chile</Territory> al <Territory>Perú</Territory>; pero no se puede executar en los seis meses de Invierno sin evidente riesgo de perecer, como ha sucedido a muchos, y entonces llaman estar cerrada la <Concept_Landmark>Cordillera</Concept_Landmark>.
+<zbr/>§§§id_00771§§§
+<zbr/>ANDIETUM, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Mariland</Territory>: corre al S y entra en el de <Landmark>Potuwmak</Landmark>.
+<zbr/>§§§id_00772§§§
+<zbr/>ANDINOS, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory> en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, y <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Natayas</humanGroup>: corre del SSE al NNO, y entra en la <Concept_Landmark>laguna</Concept_Landmark> <Landmark>Maguegazu</Landmark>; según la descripción de Mr. <persName>Bellin</persName>, que lo llama Andiras, entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Abacachis</Landmark>.
+<zbr/>§§§id_00773§§§
+<zbr/>ANDOAS, Santo Tomás de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maynas</Territory> del <Concept_Territory>Reyno</Concept_Territory> de ##<Territory>Quito</Territory>.
+<zbr/>§§§id_00774§§§
+<zbr/>ANDRE, Bahía de) en la <Concept_Landmark>Costa</Concept_Landmark> del N del <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>.
+<zbr/>§§§id_00775§§§
+<zbr/>ANDRES, San) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Texupilco</Settlement>, y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zultepec</Territory>, en <Territory>Nueva España</Territory>, situado en lo más áspero de una tendida <Concept_Landmark>loma</Concept_Landmark>, de temperamento cálido y húmedo: tiene 77 familias de <humanGroup type="social_group">Indios</humanGroup>, y dista 3 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00776§§§
+<zbr/>Tiene este mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Toluca</Territory>, en el mismo <Concept_Territory>Reyno</Concept_Territory>, con 134 familias de <humanGroup type="social_group">Indios</humanGroup>. Está poco distante al N de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00777§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Tlacotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepeaca</Territory>. Tiene 33 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 3 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>.
+<zbr/>§§§id_00778§§§
+<zbr/>Otro que es <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tuxtla</Territory>: tiene 1170 familias de <humanGroup type="social_group">Indios</humanGroup>.
+<zbr/>§§§id_00779§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Marinalco</Territory>, distante de su <Concept_Settlement>Capital</Concept_Settlement> una legua corta.
+<zbr/>§§§id_00780§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Texpatlán</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuernavaca</Territory>.
+<zbr/>§§§id_00781§§§
+<zbr/>Otro que es un pequeño <Concept_Settlement>Barrio</Concept_Settlement> agregado al de <Settlement>Tequiszitlán</Settlement>, en la <Concept_Territory>Alcaldía 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0100@@@
+<zbr/>
+<zbr/>#mayor</Concept_Territory> de <Territory>Theotihuacan</Territory>.
+<zbr/>§§§id_00782§§§
+<zbr/>Otro en la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Ahuacatlán</Settlement>, y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zacatlán</Territory>, distante poco más de una legua de su <Concept_Settlement>Cabecera</Concept_Settlement>.
+<zbr/>§§§id_00783§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Xonotla</Settlement>, y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tetela</Territory>, distante una legua al SO de su <Concept_Settlement>Cabecera</Concept_Settlement>.
+<zbr/>§§§id_00784§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guejozingo</Territory>. Contiene 15 familias de <humanGroup type="social_group">Indios</humanGroup>, inclusos los del <Concept_Settlement>barrio</Concept_Settlement> de <Settlement>San Pedro</Settlement>, que está junto a él, y ambos al S de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00785§§§
+<zbr/>Otro o <Concept_Settlement>Barrio</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guauchinango</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Tlacuclotepec</Settlement>.
+<zbr/>§§§id_00786§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Papalotipac</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuicatlán</Territory>, con 20 familias de <humanGroup type="social_group">Indios</humanGroup>.
+<zbr/>§§§id_00787§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Hiscotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nexapa</Territory>: comprehende 68 familias de <humanGroup type="social_group">Indios</humanGroup>.
+<zbr/>§§§id_00788§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Tepehuacan</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepic</Territory>: en el qual se cuentan 40 familias de <humanGroup type="social_group">indios</humanGroup> exercitados en el cultivo del algodón.
+<zbr/>§§§id_00789§§§
+<zbr/>Otro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zapotlan y Tuspa</Territory>. En su inmediación tiene a las ori##llas del <Concept_Landmark>río</Concept_Landmark> <Landmark>Amaqueca</Landmark> una <Concept_Structure>hacienda</Concept_Structure>, llamada el <Structure>tigre a la raya</Structure>, y la de <Structure>Manguaro</Structure> también a la orilla del mismo <Concept_Landmark>río</Concept_Landmark>: está 4 leguas de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00790§§§
+<zbr/>Otro de las Misiones que tenían los Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tepeguana</Territory>, y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Nasas</Landmark>. 
+<zbr/>§§§id_00791§§§
+<zbr/>Otro de la Misión que tienen los Religiosos de San Francisco en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, distante 10 leguas entre el SE y OS E de el Real de <Settlement>San Felipe de Chiguagua</Settlement>.
+<zbr/>§§§id_00792§§§
+<zbr/>Otro de la <Concept_Territory>jurisdicción</Concept_Territory> del <Concept_Territory>Gobierno</Concept_Territory> de <Territory>San Juan Girón</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory>, situado en lo más áspero de la <Concept_Landmark>serranía</Concept_Landmark>.
+<zbr/>§§§id_00793§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory> situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Sinú</Landmark>.
+<zbr/>§§§id_00794§§§
+<zbr/>Otro de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que el antecedente, y a poca distancia de él.
+<zbr/>§§§id_00795§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Riobamba</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+<zbr/>§§§id_00796§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory>, y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Pucquin</Settlement>.
+<zbr/>§§§id_00797§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zacapula</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>. 
+<zbr/>§§§id_00798§§§ 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0101@@@
+<zbr/>
+<zbr/>#Otro de las Misiones que tenían los Regulares de la Compañía, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory>, <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, a orilla del <Concept_Landmark>Río</Concept_Landmark> <Landmark>Hayai</Landmark>, poco distante del de <Settlement>San Juan</Settlement>.
+<zbr/>§§§id_00799§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+<zbr/>§§§id_00800§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>.
+<zbr/>§§§id_00801§§§
+<zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_District>Parroquia</Concept_District> de los <humanGroup type="political_group">Ingleses</humanGroup>, en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Jamaica</Territory> a la parte del Sur.
+<zbr/>§§§id_00802§§§
+<zbr/>Otro <Concept_District>Parroquia</Concept_District> y <Concept_Settlement>Cabeza de Partido</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del E.
+<zbr/>§§§id_00803§§§
+<zbr/>Otro de la misma <Concept_Landmark>Isla</Concept_Landmark> del <Concept_District>distrito</Concept_District> y <Concept_District>Parroquia</Concept_District> de <Settlement>Santo Tomás</Settlement>.
+<zbr/>§§§id_00804§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Verapaz</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>.
+<zbr/>§§§id_00805§§§
+<zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Norte</Landmark>, situada enfrente de la <Concept_Landmark>Costa</Concept_Landmark> de <Settlement>Tierra Firme</Settlement>, y al S de la de <Landmark>Santa Catalina</Landmark>: está desierta. Long. 298 30 lat. 12 30.
+<zbr/>§§§id_00806§§§
+<zbr/>Otra <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Norte</Landmark>, una de las <Landmark>Lucayas</Landmark>, entre la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>Larga</Landmark> y la del <Landmark>Espíritu Santo</Landmark>. 
+<zbr/>§§§id_00807§§§
+<zbr/>Una <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, entre los dos <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Incógnitos</Landmark>.
+<zbr/>§§§id_00808§§§
+<zbr/>Otra <Concept_Landmark>Bahía</Concept_Landmark> de la <Territory>Florida</Territory>, ##en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Georgia</Territory>, entre la de <Landmark>Santa Rosa</Landmark> y el <Concept_Landmark>río</Concept_Landmark> <Landmark>Apalachicola</Landmark>.
+<zbr/>§§§id_00809§§§
+<zbr/>Un <Concept_Structure>fuerte</Concept_Structure> de los <humanGroup type="political_group">Ingleses</humanGroup>, situado en una <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Georgia</Territory>.
+<zbr/>§§§id_00810§§§
+<zbr/>Un <Concept_Landmark>Cabo</Concept_Landmark> o <Concept_Landmark>Punta</Concept_Landmark> de <Landmark>Tierra</Landmark>, en la <Concept_Landmark>Costa</Concept_Landmark> de los <Landmark>Patagones</Landmark>, que media entre el <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Plata</Landmark> y el <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallares</Landmark>.
+<zbr/>§§§id_00811§§§
+<zbr/>ANEAV, Puerto del) en la <Concept_Landmark>Costa</Concept_Landmark> del O de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory> y <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, entre el <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Raye</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de la <Landmark>Anguíla</Landmark>.
+<zbr/>§§§id_00812§§§
+<zbr/>ANECUILCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Tetelzingo</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Coautla</Territory>, en <Territory>Nueva España</Territory>: tiene 20 familias de <humanGroup type="social_group">Indios</humanGroup>, y a poco más de una legua la <Concept_Structure>hacienda</Concept_Structure> de <Structure>Mapaztlán</Structure>; en cuya inmediación hay una <Concept_Settlement>ranchería</Concept_Settlement> con 22 familias de <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, que tienen cerca otra <Concept_Structure>Hacienda</Concept_Structure> de moler metales de plata, perteneciente al <Concept_Settlement>Real de Minas</Concept_Settlement> de <Territory>Coautla</Territory>. Está 1 legua al SO de su <Concept_Settlement>Cabecera</Concept_Settlement>.
+<zbr/>§§§id_00813§§§
+<zbr/>ANEGADA, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Norte</Landmark>, una de las <Landmark>Antillas</Landmark>, situada al E de la de <Landmark>Puertorrico</Landmark>; es esteril, falta de agua y está desierta.
+<zbr/>§§§id_00814§§§
+<zbr/>Tiene este nombre también una <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>; es grande y capaz, y 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0102@@@
+<zbr/>
+<zbr/>#está entre la de <Landmark>San Matías</Landmark> y el <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>San Andrés</Landmark>.
+<zbr/>§§§id_00815§§§
+<zbr/>Otra <Concept_Landmark>Isla</Concept_Landmark> pequeña, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de <Settlement>Vera-Cruz</Settlement>, en el <Concept_Landmark>Seno</Concept_Landmark> o <Concept_Landmark>Golfo</Concept_Landmark> <Landmark>Mexicano</Landmark>, entre el <Concept_Landmark>Arrecife</Concept_Landmark> del <Landmark>Palo</Landmark> y la <Concept_Landmark>isla</Concept_Landmark> de <Landmark>Cabezas</Landmark>.
+<zbr/>§§§id_00816§§§
+<zbr/>Una <Concept_Landmark>Punta de tierra</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del Sur del <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, junto al <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Orange</Landmark> y frente de la <Concept_Landmark>Bahía</Concept_Landmark> de la <Landmark>Posesión</Landmark>.
+<zbr/>§§§id_00817§§§
+<zbr/>Otra <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de los <Landmark>Patagones</Landmark>, que media entre el <Concept_Landmark>Río</Concept_Landmark> de la <Landmark>Plata</Landmark> y el <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>.
+<zbr/>§§§id_00818§§§
+<zbr/>ANEGADITOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, en la <Concept_Landmark>Costa</Concept_Landmark> del Sur, entre el <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Trinidad</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Cochinos</Landmark>.
+<zbr/>§§§id_00819§§§
+<zbr/>ANEGADIZOS, Río de los) en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>; corre casi E O, y sale al <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, cerca de la <Concept_Landmark>Punta</Concept_Landmark> de <Landmark>Salinas</Landmark>.
+<zbr/>§§§id_00820§§§
+<zbr/>Señas de los) nombre de 3 <Concept_Landmark>Montes</Concept_Landmark>, que hay en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que el <Concept_Landmark>río</Concept_Landmark> antecedente.
+<zbr/>§§§id_00821§§§
+<zbr/>ANEMBI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00822§§§
+<zbr/>ANGACHILLA, <Concept_Landmark>Río</Concept_Landmark> del <Concept_District>Partido</Concept_District> de <Territory>Guadalabquen</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>: corre al O y entra en el de <Landmark>Valdivia</Landmark>, cerca de esta <Concept_Settlement>Ciudad</Concept_Settlement>.
+<zbr/>§§§id_00823§§§
+<zbr/>ANGAGUA, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> de la Cabece##ra de <Concept_District>Partido</Concept_District> de <Settlement>Uruapan</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado en lo interior de la <Concept_Landmark>Serranía</Concept_Landmark>: tiene 22 familias de <humanGroup type="social_group">Indios</humanGroup> y dista 10 leguas al Poniente de su <Concept_Settlement>Cabecera</Concept_Settlement> y 15 de la <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00824§§§
+<zbr/>ANGAMARCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Latacunga</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+<zbr/>§§§id_00825§§§
+<zbr/>ANGAMOCUTIRO, San Francisco de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Puruandiro</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado a la parte del Oriente de su <Concept_Settlement>Capital</Concept_Settlement>, en una <Concept_Landmark>Loma</Concept_Landmark>, es de temperamento caliente y seco; tiene 45 familias de <humanGroup type="social_group">Españoles</humanGroup> <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, y 106 de <humanGroup type="social_group">Indios</humanGroup>, está 25 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement> <Settlement>Pasquaro</Settlement>.
+<zbr/>§§§id_00826§§§
+<zbr/>ANGARAES, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>, que está como encajonada en la de <Territory>Castro-Virreyna</Territory>, desde el SO, hasta el NO, y abraza la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Tayacaja</Landmark> de la de <Territory>Huanta</Territory>: toca por el O un poco de la de <Territory>Yauyos</Territory>, que se introduce entre las de <Settlement>Castro-virreyna</Settlement> y <Territory>Jauxa</Territory>, con quien también confina algo por el NO: tiene 24 leguas de largo E O, y 12 de ancho, con bastante irregula
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0103@@@
+<zbr/>
+<zbr/>#ridad en su figura: su temperamento es por la mayor parte frío, a excepción de una ú otra <Concept_Landmark>quebrada</Concept_Landmark>, que son algo templadas; pero sin embargo, no es escasa en trigo, maíz y demás semillas. Cultivan también en los parages templados cañaverales de azúcar, algunas frutas y verduras, y una especie de heno que llaman Ichu, y sirve de leña para los hornos en que se extrae el azogue, de que sacan mucho provecho, porque la pagan bien los Mineros: cría ganados de toda especie, y carneros de la tierra que sirven para acarrear los metales al <Concept_Landmark>cerro</Concept_Landmark> de los hornos. También se hallan en esta <Concept_Territory>Provincia</Concept_Territory> varias tierras de colores para pintar, como la sombra que llaman de Guancabélica, oropimente, ocre, almagre, cinabrio y otras de varios colores. Báñanla los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Sangoiaco</Landmark>, que la divide de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Tayacaja</Territory>, perteneciente a la de <Territory>Huanta</Territory>, el de <Landmark>Vilcabamba</Landmark>, que también la divide de la de <Territory>Jauxa</Territory>, el de <Landmark>Licay</Landmark>, y el de la <Landmark>Sal</Landmark>: todos van a parar al del <Settlement>Marañon</Settlement>: tiene 6 <Concept_District>Curatos</Concept_District> o <Concept_District>Parroquias</Concept_District> de <humanGroup type="social_group">Indios</humanGroup>, y otros 30 <Concept_Settlement>Pueblos</Concept_Settlement> dependientes de ellos o anexos. Su repartimiento era de 36.422. pesos fuertes, de que pagaba 1456 de alcavala en ##el Quinquenio: la <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Guancavélica</Settlement>.
+<zbr/>§§§id_00827§§§
+<zbr/>ANGASMAIU, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory>, en el <Concept_Landmark>valle</Concept_Landmark> de los <Landmark>Masteles</Landmark>: corre E O y después de recoger los de <Landmark>Juanambú</Landmark> y de <Landmark>Guaitara</Landmark>, entra en el de <Landmark>Patia</Landmark> por la parte austral aumentando su caudal, divide la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Quito</Territory> de la de <Territory>Popayán</Territory>, y es donde termina la de la Inquisición de <Territory>Lima</Territory>, y empieza la de <Territory>Cartagena</Territory>: su boca está en 1 grad. 28 min. de lat. bor.
+<zbr/>§§§id_00828§§§
+<zbr/>ANGASMARCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Tarma</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Parianchacra</Settlement>.
+<zbr/>§§§id_00829§§§
+<zbr/>Otro hay del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huamachuco</Territory>, también en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00830§§§
+<zbr/>Un <Concept_Landmark>Río</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory>: nace al S de la <Concept_Settlement>Capital</Concept_Settlement>, y entra en el de <Landmark>Santa</Landmark>.
+<zbr/>§§§id_00831§§§
+<zbr/>ANGEL San) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Coyoacán</Territory>, en <Territory>Nueva España</Territory>, de agradable y delicioso temperamento, poblado de casas, huertas y jardines, que sirven de recreo y diversión a las gentes de <Settlement>México</Settlement>; en el hay un Convento de Religiosos de San Francisco, y otro magnífico de Carmelitas Descalzos, 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0104@@@
+<zbr/>
+<zbr/>#que es Colegio de Estudios: hace algún comercio de paños y bayetas que texen sus obrajes: dista poco más de un quarto de legua al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00832§§§
+<zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Periban</Territory>, en el propio <Concept_Territory>Reyno</Concept_Territory>: tiene 86 familias de <humanGroup type="social_group">Indios</humanGroup> y 6 de <humanGroup type="social_group">Mestizos</humanGroup>, que viven de hacer zapatos y sillas de montar, porque su <Concept_Territory>territorio</Concept_Territory> no produce frutos: tiene un Convento de Religiosos de San Francisco, y está 6 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>.
+<zbr/>§§§id_00833§§§
+<zbr/>Otro del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, que es <Concept_Structure>Plaza</Concept_Structure> de armas y frontera de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup>, cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Biobio</Landmark>.
+<zbr/>§§§id_00834§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pasto</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado en el camino que baxa a <Settlement>Popayán</Settlement>.
+<zbr/>§§§id_00835§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory>, en <Territory>Nueva España</Territory>, a orilla de un <Concept_Landmark>río</Concept_Landmark> que entra en el de <Landmark>Gila</Landmark>, al O del <Concept_Settlement>Presidio</Concept_Settlement> de <Settlement>Horcasitas</Settlement>.
+<zbr/>§§§id_00836§§§
+<zbr/>Otro de las Misiones que tenían los Regulares de la Compañía, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Yui</Landmark>; en él tubiéron los <humanGroup type="political_group">Portugueses</humanGroup>, mandados por <persName>Gómez Freiré de Andrade</persName>, su quar##tel general, el año de 1756, quando pasó el Teniente General Don <persName>Pedro Cevallos</persName>, con el <persName>Marqués de Valdelirios</persName>, enviados a tratar del cange de los <Concept_Settlement>Pueblos</Concept_Settlement> del <Territory>Paraguay</Territory> con la corona de <Territory>Portugal</Territory>.
+<zbr/>§§§id_00837§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Ibarra</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado en la Cabecera del <Concept_Landmark>río</Concept_Landmark> de su nombre.
+<zbr/>§§§id_00838§§§
+<zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> grande del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>California</Landmark> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>roxo de Cortes</Landmark>, situada en lo más interior de él, poco distante de la <Concept_Landmark>Costa</Concept_Landmark>, siguiendo su dirección.
+<zbr/>§§§id_00839§§§
+<zbr/>Un <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Ibarra</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, nace del <Concept_Landmark>páramo</Concept_Landmark> del <Landmark>Angel</Landmark>, corre al SSE, y entra en el de <Landmark>Mira</Landmark>, poco antes de un puente que tiene este: hállase en 27 mint. 7 segundos de lat. bor.
+<zbr/>§§§id_00840§§§
+<zbr/>ANGELES, Puebla de los) <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tlaxcala</Territory>, en <Territory>Nueva España</Territory>, fundada el año de 1533 por el Obispo Don <persName>Sebastián Ramírez de Fuenleal</persName>: es de temperamento caliente y seco, una de las más hermosas que hay en la <Territory>América</Territory>, y a quien solo excede en <Territory>Nueva España</Territory> su <Concept_Settlement>Capital</Concept_Settlement>: los Templos son suntuosos, las calles anchas y tiradas a cordel de Oriente a Poniente y 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0105@@@
+<zbr/>
+<zbr/>#N a S, las plazas grandes y quadradas, y los edificios primorosos y de igual arquitectura: la Catedral es de las más ricas, aseadas y bien servidas: a ella esta unida la magnífica Capilla del Sagrario, con dos Curas y 4 Ayudas de Parroquia, que son: la Capilla de los <humanGroup type="social_group">Indios</humanGroup> en su Cementerio, la de los Dolores en el puente de <Structure>San Francisco</Structure>, la de los Cozos, y la quarta también con el mismo nombre de los Dolores, contigua al Convento de Belethmitas, y la de San Marcos como sufragánea: tiene además de estas otras 4 <Concept_District>Parroquias</Concept_District>: la de San Joseph con cinco visitas, que son: la de <humanGroup type="social_group">Indios</humanGroup> en su Cementerio, San Pablo, Santa Ana, San Antonio, y Nuestra Señora de Loreto: la de Santa Cruz con otras quatro, Santiago, San Miguel, San Matías y Guadalupe: la del Santo Angel Custodio con dos, los Remedios y San Baltasar: y la de Santa Cruz con tres, San Juan del Río, el Santo Christo de Xonacaltepec, y la Misericordia: tiene los Conventos siguientes: el de Santo Domingo, casa grande; el Colegio Real de San Luis, con estudios generales, el Convento o Recolección de San Pablo, y a su inmediación dos Capillas ##grandes, una de Indíos <humanGroup type="indigenous_group">Mistecos</humanGroup>, y otra de Orden de Penitencia, a que está agregada la de la santa Escuela,: Convento de Observantes de San Francisco, y Capillas independientes de la Tercera Orden, de <humanGroup type="social_group">Indios</humanGroup>, y del destierro, y extramuros de la <Concept_Settlement>Ciudad</Concept_Settlement> la Iglesia y Hospicio de Misioneros de la Orden: de Santa Bárbara, de Franciscanos Descalzos, de San Agustín y de Mercenarios, uno y otro casas de estudios: Colegio que fue de los Regulares de la Compañía, y contiguo a él la Iglesia de San Miguel de Indios, y el de San Ildefonso de Carmelitas Descalzos, que es casa de Noviciado y de Estudios: dos de la Religión de San Juan de Dios, uno de Noviciado, y otro Hospital de San Pedro: el de San Hipólito de la Caridad, y el Convento de Belethmitas de la convalecencia, con escuelas para niños: Iglesia del Oratorio de <Settlement>San Felipe Neri</Settlement>, y de la Congregación de Eclesiásticos de San Pedro, para exercitarse en el ministerio de Pulpito y Confesonario. Los Monasterios de Religiosas que tiene son: de la Concepción, San Gerónimo, Santísima Trinidad, Santa Catalina, Dominicas, Santa Inés de <Concept_Landmark>Monte</Concept_Landmark> Policiano, de la misma Orden, 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0106@@@
+<zbr/>
+<zbr/>#Santa Rosa de María, de Carmelitas Descalzas, Santa Mónica, de Recoletas Agustinas, Capuchinas, y Santa Clara. Los Colegios que ilustran esta <Concept_Settlement>Ciudad</Concept_Settlement>, son: el de San Pedro y San Juan, en que se incluye el Seminario Tridentino donde se enseña a los Colegiales Gramática, Estudios mayores y Lengua Mexicana; el Máximo de San Pedro y San Pablo, que llaman morados del Colegio mayor de <Territory>Cuenca</Territory>, para leer Teología y Filosofía; el de San Gerónimo para enseñar Gramática, y el de San Ignacio para Estudios mayores: un Colegio de Niñas con título de la Caridad, otro inmediato para casadas y viudas: el de Jesús María, contiguo al de San Gerónimo, y otro de Beatas Mercenarias, con un magnífico Templo y devoto <Concept_Structure>Santuario</Concept_Structure> de la milagrosísima Imagen de Nuestra Señora de la Soledad: fuera de los Templos referidos hay extramuros varias Capillas y <Concept_Structure>Hermitas</Concept_Structure> en los <Concept_Settlement>Barrios</Concept_Settlement> de <humanGroup type="social_group">Indios</humanGroup> que la rodean, y así en estos como en ella habitan 3200 familias de <humanGroup type="social_group">Indios</humanGroup> <humanGroup type="indigenous_group">Mexicanos</humanGroup>, y 15.000 de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>: el comercio que mantienen, aun##que con decadencia desde el principio de este siglo, respecto al que tenían antes, es de ropas y frutos de España y del <Concept_Territory>País</Concept_Territory>, y muchas de china, con los demás efectos que le entran de otras <Concept_Territory>Provincias</Concept_Territory>, con quienes igualmente tiene tráfico de jabón, del qual hay muchas fábricas, como también de texidos de algodón, loza fina, semejante a la de Talavera, y de toda especie de herramientas de herrería, como rejas, machetes, cuchillos, espuelas y estrivos, y con particular estimación las armas blancas, por el singular temple que las dan, como en <Settlement>Toledo</Settlement>, y primor con que las trabajan. Es cabeza de <Concept_Territory>Obispado</Concept_Territory> sufragáneo del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>México</Territory>, eregido el año de 1526 en la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Tlaxcala</Settlement>, y transferido a esta el de 1550: tiene la gloria de haber ocupado su Mitra el Venerable Señor Don Fray <persName>Juan de Palafox</persName>, de cuya Canonización se trata hoy vivamente, Autor de muchas Obras místicas, como de otras sobre las ruidosas contiendas que tuvo con los Extinguidos Jesuítas: está esta. <Concept_Settlement>Ciudad</Concept_Settlement> 22 leg. al E de <Territory>México</Territory>. Long. 27 38, lat. 19 50. 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0107@@@
+<zbr/>
+<zbr/>#___CATALOGO DE LOS OBISPOS de la <Settlement>Puebla de los Angeles</Settlement>___
+<zbr/>
+<zbr/>ßßß
+<zbr/># 1 Don Fray <persName>Julián Garces</persName>, natural de <Settlement>Aragón</Settlement>, Dominico, Predicador del Emperador Carlos V, electo Obispo de <Territory>Tlaxcala</Territory> en 1527, murió el de 1542.
+<zbr/>2 Don Fray <persName>Pablo de Talavera</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Navalmarquende</Settlement>, electo en 1543, murió en 1545.
+<zbr/>3 Don Fray <persName>Martín Sarmiento</persName>, natural de <Settlement>Ojacastro</Settlement>, Religioso Francisco, Comisario General de Indias, electo en 1546, murió en 1558.
+<zbr/>4 Don <persName>Bernardo de <Concept_Settlement>Villa</Concept_Settlement> Gómez</persName>, electo en 1559, murió en 1570.
+<zbr/>5 Don <persName>Antonio Ruiz de Morales y Medina</persName> natural de <Settlement>Córdova</Settlement>, Chantre de aquella Santa Iglesia del Orden de Santiago, electo en 1572, murió en 1576.
+<zbr/>6 Don <persName>Diego Romana</persName>, natural de <Settlement>Valladolid</Settlement>, Canónigo de <Settlement>Granada</Settlement>, Inquisidor, fundador del Colegio de Jesuitas de su Patria, electo en 1578, murió en 1606.
+<zbr/>7 Don <persName>Alonso de la Mota y Escobar</persName>, natural de <Settlement>México</Settlement>, Dean de aquella Metropolitana, Obispo de <Territory>Guadalaxara</Territory>, electo de la <Settlement>Puebla</Settlement> en 1608: fundó el Colegio de San Ildefonso de los Jesuitas de esta <Concept_Settlement>Ciudad</Concept_Settlement>: dotó 25 Monjas; y por su dirección e influxo se fundaron los Conventos de Santa Teresa y de Santa Inés, murió en 1625.
+<zbr/>8 Don <persName>Gutierre Bernardo de Quiros</persName>, natural de <Settlement>Tineo</Settlement>, en <Territory>Asturias</Territory>, Inquisidor de <Territory>Toledo</Territory> y de <Settlement>México</Settlement>, electo en 1626, murió en 1638.
+<zbr/>9 Don <persName>Juan de Palafox y Mendoza</persName>, natural de <Settlement>Ariza</Settlement>, en <Settlement>Aragón</Settlement>, Tesorero de <Settlement>Tarazona</Settlement>, electo en 1639. promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Settlement>México</Settlement> en 1556.
+<zbr/>10 Don <persName>Diego Osorio de Escobar y Llamas</persName>, natural de la <Settlement>Coruña</Settlement>, Canónigo de <Territory>Toledo</Territory>, electo en 1556, fundador del Convento de la Santísima Trinidad de Monjas de la Concepción; promovido a Arzobispo de <Territory>México</Territory> en 1667.
+<zbr/>11 Don <persName>Manuel Fernandez de Santa Cruz</persName>, natural de <Settlement>Palencia</Settlement>, Colegial mayor de <Settlement>Cuenca</Settlement>, Canónigo Magistral de <Settlement>Segovia</Settlement>, Obispo de <Territory>Chiapa</Territory> y de <Territory>Guadalaxara</Territory>, promovido en 1667; fundó los Colegios de San 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0108@@@
+<zbr/>
+<zbr/>#Pedro y San Pablo, de Santo <Settlement>Domingo</Settlement>, para Monacillos de la Catedral, de San Joseph de Gracia para Niñas y de Santa Mónica, concluyó la hermosa torre de la Iglesia, hizo las dos portadas colaterales de mármoles y estatuas, y acabó la Lonja que hace frente a la Plaza; fue promovido a Arzobispo de <Territory>México</Territory> en 1703.
+<zbr/>12 Don <persName>García Legaspi Altamirano</persName>, natural de <Settlement>México</Settlement>, Arcediano de aquella Metropolitana, primer Obispo de <Territory>Durango</Territory> y luego de <Territory>Mechoacán</Territory>, promovido a la <Settlement>Puebla</Settlement> en 1704; murió antes de tener las Bulas en 1706.
+<zbr/>13 Don <persName>Pedro Nogales Dávila</persName>, natural de <Settlement>Zalamea</Settlement>, en <Territory>Extremadura</Territory>, del Orden de Alcántara, Inquisidor de <Territory>Logroño</Territory>, electo en 1708, murió con fama de Santidad en 1721.
+<zbr/>14 Don <persName>Juan Antonio de Lardizaval y Elorza</persName>, natural de <Settlement>Segura</Settlement>, en Guipúzcoa, Colegial mayor de <Settlement>San Bartolomé</Settlement>, Canónigo Magistral de <Settlement>Salamanca</Settlement>, y Catedrático de aquella Universidad, electo en 1722, promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Settlement>México</Settlement> en 1735. 
+<zbr/>15 Don <persName>Benito Crespo</persName>, Caballero del Orden de Santiago, natural de <Territory>Extremadura</Territory>, Dean de <Territory>Oaxaca</Territory>, Obispo de <Territory>Durango</Territory>, prpmovido de la <Settlement>Puebla</Settlement> en 1735, murió en 1737.
+<zbr/>16 Don <persName>Pedro González</persName>, Cura de la <Concept_District>Parroquia</Concept_District> de <Settlement>San Nicolás de Madrid</Settlement>, electo y consagrado en 1738, pero sin tomar posesión fue promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Avila</Territory> en 
+<zbr/>17 Don <Settlement>Domingo</Settlement> Pantaleon Alvarez de Abreu, Natural de <Settlement>Canaria</Settlement>, Arzobispo de <Territory>Sto. Domingo</Territory>, promovido al de la <Settlement>Puebla</Settlement> en 1743: protegió la fundación del Convento de Santa Rosa, y dedicó la Iglesia de Nuestra Señora del Refugio, en el <Concept_Settlement>barrio</Concept_Settlement> de las <Settlement>Caleras</Settlement>: murió en 1763.
+<zbr/>18 Don <persName>Francisco Xavier Fabián y Fuero</persName>, natural de <Settlement>Terraza</Settlement>, Obispo de <Territory>Siguenza</Territory>, de donde fue Magistral Colegial en el Colegio mayor de <Territory>Santa Cruz</Territory>, Canónigo y Dignidad de Abad de Santa Leocadia, en la Iglesia de <Settlement>Toledo</Settlement>, electo en 1764, promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Valencia</Territory> en 1774.
+<zbr/>19 Don <persName>Victoriano López Gonzalo</persName> Provisor de la misma Santa Iglesia de la <Settlement>Puebla</Settlement>, electo en 1774. 
+<zbr/>
+<zbr/>$$$
+<zbr/>§§§id_00841§§§ 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0109@@@
+<zbr/>
+<zbr/>#Tiene el mismo nombre con la advocación de Nuestra Señora, una <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory>, fundada el año de 1565 por el Capitán <persName>Domingo Lozano</persName>, fue grande y muy poblada, pero hoy se ha reducido a un estado miserable por los estragos que han hecho en ella repetidas veces los <Concept_Group>Indios infieles</Concept_Group> <humanGroup type="indigenous_group">Fronterizos</humanGroup>: está 20 leguas de <Settlement>Tocaima</Settlement>, y 9 de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Neiva</Settlement>.
+<zbr/>§§§id_00842§§§
+<zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> con el sobrenombre de Angeles de Roamainas, <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory>, del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Napo</Landmark>, fundado por el Padre <persName>Lucas Maxano</persName> año de 1659, de la <Concept_Group>Nación de Indios</Concept_Group> de su nombre.
+<zbr/>§§§id_00843§§§
+<zbr/>Otro con la advocación de Santa María, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado en medio de la <Concept_Landmark>serranía</Concept_Landmark>, es uno de los de la Misión, que tienen a su cargo los Padres Capuchinos <humanGroup type="political_group">Catalanes</humanGroup>.
+<zbr/>§§§id_00844§§§
+<zbr/>Otro también con la advocación de Nuestra Señora, en el <Concept_District>Partido</Concept_District> de <Territory>Chiriqui</Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory>, <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>.
+<zbr/>§§§id_00845§§§
+<zbr/>Otro con la misma advo##cacion, <Concept_Settlement>reducción</Concept_Settlement> de las Misiones, que tenían en el <Landmark>Orinoco</Landmark> los regulares de la Extinguida Compañía de la <Concept_Territory>Provincia</Concept_Territory> del <Territory>nuevo Reyno de Granada</Territory>, situado a orilla de aquel <Concept_Landmark>río</Concept_Landmark>: es de <humanGroup type="social_group">Indios</humanGroup> de la <Concept_Group>nación</Concept_Group> <humanGroup type="indigenous_group">Saliva</humanGroup>: el año de 1733 fue destruido y quemado por los <humanGroup type="social_group">Indios</humanGroup> <humanGroup type="indigenous_group">Caribes</humanGroup>, que no pudieron, a pesar de sus esfuerzos, destruir la Cruz que habia en él.
+<zbr/>§§§id_00846§§§
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory>, en <Territory>Nueva España</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de este nombre.
+<zbr/>§§§id_00847§§§
+<zbr/>Otro del <Concept_District>distrito</Concept_District> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Bogotá</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory>, cerca de la <Concept_Settlement>Capital</Concept_Settlement> de <Settlement>Santa Fe</Settlement>.
+<zbr/>§§§id_00848§§§
+<zbr/>Una <Concept_Landmark>Bahía</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>California</Landmark> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>roxo de Cortes</Landmark>, en lo más interior de él detras de la <Concept_Landmark>Isla</Concept_Landmark> del <Landmark>Angel de la Guardia</Landmark>.
+<zbr/>§§§id_00849§§§
+<zbr/>Un <Concept_Landmark>Puerto</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tecoantepec</Territory>, en <Territory>Nueva España</Territory> y en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, es la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Cayóla</Landmark>, entre el de la <Landmark>Galera</Landmark> y el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tanglotango</Settlement>.
+<zbr/>§§§id_00850§§§
+<zbr/>ANGLOIS, Cul de Sac) <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del SE de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Martinica</Territory>, muy cómodo, seguro y abrigado está, entre el <Concept_Landmark>Cabo</Concept_Landmark> <Landmark>Ferré</Landmark> 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0110@@@
+<zbr/>
+<zbr/>#y la <Concept_Landmark>Ensenada</Concept_Landmark>, que tiene su mismo nombre. 
+<zbr/>§§§id_00850a§§§
+<zbr/>Otro <Concept_Landmark>Puerto</Concept_Landmark> hay del mismo nombre en la <Concept_Landmark>Costa</Concept_Landmark> del N del <Concept_Landmark>río</Concept_Landmark> de <Landmark>S. Lorenzo</Landmark>, en la <Territory>Nueva Francia</Territory>, al S del de <Landmark>San Pancrace</Landmark> o Pancrasio.
+<zbr/>§§§id_00851§§§
+<zbr/>ANGOGARD, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>S. Lorenzo</Landmark>, poco distante de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Quebec</Settlement>.
+<zbr/>§§§id_00852§§§
+<zbr/>ANGOYACO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Angaraes</Territory> en el <Territory>Perú</Territory>, es el mismo que luego corre con el nombre de antiguo Marañon; algunos lo llaman Sangolaco.
+<zbr/>§§§id_00853§§§
+<zbr/>ANGOL, <Concept_Settlement>Ciudad</Concept_Settlement> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, fundada por <persName>Pedro de Valdivia</persName>, con el nombre de los Confines, mudóla después Don <persName>García Hurtado de Mendoza</persName>, a un <Concept_Landmark>llano</Concept_Landmark> muy capaz y desahogado, 8 leguas de la <Concept_Landmark>cordillera</Concept_Landmark> y 20 de la <Landmark>Concepción</Landmark>, en terreno abundante y fértil de frutas, semillas y viñas; como también de pasas, higos y otras frutas secas, rodeada de cipreses, del <Concept_Landmark>río</Concept_Landmark> <Landmark>Biobio</Landmark> por la vanda del S, y de otro <Concept_Landmark>riachuelo</Concept_Landmark> por la del N, que despeñándose da disposición para formar varios <Concept_Structure>molinos</Concept_Structure>: esta <Concept_Settlement>Ciudad</Concept_Settlement> fue destruida por los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup>, que la pegaron fuego el año de 1601, dando muerte a la mayor parte de ##sus <humanGroup type="social_group">vecinos</humanGroup>, y no se ha vuelto a reedificar, quedando solo ruinas para memoria de aquella lastimosa tragedia.
+<zbr/>§§§id_00854§§§
+<zbr/>ANGOSTO, Puerto) del <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, descubierto por <persName>Pedro Sarmiento</persName> el día 7 de Febrero de 1580, es uno de los parages en que este Almirante tomó posesión por la Corona de España, poniendo una Cruz, y donde vio por la noche elevarse un globo de fuego, que después se prolongó en el ayre, a modo de lanza, y luego tomó la figura de una media luna, entre bermeja y blanca: tiene 22 brazas de fondo limpio; y está 3 leg. de la <Concept_Landmark>Punta</Concept_Landmark> de <Landmark>San Ildefonso</Landmark>.
+<zbr/>§§§id_00855§§§
+<zbr/>ANGOSTURA, <Concept_Landmark>Estrecho</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Paraguay</Landmark>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de este nombre en el parage donde entra el <Landmark>Pilcomayo</Landmark>, y en que hay construido un reducto para defensa de aquel paso.
+<zbr/>§§§id_00856§§§
+<zbr/>Otro hay en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Orinoco</Landmark>, donde se estrecha más en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>, donde se fundó últimamente la <Concept_Settlement>Ciudad</Concept_Settlement> de nueva <Territory>Guayana</Territory>.
+<zbr/>§§§id_00857§§§
+<zbr/>ANGRA de los Reyes, <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>río Geneiro</Territory>, en el <Territory>Brasil</Territory>, situada en la <Concept_Landmark>Costa</Concept_Landmark> de una pequeña <Concept_Landmark>Bahía</Concept_Landmark> 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0111@@@
+<zbr/>
+<zbr/>#llamada de los Reyes que le da el nombre: tiene dos Iglesias un Monasterio de Religiosas, y la guarnece un destacamento de 20 hombres: la pesca que hacen es el único producto con que comercian: está 36 millas del <Concept_Landmark>río</Concept_Landmark> <Landmark>Geneiro</Landmark>, en 22 gr. 28 min. de latit. merid. y 41 gr. 10 min. de longitud Occidental.
+<zbr/>§§§id_00858§§§
+<zbr/>ANGUALASTA, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Tucumán</Territory>, y <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Rioja</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00859§§§
+<zbr/>ANGUASSETCOK, <Concept_Settlement>Pueblo</Concept_Settlement> de los <humanGroup type="political_group">Ingleses</humanGroup>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Nueva Hampshire</Territory>.
+<zbr/>§§§id_00860§§§
+<zbr/>ANGUILA, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las Antillas pequeñas, habitada por los <humanGroup type="political_group">Ingleses</humanGroup>: tiene 10 leg. de largo y 3 de ancho; por cuya figura le dieron este nombre: el fruto de ella es tabaco, que se estima por el de mejor calidad, maíz y alguna azúcar; abunda de ganados, que han multiplicado en sus <Concept_Landmark>bosques</Concept_Landmark> naturalmente; solo tiene un <Concept_Landmark>Puerto</Concept_Landmark> o <Concept_Landmark>Bahía</Concept_Landmark> de alguna comodidad: los <humanGroup type="political_group">Ingleses</humanGroup> la poseen desde el año de 1650, aunque está poco poblada: los <humanGroup type="political_group">Franceses</humanGroup> la han saqueado en diferentes ocasiones; pero el año de 1745 se defendió, haciéndolos retirar con mucha perdida: está al ##N de la de <Settlement>San Martín</Settlement>, y al S de la <Settlement>Anegada</Settlement>, en 17 gr. 40 min. de lat. bor.
+<zbr/>§§§id_00861§§§
+<zbr/>Tiene el mismo nombre otra <Concept_Landmark>Isla</Concept_Landmark> pequeñita o <Concept_Landmark>Cayo</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, junto al de los <Landmark>Roques</Landmark>, entre aquella <Concept_Landmark>Isla</Concept_Landmark> y la de <Landmark>San Andrés</Landmark>, una de las <Landmark>Lucayas</Landmark>.
+<zbr/>§§§id_00862§§§
+<zbr/>Una <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Terranova</Territory>, y <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> en la <Territory>Nueva Francia</Territory>.
+<zbr/>§§§id_00863§§§
+<zbr/>Una <Concept_Landmark>Punta</Concept_Landmark> o <Concept_Landmark>Lengua de tierra</Concept_Landmark>, en la misma <Concept_Landmark>Costa</Concept_Landmark>, y cerca de la <Concept_Landmark>Bahía</Concept_Landmark> antecedente.
+<zbr/>§§§id_00864§§§
+<zbr/>ANGUSTIAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory>, situado en el <Concept_District>distrito</Concept_District> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Pamplona</Settlement> y <Concept_Landmark>valle</Concept_Landmark> de los <Landmark>Locos</Landmark>, a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Macio</Landmark>.
+<zbr/>§§§id_00865§§§
+<zbr/>ANHEIMBAS, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>: corre al E y entra en el <Landmark>Paraná</Landmark>.
+<zbr/>§§§id_00866§§§
+<zbr/>ANIBA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory>, en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup> y <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Urubaquis</humanGroup>, corre del N al S y entra en los rebalsos o <Concept_Landmark>desagues</Concept_Landmark> que forma allí el <Landmark>Marañon</Landmark>, que según la descripción de Mr. <persName>Bellin</persName>, es una <Concept_Landmark>Laguna</Concept_Landmark> llamada <Landmark>Sarava</Landmark>.
+<zbr/>§§§id_00867§§§
+<zbr/>ANIBALIS, <Concept_Group>Nación bárbara de Indios</Concept_Group> descen
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0112@@@
+<zbr/>
+<zbr/>#dientes de los Betoyes, en los <Concept_Landmark>llanos</Concept_Landmark> de <Landmark>Casanare</Landmark> y <Landmark>Meta</Landmark>, del <Territory>Nuevo Reyno de Granada</Territory>; es muy numerosa y de genio dócil, reducidos a la fe católica por los Misioneros de la extinguida Compañía el año de 1722.
+<zbr/>§§§id_00868§§§
+<zbr/>ANICAN, <Concept_Landmark>Islas</Concept_Landmark> pequeñas, o <Concept_Landmark>Islotes</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark>, cerca de las <Landmark>Malvinas</Landmark> o de <Landmark>Falkland</Landmark>, descubiertas por <persName>Mr. de Bouganville</persName>, quando se estableció con los <humanGroup type="political_group">Franceses</humanGroup> en estas.
+<zbr/>§§§id_00869§§§
+<zbr/>AÑIL, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Marañan</Territory>, en el <Territory>Brasil</Territory>.
+<zbr/>§§§id_00870§§§
+<zbr/>ANILORE, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory>; nace en las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Cacao</Landmark> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Oreguatos</humanGroup>: corre muchas leguas del S al N, y entra en el de la <Landmark>Madera</Landmark>, en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Unuriaos</humanGroup>.
+<zbr/>§§§id_00871§§§
+<zbr/>ANIMAS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Florida</Territory>, corre al S, y sale al <Concept_Landmark>mar</Concept_Landmark> entre los de <Landmark>Jordán</Landmark> y <Landmark>Panzacola</Landmark>.
+<zbr/>§§§id_00872§§§
+<zbr/>Tiene el mismo nombre un <Concept_Landmark>brazo</Concept_Landmark> o <Concept_Landmark>caño</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Gamalotal</Landmark>, que sale antes de entrar en el de la <Landmark>Portuguesa</Landmark>, del de <Landmark>San Felipe</Landmark>, y corre al N.
+<zbr/>§§§id_00873§§§
+<zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> pequeña del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>California</Landmark> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>rojo de Cortes</Landmark>, muy arrimada a la <Concept_Landmark>Costa</Concept_Landmark> en lo más interior de él, y es una de las ##que llaman de <Landmark>Sal sí puedes</Landmark>. 
+<zbr/>§§§id_00874§§§
+<zbr/>Otra del <Concept_Landmark>Río</Concept_Landmark> de <Landmark>Valdivia</Landmark>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> y <Concept_District>Partido</Concept_District> de <Settlement>Guadalabquen</Settlement> delante de la <Concept_Settlement>Ciudad</Concept_Settlement>.
+<zbr/>§§§id_00875§§§
+<zbr/>ANIME, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de S. <Territory>Juan de los Llanos</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory> situado cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Ariari</Landmark>.
+<zbr/>§§§id_00876§§§
+<zbr/>ANNA del Norte) <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, corre al E, y entra en el de <Landmark>Rapahanock</Landmark>. 
+<zbr/>§§§id_00876a§§§
+<zbr/>Otro llamado del S para distinguirlo de aquel en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory>, corre también al E y entra en el de <Landmark>Pamunkey</Landmark>.
+<zbr/>§§§id_00877§§§
+<zbr/>Un <Concept_Territory>Condado</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Mariland</Territory>; uno de los 10 que la componen.
+<zbr/>§§§id_00878§§§
+<zbr/>Otro con el Sobrenombre de Arundel, en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory>.
+<zbr/>§§§id_00879§§§
+<zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> de la <Territory>Nueva</Territory>. <Territory>Francia</Territory>, en el <Concept_Landmark>lago</Concept_Landmark> superior, entre la de <Landmark>Pont Chartrain</Landmark> y la <Concept_Landmark>Costa</Concept_Landmark> del S. Un <Concept_Structure>fuerte</Concept_Structure> de los <humanGroup type="political_group">Ingleses</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva</Territory> Yorck, situado entre los <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>Hudson</Landmark> y de <Landmark>Wood</Landmark>.
+<zbr/>§§§id_00880§§§
+<zbr/>Un <Concept_Landmark>Cabo</Concept_Landmark> o <Concept_Landmark>Punta de tierra</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Nueva Inglatera</Territory>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Massachussets</Territory>, sale muchas leguas a la <Concept_Landmark>mar</Concept_Landmark> entre el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Pennycook</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Boston</Landmark>. 
+<zbr/>§§§id_00881§§§
+<zbr/>Un <Concept_Landmark>Puerto</Concept_Landmark> de la misma 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0113@@@
+<zbr/>
+<zbr/>#<Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> que el <Concept_Landmark>Cabo</Concept_Landmark> antecedente, que le da el nombre, y está junto a él.
+<zbr/>§§§id_00882§§§
+<zbr/>Otro <Concept_Landmark>Cabo</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del S del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Acadia</Territory> o <Territory>Nueva Escocia</Territory>.
+<zbr/>§§§id_00883§§§
+<zbr/>Un <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>establecimiento</Concept_Settlement> de los <humanGroup type="political_group">Franceses</humanGroup>, llamado el Crique o Barranco de <Landmark>Santa Ana</Landmark>, en la parte que poseen de la <Territory>Guayana</Territory>.
+<zbr/>§§§id_00884§§§
+<zbr/>ANNACIOIS o Annacous, <Concept_Group>Nación bárbara de Indios</Concept_Group>, en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, y <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Puerto Seguro</Territory>: habita en los <Concept_Landmark>bosques</Concept_Landmark> y <Concept_Landmark>montes</Concept_Landmark> de Poniente, cerca de los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Grande</Landmark> y <Landmark>Yucaru</Landmark>: está armada día y noche, y es enemiga irreconciliable de los <humanGroup type="political_group">Portugueses</humanGroup>, cuyas <Concept_Territory>Colonias</Concept_Territory> campiñas infesta continuamente, y destruyó el año de 1687.
+<zbr/>§§§id_00885§§§
+<zbr/>ANNAPOLYS, Real) <Concept_Settlement>Ciudad</Concept_Settlement> y <Concept_Landmark>Bahía</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory>, era <Concept_Settlement>Capital</Concept_Settlement> de ella hasta que se trasladó a <Settlement>Halifax</Settlement>, porque es pequeña, y estaba mal fortificada: fue fundada con el nombre de Severn, por las reliquias o restos de un Regimiento establecido allí en tiempo de la Reyna Ana de <Territory>Inglaterra</Territory>, a orilla de una excelente <Concept_Landmark>Bahía</Concept_Landmark> en la parte del N: Los <humanGroup type="political_group">Franceses</humanGroup> man##dados por Mr. <persName>Pointis</persName>, que vino de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Sta. Cruz</Landmark> con una porción de <humanGroup type="social_group">Colonos</humanGroup>, se establecieron en ella el año de 1605, llamándola <Concept_Landmark>Puerto</Concept_Landmark> Real, pero los <humanGroup type="political_group">Ingleses</humanGroup>, con el Coronel <persName>Nicholson</persName>, los echaron de ella. El <Concept_Landmark>Puerto</Concept_Landmark>, además de estar siempre cubierto de nieblas densísimas, es de difícil entrada y salida, lo qual solo pueden hacer las Embarcaciones en un tiempo del año, y con mucha precaución, navegando gran parte de popa por las violentas corrientes que hay, si no fuera por esto no le falta circunstancia para ser el mejor <Concept_Landmark>Puerto</Concept_Landmark> del mundo; tiene 2 leguas de largo, y una <Concept_Landmark>Isla</Concept_Landmark> pequeña, llamada de las <Landmark>Cabras</Landmark>, casi en medio del muelle; el fondo es bastante y está muy abrigado de todos los vientos: quando era de los <humanGroup type="political_group">Franceses</humanGroup> venían a él las embarcaciones de la pesca de la ballena, pero hoy le falta este comercio, porque los <humanGroup type="political_group">Ingleses</humanGroup> van al <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Cabo Bretón</Landmark>: la <Concept_Settlement>Ciudad</Concept_Settlement>, aunque pequeña, tiene hermosos edificios, bien que de poca altura: los <humanGroup type="political_group">Ingleses</humanGroup> demolieron la fortificación antigua, y construyeron otra de forma regular, con 4 baluartes, foso profundo, camino Cubierto, contraescarpa, una medio luna y otras obras 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0114@@@
+<zbr/>
+<zbr/>#exteriores, destacadas del cuerpo de la plaza, que hace que sus naturales teman poco el ser atacados, y además tiene diferentes <Concept_Structure>baterías</Concept_Structure> colocadas con ventaja para impedir se acerque el enemigo, que solo puede bombardearla: esta fuerte <Concept_Settlement>plaza</Concept_Settlement> se mira como barrera de la <Territory>Nueva Inglaterra</Territory>, y es útilísima para impedir la invasión de los <humanGroup type="political_group">Franceses</humanGroup> e <humanGroup type="social_group">Indios</humanGroup> por la parte de Levante, tanto por <Concept_Landmark>mar</Concept_Landmark> como por tierra. No lejos del <Concept_Landmark>Puerto</Concept_Landmark> hay una <Concept_Landmark>punta de tierra</Concept_Landmark> que separa 2 <Concept_Landmark>ríos</Concept_Landmark> donde la marea baxa 10 o 12 pies y de una y otra parte tiene amenísimos prados, en que hay abundancia de toda especie de pájaros: el principal comercio es de las pieles que cambian con los <humanGroup type="social_group">Indios</humanGroup> salvajes por géneros de <Territory>Europa</Territory>; reside en ella un Gobernador y 500 hombres de guarnición, al principio de este siglo era entre los Francés el Dunkerque de la <Territory>América</Territory>, sirviendo de asilo a los piratas y corsarios con ruina del comercio y de la pesca:, long. 64 5: lat. sept. 45 10.
+<zbr/>§§§id_00886§§§
+<zbr/>Tiene el mismo nombre otra <Concept_Settlement>Ciudad Capital</Concept_Settlement> del <Concept_Territory>Condado</Concept_Territory> de <Territory>Ana Arundel</Territory>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Maryland</Territory>, llamábase antes Severn, y por un acto de la asamblea, el año de ##1694 se declaró <Concept_Settlement>Ciudad</Concept_Settlement> marítima, disponiendo que residiese en ella un Colector y un Comandante de Marina, y desde entonces empezó a llamarse <Settlement>Annapolis</Settlement>, adonde se transfirió el Tribunal del <Concept_Territory>Condado</Concept_Territory>, fabricando una Iglesia que luego se hizo <Concept_District>Parroquia</Concept_District>, en 1699, conduciendo todas las escrituras, alegatos y papeles públicos. La Asamblea hizo otro acto para la fundación de una escuela pública, baxo de su protección, y que el Arzobispo fuese Canciller, y se establecieron Procuradores, Visitadores y Gobernadores de la <Concept_Territory>Provincia</Concept_Territory>; pero no tuvo efecto tan útil establecimiento;. el Tribunal ordinariamente se junta el segundo martes de Septiembre, Noviembre, Enero, Marzo y Mayo: las actas, del <Concept_Territory>Condado</Concept_Territory> se traxéron también a esta <Concept_Settlement>Ciudad</Concept_Settlement>, que tiene cerca de 40 casas, y no ha tenido el aumento que se esperaba, porque sus plantadores y comerciantes siempre han querido estar separados, como los de <Territory>Virginia</Territory>, y se puede creer queasí no llegará nunca a mayor auge: está en 39 grad. 25 minut. de lat. sept. y 8 grad. 10 min. de long. occid.
+<zbr/>§§§id_00887§§§
+<zbr/>ANNOTO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Jamay</Territory>
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0115@@@
+<zbr/>
+<zbr/>#ca, corre al N, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de este rumbo, y entre la de <Landmark>Blowing</Landmark> y del <Landmark>Palmito</Landmark>.
+<zbr/>§§§id_00888§§§
+<zbr/>AÑO NUEVO, <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>California</Territory> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>roxo de Cortes</Landmark>, descubierto el año de 1683, el día primero de Enero, por cuya razón se le dio este nombre. 
+<zbr/>§§§id_00889§§§
+<zbr/>ANOANAPA, <Concept_Landmark>río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o <Territory>nueva Andalucía</Territory>: nace en el <Concept_Territory>País</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Armácotas</humanGroup>: corre del S al N, y entra en el de <Landmark>Aicaropa</Landmark>.
+<zbr/>§§§id_00890§§§
+<zbr/>ANOLAIMA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Tocaima</Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory>: es de temperamento cálido, abundante en frutos propios de este clima, como maíz, plátanos, yucas, y mucha caña dulce, de que fabrican en infinitos <Concept_Structure>trapiches</Concept_Structure> azúcar y conservas, que es el comercio de sus <humanGroup type="social_group">vecinos</humanGroup>; estos serán pocos más de 100, y algunos <humanGroup type="social_group">Indios</humanGroup>: está 8 leguas de <Settlement>Santa Fe</Settlement>.
+<zbr/>§§§id_00891§§§
+<zbr/>ANOPE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Pastos</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+<zbr/>§§§id_00892§§§
+<zbr/>ANOURAMA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory>, en el <Territory>Brasil</Territory>: corre al E y sale al <Landmark>Marañon</Landmark> ##entre los de <Landmark>Urupi</Landmark> y <Landmark>Marácapucú</Landmark>.
+<zbr/>§§§id_00893§§§
+<zbr/>ANOURIAHI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory>, en el <Territory>Brasil</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Xingu</Landmark>.
+<zbr/>§§§id_00894§§§
+<zbr/>ANOZANOI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+<zbr/>§§§id_00895§§§
+<zbr/>ANSERMA, Santa Ana de) <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory>, en el <Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Territory>Audiencia</Concept_Territory> de <Territory>Quito</Territory>, fundada el año de 1532 por el Mariscal <persName>Jorge Robledo</persName> en una <Concept_Landmark>colina</Concept_Landmark>, distante 7 leguas del <Concept_Landmark>río</Concept_Landmark> <Landmark>Cauca</Landmark>; es de temperamento muy cálido, el terreno abundante en <Concept_Landmark>minas</Concept_Landmark> de oro y de <Concept_Landmark>salinas</Concept_Landmark>, por lo qual tomó la denominación de la voz anser, que en el idioma de los <humanGroup type="social_group">Indios</humanGroup> de aquel <Concept_Territory>País</Concept_Territory> significa sal: es estéril de frutos, y muy sujeta a tempestades, en que caen con frecuencia rayos y centellas que han causado muchos daños; al principio se llamó <Settlement>Santa Ana de los Caballeros</Settlement>, por los muchos que concurrieron a su fundación: en sus inmediaciones habitaban los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Tapuyas</humanGroup>, <humanGroup type="indigenous_group">Guáticas</humanGroup>, <humanGroup type="indigenous_group">Quinchias</humanGroup>, <humanGroup type="indigenous_group">Supias</humanGroup> y otros que acabaron enteramente: está 50 leguas al NE de <Territory>Popayán</Territory>. Long. 305, lat. 4. 
+<zbr/>§§§id_00896§§§
+<zbr/>Tiene el mismo nombre 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0116@@@
+<zbr/>
+<zbr/>#con el aditamento de Vieja otro <Concept_Settlement>Pueblo</Concept_Settlement> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> situado entre dos <Concept_Landmark>ríos</Concept_Landmark>.
+<zbr/>§§§id_00897§§§
+<zbr/>ANSON, <Concept_Territory>Condado</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina Septent</Territory>.
+<zbr/>§§§id_00898§§§
+<zbr/>ANTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Abancai</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00899§§§
+<zbr/>Tiene el mismo nombre una <Concept_Territory>Provincia</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> poco conocida, al S de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Jaen</Settlement>, cubierta de <Concept_Landmark>bosques</Concept_Landmark> impenetrables, y de <Concept_Landmark>lagunas</Concept_Landmark>, <Concept_Landmark>ríos</Concept_Landmark> y <Concept_Landmark>pantanos</Concept_Landmark>; se ignora si está habitada de <humanGroup type="social_group">Indios</humanGroup> Infieles.
+<zbr/>§§§id_00900§§§
+<zbr/>Un <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory>, en el <Territory>Brasil</Territory>: corre al SSO, y entra en el de <Landmark>Curucay</Landmark>.
+<zbr/>§§§id_00901§§§
+<zbr/>ANTABAMBA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Aymaraes</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00902§§§
+<zbr/>ANTALIS, <Concept_Group>Nación bárbara y belicosa de Indios</Concept_Group> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, al O de <Territory>Coquimbo</Territory>, confinante con la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Putunuaucasi</Territory>; se opuso valerosamente a los progresos del Inca <persName>Yupanqui</persName>, haciendo que sus conquistas no pasasen más allá del <Concept_Landmark>río</Concept_Landmark> <Landmark>Maule</Landmark>, último confín, del <Landmark>Perú</Landmark>.
+<zbr/>§§§id_00903§§§
+<zbr/>ANTAPALPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chilques y Masques</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Omacho</Settlement>.
+<zbr/>§§§id_00904§§§
+<zbr/>##ANTARPANCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Angaraes</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Yulcamarca</Settlement>.
+<zbr/>§§§id_00905§§§
+<zbr/>ANTEGO, µµµVéase Antigua.µµµ
+<zbr/>§§§id_00906§§§
+<zbr/>ANTEQUERA, <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Oaxaca</Territory>, en <Territory>Nueva España</Territory>, fundada en un hermoso y dilatado <Concept_Landmark>valle</Concept_Landmark> de este nombre, el año de 1528, por <persName>Juan Nuñez del Mercado</persName>: es <Concept_Settlement>población</Concept_Settlement> grande y hermosa, de mucho vecindario y rico comercio, así por la fertilidad de su terreno, y abundancia de frutos, como por ser paso preciso para las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Goatemala</Territory>: tiene además del <Concept_District>Curato</Concept_District> del Sagrario de su Catedral, las Ayudas de Parroquia de la Sangre de Christo, Nuestra Señora de las Nieves, Nuestra Señora de la Consolacion, San Joseph, el Hospital de San Cosme y San Damián, y una <Concept_Structure>Hermita</Concept_Structure> de la Santísima Trinidad: 8 Conventos de Religiosos, que son: dos de Santo Domingo, uno llamado el grande, de suntuosa fábrica, y el otro de <Structure>San Pablo</Structure>.; uno de Descalzos de San Francisco, el de San Agustín, de Nuestra Señora de la Merced, de Carmelitas Descalzos, Colegio que fue de los Extinguidos Regulares de 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0117@@@
+<zbr/>
+<zbr/>#de la Compañía, con casa de Estudios: dos Hospitales, uno de San Juan de Dios y otro de Betletmitas: dos Colegios denominados Santa Cruz y San Bartolomé para enseñanza de niños: 3 Monasterios de Religiosas, que son: el de Santa Mónica de Agustinas, cuya Iglesia es de magnífica fábrica, y la portada de la más delicada arquitectura, dedicada a Nuestra Señora de la Soledad, a cuya imagen, que es muy bella y milagrosa, tiene singular devoción aquella <Concept_Settlement>Ciudad</Concept_Settlement>: otro de la Concepción: otro de Santa Catalina de Sena: otro de Capuchinas, y un Colegio para educación de niñas: la <Concept_Settlement>Ciudad</Concept_Settlement> es de las más lucidas, y de hermosa simetría en sus calles, plazas y edificios, que fueran mejores, si no estuviera tan combatida de terremotos; el temperamento, aunque algo calido, es muy sano, la situación por el Oriente está sobre una tendida <Concept_Landmark>loma</Concept_Landmark>; abunda de exquisitas frutas, como peras de varios géneros, manzanas, zapotes, granadas, melones, pinas, cocos, limones, cidras, toronjas, pitahayas, limas, nueces, y algunas uvas; el trigo es poco, y de mala calidad: los principales frutos en que paga sus contribuciones al Rey, son ca##cao de Soconusco, chocolate ya labrado, y polvos de Oaxaca, tan conocidos y celebrados para dar agradable gusto al chocolate; también fabrica lacre negro, y unos rosarios, cuyas cuentas son el hueso de una frutilla llamada tepexilote, en que escriben con mucha curiosidad versículos del Magníficat, y pintan Imágenes con primor, que los hacen muy estimados: en la Catedral, que es hermosa y de suficiente capacidad en tres naves, además de las Capillas, se venera un <Concept_Landmark>brazo</Concept_Landmark> de San Juan Chrisostomo, con otras preciosas Reliquias; y en una de sus Capillas una Cruz, como de vara de alto, hecha de una parte de la milagrosa de Guatulco, trasladada allí por el Obispo Don <persName>Juan de Cerbantes</persName>: el vecindario de esta ilustre <Concept_Settlement>Ciudad</Concept_Settlement>, que tiene por patrono a San Marcial, es de 6.000 familias, en que por el Padrón del año de 1766 se contaban más de 20.000 almas de comunión: está 85 leguas al ESE de <Settlement>México</Settlement>. Long. 277 10, lat. 18 2.
+<zbr/>§§§id_00907§§§
+<zbr/>ANTIGONA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Tarma</Territory>, en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Ondores</Settlement>.
+<zbr/>§§§id_00908§§§
+<zbr/>ANTIGOSTI, <Concept_Landmark>Isla</Concept_Landmark> grande del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, a la entrada del <Concept_Landmark>río</Concept_Landmark> de 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0118@@@
+<zbr/>
+<zbr/>#este nombre, en la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>.
+<zbr/>§§§id_00909§§§
+<zbr/>ANTIGUA, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las <Landmark>Antillas pequeñas</Landmark>, llamada por los <humanGroup type="political_group">Ingleses</humanGroup> que la poseen Antego: tiene 6 o 7 leguas, de largo y casi lo mismo de ancho; es de difícil acceso para las embarcaciones por las muchas <Concept_Landmark>peñas</Concept_Landmark> y <Concept_Landmark>baxos</Concept_Landmark> de que está rodeada: al principio se tuvo por inhabitable, pues se creyó que no tenía agua; pero los <humanGroup type="political_group">Ingleses</humanGroup> que se establecieron en ella, encontraron algunas fuentes, y sus habitantes, que serán como 900 personas, han hecho muchos pozos y cisternas para recoger agua quando llueve; sus principales frutos son añil, azúcar, jenjibre y tabaco; abunda en toda especie de pescado, y en especial de uno que llaman perro de <Concept_Landmark>mar</Concept_Landmark>, que devora a los demás peces y a los pescadores, por lo quai es muy peligroso allí el bañarse: tiene muy buenos <Concept_Landmark>Puertos</Concept_Landmark> y <Concept_Landmark>Bahías</Concept_Landmark>, como las de Nonsun y de <Landmark>Wiloughby</Landmark>, el <Concept_Landmark>Puerto</Concept_Landmark> <Landmark>Ingles</Landmark> y el de <Landmark>Falmouth</Landmark>: hay también una especie de becadas de <Concept_Landmark>mar</Concept_Landmark>, que tienen el pico como esta ave, cuya parte superior es más larga que la inferior, y mueven ambas mandíbulas igualmente; algunas se han visto de 4 ##pies de largo y 11 pulgadas de ancho acia lá cabeza; tienen dos aletas en cada lado, y una gran pluma sobre el vientre que se levanta como una cresta de gallo desde la cabeza a la cola; lo más extraño es el pico sólido con dos cuernos agudos y negros de casi pie y medio, como el que este pez se oculta fácilmente dentro de su vientre que le sirve de vayna; no tiene escamas, sino una piel negra y áspera sobre el lomo. También hay en esta <Concept_Landmark>Isla</Concept_Landmark> mucha diversidad de aves; la que más abunda es una de hermosísima vista, porque tiene la parte superior de las alas y el vientre de color de aurora, la otra mitad y la espalda azul celeste, la cola y plumas grandes de las alas son mezcladas de encarnado muy vivo y azul, salpicado de otras plumas doradas; pero lo más singular es la cabeza cubierta de una especie de bonete obscuro, salpicado de verde, amarillo y azul claro, y el pico manchado; los ojos estan rodeados de blanco, y la pupila de un bello amarillo y roxo, que parece un rubí engarzado en oro, y encima de la cabeza una mitra de plumas de color de vermellon, con otras de color de perla: este páxaro es del tamaño de 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0119@@@
+<zbr/>
+<zbr/>#un faysan. El clima es cálido y poco sano, y se experimentan en ella uracanes tan terribles, como el que padeció el año de 1707: no dexa de criar algún ganado y canela silvestre, como la de <Landmark>Mainas</Landmark>: el primero que descubrió esta <Concept_Landmark>Isla</Concept_Landmark> el año de 1623, fue <persName>Tomás Warner</persName>, y los <humanGroup type="political_group">ingleses</humanGroup> se establecieron en ella el de 1636; el Rey de <Territory>Inglaterra</Territory> la cedió el de 1663 a <persName>Guillermo Willioughby</persName>, que envió a ella el de 1666 una numerosa <Concept_Territory>Colonia</Concept_Territory> para poblarla: este mismo año la tomaron y saquearon los <humanGroup type="political_group">Franceses</humanGroup>, de quienes la recobró el de 1690 <persName>Christóbal Codrington</persName>; el de 1736 se conjuraron tres <humanGroup type="social_group">Indios</humanGroup> llamados <persName>Court</persName>, <persName>Tombay</persName> y <persName>Hercules</persName>, que pusieron pólvora para volar un salón en que se daba una fiesta y bayle al Gobernador; pero se descubrió antes y fueron ajusticiados los agresores: está en logrados 11 minut. de lat. bor.
+<zbr/>§§§id_00910§§§
+<zbr/>ANTIGUASI, <Concept_Settlement>Pueblo</Concept_Settlement> de ##la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory>, en el <Territory>Perú</Territory>, y del <Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Córdova</Territory>.
+<zbr/>§§§id_00911§§§
+<zbr/>ANTIGOA, Punta de la) Extremidad y <Concept_Landmark>Cabo</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Guadalupe</Landmark>, que sale al <Concept_Landmark>mar</Concept_Landmark> mirando al NO..
+<zbr/>§§§id_00912§§§
+<zbr/>ANTILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Abancai</Territory>, en el <Territory>Perú</Territory>.
+<zbr/>§§§id_00913§§§
+<zbr/>Tiene el mismo nombre otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Angaraes</Territory>, en el mismo <Concept_Territory>Reyno</Concept_Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Sabayno</Settlement>.
+<zbr/>§§§id_00914§§§
+<zbr/>ANTILLAS, <Concept_Landmark>Islas</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> descubiertas por <persName>Christóbal Colon</persName> en su primer viage, el año de 1492, situadas entre 18 y 24 grad. de lat. sept. extendiéndose en forma de arco, desde la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Florida</Territory> al N, hasta la del <Landmark>Brasil</Landmark> a mediodía; divídense en <Concept_Landmark>Islas</Concept_Landmark> de <Landmark>Barlovento</Landmark> y de <Territory>Sotavento</Territory>, y en mayores y menores; de las primeras son <Territory>Cuba</Territory>, la Española o <Territory>Santo Domingo</Territory>, <Territory>Jamayca</Territory> y <Territory>Puertorico</Territory>: de las segundas, las principales son 28: 
+<zbr/>
+<zbr/>ßßß
+<zbr/>#De los <humanGroup type="political_group">ingleses</humanGroup>:
+<zbr/><Territory>Vírgenes</Territory>.
+<zbr/><Territory>Anguila</Territory>.
+<zbr/><Territory>S. Christóbal</Territory>.
+<zbr/><Territory>Barbada</Territory>.
+<zbr/><Landmark>Nieves</Landmark>.
+<zbr/><Territory>Antigua</Territory>.
+<zbr/><Territory>Monserrat</Territory>.
+<zbr/><Landmark>Marigalante</Landmark>.
+<zbr/><Landmark>Santa Cruz</Landmark>.
+<zbr/>##De los <humanGroup type="political_group">franceses</humanGroup>:
+<zbr/><Territory>S. Bartolomé</Territory>.
+<zbr/><Territory>Guadalupe</Territory>.
+<zbr/><Landmark>Deseada</Landmark>. 
+<zbr/><Landmark>Los Santos</Landmark>.
+<zbr/><Territory>Martinica</Territory>.
+<zbr/><Territory>Granada</Territory>.
+<zbr/>De los <humanGroup type="political_group">Franc.</humanGroup> y <humanGroup type="political_group">Hol.</humanGroup> 
+<zbr/><Territory>San Martín</Territory>. 
+<zbr/>
+<zbr/>@@@Alcedo_vol_1-0120@@@
+<zbr/>
+<zbr/>#De los <humanGroup type="political_group">Holandeses</humanGroup> 
+<zbr/><Territory>San Eustaquio</Territory>.
+<zbr/><Landmark>Aves</Landmark>.
+<zbr/><Territory>Bonaire</Territory>.
+<zbr/><Territory>Curazao</Territory>.
+<zbr/>De los <humanGroup type="political_group">Españoles</humanGroup>: 
+<zbr/><Territory>Margarita</Territory>.
+<zbr/><Territory>Trinidad</Territory>. 
+<zbr/>
+ <zbr/>##De los <humanGroup type="political_group">Dinamarqueses</humanGroup>:
+<zbr/><Landmark>Santo Tomé</Landmark>. 
+<zbr/><humanGroup type="political_group">Caribes</humanGroup>:
+<zbr/><Landmark>Dominica</Landmark>.
+<zbr/><Landmark>San Vicente</Landmark>.
+<zbr/><Landmark>Becoya</Landmark>.
+<zbr/>
+<zbr/>Desiertas:
+<zbr/><Landmark>Tabago</Landmark>.
+<zbr/><Landmark>Santa Lucía</Landmark>.
+<zbr/>$$$
+<zbr/>
+<zbr/>#Casi todas logran un temperamento muy benigno, y no se conoce en ellas el Invierno, ni el frío; el campo siempre se mantiene verde, y su terreno es muy fértil en toda especie de frutos, particularmente azúcar, aguardiente, algodón, genjibre, añil, café y tabaco, que son los principales ramos de su comercio. Ademas de las dichas hay la Anegada, Sombrero, Saba, Granadilla, y otras más pequeñas, que mejor se pueden llamar <Concept_Landmark>Islotes</Concept_Landmark> o <Concept_Landmark>peñascos</Concept_Landmark>; al tiempo de su descubrimiento estaban pobladas de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup>, Antropófagos o comedores de carne humana, muy feroces, de que hoy han quedado pocos habitantes en las más pequeñas. Los <humanGroup type="social_group">Europeos</humanGroup> se establecieron en ellas el año de 1625, después que los <humanGroup type="social_group">Españoles</humanGroup> desde su descubrimiento poseían las principales, llevando <humanGroup type="social_group">Colonos</humanGroup> a ellas los <humanGroup type="political_group">Ingleses</humanGroup>, <humanGroup type="political_group">Franceses</humanGroup>, <humanGroup type="political_group">Holandeses</humanGroup> y <humanGroup type="political_group">Dinamarqueses</humanGroup>, y <humanGroup type="social_group">Negros</humanGroup> de la Cos##ta de <Territory>Africa</Territory> para los trabajos, de que es la mayor parte de su población: las viñas, aunque han prendido allí, son poco durables los vinos. Están muy sujetas a uracanes violentos, y rara vez pasan cinco años sin que haga terribles estragos en alguna de ellas.
+<zbr/>§§§id_00915§§§
+<zbr/>ANTINGO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory>, en el <Territory>Perú</Territory>, de la <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Rioja</Territory>, situado al N de ella.
+<zbr/>§§§id_00916§§§
+<zbr/>ANTIOQUIA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Nuevo Reyno de Granada</Territory>, una de las que llaman Equinocciales, por su inmediación a la línea, confina por el N con la de <Territory>Cartaxena</Territory>, por el S con la de <Territory>Popayán</Territory>, por el E con la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Santa Fe</Territory>, y por el O con el <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chocó</Territory>; llamábase en tiempo de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Hebexico</humanGroup>; la descubrió y conquistó el año de 1541 el Mariscal <persName>Jorge Robledo</persName>; es de benigno y templado temperamento, abun
+<zbr/>
+<zbr/></xml>

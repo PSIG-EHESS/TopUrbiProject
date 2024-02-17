@@ -21,7 +21,7 @@
 <zbr/>___ARZOBISPOS DE LA IGLESIA de la Plata.___
 <zbr/>
 <zbr/>ßßß
-<zbr/>#1 Don Fray <persName>Tomás de San Martín</persName>, Religioso del Orden de Santo Domingo, Maestro en su Orden, y uno de los primeros Religiosos que pasaron al <Territory>Perú</Territory> con Fray <persName>Vicente de Valverde</persName>; fue allí Provincial, volvió a <Territory>España</Territory> con el Licenciado <persName>Pedro de la Gasea</persName>, y en premio de lo que habia trabajado le presentó el Rey por primer Arzobispo de <Settlement>Charcas</Settlement> el año de 1553 murió el de 1559.
+<zbr/>#1 Don Fray <persName>Tomás de San Martín</persName>, Religioso del Orden de Santo Domingo, Maestro en su Orden, y uno de los primeros Religiosos que pasaron al <Territory>Perú</Territory> con Fray <persName>Vicente de Valverde</persName>; fue allí Provincial, volvió a <Territory>España</Territory> con el Licenciado <persName>Pedro de la Gasea</persName>, y en premio de lo que habia trabajado le presentó el Rey por primer Arzobispo de <Territory>Charcas</Territory> el año de 1553 murió el de 1559.
 <zbr/>2 Don Fray <persName>Pedro de la Torre</persName>, aunque fue electo, pero no consagrado, y en su lugar lo fue 
 <zbr/>3 Don Fray <persName>Alonso de la Cerda</persName>.
 <zbr/>4 Don <persName>Fernán González de la Cuesta</persName>, que dio principio a la fábrica de la Iglesia Catedral, murió el año de 
@@ -90,8 +90,7 @@
 <zbr/>##<Settlement>Pachangara</Settlement>. 
 <zbr/><Settlement>Palpas</Settlement>.
 <zbr/><Settlement>Naba</Settlement>.
-<zbr/>
-<zbr/>###Oyon. 
+<zbr/>###<Settlement>Oyon</Settlement>. 
 <zbr/><Settlement>Tinta</Settlement>. 
 <zbr/><Settlement>Mallay</Settlement>.
 <zbr/>$$$
@@ -129,11 +128,11 @@
 <zbr/>#de hasta el antiguo mineral de oro llamado <Landmark>Chuquiahuilla</Landmark> en la falda de la <Concept_Landmark>Cordillera</Concept_Landmark>, donde se halló aquella rica pepita que pesó 90 marcos, y es la mayor que se ha visto en aquel <Concept_Territory>Reyno</Concept_Territory>, con la particularidad de que quilateada por todas partes se le hallaron 6 leyes diferentes, desde 18 quilates hasta 23 1/2, y abaluado el castellano importó; 11.269 pesos 3 1/2 reales, comprándose, de cuenta de la Real Hacienda, de que S. M. dio gracias al <persName>Marqués de Castelfuerte</persName>, que era virey entonces: en el <Concept_Territory>territorio</Concept_Territory> de 5 <Concept_District>Curatos</Concept_District>, de los <Landmark>Andes</Landmark> se sacan de sus <Concept_Landmark>bosques</Concept_Landmark> excelentes maderas, como cedros, cocobolos, etc., y muy buenas frutas, y tabaco: tuvo antes <Concept_Landmark>minas</Concept_Landmark> muy ricas, de oro y plata, y todavía se reconocen en el <Concept_Landmark>cerro</Concept_Landmark> de <Landmark>Santiago</Landmark> y otros, pero no se resuelven sus naturales a trabajarlas, y en ##el referido <Concept_Landmark>cerro</Concept_Landmark> la que hay tiene la particularidad de hallarse uno y otro metal: en el <Concept_Settlement>asiento</Concept_Settlement> de <Settlement>Aracá</Settlement> hay uno de oro que produce poco: de las lanas de los ganados labran alguna ropa de lá tierra, como pañetes, bayetas y frazadas: aunque hace algunos años que esta <Concept_Territory>Provincia</Concept_Territory> no recibe daño alguno de los infieles, que habitan las <Concept_Landmark>montañas</Concept_Landmark> de los <Landmark>Andes</Landmark>, se tienen partidas abanzadas o destacamentos que continuamente hacen guardia en sus fronteras para impedir que hagan las hostilidades que ha experimentado en otros tiempos: así como hemos dicho que es la <Concept_Territory>Provincia</Concept_Territory> mayor, es también la más poblada, pues contiene más de 50.000, almas, y 33 <Concept_Settlement>Pueblos</Concept_Settlement>, cuya <Concept_Settlement>Capital</Concept_Settlement>, tiene el mismo nombre: su repartimiento era de 226.750 pesos, pagando de alcavala cada año 1814: los <Concept_Settlement>Pueblos</Concept_Settlement> son: 
 <zbr/>
 <zbr/>ßßß
-<zbr/>#Cicasica. 
+<zbr/>#<Settlement>Cicasica</Settlement>. 
 <zbr/><Settlement>Coroico</Settlement>.
 <zbr/><Settlement>Panacacha</Settlement>.
 <zbr/><Settlement>Chulomani</Settlement>.
-<zbr/>Caza. 
+<zbr/><Settlement>Caza</Settlement>. 
 <zbr/><Settlement>Suri</Settlement>.
 <zbr/><Settlement>Cabari</Settlement>.
 <zbr/><Settlement>Mohosa</Settlement>. 
@@ -145,8 +144,7 @@
 <zbr/><Settlement>Haichayo</Settlement>.
 <zbr/><Settlement>Calamarca</Settlement>.
 <zbr/><Settlement>Zapanqui</Settlement>. 
-<zbr/>
-<zbr/>###Caracato.
+<zbr/>###<Settlement>Caracato</Settlement>.
 <zbr/><Settlement>Mecapaca</Settlement>.
 <zbr/><Settlement>Pasca</Settlement>. 
 <zbr/><Settlement>Ynquisive</Settlement>.
@@ -157,15 +155,13 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0580@@@
 <zbr/>
-<zbr/>#Chupe.
+<zbr/>#<Settlement>Chupe</Settlement>.
 <zbr/><Settlement>Milluhuay</Settlement>.
 <zbr/><Settlement>Taxma</Settlement>.
-<zbr/>
-<zbr/>##<LOC>Choxlla</LOC>.
-<zbr/><LOC>Chirca</LOC>.
-<zbr/><LOC>Yrupana</LOC>.
-<zbr/>
-<zbr/>###Colqui.
+<zbr/>##<Settlement>Choxlla</Settlement>.
+<zbr/><Settlement>Chirca</Settlement>.
+<zbr/><Settlement>Yrupana</Settlement>.
+<zbr/>###<Settlement>Colqui</Settlement>.
 <zbr/><Settlement>Palca</Settlement>.
 <zbr/><Settlement>Ocavaya</Settlement>. 
 <zbr/>
@@ -201,7 +197,6 @@
 <zbr/><Settlement>Etuquarillo</Settlement>.
 <zbr/>##<Settlement>Santa Ana Turicato</Settlement>.
 <zbr/><Settlement>Paraquaro</Settlement>. 
-<zbr/>
 <zbr/>###<Settlement>Nocupetajo</Settlement>. 
 <zbr/><Settlement>Acuiyo</Settlement>.
 <zbr/><Settlement>Pungueo</Settlement>.
@@ -212,20 +207,19 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0582@@@
 <zbr/>
-<zbr/>#chas serpientes y vivoras; en los <Concept_Landmark>valles</Concept_Landmark> se halla multitud de aves, codornices, tórtolas, faysanes, grullas, papagayos, guacamayas muy estimadas por el hermoso color de sus plumas con que se adornan los <humanGroup type="social_group">Indios</humanGroup>, y otra infinita variedad de paxaros: los <Concept_Landmark>ríos</Concept_Landmark>, que todos baxan de las <Concept_Landmark>sierras</Concept_Landmark> de <Landmark>Topia</Landmark>, en tiempo de lluvias tienen crecientes tan grandes que se extienden dos y tres leguas, inundando los campos, y suelen durar ocho días en cuyo tiempo, como no tienen <Concept_Landmark>montes</Concept_Landmark> ni alturas, forman los <humanGroup type="social_group">Indios</humanGroup> una terraza con tablas y tierra sobre los árboles para hacer fuego; tiene muchas <Concept_Landmark>salinas</Concept_Landmark>, <Concept_Landmark>minas</Concept_Landmark> de plata que no se trabajan por falta de operarios: estaba poblada esta <Concept_Territory>Provincia</Concept_Territory> de muchas <Concept_Group>naciones de Indios</Concept_Group>, que tenían sus aldeas y chozas a la orilla de los <Concept_Landmark>ríos</Concept_Landmark>: se mantenían del maíz que cultivaban, como también calabazas muy dulces y sabrosas, fríxoles y un género de algarrovilla silvestre que llaman Mesquites, y molidas bebían en agua a ##semejanza del chocolate; también les servia de regalo otra planta que llaman Mezcal, semejante a la savila, aunque la hay de varias especies, de que hacen vino, miel y vinagre, de sus pencas hilo y de las puntas agujas; abunda en nopales, pitahayas y en otras plantas, dándose asimismo muchas de las de <LOC>Europa</LOC>: <persName>Alvar Nuñez Cabeza de Vaca</persName> fue el primero que descubrió esta dilatada <Concept_Territory>Provincia</Concept_Territory> en su peregrinación, quando naufragó, desde la <Settlement>Florida</Settlement> a <Settlement>México</Settlement>, y con su relación envió a ella descubridores el Virey Don <persName>Antonio de Mendoza</persName>: el año de 1590 entraron a predicar el Evangelio los Regulares de la Compañía, que reduxéron a sus naturales estableciendo una Misión, para cuyo fomento regaló la Reyna Dona <persName>Margarita de Austria</persName>, muger de Felipe III, muchas alhajas, ornamentos y demas cosas precisas al culto divino: la <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Felipe y Santiago</Settlement>, y las demás poblaciones son: 
+<zbr/>#chas serpientes y vivoras; en los <Concept_Landmark>valles</Concept_Landmark> se halla multitud de aves, codornices, tórtolas, faysanes, grullas, papagayos, guacamayas muy estimadas por el hermoso color de sus plumas con que se adornan los <humanGroup type="social_group">Indios</humanGroup>, y otra infinita variedad de paxaros: los <Concept_Landmark>ríos</Concept_Landmark>, que todos baxan de las <Concept_Landmark>sierras</Concept_Landmark> de <Landmark>Topia</Landmark>, en tiempo de lluvias tienen crecientes tan grandes que se extienden dos y tres leguas, inundando los campos, y suelen durar ocho días en cuyo tiempo, como no tienen <Concept_Landmark>montes</Concept_Landmark> ni alturas, forman los <humanGroup type="social_group">Indios</humanGroup> una terraza con tablas y tierra sobre los árboles para hacer fuego; tiene muchas <Concept_Landmark>salinas</Concept_Landmark>, <Concept_Landmark>minas</Concept_Landmark> de plata que no se trabajan por falta de operarios: estaba poblada esta <Concept_Territory>Provincia</Concept_Territory> de muchas <Concept_Group>naciones de Indios</Concept_Group>, que tenían sus aldeas y chozas a la orilla de los <Concept_Landmark>ríos</Concept_Landmark>: se mantenían del maíz que cultivaban, como también calabazas muy dulces y sabrosas, fríxoles y un género de algarrovilla silvestre que llaman Mesquites, y molidas bebían en agua a ##semejanza del chocolate; también les servia de regalo otra planta que llaman Mezcal, semejante a la savila, aunque la hay de varias especies, de que hacen vino, miel y vinagre, de sus pencas hilo y de las puntas agujas; abunda en nopales, pitahayas y en otras plantas, dándose asimismo muchas de las de <Territory>Europa</Territory>: <persName>Alvar Nuñez Cabeza de Vaca</persName> fue el primero que descubrió esta dilatada <Concept_Territory>Provincia</Concept_Territory> en su peregrinación, quando naufragó, desde la <Settlement>Florida</Settlement> a <Settlement>México</Settlement>, y con su relación envió a ella descubridores el Virey Don <persName>Antonio de Mendoza</persName>: el año de 1590 entraron a predicar el Evangelio los Regulares de la Compañía, que reduxéron a sus naturales estableciendo una Misión, para cuyo fomento regaló la Reyna Dona <persName>Margarita de Austria</persName>, muger de Felipe III, muchas alhajas, ornamentos y demas cosas precisas al culto divino: la <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Felipe y Santiago</Settlement>, y las demás poblaciones son: 
 <zbr/>
 <zbr/>ßßß
 <zbr/>#<Settlement>Montes Claros</Settlement>. 
 <zbr/><Settlement>Real de Alamos</Settlement>.
 <zbr/>##<Settlement>Bocaverito</Settlement>. 
 <zbr/><Settlement>Noguera</Settlement>.
-<zbr/>
 <zbr/>###<Settlement>Camoa</Settlement>.
 <zbr/><Settlement>Guarabe</Settlement>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0583@@@
 <zbr/>
-<zbr/>#Ocosconi.
+<zbr/>#<Settlement>Ocosconi</Settlement>.
 <zbr/><Settlement>Mocorito</Settlement>.
 <zbr/><Settlement>San Ignacio</Settlement>.
 <zbr/><Settlement>Santa Ana</Settlement>.
@@ -237,7 +231,6 @@
 <zbr/><Settlement>Sivirijoa</Settlement>.
 <zbr/><Settlement>Charay</Settlement>.
 <zbr/><Settlement>Mochicahui</Settlement>.
-<zbr/>
 <zbr/>##<Settlement>San Miguel</Settlement>.
 <zbr/><Settlement>Haomé</Settlement>.
 <zbr/><Settlement>Santa María</Settlement>.
@@ -247,9 +240,8 @@
 <zbr/><Settlement>Navajoa</Settlement>.
 <zbr/><Settlement>Tecia</Settlement>.
 <zbr/><Settlement>Tepehue</Settlement>.
-<zbr/>Real de los Frayles.
+<zbr/><Concept_Settlement>Real</Concept_Settlement> de los <Settlement>Frayles</Settlement>.
 <zbr/><Settlement>Vaca</Settlement>.
-<zbr/>
 <zbr/>###<Settlement>Toriz</Settlement>.
 <zbr/><Settlement>Cuytes</Settlement>.
 <zbr/><Settlement>Temoris</Settlement>.
@@ -265,7 +257,7 @@
 <zbr/>§§§id_04035§§§
 <zbr/>#Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de esta <Concept_Territory>Provincia</Concept_Territory>, y corre a salir al <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>California</Landmark> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>Roxo de Cortés</Landmark>, entre los de <Landmark>Culiacan</Landmark> y del <Landmark>Fuerte</Landmark>.
 <zbr/>§§§id_04036§§§
-<zbr/>CINAMIN, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>río Grande</Territory> en el <Territory>Brasil</Territory>; nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al NNE, y sale al <Concept_Landmark>mar</Concept_Landmark> junto al <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>San Roque</Landmark>.
+<zbr/>CINAMIN, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>río Grande</Territory> en el <Territory>Brasil</Territory>; nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al NNE, y sale al <Concept_Landmark>mar</Concept_Landmark> junto al <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>San Roque</Landmark>.
 <zbr/>§§§id_04037§§§
 <zbr/>CINCOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Xauxa</Territory> en el <Territory>Perú</Territory>. 
 <zbr/>§§§id_04038§§§
@@ -303,7 +295,7 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0585@@@
 <zbr/>§§§id_04052§§§
-<zbr/>#CIRII, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Sergipé</Territory> en el <Territory>Brasil</Territory>: nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al SSE y entra en el de <Landmark>Sirugipá</Landmark>, poco antes de salir éste al <Concept_Landmark>mar</Concept_Landmark>.
+<zbr/>#CIRII, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Sergipé</Territory> en el <Territory>Brasil</Territory>: nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al SSE y entra en el de <Landmark>Sirugipá</Landmark>, poco antes de salir éste al <Concept_Landmark>mar</Concept_Landmark>.
 <zbr/>§§§id_04053§§§
 <zbr/>CIRIONES, <Concept_Group>Nación bárbara de Indios</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Moxos</Territory> en el <Territory>Perú</Territory>, es vagante, feroz y poco conocida.
 <zbr/>§§§id_04054§§§
@@ -365,7 +357,7 @@
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0588@@@
 <zbr/>
-<zbr/>#25 leguas de <Concept_Landmark>Cabo</Concept_Landmark> <LOC>Blanco</LOC>.
+<zbr/>#25 leguas de <Concept_Landmark>Cabo</Concept_Landmark> <Landmark>Blanco</Landmark>.
 <zbr/>§§§id_04078§§§
 <zbr/>Un <Concept_Landmark>monte</Concept_Landmark> muy alto de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory> en <Territory>Nueva España</Territory> cerca de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>California</Landmark>, y en lo más interior de él descubierto el año de 1698.
 <zbr/>§§§id_04079§§§
@@ -435,22 +427,20 @@
 <zbr/>
 <zbr/><Settlement>San Francisco Aguayo</Settlement>.
 <zbr/><Settlement>San Miguel</Settlement>.
-<zbr/>El <Concept_Settlement>Presidio</Concept_Settlement> del <LOC>Sacramento</LOC>.
-<zbr/>##<LOC>San Juan Bautista de <Concept_Landmark>río</Concept_Landmark> grande</LOC>.
-<zbr/><LOC>Petoyes</LOC>.
-<zbr/><LOC>San Francisco ###de Bizarron</LOC>.
-<zbr/><LOC>Ntra. Sra</LOC>, de la <LOC>Victoria</LOC>.
+<zbr/>El <Concept_Settlement>Presidio</Concept_Settlement> del <Settlement>Sacramento</Settlement>.
+<zbr/>##<Settlement>San Juan Bautista de río grande</Settlement>.
+<zbr/><Settlement>Petoyes</Settlement>.
+<zbr/><Settlement>San Francisco ###de Bizarron</Settlement>.
+<zbr/><Settlement>Ntra. Sra. de la Victoria</Settlement>.
 <zbr/><Settlement>San Buenaventura</Settlement>. 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0591@@@
 <zbr/>
-<zbr/>#Cataño.
+<zbr/>#<Settlement>Cataño</Settlement>.
 <zbr/><Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Saltillo</Settlement>.
 <zbr/><Settlement>Las Juntas</Settlement>.
-<zbr/>
-<zbr/>##La <Concept_Structure>hacienda</Concept_Structure> del Alamo.
-<zbr/>Los <Concept_Structure>Ranchos</Concept_Structure>.
-<zbr/>
+<zbr/>##La <Concept_Structure>hacienda</Concept_Structure> del <Structure>Alamo</Structure>.
+<zbr/>Los <Structure>Ranchos</Structure>.
 <zbr/>###<Settlement>San Pedro de Boca Leones</Settlement>.
 <zbr/><Settlement>Monte Rey</Settlement>.
 <zbr/>
@@ -536,7 +526,7 @@
 <zbr/>
 <zbr/>#mercio de su vecindario, que consta de 44 familias de <humanGroup type="social_group">Indios</humanGroup>: está una legua de su <Concept_Settlement>Cabecera</Concept_Settlement> al NE.
 <zbr/>§§§id_04140§§§
-<zbr/>COAUTITLAN, <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nueva España</Territory>, uno de los <Concept_Territory>territorios</Concept_Territory> y aunque corto más fértiles y pingues, poblado de heredades y <Concept_Structure>haciendas</Concept_Structure> que producen mucho maíz, trigo, cebada y semillas: es un plan superior al de <Settlement>México</Settlement>, regado por el <Concept_Landmark>río</Concept_Landmark> de su nombre que lo atraviesa y corre del S al N: tiene una <Concept_Landmark>laguna</Concept_Landmark> llamada de <Landmark>Zumpango</Landmark>, inmediata al <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Coyotepec</Settlement>, que llenan##dose con las aguas del <Concept_Landmark>río</Concept_Landmark>, vaciaba en la de <Settlement>Ecatepec</Settlement>, y ésta en la de <Territory>Tezcuco</Territory>, que impedia la entrada de la de <Territory>Chalco</Territory>, y demás azequias de <Settlement>México</Settlement>, causando inundaciones, por cuya razón se construyó un <Concept_Landmark>desague</Concept_Landmark> en la referida, y habita allí el Juez llamado de éste: muchos han creído que por él se desaguaba la <Concept_Landmark>laguna</Concept_Landmark> de <Settlement>México</Settlement> quando era necesario, pero no es así, sino como hemos dicho para evitar que rebose: contiene esta <Concept_Territory>jurisdicción</Concept_Territory> los <Concept_Settlement>Pueblos</Concept_Settlement> siguientes: 
+<zbr/>COAUTITLAN, <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nueva España</Territory>, uno de los <Concept_Territory>territorios</Concept_Territory> aunque corto más fértiles y pingues, poblado de heredades y <Concept_Structure>haciendas</Concept_Structure> que producen mucho maíz, trigo, cebada y semillas: es un plan superior al de <Settlement>México</Settlement>, regado por el <Concept_Landmark>río</Concept_Landmark> de su nombre que lo atraviesa y corre del S al N: tiene una <Concept_Landmark>laguna</Concept_Landmark> llamada de <Landmark>Zumpango</Landmark>, inmediata al <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Coyotepec</Settlement>, que llenan##dose con las aguas del <Concept_Landmark>río</Concept_Landmark>, vaciaba en la de <Settlement>Ecatepec</Settlement>, y ésta en la de <Territory>Tezcuco</Territory>, que impedia la entrada de la de <Territory>Chalco</Territory>, y demás azequias de <Settlement>México</Settlement>, causando inundaciones, por cuya razón se construyó un <Concept_Landmark>desague</Concept_Landmark> en la referida, y habita allí el Juez llamado de éste: muchos han creído que por él se desaguaba la <Concept_Landmark>laguna</Concept_Landmark> de <Settlement>México</Settlement> quando era necesario, pero no es así, sino como hemos dicho para evitar que rebose: contiene esta <Concept_Territory>jurisdicción</Concept_Territory> los <Concept_Settlement>Pueblos</Concept_Settlement> siguientes: 
 <zbr/>
 <zbr/>ßßß
 <zbr/>#La <Concept_Settlement>Capital</Concept_Settlement> del mismo nombre.
@@ -544,9 +534,7 @@
 <zbr/>##<Settlement>Santa Bárbara</Settlement>. 
 <zbr/><Settlement>Tultepec</Settlement>.
 <zbr/><Settlement>Huehuctoca</Settlement>.
-<zbr/><Settlement>San Miguel de
-<zbr/>
-<zbr/>###los Xaqueyes</Settlement>. 
+<zbr/><Settlement>San Miguel de ###los Xaqueyes</Settlement>. 
 <zbr/><Settlement>Teoloyuca</Settlement>. 
 <zbr/><Settlement>Tepozotlán</Settlement>. 
 <zbr/><Settlement>Xaltocan</Settlement>.

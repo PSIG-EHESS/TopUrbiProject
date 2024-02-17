@@ -73,7 +73,7 @@
         <Concept_District>Parroquia</Concept_District> de Indios en el Cercado con título de
     Santiago, que servían los Regulares de la Compañía: tiene 19 Conventos de Religiosos que son los
     siguientes, quatro de Santo Domingo llamados la Casa grande, la Recolección de la Magdalena, el
-    Colegio de Santo Tomás para estudios, y Santa Rosa; tres de la de S. <LOC>Francisco</LOC>, la
+    Colegio de Santo Tomás para estudios, y Santa Rosa; tres de la de <LOC>S. Francisco</LOC>, la
     Casa grande, Recoletos de nuestra Señora de los Angeles o Guadalupe, y Descalzos de S. Diego que
     están en el <Concept_Settlement>arrabal</Concept_Settlement>; otros tres de S.
         <LOC>Agustín</LOC>, Casa grande de S. Ildefonso, Cole<zbr/>
@@ -89,13 +89,13 @@
     después se fabricó el de 1736 en el <Concept_Settlement>arrabal</Concept_Settlement> de
         <Settlement> S. Lázaro</Settlement>, un Convento de Religiosos Mínimos de S. Francisco de
     Paula con el de nuestra Señora del Socorro, otros tres de instituto de Hospitalidad que son uno
-    de S. <LOC>Juan de Dios</LOC> con título de convalecencia y dos de Beletmitas, que el uno
+    de <LOC>S. Juan de Dios</LOC> con título de convalecencia y dos de Beletmitas, que el uno
     llamado Casa grande, y está extramuros de la <Concept_Settlement>Ciudad</Concept_Settlement>,
     también es para convalecientes, el otro de Incurables, y el tercero para mugeres, sin otros
     nueve Hospitales públicos que son S. Andrés para <humanGroup type="social_group"
         >Españoles</humanGroup>, S. Pedro para Eclesiásticos pobres, el Espíritu Santo ##para
     Marineros, S. Bartolomé para <humanGroup type="social_group">Negros</humanGroup>, Santa Ana para
-        <humanGroup type="social_group">Indios</humanGroup>, S. <LOC>Pedro de Alcántara</LOC> para
+        <humanGroup type="social_group">Indios</humanGroup>, <LOC>S. Pedro de Alcántara</LOC> para
     Mugeres, la Caridad con el mismo destino, y <Settlement> S. Lázaro</Settlement> para los
     infestados de lepra: se cuentan 14 Monasterios o Conventos de Religiosas, y son la Encarnación,
     la Concepción, Santa Catalina, Santa Clara, la Trinidad, el Carmen, Santa Teresa o Carmen baxo,
@@ -182,7 +182,7 @@
         <Territory>Succesion</Territory>. <zbr/> Don <persName>Miguel Nuñez de Roxas</persName>, del
     Consejo de Ordenes, Juez privativo de bienes confiscados a los difidentes en la guerra de
         <Territory>Succesion</Territory>. <zbr/> Don <persName>Feliciano de Vega</persName>,
-    Arzobispo de <Settlement>México</Settlement>. <zbr/> Don <persName>Pedro de Reyna
+    Arzobispo de <Territory>México</Territory>. <zbr/> Don <persName>Pedro de Reyna
         Maldonado</persName>, Obispo de <Territory>Cuba</Territory>, célebre Autor. <zbr/> Don
         <persName>Martín del Barco Centenera</persName>, Autor de la Historia del
         <Concept_Landmark>Río</Concept_Landmark> de la <Landmark>Plata</Landmark> o
@@ -248,7 +248,7 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>León</Territory>, Colegial mayor
     de <Settlement>San Salvador de Oviedo</Settlement> en la Universidad de
         <Territory>Salamanca</Territory>, Inquisidor de <Territory>Granada</Territory>, presentado
-    para Arzobispo de <Settlement>Lima</Settlement> el año de 1578, visitó tres veces la dilatada
+    para Arzobispo de <Territory>Lima</Territory> el año de 1578, visitó tres veces la dilatada
     extensión de su Diócesis, confirmó más de un millón de almas, y poseyó en tanto grado todas las
     virtudes que mereció que la Iglesia le beatificase y diese culto gobernándola el Pontífice
     Inocencio XI el año de 1679, y a su conseqüencia fue canonizado por Benedicto XIII el de 1727,
@@ -344,7 +344,7 @@
     <zbr/> 19 Don <persName>Diego Antonio de Parada</persName> pasó del
         <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Paz</Territory> el año de
     1762, murió el de 1779. <zbr/> 20 Don <persName>Juan Domingo González de la Reguera</persName>
-    electo Arzobispo de <Settlement>Lima</Settlement> el año de 1781. <zbr/> $$$<zbr/>
+    electo Arzobispo de <Territory>Lima</Territory> el año de 1781. <zbr/> $$$<zbr/>
     <zbr/> §§§id_08880§§§<zbr/> LIMACHE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Santiago</Territory> en
@@ -421,11 +421,11 @@
     <zbr/> §§§id_08892§§§<zbr/> LIME, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Connecticut</Territory> y
-        <Concept_Territory>Condado</Concept_Territory> de <Territory>Londres</Territory>, situado a
+        <Concept_Territory>Condado</Concept_Territory> de <Settlement>Londres</Settlement>, situado a
     la entrada del <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Long Island</Landmark>
     o <Concept_Landmark>Isla</Concept_Landmark>
     <LOC>Larga</LOC>, a la boca del <Concept_Landmark>río</Concept_Landmark>
-    <Territory>Connecticut</Territory>, al O de la Nueva <Territory>Londres</Territory> y E de
+    <Territory>Connecticut</Territory>, al O de la Nueva <Settlement>Londres</Settlement> y E de
     Saybrook. <zbr/>
     <zbr/> §§§id_08893§§§<zbr/> LIMONADE, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_District>Parroquia</Concept_District> de los <humanGroup type="political_group"
@@ -518,11 +518,11 @@
     tiene de largo 60 leguas NO. SE, y 20 de ancho por donde más 5 su temperamento en toda ella es
     frío y seco, y por tanto infructífera, a <zbr/>
     <zbr/> @@@Alcedo_vol_2-0589@@@<zbr/>
-    <zbr/> #excepción de los <Concept_Territory>territorios</Concept_Territory> y de
+    <zbr/> #excepción de los <Concept_Territory>territorios</Concept_Territory> de
         <Territory>Lica</Territory> y <Territory>Tahua</Territory> donde se coge muy buena quinua,
     que es una semilla como el mijo, algunas papas y cebollas, hay abundancia de vicuñas, huanacos y
     vizcachas, perdices muy grandes y abestruces; los <Concept_Landmark>ríos</Concept_Landmark> que
-    la bañan son pequeños, el de S. <LOC>Juan</LOC> es algo considerable, y divide esta
+    la bañan son pequeños, el de <LOC>S. Juan</LOC> es algo considerable, y divide esta
         <Concept_Territory>Provincia</Concept_Territory> en parte de la del
         <Territory>Tucumán</Territory>, en algunos de ellos se encuentra oro, y dos o tres, que son
     pequeños, después de haber corrido algunas leguas se pierden en la arena; hay
@@ -617,7 +617,7 @@
     <zbr/> §§§id_08917§§§<zbr/> LIXMAI, <Concept_Landmark>Río</Concept_Landmark> de la <zbr/>
     <zbr/> @@@Alcedo_vol_2-0591@@@<zbr/>
     <zbr/> #<Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Sergipe</Territory> en el
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Sergipe</Territory> en el
         <Territory>Brasil</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark>,
     entre los <Concept_Landmark>ríos</Concept_Landmark> del <Landmark>Real</Landmark> y de
         <Landmark>S. Francisco</Landmark>, corre al SSE, y sale al
@@ -869,7 +869,7 @@
         <Concept_Territory>jurisdicción</Concept_Territory> de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Rioja</Territory>. <zbr/>
     <zbr/> §§§id_08942§§§<zbr/> Otro con la advocación del
-        <Concept_Landmark>Valle</Concept_Landmark> de S. <LOC>Antonio de los Llanos</LOC>,
+        <Concept_Landmark>Valle</Concept_Landmark> de <LOC>S. Antonio de los Llanos</LOC>,
         <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Río Blanco</Territory>
     en el <Territory>Nuevo Reyno de León</Territory> solo <zbr/>
@@ -883,7 +883,7 @@
     en la <Concept_Landmark>Costa</Concept_Landmark> del N al S de
         <Concept_Landmark>Cabo</Concept_Landmark>
     <Landmark>Francés</Landmark>. <zbr/>
-    <zbr/> §§§id_08944§§§<zbr/> LLANQUE, <Concept_Territory>Territorio</Concept_Territory> y o
+    <zbr/> §§§id_08944§§§<zbr/> LLANQUE, <Concept_Territory>Territorio</Concept_Territory> o
         <Concept_District>partido</Concept_District> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, al SO de la
         <Concept_Territory>Provincia</Concept_Territory> y

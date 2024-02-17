@@ -161,7 +161,7 @@ Arbusto bien conocido por su virtud descoagulante, principalmente en las caídas
 <zbr/>
 §§§id_18479§§§<zbr/>
 CALEMBACK <zbr/>
-O Calambouc: nombre que dan los <humanGroup type="political_group">Franceses</humanGroup> a un árbol que se cría en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>San Bartolomé</Territory>, una de las <LOC>Antillas</LOC>, y es especie del aloes. <zbr/>
+O Calambouc: nombre que dan los <humanGroup type="political_group">Franceses</humanGroup> a un árbol que se cría en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>San Bartolomé</Territory>, una de las <Landmark>Antillas</Landmark>, y es especie del aloes. <zbr/>
 <zbr/>
 §§§id_18480§§§<zbr/>
 CAJETA. <zbr/>
@@ -218,7 +218,7 @@ Tala semejante a la que tienen los horneros, es de algo más de una vara de larg
 <zbr/>
 §§§id_18492§§§<zbr/>
 CANAPIA. <zbr/>
-Arbol de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóbal</Landmark> una de las <LOC>Antilles</LOC>, que produce una goma que los <humanGroup type="political_group">Franceses</humanGroup> usan en la Medicina por excelente cathártico. <zbr/>
+Arbol de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóbal</Landmark> una de las <Landmark>Antilles</Landmark>, que produce una goma que los <humanGroup type="political_group">Franceses</humanGroup> usan en la Medicina por excelente cathártico. <zbr/>
 <zbr/>
 §§§id_18493§§§<zbr/>
 CANCHALAGUA (''Gentiana Clachanlaguen Mol''). <zbr/>
@@ -310,7 +310,7 @@ Ave pequeña de canto: es de un color encarnado muy vivo, y tiene una especie de
 <zbr/>
 §§§id_18510§§§<zbr/>
 CARDO SANTO (''Argemone Mexicana''). <zbr/>
-Esta planta es bien conocida, y no menos sus virtudes en la Medicina, por cuya razón no hacemos descripción de ella y del uso que tiene: solo diremos que se da en muchas <Concept_Territory>Provincias</Concept_Territory> y parages de <Territory>América</Territory>, <zbr/>
+Esta planta es bien conocida, y no menos sus virtudes en la Medicina, por cuya razón no hacemos descripción de ella y del uso que tiene: solo diremos que se da en muchas <Concept_Territory>Provincias</Concept_Territory> parages de <Territory>América</Territory>, <zbr/>
 <zbr/>
 §§§id_18511§§§<zbr/>
 CAREI (''Testúdo Careta''). <zbr/>
@@ -672,7 +672,7 @@ Género de insecto del orden cleoptera: tiene las antenas subclavadas, y truncad
 <zbr/>
 @@@Alcedo_vol_5_americanismes-0064@@@<zbr/>
 <zbr/>
-#muere la Cochinilla; pero debemos confesar que el mejor modo es el de ponerlas al Sol. Además de esta precaución para matar el insecto, no es menos preciso el conocimiento de quando está en estado de quitarlos de las hojas del Nopal para conservar su calidad, y solo la práctica enseña a los cultivadores este necesario criterion, para el qual no se puede dar regla fixa, y así en las <Concept_Territory>Provincias</Concept_Territory> que se dedican a este cultivo, se diferencian en las señales para cogerla los <humanGroup type="social_group">Indios</humanGroup> de un <Concept_Settlement>Pueblo</Concept_Settlement> de los de otro, y muchas veces los de uno mismo. La Cochinilla se puede comparar en cierto modo al gusano de la seda, particularmente en poner los huevos. Los insectos destinados a esto se cogen quando están crecidos, y se ponen en una caxa bien cerrada, y en esta prisión ponen, y se mueren, manteniendo así la caxa hasta el tiempo de colocar los huevos en las Nopaleras, y la cantidad que puede caber en una cáscara de huevo de gallina es bastante para cubrir toda una Nopalera: lo más singular es que este insecto no cause detrimento a la planta, pues solo le saca la parte más suculenta del jugo por medio de su proboscis entre los finos tegumentos de las hojas. Los principales parages de la <Territory>America</Territory>, en que se cultiva la Cochinilla son <Settlement>Oaxaca</Settlement>, <LOC>Tlaxcala</LOC>, <LOC>Cholula</LOC>, <Territory>Nueva Galicia</Territory>, en <Territory>Nueva España</Territory>, en <Territory>Guatemala</Territory>, y <Territory>Chiapa</Territory>, en <Settlement>Loxa</Settlement> y <Territory>Ambato</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y en <Territory>Tucumán</Territory>, y algunas <Concept_Territory>Provincias</Concept_Territory> del <Territory>Perú</Territory>; pero en <Settlement>Oaxaca</Settlement> es donde se coge la mayor cosecha, y forma un ramo de comercio muy considerable, porque allí se han dedicado casi todos los <Concept_Settlement>Pueblos</Concept_Settlement> a ello. <zbr/>
+#muere la Cochinilla; pero debemos confesar que el mejor modo es el de ponerlas al Sol. Además de esta precaución para matar el insecto, no es menos preciso el conocimiento de quando está en estado de quitarlos de las hojas del Nopal para conservar su calidad, y solo la práctica enseña a los cultivadores este necesario criterion, para el qual no se puede dar regla fixa, y así en las <Concept_Territory>Provincias</Concept_Territory> que se dedican a este cultivo, se diferencian en las señales para cogerla los <humanGroup type="social_group">Indios</humanGroup> de un <Concept_Settlement>Pueblo</Concept_Settlement> de los de otro, y muchas veces los de uno mismo. La Cochinilla se puede comparar en cierto modo al gusano de la seda, particularmente en poner los huevos. Los insectos destinados a esto se cogen quando están crecidos, y se ponen en una caxa bien cerrada, y en esta prisión ponen, y se mueren, manteniendo así la caxa hasta el tiempo de colocar los huevos en las Nopaleras, y la cantidad que puede caber en una cáscara de huevo de gallina es bastante para cubrir toda una Nopalera: lo más singular es que este insecto no cause detrimento a la planta, pues solo le saca la parte más suculenta del jugo por medio de su proboscis entre los finos tegumentos de las hojas. Los principales parages de la <Territory>America</Territory>, en que se cultiva la Cochinilla son <Settlement>Oaxaca</Settlement>, <Settlement>Tlaxcala</Settlement>, <Settlement>Cholula</Settlement>, <Territory>Nueva Galicia</Territory>, en <Territory>Nueva España</Territory>, en <Territory>Guatemala</Territory>, y <Territory>Chiapa</Territory>, en <Settlement>Loxa</Settlement> y <Territory>Ambato</Territory>, en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y en <Territory>Tucumán</Territory>, y algunas <Concept_Territory>Provincias</Concept_Territory> del <Territory>Perú</Territory>; pero en <Settlement>Oaxaca</Settlement> es donde se coge la mayor cosecha, y forma un ramo de comercio muy considerable, porque allí se han dedicado casi todos los <Concept_Settlement>Pueblos</Concept_Settlement> a ello. <zbr/>
 <zbr/>
 §§§id_18589§§§<zbr/>
 COCHINO DE MAR. <zbr/>

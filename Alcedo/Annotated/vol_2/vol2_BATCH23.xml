@@ -66,7 +66,7 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guarochiri</Territory> en
     el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
         <Settlement>Chorrillo</Settlement>. <zbr/>
-    <zbr/> §§§id_08692§§§<zbr/> LAICACOTA, <Concept_Territory>Territorio</Concept_Territory> y del
+    <zbr/> §§§id_08692§§§<zbr/> LAICACOTA, <Concept_Territory>Territorio</Concept_Territory> del
         <Territory>Perú</Territory> muy poblado en los años pasados, y rico por la
         <Concept_Landmark>mina</Concept_Landmark> de su nombre, célebre por la abundancia de plata
     que se cortaba a cincel, la descubrió <persName>Gaspar de Salcedo</persName> el año de 1593; en
@@ -426,7 +426,7 @@
     la <Landmark>Plata</Landmark>. <zbr/>
     <zbr/> §§§id_08735§§§<zbr/> LAQUARIBE, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Seara</Territory> en el
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el
         <Territory>Brasil</Territory>, corre entre los de <Landmark>Siope</Landmark> y de
         <Landmark>Varirin</Landmark>, abunda de excelente pescado, y en su inmediacion hay algunas
         <Concept_Structure>plantaciones</Concept_Structure> de cañas dulces, desemboca en el
@@ -601,12 +601,12 @@
     <zbr/> §§§id_08752§§§<zbr/> Una <Concept_Landmark>Bahía</Concept_Landmark> en la
         <Concept_Landmark>Costa</Concept_Landmark> del E de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Jamayca</Territory>, entre otra
-    llamada pequeña y la <Concept_Landmark>punta</Concept_Landmark> del <LOC>NE.</LOC>
+    llamada pequeña y la <Concept_Landmark>punta</Concept_Landmark> del <Landmark>NE.</Landmark>
     <zbr/>
     <zbr/> §§§id_08753§§§<zbr/> Una <Concept_Landmark>Isla</Concept_Landmark> cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Ilheos</Territory> en el
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Ilheos</Territory> en el
         <Territory>Brasil</Territory>, enfrente de la <Concept_Settlement>Villa</Concept_Settlement>
     de <Settlement>Portoseguro</Settlement>. <zbr/>
     <zbr/> §§§id_08754§§§<zbr/> LARGAS, <Concept_Landmark>Islas</Concept_Landmark> de la
@@ -660,13 +660,13 @@
     el <Territory>Perú</Territory>. <zbr/>
     <zbr/> §§§id_08763§§§<zbr/> LATELONGI, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y del <Territory>Rey</Territory> en el
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el
         <Territory>Brasil</Territory>, corre al E, y entra en el
         <Concept_Landmark>lago</Concept_Landmark> del <Landmark>Mini</Landmark>. <zbr/>
     <zbr/> §§§id_08764§§§<zbr/> LATIGIOCA, Punta de) en la
         <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y del <Territory>Pará</Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, una de las
     que forman la entrada <zbr/>
     <zbr/> @@@Alcedo_vol_2-0562@@@<zbr/>
@@ -945,7 +945,7 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
     <zbr/> §§§id_08805§§§<zbr/> LEDA, Cabo de) en la <Concept_Landmark>Costa</Concept_Landmark> de
     la <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Paraiba</Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Paraiba</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, entre el
         <Concept_Landmark>cabo</Concept_Landmark>
     <Landmark>Blanco</Landmark> y el <Concept_Landmark>río</Concept_Landmark> de
@@ -1066,7 +1066,7 @@
     <zbr/> §§§id_08817§§§<zbr/> LENKIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
         <Concept_District>distrito</Concept_District> de la
-        <Concept_District>Parroquia</Concept_District> de <LOC>San</LOC>
+        <Concept_District>Parroquia</Concept_District> de <District>San</District>
     <zbr/>
     <zbr/> @@@Alcedo_vol_2-0568@@@<zbr/>
     <zbr/> #Joseph, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
@@ -1231,7 +1231,7 @@
         <Territory>Chile</Territory>. <zbr/>
     <zbr/> §§§id_08825§§§<zbr/> Otro con el sobrenombre de Froes en la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Espíritu Santo</Territory>
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Espíritu Santo</Territory>
     en el <Territory>Brasil</Territory>, situado a orilla del
         <Concept_Landmark>río</Concept_Landmark> de este nombre. <zbr/>
     <zbr/> §§§id_08826§§§<zbr/> ##Un <Concept_Landmark>río</Concept_Landmark> de la
@@ -1310,7 +1310,7 @@
     aquel <Concept_Territory>Reyno</Concept_Territory>, por Don <persName>Martín Varejón</persName>
     el año de 1613, concediéndole el Rey quatro leguas de
         <Concept_Territory>jurisdicción</Concept_Territory>, que no goza hoy por haberse extendido
-    en ella el Estado del <Concept_Territory>Marquesado</Concept_Territory> y del
+    en ella el Estado del <Concept_Territory>Marquesado</Concept_Territory> del
         <Territory>Valle</Territory>, y otros dueños de
         <Concept_Structure>haciendas</Concept_Structure> de las
         <Concept_Territory>jurisdicciones</Concept_Territory> de <Territory>Toluca</Territory> y
@@ -1342,8 +1342,8 @@
     necesario para su subsistencia, contentándose con criar algún ganado de cerda, a que se aplican:
     no tiene más <Concept_Settlement>Pueblos</Concept_Settlement> esta
         <Concept_Territory>Alcaldía</Concept_Territory> que quatro, y son <LOC>Tarasquillo</LOC>,
-        <Settlement>Santiago</Settlement>, <Settlement>San Mateo</Settlement> y <LOC>San
-        Miguel</LOC>: está 9 leguas al OSO de <Settlement>México</Settlement>, en 273 gr. 42 min. de
+        <Settlement>Santiago</Settlement>, <Settlement>San Mateo</Settlement> y <Settlement>San
+        Miguel</Settlement>: está 9 leguas al OSO de <Settlement>México</Settlement>, en 273 gr. 42 min. de
     long. y en 19 gr. 48 min. de lat. <zbr/>
     <zbr/> §§§id_08838§§§<zbr/> Tiene el mismo nombre un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la

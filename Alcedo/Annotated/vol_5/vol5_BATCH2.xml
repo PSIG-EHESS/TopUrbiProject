@@ -9,7 +9,7 @@ TAMAZULAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settl
 Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre, <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, tiene un Convento de Religiosos de Santo Domingo, y 270 familias de <humanGroup type="social_group">Indios</humanGroup> que se emplean en el cultivo de los campos y en la matanza de ganado cabrío, de que hay mucha abundancia por ser el terreno a propósito para ello, está 3 leguas entre Oriente y Norte de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
 <zbr/>
 §§§id_15632§§§<zbr/>
-TAMAZUNCHALE, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valles</Territory> en <Territory>Nueva España</Territory>, situado cerca del <Concept_Landmark>río</Concept_Landmark> del <LOC>Desaguadero</LOC> en que cogen mucho pescado, produce maíz, frixoles y cañas dulces con abundancia, tiene muy buena Iglesia Parroquial, 358 familias de <humanGroup type="social_group">Indios</humanGroup> y 36 de <humanGroup type="social_group">Españoles</humanGroup>, está 30 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+TAMAZUNCHALE, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valles</Territory> en <Territory>Nueva España</Territory>, situado cerca del <Concept_Landmark>río</Concept_Landmark> del <Landmark>Desaguadero</Landmark> en que cogen mucho pescado, produce maíz, frixoles y cañas dulces con abundancia, tiene muy buena Iglesia Parroquial, 358 familias de <humanGroup type="social_group">Indios</humanGroup> y 36 de <humanGroup type="social_group">Españoles</humanGroup>, está 30 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
 <zbr/>
 §§§id_15633§§§<zbr/>
 ##TAMBAPALLA, <Concept_Landmark>Valle</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arica</Territory>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
@@ -167,7 +167,7 @@ TAMPICO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>A
 <Settlement>San Nicolás</Settlement>. <zbr/>
 <Settlement>Chicomi</Settlement>. <zbr/>
 <Settlement>San Pedro Coyutla</Settlement>. <zbr/>
-###<LOC>Población Nueva</LOC>. <zbr/>
+###<Settlement>Población Nueva</Settlement>. <zbr/>
 <Settlement>Sta. María Otzulama</Settlement>. <zbr/>
 <Settlement>Tanjuco</Settlement>. <zbr/>
 <Settlement>Temporal</Settlement>. <zbr/>
@@ -218,7 +218,7 @@ TANCHANACO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de la <Conc
 <zbr/>
 @@@Alcedo_vol_5-0034@@@<zbr/>
 <zbr/>
-#anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Aquismon</Settlement>, tiene 25 familias de <humanGroup type="social_group">Indios</humanGroup>, y está situado al pie de la <Concept_Landmark>Sierra</Concept_Landmark> <LOC>Madre</LOC>, distante 5 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>: a poca distancia, en lo más alto de ella, hay una <Concept_Settlement>ranchería</Concept_Settlement> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Pames</humanGroup> que serán 80, y no se han reducido aún. <zbr/>
+#anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Aquismon</Settlement>, tiene 25 familias de <humanGroup type="social_group">Indios</humanGroup>, y está situado al pie de la <Concept_Landmark>Sierra</Concept_Landmark> <Landmark>Madre</Landmark>, distante 5 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>: a poca distancia, en lo más alto de ella, hay una <Concept_Settlement>ranchería</Concept_Settlement> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Pames</humanGroup> que serán 80, y no se han reducido aún. <zbr/>
 <zbr/>
 §§§id_15689§§§<zbr/>
 TANCHE, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 75 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 7 leguas entre Poniente y Sur de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
@@ -272,7 +272,7 @@ TANGUIER, <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Co
 TANICUCHI, <Concept_Settlement>Pueblo</Concept_Settlement> grande de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tacunga</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la orilla occidental ##del <Concept_Landmark>río</Concept_Landmark> de su nombre que baxa del <Concept_Landmark>páramo</Concept_Landmark> de <Landmark>Elenisa</Landmark>, está al Poniente de <Settlement>Mula-haló</Settlement> y al N de <Settlement>Saquisili</Settlement> en 47 min. 30 seg. de lat. aust. <zbr/>
 <zbr/>
 §§§id_15705§§§<zbr/>
-TANJUCO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> de <Settlement>Otzulama</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tampico</Territory> en <Territory>Nueva España</Territory>, es de temperamento cálido, y muy abundante de insectos y animales venenosos; tiene solamente 12 familias de <humanGroup type="social_group">Indios</humanGroup>, y está en la frontera de los bárbaros <humanGroup type="indigenous_group">Chichimecos</humanGroup>; en él residen dos soldados con sueldo del Rey para mandar y dirigir a los <humanGroup type="social_group">Indios</humanGroup> alistados como Milicianos para contener las incursiones de aquellos infieles, y dar aviso a las Compañías que residen en el <Concept_Landmark>Puerto</Concept_Landmark> de <LOC>Tampoco</LOC>: está poco distante de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+TANJUCO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> de <Settlement>Otzulama</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tampico</Territory> en <Territory>Nueva España</Territory>, es de temperamento cálido, y muy abundante de insectos y animales venenosos; tiene solamente 12 familias de <humanGroup type="social_group">Indios</humanGroup>, y está en la frontera de los bárbaros <humanGroup type="indigenous_group">Chichimecos</humanGroup>; en él residen dos soldados con sueldo del Rey para mandar y dirigir a los <humanGroup type="social_group">Indios</humanGroup> alistados como Milicianos para contener las incursiones de aquellos infieles, y dar aviso a las Compañías que residen en el <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Tampoco</Landmark>: está poco distante de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
 <zbr/>
 §§§id_15706§§§<zbr/>
 TANLAGUA, <Concept_Landmark>Cerro</Concept_Landmark> muy alto o <Concept_Landmark>páramo</Concept_Landmark> siempre cubierto de nieve en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> al N de esta <Concept_Settlement>Capital</Concept_Settlement>, a cuya falda pasa un <Concept_Landmark>río</Concept_Landmark> de bastante caudal que tiene la virtud de petrificar quanto cae entre sus aguas, hay cerca de él dos <Concept_Structure>haciendas</Concept_Structure> muy pingües, que la una tiene el mismo nombre, y la otra el de <LOC>Conrogal</LOC>. <zbr/>
@@ -616,11 +616,11 @@ TARAUMARA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory
 #demás <Concept_Group>Naciones</Concept_Group> teniendo lugar señalado y distante del <Concept_Settlement>Pueblo</Concept_Settlement> a modo de cementerio, donde ponían todo el ajuar que servía al difunto y comida para el viage, quemando luego la casa en que vivía: eran de natural suave y pacífico, y se reduxeron con facilidad a la Religión Católica por el citado <persName>Jesuíta</persName>, pero algunos años después volvieron a su idolatría: es el <Concept_Territory>país</Concept_Territory> de esta ##<Concept_Territory>Provincia</Concept_Territory> montuoso y áspero, pero abundante de <Concept_Landmark>minas</Concept_Landmark> de plata que se benefician en el Real de Santa Eulalia, que es casi el único producto, y el de los frutos de algunas <Concept_Structure>haciendas</Concept_Structure> con que se mantienen los <Concept_Settlement>Pueblos</Concept_Settlement> de las Misiones de los Religiosos de S. Francisco que hay en ella, además de la <Concept_Settlement>Capital</Concept_Settlement> que es la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement> S. Felipe de Chiguagua</Settlement>, son los siguientes. <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Real de S. Pedro. <zbr/>
+#<Concept_Settlement>Real</Concept_Settlement> de <Settlement>S. Pedro</Settlement>. <zbr/>
 <Settlement>Nombre de Dios</Settlement>. <zbr/>
 <Settlement>Cosiguirachi</Settlement>. <zbr/>
 <Settlement>Santa Ana</Settlement>. <zbr/>
-S. <LOC>Gerónimo</LOC>. <zbr/>
+<Settlement>S. Gerónimo</Settlement>. <zbr/>
 <Settlement>Chubica</Settlement>. <zbr/>
 <Settlement>Santa Isabel</Settlement>. <zbr/>
 <Settlement>Guadalupe</Settlement>. <zbr/>

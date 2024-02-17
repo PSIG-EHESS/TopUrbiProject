@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/css" href="../test.css"?>
+<?xml-stylesheet type="text/css" href=ß"../test.css"?>
 <xml>@@@Alcedo_vol_1-0546@@@
 <zbr/>
 <zbr/>#y está 5 leguas al NNO de la <Concept_Settlement>Capital</Concept_Settlement>. 
@@ -69,7 +69,6 @@
 <zbr/><Settlement>San Bernardo Tlaxcalzingo</Settlement>.
 <zbr/><Settlement>S. Antonio Cacalotepeque</Settlement>.
 <zbr/><Settlement>Santa Ana</Settlement>.
-<zbr/>
 <zbr/>###<Settlement>San Martín Tlanapa</Settlement>.
 <zbr/><Settlement>Sta</Settlement>.
 <zbr/><Settlement>María Quescomate</Settlement>.
@@ -89,13 +88,11 @@
 <zbr/><Settlement>San Lucas</Settlement>.
 <zbr/><Settlement>San Martín</Settlement>.
 <zbr/><Settlement>San Lorenzo</Settlement>.
-<zbr/>
 <zbr/>##<Settlement>Haltenango</Settlement>.
 <zbr/><Settlement>Santa Isabel</Settlement>.
 <zbr/><Settlement>Los Santos Reyes</Settlement>.
 <zbr/><Settlement>S. Pablo Ahuatempa</Settlement>. 
-<zbr/>
-<zbr/>###S. Mateo, distinto del otro.
+<zbr/>###<Settlement>S. Mateo</Settlement>, distinto del otro.
 <zbr/><Settlement>San Miguel Papalotla</Settlement>.
 <zbr/><Settlement>San Andrés de Cholula</Settlement>.
 <zbr/>
@@ -149,7 +146,7 @@
 <zbr/>
 <zbr/>#<Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Copia</Settlement>.
 <zbr/>§§§id_03874§§§
-<zbr/>CHOQUES, <Concept_Group>Nación bárbara</Concept_Group> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup> del <Territory>Nuevo Reyno de Granada</Territory>, inmediatos a los <Concept_Landmark>montes</Concept_Landmark> y <Concept_Landmark>bosques</Concept_Landmark> de <LOC>Fosca</LOC>: son feroces y crueles, y tienen sus cabanas cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Bermejo</Landmark>; hay pocas noticias ciertas de sus costumbres y de su <Concept_Territory>País</Concept_Territory>.
+<zbr/>CHOQUES, <Concept_Group>Nación bárbara</Concept_Group> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup> del <Territory>Nuevo Reyno de Granada</Territory>, inmediatos a los <Concept_Landmark>montes</Concept_Landmark> y <Concept_Landmark>bosques</Concept_Landmark> de <Landmark>Fosca</Landmark>: son feroces y crueles, y tienen sus cabanas cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Bermejo</Landmark>; hay pocas noticias ciertas de sus costumbres y de su <Concept_Territory>País</Concept_Territory>.
 <zbr/>§§§id_03875§§§
 <zbr/>CHORAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huamalies</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Jesús</Settlement>.
 <zbr/>§§§id_03876§§§
@@ -213,7 +210,7 @@
 <zbr/>§§§id_03901§§§
 <zbr/>Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lipes</Territory>, <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el <Territory>Perú</Territory>, en que sucedió el extraño caso de que yendo el Cura a confesar un enfermo al <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tahisá</Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Paria</Territory>, que era su anexo, se sumergió en un ojo de agua en las <LOC>Pampas</LOC> o <LOC>Llanos de la Sal</LOC>, con dos <humanGroup type="social_group">Indios</humanGroup> que lo acompañaban y sus caballerías, sin quedar vestigio alguno, por cuyo motivo se separó este <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_District>Curato</Concept_District> del otro.
 <zbr/>§§§id_03902§§§
-<zbr/>Una <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de ##<Territory>Sergipé</Territory> en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, con cuyo nombre también se la conoce fundada en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>, con un hermoso <Concept_Landmark>Puerto</Concept_Landmark> bien defendido: tiene una magnifica Iglesia Parroquial del título de Nuestra Señora de la Victoria: dos hermosos Conventos, el uno de Religiosos Franciscos, y el otro de Carmelitas, una devota Capilla de la Virgen del Rosario: la Casa del Consejo es un edificio de los más hermosos, y en su <Concept_Settlement>arrabal</Concept_Settlement> una Ermita de San Gonzalo, que es frecuentada romería del <Concept_Settlement>Pueblo</Concept_Settlement> y demás poblaciones de la <Concept_Territory>jurisdicción</Concept_Territory>: reside en esta <Concept_Settlement>Ciudad</Concept_Settlement> el Capitán Mayor que gobierna la <Concept_Territory>Provincia</Concept_Territory>, con una Compañía de tropa para su guarnición: tuvo en sus principios mucha nobleza, descendiente de las primeras familias de <Territory>Portugal</Territory>, que hoy está reducida a 500 <humanGroup type="social_group">vecinos</humanGroup>: en su <Concept_District>distrito</Concept_District> hacia la parte que llaman <LOC>Coninquiva</LOC> tiene una <Concept_District>Parroquia</Concept_District> con 4 Capillas, y hacia el <Concept_Landmark>río</Concept_Landmark> <Landmark>Vaza Barris</Landmark> otras 5, y 25 <Concept_Structure>ingenios</Concept_Structure> en que fabrican mucha azúcar de excelente calidad, de que mantiene un gran comercio con la 
+<zbr/>Una <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de ##<Territory>Sergipé</Territory> en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, con cuyo nombre también se la conoce fundada en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>, con un hermoso <Concept_Landmark>Puerto</Concept_Landmark> bien defendido: tiene una magnifica Iglesia Parroquial del título de Nuestra Señora de la Victoria: dos hermosos Conventos, el uno de Religiosos Franciscos, y el otro de Carmelitas, una devota Capilla de la Virgen del Rosario: la Casa del Consejo es un edificio de los más hermosos, y en su <Concept_Settlement>arrabal</Concept_Settlement> una Ermita de San Gonzalo, que es frecuentada romería del <Concept_Settlement>Pueblo</Concept_Settlement> y demás poblaciones de la <Concept_Territory>jurisdicción</Concept_Territory>: reside en esta <Concept_Settlement>Ciudad</Concept_Settlement> el Capitán Mayor que gobierna la <Concept_Territory>Provincia</Concept_Territory>, con una Compañía de tropa para su guarnición: tuvo en sus principios mucha nobleza, descendiente de las primeras familias de <Territory>Portugal</Territory>, que hoy está reducida a 500 <humanGroup type="social_group">vecinos</humanGroup>: en su <Concept_District>distrito</Concept_District> hacia la parte que llaman <LOC>Coninquiva</LOC> tiene una <Concept_District>Parroquia</Concept_District> con 4 Capillas, y hacia el <Concept_Landmark>río</Concept_Landmark> <Landmark>Vaza Barris</Landmark> otras 5, y 25 <Concept_Structure>ingenios</Concept_Structure> en que fabrican mucha azúcar de excelente calidad, de que mantiene un gran comercio con la 
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0556@@@
 <zbr/>
@@ -245,11 +242,11 @@
 <zbr/>§§§id_03913§§§
 <zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory> en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark> en la boca por donde entra el de <Landmark>Ovaripana</Landmark>.
 <zbr/>§§§id_03914§§§
-<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el partido del <Settlement>Sinu</Settlement>, situado a orilla del <Concept_Landmark>arroyo</Concept_Landmark> <Landmark>Pichelin</Landmark>, en la división de esta <Concept_Territory>jurisdicción</Concept_Territory> y la de <Territory>Tolu</Territory>: es uno de los que fundó el año de 1776 el Gobernador Don <persName>Juan Pimienta</persName>.
+<zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el partido del <Settlement>Sinu</Settlement>, situado a orilla del <Concept_Landmark>arroyo</Concept_Landmark> <Landmark>Pichelin</Landmark>, en la división de esta <Concept_Territory>jurisdicción</Concept_Territory> la de <Territory>Tolu</Territory>: es uno de los que fundó el año de 1776 el Gobernador Don <persName>Juan Pimienta</persName>.
 <zbr/>§§§id_03915§§§
 <zbr/>Otro del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, situado a orilla de un <Concept_Landmark>río</Concept_Landmark> que entra en el de <Landmark>Yguan</Landmark> al S del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Jesus María</Settlement>. 
 <zbr/>§§§id_03916§§§
-<zbr/>##Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Sergipé</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> entre el <Concept_Landmark>río</Concept_Landmark> <Landmark>Sirugipá</Landmark> y el de <Landmark>Vazabaris</Landmark>.
+<zbr/>##Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Sergipé</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> entre el <Concept_Landmark>río</Concept_Landmark> <Landmark>Sirugipá</Landmark> y el de <Landmark>Vazabaris</Landmark>.
 <zbr/>§§§id_03917§§§
 <zbr/>Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>, situado cerca de su <Concept_Settlement>Capital</Concept_Settlement>.
 <zbr/>§§§id_03918§§§
@@ -259,9 +256,9 @@
 <zbr/>§§§id_03920§§§
 <zbr/>Una <Concept_Landmark>Bahía</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>California</Territory> a la parte opuesta de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Nueva España</Territory>.
 <zbr/>§§§id_03921§§§
-<zbr/>Una <Concept_Landmark>Isleta</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> en lo interior de la <Concept_Landmark>Bahía</Concept_Landmark> y <Concept_Landmark>Puerto</Concept_Landmark> del <LOC>Cuí de Sac grand</LOC> de la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Guadalupe</Territory>. 
+<zbr/>Una <Concept_Landmark>Isleta</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> en lo interior de la <Concept_Landmark>Bahía</Concept_Landmark> y <Concept_Landmark>Puerto</Concept_Landmark> del <Landmark>Cuí de Sac grand</Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Guadalupe</Territory>. 
 <zbr/>§§§id_03922§§§
-<zbr/>SAN CHRISTIANO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y de <Territory>Sergipé</Territory> en el <Territory>Brasil</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> y a la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Cirii</Landmark>.
+<zbr/>SAN CHRISTIANO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Sergipé</Territory> en el <Territory>Brasil</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> y a la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Cirii</Landmark>.
 <zbr/>§§§id_03923§§§
 <zbr/>CHUAO, <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> al O del <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Guaira</Landmark>. 
 <zbr/>
@@ -301,7 +298,7 @@
 <zbr/>§§§id_03939§§§
 <zbr/>CHUCO, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huamachuco</Territory> en el <Territory>Perú</Territory>.
 <zbr/>§§§id_03940§§§
-<zbr/>CHUCUITO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Perú</Territory>: confina por el E con la gran <Concept_Landmark>laguna</Concept_Landmark> de su nombre, y parte de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Omasuyos</Territory>: por el N con la de <Territory>Paucarcolla</Territory> o <Territory>Puno</Territory>, por el SE con la de <Territory>Pacages</Territory>, y por el SO y O con la <Concept_Landmark>Cordillera</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> que mira a <Settlement>Móquehua</Settlement>: tiene 25 leguas de largo N S, y 36 de ancho: estuvo sumamente poblada al tiempo de la conquista, y así se consideró por opulenta, gozando sus Gobernadores el mando político, Vice Patronato y <Concept_Territory>Capitanía</Concept_Territory> y General de las <Concept_Territory>Provincias</Concept_Territory> inmediatas, inclusas algunas de la <Concept_Landmark>Costa</Concept_Landmark>: es de temperamento frío pero sano, particularmente en los meses de lluvias que son Diciembre, Enero, Febrero y Marzo: las cosechas son generalmente de papas dulces y amargas, de que ha
+<zbr/>CHUCUITO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Perú</Territory>: confina por el E con la gran <Concept_Landmark>laguna</Concept_Landmark> de su nombre, y parte de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Omasuyos</Territory>: por el N con la de <Territory>Paucarcolla</Territory> o <Territory>Puno</Territory>, por el SE con la de <Territory>Pacages</Territory>, y por el SO y O con la <Concept_Landmark>Cordillera</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> que mira a <Settlement>Móquehua</Settlement>: tiene 25 leguas de largo N S, y 36 de ancho: estuvo sumamente poblada al tiempo de la conquista, y así se consideró por opulenta, gozando sus Gobernadores el mando político, Vice Patronato y <Concept_Territory>Capitanía</Concept_Territory> General de las <Concept_Territory>Provincias</Concept_Territory> inmediatas, inclusas algunas de la <Concept_Landmark>Costa</Concept_Landmark>: es de temperamento frío pero sano, particularmente en los meses de lluvias que son Diciembre, Enero, Febrero y Marzo: las cosechas son generalmente de papas dulces y amargas, de que ha
 <zbr/>
 <zbr/>@@@Alcedo_vol_1-0560@@@
 <zbr/>
@@ -312,8 +309,7 @@
 <zbr/><Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>San Antonio de Esquilache</Settlement>.
 <zbr/>##<Settlement>Pomata</Settlement>.
 <zbr/><Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>Huacullani</Settlement>.
-    <zbr/><Concept_Settlement>Asiento</Concept_Settlement> del <Settlement>Desaguadero</Settlement>. 
-<zbr/>
+<zbr/><Concept_Settlement>Asiento</Concept_Settlement> del <Settlement>Desaguadero</Settlement>. 
 <zbr/>###<Settlement>Acora</Settlement>.
 <zbr/><Settlement>Hilave</Settlement>.
 <zbr/><Settlement>July</Settlement>.
@@ -328,12 +324,11 @@
 <zbr/>#La <Concept_Landmark>laguna</Concept_Landmark> que aunque tiene el mismo nombre se llama también <Landmark>Titicaca</Landmark>, tiene 51 leguas de largo NO SE, y 26 de ancho, aunque mé##nos por algunas partes: ensus riberas hay <Concept_Settlement>Pueblos</Concept_Settlement> de o <Concept_Territory>Provincias</Concept_Territory> o <Concept_Territory>Corregimientos</Concept_Territory>, que son: esta.
 <zbr/>
 <zbr/>ßßß
-<zbr/>#Pacages.
-<zbr/>Omasuyos.
-<zbr/>##<Settlement>Paucarcolla</Settlement>.
-<zbr/>
-<zbr/>###<Settlement>Lampa</Settlement>. 
-<zbr/><Settlement>Asangaro</Settlement>.
+<zbr/>#<Territory>Pacages</Territory>.
+<zbr/><Territory>Omasuyos</Territory>.
+<zbr/>##<Territory>Paucarcolla</Territory>.
+<zbr/>###<Territory>Lampa</Territory>. 
+<zbr/><Territory>Asangaro</Territory>.
 <zbr/>$$$
 <zbr/>
 <zbr/>#Tiene fondo suficiente para toda especie de embarcaciones, pues en muchas <Concept_Landmark>Ensenadas</Concept_Landmark> no léjos de las orillas hay 4 y 6 brazas de fondo, y adentro 40 y 50 y sin que se conozcan baxos o bancos cerca de sus orillas se crían unos yervales que llaman llacchos, y entran a comer las vacas y los cerdos, y mucha totora o enea, que en partes sabe más de vara y media, de las quales hacen los <humanGroup type="social_group">Indios</humanGroup> sus balsas, no solo para pescar, sino para, navegar de unas partes a otras, y para pasar los ganados y frutos de sus cosechas, de las muchas <Concept_Landmark>Islas</Concept_Landmark> que hay en la <Concept_Landmark>laguna</Concept_Landmark>, algunas tan cercadas de totora y tan tupida, que es necesario a fuerza abrir paso para entrar en ellas: en una de las mayores tuvieron los Incas un templo magnífico dedicado al Sol, que fue el primero: también tie##ne esta <Concept_Landmark>laguna</Concept_Landmark> sus tormentas que han ocasionado muchas desgracias por los vientos fuertes que allí corren sus aguas son gruesas; pero las beben los ganados y aun los <humanGroup type="social_group">Indios</humanGroup>; y de estos la <Concept_Group>nación</Concept_Group> de los <humanGroup type="indigenous_group">Hunos</humanGroup> y que es una casta de pobres rústicos, que vivían antiguamente en las <Concept_Landmark>Islas</Concept_Landmark> con mucha miseria, y a fuerza de exhortaciones con bastante trabajo han salido a tierra, y se acomodan a vivir en unas tristes cuevas, y en excavaciones que cubren con esteras de totora, y se ocupan en la pesca; cría, la <Concept_Landmark>laguna</Concept_Landmark> varios peces, como son bagres, ornantos, suches, anchovetas y boquillas en abundancia, éstas son por lo común de cerca de un palmo de largo y tres pulgadas de grueso; los <humanGroup type="social_group">Indios</humanGroup> de <LOC>Yunguyo</LOC> sacan más de 700.000 al año, y las venden a 4 y a 6 pesos el millar: tam
@@ -356,7 +351,7 @@
 <zbr/>§§§id_03948§§§
 <zbr/>CHUGOD, Santa Catalina de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarca</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Chetu</Settlement>.
 <zbr/>§§§id_03949§§§
-<zbr/>CHUI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> y del <Territory>Rey</Territory> en el <Territory>Brasil</Territory>: corre al S, y torciendo al E entra en la <Concept_Landmark>laguna</Concept_Landmark> del <Landmark>Mini</Landmark>.
+<zbr/>CHUI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el <Territory>Brasil</Territory>: corre al S, y torciendo al E entra en la <Concept_Landmark>laguna</Concept_Landmark> del <Landmark>Mini</Landmark>.
 <zbr/>§§§id_03950§§§
 <zbr/>Tiene el mismo nombre 
 <zbr/>
@@ -376,7 +371,7 @@
 <zbr/>§§§id_03956§§§
 <zbr/>CHULINA, <Concept_Settlement>Pueblo</Concept_Settlement> de la: <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Larecaja</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Charazani</Settlement>.
 <zbr/>§§§id_03957§§§
-<zbr/>CHULISANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y Corregimien##to de <Territory>Andahuailas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Cachi</Settlement>. 
+<zbr/>CHULISANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Corregimien##to de <Territory>Andahuailas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Cachi</Settlement>. 
 <zbr/>§§§id_03958§§§
 <zbr/>CHULUMANI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cicasica</Territory> en el <Territory>Perú</Territory>.
 <zbr/>§§§id_03959§§§
@@ -400,7 +395,7 @@
 <zbr/>§§§id_03966§§§
 <zbr/>CHUMBICHA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>, situado al O de la <Concept_Settlement>Villa</Concept_Settlement> de <Territory>San Fernando de Catamarca</Territory>.
 <zbr/>§§§id_03967§§§
-<zbr/>CHUMBICOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y Corre##gimiento de <Territory>Piura</Territory> en el <Territory>Perú</Territory>, situado a orilla de un pequeño <Concept_Landmark>río</Concept_Landmark> del mismo nombre.
+<zbr/>CHUMBICOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Corre##gimiento de <Territory>Piura</Territory> en el <Territory>Perú</Territory>, situado a orilla de un pequeño <Concept_Landmark>río</Concept_Landmark> del mismo nombre.
 <zbr/>§§§id_03968§§§
 <zbr/>CHUMBILLA, <Concept_Landmark>Monte</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huamanga</Territory> en el <Territory>Perú</Territory>, célebre por una rica <Concept_Landmark>mina</Concept_Landmark> de plata que hay en él, distante 3 leguas de un Pueblocito llamado la <LOC>Canaria</LOC>, que hoy está abandonado y desierto.
 <zbr/>§§§id_03969§§§
@@ -419,13 +414,13 @@
 <zbr/><Settlement>Alahamaca</Settlement>.
 <zbr/><Settlement>Toro</Settlement>.
 <zbr/>##<Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>Quivio</Settlement>.
-<zbr/><Settlement>Colquemarca</Settlement>, <Settlement>Yanqui</Settlement>.
+<zbr/><Settlement>Colquemarca</Settlement>. 
+<zbr/><Settlement>Yanqui</Settlement>.
 <zbr/><Settlement>Capacmarca</Settlement>
 <zbr/><Settlement>.Cancahuana</Settlement>.
 <zbr/><Settlement>Llauzco</Settlement>.
 <zbr/><Settlement>Caspi</Settlement>.
-<zbr/>
-<zbr/>###Quiñota.
+<zbr/>###<Settlement>Quiñota</Settlement>.
 <zbr/><Settlement>Santo Tomás</Settlement>.
 <zbr/><Settlement>Alca</Settlement>.
 <zbr/><Settlement>Puica</Settlement>.
@@ -514,11 +509,11 @@
 <zbr/>§§§id_04001§§§
 <zbr/>CHUQUICARA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamachuco</Territory>: nace en ella, y entra en el de <Landmark>Santa</Landmark>, mudando en este nombre el suyo luego que toca la raya de esta <Concept_Territory>jurisdicción</Concept_Territory>, y la divide de las de <Territory>Truxilío</Territory> y <Territory>Guamachuco</Territory>.
 <zbr/>§§§id_04002§§§
-<zbr/>CHUQUICOTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y Cor##regimiento de <Territory>Carangas</Territory> y <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el <Territory>Perú</Territory>.
+<zbr/>CHUQUICOTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Cor##regimiento de <Territory>Carangas</Territory> y <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el <Territory>Perú</Territory>.
 <zbr/>§§§id_04003§§§
 <zbr/>CHUQUILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lipes</Territory> y <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>San Christobal</Settlement>.
 <zbr/>§§§id_04004§§§
-<zbr/>CHUQUI-MAYU, <Concept_Landmark>Río</Concept_Landmark> del <Territory>Perú</Territory>: nace en las <Concept_Landmark>montañas</Concept_Landmark> de <LOC>Jaen de Bracamoros</LOC> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>; y después de bañar el <Concept_Territory>territorio</Concept_Territory> del <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Piura</Territory>, entra en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en 5 grad. 32 min. de lat. aust.
+<zbr/>CHUQUI-MAYU, <Concept_Landmark>Río</Concept_Landmark> del <Territory>Perú</Territory>: nace en las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Jaen de Bracamoros</Landmark> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>; y después de bañar el <Concept_Territory>territorio</Concept_Territory> del <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Piura</Territory>, entra en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en 5 grad. 32 min. de lat. aust.
 <zbr/>§§§id_04005§§§
 <zbr/>CHUQUINGA, <Concept_Settlement>Pueblo</Concept_Settlement> inmediato al de <Settlement>Nasca</Settlement>, quasi a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Amancay</Landmark>, donde hay un paso estrecho y difícil, por donde apenas pueden pasar dos hombres de frente con trabajo, y de un lado está la <Concept_Landmark>montaña</Concept_Landmark> casi perpendicular, y del otro un precipicio que va al <Concept_Landmark>río</Concept_Landmark>, en cuyo sitio gano una completa victoria el año de 1554 el rebelde <persName>Francisco Hernández Girón</persName>, contra el Mariscal <persName>Alonso de Alvarado</persName>, ambos Gefes de facción de dos partidos por sus intereses particulares, que fomentaban las guerras civiles del <Territory>Perú</Territory>. 
 <zbr/>§§§id_04005a§§§
