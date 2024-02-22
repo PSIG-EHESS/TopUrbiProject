@@ -27,7 +27,7 @@
     <Landmark>Maluinas</Landmark> o de <Landmark>Falkland</Landmark>, a la parte del O de la
     principal, donde poblaron los <humanGroup type="political_group">Franceses</humanGroup> el
         <Concept_Settlement>Pueblo</Concept_Settlement> y
-        <Concept_Structure>Castillo</Concept_Structure> de <Settlement> S. Luis</Settlement> el año
+        <Concept_Structure>Castillo</Concept_Structure> de <Settlement>S. Luis</Settlement> el año
     de 1763. <zbr/>
     <zbr/> §§§id_05358§§§ <zbr/> DACINO, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Sucumbius</Territory> en el
@@ -70,8 +70,8 @@
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> en el
         <Concept_Territory>territorio</Concept_Territory> que poseen los <humanGroup
         type="political_group">Franceses</humanGroup>, nace cerca de la
-        <Concept_Landmark>Costa</Concept_Landmark> del S en la Cabeza del O, corre al S, y sale al
-        <Concept_Landmark>mar</Concept_Landmark> entre el
+        <Concept_Landmark>Costa</Concept_Landmark> del S en la <Landmark>Cabeza</Landmark> del O,
+    corre al S, y sale al <Concept_Landmark>mar</Concept_Landmark> entre el
         <Concept_Landmark>Puerto</Concept_Landmark>
     <Landmark>Pimiento</Landmark> y la <Concept_Landmark>Ensenada</Concept_Landmark> de los
         <Landmark>Collados</Landmark>, <zbr/>
@@ -96,7 +96,7 @@
     de una <Concept_Landmark>laguna</Concept_Landmark> corre al S, y sale al
         <Concept_Landmark>mar</Concept_Landmark> entre las
         <Concept_Landmark>Bahías</Concept_Landmark> de <Landmark>Broad</Landmark> y de
-        <Territory>Sagadahock</Territory>. <zbr/>
+        <Landmark>Sagadahock</Landmark>. <zbr/>
     <zbr/> §§§id_05370§§§ <zbr/> DAME, Notre o nuestra Señora)
         <Concept_Landmark>Montes</Concept_Landmark> de la <Territory>Nueva Escocia</Territory> o
         <Territory>Acadia</Territory>, en la <Concept_Landmark>Península</Concept_Landmark> de los
@@ -143,8 +143,9 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, corre al SSE,
     y entra en el de <Landmark>Temuco</Landmark>. <zbr/>
     <zbr/> §§§id_05378§§§ <zbr/> DANIEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el dis##trito
-    de la <Concept_District>Parroquia</Concept_District> de <Settlement> S. Joseph</Settlement>,
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
+        <Concept_District>dis##trito</Concept_District> de la
+        <Concept_District>Parroquia</Concept_District> de <Settlement> S. Joseph</Settlement>,
     situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
     <zbr/> §§§id_05379§§§ <zbr/> Tiene el mismo nombre un
         <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark>
@@ -158,16 +159,16 @@
         <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory>, situado
     a orilla del caudaloso <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Negro</Landmark>, cerca de la boca donde le entra el <Landmark>Jurubasi</Landmark>: es
-        <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tienen los Religiosos
-    Carmelitas de <Territory>Portugal</Territory>. <zbr/>
+        <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tienen los
+        <humanGroup>Religiosos Carmelitas</humanGroup> de <Territory>Portugal</Territory>. <zbr/>
     <zbr/> §§§id_05381§§§ <zbr/> Tiene el mismo nombre un <Concept_Landmark>brazo</Concept_Landmark>
     del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Parime</Landmark> o Paravillanas, uno de los quatro, y el primero con que entra en el
-        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Parime</Landmark> o <Landmark>Paravillanas</Landmark>, uno de los quatro, y el primero
+    con que entra en el <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Negro</Landmark>. <zbr/>
     <zbr/> §§§id_05382§§§ <zbr/> DARIBAZANA, <Concept_Settlement>Pueblo</Concept_Settlement> de las
-    Misiones que tienen los Religiosos Carmelitas de <Territory>Portugal</Territory> en la
-        <Concept_Territory>Provincia</Concept_Territory> y
+    Misiones que tienen los <humanGroup>Religiosos Carmelitas</humanGroup> de
+        <Territory>Portugal</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory>, situado
     a orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Negro</Landmark>. <zbr/>
@@ -186,30 +187,30 @@
     aunque abandonado y sin cultivo, pues solo produce algún cacao y tabaco en corta porción, pero
     de excelente calidad uno y otro: rieganla infinitos <Concept_Landmark>ríos</Concept_Landmark>,
     que unos desaguan en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> y
-    otros en la del N, en cuyas arenas llevan porción de oro de las muchas
+    otros en la del <Landmark>N</Landmark>, en cuyas arenas llevan porción de oro de las muchas
         <Concept_Landmark>minas</Concept_Landmark> de este metal que tiene, y de que era la más
-    copiosa la de Santa Cruz de Caña, de que se ha sacado infinita riqueza en otros tiempos. Fue
-    esta <Concept_Territory>Provincia</Concept_Territory> la primera de
+    copiosa la de <Settlement>Santa Cruz de Caña</Settlement>, de que se ha sacado infinita riqueza
+    en otros tiempos. Fue esta <Concept_Territory>Provincia</Concept_Territory> la primera de
         <Territory>Tierra-Firme</Territory> en que se establecieron los <humanGroup
         type="political_group">Españoles</humanGroup>, conquistándola el Adelantado <persName>Vasco
         Nuñez de Balboa</persName>, en que trabajó con indecible valor el célebre
         <persName>Francisco Pizarro</persName>, Conquistador después del
     <Territory>Perú</Territory>: el clima es muy húmedo y enfermizo, por cuya razón se abandonaron
     las <Concept_Settlement>Poblaciones</Concept_Settlement> que había, quedando solo un
-        <Concept_Settlement>Pueblo</Concept_Settlement> corto de Es##pañoles con un pequeño
-        <Concept_Structure>Fuerte</Concept_Structure>, que se guarnecía con un Destacamento que iba
-    todos los meses de <Territory>Panamá</Territory>, a fin de guardar y custodiar la
-        <Concept_Landmark>mina</Concept_Landmark> que hemos referido. Sus <humanGroup
-        type="social_group">naturales</humanGroup>, que por numeración que hizo el año de 1747 su
-    Gobernador D. <persName>Joaquín Valcarcel de Miranda</persName>, componían 5.000 familias, son
-    valerosos y atrevidos, pero crueles, estupidos y de mala fe, incapaces de reducirse a la
-    Religión ni a vida civil, aunque en la apariencia lo han estado varias veces, pero vuelven luego
-    a su idolatría retirándose a los <Concept_Landmark>montes</Concept_Landmark>: viven de la pesca
-    y de la caza en que son diestrísimos así con la flecha, cuyos arcos son de una madera muy
-    fuerte, pero flexible, que llaman chonta: la flecha es de una cañita muy ligera llamada viruli,
-    y la punta de huesos de pescado, o de la misma chonta tostada: prefieren para su alimento la
-    carne del mono, de que hay increíble abundancia de varias especies: son muy dados a la
-    embriaguez, y a la sensualidad: para lo primero usan una bebida que llaman mazato, y es un <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> corto de <humanGroup type="political_group"
+        >Es##pañoles</humanGroup> con un pequeño <Concept_Structure>Fuerte</Concept_Structure>, que
+    se guarnecía con un Destacamento que iba todos los meses de <Territory>Panamá</Territory>, a fin
+    de guardar y custodiar la <Concept_Landmark>mina</Concept_Landmark> que hemos referido. Sus
+        <humanGroup type="social_group">naturales</humanGroup>, que por numeración que hizo el año
+    de 1747 su Gobernador D. <persName>Joaquín Valcarcel de Miranda</persName>, componían 5.000
+    familias, son valerosos y atrevidos, pero crueles, estupidos y de mala fe, incapaces de
+    reducirse a la Religión ni a vida civil, aunque en la apariencia lo han estado varias veces,
+    pero vuelven luego a su idolatría retirándose a los <Concept_Landmark>montes</Concept_Landmark>:
+    viven de la pesca y de la caza en que son diestrísimos así con la flecha, cuyos arcos son de una
+    madera muy fuerte, pero flexible, que llaman chonta: la flecha es de una cañita muy ligera
+    llamada viruli, y la punta de huesos de pescado, o de la misma chonta tostada: prefieren para su
+    alimento la carne del mono, de que hay increíble abundancia de varias especies: son muy dados a
+    la embriaguez, y a la sensualidad: para lo primero usan una bebida que llaman mazato, y es un <zbr/>
     <zbr/> @@@Alcedo_vol_2-0005@@@ <zbr/>
     <zbr/> #fermento del maíz y del plátano; andan quasi desnudos, y solo llevan un pañete que les
     cubren por delante, y llaman panequiri; traen todos por gala unas argollitas de oro pendientes
@@ -224,35 +225,37 @@
         <Concept_Landmark>Mares</Concept_Landmark>, su fertilidad si se cultivara, y su riqueza, han
     excitado el deseo de establecerse en ella los <humanGroup type="political_group"
         >Ingleses</humanGroup> y <humanGroup type="political_group">Franceses</humanGroup>: aquellos
-    lo executaron el año de 1699 en el Puer##to de la <Settlement>Calidonia</Settlement>, de donde
-    fueron echados por los <humanGroup type="political_group">Españoles</humanGroup>; y los otros
-    empezaron a establecerse el de 1740, dando principio a las
-        <Concept_Structure>plantaciones</Concept_Structure> de tabaco; pero el de 1754 fueron
-    pasados a cuchillo por los <humanGroup type="social_group">Indios</humanGroup> sugeridos de los
-        <humanGroup type="political_group">Ingleses</humanGroup>, que les habían dado armas, y
-    enseñado el uso del fusil con tanta destreza como la flecha. Son enemigos de sus confinantes los
-        <humanGroup type="indigenous_group">Chocoes</humanGroup>, con quienes tienen continua guerra
-    jurada de padres a hijos, por haber dado muerte los del <Settlement>Darién</Settlement> a un
-    Cura que tenían estos en mucha veneración a fines del siglo pasado, y desde entonces traen todos
-    para beber el cráneo de una calavera de Indio del <Settlement>Darién</Settlement> muerto por sus
-    manos, lo qual y las repetidas epidemias de viruelas han disminuido mucho el número: no es menos
-    el odio que tienen a los <humanGroup type="political_group">Españoles</humanGroup>, contra
-    quienes se sublevaron el año de 1719 haciendo increíbles crueldades, hasta que el año de 1740
-    hicieron la paz con el Teniente General D. <persName>Dionisio Martínez de la Vega</persName>,
-    Presidente Gobernador y Capitán General del <Concept_Territory>Reyno</Concept_Territory>, siendo <zbr/>
+    lo executaron el año de 1699 en el <Concept_Landmark>Puer##to</Concept_Landmark> de la
+        <Settlement>Calidonia</Settlement>, de donde fueron echados por los <humanGroup
+        type="political_group">Españoles</humanGroup>; y los otros empezaron a establecerse el de
+    1740, dando principio a las <Concept_Structure>plantaciones</Concept_Structure> de tabaco; pero
+    el de 1754 fueron pasados a cuchillo por los <humanGroup type="social_group">Indios</humanGroup>
+    sugeridos de los <humanGroup type="political_group">Ingleses</humanGroup>, que les habían dado
+    armas, y enseñado el uso del fusil con tanta destreza como la flecha. Son enemigos de sus
+    confinantes los <humanGroup type="indigenous_group">Chocoes</humanGroup>, con quienes tienen
+    continua guerra jurada de padres a hijos, por haber dado muerte los del
+        <Settlement>Darién</Settlement> a un Cura que tenían estos en mucha veneración a fines del
+    siglo pasado, y desde entonces traen todos para beber el cráneo de una calavera de Indio del
+        <Settlement>Darién</Settlement> muerto por sus manos, lo qual y las repetidas epidemias de
+    viruelas han disminuido mucho el número: no es menos el odio que tienen a los <humanGroup
+        type="political_group">Españoles</humanGroup>, contra quienes se sublevaron el año de 1719
+    haciendo increíbles crueldades, hasta que el año de 1740 hicieron la paz con el Teniente General
+    D. <persName>Dionisio Martínez de la Vega</persName>, Presidente Gobernador y Capitán General
+    del <Concept_Territory>Reyno</Concept_Territory>, siendo <zbr/>
     <zbr/> @@@Alcedo_vol_2-0006@@@ <zbr/>
     <zbr/> #condición precisa que se reduxesen a
-        <Concept_Settlement>Poblaciones</Concept_Settlement> y admitiesen Misioneros que los
-    instruyesen en la Religión Católica, a cuyo efecto envió el Virrey de <Territory>Santa
-        Fé</Territory>, que era entonces D. <persName>Sebastián de Eslaba</persName>, dos Jesuítas
-    de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cartagena</Territory> por
-    la vanda del N, que fueron los Padres <persName>Salvador Grande</persName> y <persName>Pedro
-        Fabro</persName>; y por la del <Territory>Sur</Territory>, el Presidente de Panamia, a los
-    Padres <persName>Matías Alvarez</persName> y <persName>Claudio Escobar</persName>, que con el
-    mayor zelo formaron los <Concept_Settlement>Pueblos</Concept_Settlement> de
-        <Settlement>Morineca</Settlement>, <Settlement>Balzas</Settlement>,
-        <Settlement>Tucuti</Settlement>, <Settlement>Chucunaque</Settlement>,
-        <Settlement>Cupa</Settlement> y Yabiza; pero quando creyeron haber logrado el fruto de sus
+        <Concept_Settlement>Poblaciones</Concept_Settlement> y admitiesen
+        <Concept_Group>Misioneros</Concept_Group> que los instruyesen en la Religión Católica, a
+    cuyo efecto envió el Virrey de <Territory>Santa Fé</Territory>, que era entonces D.
+        <persName>Sebastián de Eslaba</persName>, dos Jesuítas de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cartagena</Territory> por la
+    vanda del N, que fueron los Padres <persName>Salvador Grande</persName> y <persName>Pedro
+        Fabro</persName>; y por la del Sur, el Presidente de Panamia, a los Padres <persName>Matías
+        Alvarez</persName> y <persName>Claudio Escobar</persName>, que con el mayor zelo formaron
+    los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Morineca</Settlement>,
+        <Settlement>Balzas</Settlement>, <Settlement>Tucuti</Settlement>,
+        <Settlement>Chucunaque</Settlement>, <Settlement>Cupa</Settlement> y
+        <Settlement>Yabiza</Settlement>; pero quando creyeron haber logrado el fruto de sus
     trabajos, abandonaron los <Concept_Settlement>Pueblos</Concept_Settlement> volviendo a los
     errores de su idolatria y al retiro de sus <Concept_Landmark>montañas</Concept_Landmark>, y los
     Padres se salvaron milagrosamente, debiendo la vida al aviso de una India vieja, con lo qual se
@@ -260,9 +263,9 @@
     libertase de tributos por cierto tiempo a los <humanGroup type="social_group"
         >Indios</humanGroup> del <Territory>Chocó</Territory>, y se les diese libertad de entrar a
     exterminarlos, pero pareció al Gobierno demasiada crueldad: el año pasado de 1786 intentó su
-    conquista por armas el Virrey y Arzobispo de <Territory>Santa Fe</Territory> D. Antonio
-        <persName>Caballero y Góngora</persName>, disponiendo una expedición al cargo del Brigadier
-    D. <persName>Antonio Arévalo</persName>, que hizo diferentes
+    conquista por armas el Virrey y Arzobispo de <Territory>Santa Fe</Territory> D.
+        <persName>Antonio Caballero y Góngora</persName>, disponiendo una expedición al cargo del
+    Brigadier D. <persName>Antonio Arévalo</persName>, que hizo diferentes
         <Concept_Settlement>establecimientos</Concept_Settlement> y
         <Concept_Settlement>Pueblos</Concept_Settlement>; pero el mal clima y la ferocidad de
     aquellos <humanGroup type="social_group">Indios</humanGroup> no han permitido aún el cabal logro
@@ -275,14 +278,15 @@
     todos los meses: fue la primera <Concept_Settlement>Población</Concept_Settlement> de la
         <Territory>América</Territory> en el continente, fundada el año de 1509 por el Licenciado
         <persName>Enciso de orden de Pedrarias Dávila</persName>, y obtuvo título de
-        <Concept_Settlement>Ciudad</Concept_Settlement> y Cabeza de
+        <Concept_Settlement>Ciudad</Concept_Settlement> y
+        <Concept_Settlement>Cabeza</Concept_Settlement> de
         <Concept_Territory>Obispado</Concept_Territory> erigido el de 1531, que luego se trasladó a
         <Settlement>Panamá</Settlement>, y fue poco a poco decayendo y despoblándose por su mal
     clima hasta haberse reducido a un <Concept_Settlement>Pueblo</Concept_Settlement> miserable, que
     ha sido <zbr/>
     <zbr/> @@@Alcedo_vol_2-0007@@@ <zbr/>
-    <zbr/> #invadido varias veces de los <humanGroup type="social_group">Indios</humanGroup> pasando
-    a cuchillo su vecindario, y con especialidad en los años de 1724 y 1750: el Emperador
+    <zbr/> #invadido varias veces de los <Concept_Group type="social_group">Indios</Concept_Group>
+    pasando a cuchillo su vecindario, y con especialidad en los años de 1724 y 1750: el Emperador
         <persName>Carlos V</persName> la concedió por armas un castillo de oro en campo roxo, y
     encima un sol del mismo metal, y a los lados un león rapante y un cocodrilo: está 9 leguas de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, y 25 de
@@ -325,9 +329,10 @@
     anonas, zapotes, mameyes, chirimoyas, papayas, badeas, aguacates, naranjas, sandías, melones,
     yucas, maíz y cañas dulces, de que hacen mucha miel: produce asimismo mucho ganado, cacao,
     tabaco, algodón, quesos y manteca de vacas; de cuyos frutos, y de la caza de aves que abundan en
-    sus <Concept_Landmark>ciénegas</Concept_Landmark> y lagunétas, como patos, patillos, pavas,
-    guacharacas, paugies, torcaces, perdices, faysanes, garzas y pachaes, que son como las
-    codornices de <Territory>Europa</Territory> no solo se provee para su regalo este
+    sus <Concept_Landmark>ciénegas</Concept_Landmark> y
+        <Concept_Landmark>lagunétas</Concept_Landmark>, como patos, patillos, pavas, guacharacas,
+    paugies, torcaces, perdices, faysanes, garzas y pachaes, que son como las codornices de
+        <Territory>Europa</Territory> no solo se provee para su regalo este
         <Concept_District>partido</Concept_District>, sino que abastece a los demas, y
     particularmente a la <Concept_Settlement>Capital</Concept_Settlement>, haciendo un mercado
     general por sus riberas todos los Viernes del año, con tan numeroso tráfico de todo género de em <zbr/>
@@ -335,13 +340,14 @@
     <zbr/> #barcaciones y gentes que es increíble: gobiérnase por un Teniente que nombraba antes el
     Gobernador de la <Concept_Territory>Provincia</Concept_Territory>, y después el Virrey de
         <Territory>Santa Fe</Territory>, y en lo Eclesiástico por un Cura Doctrinero, que era de la
-    Religión de Santo Domingo, con tres o quatro Tenientes para la administración de Sacramentos en
-    los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Daule</Settlement>,
-        <Settlement>Santa Lucía</Settlement>, y el <Settlement>Balsar</Settlement>, como en las
-    casas de campo y <Concept_Structure>haciendas</Concept_Structure>, que en todo pasan de
-        40<humanGroup type="social_group">personas blancas</humanGroup>, sin los <humanGroup
-        type="social_group">esclavos</humanGroup> y <humanGroup type="social_group">gente de
-        color</humanGroup>. La <Concept_Settlement>Capital</Concept_Settlement> de este
+    Religión de <Territory>Santo Domingo</Territory>, con tres o quatro Tenientes para la
+    administración de Sacramentos en los <Concept_Settlement>Pueblos</Concept_Settlement> de
+        <Settlement>Daule</Settlement>, <Settlement>Santa Lucía</Settlement>, y el
+        <Settlement>Balsar</Settlement>, como en las casas de campo y
+        <Concept_Structure>haciendas</Concept_Structure>, que en todo pasan de 40<humanGroup
+        type="social_group">personas blancas</humanGroup>, sin los <humanGroup type="social_group"
+        >esclavos</humanGroup> y <humanGroup type="social_group">gente de color</humanGroup>. La
+        <Concept_Settlement>Capital</Concept_Settlement> de este
         <Concept_District>Partido</Concept_District> tiene el mismo nombre. <zbr/>
     <zbr/> §§§id_05391§§§ <zbr/> Un <Concept_Landmark>río</Concept_Landmark> caudaloso y navegable
     de la misma <Concept_Territory>Provincia</Concept_Territory>, que corre del N a Poniente, y
@@ -359,7 +365,7 @@
     <Landmark>Pasao</Landmark>, y de la <Concept_Territory>Provincia</Concept_Territory> de
         <Territory>Esmeraldas</Territory> retirados aquí: después de correr este
         <Concept_Landmark>río</Concept_Landmark> más de 20 leguas, desemboca en el de
-        <Territory>Guayaquil</Territory> por su parte occidental en 2 grad. 8 min. de lat. aust. <zbr/>
+        <Landmark>Guayaquil</Landmark> por su parte occidental en 2 grad. 8 min. de lat. aust. <zbr/>
     <zbr/> §§§id_05392§§§ <zbr/> DAUFUSQUI, <Concept_Landmark>Isla</Concept_Landmark> de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Georgia</Territory> en la
@@ -372,7 +378,7 @@
         <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Concept_District>Partido</Concept_District> de <Settlement>Chiriqui</Settlement> en la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de Veragua y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: fue en
     sus principios una hermita situada 20 leguas del <Concept_Settlement>Pueblo</Concept_Settlement>
     de <Settlement> S. Lorenzo</Settlement>, mediando una áspera
@@ -407,17 +413,18 @@
         <Concept_Landmark>Cabo</Concept_Landmark>
     <Landmark>Farewel</Landmark> en 60 gr. de lat. sept. hasta la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Baffin</Landmark> en 80, toma el
-    nombre de Juan <Landmark>Davis</Landmark>, que fue el primero que lo descubrió el año de 1585:,
+    nombre de <Landmark>Juan Davis</Landmark>, que fue el primero que lo descubrió el año de 1585:,
     intentando con dos barcas buscar la <Concept_Landmark>Costa</Concept_Landmark> del NO, y llegó
     al <Concept_Landmark>Cabo</Concept_Landmark> de <Territory>Groenlandia</Territory> en 62 gr. de
     lat. donde empieza el <Concept_Landmark>Estrecho</Concept_Landmark>, y puso por nombre a este
-        <Concept_Landmark>Cabo</Concept_Landmark> de Desolación; en él halló mucha especie de pieles
-    de castor y otros animales, de que hizo comercio a cambio de mercancías con aquellos <humanGroup
-        type="social_group">Indios</humanGroup>, que en sus canoas seguían las barcas para llevarles
-    pieles de castor, de liebre blanca, ##y bacalao; después de lo qual llegó hasta 64 gr. 15 min;
-    donde encontró mucha porción de aquella arena que <persName>Forsbisher</persName> habia llevado
-    antes a <Territory>Inglaterra</Territory>, y haciéndose a la vela hasta 66 gr. 40 min. de lat.
-    descubrió el <Concept_Landmark>Monte</Concept_Landmark>
+        <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Desolación</Landmark>; en él halló
+    mucha especie de pieles de castor y otros animales, de que hizo comercio a cambio de mercancías
+    con aquellos <humanGroup type="social_group">Indios</humanGroup>, que en sus canoas seguían las
+    barcas para llevarles pieles de castor, de liebre blanca, ##y bacalao; después de lo qual llegó
+    hasta 64 gr. 15 min; donde encontró mucha porción de aquella arena que
+        <persName>Forsbisher</persName> habia llevado antes a <Territory>Inglaterra</Territory>, y
+    haciéndose a la vela hasta 66 gr. 40 min. de lat. descubrió el
+        <Concept_Landmark>Monte</Concept_Landmark>
     <Landmark>Rawleigh</Landmark>. El año de 1586 hizo segundo viage a la misma
         <Concept_Landmark>Costa</Concept_Landmark>, y el siguiente en otro tercero llegó hasta la
     lat. de 72 gr. 12 min; llamando <Concept_Landmark>Costa</Concept_Landmark> de
@@ -435,13 +442,13 @@
         <Concept_Landmark>bosques</Concept_Landmark> inmediatos hay una increíble abundancia de
     páxaros de mil especies diferentes: los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Urribaes</humanGroup> que habitan estos
-        <Concept_Landmark>bosques</Concept_Landmark> son Caribes y feroces, andan enteramente
-    desnudos hom <zbr/>
+        <Concept_Landmark>bosques</Concept_Landmark> son <humanGroup>Caribes</humanGroup> y feroces,
+    andan enteramente desnudos hom <zbr/>
     <zbr/> @@@Alcedo_vol_2-0010@@@ <zbr/>
     <zbr/> #bres y mugeres; estas tienen por gala la disolución, y se entregan a qualquiera hombre
     sin reparar en tiempo ni lugar: está la boca de este <Concept_Landmark>río</Concept_Landmark> en
     3 gr. 7 min. de lat. bor. <zbr/>
-    <zbr/> §§§id_05400§§§ <zbr/> DEAD-MANS, Bahía de) o de los Muertos, en la
+    <zbr/> §§§id_05400§§§ <zbr/> DEAD-MANS, Bahía de) o de <Landmark>los Muertos</Landmark>, en la
         <Concept_Landmark>Costa</Concept_Landmark> del O de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory> y
         <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>S. Lorenzo</Landmark>. <zbr/>
@@ -450,9 +457,9 @@
         <Concept_Landmark>Costa</Concept_Landmark> del S, cerca de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Bridgetown</Settlement>. <zbr/>
     <zbr/> §§§id_05402§§§ <zbr/> DEBADEE, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
-    la Cabecera de <Settlement>Orizaba</Settlement> y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Ixmiquilpán</Territory> en <Territory>Nueva
-        España</Territory>. <zbr/>
+    la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Orizaba</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixmiquilpán</Territory>
+    en <Territory>Nueva España</Territory>. <zbr/>
     <zbr/> §§§id_05403§§§ <zbr/> DECHANA, <Concept_Landmark>Río</Concept_Landmark> del
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>: nace en las
         <Concept_Landmark>montañas</Concept_Landmark> de la
@@ -486,9 +493,9 @@
     <zbr/> §§§id_05409§§§ <zbr/> Este corre al S, luego tuerce al E, y entra en el de
         <Landmark>Connecticut</Landmark>. <zbr/>
     <zbr/> §§§id_05410§§§ <zbr/> DEGUEDO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
-    la Cabecera de <Settlement>Orizaba</Settlement> y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Ixmiquilpán</Territory> en <Territory>Nueva
-        España</Territory>. <zbr/>
+    la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Orizaba</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixmiquilpán</Territory>
+    en <Territory>Nueva España</Territory>. <zbr/>
     <zbr/> §§§id_05411§§§ <zbr/> DEHESA, <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> o
@@ -503,17 +510,16 @@
         <Territory>América Septentrional</Territory>: tiene su origen muy distante a el N en el
         <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Iroqueses</humanGroup>, corre al Mediodía, y dividiendo esta
-        <Concept_Territory>Provincia</Concept_Territory> de la de <Territory>Nueva Jer</Territory>
-    <zbr/>
-    <zbr/> @@@Alcedo_vol_2-0011@@@ <zbr/>
-    <zbr/> #sey, entra en el <Concept_Landmark>mar</Concept_Landmark>
+        <Concept_Territory>Provincia</Concept_Territory> de la de <Territory>Nueva Jer <zbr/>
+        <zbr/> @@@Alcedo_vol_2-0011@@@ <zbr/>
+        <zbr/> #sey</Territory>, entra en el <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Atlántico</Landmark> entre el <Concept_Landmark>Cabo</Concept_Landmark>
     <Landmark>May</Landmark> y <Landmark>Henlopen</Landmark>, formando en su boca una gran
         <Concept_Landmark>Bahía</Concept_Landmark> que tiene la misma denominación: este
         <Concept_Landmark>río</Concept_Landmark> es navegable más de 200 millas; pero tiene una
-    catarata o <Concept_Landmark>cascada</Concept_Landmark> muy rápida cerca de
-        <Settlement>Bristol</Settlement>, que hace impracticable la navegación al N del
-        <Concept_Territory>Condado</Concept_Territory> de <Territory>Bucks</Territory>. <zbr/>
+        <Concept_Landmark>catarata</Concept_Landmark> o <Concept_Landmark>cascada</Concept_Landmark>
+    muy rápida cerca de <Settlement>Bristol</Settlement>, que hace impracticable la navegación al N
+    del <Concept_Territory>Condado</Concept_Territory> de <Territory>Bucks</Territory>. <zbr/>
     <zbr/> §§§id_05413§§§ <zbr/> Tiene el mismo nombre una
         <Concept_Settlement>Villa</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -559,13 +565,15 @@
     occidental: entre esta <Concept_Landmark>Isla</Concept_Landmark> y otra pequeña llamada del
         <Landmark>Cuerno</Landmark>, que dista una legua, hay muy poca agua, y al extremo de la
     última está otra muy pequeña, que más bien se puede mirar como un
-        <Concept_Landmark>peñasco</Concept_Landmark>, llamada la Redonda por su fi <zbr/>
+        <Concept_Landmark>peñasco</Concept_Landmark>, llamada la <Landmark>Redonda</Landmark> por su
+    fi <zbr/>
     <zbr/> @@@Alcedo_vol_2-0012@@@ <zbr/>
-    <zbr/> #gura: la Delfina se llamaba antes de Massacre o de la Matanza, y tenía muchos almacenes
-    y cabañas, porque su <Concept_Landmark>Puerto</Concept_Landmark> ofrecía más comodidad a los
-        <humanGroup type="political_group">Franceses</humanGroup> establecidos en ella para
-    descargar las mercaderías traídas de <Territory>Francia</Territory>, que enviarlas en chalupas a
-    la <Settlement>Movila</Settlement>. Poco a poco se fue poblando, y algunos años después
+    <zbr/> #gura: la <Landmark>Delfina</Landmark> se llamaba antes de <Landmark>Massacre</Landmark>
+    o de la <Landmark>Matanza</Landmark>, y tenía muchos almacenes y cabañas, porque su
+        <Concept_Landmark>Puerto</Concept_Landmark> ofrecía más comodidad a los <humanGroup
+        type="political_group">Franceses</humanGroup> establecidos en ella para descargar las
+    mercaderías traídas de <Territory>Francia</Territory>, que enviarlas en chalupas a la
+        <Settlement>Movila</Settlement>. Poco a poco se fue poblando, y algunos años después
     construyeron un <Concept_Structure>Fuerte</Concept_Structure> con que se hizo
         <Concept_Structure>Plaza</Concept_Structure> principal de la
         <Concept_Territory>Colonia</Concept_Territory>, que se mantenían únicamente de lo que les
@@ -657,13 +665,13 @@
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Santa Barbara</Landmark>. <zbr/>
     <zbr/> §§§id_05426§§§ <zbr/> DENNIS, <Concept_Landmark>Isla</Concept_Landmark> de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las muchas que
-    hay en la <Concept_Landmark>Costa</Concept_Landmark> del NE de la Nueva Bretaña en la
-        <Territory>América Meridional</Territory>, llamada así por el nombre de su descubridor
-        <persName>Holandés Gerardo Dennis</persName>, tiene 14 ú 15 leguas de circunferencia, es
-    alta, montuosa y llena de <Concept_Landmark>bosques</Concept_Landmark> en que hay árboles de
-    muchísimo grueso y altura, y en la <Concept_Landmark>Costa</Concept_Landmark> muchas palmas de
-    cocos; a la parte de la <Concept_Landmark>montaña</Concept_Landmark> tiene muchas
-        <Concept_Structure>plantaciones</Concept_Structure>, y el terreno es de un color roxo
+    hay en la <Concept_Landmark>Costa</Concept_Landmark> del NE de la <Territory>Nueva
+        Bretaña</Territory> en la <Territory>América Meridional</Territory>, llamada así por el
+    nombre de su descubridor Holandés <persName>Gerardo Dennis</persName>, tiene 14 ú 15 leguas de
+    circunferencia, es alta, montuosa y llena de <Concept_Landmark>bosques</Concept_Landmark> en que
+    hay árboles de muchísimo grueso y altura, y en la <Concept_Landmark>Costa</Concept_Landmark>
+    muchas palmas de cocos; a la parte de la <Concept_Landmark>montaña</Concept_Landmark> tiene
+    muchas <Concept_Structure>plantaciones</Concept_Structure>, y el terreno es de un color roxo
     obscuro: la figura de esta <Concept_Landmark>Isla</Concept_Landmark> es muy irregular por estar
     llena de puntas que entran al <Concept_Landmark>mar</Concept_Landmark>, las quales son baxas y
     arenosas: está el centro de ella en 3 gr. 10 min. de lat. merid.: es muy poblada, y sus
@@ -682,9 +690,10 @@
     está en 30 gr. 10 min. de lat. sept. y en 36 gr. 10 min. de long. occid. <zbr/>
     <zbr/> §§§id_05427§§§ <zbr/> DENONVILLE o Niágara) <Concept_Structure>Fuerte</Concept_Structure>
     de los <humanGroup type="political_group">Franceses</humanGroup> en el
-        <Concept_Territory>País</Concept_Territory> de los In <zbr/>
-    <zbr/> @@@Alcedo_vol_2-0015@@@ <zbr/>
-    <zbr/> #dios <humanGroup type="indigenous_group">Iroqueses</humanGroup>, a orilla de la
+        <Concept_Territory>País</Concept_Territory> de los <Concept_Group>In <zbr/>
+        <zbr/> @@@Alcedo_vol_2-0015@@@ <zbr/>
+        <zbr/> #dios</Concept_Group>
+    <humanGroup type="indigenous_group">Iroqueses</humanGroup>, a orilla de la
         <Concept_Landmark>Costa</Concept_Landmark> del S del
         <Concept_Landmark>lago</Concept_Landmark>
     <Landmark>Ontario</Landmark>, y boca o entrada del <Concept_Landmark>río</Concept_Landmark>
@@ -742,7 +751,8 @@
         <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, a cuya
     orilla tienen los <humanGroup type="political_group">Portugueses</humanGroup> construido un
-        <Concept_Structure>Fuerte</Concept_Structure> con el nombre de San Gonzalo. <zbr/>
+        <Concept_Structure>Fuerte</Concept_Structure> con el nombre de <Structure>San
+        Gonzalo</Structure>. <zbr/>
     <zbr/> §§§id_05436§§§ <zbr/> Otro grande y caudaloso que nace de la
         <Concept_Landmark>laguna</Concept_Landmark>
     <Landmark>Aullága</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> de
@@ -790,24 +800,23 @@
         mayor</Concept_Territory> de <Territory>Fresnillo</Territory> en <Territory>Nueva
         España</Territory>, distante 3 leguas del Real de <Settlement>Zacatecas</Settlement>. <zbr/>
     <zbr/> §§§id_05443§§§ <zbr/> DESEADA, <Concept_Landmark>Isla</Concept_Landmark> de la
-        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las Antillas
-    menores, y la primera que descubrió el célebre <persName>Christóval Colon</persName> en su
-    segundo viage el año de 1493, dándola este nombre por el deseo que tenían de reconocer tierra,
-    tiene quatro leguas de largo y dos de ancho, y está rodeada de
-        <Concept_Landmark>escollos</Concept_Landmark> y <Concept_Landmark>peñas</Concept_Landmark>:
-    la parte que mira al N es más baxa que la del Mediodia: tiene muchos
-        <Concept_Landmark>montes</Concept_Landmark> o medaños de arena, y vista de alguna distancia
-    representa la figura de una galera: es de terreno fértil y bien cultivado, y de clima sano:
-    abunda mucho de Higuanas, y de una especie de páxaros que llaman fragatas: el P.
-        <persName>Labat</persName> dice que hay en ella una caverna profunda llena de huesos y armas
-    de los <humanGroup type="social_group">Indios</humanGroup> que la habitaban, suponiendo que era
-    su cementerio: el año de 1762 la tomaron los <humanGroup type="political_group"
-        >Ingleses</humanGroup>, que la restituyeron <zbr/>
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las
+        <Landmark>Antillas</Landmark> menores, y la primera que descubrió el célebre
+        <persName>Christóval Colon</persName> en su segundo viage el año de 1493, dándola este
+    nombre por el deseo que tenían de reconocer tierra, tiene quatro leguas de largo y dos de ancho,
+    y está rodeada de <Concept_Landmark>escollos</Concept_Landmark> y
+        <Concept_Landmark>peñas</Concept_Landmark>: la parte que mira al N es más baxa que la del
+    Mediodia: tiene muchos <Concept_Landmark>montes</Concept_Landmark> o <Concept_Landmark>medaños
+        de arena</Concept_Landmark>, y vista de alguna distancia representa la figura de una galera:
+    es de terreno fértil y bien cultivado, y de clima sano: abunda mucho de Higuanas, y de una
+    especie de páxaros que llaman fragatas: el P. <persName>Labat</persName> dice que hay en ella
+    una caverna profunda llena de huesos y armas de los <humanGroup type="social_group"
+        >Indios</humanGroup> que la habitaban, suponiendo que era su cementerio: el año de 1762 la
+    tomaron los <humanGroup type="political_group">Ingleses</humanGroup>, que la restituyeron <zbr/>
     <zbr/> @@@Alcedo_vol_2-0017@@@ <zbr/>
     <zbr/> #el siguiente a los <humanGroup type="political_group">Franceses</humanGroup> por la paz
-    de <Territory>París</Territory>, y desde entonces la poseen: está 7 leguas de la de
-        <Territory>Marigalante</Territory>, y quatro de la <Settlement>Guadalupe</Settlement>, en 16
-    gr. 22 min. de lat. bor. <zbr/>
+    de París, y desde entonces la poseen: está 7 leguas de la de <Territory>Marigalante</Territory>,
+    y quatro de la <Settlement>Guadalupe</Settlement>, en 16 gr. 22 min. de lat. bor. <zbr/>
     <zbr/> §§§id_05444§§§ <zbr/> DESEADO, <Concept_Landmark>Puerto</Concept_Landmark> grande y
     cómodo del <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Magallánico</Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de los
@@ -824,8 +833,9 @@
         <Concept_Landmark>Costa</Concept_Landmark> del O de la de
     <Territory>Puerto-rico</Territory>, enfrente de la <Concept_Landmark>punta</Concept_Landmark> de
         <Landmark>Calvachi</Landmark>, y de la espada de <Landmark>Santo Domingo</Landmark>: los
-        <humanGroup type="political_group">Franceses</humanGroup> la llaman de Zacheo: está distante
-    6 leguas de la primera, en 305 gr. de long. y 18 gr. 10 min. de lat. <zbr/>
+        <humanGroup type="political_group">Franceses</humanGroup> la llaman de
+        <Landmark>Zacheo</Landmark>: está distante 6 leguas de la primera, en 305 gr. de long. y 18
+    gr. 10 min. de lat. <zbr/>
     <zbr/> §§§id_05447§§§ <zbr/> DESESPOIR, Bahía du, o de la Desesperación) en la
         <Concept_Landmark>Costa</Concept_Landmark> del S de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, a la entrada
@@ -865,7 +875,8 @@
         <Concept_Landmark>Río</Concept_Landmark>
     <Landmark>Murichal</Landmark> que sale en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, formando
-    muchas <Concept_Landmark>lagunas</Concept_Landmark> y estanques, y al fin entra en el
+    muchas <Concept_Landmark>lagunas</Concept_Landmark> y
+        <Concept_Landmark>estanques</Concept_Landmark>, y al fin entra en el
         <Concept_Landmark>caño</Concept_Landmark> de <Landmark>Aracóa</Landmark>. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0018@@@ <zbr/>
     <zbr/> §§§id_05456§§§ <zbr/> #DESPENSA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -881,8 +892,7 @@
         <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory> o parte
     de la <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group"
         >Portugueses</humanGroup>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark>
-    de las <Territory>Amazonas</Territory>, cerca de la <Concept_Landmark>boca</Concept_Landmark>
-    del <Landmark>Purú</Landmark>. <zbr/>
+    de las <Territory>Amazonas</Territory>, cerca de la boca del <Landmark>Purú</Landmark>. <zbr/>
     <zbr/> §§§id_05459§§§ <zbr/> Otro hay del mismo nombre, µµµvéase nuestra Señora del Socorroµµµ. <zbr/>
     <zbr/> §§§id_05460§§§ <zbr/> DETHAM, <Concept_Settlement>Pueblo</Concept_Settlement> de los
         <humanGroup type="political_group">Ingleses</humanGroup> en la
@@ -926,9 +936,9 @@
     <zbr/> §§§id_05466§§§ <zbr/> DEWAERT, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
         <Territory>América Meridianal</Territory> situada a Levante de las tierras
         <Landmark>Magallánicas</Landmark>, a mucha distancia de la
-        <Concept_Landmark>Costa</Concept_Landmark>, la descubrió el Capitán <persName>Juan Dewaert,
-        Holandés</persName>, que la dio su nombre: es de terreno baxo, desierta e inculta: en las
-    Cartas modernas no se halla colocada, pero los Geógrafos an <zbr/>
+        <Concept_Landmark>Costa</Concept_Landmark>, la descubrió el Capitán <persName>Juan
+        Dewaert</persName>, Holandés, que la dio su nombre: es de terreno baxo, desierta e inculta:
+    en las Cartas modernas no se halla colocada, pero los Geógrafos an <zbr/>
     <zbr/> @@@Alcedo_vol_2-0019@@@ <zbr/>
     <zbr/> #tiguos la ponen en 56 gr. 21 min. de lat. aust. <zbr/>
     <zbr/> §§§id_05467§§§ <zbr/> DEXERA, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -989,8 +999,8 @@
     <zbr/> §§§id_05478§§§ <zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_District>Parroquia</Concept_District> de la misma
         <Concept_Landmark>Isla</Concept_Landmark>, que es
-        <Concept_District>Curato</Concept_District> de los Padres Capuchinos <humanGroup
-        type="political_group">Franceses</humanGroup>, situado cerca de la
+        <Concept_District>Curato</Concept_District> de los <humanGroup type="political_group">Padres
+        Capuchinos Franceses</humanGroup>, situado cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del O, a orilla de tres
         <Concept_Landmark>riachuelos</Concept_Landmark> que salen, al
         <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
@@ -1037,15 +1047,15 @@
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05487§§§ <zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acaponeta</Territory> en
-    el propio <Concept_Territory>Reyno</Concept_Territory>, ## en que hay un Convento de Religiosos
-    de San Francisco, y está 7 leguas al Oriente de su
+    el propio <Concept_Territory>Reyno</Concept_Territory>, ## en que hay un Convento de
+        <humanGroup>Religiosos de San Francisco</humanGroup>, y está 7 leguas al Oriente de su
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05488§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, uno de los de
     las Misiones de <Concept_Group>Indios</Concept_Group>
-    <humanGroup type="indigenous_group">Sucumbios</humanGroup> que tenían los Regulares de la
-    Compañía. <zbr/>
+    <humanGroup type="indigenous_group">Sucumbios</humanGroup> que tenían los <humanGroup>Regulares
+        de la Compañía</humanGroup>. <zbr/>
     <zbr/> §§§id_05489§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> situado
     a orilla de la <Concept_Landmark>laguna</Concept_Landmark>
@@ -1100,7 +1110,7 @@
         <Landmark>Sta</Landmark>. <Landmark>María</Landmark>, a cuya orilla entre ella y la
         <Concept_Landmark>Costa</Concept_Landmark> tienen un
         <Concept_Structure>Fuerte</Concept_Structure> los <humanGroup type="political_group"
-        >Portugueses</humanGroup> llamado <Landmark>Sta</Landmark>. Teresa. <zbr/>
+        >Portugueses</humanGroup> llamado <Structure>Sta. Teresa</Structure>. <zbr/>
     <zbr/> §§§id_05498§§§ <zbr/> Tiene el mismo nombre una
         <Concept_Landmark>sierra</Concept_Landmark> o <Concept_Landmark>montañas</Concept_Landmark>
     de esta <Concept_Territory>Provincia</Concept_Territory> y
@@ -1109,7 +1119,7 @@
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, situado en la
     parte del S. <zbr/>
     <zbr/> §§§id_05500§§§ <zbr/> S. DIMAS, <Concept_Settlement>Pueblo</Concept_Settlement> de las
-    Misiones que tenían los Regulares de la Compañía en la
+    Misiones que tenían los <humanGroup>Regulares de la Compañía</humanGroup> en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tepeguana</Territory> del
         <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>. <zbr/>
     <zbr/> §§§id_05501§§§ <zbr/> ##DIN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
@@ -1121,8 +1131,9 @@
     entra en el de <Landmark>Gallipavo</Landmark>. <zbr/>
     <zbr/> §§§id_05503§§§ <zbr/> S. DIONISIO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> de los <Territory>Apaches</Territory> en el
-        <Territory>Nuevo México</Territory>, fundado por los Religiosos de S. Francisco el año de
-    1700, a orilla del <Concept_Landmark>río</Concept_Landmark> grande de <Landmark>Gila</Landmark>. <zbr/>
+        <Territory>Nuevo México</Territory>, fundado por los <humanGroup>Religiosos de S.
+        Francisco</humanGroup> el año de 1700, a orilla del <Concept_Landmark>río</Concept_Landmark>
+    grande de <Landmark>Gila</Landmark>. <zbr/>
     <zbr/> §§§id_05504§§§ <zbr/> Otro hay del mismo nombre en la
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Chiapa</Territory> del
@@ -1133,7 +1144,7 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>. <zbr/>
     <zbr/> §§§id_05506§§§ <zbr/> Un <Concept_Landmark>río</Concept_Landmark> pequeño que corre al E,
     y sale al <Concept_Landmark>mar</Concept_Landmark> en la
-        <Concept_Landmark>Costa</Concept_Landmark> que medk entre el
+        <Concept_Landmark>Costa</Concept_Landmark> que medía entre el
         <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Plata</Landmark> y el
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, cerca del
         <Concept_Landmark>cabo</Concept_Landmark>
@@ -1217,8 +1228,9 @@
     <zbr/>
     <zbr/> @@@Alcedo_vol_2-0023@@@ <zbr/>
     <zbr/> #del artículo primero, y le da el nombre. <zbr/>
-    <zbr/> §§§id_05520§§§ <zbr/> DOGS-ISLAND o Isla de los Perros) llamada Hondeneslant, que en
-    holandés significa lo mismo, por <persName>Guillermo Showten</persName> que la descubrió en la
+    <zbr/> §§§id_05520§§§ <zbr/> DOGS-ISLAND o Isla de los Perros) llamada
+        <Landmark>Hondeneslant</Landmark>, que en holandés significa lo mismo, por
+        <persName>Guillermo Showten</persName> que la descubrió en la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, 925 leguas distante
     de la <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Perú</Territory>, es pequeña,
     baxa, estéril y desierta, dióle este nombre su descubridor por haber hallado dos perros, y
@@ -1226,8 +1238,8 @@
     que la que llueve, y por haber encontrado alguna salobre en el centro de ella discurrieron que
     en las crecientes se inunda: algunos se persuaden que esta
         <Concept_Landmark>Isla</Concept_Landmark> es la que descubrió <persName>Jacobo Le
-        Maire</persName> el año de 1616, y le puso por nombre de Tiburones: está en 15 gr. 13 m. de
-    lat. aust. <zbr/>
+        Maire</persName> el año de 1616, y le puso por nombre de <Landmark>Tiburones</Landmark>:
+    está en 15 gr. 13 m. de lat. aust. <zbr/>
     <zbr/> §§§id_05521§§§ <zbr/> DOGUA, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> en el
@@ -1246,11 +1258,11 @@
     <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
         >Mulatos</humanGroup>. <zbr/>
     <zbr/> §§§id_05523§§§ <zbr/> Tiene el mismo nombre otro
-        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de
-    la Compañía en la <Concept_Territory>Provincia</Concept_Territory> de
-        <Territory>Nayarith</Territory> del <Concept_Territory>Reyno</Concept_Territory> de
-        <Territory>Nueva Galicia</Territory>, distante 12 leguas al Oriente del de la
-        <Settlement>Mesa</Settlement>. <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los
+        <humanGroup>Regulares de la Compañía</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nayarith</Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>,
+    distante 12 leguas al Oriente del de la <Settlement>Mesa</Settlement>. <zbr/>
     <zbr/> §§§id_05524§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sierra Gorda</Territory> en el
         <Concept_Landmark>Seno</Concept_Landmark>
@@ -1258,7 +1270,7 @@
         Escandon</persName>, Coronel de Milicias de <Settlement>Queretaro</Settlement>, el año de
     1750. <zbr/>
     <zbr/> §§§id_05525§§§ <zbr/> Otro con el aditamento del Sur, de las Misiones que tenían los
-    Regulares de la Compañía en la <Territory>California</Territory>. <zbr/>
+        <humanGroup>Regulares de la Compañía</humanGroup> en la <Territory>California</Territory>. <zbr/>
     <zbr/> §§§id_05526§§§ <zbr/> Otro en el mismo <Concept_District>Partido</Concept_District>,
     llamado del N para distinguirlo del anterior. <zbr/>
     <zbr/> §§§id_05527§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
@@ -1281,12 +1293,14 @@
     de <Settlement>Santa Teresa de Maipures</Settlement>. <zbr/>
     <zbr/> §§§id_05529§§§ <zbr/> SANTO DOMINGO o Española) <Concept_Landmark>Isla</Concept_Landmark>
     grande de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de los dos
-    Antilles mayores, tiene 170 leguas de largo, 30 en su mediana anchura, y 360 de circunferencia:
-    la descubrió el Almirante D. <persName>Christóval Colon</persName> en su primer viage el año de
-    1492: tenía entonces entre los <humanGroup type="social_group">Indios</humanGroup> el nombre de
-    Hayti, y habiendo fundado la <Concept_Settlement>Capital</Concept_Settlement> con el nombre de
-    Santo Domingo le quedó también a aquella parte de la <Concept_Landmark>Isla</Concept_Landmark>,
-    y luego a toda ella, en lugar del de Isabela que le habia puesto, en obsequio de la Reyna Doña
+        <Landmark>Antilles</Landmark> mayores, tiene 170 leguas de largo, 30 en su mediana anchura,
+    y 360 de circunferencia: la descubrió el Almirante D. <persName>Christóval Colon</persName> en
+    su primer viage el año de 1492: tenía entonces entre los <humanGroup type="social_group"
+        >Indios</humanGroup> el nombre de <Landmark>Hayti</Landmark>, y habiendo fundado la
+        <Concept_Settlement>Capital</Concept_Settlement> con el nombre de <Settlement>Santo
+        Domingo</Settlement> le quedó también a aquella parte de la
+        <Concept_Landmark>Isla</Concept_Landmark>, y luego a toda ella, en lugar del de
+        <Landmark>Isabela</Landmark> que le habia puesto, en obsequio de la Reyna Doña
         <persName>Isabel la Católica</persName>: está situada en medio de las de
         <Territory>Cuba</Territory>, <Territory>Jamaycay</Territory>
     <Territory>Puerto-rico</Territory>, separada de esta solo por un
@@ -1307,11 +1321,12 @@
     mejor calidad que en las demás <Concept_Landmark>Islas</Concept_Landmark>: abunda asimismo de
     variedad de aves y páxaros de canto, y de hermosas plumas, y en <zbr/>
     <zbr/> @@@Alcedo_vol_2-0025@@@ <zbr/>
-    <zbr/> #los prados o <Concept_Landmark>sabanas</Concept_Landmark> que llaman allí es increíble
-    el número de ganado que se cría, cuyos cueros han sido siempre uno de los renglones principales
-    de su comercio, y solo el año de 1587 conduxeron a <Territory>España</Territory> 35444, y no es
-    menor el de caballos, mulas y asnos: produce infinita azúcar, añil, tabaco, algodón, ajenjibre,
-    café, té, ámbar, y diferentes drogas medicinales, y tintes: riegan y fertilizan esta
+    <zbr/> #los <Concept_Landmark>prados</Concept_Landmark> o
+        <Concept_Landmark>sabanas</Concept_Landmark> que llaman allí es increíble el número de
+    ganado que se cría, cuyos cueros han sido siempre uno de los renglones principales de su
+    comercio, y solo el año de 1587 conduxeron a <Territory>España</Territory> 35444, y no es menor
+    el de caballos, mulas y asnos: produce infinita azúcar, añil, tabaco, algodón, ajenjibre, café,
+    té, ámbar, y diferentes drogas medicinales, y tintes: riegan y fertilizan esta
         <Concept_Landmark>Isla</Concept_Landmark> muchos <Concept_Landmark>ríos</Concept_Landmark>,
     de que son los principales <Landmark>Ozama</Landmark>, <Landmark>Haina</Landmark>,
         <Landmark>Nigua</Landmark>, <Landmark>Villegas</Landmark>, <Landmark>Nissao</Landmark>,
@@ -1322,15 +1337,16 @@
     especialmente las de <Landmark>Cibóo</Landmark> de las primeras, y de una se sacó un grano o
     pepita de oro que pesaba tres mil y seiscientos castellanos, y se perdió en la desgraciada flota
     que naufragó; el año de 1645 se descubrió una <Concept_Landmark>mina</Concept_Landmark> muy
-    abundante de azogue. Quando se establecieron los Es##pañoles estaba tan poblada de <humanGroup
-        type="social_group">Indios</humanGroup> que el Obispo de <Territory>Chiapa</Territory>, Fr.
-        <persName>Bartolomé de las Casas</persName>, dice ( si su cálculo no es exagerado) que tenía
-    más de tres millones, cuyos trabajadores ayudados de los <humanGroup type="social_group">Negros
-        Esclavos</humanGroup>, para el cultivo de las <Concept_Landmark>minas</Concept_Landmark> y
-    de los frutos que hemos dicho, bastaron en los primeros años a enriquecer no solo a quantas
-    personas se establecieron en ella, sino a otras muchas de <Territory>Europa</Territory>, a
-    quienes concedió el Emperador posesiones en ella; pero la extinción de tanto viviente, a que han
-    concurrido diferentes causas, y señaladamente la epidemia de viruelas y sarampión, que asoló las
+    abundante de azogue. Quando se establecieron los <humanGroup>Es##pañoles</humanGroup> estaba tan
+    poblada de <humanGroup type="social_group">Indios</humanGroup> que el Obispo de
+        <Territory>Chiapa</Territory>, Fr. <persName>Bartolomé de las Casas</persName>, dice ( si su
+    cálculo no es exagerado) que tenía más de tres millones, cuyos trabajadores ayudados de los
+        <humanGroup type="social_group">Negros Esclavos</humanGroup>, para el cultivo de las
+        <Concept_Landmark>minas</Concept_Landmark> y de los frutos que hemos dicho, bastaron en los
+    primeros años a enriquecer no solo a quantas personas se establecieron en ella, sino a otras
+    muchas de <Territory>Europa</Territory>, a quienes concedió el Emperador posesiones en ella;
+    pero la extinción de tanto viviente, a que han concurrido diferentes causas, y señaladamente la
+    epidemia de viruelas y sarampión, que asoló las
         <Concept_Settlement>Poblaciones</Concept_Settlement> el año de 1666, y todavía recuerdan
     llamándola la tragedia de los seises, hizo decaer poco a poco el lucroso comercio que hacia,
     proporcionándolo la multitud de <Concept_Landmark>Puertos</Concept_Landmark> cómodos y seguros
