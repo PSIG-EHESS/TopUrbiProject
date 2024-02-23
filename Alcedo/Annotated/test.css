@@ -73,12 +73,15 @@ Concept_Landmark {
     background-color: #f2f2f2;
 }
 
-Concept_humanGroup {
+Concept_Group {
     color: black;
-    background-color: #f2f2f2;
+    background-color: #f6f6f6;
 }
 
-
+Concept_humanGroup {
+    color: black;
+    background-color: #f6f6f6;
+}
 
 
 
