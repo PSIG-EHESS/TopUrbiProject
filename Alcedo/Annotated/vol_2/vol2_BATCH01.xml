@@ -341,7 +341,7 @@
     <zbr/> #barcaciones y gentes que es increíble: gobiérnase por un Teniente que nombraba antes el
     Gobernador de la <Concept_Territory>Provincia</Concept_Territory>, y después el Virrey de
         <Territory>Santa Fe</Territory>, y en lo Eclesiástico por un Cura Doctrinero, que era de la
-    Religión de <Territory>Santo Domingo</Territory>, con tres o quatro Tenientes para la
+        <humanGroup>Religión de Santo Domingo</humanGroup>, con tres o quatro Tenientes para la
     administración de Sacramentos en los <Concept_Settlement>Pueblos</Concept_Settlement> de
         <Settlement>Daule</Settlement>, <Settlement>Santa Lucía</Settlement>, y el
         <Settlement>Balsar</Settlement>, como en las casas de campo y
@@ -540,12 +540,12 @@
     la <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory>, está
     contigua a la de <Territory>Petaguay</Territory>, y ambas están pobladas de
         <Concept_Group>Indios</Concept_Group>
-    <humanGroup type="indigenous_group">Salvages</humanGroup>, y de algunos <humanGroup
-        type="political_group">Portugueses</humanGroup> refugiados allí por delitos; abunda mucho de
-    cañas dulces y palo de <Territory>Brasil</Territory>; el clima, aunque muy cálido, es sano: los
-        <humanGroup type="political_group">Portugueses</humanGroup> no han podido sujetarla a su
-    dominio después de muchas tentativas en que han perdido gran número ##de gente, y desde el año
-    de 1689 desistieron del empeño. <zbr/>
+    <Concept_Group>Salvages</Concept_Group>, y de algunos <humanGroup type="political_group"
+        >Portugueses</humanGroup> refugiados allí por delitos; abunda mucho de cañas dulces y palo
+    de <Territory>Brasil</Territory>; el clima, aunque muy cálido, es sano: los <humanGroup
+        type="political_group">Portugueses</humanGroup> no han podido sujetarla a su dominio después
+    de muchas tentativas en que han perdido gran número ##de gente, y desde el año de 1689
+    desistieron del empeño. <zbr/>
     <zbr/> §§§id_05416§§§ <zbr/> DELEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
@@ -578,13 +578,14 @@
     construyeron un <Concept_Structure>Fuerte</Concept_Structure> con que se hizo
         <Concept_Structure>Plaza</Concept_Structure> principal de la
         <Concept_Territory>Colonia</Concept_Territory>, que se mantenían únicamente de lo que les
-    venia de <Territory>Francia</Territory>, y de lo que podían robar a los Salvages naturales del
+    venia de <Territory>Francia</Territory>, y de lo que podían robar a los
+        <Concept_Group>Salvages</Concept_Group> naturales del
         <Concept_Territory>país</Concept_Territory>, por lo qual se enemistaron, aunque después
     vivían amigablemente. Algunos de estos <humanGroup type="social_group">Indios</humanGroup> se
     establecieron en las inmediaciones del <Concept_Landmark>río</Concept_Landmark>
-    <Settlement>Movila</Settlement>, donde desbastaron una porción de terreno, y vivían en amistad
-    con los <humanGroup type="political_group">Franceses</humanGroup>, dándoles preferencia sobre
-    los <humanGroup type="social_group">Españoles</humanGroup> con quienes habían vivido algún
+    <Landmark>Movila</Landmark>, donde desbastaron una porción de terreno, y vivían en amistad con
+    los <humanGroup type="political_group">Franceses</humanGroup>, dándoles preferencia sobre los
+        <humanGroup type="social_group">Españoles</humanGroup> con quienes habían vivido algún
     tiempo, sin embargo de que estos les dieron un Misionero para instruirlos en la Religión, y los
     otros no pensaron más que en el aumento de su <Concept_Territory>Colonia</Concept_Territory>,
     que no siendo a propósito para madurar los granos empe##zaron a hacer
