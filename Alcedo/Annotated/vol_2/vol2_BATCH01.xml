@@ -70,8 +70,8 @@
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> en el
         <Concept_Territory>territorio</Concept_Territory> que poseen los <humanGroup
         type="political_group">Franceses</humanGroup>, nace cerca de la
-        <Concept_Landmark>Costa</Concept_Landmark> del S en la <Landmark>Cabeza</Landmark> del O,
-    corre al S, y sale al <Concept_Landmark>mar</Concept_Landmark> entre el
+        <Concept_Landmark>Costa</Concept_Landmark> del S en la Cabeza del O, corre al S, y sale al
+        <Concept_Landmark>mar</Concept_Landmark> entre el
         <Concept_Landmark>Puerto</Concept_Landmark>
     <Landmark>Pimiento</Landmark> y la <Concept_Landmark>Ensenada</Concept_Landmark> de los
         <Landmark>Collados</Landmark>, <zbr/>
@@ -128,7 +128,7 @@
         Septentrional</Territory>, corre al E muchas leguas, y sale al
         <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
     <zbr/> §§§id_05375§§§ <zbr/> DAÑAS, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
-    una <Concept_Group>nación de Indios</Concept_Group> de este nombre en la
+    una nación de <Concept_Group>Indios</Concept_Group> de este nombre en la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Alausi</Territory> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, está al N del
@@ -181,13 +181,14 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tier <zbr/>
         <zbr/> @@@Alcedo_vol_2-0004@@@ <zbr/>
         <zbr/> #ra-Firme</Territory>, y por el O con la del <Territory>Chocó</Territory>: tiene de
-    largo 68 leguas E O, y no 100 como dice el Ex Jesuíta <persName>Coleti</persName>, y cerca de 50
-    de ancho N S por donde más se extiende: es <Concept_Territory>país</Concept_Territory> montuoso
-    y áspero, pero no le faltan <Concept_Landmark>llanuras</Concept_Landmark> en que es muy fértil,
-    aunque abandonado y sin cultivo, pues solo produce algún cacao y tabaco en corta porción, pero
-    de excelente calidad uno y otro: rieganla infinitos <Concept_Landmark>ríos</Concept_Landmark>,
-    que unos desaguan en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> y
-    otros en la del <Landmark>N</Landmark>, en cuyas arenas llevan porción de oro de las muchas
+    largo 68 leguas E O, y no 100 como dice el Ex <humanGroup>Jesuíta</humanGroup>
+    <persName>Coleti</persName>, y cerca de 50 de ancho N S por donde más se extiende: es
+        <Concept_Territory>país</Concept_Territory> montuoso y áspero, pero no le faltan
+        <Concept_Landmark>llanuras</Concept_Landmark> en que es muy fértil, aunque abandonado y sin
+    cultivo, pues solo produce algún cacao y tabaco en corta porción, pero de excelente calidad uno
+    y otro: rieganla infinitos <Concept_Landmark>ríos</Concept_Landmark>, que unos desaguan en la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> y otros en la del
+        <Landmark>N</Landmark>, en cuyas arenas llevan porción de oro de las muchas
         <Concept_Landmark>minas</Concept_Landmark> de este metal que tiene, y de que era la más
     copiosa la de <Settlement>Santa Cruz de Caña</Settlement>, de que se ha sacado infinita riqueza
     en otros tiempos. Fue esta <Concept_Territory>Provincia</Concept_Territory> la primera de
@@ -234,9 +235,9 @@
     armas, y enseñado el uso del fusil con tanta destreza como la flecha. Son enemigos de sus
     confinantes los <humanGroup type="indigenous_group">Chocoes</humanGroup>, con quienes tienen
     continua guerra jurada de padres a hijos, por haber dado muerte los del
-        <Settlement>Darién</Settlement> a un Cura que tenían estos en mucha veneración a fines del
+        <Territory>Darién</Territory> a un Cura que tenían estos en mucha veneración a fines del
     siglo pasado, y desde entonces traen todos para beber el cráneo de una calavera de Indio del
-        <Settlement>Darién</Settlement> muerto por sus manos, lo qual y las repetidas epidemias de
+        <Territory>Darién</Territory> muerto por sus manos, lo qual y las repetidas epidemias de
     viruelas han disminuido mucho el número: no es menos el odio que tienen a los <humanGroup
         type="political_group">Españoles</humanGroup>, contra quienes se sublevaron el año de 1719
     haciendo increíbles crueldades, hasta que el año de 1740 hicieron la paz con el Teniente General
@@ -247,7 +248,7 @@
         <Concept_Settlement>Poblaciones</Concept_Settlement> y admitiesen
         <Concept_Group>Misioneros</Concept_Group> que los instruyesen en la Religión Católica, a
     cuyo efecto envió el Virrey de <Territory>Santa Fé</Territory>, que era entonces D.
-        <persName>Sebastián de Eslaba</persName>, dos Jesuítas de la
+        <persName>Sebastián de Eslaba</persName>, dos <Concept_Group>Jesuítas</Concept_Group> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cartagena</Territory> por la
     vanda del N, que fueron los Padres <persName>Salvador Grande</persName> y <persName>Pedro
         Fabro</persName>; y por la del Sur, el Presidente de Panamia, a los Padres <persName>Matías
