@@ -748,7 +748,7 @@
     fatiga. <zbr/>
     <zbr/> §§§id_05435§§§ <zbr/> Otro que es un <Concept_Landmark>brazo</Concept_Landmark> que sale
     de la <Concept_Landmark>laguna</Concept_Landmark> grande de los <Landmark>Patos</Landmark>, y se
-    comunica con la de <Territory>Mini</Territory> en la
+    comunica con la de <Landmark>Mini</Landmark> en la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> del Rey y
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, a cuya
@@ -1038,8 +1038,8 @@
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valles</Territory> en
         <Territory>Nueva España</Territory>, es de la <Concept_Group>nación de
         Indios</Concept_Group>
-    <humanGroup type="indigenous_group">Pames</humanGroup>, que viven como bárbaros sin cultura ni
-    policía. <zbr/>
+    <humanGroup type="indigenous_group">Pames</humanGroup>, que viven como
+        <Concept_Group>bárbaros</Concept_Group> sin cultura ni policía. <zbr/>
     <zbr/> §§§id_05486§§§ <zbr/> Tiene el mismo nombre otro
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Huatúzco</Settlement> y
@@ -1049,13 +1049,14 @@
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05487§§§ <zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acaponeta</Territory> en
-    el propio <Concept_Territory>Reyno</Concept_Territory>, ## en que hay un Convento de
-        <humanGroup>Religiosos de San Francisco</humanGroup>, y está 7 leguas al Oriente de su
+    el propio <Concept_Territory>Reyno</Concept_Territory>, ## en que hay un
+        <Concept_Structure>Convento</Concept_Structure> de <humanGroup>Religiosos de San
+        Francisco</humanGroup>, y está 7 leguas al Oriente de su
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05488§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, uno de los de
-    las Misiones de <Concept_Group>Indios</Concept_Group>
+    las <Concept_Settlement>Misiones</Concept_Settlement> de <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Sucumbios</humanGroup> que tenían los <humanGroup>Regulares
         de la Compañía</humanGroup>. <zbr/>
     <zbr/> §§§id_05489§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
@@ -1183,7 +1184,8 @@
     <zbr/> §§§id_05513§§§ <zbr/> DIVIDIBAN, <Concept_Landmark>Brazo</Concept_Landmark> del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Apure</Landmark>, uno de los tres caudalosos en que se divide para entrar por otras
-    tantas bocas en el <Landmark>Orinoco</Landmark>, y el que está más al N. <zbr/>
+    tantas <Concept_Landmark>bocas</Concept_Landmark> en el <Landmark>Orinoco</Landmark>, y el que
+    está más al N. <zbr/>
     <zbr/> §§§id_05514§§§ <zbr/> DIVIDDIE, <Concept_Territory>Condado</Concept_Territory> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>. <zbr/>
@@ -1194,10 +1196,10 @@
     <zbr/> §§§id_05516§§§ <zbr/> DOAS, <Concept_Group>Nación Bárbara</Concept_Group> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tocaima</Territory> en el
     mismo ##<Concept_Territory>Reyno</Concept_Territory> que el
-        <Concept_Settlement>Pueblo</Concept_Settlement> anterior: estos Bárbaros confinan con los
-        <humanGroup type="indigenous_group">Sumapaes</humanGroup> y <humanGroup
-        type="indigenous_group">Cundayes</humanGroup>, y antiguamente estaban sujetos a los
-        <humanGroup type="indigenous_group">Sutagáos</humanGroup>. <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> anterior: estos
+        <Concept_Group>Bárbaros</Concept_Group> confinan con los <humanGroup type="indigenous_group"
+        >Sumapaes</humanGroup> y <humanGroup type="indigenous_group">Cundayes</humanGroup>, y
+    antiguamente estaban sujetos a los <humanGroup type="indigenous_group">Sutagáos</humanGroup>. <zbr/>
     <zbr/> §§§id_05517§§§ <zbr/> DOCE o Dulce) <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Espíritu Santo</Territory>
@@ -1271,8 +1273,9 @@
     <Landmark>Mexicano</Landmark>, fundado por el Conde de aquel título D. <persName>Joseph
         Escandon</persName>, Coronel de Milicias de <Settlement>Queretaro</Settlement>, el año de
     1750. <zbr/>
-    <zbr/> §§§id_05525§§§ <zbr/> Otro con el aditamento del Sur, de las Misiones que tenían los
-        <humanGroup>Regulares de la Compañía</humanGroup> en la <Territory>California</Territory>. <zbr/>
+    <zbr/> §§§id_05525§§§ <zbr/> Otro con el aditamento del Sur, de las
+        <Concept_Settlement>Misiones</Concept_Settlement> que tenían los <humanGroup>Regulares de la
+        Compañía</humanGroup> en la <Territory>California</Territory>. <zbr/>
     <zbr/> §§§id_05526§§§ <zbr/> Otro en el mismo <Concept_District>Partido</Concept_District>,
     llamado del N para distinguirlo del anterior. <zbr/>
     <zbr/> §§§id_05527§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
