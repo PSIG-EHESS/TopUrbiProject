@@ -271,12 +271,13 @@
   <Concept_Landmark>Isla</Concept_Landmark> el mismo año de 1515.<zbr/> 7 Los M. RR. PP.
   <persName>Luis de Figueróa</persName>, Prior del Monasterio de Mejorada de Olmedo,
   <persName>Bernardino de Manzanedo</persName>, y <persName>Alfonso de Santo Domingo</persName>,
- Prior del Monasterio de <Settlement>Ortega</Settlement>, todos <humanGroup>Religiosos del Orden de
-  San Gerónimo</humanGroup>, elegidos por el Cardenal <persName>Ximénez de Cisneros</persName>,
- quando murió el Rey Don <persName>Fernando</persName> el Católico, para arreglar ías disensiones y
- gobernar la parte de las <Territory>Indias</Territory>descubiertas hasta entonces, el año de 1516,
- dándoles por asociado al Licenciado <persName>Suazo</persName>, que fue separado dos años después.
- Las oportunas y arregladas providencias de estos Religiosos en aquellos nuevos
+ Prior del <Concept_Structure>Monasterio</Concept_Structure> de <Settlement>Ortega</Settlement>,
+ todos <humanGroup>Religiosos del Orden de San Gerónimo</humanGroup>, elegidos por el Cardenal
+  <persName>Ximénez de Cisneros</persName>, quando murió el Rey Don <persName>Fernando</persName> el
+ Católico, para arreglar ías disensiones y gobernar la parte de las
+ <Territory>Indias</Territory>descubiertas hasta entonces, el año de 1516, dándoles por asociado al
+ Licenciado <persName>Suazo</persName>, que fue separado dos años después. Las oportunas y
+ arregladas providencias de estos Religiosos en aquellos nuevos
   <Concept_Settlement>establecimientos</Concept_Settlement> acreditaron el acierto de su elección,
  mereciendo los mayores elogios su Gobierno, que duró hasta el año de 1518 que se les mandó retirar,
  nombrando a <zbr/>
@@ -393,7 +394,8 @@
   <Territory>América</Territory>: murió el año de 1525.<zbr/> 3 Don Fr. <persName>Luis de
   Figueróa</persName>, del Orden de San Gerónimo, uno de los Comisarios que envió el Cardenal
   <persName>Ximénez</persName> a gobernar las <Territory>Indias</Territory>, estaba después de su
- regreso a <Territory>España</Territory> de Prior del Monasterio de <zbr/>
+ regreso a <Territory>España</Territory> de Prior del
+  <Concept_Structure>Monasterio</Concept_Structure> de <zbr/>
  <zbr/> @@@Alcedo_vol_2-0035@@@<zbr/>
  <zbr/> #Mejorada quando fue presentado para este <Concept_Territory>Obispado</Concept_Territory>;
  pero murió antes de llegarle las Bulas ni consagrarse.<zbr/> 4 Don <persName>Sebastián Ramírez de
@@ -430,53 +432,59 @@
  <zbr/> @@@Alcedo_vol_2-0036@@@<zbr/>
  <zbr/> #11 Don Fr. <persName>Nicolás Ramos</persName>, natural de
   <Settlement>Villasaba</Settlement>, del <Concept_Territory>Obispado</Concept_Territory> de
-  <Territory>Palencia</Territory>, Religioso del Orden de San Francisco, Colegial en el Colegio de
- San Pedro y San Pablo de <Settlement>Alcalá</Settlement>, Calificador del Santo Oficio, Provincial
- de su <Concept_Territory>Provincia</Concept_Territory>, consumado Teólogo, y Predicador promovido
- del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Puerto-rico</Territory> a este
-  <Concept_Territory>Arzobispado</Concept_Territory> el año de <zbr/> 12 Don Fr. <persName>Agustín
-  Dávila y Padilla</persName>, Religioso del Orden de <Settlement>Santo Domingo</Settlement>,
- natural de <Settlement>México</Settlement>, Maestro de Teología, Prior de su Convento de la
-  <Settlement>Puebla de los Angeles</Settlement>, Predicador del Rey <persName>Felipe
- III</persName>, electo Arzobispo de <Territory>Santo Domingo</Territory> el año de 1599, murió el
- de 1604.<zbr/> 13 Don Fr. <persName>Christóval Rodríguez</persName>, natural de
-  <Settlement>Salamanca</Settlement>, Religioso del Orden de <Settlement>Santo Domingo</Settlement>,
- Maestro y Presentado en ella, Prior del Convento de <Settlement>Alcalá</Settlement>, Visitador de
- los de <Territory>Indias</Territory> y electo Arzobispo de <Territory>Santo Domingo</Territory> el
- año de 1605, pasó promovido al <Concept_Territory>Obispado</Concept_Territory> de
-  <Territory>Arequipa</Territory> el de 1611.<zbr/> 14 Don Fr. <persName>Diego de
-  Contreras</persName>, Religioso del Orden de San Agustín, natural de
-  <Settlement>México</Settlement>, Maestro en su Universidad, Catedrático de Escritura, Difinidor de
- su <Concept_Territory>Provincia</Concept_Territory>, Prior en su Convento de esta
+  <Territory>Palencia</Territory>, Religioso del <Concept_Group>Orden de San
+  Francisco</Concept_Group>, Colegial en el <Concept_Structure>Colegio</Concept_Structure> de
+  <Structure>San Pedro y San Pablo</Structure> de <Settlement>Alcalá</Settlement>, Calificador del
+ Santo Oficio, Provincial de su <Concept_Territory>Provincia</Concept_Territory>, consumado Teólogo,
+ y Predicador promovido del <Concept_Territory>Obispado</Concept_Territory> de
+  <Territory>Puerto-rico</Territory> a este <Concept_Territory>Arzobispado</Concept_Territory> el
+ año de <zbr/> 12 Don Fr. <persName>Agustín Dávila y Padilla</persName>, Religioso del
+  <Concept_Group>Orden de Santo Domingo</Concept_Group>, natural de <Settlement>México</Settlement>,
+ Maestro de Teología, Prior de su Convento de la <Settlement>Puebla de los Angeles</Settlement>,
+ Predicador del Rey <persName>Felipe III</persName>, electo Arzobispo de <Territory>Santo
+  Domingo</Territory> el año de 1599, murió el de 1604.<zbr/> 13 Don Fr. <persName>Christóval
+  Rodríguez</persName>, natural de <Settlement>Salamanca</Settlement>, Religioso del
+  <Concept_Group>Orden de Santo Domingo</Concept_Group>, Maestro y Presentado en ella, Prior del
+ Convento de <Settlement>Alcalá</Settlement>, Visitador de los de <Territory>Indias</Territory> y
+ electo Arzobispo de <Territory>Santo Domingo</Territory> el año de 1605, pasó promovido al
+  <Concept_Territory>Obispado</Concept_Territory> de <Territory>Arequipa</Territory> el de
+ 1611.<zbr/> 14 Don Fr. <persName>Diego de Contreras</persName>, Religioso del <Concept_Group>Orden
+  de San Agustín</Concept_Group>, natural de <Settlement>México</Settlement>, Maestro en su
+ Universidad, Catedrático de Escritura, Difinidor de su
+  <Concept_Territory>Provincia</Concept_Territory>, Prior en su
+  <Concept_Structure>Convento</Concept_Structure> de esta
   <Concept_Settlement>Capital</Concept_Settlement>, Provincial, Calificador del Santo Oficio, y
  Arzobispo de <Territory>Santo Domingo</Territory> el año de 1612, pidió licencia a su Santidad para
  ir a <Settlement>Roma</Settlement> a negocios de su conciencia, y murió en la
   <Concept_Landmark>mar</Concept_Landmark> el año de 1618. <zbr/> 15 Don Fr. <persName>Pedro
-  Soller</persName>, Religioso del Orden de San Agustín, natural de
- <Settlement>Barajas</Settlement>, promovido del <Concept_Territory>Obispado</Concept_Territory> de
+  Soller</persName>, Religioso del <Concept_Group>Orden de San Agustín</Concept_Group>, natural de
+  <Settlement>Barajas</Settlement>, promovido del <Concept_Territory>Obispado</Concept_Territory> de
   <Territory>Puerto-rico</Territory> a este <Concept_Territory>Arzobispado</Concept_Territory> el
  año de 1619, murió el siguiente.<zbr/> 16 Don Fr. <persName>Domingo de Valderrama</persName>, del
- Orden de Santo Domingo, natural de <Settlement>Quito</Settlement>, promovido del
-  <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Paz</Territory> él año de
- 1620.<zbr/> 17 Don Fr. <persName>Pedro de Oviedo</persName>, del Orden de San Bernardo, Lector de
- Artes y Teología, Catedrático de <Settlement>Alcalá</Settlement>, y Abad del Monasterio de
+  <Concept_Group>Orden de Santo Domingo</Concept_Group>, natural de <Settlement>Quito</Settlement>,
+ promovido del <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Paz</Territory> él
+ año de 1620.<zbr/> 17 Don Fr. <persName>Pedro de Oviedo</persName>, del <Concept_Group>Orden de San
+  Bernardo</Concept_Group>, Lector de Artes y Teología, Catedrático de
+  <Settlement>Alcalá</Settlement>, y Abad del <Concept_Structure>Monasterio</Concept_Structure> de
   <Settlement>San Clodio</Settlement>, y Difinidor de su Religión, electo Arzobispo de
   <Territory>Santo Domingo</Territory> en 1620, promovido al
-  <Concept_Territory>Obispado</Concept_Territory> de <Settlement>Quito</Settlement> en 1629. <zbr/>
+  <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory> en 1629. <zbr/>
  <zbr/> @@@Alcedo_vol_2-0037@@@<zbr/>
- <zbr/> #18 Don Fr. <persName>Fernando de Vera</persName>, del Orden de S. Agustín, presentado para
- Arzobispo de <Territory>Santo Domingo</Territory> en 1628, y antes de llegarle las Bulas promovido
- al <Settlement>Cuzco</Settlement>.<zbr/> 19 Don <persName>Bernardino de Almansa</persName>, natural
- de <Settlement>Lima</Settlement>, en cuya Universidad se graduó de Doctor en Cánones, fue Cura en
- varios <Concept_Settlement>Pueblos</Concept_Settlement>, Visitador del
-  <Concept_Territory>Arzobispado</Concept_Territory>, Tesorero de la Iglesia de
-  <Settlement>Cartagena</Settlement>, y Arcediano de la de <Territory>Charcas</Territory>, vino a
-  <Territory>España</Territory>, donde fue hecho Inquisidor de <Territory>Logroño</Territory>, luego
- de <Settlement>Toledo</Settlement>, y Arzobispo de <Territory>Santo Domingo</Territory>, y antes de
- consagrarse promovido a <Settlement>Santa Fe</Settlement> el año de 1632.<zbr/> 20 Don Fr.
-  <persName>Facundo de Torres</persName>, del Orden de San Benito, natural de la
-  <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Sahagún</Settlement>, fue de grande
- ingenio, y docto en letras divinas y humanas, Lector en su Convento de <Settlement>San Juan de
+ <zbr/> #18 Don Fr. <persName>Fernando de Vera</persName>, del <Concept_Group>Orden de S.
+  Agustín</Concept_Group>, presentado para Arzobispo de <Territory>Santo Domingo</Territory> en
+ 1628, y antes de llegarle las Bulas promovido al <Settlement>Cuzco</Settlement>.<zbr/> 19 Don
+  <persName>Bernardino de Almansa</persName>, natural de <Settlement>Lima</Settlement>, en cuya
+ Universidad se graduó de Doctor en Cánones, fue Cura en varios
+  <Concept_Settlement>Pueblos</Concept_Settlement>, Visitador del
+  <Concept_Territory>Arzobispado</Concept_Territory>, Tesorero de la
+  <Concept_Structure>Iglesia</Concept_Structure> de <Settlement>Cartagena</Settlement>, y Arcediano
+ de la de <Territory>Charcas</Territory>, vino a <Territory>España</Territory>, donde fue hecho
+ Inquisidor de <Territory>Logroño</Territory>, luego de <Settlement>Toledo</Settlement>, y Arzobispo
+ de <Territory>Santo Domingo</Territory>, y antes de consagrarse promovido a <Settlement>Santa
+  Fe</Settlement> el año de 1632.<zbr/> 20 Don Fr. <persName>Facundo de Torres</persName>, del Orden
+ de San Benito, natural de la <Concept_Settlement>Villa</Concept_Settlement> de
+  <Settlement>Sahagún</Settlement>, fue de grande ingenio, y docto en letras divinas y humanas,
+ Lector en su <Concept_Structure>Convento</Concept_Structure> de <Settlement>San Juan de
   Samos</Settlement>, Abad tres veces del de <Settlement>Sahagún</Settlement>, y Predicador del Rey
   <persName>Felipe IV</persName>, que le presentó para este
   <Concept_Territory>Arzobispado</Concept_Territory> el año de 1632. Fué tan grande el amor que le
@@ -485,7 +493,8 @@
  suplicarle todos que se quedase, y lo pidieron al Rey en una representación; pero murió antes de
  recibir la gracia el año de 1640.<zbr/> 21 Don <persName>Diego de Guevara</persName>, natural de
   <Settlement>México</Settlement>, Doctor en Leyes y Cánones de la Universidad de
-  <Settlement>Valladolid</Settlement>, Maestre-Escuela de la Iglesia de la <Settlement>Puebla de los
+  <Settlement>Valladolid</Settlement>, Maestre-Escuela de la
+  <Concept_Structure>Iglesia</Concept_Structure> de la <Settlement>Puebla de los
   Angeles</Settlement>, Provisor, Visitador y Juez de la Cruzada, Chantre de
   <Settlement>México</Settlement>, Provisor y Visitador de las cinco
   <Concept_Territory>Provincias</Concept_Territory> del
@@ -493,29 +502,32 @@
  disensiones de la Religión de San Francisco y de San Agustín, Comisario general de Cruzada, y
  Arzobispo de <Territory>Santo Domingo</Territory> el año de 1640: murió a poco tiempo volviendo de
  haberse ido a consagrar a <Settlement>México</Settlement>. <zbr/> 22 Don <persName>Francisco
-  Bugueiro</persName>, Colegial del Colegio de Santa Cruz de <Settlement>Valladolid</Settlement>,
- Canónigo Magistral de <Settlement>Mondoñedo</Settlement>, y luego de la Iglesia de
-  <Settlement>Zamora</Settlement>, presentado para Arzobispo de <Territory>Santo Domingo</Territory>
- en 1645, murió antes de consagrarse. <zbr/>
+  Bugueiro</persName>, Colegial del <Concept_Structure>Colegio</Concept_Structure> de
+  <Settlement>Santa Cruz de Valladolid</Settlement>, Canónigo Magistral de
+  <Settlement>Mondoñedo</Settlement>, y luego de la <Concept_Structure>Iglesia</Concept_Structure>
+ de <Settlement>Zamora</Settlement>, presentado para Arzobispo de <Territory>Santo
+  Domingo</Territory> en 1645, murió antes de consagrarse. <zbr/>
  <zbr/> @@@Alcedo_vol_2-0038@@@<zbr/>
- <zbr/> #23 Don <persName>Juan Díaz de Arce</persName>, Maestre-Escuela de la Santa Iglesia de
-  <Territory>México</Territory>, electo Arzobispo, que no admitió.<zbr/> 24 Don <persName>Francisco
-  Pió</persName>, natural de <Settlement>Toledo</Settlement>, Catedrático de Leyes en su
- Universidad, Visitador y Vicario general de la <Concept_Settlement>Ciudad</Concept_Settlement> de
-  <Settlement>Baeza</Settlement>, Canónigo y Provisor de <Settlement>Segovia</Settlement>, electo
- Arzobispo de <Territory>Santo Domingo</Territory> el año de 1648.<zbr/> 25 Don <persName>Juan de
-  Escalante Turcios y Mendoza</persName>, Comisario de Cruzada, Provisor y Vicario general del
+ <zbr/> #23 Don <persName>Juan Díaz de Arce</persName>, Maestre-Escuela de la Santa
+  <Concept_Structure>Iglesia</Concept_Structure> de <Territory>México</Territory>, electo Arzobispo,
+ que no admitió.<zbr/> 24 Don <persName>Francisco Pió</persName>, natural de
+  <Settlement>Toledo</Settlement>, Catedrático de Leyes en su Universidad, Visitador y Vicario
+ general de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Baeza</Settlement>,
+ Canónigo y Provisor de <Settlement>Segovia</Settlement>, electo Arzobispo de <Territory>Santo
+  Domingo</Territory> el año de 1648.<zbr/> 25 Don <persName>Juan de Escalante Turcios y
+  Mendoza</persName>, Comisario de Cruzada, Provisor y Vicario general del
   <Concept_Territory>Obispado</Concept_Territory> de <Territory>Yucatán</Territory>, Dean de su
  Santa Iglesia, electo Arzobispo de <Territory>Santo Domingo</Territory> el año de 1671, promovido
  al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Yucatán</Territory> el de
- 1677.<zbr/> 26 Don Fr. <persName>Domingo Fernandez Navarrete</persName>, del Orden de Santo
- Domingo.<zbr/> 27 Don Fr. <persName>Fernando de Carvajal y Rivera</persName>, del Orden de la
- Merced, el año de 1690 se embarcó en una barca holandesa huyendo de las persecuciones del
- Presidente, y se fue a las <Concept_Territory>Colonias</Concept_Territory>
+ 1677.<zbr/> 26 Don Fr. <persName>Domingo Fernandez Navarrete</persName>, del <Concept_Group>Orden
+  de Santo Domingo</Concept_Group>.<zbr/> 27 Don Fr. <persName>Fernando de Carvajal y
+  Rivera</persName>, del <Concept_Group>Orden de la Merced</Concept_Group>, el año de 1690 se
+ embarcó en una barca holandesa huyendo de las persecuciones del Presidente, y se fue a las
+  <Concept_Territory>Colonias</Concept_Territory>
  <humanGroup type="political_group">Francesas</humanGroup> para venir a
   <Territory>España</Territory> el de 1698.<zbr/> 28 Don Fr. <persName>Francisco Rincón</persName>,
- del Orden de <humanGroup>Religiosos Mínimos de San Francisco de Paula</humanGroup>, natural de
-  <Settlement>Valladolid</Settlement>, electo el año de 1705, pasó promovido a la Iglesia de
+ del <Concept_Group>Orden de Religiosos Mínimos de San Francisco de Paula</Concept_Group>, natural
+ de <Settlement>Valladolid</Settlement>, electo el año de 1705, pasó promovido a la Iglesia de
   <Settlement>Caracas</Settlement> el de 1711.<zbr/> 29 Don <persName>Antonio Claudio Alvarez de
   Quiñones</persName>, Provisor y Vicario general del
   <Concept_Territory>Obispado</Concept_Territory> de <Territory>Sigüenza</Territory>, Canónigo de la
@@ -529,15 +541,15 @@
  al <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Puebla de los
   Angeles</Territory> el de 1743. <zbr/>
  <zbr/> @@@Alcedo_vol_2-0039@@@<zbr/>
- <zbr/> #33 Don Fr. <persName>Ignacio de Padilla y Guardiola</persName>, del Orden de San Agustín,
- Procurador general de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva
-  España</Territory> a las Cortes de <Settlement>Madrid</Settlement> y
- <Settlement>Roma</Settlement>, electo Arzobispo de <Territory>Santo Domingo</Territory> el año de
- 1743, promovido al <Concept_Territory>Obispado</Concept_Territory> de
-  <Territory>Yucatán</Territory> el de 1753.<zbr/> 34 Don Fr. <persName>Joseph Moreno
-  Curiel</persName> electo en 1754, murió en 1756.<zbr/> 35 Don <persName>Felipe Ruiz de
-  Auzmendi</persName> electo el año de 1756, murió el de 1767.<zbr/> 36 Don <persName>Isidoro
-  Rodríguez</persName> electo el año referido de 1767. <zbr/>
+ <zbr/> #33 Don Fr. <persName>Ignacio de Padilla y Guardiola</persName>, del <Concept_Group>Orden de
+  San Agustín</Concept_Group>, Procurador general de la
+  <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva España</Territory> a las
+ Cortes de <Settlement>Madrid</Settlement> y <Settlement>Roma</Settlement>, electo Arzobispo de
+  <Territory>Santo Domingo</Territory> el año de 1743, promovido al
+  <Concept_Territory>Obispado</Concept_Territory> de <Territory>Yucatán</Territory> el de
+ 1753.<zbr/> 34 Don Fr. <persName>Joseph Moreno Curiel</persName> electo en 1754, murió en
+ 1756.<zbr/> 35 Don <persName>Felipe Ruiz de Auzmendi</persName> electo el año de 1756, murió el de
+ 1767.<zbr/> 36 Don <persName>Isidoro Rodríguez</persName> electo el año referido de 1767. <zbr/>
  <zbr/> §§§id_05530§§§<zbr/> Tiene el mismo nombre la
   <Concept_Settlement>Capital</Concept_Settlement> de esta <Concept_Landmark>Isla</Concept_Landmark>
  en la parte que poseen los <humanGroup type="political_group">Españoles</humanGroup>, fundada por
@@ -557,27 +569,32 @@
   <Concept_Territory>Arzobispado</Concept_Territory> erigido por <persName>Paulo III</persName> el
  año de 1547, habiendo sido antes <Concept_Territory>Obispado</Concept_Territory> por
   <persName>Julio II</persName> desde el de 1512, y tiene por sufragáneos los de
-  <Territory>Cuba</Territory> y <Territory>Puerto-rico</Territory>. La Iglesia Catedral, aunque
- pequeña, es de muy buena arquitectura, y están depositados en ella los huesos de su descubridor el
- célebre Almirante <persName>Christóval Colon</persName>: tiene además de la
-  <Concept_District>Parroquia</Concept_District> de <Settlement>Santa Bárbara</Settlement> otras dos
- ayudas de <Concept_District>Parroquia</Concept_District> en el
+  <Territory>Cuba</Territory> y <Territory>Puerto-rico</Territory>. La <Concept_Structure>Iglesia
+  Catedral</Concept_Structure>, aunque pequeña, es de muy buena arquitectura, y están depositados en
+ ella los huesos de su descubridor el célebre Almirante <persName>Christóval Colon</persName>: tiene
+ además de la <Concept_District>Parroquia</Concept_District> de <Settlement>Santa
+  Bárbara</Settlement> otras dos ayudas de <Concept_District>Parroquia</Concept_District> en el
   <Concept_Settlement>arrabal</Concept_Settlement>, con los nombres de <Settlement>San
-  Miguel</Settlement> y de <Settlement>San Andrés</Settlement>, Conventos de Religiosos de San Fran<zbr/>
- <zbr/> @@@Alcedo_vol_2-0040@@@<zbr/>
- <zbr/> #cisco, Santo Domingo, la Merced, Colegio que fue de los Regulares de la Compañía, y un buen
- Hospital: dos Monasterios de Religiosas, el uno de Santa Clara, y el otro de Santa Catalina. Reside
- en ella el Presidente y Capitán general de la <Concept_Landmark>Isla</Concept_Landmark>, y el
- Tribunal de Audiencia Real fundada el año de 1511: tuvo al principio casa de moneda para acuñar el
- mucho oro que producían sus <Concept_Landmark>minas</Concept_Landmark>, y se extinguió luego. Es
- tan hermosa, y tiene un ayre de grandeza, que <persName>Gonzalo Fernandez de Oviedo</persName> se
- atrevió a decir al Emperador <persName>Carlos V</persName> que no habia una siquiera en
-  <Territory>España</Territory> que pudiese preferirla, ni por lo ventajoso del terreno, por lo
- agradable de la situación, por la hermosura y disposición de las plazas y las calles, ni por la
- amenidad de sus arrededores, y que S. M. Imperial se alojaba muchas veces en
-  <Concept_Structure>Palacios</Concept_Structure> que no tenían las comodidades, la amplitud, ni las
- riquezas de algunos de <Territory>Santo Domingo</Territory>: está situada N S a orilla del
-  <Concept_Landmark>río</Concept_Landmark>
+  Miguel</Settlement> y de <Settlement>San Andrés</Settlement>,
+  <Concept_Structure>Conventos</Concept_Structure> de <Concept_Group>Religiosos de San Fran<zbr/>
+  <zbr/> @@@Alcedo_vol_2-0040@@@<zbr/>
+  <zbr/> #cisco</Concept_Group>, <Concept_Group>Santo Domingo</Concept_Group>, <Concept_Group>la
+  Merced</Concept_Group>, <Concept_Structure>Colegio</Concept_Structure> que fue de los
+  <Concept_Group>Regulares de la Compañía</Concept_Group>, y un buen
+  <Concept_Structure>Hospital</Concept_Structure>: dos
+  <Concept_Structure>Monasterios</Concept_Structure> de <Concept_Group>Religiosas</Concept_Group>,
+ el uno de <Concept_Group>Santa Clara</Concept_Group>, y el otro de <Concept_Group>Santa
+  Catalina</Concept_Group>. Reside en ella el Presidente y Capitán general de la
+  <Concept_Landmark>Isla</Concept_Landmark>, y el Tribunal de Audiencia Real fundada el año de 1511:
+ tuvo al principio casa de moneda para acuñar el mucho oro que producían sus
+  <Concept_Landmark>minas</Concept_Landmark>, y se extinguió luego. Es tan hermosa, y tiene un ayre
+ de grandeza, que <persName>Gonzalo Fernandez de Oviedo</persName> se atrevió a decir al Emperador
+  <persName>Carlos V</persName> que no habia una siquiera en <Territory>España</Territory> que
+ pudiese preferirla, ni por lo ventajoso del terreno, por lo agradable de la situación, por la
+ hermosura y disposición de las plazas y las calles, ni por la amenidad de sus arrededores, y que S.
+ M. Imperial se alojaba muchas veces en <Concept_Structure>Palacios</Concept_Structure> que no
+ tenían las comodidades, la amplitud, ni las riquezas de algunos de <Territory>Santo
+  Domingo</Territory>: está situada N S a orilla del <Concept_Landmark>río</Concept_Landmark>
  <Landmark>Ozama</Landmark>, como se ha dicho ya, de modo que al Mediodía la termina el
   <Concept_Landmark>mar</Concept_Landmark>, y al ##Oriente el
   <Concept_Landmark>río</Concept_Landmark>; al Poniente y al Septentrión tiene hermosas campiñas, y
@@ -585,15 +602,15 @@
  una piedra especie de mármol que se halló en sus cercanías, y otras de un género de mezcla que el
  tiempo y el ayre endurece como el mejor ladrillo; el terreno es bastante elevado de la superficie
  del <Concept_Landmark>mar</Concept_Landmark> que lo defiende, y la sirve de dique invencible: está
- rodeada toda de muralla, que empezó el Arzobispo y Presidente Don <persName>Alonso de
-  Fuenmayor</persName>, y a poca distancia tiene el <Concept_Structure>Castillo</Concept_Structure>
- de <Structure>San Gerónimo</Structure>, que es de figura quadrada, y muy buena fortificación: tiene
- por armas un escudo partido orizontalmente, en la parte superior una llave, y en la inferior la
- cruz de Santo Domingo, sostenido de dos leones rapantes, y encima una corona imperial: el año de
- 1551 intentaron tomarla los <humanGroup type="political_group">Ingleses</humanGroup>, mandados por
-  <persName>Guillermo Gauson</persName>, con una fuerte Esquadra, y más de 2.000 hombres de
- desembarco; pero marchando por la espalda de la <Concept_Settlement>Ciudad</Concept_Settlement>
- fueron sen<zbr/>
+ rodeada toda de <Concept_Structure>muralla</Concept_Structure>, que empezó el Arzobispo y
+ Presidente Don <persName>Alonso de Fuenmayor</persName>, y a poca distancia tiene el
+  <Concept_Structure>Castillo</Concept_Structure> de <Structure>San Gerónimo</Structure>, que es de
+ figura quadrada, y muy buena fortificación: tiene por armas un escudo partido orizontalmente, en la
+ parte superior una llave, y en la inferior la cruz de Santo Domingo, sostenido de dos leones
+ rapantes, y encima una corona imperial: el año de 1551 intentaron tomarla los <humanGroup
+  type="political_group">Ingleses</humanGroup>, mandados por <persName>Guillermo Gauson</persName>,
+ con una fuerte Esquadra, y más de 2.000 hombres de desembarco; pero marchando por la espalda de la
+  <Concept_Settlement>Ciudad</Concept_Settlement> fueron sen<zbr/>
  <zbr/> @@@Alcedo_vol_2-0041@@@<zbr/>
  <zbr/> #tidos de una <Concept_Structure>Batería</Concept_Structure> que se habia construido por
  aquella avenida, y disparando un cañonazo cargado a metralla hizo grande estrago en los enemigos, y
@@ -642,10 +659,10 @@
   type="social_group">indios</humanGroup> que comercian en grana y semi<zbr/>
  <zbr/> @@@Alcedo_vol_2-0042@@@<zbr/>
  <zbr/> #llas, y dista 6 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
- <zbr/> §§§id_05538§§§<zbr/> Otro que es Cabecera de fa <Concept_Territory>Alcaldía
-  mayor</Concept_Territory> de <Territory>Teutitlán</Territory> en el mismo
-  <Concept_Territory>Reyno</Concept_Territory>, tiene 92 familias de <humanGroup type="social_group"
-  >Indios</humanGroup>, dista 3 leguas entre Oriente y S de su
+ <zbr/> §§§id_05538§§§<zbr/> Otro que es <Concept_Settlement>Cabecera</Concept_Settlement> de fa
+  <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Teutitlán</Territory> en el
+ mismo <Concept_Territory>Reyno</Concept_Territory>, tiene 92 familias de <humanGroup
+  type="social_group">Indios</humanGroup>, dista 3 leguas entre Oriente y S de su
   <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
  <zbr/> §§§id_05539§§§<zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> de
   <Settlement>Mitla</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
@@ -709,10 +726,11 @@
   <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, que desagua al
   <Concept_Landmark>mar</Concept_Landmark>, <zbr/>
  <zbr/> @@@Alcedo_vol_2-0043@@@<zbr/>
- <zbr/> #y es abundante de pescado, en sus orillas suele quaxarse alguna sal, titne este nombre por
+ <zbr/> #y es abundante de pescado, en sus orillas suele quaxarse alguna sal, tiene este nombre por
  la inmediación en que está de una <Concept_Structure>hacienda</Concept_Structure> que pertenece a
- los Religiosos del Convento de Santo Domingo de la <Concept_Settlement>Ciudad</Concept_Settlement>
- de <Settlement>Santiago</Settlement>. <zbr/>
+ los <Concept_Group>Religiosos</Concept_Group> del <Concept_Structure>Convento</Concept_Structure>
+ de Santo Domingo de la <Concept_Settlement>Ciudad</Concept_Settlement> de
+  <Settlement>Santiago</Settlement>. <zbr/>
  <zbr/> §§§id_05552§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
  de <Territory>Maracaibo</Territory> nace al lado de la
@@ -779,7 +797,7 @@
   >esclavos</humanGroup>. Tenían antiguamente estos <humanGroup type="social_group"
   >Indios</humanGroup> un Cacique o Regulo de toda la <Concept_Landmark>Isla</Concept_Landmark>, y
  quando empezaron a comunicarlos los <humanGroup type="political_group">Franceses</humanGroup> se
- llamaba el Capitán Bucon, que hacia muchas incursiones contra los <humanGroup
+ llamaba el Capitán <persName>Bucon</persName>, que hacia muchas incursiones contra los <humanGroup
   type="political_group">Ingleses</humanGroup> habitantes de las demás
   <Concept_Landmark>Islas</Concept_Landmark>: en esta dice el P. <persName>Labat</persName> que
  entre sus arenas se hallan unas piedrecitas que llaman de ojos, por la propiedad que tienen de
@@ -814,8 +832,7 @@
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory>
  de <Territory>Sagadook</Territory>, corre al S, y sale al <Concept_Landmark>mar</Concept_Landmark>
  enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Mont Desert</Landmark> o
-  <Concept_Landmark>Monte</Concept_Landmark>
- <Landmark>Desierto</Landmark>. <zbr/>
+  <Landmark>Monte Desierto</Landmark>. <zbr/>
  <zbr/> §§§id_05562§§§<zbr/> DONGUILL, <Concept_Landmark>Río</Concept_Landmark> del
   <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> en el
   <Concept_District>Partido</Concept_District> de <Territory>Toltén baxo</Territory>, corre al N, y
@@ -854,8 +871,8 @@
  <persName>Waiter Raleig</persName> el año de 1545, y otro llamado <persName>Keimisco</persName> el
  siguiente de 1546, cuyos repetidos desengaños hicieron que nadie pensase más en el imaginario
   <Territory>Dorado</Territory>; y aunque el P. <persName>Joseph Gumilla</persName>, de la
- extinguida Compañía, asiente a su existencia en la historia que escribió del
-  <Landmark>Orinoco</Landmark>, hoy no queda duda de su falsedad, pues las entradas que han hecho
+  <humanGroup>extinguida Compañía</humanGroup>, asiente a su existencia en la historia que escribió
+ del <Landmark>Orinoco</Landmark>, hoy no queda duda de su falsedad, pues las entradas que han hecho
  los <humanGroup type="political_group">Holandeses</humanGroup> de las
   <Concept_Territory>Colonias</Concept_Territory> de <Territory>Berbice</Territory> y
   <Territory>Surinam</Territory>, los PP. <humanGroup>Capuchinos Misioneros</humanGroup> de la
@@ -873,7 +890,7 @@
  <zbr/> §§§id_05565§§§<zbr/> DORCHESTER, <Concept_Territory>Condado</Concept_Territory> de la
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory>
  de <Territory>Maryland</Territory> en la <Territory>América Septentrional</Territory>, uno de los
- cinco que la componen, situado al Mediodía del de <Settlement>Talbot</Settlement>, tiene su mismo
+ cinco que la componen, situado al Mediodía del de <Territory>Talbot</Territory>, tiene su mismo
  nombre la <Concept_District>Parroquia</Concept_District> y
   <Concept_Settlement>Capital</Concept_Settlement> donde está la asamblea, es un pequeño
   <Concept_Settlement>Pueblo</Concept_Settlement> que tiene poco más de una docena de casas; el
