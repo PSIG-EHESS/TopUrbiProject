@@ -104,11 +104,15 @@
     Companias de Milicias, así de <humanGroup>blancos</humanGroup>, como de <humanGroup
         type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
         >Mulatos</humanGroup>, en que estan alistados, y se formaron para contener las incursiones
-    de los <humanGroup type="social_group">Indios</humanGroup> barbaros infieles, de que esta aun
-    poblado aquel <Concept_Territory>Reyno</Concept_Territory>: tiene además de la
+    de los <humanGroup type="social_group">Indios</humanGroup>
+    <humanGroup>barbaros</humanGroup>
+    <humanGroup>infieles</humanGroup>, de que esta aun poblado aquel
+        <Concept_Territory>Reyno</Concept_Territory>: tiene además de la
         <Concept_District>Parroquia</Concept_District> del <Settlement>Sagrario</Settlement>, que
-    esta en la Catedral, otra que es auxiliar o anexa, quatro Conventos de Religiosos de las Ordenes
-    de San Francisco, San Agustín, Regulares que fueron de la Compañia, en que tenían
+    esta en la <Concept_Structure>Catedral</Concept_Structure>, otra que es auxiliar o anexa, quatro
+        <Concept_Structure>Conventos</Concept_Structure> de <humanGroup>Religiosos</humanGroup> de
+    las Ordenes de <humanGroup>San Francisco</humanGroup>, <humanGroup>San Agustín</humanGroup>,
+        <humanGroup>Regulares</humanGroup> que fueron de la Compañia, en que tenían
         <Concept_Structure>Casa de Estudios</Concept_Structure>, y
         <Concept_Structure>Hospital</Concept_Structure> de <Structure>San Juan de Dios</Structure>;
     hay además de las referidas otra <Concept_Structure>Iglesia</Concept_Structure> dedicada al
@@ -146,28 +150,29 @@
         Luna</persName>, natural de <Settlement>Madrid</Settlement>, Colegial mayor de San Ildefonso
     de <Settlement>Alcalá</Settlement>, y Cura de la <Concept_District>Parroquia</Concept_District>
     de <Settlement>San Andrés</Settlement> en su patria, electo Obispo el mismo año referido de
-    1631, visitó todo su <Concept_Territory>Obispado</Concept_Territory>, y fue promovido al de la
-        <Settlement>Paz</Settlement> en 1639.<zbr/> 3 Don Fr. <persName>Francisco Diego de Evia y
+    1631, visitó todo su <Concept_Territory>Obispado</Concept_Territory>, y fue promovido al de
+        <Territory>la Paz</Territory> en 1639.<zbr/> 3 Don Fr. <persName>Francisco Diego de Evia y
         Valdés</persName>, del Orden de San Benito, natural de <Settlement>Oviedo</Settlement>,
     Maestro, y Catedratico de Artes en aquella Universidad, y Prelado en diferentes Monasterios de
     su Orden, presentado para Obispo de <Territory>Durango</Territory> en 1639 gobernó 13 años, en
     que anduvo más de 1.000 leguas para visitar su <Concept_Territory>Obispado</Concept_Territory>,
-    fue promovido al de <Settlement>Oaxaca</Settlement> en 1654. <zbr/>
+    fue promovido al de <Territory>Oaxaca</Territory> en 1654. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0054@@@<zbr/> #4 Don <persName>Pedro Barrientps Lomelin</persName>,
     Dignidad de Chantre de la Santa Iglesia de <Settlement>Mexico</Settlement>, Provisor y Vicario
     general del <Concept_Territory>Arzobispado</Concept_Territory>, Cancelario de aquella
-    Universidad, y Comisario Apostolico de la Santa Cruzada, tomó posesión del
-        <Concept_Territory>Obispado</Concept_Territory> en 1656, murió en 1658.<zbr/> 5 Don
-        <persName>Juan de Gorospe y Aguirre</persName>, sugeto de gran talento y literatura, electo
-    el año de 1660, murió el de 1671. <zbr/> 6 Don <persName>Juan de Ortega Montañés</persName>,
-    presentado para este <Concept_Territory>Obispado</Concept_Territory> el año de 1674, y sin tomar
-    posesión promovido al de <Territory>Guatemala</Territory> en el siguiente de 1675.<zbr/> 7 Don
-    Fr. <persName>Bartolomé de Escañuela</persName>, del Orden de San Francisco, promovido del
+        <Concept_Structure>Universidad</Concept_Structure>, y Comisario Apostolico de la Santa
+    Cruzada, tomó posesión del <Concept_Territory>Obispado</Concept_Territory> en 1656, murió en
+    1658.<zbr/> 5 Don <persName>Juan de Gorospe y Aguirre</persName>, sugeto de gran talento y
+    literatura, electo el año de 1660, murió el de 1671. <zbr/> 6 Don <persName>Juan de Ortega
+        Montañés</persName>, presentado para este <Concept_Territory>Obispado</Concept_Territory> el
+    año de 1674, y sin tomar posesión promovido al de <Territory>Guatemala</Territory> en el
+    siguiente de 1675.<zbr/> 7 Don Fr. <persName>Bartolomé de Escañuela</persName>, del
+        <humanGroup>Orden de San Francisco</humanGroup>, promovido del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Puerto-rico</Territory> el año
     de 1776 visitó su <Concept_Territory>Obispado</Concept_Territory>, hizo Constituciones
     Sinodales, y murió el año de 1684.<zbr/> 8 Don Fr. <persName>Manuel de Herrera</persName>, del
-    Orden de Mínimos de San Francisco de Paula, Predicador del Rey, presentado para este
-        <Concept_Territory>Obispado</Concept_Territory> el año de 1686, murió en la
+        <humanGroup>Orden de Mínimos de San Francisco de Paula</humanGroup>, Predicador del Rey,
+    presentado para este <Concept_Territory>Obispado</Concept_Territory> el año de 1686, murió en la
         <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Sombrerete</Settlement> el de
     1689.<zbr/> 9 Don <persName>García de Legaspi y Velasco</persName>, Cura de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Luis de
@@ -180,40 +185,46 @@
         Colombres y Mendoza</persName>, Catedratico de Retorica, Vísperas y Prima de Sagrados
     Canones, Rector quatro veces de la Real Universidad de <Settlement>México</Settlement>, Medio
     Racionero, Racionero, Canonigo Tesorero, Superintendente de la Real fabrica de su Iglesia, Abad
-    reelecto cinco veces, y luego Perpetuo de la Congregación de San Pedro, fundador de su Hospital,
-    Colegio y Hospedería, Primiciero de la Archicofradia de la oSantísima Trinidad, Comisario
-    Apostolico, Subdelegado general de la San<zbr/>
+    reelecto cinco veces, y luego Perpetuo de la <humanGroup>Congregación de San Pedro</humanGroup>,
+    fundador de su <Concept_Structure>Hospital</Concept_Structure>,
+        <Concept_Structure>Colegio</Concept_Structure> y
+        <Concept_Structure>Hospedería</Concept_Structure>, Primiciero de la
+        <humanGroup>Archicofradia de la Santísima Trinidad</humanGroup>, Comisario Apostolico,
+    Subdelegado general de la San<zbr/>
     <zbr/> @@@Alcedo_vol_2-0055@@@<zbr/>
     <zbr/> #ta Cruzada, Juez Provisor y Vicario general del
         <Concept_Territory>Arzobispado</Concept_Territory>, tomó posesión del
         <Concept_Territory>Obispado</Concept_Territory> el año de 1701, y fue promovido al de
-        <Settlement>Valladolid</Settlement> el mismo año.<zbr/> 11 Don <persName>Ignacio Diaz de la
+        <Territory>Valladolid</Territory> el mismo año.<zbr/> 11 Don <persName>Ignacio Diaz de la
         Barrera</persName>, Doctor en Sagrados Canones, Abogado de la <Concept_Territory>Real
         Audiencia</Concept_Territory> de <Territory>México</Territory>, Catedratico de Prima de su
-    Real Universidad, Visitador general del <Concept_Territory>Arzobispado</Concept_Territory>, Cura
-    de la <Concept_District>Parroquia</Concept_District> de la <Settlement>Santa Vera
-        Cruz</Settlement>, Medio Racionero, y Racionero de la Iglesia de la <Settlement>Puebla de
-        los Angeles</Settlement>, Examinador Sinodal de su
-        <Concept_Territory>Obispado</Concept_Territory>, y Canonigo de
-    <Territory>México</Territory>, electo Obispo en 1705, murió el de 1709.<zbr/> 12 Don
+    Real <Concept_Structure>Universidad</Concept_Structure>, Visitador general del
+        <Concept_Territory>Arzobispado</Concept_Territory>, Cura de la
+        <Concept_District>Parroquia</Concept_District> de la <Territory>Santa Vera Cruz</Territory>,
+    Medio Racionero, y Racionero de la Iglesia de la <Settlement>Puebla de los Angeles</Settlement>,
+    Examinador Sinodal de su <Concept_Territory>Obispado</Concept_Territory>, y Canonigo de
+        <Territory>México</Territory>, electo Obispo en 1705, murió el de 1709.<zbr/> 12 Don
         <persName>Pedro Tapis</persName>, Abad de <Settlement>Santa María del Burgo</Settlement> en
     la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Alfaro</Settlement>, Vicario
     de la misma y <Concept_District>partido</Concept_District> de <Settlement>Agreda</Settlement>,
     Visitador general del Obispo de <Territory>Tarazona</Territory>, presentado para este de
         <Territory>Durango</Territory> el año de 1711, murió el de 1722.<zbr/> 13 Don
-        <persName>Benito Crespo</persName>, del Orden de Santiago, Colegial y Rector en el Colegio
-    del Rey en <Settlement>Salamanca</Settlement>, Catedratico de Filosofía y de Teología, Visitador
-    por el Consejo de Ordenes del Convento de <Settlement>Uclés</Settlement>, y de los de Religiosas
-    de Sancti-Spiritus en <Settlement>Salamanca</Settlement>, y Santa Gruz en
-        <Settlement>Valladolid</Settlement>, Dean de la Iglesia de <Settlement>Oaxaca</Settlement>,
-    electo el año de 1723, gobernó hasta el de 1734 que pasó promovido al
-        <Concept_Territory>Obispado</Concept_Territory> de la <Settlement>Puebla de los
-        Angeles</Settlement>.<zbr/> 14 Don <persName>Martín de Elizacochea</persName>, Colegial de
-    la Madre de Dios de Teologos de <Settlement>Alcalá</Settlement>, Catedratico de Filosofía en
-    aquella Universidad, Cancelario de la de <Territory>México</Territory>, Canonigo,
-    Maestre-Escuela, Chantre, Arcediano, y Dean de su Iglesia Metropolitana, Examinador Sinodal del
-        <Concept_Territory>Arzobispado</Concept_Territory>, Comisario general Subdelegado de la
-    Santa Cruzada, Vicario y Capellán mayor de las Madres Capuchinas, tomó posesión del
+        <persName>Benito Crespo</persName>, del <humanGroup>Orden de Santiago</humanGroup>, Colegial
+    y Rector en el Colegio del Rey en <Settlement>Salamanca</Settlement>, Catedratico de Filosofía y
+    de Teología, Visitador por el Consejo de Ordenes del
+        <Concept_Structure>Convento</Concept_Structure> de <Settlement>Uclés</Settlement>, y de los
+    de <humanGroup>Religiosas de Sancti-Spiritus</humanGroup> en <Settlement>Salamanca</Settlement>,
+    y Santa Gruz en <Settlement>Valladolid</Settlement>, Dean de la
+        <Concept_Structure>Iglesia</Concept_Structure> de <Settlement>Oaxaca</Settlement>, electo el
+    año de 1723, gobernó hasta el de 1734 que pasó promovido al
+        <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Puebla de los
+        Angeles</Territory>.<zbr/> 14 Don <persName>Martín de Elizacochea</persName>, Colegial de la
+    Madre de Dios de Teologos de <Settlement>Alcalá</Settlement>, Catedratico de Filosofía en
+    aquella <Concept_Structure>Universidad</Concept_Structure>, Cancelario de la de
+        <Territory>México</Territory>, Canonigo, Maestre-Escuela, Chantre, Arcediano, y Dean de su
+    Iglesia Metropolitana, Examinador Sinodal del
+    <Concept_Territory>Arzobispado</Concept_Territory>, Comisario general Subdelegado de la Santa
+    Cruzada, Vicario y Capellán mayor de las Madres Capuchinas, tomó posesión del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Durango</Territory> el año de
     1736, y gobernó hasta el de 1747 que fue promovido al de <Territory>Mechoacán</Territory>.<zbr/>
     15 Don <persName>Anselmo Sánchez de Tagle</persName>, natural de la
@@ -303,16 +314,17 @@
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
         <Concept_District>distrito</Concept_District> y
-        <Concept_District>Parroquia</Concept_District> de <Settlement>Santo Tomás</Settlement>. <zbr/>
+        <Concept_District>Parroquia</Concept_District> de <Territory>Santo Tomás</Territory>. <zbr/>
     <zbr/> §§§id_05630§§§<zbr/> EAST-HAM, <Concept_Settlement>Ciudad</Concept_Settlement> del
         <Concept_Territory>Condado</Concept_Territory> de <Territory>Bristol</Territory> en la
         ##<Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Plimouth</Territory> y
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Massachussets</Territory>,
     una de las de la <Territory>Nueva Inglaterra</Territory>, esta situada en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Namfet</Landmark>, tiene más de 500
-        <Concept_Group>Indios</Concept_Group> Christianos, quatro escuelas, y seis Jueces de Paz de
-    su <Concept_Group>Nación</Concept_Group> que los gobiernan: esta en 41 gr. 40 min. de lat. sept.
-    y 73 gr. 20 min. de long. occid. <zbr/>
+        <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>Christianos</Concept_Group>, quatro escuelas, y seis Jueces de Paz de su
+        <Concept_Group>Nación</Concept_Group> que los gobiernan: esta en 41 gr. 40 min. de lat.
+    sept. y 73 gr. 20 min. de long. occid. <zbr/>
     <zbr/> §§§id_05631§§§<zbr/> EAST-MAIN, o Continente Oriental,
         <Concept_Territory>Condado</Concept_Territory> del
         <Concept_Territory>País</Concept_Territory> del <Territory>Labrador</Territory> en la parte
@@ -407,13 +419,14 @@
     se abren para darle agua de la de <Settlement>San Christoval</Settlement>, cuya operación se
     hace en tiempo de carnestolendas, y recogen porción de ranas, de charales o pegereyes, que allí
     llaman mistlapique, y se distribuyen entre el Corregidor o Alcalde mayor, el vecindario, y los
-    Religiosos de un <Concept_Structure>Convento</Concept_Structure> que tiene de San Francisco, y
-    es muy hermoso, en que ordinariamente se alojan los Virreyes la noche antes de hacer su entrada
-    en <Settlement>México</Settlement>: tiene este <Concept_Settlement>Pueblo</Concept_Settlement>
-    60 familias de <humanGroup type="social_group">Indios</humanGroup>, y algunas de <humanGroup
-        type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
-        >Mestizos</humanGroup>: dista de <Settlement>México</Settlement> 6 leguas al N, con
-    inclinación al NNE: esta en 277 gr. 12 min. de long. y 21gr. 50min. de lat. <zbr/>
+        <Concept_Group>Religiosos</Concept_Group> de un
+        <Concept_Structure>Convento</Concept_Structure> que tiene de <humanGroup>San
+        Francisco</humanGroup>, y es muy hermoso, en que ordinariamente se alojan los Virreyes la
+    noche antes de hacer su entrada en <Settlement>México</Settlement>: tiene este
+        <Concept_Settlement>Pueblo</Concept_Settlement> 60 familias de
+        <Concept_Group>Indios</Concept_Group>, y algunas de <Concept_Group>Españoles</Concept_Group>
+    y <Concept_Group>Mestizos</Concept_Group>: dista de <Settlement>México</Settlement> 6 leguas al
+    N, con inclinación al NNE: esta en 277 gr. 12 min. de long. y 21gr. 50min. de lat. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0060@@@<zbr/>
     <zbr/> §§§id_05640§§§<zbr/> #ECATEPEQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
@@ -423,19 +436,20 @@
         <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Chalco</Territory> en <Territory>Nueva España</Territory>, tiene 103 familias de
-        <humanGroup type="social_group">Indios</humanGroup>, y un buen
-        <Concept_Structure>Convento</Concept_Structure> de Religiosos de Santo Domingo: dista 6
-    leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+        <Concept_Group>Indios</Concept_Group>, y un buen
+        <Concept_Structure>Convento</Concept_Structure> de <Concept_Group>Religiosos</Concept_Group>
+    de <humanGroup>Santo Domingo</humanGroup>: dista 6 leguas al Oriente de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05642§§§<zbr/> ECCE-HOMO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Jurisdicción</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Pamplona</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, situado en el
         <Concept_Landmark>valle</Concept_Landmark> de la <Landmark>Matanza</Landmark>, es de
     temperamento templado, produce todos los frutos de tierra fria y calida, tiene
-        <Concept_Landmark>minas</Concept_Landmark> de oro, y 400 <humanGroup type="social_group"
-        >vecinos</humanGroup>, esta en el camino que va a <Settlement>Ocaña</Settlement>, 96 leguas
-    al N de <Settlement>Santa Fe</Settlement>, en los terminos que se divide este
-        <Concept_Territory>Arzobispado</Concept_Territory> del
+        <Concept_Landmark>minas</Concept_Landmark> de oro, y 400
+        <Concept_Group>vecinos</Concept_Group>, esta en el camino que va a
+        <Settlement>Ocaña</Settlement>, 96 leguas al N de <Settlement>Santa Fe</Settlement>, en los
+    terminos que se divide este <Concept_Territory>Arzobispado</Concept_Territory> del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santa Marta</Territory>, 24
     leguas al SO de <Territory>Pamplona</Territory>. <zbr/>
     <zbr/> §§§id_05643§§§<zbr/> Tiene el mismo nombre otro
@@ -443,7 +457,7 @@
         <Concept_Territory>Jurisdicción</Concept_Territory> de <Territory>Veles</Territory> en el
     propio <Concept_Territory>Reyno</Concept_Territory>, anexo a el
         <Concept_District>Curato</Concept_District> de <Settlement>Yuca</Settlement>: tiene 300
-        <humanGroup type="social_group">vecinos</humanGroup>, y las mismas producciones que su
+        <Concept_Group>vecinos</Concept_Group>, y las mismas producciones que su
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05644§§§<zbr/> ECHECOUNA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory>
@@ -476,12 +490,12 @@
         España</Territory>, de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado
     en un espacioso <Concept_Landmark>valle</Concept_Landmark> muy fertil, tiene un
-        <Concept_Structure>Convento</Concept_Structure> de Religiosos de San Agustín, 51 familias de
-        <humanGroup type="social_group">Españoles</humanGroup>, 42 de <humanGroup
-        type="social_group">Mestizos</humanGroup>, 11 de <humanGroup type="social_group"
-        >Mulatos</humanGroup> y 76 de <humanGroup type="social_group">Indios</humanGroup>, es de
-    temperamento templado y algo humedo, en su <Concept_District>distrito</Concept_District> hay
-    algunas <Concept_Structure>haciendas</Concept_Structure> en cuyo <zbr/>
+        <Concept_Structure>Convento</Concept_Structure> de <Concept_Group>Religiosos</Concept_Group>
+    de <humanGroup>San Agustín</humanGroup>, 51 familias de <humanGroup>Españoles</humanGroup>, 42
+    de <Concept_Group>Mestizos</Concept_Group>, 11 de <Concept_Group>Mulatos</Concept_Group> y 76 de
+        <Concept_Group>Indios</Concept_Group>, es de temperamento templado y algo humedo, en su
+        <Concept_District>distrito</Concept_District> hay algunas
+        <Concept_Structure>haciendas</Concept_Structure> en cuyo <zbr/>
     <zbr/> @@@Alcedo_vol_2-0061@@@<zbr/>
     <zbr/> #se emplea el vecindario: dista 12 leguas al NE de la
         <Concept_Settlement>Capital</Concept_Settlement>
@@ -504,15 +518,14 @@
     miserable que no merece el nombre de <Concept_Settlement>Ciudad</Concept_Settlement>, su
         <Concept_Territory>jurisdicción</Concept_Territory> tiene otros cinco
         <Concept_Settlement>Pueblecillos</Concept_Settlement>,
-        <Concept_Settlement>reducción</Concept_Settlement> de <humanGroup type="social_group"
-        >Indios</humanGroup> que han hecho los Religiosos de San Francisco: esta en 30 gr. 41 seg.
-    de lat. bor. <zbr/>
+        <Concept_Settlement>reducción</Concept_Settlement> de <Concept_Group>Indios</Concept_Group>
+    que han hecho los <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San
+        Francisco</humanGroup>: esta en 30 gr. 41 seg. de lat. bor. <zbr/>
     <zbr/> §§§id_05651§§§<zbr/> ECLAVA, <Concept_Landmark>Río</Concept_Landmark> de los
         <Landmark>Llanos del Orinoco</Landmark> en el. <Territory>Nuevo Reyno de
     Granada</Territory>, corre al S, y entra en aquel al Mediodía del de <Landmark>Duima</Landmark>,
     sus orillas son muy amenas y deliciosas, y las aguas ##muy ligeras, habitan allí algunos
-        <humanGroup type="social_group">Indios</humanGroup> de la
-        <Concept_Group>Nación</Concept_Group>
+        <Concept_Group>Indios</Concept_Group> de la <Concept_Group>Nación</Concept_Group>
     <humanGroup type="indigenous_group">Saliva</humanGroup>. <zbr/>
     <zbr/> §§§id_05652§§§<zbr/> ECORS, <Concept_Landmark>Río</Concept_Landmark> pequeño de Ia
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -614,7 +627,7 @@
         <humanGroup type="social_group">vecinos</humanGroup>. <zbr/>
     <zbr/> §§§id_05670§§§<zbr/> ELAJOI) <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de
     la <Territory>Carolina Septentrional</Territory> en el
-        <Concept_Territory>territorio</Concept_Territory> de los <Territory>Cherakis</Territory>. <zbr/>
+        <Concept_Territory>territorio</Concept_Territory> de los <humanGroup>Cherakis</humanGroup>. <zbr/>
     <zbr/> §§§id_05671§§§<zbr/> ELAND, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Territory>Carolina Septentrional</Territory>, corre al N, y entra en el del
         <Landmark>Carbón</Landmark>. <zbr/>
@@ -635,7 +648,7 @@
     <zbr/> §§§id_05675§§§<zbr/> ELDIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
         <Concept_District>distrito</Concept_District> y
-        <Concept_District>Parroquia</Concept_District> de <Settlement>Santiago</Settlement>, situado
+        <Concept_District>Parroquia</Concept_District> de <Territory>Santiago</Territory>, situado
     en la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
     <zbr/> §§§id_05676§§§<zbr/> ##ELE, <Concept_Landmark>Río</Concept_Landmark> del <Territory>Nuevo
         Reyno de Granada</Territory>, baxa de las <Concept_Landmark>montañas</Concept_Landmark> de
@@ -655,7 +668,8 @@
     <zbr/> §§§id_05677§§§<zbr/> S. ELEATARIO, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Presidio</Concept_Settlement> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nuevo México</Territory> para
-    contener las incursiones de los <Concept_Group>Indios infieles</Concept_Group>. <zbr/>
+    contener las incursiones de los <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>infieles</Concept_Group>. <zbr/>
     <zbr/> §§§id_05678§§§<zbr/> ELEN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Riobamba</Territory> en
