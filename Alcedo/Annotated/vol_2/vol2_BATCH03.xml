@@ -792,12 +792,11 @@
     <zbr/> §§§id_05690§§§<zbr/> ELICURA, <Concept_Landmark>Sitio</Concept_Landmark> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, al Mediodia
     del fuerte de <Settlement>Paicavi</Settlement>, célebre por la gloriosa muerte que ##padecieron,
-    a manos de los <humanGroup type="social_group">Indios</humanGroup> de
-        <humanGroup>Purén</humanGroup>, los Venerables PP. de la extinguida Compañía
-        <persName>Martín de Aranda</persName>, natural de <Territory>Chile</Territory>;
-        <persName>Oracio Vechi</persName>, de <Territory>Sena</Territory>; y <persName>Diego
-        Montalvan</persName>, de <Territory>México</Territory>, el día 14 de Diciembre del año de
-    1612. <zbr/>
+    a manos de los <Concept_Group>Indios</Concept_Group> de <Territory>Purén</Territory>, los
+    Venerables <Concept_Group>PP</Concept_Group>. de la <humanGroup>extinguida Compañía</humanGroup>
+    <persName>Martín de Aranda</persName>, natural de <Territory>Chile</Territory>; <persName>Oracio
+        Vechi</persName>, de <Territory>Sena</Territory>; y <persName>Diego Montalvan</persName>, de
+        <Territory>México</Territory>, el día 14 de Diciembre del año de 1612. <zbr/>
     <zbr/> §§§id_05691§§§<zbr/> ELISABETHA, <Concept_Settlement>Ciudad</Concept_Settlement> del
         <Concept_Territory>Condado</Concept_Territory> de <Territory>Essex</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -844,8 +843,8 @@
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Culiacán</Territory> en <Territory>Nueva
         España</Territory>, sale al <Concept_Landmark>mar</Concept_Landmark> en la entrada del
-        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>Califor##nía o</Landmark>
-    <Concept_Landmark>mar</Concept_Landmark>
+        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>Califor##nía</Landmark> o
+        <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Roxo de Cortés</Landmark>. <zbr/>
     <zbr/> §§§id_05697§§§<zbr/> ELOTEPEC, San Juan de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -857,19 +856,18 @@
         <Concept_District>distrito</Concept_District>, está 14 leguas al Oriente de su
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05698§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
-    nombre, con la misma advocación, en la Cabecera de <Settlement>Tlacolula</Settlement> y
-        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Huamelula</Territory> en
-    aquel <Concept_Territory>Reyno</Concept_Territory>, situado entre dos
-        <Concept_Landmark>cerros</Concept_Landmark>, tiene 29 familias de <humanGroup
+    nombre, con la misma advocación, en la <Concept_Settlement>Cabecera</Concept_Settlement> de
+        <Settlement>Tlacolula</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
+    de <Territory>Huamelula</Territory> en aquel <Concept_Territory>Reyno</Concept_Territory>,
+    situado entre dos <Concept_Landmark>cerros</Concept_Landmark>, tiene 29 familias de <humanGroup
         type="social_group">Indios</humanGroup> que comercian en grana y alguna seda: está 3 leguas
     al N de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05699§§§<zbr/> ELOXUCHITLAN, San Miguel de)
         <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Thehuacan</Territory> en <Territory>Nueva
-        España</Territory>, tiene 246 familias de <humanGroup type="social_group"
-        >Indios</humanGroup>, y está 14 leguas al E 1/2 al SO de su
-        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+        España</Territory>, tiene 246 familias de <Concept_Group>Indios</Concept_Group>, y está 14
+    leguas al E 1/2 al SO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05700§§§<zbr/> ELQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Coquimbo</Territory> en
@@ -895,8 +893,8 @@
         <Concept_Landmark>boca</Concept_Landmark> del de <Landmark>Tobati-guaza</Landmark>, en que
     hay construido un <Concept_Structure>fuerte</Concept_Structure>. <zbr/>
     <zbr/> §§§id_05704§§§<zbr/> EMBUDO, Rancho del) <Concept_Settlement>Pueblo</Concept_Settlement>
-    pequeño de las Misiones que tienen los Religiosos de San Francisco en el <Territory>Nuevo
-        México</Territory>. <zbr/>
+    pequeño de las Misiones que tienen los <Concept_Group>Religiosos</Concept_Group> de
+        <humanGroup>San Francisco</humanGroup> en el <Territory>Nuevo México</Territory>. <zbr/>
     <zbr/> §§§id_05705§§§<zbr/> EMCHIE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory>,
@@ -909,7 +907,7 @@
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Zelaya</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, tiene
-    97 familias de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
+    97 familias de Indios<Concept_Group/>. <zbr/>
     <zbr/> §§§id_05707§§§<zbr/> EMICOVEN, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> en la
@@ -932,7 +930,7 @@
     <zbr/> §§§id_05711§§§<zbr/> EMPEDRADO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
-    correal O, y entra en el de la <Landmark>Plata</Landmark>, al S de la
+    corre al O, y entra en el de la <Landmark>Plata</Landmark>, al S de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Corrientes</Settlement>. <zbr/>
     <zbr/> §§§id_05712§§§<zbr/> EMPIRA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -942,9 +940,10 @@
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Córdoba</Territory>, entre los
         <Concept_Landmark>ríos</Concept_Landmark>
     <Landmark>2.°</Landmark> y <Landmark>3.°</Landmark><zbr/>
-    <zbr/> §§§id_05713§§§<zbr/> ENCABELLADOS, <Concept_Group>Nación bárbara de
-        Indios</Concept_Group> del <Concept_Territory>Reyno</Concept_Territory> de
-        <Territory>Quito</Territory>, al N del <Concept_Landmark>río</Concept_Landmark>
+    <zbr/> §§§id_05713§§§<zbr/> ENCABELLADOS, <Concept_Group>Nación</Concept_Group>
+    <Concept_Group>bárbara</Concept_Group> de <Concept_Group>Indios</Concept_Group> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, al N del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Napo</Landmark>, les dieron este nombre los <humanGroup type="political_group"
         >Españoles</humanGroup> que los descubrieron con el Capitán <persName>Juan
         Palacios</persName> el año <zbr/>
@@ -955,16 +954,18 @@
     sus confinantes, que son los <humanGroup type="indigenous_group">Seños</humanGroup>, <humanGroup
         type="indigenous_group">Becavas</humanGroup>, <humanGroup type="indigenous_group"
         >Tamas</humanGroup>, <humanGroup type="indigenous_group">Chusias</humanGroup>, y <humanGroup
-        type="indigenous_group">Ramos</humanGroup>: los Religiosos Misioneros de San Francisco de la
+        type="indigenous_group">Ramos</humanGroup>: los <Concept_Group>Religiosos</Concept_Group>
+    <Concept_Group>Misioneros</Concept_Group> de <humanGroup>San Francisco</humanGroup> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Sucumbios</Territory>, y los
-    Regulares de la Compañía de la de <Territory>Mainas</Territory>, reduxeron a algunos a la
-    Religión Católica. <zbr/>
+        <Concept_Group>Regulares</Concept_Group> de <humanGroup>la Compañía</humanGroup> de la de
+        <Territory>Mainas</Territory>, reduxeron a algunos a la Religión Católica. <zbr/>
     <zbr/> §§§id_05714§§§<zbr/> Tiene el mismo nombre con la advocación de <Settlement>San Juan
         Baptista</Settlement>, un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory>,
         <Concept_Settlement>reducción de Indios</Concept_Settlement> de esta
-        <Concept_Group>Nación</Concept_Group> hecha por los Regulares de la extinguida Compañía. <zbr/>
+        <Concept_Group>Nación</Concept_Group> hecha por los <Concept_Group>Regulares</Concept_Group>
+    de <humanGroup>la extinguida Compañía</humanGroup>. <zbr/>
     <zbr/> §§§id_05715§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la misma
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory> a quien da el nombre la
@@ -972,17 +973,21 @@
     veinte leguas más abaxo del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Aguarico</Landmark>; a su entrada se establecieron el año de 1636 quarenta <humanGroup
         type="political_group">Portugueses</humanGroup>, que vivieron en paz y alianza con los
-        <humanGroup type="social_group">Indios</humanGroup> hasta que estos se su##blevaron; pero
-    perseguidos por aquellos cogieron 700 personas, de que murieron en prisión la mayor parte. <zbr/>
+        <Concept_Group>Indios</Concept_Group> hasta que estos se su##blevaron; pero perseguidos por
+    aquellos cogieron 700 personas, de que murieron en prisión la mayor parte. <zbr/>
     <zbr/> §§§id_05716§§§<zbr/> ENCARAMADA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guayana</Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, uno de los
-    de las Misiones del <Landmark>Orinoco</Landmark>, que tenían en ella los Regulares de la
-    Compañía de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Santa
-        Fe</Territory>, situado a orilla de aquel <Concept_Landmark>río</Concept_Landmark>, y hoy
-    esta a cargo de los Religiosos Capuchinos. <zbr/>
+    de las <Concept_Settlement>Misiones</Concept_Settlement> del <Landmark>Orinoco</Landmark>, que
+    tenían en ella los <Concept_Group>Regulares</Concept_Group> de <humanGroup>la
+        Compañía</humanGroup> de la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Santa Fe</Territory>, situado a orilla de aquel
+        <Concept_Landmark>río</Concept_Landmark>, y hoy esta a cargo de los
+        <Concept_Group>Religiosos</Concept_Group>
+    <humanGroup>Capuchinos</humanGroup>. <zbr/>
     <zbr/> §§§id_05717§§§<zbr/> ENCARNACION, <Concept_Settlement>Pueblo</Concept_Settlement> de las
-    Misiones que tenían los Regulares de la Compañía en la
+        <Concept_Settlement>Misiones</Concept_Settlement> que tenían los
+        <Concept_Group>Regulares</Concept_Group> de <humanGroup>la Compañía</humanGroup> en la
         <Concept_Territory>Provincia</Concept_Territory> del <Territory>Guaira</Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, situado
     a orilla del <Concept_Landmark>río</Concept_Landmark>
@@ -1017,9 +1022,9 @@
     <zbr/> §§§id_05722§§§<zbr/> ENERECAMU, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory> al N del
-        <Settlement>Tigre</Settlement>, corre a Levante 16 leguas, después al Mediodía, hasta que
-    entra en aquel por su orilla Septentrional: en los <Concept_Landmark>bosques</Concept_Landmark>
-    que hay a su entrada habita la <Concept_Group>Nación</Concept_Group> de
+        <Landmark>Tigre</Landmark>, corre a Levante 16 leguas, después al Mediodía, hasta que entra
+    en aquel por su orilla Septentrional: en los <Concept_Landmark>bosques</Concept_Landmark> que
+    hay a su entrada habita la <Concept_Group>Nación</Concept_Group> de
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Ayacores</humanGroup>. Esta la boca en 2 gr. 3 m. de lat.
     aust. <zbr/>
@@ -1167,25 +1172,26 @@
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>S. Salvador</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
-    <zbr/> §§§id_05748§§§<zbr/> EPARAGOIS, <Concept_Group>Nación barbara</Concept_Group> de la
-        <Territory>Nueva Andalucía</Territory> en las inmediaciones del
-        <Concept_Landmark>lago</Concept_Landmark>
-    <Landmark>Cassipa</Landmark>, viven estos bárbaros de la caza y de la pesca, descienden de los
-        <humanGroup type="indigenous_group">Caribes</humanGroup> marítimos, aunque no son tan
-    crueles, y tienen trato y amistad con los <humanGroup type="political_group"
-        >Holandeses</humanGroup> de las <Concept_Territory>Colonias</Concept_Territory> de
-        <Territory>Esquivo</Territory> y de <Territory>Surinam</Territory>. <zbr/>
+    <zbr/> §§§id_05748§§§<zbr/> EPARAGOIS, <Concept_Group>Nación</Concept_Group>
+    <Concept_Group>barbara</Concept_Group> de la <Territory>Nueva Andalucía</Territory> en las
+    inmediaciones del <Concept_Landmark>lago</Concept_Landmark>
+    <Landmark>Cassipa</Landmark>, viven estos <Concept_Group>bárbaros</Concept_Group> de la caza y
+    de la pesca, descienden de los <humanGroup type="indigenous_group">Caribes</humanGroup>
+    marítimos, aunque no son tan crueles, y tienen trato y amistad con los <humanGroup
+        type="political_group">Holandeses</humanGroup> de las
+        <Concept_Territory>Colonias</Concept_Territory> de <Territory>Esquivo</Territory> y de
+        <Territory>Surinam</Territory>. <zbr/>
     <zbr/> §§§id_05749§§§<zbr/> EPATLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Izucar</Territory>, cuyo
         <Concept_District>partido</Concept_District> comprehende seis
         <Concept_Settlement>Pueblos</Concept_Settlement> bien inmediatos que contienen 515 familias
-    de <humanGroup type="social_group">Indios</humanGroup>, y 38 de <humanGroup type="social_group"
-        >Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup
-        type="social_group">Mulatos</humanGroup>, esta situado en terreno llano, abundante de
-    semillas y frutas, y en su inmediación tiene una <Concept_Landmark>laguna</Concept_Landmark> en
-    que pescan mojarras, que son unos pececillos muy regalados: dista 3 leguas entre Oriente y N de
-    su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    de <Concept_Group>Indios</Concept_Group>, y 38 de <humanGroup>Españoles</humanGroup>,
+        <Concept_Group>Mestizos</Concept_Group> y <Concept_Group>Mulatos</Concept_Group>, esta
+    situado en terreno llano, abundante de semillas y frutas, y en su inmediación tiene una
+        <Concept_Landmark>laguna</Concept_Landmark> en que pescan mojarras, que son unos pececillos
+    muy regalados: dista 3 leguas entre Oriente y N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05750§§§<zbr/> EPAZEYUCA, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de la
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zempoala</Territory> en
@@ -1198,8 +1204,8 @@
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>
     en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, tiene 4
-    familias de <humanGroup type="social_group">Españoles</humanGroup>, y 58 de <humanGroup
-        type="social_group">Indios</humanGroup>, que se mantienen del trato de curtir cueros y de la
+    familias de <humanGroup type="social_group">Españoles</humanGroup>, y 58 de
+        <Concept_Group>Indios</Concept_Group>, que se mantienen del trato de curtir cueros y de la
     siembra de algunas semillas, esta situado en un <Concept_Landmark>llano</Concept_Landmark> 14
     leguas de la <Concept_Settlement>Capital</Concept_Settlement>
     <Settlement>Pascuaro</Settlement>. <zbr/>
@@ -1213,20 +1219,19 @@
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Maravatio</Territory> en
     el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>, tiene
-    26 familias de <humanGroup type="social_group">Indios</humanGroup>, y dista una legua al E de su
+    26 familias de <Concept_Group>Indios</Concept_Group>, y dista una legua al E de su
         <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05754§§§<zbr/> EQUANDUREO, Los Reyes de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de la <Territory>Piedad</Territory> en <Territory>Nueva
         España</Territory>, anexo al <Concept_District>Curato</Concept_District> de la
         <Concept_Settlement>Capital</Concept_Settlement>
-    <Settlement>Tlazasalca</Settlement>, tiene 64 familias de <humanGroup type="social_group"
-        >Indios</humanGroup> que no hacen más comercio que el de sus cortas siembras de maíz, y
-    al##gunas frutas que cultivan: en su <Concept_District>distrito</Concept_District> hay nueve
-    puestos o congregaciones en que habitan 462 familias de <humanGroup type="social_group"
-        >Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup
-        type="social_group">Mulatos</humanGroup>, que viven del trato de sus
-        <Concept_Structure>haciendas</Concept_Structure>, esta 5 leguas de la
+    <Settlement>Tlazasalca</Settlement>, tiene 64 familias de <Concept_Group>Indios</Concept_Group>
+    que no hacen más comercio que el de sus cortas siembras de maíz, y al##gunas frutas que
+    cultivan: en su <Concept_District>distrito</Concept_District> hay nueve puestos o congregaciones
+    en que habitan 462 familias de <humanGroup type="social_group">Españoles</humanGroup>,
+        <Concept_Group>Mestizos</Concept_Group> y <Concept_Group>Mulatos</Concept_Group>, que viven
+    del trato de sus <Concept_Structure>haciendas</Concept_Structure>, esta 5 leguas de la
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05755§§§<zbr/> ERENA, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -1238,19 +1243,19 @@
         <Landmark>Oranasa</Landmark>. <zbr/>
     <zbr/> §§§id_05756§§§<zbr/> ERIE, <Concept_Landmark>Lago</Concept_Landmark> grande de la
         <Territory>Nueva Francia</Territory> o <Territory>Canada</Territory>, llamado así por una
-        <Concept_Group>Nación de Indios</Concept_Group> que habitaba sus orillas, tiene 100 leguas
-    de largo E O y 30 de ancho N S, esta poblado de muchas
+        <Concept_Group>Nación</Concept_Group> de <Concept_Group>Indios</Concept_Group> que habitaba
+    sus orillas, tiene 100 leguas de largo E O y 30 de ancho N S, esta poblado de muchas
         <Concept_Landmark>Islas</Concept_Landmark> amenas y fertiles, y en sus
         <Concept_Landmark>Costas</Concept_Landmark> tiene hermosos prados y
         <Concept_Landmark>bosques</Concept_Landmark> abundantes de caza; los <humanGroup
         type="political_group">Franceses</humanGroup> tenían allí diferentes
         <Concept_Settlement>establecimientos</Concept_Settlement> para el comercio de pieles que
-    hacen con los <humanGroup type="social_group">Indios</humanGroup>, y dicen que es el más hermoso
+    hacen con los <Concept_Group>Indios</Concept_Group>, y dicen que es el más hermoso
         <Concept_Territory>país</Concept_Territory> de toda la
         <Concept_Territory>Provincia</Concept_Territory>: este
         <Concept_Landmark>lago</Concept_Landmark> desagua en el <Landmark>Ontario</Landmark> por un
         <Concept_Landmark>canal</Concept_Landmark> llamado salto de <Landmark>Niágara</Landmark>. <zbr/>
-    <zbr/> §§§id_05757§§§<zbr/> ERIES, <Concept_Group>Nación de In<zbr/>
+    <zbr/> §§§id_05757§§§<zbr/> ERIES, <Concept_Group>Nación</Concept_Group> de <Concept_Group>In<zbr/>
         <zbr/> @@@Alcedo_vol_2-0074@@@<zbr/>
         <zbr/> #dios</Concept_Group> de la <Territory>Nueva Francia</Territory> o
         <Territory>Canada</Territory>, que da el nombre al <Concept_Landmark>lago</Concept_Landmark>
@@ -1288,14 +1293,16 @@
         Partido</Concept_Settlement>, y por donde pasa el camino real de
         <Settlement>Papantla</Settlement>, uno de los mayores de esta
         <Concept_Territory>jurisdicción</Concept_Territory>, en que hay establecidas muchas familias
-    de <humanGroup type="social_group">Españoles</humanGroup> y 535 de <humanGroup
-        type="social_group">Indios</humanGroup>, tiene un Convento de Religiosos de Santo Domingo:
-    en la antigüedad y tiempo de los <humanGroup type="social_group">Indios Gentiles</humanGroup>
-    era Corte, y donde labraban para el Emperador Motezuma todas las alhajas de oro y plata de su
-    servicio, y fundiciones de metales, por los artífices a quienes tenía destinado este
-        <Concept_Settlement>Pueblo</Concept_Settlement> para mansión, y todavía hay muchos dedicados
-    a este oficio de fundidores en bronce, que hacen campanas, clavos de puertas y quiciales: está
-    3/4 de legua de <Territory>Tacuba</Territory>. <zbr/>
+    de <humanGroup type="social_group">Españoles</humanGroup> y 535 de
+        <Concept_Group>Indios</Concept_Group>, tiene un
+        <Concept_Structure>Convento</Concept_Structure> de <Concept_Group>Religiosos</Concept_Group>
+    de <humanGroup>Santo Domingo</humanGroup>: en la antigüedad y tiempo de los
+        <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>Gentiles</Concept_Group> era Corte, y donde labraban para el Emperador Motezuma
+    todas las alhajas de oro y plata de su servicio, y fundiciones de metales, por los artífices a
+    quienes tenía destinado este <Concept_Settlement>Pueblo</Concept_Settlement> para mansión, y
+    todavía hay muchos dedicados a este oficio de fundidores en bronce, que hacen campanas, clavos
+    de puertas y quiciales: está 3/4 de legua de <Territory>Tacuba</Territory>. <zbr/>
     <zbr/> §§§id_05763§§§<zbr/> ESCARA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chichas y
@@ -1313,10 +1320,10 @@
         <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Zacualpa</Territory> en <Territory>Nueva España</Territory>, tiene 175 familias
-    de <humanGroup type="social_group">Indios</humanGroup>
+    de <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Mexicanos</humanGroup>, y algunas de <humanGroup
-        type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
-        >Mestizos</humanGroup>, y esta 32 leguas al SO de <Settlement>México</Settlement>. <zbr/>
+        type="social_group">Españoles</humanGroup> y <Concept_Group>Mestizos</Concept_Group>, y esta
+    32 leguas al SO de <Settlement>México</Settlement>. <zbr/>
     <zbr/> §§§id_05766§§§<zbr/> ESCLAVOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
