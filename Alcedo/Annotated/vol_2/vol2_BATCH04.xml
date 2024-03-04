@@ -716,8 +716,8 @@
     <zbr/> §§§id_05802§§§<zbr/> ESPINAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Papantla</Territory> en <Territory>Nueva
-        España</Territory>, tiene 70 familias de <humanGroup type="social_group"
-    >Indios</humanGroup>, y está 7 leguas al S de aquella. <zbr/>
+        España</Territory>, tiene 70 familias de <Concept_Group>Indios</Concept_Group>, y está 7
+    leguas al S de aquella. <zbr/>
     <zbr/> §§§id_05803§§§<zbr/> ESPINAS, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
     la Cabecera de <Settlement>Orizaba</Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Ixmiquilpan</Territory> en <Territory>Nueva
@@ -743,10 +743,10 @@
     catorce que le componen, confina por el O con la de <Territory>Puerto Seguro</Territory>, por el
     E con la del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Geneiro</Landmark>, por el S con las <Concept_Landmark>montañas</Concept_Landmark> y
-        <Concept_Group>Naciones de Indios</Concept_Group> Infieles, que se interna muy poco, por el
-    N con el <Concept_Landmark>mar</Concept_Landmark>, en cuya
-        <Concept_Landmark>Costa</Concept_Landmark> tiene 50 leguas de largo, estuvo habitada de los
-        <Concept_Group>Indios</Concept_Group>
+        <Concept_Group>Naciones</Concept_Group> de <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>Infieles</Concept_Group>, que se interna muy poco, por el N con el
+        <Concept_Landmark>mar</Concept_Landmark>, en cuya <Concept_Landmark>Costa</Concept_Landmark>
+    tiene 50 leguas de largo, estuvo habitada de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Tupinaes</humanGroup> y <humanGroup type="indigenous_group"
         >Tupinanquins</humanGroup>, a quienes sojuzgaron los <humanGroup type="indigenous_group"
         >Aimores</humanGroup>: la conquistó de estos <persName>Vasco Fernandez Coutiño</persName>,
@@ -790,22 +790,23 @@
         <Concept_Territory>Provincia</Concept_Territory>, y facilitaría; el comercio con la
         <Territory>Vera Cruz</Territory>: los <humanGroup type="political_group"
         >Franceses</humanGroup> mandados por <persName>Roberto de la Sala</persName> se apoderaron
-    de ella el año de 1685; poniendole por nombre San Luis, y establecieron en ella guarnición
-    francesa, cuya noticia obligó al <persName>Conde de la Monclova</persName>, que era Virrey de
-        <Territory>Nueva España</Territory>, a enviar el de 1687 al Gobernador de la
+    de ella el año de 1685; poniendole por nombre <Landmark>San Luis</Landmark>, y establecieron en
+    ella guarnición francesa, cuya noticia obligó al <persName>Conde de la Monclova</persName>, que
+    era Virrey de <Territory>Nueva España</Territory>, a enviar el de 1687 al Gobernador de la
         <Territory>Coaguila</Territory> para desalojarlos; pero no tuvo que hacer porque los
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Texas</humanGroup> los habian muerto a todos: el año de 1721
     se construyó de orden del Rey el fuerte y <Concept_Settlement>presidio</Concept_Settlement> de
-        <Settlement>nuestra Señora de Loreto</Settlement>, llamado después del Espíritu-Santo, donde
-    hay 38 Soldados con ##un Capitán y varios <Concept_Landmark>Cabos</Concept_Landmark>
-    subalternos: esta situado en un alto que domina la campaña y el
+        <Settlement>nuestra Señora de Loreto</Settlement>, llamado después del
+        <Settlement>Espíritu-Santo</Settlement>, donde hay 38 Soldados con ##un Capitán y varios
+    Cabos subalternos: esta situado en un alto que domina la campaña y el
         <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Gabriel</Landmark>; pero como esta
     más de 40 leguas tierra adentro, no puede servir de defensa a la
         <Concept_Landmark>Bahía</Concept_Landmark> ni a la
         <Concept_Landmark>Costa</Concept_Landmark>, y si solo para contener las incursiones de los
-        <Concept_Group>Indios infieles</Concept_Group>: esta en 277 gr. 15 min. de long. y en 29 gr.
-    10 min. de lat. <zbr/>
+        <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>infieles</Concept_Group>: esta en 277 gr. 15 min. de long. y en 29 gr. 10 min. de
+    lat. <zbr/>
     <zbr/> §§§id_05810§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
@@ -828,9 +829,9 @@
         <Concept_Settlement>Villa</Concept_Settlement> de la <Settlement>Concepción</Settlement>. <zbr/>
     <zbr/> §§§id_05814§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el
-        <Territory>Nuevo Reyno de Gra</Territory><zbr/>
-    <zbr/> @@@Alcedo_vol_2-0095@@@<zbr/>
-    <zbr/> #nada, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
+        <Territory>Nuevo Reyno de Gra<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0095@@@<zbr/>
+        <zbr/> #nada</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Cauca</Landmark>, en que tiene un buen <Concept_Landmark>Puerto</Concept_Landmark> muy
     frequentado de embarcaciones pequeñas. <zbr/>
     <zbr/> §§§id_05815§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
@@ -914,30 +915,31 @@
     de las 36 que hay amojonadas allí, en 1.040 pesos al día; sin embargo de lo dicho se saca de
     estas <Concept_Landmark>minas</Concept_Landmark> mucha plata, pues lavan a 10, a 12 y a 20
     marcos por caxon, y si desaguaran algunas darían a 120, y aun hasta 500. <zbr/>
-    <zbr/> §§§id_05828§§§<zbr/> ESQUIMAUX, <Concept_Group>Nación barbara</Concept_Group> y feroz de
-    la <Territory>America Septentrional</Territory>, que habita en la parte más oriental de ella, a
-    la otra vanda del <Concept_Landmark>río</Concept_Landmark>
+    <zbr/> §§§id_05828§§§<zbr/> ESQUIMAUX, <Concept_Group>Nación</Concept_Group>
+    <Concept_Group>barbara</Concept_Group> y feroz de la <Territory>America
+        Septentrional</Territory>, que habita en la parte más oriental de ella, a la otra vanda del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>San Lorenzo</Landmark>, y se extiende al Levante y al N en aquel dilatado
         <Concept_Territory>país</Concept_Territory>, que se llama
         <Concept_Landmark>tierra</Concept_Landmark> del <Territory>Labrador</Territory>, enfrente de
         <Territory>Terranova</Territory>, desde 50 hasta 64 gr. de lat. sept. y desde 59 hasta 80 de
-    long. occid. Fueron descubiertos estos <humanGroup type="social_group">Indios</humanGroup> por
-    los <humanGroup type="political_group">Dinamarqueses</humanGroup> a principios de la centuria
-    pasada; y pero ##los hallaron tan brutales y malvados, y el
-        <Concept_Territory>país</Concept_Territory> tan salvage y estéril, que no creyeron sacar
-    ventaja alguna en hacer <Concept_Settlement>establecimiento</Concept_Settlement> en el, ni en
-    comerciar con ellos. El nombre suponen que era Esquimantsic, que en dialecto Albenaquio
-    significa comedores de carne cruda, por ser los unicos que en aquella parte la comen así, pues
-    los demás acostumbran cocerla o secarla al sol. Por su aspecto, costumbres y lengua parecen
-    distintos de todos los <humanGroup type="social_group">Indios</humanGroup> de la
-        <Territory>America</Territory>, y probablemente se puede creer que son descendientes de los
-        <humanGroup type="indigenous_group">Groenlandios</humanGroup>; pero tienen una índole tan
-    feroz y brutal, que no hay <Concept_Group>Nación</Concept_Group> Europea que quiera tener trato
-    con ellos, y los pocos que hacen el de las pieles, que es la única mercancia que traen a cambio
-    de quincalla, se ven precisados a estar distantes, y no permitirles que se acerquen muchos
-    juntos, porque quando sucede esto no tienen reparo en asesinar a los compradores; aborrecen a
-    todos los <humanGroup type="social_group">Europeos</humanGroup>, y siempre estan dispuestos a
-    hacerles daño, y muchas veces vienen a la <Concept_Landmark>Costa</Concept_Landmark> a <zbr/>
+    long. occid. Fueron descubiertos estos <Concept_Group>Indios</Concept_Group> por los <humanGroup
+        type="political_group">Dinamarqueses</humanGroup> a principios de la centuria pasada; y pero
+    ##los hallaron tan brutales y malvados, y el <Concept_Territory>país</Concept_Territory> tan
+    salvage y estéril, que no creyeron sacar ventaja alguna en hacer
+        <Concept_Settlement>establecimiento</Concept_Settlement> en el, ni en comerciar con ellos.
+    El nombre suponen que era Esquimantsic, que en dialecto Albenaquio significa comedores de carne
+    cruda, por ser los unicos que en aquella parte la comen así, pues los demás acostumbran cocerla
+    o secarla al sol. Por su aspecto, costumbres y lengua parecen distintos de todos los
+        <Concept_Group>Indios</Concept_Group> de la <Territory>America</Territory>, y probablemente
+    se puede creer que son descendientes de los <humanGroup type="indigenous_group"
+        >Groenlandios</humanGroup>; pero tienen una índole tan feroz y brutal, que no hay
+        <Concept_Group>Nación</Concept_Group> Europea que quiera tener trato con ellos, y los pocos
+    que hacen el de las pieles, que es la única mercancia que traen a cambio de quincalla, se ven
+    precisados a estar distantes, y no permitirles que se acerquen muchos juntos, porque quando
+    sucede esto no tienen reparo en asesinar a los compradores; aborrecen a todos los <humanGroup
+        type="social_group">Europeos</humanGroup>, y siempre estan dispuestos a hacerles daño, y
+    muchas veces vienen a la <Concept_Landmark>Costa</Concept_Landmark> a <zbr/>
     <zbr/> @@@Alcedo_vol_2-0097@@@<zbr/>
     <zbr/> #cortar por la noche los cables a las embarcaciones con la esperanza de verlos naufragar:
     son por lo común grandes, robustos y agiles, de color tan blanco como los <humanGroup
@@ -967,7 +969,7 @@
     la fiereza e indocilidad que han encontrado siempre ha hecho que <zbr/>
     <zbr/> @@@Alcedo_vol_2-0098@@@<zbr/>
     <zbr/> #vayan en decadencia en vez de aumento: se computa que llegan a 3000 los que hay capaces
-    de tomar armas; pero tan cobardes que 500 Christianos de la
+    de tomar armas; pero tan cobardes que 500 <Concept_Group>Christianos</Concept_Group> de la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark> baten comunmente a
     cinco o seis mil <humanGroup type="indigenous_group">Esquimaux</humanGroup>: son tan temibles en
     la <Concept_Landmark>mar</Concept_Landmark> como en tierra, pues con sus canoas, de que hay
@@ -981,22 +983,22 @@
         <Concept_Territory>país</Concept_Territory> dicen que hay en el una raza particular de
     pigmeos que no pasan de tres pies, y son sumamente gruesos, y sus mugeres aun más pequeñas; pero
     que no hay <Concept_Group>Nación</Concept_Group> en el mundo que sea más miserable. Los
-        <humanGroup type="indigenous_group">Esquimaux</humanGroup> de quienes son <humanGroup
-        type="social_group">esclavos</humanGroup> los tratan con mucho rigor, y solo por una
-    ##gracia particular les permiten beber agua dulce, muy escasa allí, donde no hay otra que la de
-    la nieve derretida, porque el sumo frío cierra de tal modo las venas de la tierra que no permite
-    paso al agua sí no a mucha profundidad, congetura comprobada por algunos marineros del N, que
-    han hallado en las orillas del <Concept_Landmark>mar</Concept_Landmark> pedazos de hielo enormes
-    que destilaban una agua muy buena: estos <humanGroup type="social_group">Indios</humanGroup>
-    estan acostumbrados a beber agua salobre de muchas <Concept_Landmark>lagunas</Concept_Landmark>
-    que hay en lo interior del <Concept_Territory>país</Concept_Territory>: los <humanGroup
-        type="political_group">Dinamarqueses</humanGroup> que el año de 1605 navegaron hasta mayor
-    latitud que nadie en la <Concept_Landmark>Bahía</Concept_Landmark> de
-        <Landmark>Hudson</Landmark>, dicen que hallaron una raza de hombres muy pequeños que tenían
-    la cabeza quadrada, el color obscuro, y los labios gruesos, que comían la carne y el pescado
-    crudos, y no los pudieron hacer comer pan, carne cocida, ni beber vino, en cuyo lugar bebían
-    aceyte de ballena: las canoas de estos pigmeos tenían 10 u 12 pies de largo, hechas de pedazos
-    de huesos de ballena del grueso de un dedo, cubiertas <zbr/>
+        <humanGroup type="indigenous_group">Esquimaux</humanGroup> de quienes son
+        <Concept_Group>esclavos</Concept_Group> los tratan con mucho rigor, y solo por una ##gracia
+    particular les permiten beber agua dulce, muy escasa allí, donde no hay otra que la de la nieve
+    derretida, porque el sumo frío cierra de tal modo las venas de la tierra que no permite paso al
+    agua sí no a mucha profundidad, congetura comprobada por algunos marineros del N, que han
+    hallado en las orillas del <Concept_Landmark>mar</Concept_Landmark> pedazos de hielo enormes que
+    destilaban una agua muy buena: estos <Concept_Group>Indios</Concept_Group> estan acostumbrados a
+    beber agua salobre de muchas <Concept_Landmark>lagunas</Concept_Landmark> que hay en lo interior
+    del <Concept_Territory>país</Concept_Territory>: los <humanGroup type="political_group"
+        >Dinamarqueses</humanGroup> que el año de 1605 navegaron hasta mayor latitud que nadie en la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark>, dicen que
+    hallaron una raza de hombres muy pequeños que tenían la cabeza quadrada, el color obscuro, y los
+    labios gruesos, que comían la carne y el pescado crudos, y no los pudieron hacer comer pan,
+    carne cocida, ni beber vino, en cuyo lugar bebían aceyte de ballena: las canoas de estos pigmeos
+    tenían 10 u 12 pies de largo, hechas de pedazos de huesos de ballena del grueso de un dedo,
+    cubiertas <zbr/>
     <zbr/> @@@Alcedo_vol_2-0099@@@<zbr/>
     <zbr/> #por ambas partes de pieles de vaca marina, cosidas con nervios de animales; otras dos
     pieles forman la cubierta de la canoa, dexando solamente una abertura en medio para el que rema,
@@ -1013,14 +1015,14 @@
     como aquellas, en que van 150 personas al remo y a la vela; estan en guerra continua con los
         <humanGroup type="social_group">Europeos</humanGroup> que habitan cerca del
         <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, que muchas
-    veces han cogido <humanGroup type="social_group">esclavos</humanGroup> a algunos, y con la
-    servidumbre y distancia de su <Concept_Territory>país</Concept_Territory> han suavizado algo sus
-    costumbres barbaras y feroces ( como los lobos y los osos de que abundan aquellos horribles
-    desiertos) sin leyes, principios ni vida civil, que apenas se diferencian de las bestias más que
-    por la figura humana, haciéndose mansos y racionales luego que estan entre gentes que usan de
-    esta noble facultad, que distingue al hombre de un modo superior entre todo el resto de las
-    criaturas: los <humanGroup type="indigenous_group">Esquimaux</humanGroup> son los únicos que
-    vienen a la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Terranova</Territory> del
+    veces han cogido <Concept_Group>esclavos</Concept_Group> a algunos, y con la servidumbre y
+    distancia de su <Concept_Territory>país</Concept_Territory> han suavizado algo sus costumbres
+    barbaras y feroces ( como los lobos y los osos de que abundan aquellos horribles desiertos) sin
+    leyes, principios ni vida civil, que apenas se diferencian de las bestias más que por la figura
+    humana, haciéndose mansos y racionales luego que estan entre gentes que usan de esta noble
+    facultad, que distingue al hombre de un modo superior entre todo el resto de las criaturas: los
+        <humanGroup type="indigenous_group">Esquimaux</humanGroup> son los únicos que vienen a la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Terranova</Territory> del
     continente del <Territory>Labrador</Territory> a pescar y comerciar con los <humanGroup
         type="social_group">Europeos</humanGroup>, y nadie creeria que sobre los espantosos
         <Concept_Landmark>escollos</Concept_Landmark> de hielo; que algunos son tan grandes como las
@@ -1040,22 +1042,23 @@
     en sus cavernas no se han detenido en hacer 30 u 40 leguas por
         <Concept_Landmark>mar</Concept_Landmark> en canoas hechas de cortezas de arboles: finalmente
     los <humanGroup type="indigenous_group">Esquimaux</humanGroup> no tienen semejanza alguna con
-    los otros habitantes del <Territory>Canada</Territory> ni demás <humanGroup type="social_group"
-        >Indios</humanGroup> en lengua, costumbres, modo de vivir, y color de sus cuerpos y
-    cabellos; y al con##trario, tienen tanto de los <Concept_Settlement>Pueblos</Concept_Settlement>
-    Septentrionales del <Territory>Asia</Territory>, que parece probable discurrir que descienden de
-    estos, como el que un <Concept_Territory>país</Concept_Territory> tan poco habitable como este
-    tenga menos antiguedad su Población que los demás de la <Territory>America</Territory>: los
-        <humanGroup type="political_group">Ingleses</humanGroup> conduxeron a
-        <Settlement>Londres</Settlement>, y presentaron al Rey una muger de estos <humanGroup
-        type="indigenous_group">Esquimaux</humanGroup> el año de 1773. Este
-        <Concept_Territory>país</Concept_Territory> fue cedido a la <Territory>Gran
-        Bretaña</Territory> por la paz de <Settlement>Utrech</Settlement> el año de 1713; pero a
-    excepción de tal qual <Concept_Settlement>establecimiento</Concept_Settlement> en el fondo de la
+    los otros habitantes del <Territory>Canada</Territory> ni demás
+        <Concept_Group>Indios</Concept_Group> en lengua, costumbres, modo de vivir, y color de sus
+    cuerpos y cabellos; y al con##trario, tienen tanto de los
+        <Concept_Settlement>Pueblos</Concept_Settlement> Septentrionales del
+        <Territory>Asia</Territory>, que parece probable discurrir que descienden de estos, como el
+    que un <Concept_Territory>país</Concept_Territory> tan poco habitable como este tenga menos
+    antiguedad su Población que los demás de la <Territory>America</Territory>: los <humanGroup
+        type="political_group">Ingleses</humanGroup> conduxeron a <Settlement>Londres</Settlement>,
+    y presentaron al Rey una muger de estos <humanGroup type="indigenous_group"
+        >Esquimaux</humanGroup> el año de 1773. Este <Concept_Territory>país</Concept_Territory> fue
+    cedido a la <Territory>Gran Bretaña</Territory> por la paz de <Settlement>Utrech</Settlement> el
+    año de 1713; pero a excepción de tal qual
+        <Concept_Settlement>establecimiento</Concept_Settlement> en el fondo de la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudson</Landmark>, no hay otro
-    alguno: los <humanGroup type="social_group">Indios</humanGroup> y los <humanGroup
-        type="political_group">Franceses</humanGroup> del <Territory>Canada</Territory> van a caza
-    por la utilidad de las pieles. <zbr/>
+    alguno: los <Concept_Group>Indios</Concept_Group> y los <humanGroup type="political_group"
+        >Franceses</humanGroup> del <Territory>Canada</Territory> van a caza por la utilidad de las
+    pieles. <zbr/>
     <zbr/> §§§id_05829§§§<zbr/> ESQUIÑA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arica</Territory> en el
