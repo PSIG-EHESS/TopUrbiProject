@@ -1,9 +1,5 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
-<xml>@@@Alcedo_vol_3-0151@@@<zbr/>
-<zbr/>
-#ceses</humanGroup>, está enfrente de la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Orapú</Landmark>. <zbr/>
-<zbr/>
-§§§id_10140§§§<zbr/>
+<xml>§§§id_10140§§§<zbr/>
 MERI, <Concept_Landmark>Brazo</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Orinoco</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayana</Territory> que forma una <Concept_Landmark>Isla</Concept_Landmark> grande enfrente de la <Concept_Landmark>Costa</Concept_Landmark> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Hovaroux</humanGroup>. <zbr/>
 <zbr/>
 §§§id_10141§§§<zbr/>
@@ -162,7 +158,7 @@ METEPEC, <Concept_Territory>Jurisdicción</Concept_Territory> y <Concept_Territo
 #sacan mucha utilidad <humanGroup type="social_group">sus vecinos</humanGroup>: consta la Población de 36. <Concept_Settlement>Pueblos principales Cabezas de Parti##do</Concept_Settlement>, a que están sujetos más de 300 pequeños, o <Concept_Settlement>Barrios</Concept_Settlement> reducidos a 13. <Concept_District>Curatos</Concept_District>. <zbr/>
 <zbr/>
 ßßß<zbr/>
-#S. <LOC>Miguel Temazcalzingo</LOC>.<zbr/>
+    #<Settlement>S. Miguel Temazcalzingo</Settlement>.<zbr/>
 <Settlement>S. Pedro de Tultepec</Settlement>. <zbr/>
 <Settlement>S. Francisco Chichicocuitla</Settlement>.<zbr/>
 <Settlement>S. Francisco Xonacatlán</Settlement>.<zbr/>
@@ -286,10 +282,10 @@ MEXICO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Co
 <zbr/>
 @@@Alcedo_vol_3-0163@@@<zbr/>
 <zbr/>
-#Cuyuacan. <zbr/>
+#<Settlement>Cuyuacan</Settlement>. <zbr/>
 <Settlement>Churubusco</Settlement>.<zbr/>
 <Settlement>Santa Fe</Settlement>.<zbr/>
-<Settlement>Ntra</Settlement>. <LOC>Señora de Guadalupe</LOC>.<zbr/>
+<Settlement>Ntra. Señora de Guadalupe</Settlement>.<zbr/>
 <Settlement>Ixtapalapán</Settlement>.<zbr/>
 <Settlement>Ixtacalco</Settlement>.<zbr/>
 <Settlement>Mexicalzinco</Settlement>.<zbr/>
@@ -309,7 +305,7 @@ MEXICO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Co
 <Settlement>Amecamecan</Settlement>.<zbr/>
 <Settlement>Atzompan</Settlement>.<zbr/>
 <Settlement>Achichipico</Settlement>.<zbr/>
-Real de <Settlement>Atotonilco Chico</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Atotonilco Chico</Settlement>.<zbr/>
 <Settlement>Atotonilco el Grande</Settlement>.<zbr/>
 <Settlement>Acatlán</Settlement>.<zbr/>
 <Settlement>Acúlco</Settlement>.<zbr/>
@@ -320,7 +316,7 @@ Real de <Settlement>Atotonilco Chico</Settlement>.<zbr/>
 <Settlement>Almoloyán</Settlement>.<zbr/>
 <Settlement>Acamistla</Settlement>.<zbr/>
 <Settlement>Acapetlahuayán</Settlement>.<zbr/>
-<Settlement>Ainacepec</Settlement> <Settlement>Tlat<zbr/>
+<Settlement>Amatepec Tlat<zbr/>
 ##laya</Settlement>.<zbr/>
 <Settlement>Alahuistlán</Settlement>.<zbr/>
 <Settlement>Apaxtla</Settlement>.<zbr/>
@@ -345,7 +341,7 @@ Real de <Settlement>Atotonilco Chico</Settlement>.<zbr/>
 <Settlement>Capuluac</Settlement>.<zbr/>
 <Settlement>Calimaya</Settlement>.<zbr/>
 <Settlement>Cacalotenango</Settlement>.<zbr/>
-<Settlement>Coatepec</Settlement> de los Costales.<zbr/>
+<Settlement>Coatepec de los Costales</Settlement>.<zbr/>
 <Settlement>Coyuca</Settlement>.<zbr/>
 <Settlement>Cuernayaca</Settlement>.<zbr/>
 <Settlement>Casas Viejas</Settlement>.<zbr/>
@@ -401,12 +397,12 @@ Real de <Settlement>Atotonilco Chico</Settlement>.<zbr/>
 <Settlement>Molanco</Settlement>.<zbr/>
 <Settlement>Otumba</Settlement>.<zbr/>
 <Settlement>Ocuituco</Settlement>.<zbr/>
-Real de <Settlement>Omitían</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Omitlan</Settlement>.<zbr/>
 <Settlement>Ocoyoacan</Settlement>.<zbr/>
 <Settlement>Ocuila</Settlement>.<zbr/>
 <Settlement>Oapán</Settlement>.<zbr/>
 <Settlement>Pacula</Settlement> y <Settlement>Xiliapan</Settlement>.<zbr/>
-Real de <Settlement>Pachuca</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Pachuca</Settlement>.<zbr/>
 <Settlement>Pilcayán</Settlement>.<zbr/>
 <Settlement>Pueblito</Settlement>.<zbr/>
 <Settlement>Panuco</Settlement>.<zbr/>
@@ -444,16 +440,16 @@ Real de <Settlement>Pachuca</Settlement>.<zbr/>
 <Settlement>Temoaya</Settlement>.<zbr/>
 <Settlement>Temascalcinco</Settlement>.<zbr/>
 <Settlement>Temascaltepec del Valle</Settlement>.<zbr/>
-Real de <Settlement>Temascaltepec</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Temascaltepec</Settlement>.<zbr/>
 <Settlement>Texupilco</Settlement>.<zbr/>
 <Settlement>Toluca</Settlement>.<zbr/>
 <Settlement>Tenango del Valle</Settlement>.<zbr/>
 <Settlement>Tescaliacac</Settlement>.<zbr/>
 <Settlement>Tenancinco</Settlement>.<zbr/>
 <Settlement>Tecualoyan</Settlement>.<zbr/>
-Real de <Settlement>Tezicapán</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Tezicapán</Settlement>.<zbr/>
 <Settlement>Tetipac</Settlement>.<zbr/>
-Real de <Settlement>Tasco</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Tasco</Settlement>.<zbr/>
 <Settlement>Totoloapan</Settlement>.<zbr/>
 <Settlement>Tetela del Río</Settlement>.<zbr/>
 <Settlement>Tlayacapan</Settlement>.<zbr/>
@@ -461,7 +457,7 @@ Real de <Settlement>Tasco</Settlement>.<zbr/>
 <Settlement>Totolapán</Settlement>.<zbr/>
 <Settlement>Tlaltizapán</Settlement>.<zbr/>
 <Settlement>Tlalquitenanco</Settlement>.<zbr/>
-###<Settlement>Tenango</Settlement> del <Concept_Landmark>Río</Concept_Landmark>.<zbr/>
+###<Settlement>Tenango del Río</Settlement>.<zbr/>
 <Settlement>Tepoxtlán</Settlement>.<zbr/>
 <Settlement>Tepequacuilco</Settlement>.<zbr/>
 <Settlement>Tolimanejo</Settlement>.<zbr/>
@@ -477,38 +473,38 @@ Real de <Settlement>Tasco</Settlement>.<zbr/>
 <Settlement>Tempoal</Settlement>.<zbr/>
 <Settlement>Tantoyuca</Settlement>.<zbr/>
 <Settlement>Tantima</Settlement>.<zbr/>
-<Settlement>Villanueva de la <Concept_Landmark>Peña</Concept_Landmark> de Francia</Settlement>.<zbr/>
+<Settlement>Villanueva de la Peña de Francia</Settlement>.<zbr/>
 <Settlement>Xacala</Settlement>.<zbr/>
 <Settlement>Xalpan</Settlement>.<zbr/>
 <Settlement>Xuchitepec</Settlement>.<zbr/>
 <Settlement>Xumiltepec</Settlement>.<zbr/>
 <Settlement>Xaltenco</Settlement>.<zbr/>
 <Settlement>Xiquipilco</Settlement>.<zbr/>
-<LOC>Xocotitlán</LOC>.<zbr/>
+<Settlement>Xocotitlán</Settlement>.<zbr/>
 <Settlement>Xilotepec</Settlement>.<zbr/>
 <Settlement>Xilatlaco</Settlement>.<zbr/>
-<LOC>Xantetelco</LOC>.<zbr/>
-<LOC>Xonacatepec</LOC>.<zbr/>
-<LOC>Xiutepec</LOC>.<zbr/>
-<LOC>Xochitepec</LOC>.<zbr/>
-Xichu de Indios.<zbr/>
-Real de Xichu.<zbr/>
-Real de Zimapan.<zbr/>
+<Settlement>Xantetelco</Settlement>.<zbr/>
+<Settlement>Xonacatepec</Settlement>.<zbr/>
+<Settlement>Xiutepec</Settlement>.<zbr/>
+<Settlement>Xochitepec</Settlement>.<zbr/>
+<Settlement>Xichu de Indios</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Xichu</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Zimapan</Settlement>.<zbr/>
 <Settlement>Zempoala</Settlement>.<zbr/>
 <Settlement>Zumpango de la Laguna</Settlement>.<zbr/>
 <Settlement>Ziautehutla</Settlement>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0165@@@<zbr/>
 <zbr/>
-#Real de <Settlement>Zultepec</Settlement>.<zbr/>
+#<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Zultepec</Settlement>.<zbr/>
 <Settlement>Zumpahuacán</Settlement>.<zbr/>
-Real de <Settlement>Zacualpan</Settlement>.<zbr/>
+<Concept_Settlement>Real</Concept_Settlement> de <Settlement>Zacualpan</Settlement>.<zbr/>
 <Settlement>Zacualpan de Amilpas</Settlement>.<zbr/>
 <Settlement>Zumpango del Río</Settlement>.<zbr/>
 <Settlement>Zaqualtipan</Settlement>.<zbr/>
 <Settlement>Zontecomatlán</Settlement>.<zbr/>
 <Settlement>Zoquiatipan</Settlement>.<zbr/>
-##LAS MISIONES.<zbr/>
+##___LAS MISIONES___.<zbr/>
 <Settlement>Tampico</Settlement>.<zbr/>
 <Settlement>Ozuluama</Settlement>.<zbr/>
 <Settlement>Tarabon</Settlement>.<zbr/>
@@ -520,7 +516,7 @@ Real de <Settlement>Zacualpan</Settlement>.<zbr/>
 <Settlement>Tamitas</Settlement>.<zbr/>
 <Settlement>Villa de Valles</Settlement>.<zbr/>
 <Settlement>Tampasquil</Settlement>. <zbr/>
-###<Settlement>Palma</Settlement> o Salto del agua.<zbr/>
+###<Settlement>Palma</Settlement> o <Settlement>Salto del agua</Settlement>.<zbr/>
 <Settlement>Huayabos</Settlement>.<zbr/>
 <Settlement>Sauz</Settlement>.<zbr/>
 <Settlement>Tanlacrin</Settlement>.<zbr/>
@@ -531,7 +527,7 @@ Real de <Settlement>Zacualpan</Settlement>.<zbr/>
 <Settlement>Horcasitas</Settlement>.<zbr/>
 <Settlement>Altamira</Settlement>.<zbr/>
 <Settlement>Tamuya</Settlement>.<zbr/>
-Las <Settlement>Palma</Settlement>s. <zbr/>
+Las <Settlement>Palmas</Settlement>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_10198§§§<zbr/>

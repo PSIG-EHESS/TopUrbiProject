@@ -290,34 +290,34 @@ MECHOACAN, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory
 #y 60. La descubrió y conquistó de su Rey <persName>Calzontzi Cristoval de Olid</persName>, <Concept_Settlement>Capital</Concept_Settlement> del célebre <persName>Hernán Cortés</persName>: es de temperamento templado por lo general, y tan sano que los <humanGroup type="social_group">Indios</humanGroup> que padecían enfermedades habituales en tiempo de su gentilidad se iban a establecer en esta <Concept_Territory>Provincia</Concept_Territory>, y recobraban la salud. Rieganla muchos <Concept_Landmark>ríos</Concept_Landmark> y fuentes de delicadas aguas, y de las ultimas hay varias calientes y medicinales: tiene asimismo varias <Concept_Landmark>lagunas</Concept_Landmark>, en que se coge abundancia de pescado: todala tierra es muy fértil y pingue de frutos, y en especial de trigo, maíz, chile o pimiento, frixoles, calabazas y frutas de varias especies: produce mucha miel, cera, algodón de que hacen muy buenos texidos, y seda, de cuyos gusanos hace gran cría, y es uno de los principales renglones de su comercio: en los <Concept_Landmark>bosques</Concept_Landmark> abunda de maderas excelentes y esquisitas, y en ellos hay mucha caza de aves, conejos y liebres, y ##en las <Concept_Structure>haciendas</Concept_Structure> se cría infinito ganado por la abundancia de pastos que hay en ellas. En diferentes partes de esta <Concept_Territory>Provincia</Concept_Territory> se encuentran muy buenas <Concept_Landmark>salinas</Concept_Landmark>, y una piedra negra, de que se sirven los <humanGroup type="social_group">Indios</humanGroup> para sacar filo a las navajas, y otra más fina que es como el azavache: es la tierra más rica de <Concept_Landmark>minas</Concept_Landmark> de oro, plata, cobre y estaño, y el año de 1725 se descubrió una de plata tan abundante que llamaron de <LOC>Morcillo</LOC>, y produxo infinito metal, pero se cegó con una <Concept_Landmark>montaña</Concept_Landmark> que se desplomó, de modo que no se ha podido volver a encontrar. Sus <humanGroup type="social_group">naturales</humanGroup>, antes de la conquista por los <humanGroup type="political_group">Españoles</humanGroup> eran belicosísimos, robustos, hermosos y los más diestros tiradores de flecha, y nunca pudieron los Emperadores <humanGroup type="indigenous_group">Mexicanos</humanGroup> sujetarlos al yugo de su Imperio: está dividida en 25. <Concept_Territory>jurisdicciones</Concept_Territory> y <Concept_Territory>Alcaldías mayores</Concept_Territory> que son las siguientes, y la <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Valladolid</Settlement>.<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<Settlement>Pasquaro</Settlement>.<zbr/>
-<Settlement>Chaco</Settlement>.<zbr/>
-##<Settlement>Zelaya</Settlement>.<zbr/>
-<Settlement>Salvatierra</Settlement>.<zbr/>
-###<Settlement>San Miguel el Grande</Settlement>.<zbr/>
+#<Territory>Pasquaro</Territory>.<zbr/>
+<Territory>Chaco</Territory>.<zbr/>
+##<Territory>Zelaya</Territory>.<zbr/>
+<Territory>Salvatierra</Territory>.<zbr/>
+###<Territory>San Miguel el Grande</Territory>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0137@@@<zbr/>
 <zbr/>
-#Guanajuato.<zbr/>
-<Settlement>León</Settlement>.<zbr/>
-<Settlement>S. Luis de la Paz</Settlement>.<zbr/>
-<Settlement>S. Luis de Potosí</Settlement>.<zbr/>
-<Settlement>San Pedro Guadalcazar</Settlement>.<zbr/>
-<Settlement>Maravatio</Settlement>.<zbr/>
-<Settlement>Tlalpujagua</Settlement>.<zbr/>
-##<Settlement>Jasso</Settlement> y <Settlement>Teremendo</Settlement>.<zbr/>
-<Settlement>Cuiséo de la Laguna</Settlement>.<zbr/>
-<Settlement>Chilchota</Settlement>.<zbr/>
-<Settlement>Zamora</Settlement>.<zbr/>
-<Settlement>Colima</Settlement>.<zbr/>
-<Settlement>Tanzitaro</Settlement>.<zbr/>
-###<Settlement>Guimeo</Settlement>.<zbr/>
-<Settlement>Cinagua</Settlement>.<zbr/>
-<Settlement>Motines</Settlement>.<zbr/>
-<Settlement>Tinguindin</Settlement>.<zbr/>
-<Settlement>Xiquilpa</Settlement>.<zbr/>
-<Settlement>Tlasasalca</Settlement>.<zbr/>
-<Settlement>Zacatula</Settlement>. <zbr/>
+#<Territory>Guanajuato</Territory>.<zbr/>
+<Territory>León</Territory>.<zbr/>
+<Territory>S. Luis de la Paz</Territory>.<zbr/>
+<Territory>S. Luis de Potosí</Territory>.<zbr/>
+<Territory>San Pedro Guadalcazar</Territory>.<zbr/>
+<Territory>Maravatio</Territory>.<zbr/>
+<Territory>Tlalpujagua</Territory>.<zbr/>
+##<Territory>Jasso y Teremendo</Territory>.<zbr/>
+<Territory>Cuiséo de la Laguna</Territory>.<zbr/>
+<Territory>Chilchota</Territory>.<zbr/>
+<Territory>Zamora</Territory>.<zbr/>
+<Territory>Colima</Territory>.<zbr/>
+<Territory>Tanzitaro</Territory>.<zbr/>
+###<Territory>Guimeo</Territory>.<zbr/>
+<Territory>Cinagua</Territory>.<zbr/>
+<Territory>Motines</Territory>.<zbr/>
+<Territory>Tinguindin</Territory>.<zbr/>
+<Territory>Xiquilpa</Territory>.<zbr/>
+<Territory>Tlasasalca</Territory>.<zbr/>
+<Territory>Zacatula</Territory>. <zbr/>
 $$$<zbr/>
 <zbr/>
 ___OBISPOS QUE HA HABIDO EN MECHOACAN.___<zbr/>
@@ -603,4 +603,9 @@ MERCEDES, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territo
 <zbr/>
 §§§id_10139§§§<zbr/>
 MERE La) o la Madre) <Concept_Landmark>Isla</Concept_Landmark> pequeña cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayana</Territory> en la parte que poseen los <humanGroup type="political_group">Fran<zbr/>
-<zbr/></xml>
+<zbr/>
+@@@Alcedo_vol_3-0151@@@<zbr/>
+<zbr/>
+#ceses</humanGroup>, está enfrente de la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Orapú</Landmark>. <zbr/>
+<zbr/>
+</xml>

@@ -165,14 +165,14 @@ MARTINICA, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar
 #rages tiene varias <Concept_Landmark>montañas</Concept_Landmark> escarpadas, de las quales baxan despeñados a los <Concept_Landmark>valles</Concept_Landmark> algunos <Concept_Landmark>riachuelos</Concept_Landmark> que la hacen deliciosa y sumamente fértil y abundante, de quanto hay en las demás <Concept_Landmark>Islas</Concept_Landmark> de la <Territory>América</Territory>: su principal fruto, de que hace un gran comercio, es el azúcar; produce también mucho algodón, añil, pimienta, xenxibre, cacao, aloes, plátanos, maíz, aceitunas, y toda especie de yervas de <Territory>Europa</Territory> pero el trigo y las ubas no han tenido nunca el éxito que se esperaba, y sí el café que es de excelente calidad; el ayre es más cálido que en la de <Territory>Guadalupe</Territory>, pero los uracanes son menos frecuentes y no tan violentos como en las demás: la poseyó la Compañía Francesa de las <Territory>Indias Occidentales</Territory>hasta el año de 1651, que la vendió con otras al Señor <persName>Parquet</persName>, pero el de 1664 la volvió a comprar, y el 1674 la cedió a la Corona que la incorporó a sus dominios. Esta <Concept_Landmark>Isla</Concept_Landmark> es la mejor de las que tiene la <Territory>Francia</Territory>; está dividida en ##cinco partes, además de otra sexta que ocupan los bárbaros, y es la más aspera y escabrosa: la riegan nada menos que 40. <Concept_Landmark>Ríos</Concept_Landmark>, algunos de los quales son navegables por mucha extensión del <Concept_Territory>País</Concept_Territory>, como el <Landmark>Pilot</Landmark>, <Landmark>Capat</Landmark>, <Landmark>Salado</Landmark>, y <Landmark>Trinidad</Landmark>, además de muchos torrentes que en tiempos de lluvia inundan los campos y los prados; hay varias <Concept_Landmark>montañas</Concept_Landmark> cultivadas, y otras están cubiertas de <Concept_Landmark>bosques</Concept_Landmark> que sirven de asilo a muchos animales, culebras e insectos; y el tabaco que se coge en las <Concept_Landmark>Colinas</Concept_Landmark> de los <Concept_Landmark>montes</Concept_Landmark> lo prefieren al de otros parages: en la <Concept_Landmark>Costa</Concept_Landmark> tiene varias <Concept_Landmark>Bahías</Concept_Landmark> y <Concept_Landmark>Puertos</Concept_Landmark> muy cómodos y capaces para embarcaciones grandes, el mejor está entre <LOC>Carbet</LOC>, y el fnerte de <Landmark>San Pedro</Landmark>: los fuertes de más consideración son éste, fuerte Real, de la <Landmark>Trinidad</Landmark>, de <LOC>Marigot</LOC>, y de la <Concept_Landmark>Rada</Concept_Landmark>; contiene 28. <Concept_District>Parroquias</Concept_District>, el mismo numero de <Concept_Settlement>Pueblos</Concept_Settlement>, y dos <Concept_Settlement>Ciudades</Concept_Settlement>, que son los siguientes: <zbr/>
 <zbr/>
 ßßß<zbr/>
-#S. Pedro.<zbr/>
-##Predicador.<zbr/>
+#<Settlement>S. Pedro</Settlement>.<zbr/>
+##<Settlement>Predicador</Settlement>.<zbr/>
 ###<Settlement>Carbet</Settlement>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0107@@@<zbr/>
 <zbr/>
-#Casa Piloto.<zbr/>
-Anclaje.<zbr/>
+#<Settlement>Casa Piloto</Settlement>.<zbr/>
+<Settlement>Anclaje</Settlement>.<zbr/>
 <Settlement>Macouba</Settlement>.<zbr/>
 <Settlement>Basse Point</Settlement>.<zbr/>
 <Settlement>Anee Grand</Settlement>.<zbr/>
@@ -186,9 +186,9 @@ Anclaje.<zbr/>
 <Settlement>Agujero del Gato</Settlement>.<zbr/>
 ###<Settlement>Ances d'Arlet.</Settlement><zbr/>
 El <Settlement>Diamante</Settlement>.<zbr/>
-<LOC>Cul de Sac a Vache</LOC>.<zbr/>
+<Settlement>Cul de Sac a Vache</Settlement>.<zbr/>
 <Settlement>Lamcutin</Settlement>.<zbr/>
-<LOC>Cul de Sac Marin</LOC>.<zbr/>
+<Settlement>Cul de Sac Marin</Settlement>.<zbr/>
 $$$<zbr/>
 <zbr/>
 En esta <Concept_Landmark>Isla</Concept_Landmark> reside el Gobernador General de las que tiene la <Territory>Francia</Territory> además del particular de ella, de quien depende las de <Territory>Santa Lucia</Territory> y la <Territory>Granada</Territory>; la habitan muchos comerciantes ricos, y es muy frecuentada de embarcaciones, especialmente de <LOC>Nantes</LOC>, cuya carga tiene un pronto despacho: el <Concept_Landmark>Puerto</Concept_Landmark> es abrigo seguro en tiempo de huracanes, y a <LOC>Barlovento</LOC> de las demás <Concept_Landmark>Islas</Concept_Landmark>, que es circunstancia muy ventajosa para los que vienen a <Territory>Europa</Territory>: ha padecido mucho con las frecuentes sublevaciones de los <humanGroup type="social_group">Indios</humanGroup> salvages naturales de ella, y el año de 1727 con un terrible terremoto que duró 11 horas continuas con poquísima intermisión, y el de 1767 con otro que la destruyó casi toda, pereciendo 1600 personas, y en 1766 por un fuerte huracán, y en 1772 por otro terremoto ##que arruinó las fortificaciones: tuvo su principal aumento en el Reynado de <Territory>Luis XIV</Territory>; que envió a ella muchos Protestantes para sacarlos de <Territory>Francia</Territory>: hoy esta muy floreciente, bien fortificada, y puede poner sobre las armas 10000 hombres, y 40 ú 50000 negros. Por el padrón o numeración hecho el año de 1767 tenía 12450 habitantes <humanGroup type="social_group">blancos</humanGroup>, 1840. <humanGroup type="social_group">negros</humanGroup> y <humanGroup type="social_group">mulatos libres</humanGroup>: 70553. <humanGroup type="social_group">esclavos</humanGroup>, y 443. <humanGroup type="social_group">cimarrones</humanGroup> o huidos de sus amos, que formaban 84817 almas: 3776 cavallos, 4214 mulas, 293 borricos, 12736 vacas y toros, 975 cerdos, y 13544 ovejas y carneros. Las <Concept_Structure>plantaciones</Concept_Structure> consistían en 11444 quadras de tierra sembradas de cañas dulces 6.638757 plantas de café, 861043 de cacao 1.764807 de algodón, 59966 de casia. Los pastos o <Concept_Landmark>sabanas</Concept_Landmark> ocupaban 10972 quadras de tier<zbr/>
@@ -239,25 +239,25 @@ MASACHUSETS, <Concept_Territory>Provincia</Concept_Territory> de la <Territory>A
 #Oficiales de la República y de la Milicia, y aunque el Consejo era elegido por los Diputados del <Concept_Settlement>Pueblo</Concept_Settlement>, conservaba el Gobernador derecho de negar su aprobación, y era suficiente para cortar aquella prerrogativa. Las apelaciones, en siendo de la cantidad de 300 libras esterlinas en adelante, debían concederse al Rey y su Consejo, que igualmente aprobaba las Leyes y Constituciones; pero si no recibían la desaprobación en el termino de tres años se consideraban válidas y autorizadas: tuvieron disputa muchos años con la Corte de <Territory>Inglaterra</Territory> sobre el salario que debia gozar el Gobernador de esta <Concept_Territory>Provincia</Concept_Territory>, que produce trigo en abundancia, pero muy pocos granos de otra especie, mucho ganado vacuno, ovejuno, cerdos, aves, pescado, lino y cáñamo; y sus habitantes se ocupan en hacer ma##nufacturas de lino, lana y pieles; construyen porción considerable de embarcaciones por la abundancia de maderas y demas materiales necesarios que tienen; hay también <Concept_Landmark>minas</Concept_Landmark> de fierro y de cobre, y de las primeras se trabajan algunas, pero en general sus fabricas, y particularmente las de sombreros, que eran muy estimados, decayeron pop las providencias de <Territory>Inglaterra</Territory>: provee de carne y pescado salado a las <Concept_Landmark>Islas</Concept_Landmark> <Landmark>Antilles</Landmark>, recibiendo en cambio azúcar, melaza: tienen alambiques para hacer rum, y algunos <Concept_Structure>trapiches</Concept_Structure> de azúcar: era la <Concept_Territory>Colonia</Concept_Territory> más poderosa de los <humanGroup type="political_group">Ingleses</humanGroup>; sus habitantes llegaban antes de la guerra, en que quedaron independientes a 400.000, de los quales habia 80.000 capaces de tomar las armas, y todos tenían libertad de religión: estaba dividida en 10. <Concept_Territory>Condados</Concept_Territory> que son<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<LOC>Hampshire</LOC>.<zbr/>
-<Settlement>Suffolk</Settlement>.<zbr/>
-<Settlement>Worcesser</Settlement>.<zbr/>
-<Settlement>Esex</Settlement>.<zbr/>
-<Settlement>Middlesex</Settlement>.<zbr/>
-##<Settlement>Bristol</Settlement>.<zbr/>
-<Settlement>Plimouth</Settlement>.<zbr/>
-<Settlement>Barnstable</Settlement>.<zbr/>
-<LOC>Duque</LOC> o <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Marta</Landmark>.<zbr/>
-<Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Kantuket</Landmark>.<zbr/>
+#<Territory>Hampshire</Territory>.<zbr/>
+<Territory>Suffolk</Territory>.<zbr/>
+<Territory>Worcesser</Territory>.<zbr/>
+<Territory>Esex</Territory>.<zbr/>
+<Territory>Middlesex</Territory>.<zbr/>
+##<Territory>Bristol</Territory>.<zbr/>
+<Territory>Plimouth</Territory>.<zbr/>
+<Territory>Barnstable</Territory>.<zbr/>
+<Territory>Duque</Territory> o <Territory>Isla de Marta</Territory>.<zbr/>
+<Territory>Isla de Kantuket</Territory>.<zbr/>
 $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0111@@@<zbr/>
 <zbr/>
-#a quienes agregaron después los de Yorck, <Territory>Lincoln</Territory>, <Territory>Cumberland</Territory> con el <Concept_Territory>territorio</Concept_Territory> de <Territory>Sagadok</Territory>, y las <Concept_Landmark>Islas</Concept_Landmark> de <Landmark>Nashawn</Landmark>, ##<Landmark>Tinkers</Landmark>, <Landmark>Slokumbs</Landmark>, <Landmark>Muskejet</Landmark>, <Landmark>Noman</Landmark>, y <Landmark>Kuttihunt</Landmark>, en que hay las <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Settlement>Pueblos</Concept_Settlement> siguientes:<zbr/>
+#a quienes agregaron después los de <Territory>Yorck</Territory>, <Territory>Lincoln</Territory>, <Territory>Cumberland</Territory> con el <Concept_Territory>territorio</Concept_Territory> de <Territory>Sagadok</Territory>, y las <Concept_Landmark>Islas</Concept_Landmark> de <Territory>Nashawn</Territory>, ##<Territory>Tinkers</Territory>, <Territory>Slokumbs</Territory>, <Territory>Muskejet</Territory>, <Territory>Noman</Territory>, y <Territory>Kuttihunt</Territory>, en que hay las <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Settlement>Pueblos</Concept_Settlement> siguientes:<zbr/>
 <zbr/>
 ßßß<zbr/>
 #1. <zbr/>
-<Territory>Canadá</Territory>.<zbr/>
+<Settlement>Canadá</Settlement>.<zbr/>
 <Settlement>Pequiong</Settlement>.<zbr/>
 <Settlement>Salem</Settlement>.<zbr/>
 <Settlement>Petersham</Settlement>.<zbr/>
@@ -356,8 +356,8 @@ $$$<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0112@@@<zbr/>
 <zbr/>
-#Charles Town.<zbr/>
-<LOC>Cambridge</LOC> <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
+#<Settlement>Charles Town</Settlement>.<zbr/>
+<Settlement>Cambridge</Settlement> <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
 6.<zbr/>
 <Settlement>Attleborongh</Settlement>.<zbr/>
 <Settlement>Barrington</Settlement>.<zbr/>
@@ -370,7 +370,7 @@ $$$<zbr/>
 <Settlement>Freetown</Settlement>.<zbr/>
 <Settlement>Dartmonth</Settlement>.<zbr/>
 <Settlement>Tannton</Settlement> <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
-##<Settlement>7</Settlement>. <zbr/>
+##7. <zbr/>
 <Settlement>Hanover</Settlement>.<zbr/>
 <Settlement>Abingdon</Settlement>.<zbr/>
 <Settlement>Duxbury</Settlement>.<zbr/>

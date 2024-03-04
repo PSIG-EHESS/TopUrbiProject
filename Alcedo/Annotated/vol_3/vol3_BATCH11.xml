@@ -281,9 +281,9 @@ $$$<zbr/>
 El segundo de otros seis a la parte Oriental del mismo <Concept_Landmark>Río</Concept_Landmark> llamados.<zbr/>
 <zbr/>
 ßßß<zbr/>
-#Magdalena.<zbr/>
+#<Settlement>Magdalena.</Settlement><zbr/>
 <Settlement>Concepción</Settlement>.<zbr/>
-##S. Joaquín.<zbr/>
+##<Settlement>S. Joaquín</Settlement>.<zbr/>
 <Settlement>S. Martín</Settlement>.<zbr/>
 ###<Settlement>S. Simón</Settlement>.<zbr/>
 <Settlement>S. Nicolás</Settlement>.<zbr/>
@@ -292,15 +292,15 @@ $$$<zbr/>
 Y el tercero tres, que son<zbr/>
 <zbr/>
 ßßß<zbr/>
-#S. Ignacio.<zbr/>
+#<Settlement>S. Ignacio</Settlement>.<zbr/>
 ##<Settlement>S. Francisco de Borja</Settlement>.<zbr/>
-###<Settlement>Los Stos</Settlement>. <Settlement>Reyes</Settlement>.<zbr/>
+###<Settlement>Los Stos. Reyes</Settlement>.<zbr/>
 $$$<zbr/>
 <zbr/>
 En todos los quales hay 22.000 <humanGroup type="social_group">Indios</humanGroup> de las <Concept_Group>Naciones</Concept_Group> <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Moxos.<zbr/>
+#<Settlement>Moxos</Settlement>.<zbr/>
 <Settlement>Tapacuras</Settlement>.<zbr/>
 <Settlement>Bolepas</Settlement>.<zbr/>
 <Settlement>Coriciaras</Settlement>.<zbr/>
@@ -313,12 +313,12 @@ En todos los quales hay 22.000 <humanGroup type="social_group">Indios</humanGrou
 ##<Settlement>Rotoroños</Settlement>.<zbr/>
 <Settlement>Mures</Settlement>.<zbr/>
 <Settlement>Erirumas</Settlement>.<zbr/>
-Canicianas.<zbr/>
-Pechucos.<zbr/>
+<Settlement>Canicianas</Settlement>.<zbr/>
+<Settlement>Pechucos</Settlement>.<zbr/>
 <Settlement>Sapis</Settlement>.<zbr/>
-Cayubabas.<zbr/>
-Canacures.<zbr/>
-Ocoronos.<zbr/>
+<Settlement>Cayubabas</Settlement>.<zbr/>
+<Settlement>Canacures</Settlement>.<zbr/>
+<Settlement>Ocoronos</Settlement>.<zbr/>
 <Settlement>Chúmanos</Settlement>.<zbr/>
 ###<Settlement>Mayacamas</Settlement>.<zbr/>
 <Settlement>Tibois</Settlement>.<zbr/>
