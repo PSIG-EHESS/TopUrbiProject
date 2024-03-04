@@ -312,183 +312,183 @@ MARANON, Amazonas, Orellana, o Solimoes) que todos estos nombres tiene, <Concept
 ___CATÁLOGO DE LAS NACIONES BÁRBARAS, y principales Lugares del <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#NACIONES.<zbr/>
-Abacaris.<zbr/>
-Agazos.<zbr/>
-Agúanos.<zbr/>
-Aguas.<zbr/>
-<LOC>Ahives</LOC>.<zbr/>
-##Anamaris.<zbr/>
-<LOC>Apantos</LOC>.<zbr/>
-<LOC>Aperas</LOC>.<zbr/>
-<Settlement>Apotos</Settlement>.<zbr/>
-Aracaries.<zbr/>
-Arasas.<zbr/>
-Aúnalas.<zbr/>
-<LOC>Ayacores</LOC>.<zbr/>
-###<LOC>Aysuares</LOC>.<zbr/>
-<LOC>Banomas</LOC>.<zbr/>
-Barbudos.<zbr/>
-<LOC>Burais</LOC>.<zbr/>
-Cachiguaras.<zbr/>
-<LOC>Cahuapanas</LOC>.<zbr/>
-<LOC>Camabos</LOC>.<zbr/>
-Cambas.<zbr/>
+#___NACIONES___.<zbr/>
+<humanGroup type="indigenous_group">Abacaris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Agazos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Agúanos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Aguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ahives</humanGroup>.<zbr/>
+##<humanGroup type="indigenous_group">Anamaris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Apantos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Aperas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Apotos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Aracaries</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Arasas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Aúnalas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ayacores</humanGroup>.<zbr/>
+###<humanGroup type="indigenous_group">Aysuares</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Banomas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Barbudos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Burais</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cachiguaras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cahuapanas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Camabos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cambas</humanGroup>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0070@@@<zbr/>
 <zbr/>
-#Canicuaris.<zbr/>
-Carabuyabas.<zbr/>
-Caruparabas.<zbr/>
-Caumares.<zbr/>
-Ceños.<zbr/>
-<Settlement>Chamicuros</Settlement>.<zbr/>
-Chingacuchuscas.<zbr/>
-Chípeos.<zbr/>
-Cocamas.<zbr/>
-Cocamillas.<zbr/>
-Cuchiguaros.<zbr/>
-Cunivos.<zbr/>
-<Settlement>Cunuri</Settlement>es.<zbr/>
-Curanaris.<zbr/>
-Curinas.<zbr/>
-Curuzicares.<zbr/>
-Guacares.<zbr/>
-Guaranacacos.<zbr/>
-Guarinumas.<zbr/>
-Guayazis.<zbr/>
-<Settlement>Gusmagís</Settlement>.<zbr/>
-Incuris.<zbr/>
-<Settlement>Maraguas</Settlement>.<zbr/>
-<Settlement>Marayus</Settlement>.<zbr/>
-<Settlement>Mariaves</Settlement>.<zbr/>
-<Settlement>Mainas</Settlement>.<zbr/>
-<Settlement>Mayorunas</Settlement>.<zbr/>
-<Settlement>Omaguas</Settlement>.<zbr/>
-<Settlement>Oroquaras</Settlement>.<zbr/>
-<Settlement>Ozuanas</Settlement>.<zbr/>
-<Settlement>Pacoxas</Settlement>.<zbr/>
-<Settlement>Paguaros</Settlement>.<zbr/>
-<Settlement>Pandabeques</Settlement>.<zbr/>
-<Settlement>Panos</Settlement>.<zbr/>
-<Settlement>Papunacas</Settlement>.<zbr/>
-Páranos.<zbr/>
-<Settlement>Pevas</Settlement>.<zbr/>
-<Settlement>Piros</Settlement>.<zbr/>
-<Settlement>Punobis</Settlement>.<zbr/>
-##<Settlement>Quirabas</Settlement>.<zbr/>
-<Settlement>Roamainas</Settlement>.<zbr/>
-<Settlement>Sapas</Settlement>.<zbr/>
-<Settlement>Tagaris</Settlement>.<zbr/>
-<LOC>Tapagazus</LOC>.<zbr/>
-<LOC>Ticunas</LOC>.<zbr/>
-<LOC>Tocantines</LOC>.<zbr/>
-Tontones.<zbr/>
-<LOC>Topayos</LOC>.<zbr/>
-<LOC>Topinambos</LOC>.<zbr/>
-<LOC>Umuranas</LOC>.<zbr/>
-<LOC>Urarchais</LOC>.<zbr/>
-<LOC>Urarinas</LOC>.<zbr/>
-<LOC>Uspas</LOC>.<zbr/>
-<LOC>Xeveros</LOC>.<zbr/>
-<LOC>Xibaros</LOC>.<zbr/>
-<LOC>Yacaretis</LOC>.<zbr/>
-<LOC>Yacariguaras</LOC>.<zbr/>
-<LOC>Yameos</LOC>.<zbr/>
-<Settlement>Iquitos</Settlement>.<zbr/>
-<Settlement>Ituccales</Settlement>.<zbr/>
-<Settlement>Yurimaguas</Settlement>.<zbr/>
-<LOC>Yurusnies</LOC>.<zbr/>
-Zeunas.<zbr/>
-Zimarrones.<zbr/>
-Zurinas.<zbr/>
-CIUDADES.<zbr/>
+#<humanGroup type="indigenous_group">Canicuaris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Carabuyabas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Caruparabas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Caumares</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ceños</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chamicuros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chingacuchuscas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chípeos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cocamas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cocamillas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cuchiguaros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cunivos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Cunuri</humanGroup>es.<zbr/>
+<humanGroup type="indigenous_group">Curanaris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Curinas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Curuzicares</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guacares</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaranacacos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guarinumas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guayazis</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Gusmagís</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Incuris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Maraguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Marayus</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Mariaves</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Mainas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Mayorunas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Omaguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Oroquaras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ozuanas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pacoxas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Paguaros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pandabeques</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Panos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Papunacas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Páranos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Pevas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Piros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Punobis</humanGroup>.<zbr/>
+##<humanGroup type="indigenous_group">Quirabas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Roamainas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Sapas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tagaris</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tapagazus</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ticunas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tocantines</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Tontones</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Topayos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Topinambos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Umuranas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Urarchais</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Urarinas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Uspas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Xeveros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Xibaros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Yacaretis</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Yacariguaras</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Yameos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Iquitos</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Ituccales</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Yurimaguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Yurusnies</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Zeunas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Zimarrones</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Zurinas</humanGroup>.<zbr/>
+___CIUDADES___.<zbr/>
 <Settlement>Gran Pará</Settlement>.<zbr/>
 <Settlement>Nieva</Settlement>.<zbr/>
 <Settlement>S. Borja</Settlement>.<zbr/>
 <Settlement>Santiago de las Montañas</Settlement>.<zbr/>
-RIOS.<zbr/>
-<Settlement>Apena</Settlement>.<zbr/>
-<Settlement>Apzaga</Settlement>.<zbr/>
-###<Settlement>Aúnala</Settlement>.<zbr/>
-<Settlement>Beni</Settlement>.<zbr/>
-<Settlement>Bioboma</Settlement>.<zbr/>
-<Settlement>Blanco</Settlement>.<zbr/>
-<Settlement>Cahuapanas</Settlement>.<zbr/>
-<Settlement>Casavatay</Settlement>.<zbr/>
-<Settlement>Cayari</Settlement>.<zbr/>
-<Settlement>Chamicuros</Settlement>.<zbr/>
-<Settlement>Chanussi</Settlement>.<zbr/>
-<Settlement>Chillay</Settlement>.<zbr/>
-<Settlement>Chipanga</Settlement>.<zbr/>
-<Settlement>Chipurana</Settlement>.<zbr/>
-<Settlement>Chuchunga</Settlement>.<zbr/>
-<Settlement>Cuchivara</Settlement>.<zbr/>
-<Settlement>Cunuri</Settlement>.<zbr/>
-<Settlement>Curupatuba</Settlement>.<zbr/>
-<Settlement>Cussiquina</Settlement>.<zbr/>
-<Settlement>Guallaga</Settlement>.<zbr/>
-<Settlement>Guanapú</Settlement>.<zbr/>
-<Settlement>Hechicero</Settlement>.<zbr/>
-<Settlement>Huerari</Settlement>.<zbr/>
-<Settlement>Jacuada</Settlement>.<zbr/>
-<Settlement>Lorito-yacu</Settlement>.<zbr/>
-<Settlement>Madera</Settlement>.<zbr/>
-<Settlement>Massa</Settlement>.<zbr/>
-<Settlement>Morona</Settlement>.<zbr/>
-<Settlement>Muyú</Settlement>.<zbr/>
-<Settlement>Nanay</Settlement>.<zbr/>
-<Settlement>Napo</Settlement>.<zbr/>
-<Settlement>Negro</Settlement>.<zbr/>
-<Settlement>Nucaray</Settlement>.<zbr/>
-<Settlement>Paracasa</Settlement>.<zbr/>
-<LOC>Paranapítinga</LOC>, o <LOC>Yaguapiri</LOC>.<zbr/>
-<Settlement>Paranaiba</Settlement>.<zbr/>
-<Settlement>Pastaza</Settlement>.<zbr/>
-<Settlement>Piguena</Settlement> o <Settlement>Tigre</Settlement>.<zbr/>
-Potro.<zbr/>
-<Settlement>Purús</Settlement>.<zbr/>
+___RIOS___.<zbr/>
+<Landmark>Apena</Landmark>.<zbr/>
+<Landmark>Apzaga</Landmark>.<zbr/>
+###<Landmark>Aúnala</Landmark>.<zbr/>
+<Landmark>Beni</Landmark>.<zbr/>
+<Landmark>Bioboma</Landmark>.<zbr/>
+<Landmark>Blanco</Landmark>.<zbr/>
+<Landmark>Cahuapanas</Landmark>.<zbr/>
+<Landmark>Casavatay</Landmark>.<zbr/>
+<Landmark>Cayari</Landmark>.<zbr/>
+<Landmark>Chamicuros</Landmark>.<zbr/>
+<Landmark>Chanussi</Landmark>.<zbr/>
+<Landmark>Chillay</Landmark>.<zbr/>
+<Landmark>Chipanga</Landmark>.<zbr/>
+<Landmark>Chipurana</Landmark>.<zbr/>
+<Landmark>Chuchunga</Landmark>.<zbr/>
+<Landmark>Cuchivara</Landmark>.<zbr/>
+<Landmark>Cunuri</Landmark>.<zbr/>
+<Landmark>Curupatuba</Landmark>.<zbr/>
+<Landmark>Cussiquina</Landmark>.<zbr/>
+<Landmark>Guallaga</Landmark>.<zbr/>
+<Landmark>Guanapú</Landmark>.<zbr/>
+<Landmark>Hechicero</Landmark>.<zbr/>
+<Landmark>Huerari</Landmark>.<zbr/>
+<Landmark>Jacuada</Landmark>.<zbr/>
+<Landmark>Lorito-yacu</Landmark>.<zbr/>
+<Landmark>Madera</Landmark>.<zbr/>
+<Landmark>Massa</Landmark>.<zbr/>
+<Landmark>Morona</Landmark>.<zbr/>
+<Landmark>Muyú</Landmark>.<zbr/>
+<Landmark>Nanay</Landmark>.<zbr/>
+<Landmark>Napo</Landmark>.<zbr/>
+<Landmark>Negro</Landmark>.<zbr/>
+<Landmark>Nucaray</Landmark>.<zbr/>
+<Landmark>Paracasa</Landmark>.<zbr/>
+<Landmark>Paranapítinga</Landmark>, o <Landmark>Yaguapiri</Landmark>.<zbr/>
+<Landmark>Paranaiba</Landmark>.<zbr/>
+<Landmark>Pastaza</Landmark>.<zbr/>
+<Landmark>Piguena</Landmark> o <Landmark>Tigre</Landmark>.<zbr/>
+<Landmark>Potro</Landmark>.<zbr/>
+<Landmark>Purús</Landmark>.<zbr/>
 <zbr/>
 @@@Alcedo_vol_3-0071@@@<zbr/>
 <zbr/>
-#Putumayo o Iza.<zbr/>
-<Settlement>Santiago</Settlement>.<zbr/>
-<Settlement>Siquitá</Settlement>.<zbr/>
-<Settlement>Tocantines</Settlement>.<zbr/>
-Topayos.<zbr/>
-Trompetas.<zbr/>
-<Settlement>Ubay</Settlement>.<zbr/>
-<Settlement>Ucayale</Settlement>.<zbr/>
-<Settlement>Unghi-yacu</Settlement>.<zbr/>
-<Settlement>Urubuquara</Settlement>.<zbr/>
-<Settlement>Xingú</Settlement>.<zbr/>
-<Settlement>Yaguapiri</Settlement>.<zbr/>
-<Settlement>Yari</Settlement>.<zbr/>
-<Settlement>Yavari</Settlement>.<zbr/>
-<Settlement>Yotau</Settlement> o <Settlement>Yutay</Settlement>.<zbr/>
-##<Settlement>Yupurá</Settlement>.<zbr/>
-<Settlement>Yurubesa</Settlement>.<zbr/>
-LAGUNAS.<zbr/>
-<Settlement>Arabanate</Settlement>.<zbr/>
-<Settlement>Cocama</Settlement>.<zbr/>
-<Settlement>Laguna</Settlement>.<zbr/>
-<Settlement>Mahuati</Settlement>.<zbr/>
-<Settlement>Marahí</Settlement>.<zbr/>
-<Settlement>Nachego</Settlement>.<zbr/>
-<Settlement>Parime</Settlement>.<zbr/>
-<Settlement>Rimachuma</Settlement>.<zbr/>
-<Settlement>Turatini</Settlement>.<zbr/>
-###ISLAS.<zbr/>
-<Settlement>Caviana</Settlement>.<zbr/>
-<Settlement>Machiana</Settlement>.<zbr/>
-<Settlement>Marajo</Settlement>.<zbr/>
-<Settlement>Solitaria</Settlement>.<zbr/>
-ESTRECHOS.<zbr/>
-<Settlement>Bragas</Settlement>.<zbr/>
-<Settlement>Cumbinamá</Settlement>.<zbr/>
-<Settlement>Evirathoa</Settlement>.<zbr/>
-<Settlement>Manseriche</Settlement>.<zbr/>
-<Settlement>Pauxis</Settlement>. <zbr/>
+#<Landmark>Putumayo</Landmark> o <Landmark>Iza</Landmark>.<zbr/>
+<Landmark>Santiago</Landmark>.<zbr/>
+<Landmark>Siquitá</Landmark>.<zbr/>
+<Landmark>Tocantines</Landmark>.<zbr/>
+<Landmark>Topayos</Landmark>.<zbr/>
+<Landmark>Trompetas</Landmark>.<zbr/>
+<Landmark>Ubay</Landmark>.<zbr/>
+<Landmark>Ucayale</Landmark>.<zbr/>
+<Landmark>Unghi-yacu</Landmark>.<zbr/>
+<Landmark>Urubuquara</Landmark>.<zbr/>
+<Landmark>Xingú</Landmark>.<zbr/>
+<Landmark>Yaguapiri</Landmark>.<zbr/>
+<Landmark>Yari</Landmark>.<zbr/>
+<Landmark>Yavari</Landmark>.<zbr/>
+<Landmark>Yotau</Landmark> o <Landmark>Yutay</Landmark>.<zbr/>
+##<Landmark>Yupurá</Landmark>.<zbr/>
+<Landmark>Yurubesa</Landmark>.<zbr/>
+___LAGUNAS___.<zbr/>
+<Landmark>Arabanate</Landmark>.<zbr/>
+<Landmark>Cocama</Landmark>.<zbr/>
+<Landmark>Laguna</Landmark>.<zbr/>
+<Landmark>Mahuati</Landmark>.<zbr/>
+<Landmark>Marahí</Landmark>.<zbr/>
+<Landmark>Nachego</Landmark>.<zbr/>
+<Landmark>Parime</Landmark>.<zbr/>
+<Landmark>Rimachuma</Landmark>.<zbr/>
+<Landmark>Turatini</Landmark>.<zbr/>
+###___ISLAS___.<zbr/>
+<Landmark>Caviana</Landmark>.<zbr/>
+<Landmark>Machiana</Landmark>.<zbr/>
+<Landmark>Marajo</Landmark>.<zbr/>
+<Landmark>Solitaria</Landmark>.<zbr/>
+___ESTRECHOS___.<zbr/>
+<Landmark>Bragas</Landmark>.<zbr/>
+<Landmark>Cumbinamá</Landmark>.<zbr/>
+<Landmark>Evirathoa</Landmark>.<zbr/>
+<Landmark>Manseriche</Landmark>.<zbr/>
+<Landmark>Pauxis</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_09652§§§<zbr/>
@@ -547,7 +547,7 @@ MARAUATIO, <Concept_Territory>Alcaldía mayor</Concept_Territory> y <Concept_Ter
 <zbr/>
 @@@Alcedo_vol_3-0073@@@<zbr/>
 <zbr/>
-#Zitaquaro.<zbr/>
+#<Settlement>Zitaquaro</Settlement>.<zbr/>
 <Settlement>Tinguinéo</Settlement>.<zbr/>
 <Settlement>Coatepeque</Settlement>.<zbr/>
 <Settlement>Chichiequilla</Settlement>.<zbr/>

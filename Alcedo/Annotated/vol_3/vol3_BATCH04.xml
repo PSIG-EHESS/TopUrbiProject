@@ -366,23 +366,23 @@ MARILAND, <Concept_Territory>Colonia</Concept_Territory> de los <humanGroup type
 #___En la parte Oriental.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<Settlement>Dorsét</Settlement>.<zbr/>
-<Settlement>Somersét</Settlement>.<zbr/>
-##<Settlement>Vorcester</Settlement>.<zbr/>
-<Settlement>Talbót</Settlement>.<zbr/>
-##<Settlement>Reyna</Settlement>.<zbr/>
-<Settlement>Kent</Settlement>. <zbr/>
+#<Territory>Dorsét</Territory>.<zbr/>
+<Territory>Somersét</Territory>.<zbr/>
+##<Territory>Vorcester</Territory>.<zbr/>
+<Territory>Talbót</Territory>.<zbr/>
+##<Territory>Reyna</Territory>.<zbr/>
+<Territory>Kent</Territory>. <zbr/>
 $$$<zbr/>
 <zbr/>
-___En la <Territory>Occidental</Territory>.___<zbr/>
+___En la Occidental.___<zbr/>
 <zbr/>
 ßßß<zbr/>
-#<Settlement>Arundel</Settlement>.<zbr/>
-<Settlement>Baltimore</Settlement>.<zbr/>
-##<Settlement>Calvert</Settlement>.<zbr/>
-<Settlement>Charles</Settlement>.<zbr/>
-###<Settlement>Principe Jorge</Settlement>.<zbr/>
-<Settlement>Santa María</Settlement>. <zbr/>
+#<Territory>Arundel</Territory>.<zbr/>
+<Territory>Baltimore</Territory>.<zbr/>
+##<Territory>Calvert</Territory>.<zbr/>
+<Territory>Charles</Territory>.<zbr/>
+###<Territory>Principe Jorge</Territory>.<zbr/>
+<Territory>Santa María</Territory>. <zbr/>
 $$$<zbr/>
 <zbr/>
 Confina por el N con la <Territory>Pensilvania</Territory> con otra parte de la misma <Concept_Territory>Provincia</Concept_Territory> llamada <Territory>Delawar</Territory>, y el <LOC>Occéano Atlántico</LOC> por el E: con las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Apalache</Landmark> al O, y con la <Territory>Virginia</Territory> por el S; tiene 140 millas de largo, y casi lo mismo de ancho; el terreno cerca de la <Concept_Landmark>Costa</Concept_Landmark> es baxo, pero se va elevando poco a poco hasta que termina en los <Concept_Landmark>montes</Concept_Landmark> de <Landmark>Apalache</Landmark>; la mayor parte estaba cubierto de espesos <Concept_Landmark>bosques</Concept_Landmark>, hasta que lo abrieron y cortaron los árboles los primeros plantadores mediando algunas <Concept_Landmark>llanuras</Concept_Landmark> o <Concept_Landmark>sabanas</Concept_Landmark> regadas de varios <Concept_Landmark>arroyos</Concept_Landmark> y fuentes: <Settlement>Mariland</Settlement> asi como la <Territory>Virginia</Territory>, no tienen <Concept_Settlement>Ciudad</Concept_Settlement> alguna de consideración, pero el número de los <Concept_Landmark>ríos</Concept_Landmark> navegables es grande; sin embargo Annapolis, que es donde reside ##el Gobierno, aunque pequeña, es hermosa, situada a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Patuxent</Landmark>, y está en ella también la casa de asamblea, y otras 150 casas; los habitantes tienen la misma religión que los de <Territory>Virginia</Territory>, y es la reformada de <Territory>Inglaterra</Territory>, pero el Clero goza mucha más libertad. Los principales frutos que cultivan son tabaco, como el de <Territory>Virginia</Territory>, y los plantadores viven en almacenes, donde tienen la comodidad de llegar a sus puertas las embarcaciones para cargar por medio de los <Concept_Landmark>Ríos</Concept_Landmark> y de la <Concept_Landmark>Bahía</Concept_Landmark>; el tabaco llamado Oroonoko es más fuerte que el de <Territory>Virginia</Territory>, por lo qual es muy apetecido en la <Territory>Europa</Territory>, donde lo prefieren al de los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>James</Landmark> y <Landmark>Yorck</Landmark>, y produce 40000 cargas Los habitantes blancos son 10000 y los negros pasan de <zbr/>
@@ -538,46 +538,46 @@ SANTA MARTA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territo
 ___CATALOGO DE LAS NACIONES BARBARAS, y principales Lugares de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Sta</Territory>. <Territory>Marta__</Territory>_<zbr/>
 <zbr/>
 ßßß<zbr/>
-#NACIONES.<zbr/>
-Bodiguas.<zbr/>
-Bohures.<zbr/>
-<Settlement>Bondas</Settlement>.<zbr/>
-<Settlement>Chimilas</Settlement>.<zbr/>
-Guaranis.<zbr/>
-Guaxiros.<zbr/>
-Motilones. <zbr/>
-Quiriquires.<zbr/>
-Taironas.<zbr/>
-Xuruaras.<zbr/>
-CIUDADES.<zbr/>
+#___NACIONES___.<zbr/>
+<humanGroup type="indigenous_group">Bodiguas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Bohures</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Bondas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Chimilas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaranis</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Guaxiros</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Motilones</humanGroup>. <zbr/>
+<humanGroup type="indigenous_group">Quiriquires</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Taironas</humanGroup>.<zbr/>
+<humanGroup type="indigenous_group">Xuruaras</humanGroup>.<zbr/>
+___CIUDADES___.<zbr/>
 <Settlement>Los Reyes</Settlement>.<zbr/>
 <Settlement>Ocaña</Settlement>.<zbr/>
 ##<Settlement>S. Sebastián</Settlement>.<zbr/>
 <Settlement>Santa Marta</Settlement>.<zbr/>
 <Settlement>Tamalameque</Settlement>.<zbr/>
 <Settlement>Tenerife</Settlement>.<zbr/>
-MONTES.<zbr/>
-De <Settlement>Santa Marta</Settlement>.<zbr/>
-De <Settlement>Upar</Settlement>.<zbr/>
-PUERTOS.<zbr/>
-<Settlement>Ceneganga</Settlement>.<zbr/>
-<Settlement>Santa Marta</Settlement>.<zbr/>
-<Settlement>Zinto</Settlement>.<zbr/>
-###RIOS.<zbr/>
-<Settlement>Babillo</Settlement>.<zbr/>
-<Settlement>Magdalena</Settlement>.<zbr/>
-<Settlement>De Piedras</Settlement>.<zbr/>
-De <Settlement>Santa Marta</Settlement>.<zbr/>
-<Settlement>Perebera</Settlement>.<zbr/>
-<Settlement>Pira</Settlement>.<zbr/>
-<Settlement>Pompatao</Settlement>.<zbr/>
-<Settlement>Zinto</Settlement>.<zbr/>
-PROMONTORIOS.<zbr/>
-<Settlement>Conca</Settlement>.<zbr/>
-<Settlement>Del Ago</Settlement>.<zbr/>
-<Settlement>Guarica</Settlement>.<zbr/>
-<Settlement>Guya</Settlement>.<zbr/>
-<Settlement>S. Joseph</Settlement>. <zbr/>
+___MONTES___.<zbr/>
+De <Landmark>Santa Marta</Landmark>.<zbr/>
+De <Landmark>Upar</Landmark>.<zbr/>
+___PUERTOS___.<zbr/>
+<Landmark>Ceneganga</Landmark>.<zbr/>
+<Landmark>Santa Marta</Landmark>.<zbr/>
+<Landmark>Zinto</Landmark>.<zbr/>
+###___RIOS___.<zbr/>
+<Landmark>Babillo</Landmark>.<zbr/>
+<Landmark>Magdalena</Landmark>.<zbr/>
+De <Landmark>Piedras</Landmark>.<zbr/>
+De <Landmark>Santa Marta</Landmark>.<zbr/>
+<Landmark>Perebera</Landmark>.<zbr/>
+<Landmark>Pira</Landmark>.<zbr/>
+<Landmark>Pompatao</Landmark>.<zbr/>
+<Landmark>Zinto</Landmark>.<zbr/>
+___PROMONTORIOS___.<zbr/>
+<Landmark>Conca</Landmark>.<zbr/>
+Del <Landmark>Ago</Landmark>.<zbr/>
+<Landmark>Guarica</Landmark>.<zbr/>
+<Landmark>Guya</Landmark>.<zbr/>
+<Landmark>S. Joseph</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_09836§§§<zbr/>

@@ -294,83 +294,83 @@ Tiene el mismo nombre un <Concept_Landmark>Río</Concept_Landmark> de la <Territ
 MONTE, nombre bien ##conocido, por cuya razón no decimos más. Los que hay en la <Territory>América</Territory> son infinitos, que en diferentes <Concept_Landmark>Cordilleras</Concept_Landmark> la atraviesan por muchas partes, los más celebres son <zbr/>
 <zbr/>
 ßßß<zbr/>
-#Abides.<zbr/>
-<Settlement>Abipi</Settlement>.<zbr/>
-<Settlement>Abitanis</Settlement>.<zbr/>
-<Settlement>Acacuña</Settlement>.<zbr/>
-<Settlement>Acochala<zbr/>
-Altar</Settlement>.<zbr/>
-<Settlement>Añapuras</Settlement>.<zbr/>
-<Settlement>Andes</Settlement>.<zbr/>
-<Settlement>Antisana</Settlement>.<zbr/>
-<Settlement>Antojo</Settlement>.<zbr/>
-<Settlement>Asuay</Settlement>.<zbr/>
-<Settlement>Avitahua</Settlement>.<zbr/>
-<Settlement>Buritaca</Settlement>.<zbr/>
-<Settlement>Caruairasu</Settlement>.<zbr/>
-<Settlement>Caxamima</Settlement>.<zbr/>
-<Settlement>Cayambe</Settlement>.<zbr/>
-<Settlement>Cequin</Settlement>.<zbr/>
-<Settlement>Chima</Settlement>.<zbr/>
-<Settlement>Chimborasu</Settlement>.<zbr/>
-<Settlement>Chocayas</Settlement>.<zbr/>
-<Settlement>Chuapa</Settlement>.<zbr/>
-<Settlement>Chumbilla</Settlement>.<zbr/>
-<Settlement>Collanes</Settlement>.<zbr/>
-<Settlement>Corazón</Settlement>.<zbr/>
-<Settlement>Cotacache</Settlement>.<zbr/>
-<Settlement>Cotopacsi</Settlement>.<zbr/>
-##<Settlement>Cucunuco</Settlement>.<zbr/>
-<Settlement>Cumbal</Settlement>.<zbr/>
-<Settlement>Elenisa</Settlement>.<zbr/>
-<Settlement>Fosca</Settlement>.<zbr/>
-<Settlement>Gachaneque</Settlement>.<zbr/>
-<Settlement>Guanas</Settlement>.<zbr/>
-<Settlement>Guanta</Settlement>.<zbr/>
-<Settlement>Guanacas</Settlement>.<zbr/>
-<Settlement>Huanacauri</Settlement>.<zbr/>
-<Settlement>Huantajaya</Settlement>.<zbr/>
-<Settlement>Huatzapa</Settlement>.<zbr/>
-<Settlement>Lampangui</Settlement>.<zbr/>
-<Settlement>Ligua</Settlement>.<zbr/>
-<Settlement>Llanganate</Settlement>.<zbr/>
-<Settlement>Llaon</Settlement>.<zbr/>
-<Settlement>Mohanda</Settlement>.<zbr/>
-<Settlement>Notuco</Settlement>.<zbr/>
-<Settlement>Omate</Settlement>.<zbr/>
-<Settlement>Opon</Settlement>.<zbr/>
-<Settlement>Osorno</Settlement>.<zbr/>
-<Settlement>Paragoana</Settlement>.<zbr/>
-<Settlement>Peteroa</Settlement>.<zbr/>
-<Settlement>Pichinche</Settlement>.<zbr/>
-<Settlement>Picurú</Settlement>.<zbr/>
-<Settlement>Pintac</Settlement>.<zbr/>
-<Settlement>Porco</Settlement>.<zbr/>
-###<Settlement>Potosí</Settlement>.<zbr/>
-<Settlement>Purasé</Settlement>.<zbr/>
-<Settlement>Quechucavi</Settlement>.<zbr/>
-<Settlement>Quelendana</Settlement>.<zbr/>
-<Settlement>Quindio</Settlement>.<zbr/>
-<Settlement>Sahuancuca</Settlement>.<zbr/>
-<Settlement>Sanguay</Settlement>.<zbr/>
-<Settlement>San Pedro</Settlement>.<zbr/>
-<Settlement>Santa Juana</Settlement>.<zbr/>
-<Settlement>San Antonio</Settlement>.<zbr/>
-<Settlement>Saporovis</Settlement>.<zbr/>
-<Settlement>Sierra Nevada</Settlement>.<zbr/>
-<Settlement>Sincholagua</Settlement>.<zbr/>
-<Settlement>Sinn</Settlement>.<zbr/>
-<Settlement>Sunchuli</Settlement>.<zbr/>
-<Settlement>Tampaya</Settlement>.<zbr/>
-<Settlement>Ticsan</Settlement>.<zbr/>
-<Settlement>Tioloma</Settlement>.<zbr/>
-<Settlement>Tunguragua</Settlement>.<zbr/>
-<Settlement>Ucuntaya</Settlement>.<zbr/>
-<Settlement>Uritusinga</Settlement>.<zbr/>
-<Settlement>Vacarima</Settlement>.<zbr/>
-<Settlement>Villagran</Settlement>.<zbr/>
-<Settlement>Imbabura</Settlement>.<zbr/>
-<Settlement>Itoco</Settlement>. <zbr/>
+#<Landmark>Abides</Landmark>.<zbr/>
+<Landmark>Abipi</Landmark>.<zbr/>
+<Landmark>Abitanis</Landmark>.<zbr/>
+<Landmark>Acacuña</Landmark>.<zbr/>
+<Landmark>Acochala</Landmark><zbr/>
+<Landmark>Altar</Landmark>.<zbr/>
+<Landmark>Añapuras</Landmark>.<zbr/>
+<Landmark>Andes</Landmark>.<zbr/>
+<Landmark>Antisana</Landmark>.<zbr/>
+<Landmark>Antojo</Landmark>.<zbr/>
+<Landmark>Asuay</Landmark>.<zbr/>
+<Landmark>Avitahua</Landmark>.<zbr/>
+<Landmark>Buritaca</Landmark>.<zbr/>
+<Landmark>Caruairasu</Landmark>.<zbr/>
+<Landmark>Caxamima</Landmark>.<zbr/>
+<Landmark>Cayambe</Landmark>.<zbr/>
+<Landmark>Cequin</Landmark>.<zbr/>
+<Landmark>Chima</Landmark>.<zbr/>
+<Landmark>Chimborasu</Landmark>.<zbr/>
+<Landmark>Chocayas</Landmark>.<zbr/>
+<Landmark>Chuapa</Landmark>.<zbr/>
+<Landmark>Chumbilla</Landmark>.<zbr/>
+<Landmark>Collanes</Landmark>.<zbr/>
+<Landmark>Corazón</Landmark>.<zbr/>
+<Landmark>Cotacache</Landmark>.<zbr/>
+<Landmark>Cotopacsi</Landmark>.<zbr/>
+##<Landmark>Cucunuco</Landmark>.<zbr/>
+<Landmark>Cumbal</Landmark>.<zbr/>
+<Landmark>Elenisa</Landmark>.<zbr/>
+<Landmark>Fosca</Landmark>.<zbr/>
+<Landmark>Gachaneque</Landmark>.<zbr/>
+<Landmark>Guanas</Landmark>.<zbr/>
+<Landmark>Guanta</Landmark>.<zbr/>
+<Landmark>Guanacas</Landmark>.<zbr/>
+<Landmark>Huanacauri</Landmark>.<zbr/>
+<Landmark>Huantajaya</Landmark>.<zbr/>
+<Landmark>Huatzapa</Landmark>.<zbr/>
+<Landmark>Lampangui</Landmark>.<zbr/>
+<Landmark>Ligua</Landmark>.<zbr/>
+<Landmark>Llanganate</Landmark>.<zbr/>
+<Landmark>Llaon</Landmark>.<zbr/>
+<Landmark>Mohanda</Landmark>.<zbr/>
+<Landmark>Notuco</Landmark>.<zbr/>
+<Landmark>Omate</Landmark>.<zbr/>
+<Landmark>Opon</Landmark>.<zbr/>
+<Landmark>Osorno</Landmark>.<zbr/>
+<Landmark>Paragoana</Landmark>.<zbr/>
+<Landmark>Peteroa</Landmark>.<zbr/>
+<Landmark>Pichinche</Landmark>.<zbr/>
+<Landmark>Picurú</Landmark>.<zbr/>
+<Landmark>Pintac</Landmark>.<zbr/>
+<Landmark>Porco</Landmark>.<zbr/>
+###<Landmark>Potosí</Landmark>.<zbr/>
+<Landmark>Purasé</Landmark>.<zbr/>
+<Landmark>Quechucavi</Landmark>.<zbr/>
+<Landmark>Quelendana</Landmark>.<zbr/>
+<Landmark>Quindio</Landmark>.<zbr/>
+<Landmark>Sahuancuca</Landmark>.<zbr/>
+<Landmark>Sanguay</Landmark>.<zbr/>
+<Landmark>San Pedro</Landmark>.<zbr/>
+<Landmark>Santa Juana</Landmark>.<zbr/>
+<Landmark>San Antonio</Landmark>.<zbr/>
+<Landmark>Saporovis</Landmark>.<zbr/>
+<Landmark>Sierra Nevada</Landmark>.<zbr/>
+<Landmark>Sincholagua</Landmark>.<zbr/>
+<Landmark>Sinn</Landmark>.<zbr/>
+<Landmark>Sunchuli</Landmark>.<zbr/>
+<Landmark>Tampaya</Landmark>.<zbr/>
+<Landmark>Ticsan</Landmark>.<zbr/>
+<Landmark>Tioloma</Landmark>.<zbr/>
+<Landmark>Tunguragua</Landmark>.<zbr/>
+<Landmark>Ucuntaya</Landmark>.<zbr/>
+<Landmark>Uritusinga</Landmark>.<zbr/>
+<Landmark>Vacarima</Landmark>.<zbr/>
+<Landmark>Villagran</Landmark>.<zbr/>
+<Landmark>Imbabura</Landmark>.<zbr/>
+<Landmark>Itoco</Landmark>. <zbr/>
 $$$<zbr/>
 <zbr/>
 §§§id_10570§§§<zbr/>
@@ -517,13 +517,13 @@ MOQUEHUA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>
 @@@Alcedo_vol_3-0246@@@<zbr/>
 <zbr/>
 ßßß<zbr/>
-#Torata.<zbr/>
-Carumas.<zbr/>
-Puquina.<zbr/>
-Coalaque.<zbr/>
+#<Settlement>Torata</Settlement>.<zbr/>
+<Settlement>Carumas</Settlement>.<zbr/>
+<Settlement>Puquina</Settlement>.<zbr/>
+<Settlement>Coalaque</Settlement>.<zbr/>
 ##<Settlement>Omate</Settlement>.<zbr/>
 <Settlement>Quinistacas</Settlement>.<zbr/>
-<LOC>Ubinas</LOC>.<zbr/>
+<Settlement>Ubinas</Settlement>.<zbr/>
 ###<Settlement>Pocsi</Settlement>.<zbr/>
 <Settlement>Mollebaya</Settlement>.<zbr/>
 <Settlement>Socay</Settlement>. <zbr/>
@@ -546,7 +546,7 @@ MOQUI Orayve) <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territ
 <Settlement>Xongopavi</Settlement>.<zbr/>
 ##<Settlement>Quianna</Settlement>. <zbr/>
 <Settlement>Aguatubi</Settlement>.<zbr/>
-Y <Concept_Landmark>Río</Concept_Landmark> Grande de <Landmark>Espeleta</Landmark>. <zbr/>
+Y <Settlement>Río Grande de Espeleta</Settlement>. <zbr/>
 $$$<zbr/>
 <zbr/>
 El año de 1748 entró por la parte del <Territory>Nuevo México</Territory> el Comisario de las Misiones de <LOC>San Francisco</LOC> a continuar estas reducciones, y las de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Navajos</Territory> al N de la de <Territory>Moqui</Territory> y NO de <Territory>Santa Fe</Territory>. <zbr/>
