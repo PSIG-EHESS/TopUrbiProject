@@ -490,7 +490,7 @@
         <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>,
     confina por el N y NE con las <Concept_Landmark>montañas</Concept_Landmark> de los
         <Concept_Group>Indios infieles</Concept_Group>, casi al S de las Misiones de
-        <LOC>Apolobamba</LOC>, por este rumbo con la <Concept_Settlement>Ciudad</Concept_Settlement>
+        <Territory>Apolobamba</Territory>, por este rumbo con la <Concept_Settlement>Ciudad</Concept_Settlement>
     de la <Settlement>Paz</Settlement>, por el ##O con la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Omasuyos</Territory> mediando
     la <Concept_Landmark>Cordillera</Concept_Landmark>, y siguiendo hacia el N con las de
@@ -520,7 +520,7 @@
     los <Landmark>Andes</Landmark> están las Misiones que vulgarmente llaman del Paititi de
     Misioneros Agustinos, en que hay cinco <Concept_Settlement>Poblaciones</Concept_Settlement> de
     Indios convertidos, que ##de algunos años a esta parte pagan tributo aunque corto al Rey en las
-    Cajas Reales de la <LOC>Paz</LOC>. Conquistó esta
+    Cajas Reales de la <Settlement>Paz</Settlement>. Conquistó esta
         <Concept_Territory>Provincia</Concept_Territory>, y la agregó al Imperio, el Inca
         <persName>Maytacapac</persName>. Sus habitantes son 20.000, y tenía de repartimiento 114635
     pesos, pagando de alcavala su Corregidor 4585 en el quinquenio. La
@@ -729,8 +729,8 @@
         <Concept_Landmark>extremidad</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> del N de la
         <Concept_Landmark>Isla</Concept_Landmark>
-    <LOC>Real</LOC> o de <Concept_Landmark>Cabo</Concept_Landmark>
-    <Landmark>Bretón</Landmark>. <zbr/>
+    <Landmark>Real</Landmark> o de <Landmark>Cabo
+    Bretón</Landmark>. <zbr/>
     <zbr/> §§§id_08776§§§<zbr/> LAURICOCHA, S. Antonio de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -801,7 +801,7 @@
     <humanGroup type="indigenous_group">Araucanos</humanGroup>; sus orillas están pobladas de varias
         <Concept_Structure>haciendas</Concept_Structure> muy fértiles llamadas <humanGroup
         type="religious_group">Tarpeyanca</humanGroup>, León, Caripuchon y Jesús, y tiene una
-    excelente cantera de piedra que llaman <LOC>San Joseph</LOC>: su boca está en 37 gr. 9 min. de
+    excelente cantera de piedra que llaman San Joseph: su boca está en 37 gr. 9 min. de
     lat. aust. <zbr/>
     <zbr/> §§§id_08785§§§<zbr/> Un bajo de <Concept_Landmark>peña</Concept_Landmark> cerca <zbr/>
     <zbr/> @@@Alcedo_vol_2-0564@@@<zbr/>
@@ -952,7 +952,7 @@
         <Landmark>Mongangape</Landmark>, donde tienen los <humanGroup type="political_group"
         >Portugueses</humanGroup> un <Concept_Structure>castillo</Concept_Structure> lla<zbr/>
     <zbr/> @@@Alcedo_vol_2-0566@@@<zbr/>
-    <zbr/> #mado <LOC>Santa Catalina</LOC>. <zbr/>
+    <zbr/> #mado <Structure>Santa Catalina</Structure>. <zbr/>
     <zbr/> §§§id_08806§§§<zbr/> LEDESMA, <Concept_Structure>Fuerte</Concept_Structure> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
@@ -1001,14 +1001,14 @@
     naturales más aplicados al cultivo de las tierras; es de temperamento frío sin exceso, y uno de
     los mejores del <Concept_Territory>Reyno</Concept_Territory>; tiene abundancia de aguas muy
     buenas que hacen su <Concept_Territory>territorio</Concept_Territory> fértil de toda especie de
-    granos y frutos, y las aceitunas son tan buenas como las de <LOC>Sevilla</LOC>; fue
+    granos y frutos, y las aceitunas son tan buenas como las de <Settlement>Sevilla</Settlement>; fue
     abundantísima de trigo de excelente calidad en otro tiempo hasta el año de 1691, que después de
     un eclipse de sol agostó todo el <Concept_Territory>país</Concept_Territory> malogrando sus
     cosechas, pues al empezar a granar las espigas se llenaba la caña de un polvillo de color de
     tabaco que las dejaba huecas, lo qual no sucedió con el maíz, cebada, papas, arracachas y
     cebollas: la Iglesia Parroquial es una de las mejores que hay en aquel
         <Concept_Territory>Reyno</Concept_Territory>; tiene Conventos de Religiosos de San
-    Francisco, San Agustín, San <LOC>Juan de Dios</LOC>, a cuyo cargo está el Hos<zbr/>
+    Francisco, San Agustín, San Juan de Dios, a cuyo cargo está el Hos<zbr/>
     <zbr/> @@@Alcedo_vol_2-0567@@@<zbr/>
     <zbr/> #pital, y Monasterio de Religiosas Carmelitas: celebra un mercado todos los Viernes del
     año en que hace gran comercio por la concurrencia de los <humanGroup type="social_group"
@@ -1124,7 +1124,7 @@
     cochinilla, porque nace de la misma planta que es el copal: a la parte del referido
         <Concept_Landmark>río</Concept_Landmark> grande del N, que cae a este rumbo, hay unas
     grandes <Concept_Landmark>salinas</Concept_Landmark>, y a la del Sur, 50 leguas de ellas, otras
-    que llaman de la <LOC>Barra</LOC>: por lo general goza de un temperamento templado por la
+    que llaman de la <Landmark>Barra</Landmark>: por lo general goza de un temperamento templado por la
     libertad con que le baten los vientos del Nor##te y del Oriente; todo su terreno es muy
     abundante en pastos y maderas; el principal comercio que mantiene se reduce a vender en las
         <Concept_Territory>Provincias</Concept_Territory> de <Territory>Coaguila</Territory> y
@@ -1184,8 +1184,8 @@
         <humanGroup type="social_group">Españoles</humanGroup>, ##471 de <humanGroup
         type="social_group">Mestizos</humanGroup> y 196 de <humanGroup type="social_group"
         >Mulatos</humanGroup>; tiene un buen Convento de Religiosos de San Francisco que administran
-    el <Concept_District>Curato</Concept_District>, otro con Hospital de los de <LOC>San Juan de
-        Dios</LOC>, un Colegio que fue de los Regulares de la Compañía, y un Beaterio de Mugeres que
+    el <Concept_District>Curato</Concept_District>, otro con Hospital de los de San Juan de
+        Dios, un Colegio que fue de los Regulares de la Compañía, y un Beaterio de Mugeres que
     siguen la Regla e Instituto de éstos, y era el único que había en la
         <Territory>América</Territory>: está 80 leguas al NNO de <Settlement>México</Settlement>, en
     272 gr. 10 min. de long. y en 2 gr. 18 min. de lat. Los demás
@@ -1248,7 +1248,7 @@
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_08828§§§<zbr/> Otro del <Territory>Nuevo Reyno de su nombre</Territory> que sale al
         <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>Seno</Concept_Landmark>
-    <LOC>Mexicano</LOC> y <Concept_Landmark>Bahía</Concept_Landmark> o
+    <Landmark>Mexicano</Landmark> y <Concept_Landmark>Bahía</Concept_Landmark> o
         <Concept_Landmark>lago</Concept_Landmark> de <Landmark>San Joseph</Landmark>. <zbr/>
     <zbr/> §§§id_08829§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
@@ -1297,7 +1297,7 @@
     <Landmark>Martín grande</Landmark>. <zbr/>
     <zbr/> §§§id_08835§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Real de Minas</Concept_Settlement> de Plata en el <Territory>Nuevo Reyno
-        de León</Territory>, llamado <LOC>San Pedro de Boca de Leones</LOC>, está 24 leguas al N de
+        de León</Territory>, llamado <Settlement>San Pedro de Boca de Leones</Settlement>, está 24 leguas al N de
     su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_08836§§§<zbr/> LEONISA, San Joseph de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -1316,7 +1316,7 @@
         <Concept_Territory>jurisdicciones</Concept_Territory> de <Territory>Toluca</Territory> y
         <Territory>Metepec</Territory> sus confinantes, y así por esto como por haber desertado
     muchos de sus <humanGroup type="social_group">vecinos</humanGroup> no tiene comercio alguno,
-    hallándose reducida a una suma pobreza; es tránsito preciso de <LOC>México</LOC> para todas las
+    hallándose reducida a una suma pobreza; es tránsito preciso de <Settlement>México</Settlement> para todas las
         <Concept_Territory>Provincias</Concept_Territory> interiores, para lo qual y comodidad de
     los viajantes se construyó una gran calzada que atraviesa la
         <Concept_Settlement>Ciudad</Concept_Settlement> N S: esta es pequeña, de planta irregular, y
@@ -1325,7 +1325,7 @@
         <Territory>Metepec</Territory>, cuya extensión está siempre cubierta de nieve, pasa muy
     cerca de ella <zbr/>
     <zbr/> @@@Alcedo_vol_2-0573@@@<zbr/>
-    <zbr/> #un <Concept_Landmark>río</Concept_Landmark> llamado <LOC>Matlazingo</LOC> que en lo más
+    <zbr/> #un <Concept_Landmark>río</Concept_Landmark> llamado <Landmark>Matlazingo</Landmark> que en lo más
     baxo del terreno forma una <Concept_Landmark>ciénega</Concept_Landmark>, y ayudado de otros
     veneros de agua que brotan en el <Concept_Territory>país</Concept_Territory> hace muy hondo el
     parage donde está el puente; el origen y nacimiento de este
@@ -1341,7 +1341,7 @@
     buscar en las <Concept_Territory>jurisdicciones</Concept_Territory> confinantes todo lo
     necesario para su subsistencia, contentándose con criar algún ganado de cerda, a que se aplican:
     no tiene más <Concept_Settlement>Pueblos</Concept_Settlement> esta
-        <Concept_Territory>Alcaldía</Concept_Territory> que quatro, y son <LOC>Tarasquillo</LOC>,
+        <Concept_Territory>Alcaldía</Concept_Territory> que quatro, y son <Settlement>Tarasquillo</Settlement>,
         <Settlement>Santiago</Settlement>, <Settlement>San Mateo</Settlement> y <Settlement>San
         Miguel</Settlement>: está 9 leguas al OSO de <Settlement>México</Settlement>, en 273 gr. 42 min. de
     long. y en 19 gr. 48 min. de lat. <zbr/>
@@ -1411,7 +1411,7 @@
     <zbr/> §§§id_08853§§§<zbr/> LEXINGTON, <Concept_Settlement>Ciudad</Concept_Settlement> pequeña
     del <Concept_Territory>Condado</Concept_Territory> de <Territory>Middlesex</Territory> en la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Massachusets</Landmark>, casi 12
-    millas al O de <Settlement>Charlestown</Settlement>, entre la qual y la de <LOC>Concord</LOC> a
+    millas al O de <Settlement>Charlestown</Settlement>, entre la qual y la de <Settlement>Concord</Settlement> a
     quatro millas está el terreno que se ha hecho célebre por haber empezado allí las hostilidades
     de la guerra en la sublevación ##de las <Concept_Territory>Colonias</Concept_Territory> de
         <Territory>América</Territory> para establecer la independencia de la
@@ -1449,7 +1449,7 @@
         <Concept_Landmark>Isla</Concept_Landmark>
     <zbr/>
     <zbr/> @@@Alcedo_vol_2-0575@@@<zbr/>
-    <zbr/> #de <LOC>Santo Domingo</LOC>, nace al pie de dos
+    <zbr/> #de <Territory>Santo Domingo</Territory>, nace al pie de dos
         <Concept_Landmark>montes</Concept_Landmark> cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del N, corre al S, y entra en el de
         <Landmark>Artibonito</Landmark> en el <Concept_Landmark>valle</Concept_Landmark> de

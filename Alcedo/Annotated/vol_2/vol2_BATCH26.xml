@@ -212,7 +212,7 @@
     Noviembre, y dura hasta Mayo o Junio, alguna vez empiezan los hielos antes, y son muy fuertes,
     como sucedió el año de 1745, que a mediado de Octubre estaba helado ya una gran parte del
         <Concept_Landmark>Puerto</Concept_Landmark>: el principal, si no es el único comercio de
-        <LOC>Luisbourg</LOC>, es la pesca de bacalao, del cual sacan sus <humanGroup
+        <Settlement>Luisbourg</Settlement>, es la pesca de bacalao, del cual sacan sus <humanGroup
         type="social_group">vecinos</humanGroup> una utilidad muy considerable por ser el mejor que
     se coge en aquellos <Concept_Landmark>mares</Concept_Landmark>; la riqueza de estos consiste en
     los almacenes, que unos están dentro del fuerte y otros a la orilla del
@@ -226,7 +226,7 @@
         <Concept_Territory>Colonias</Concept_Territory> Francesas de <Territory>Santo
         Domingo</Territory> y <zbr/>
     <zbr/> @@@Alcedo_vol_2-0630@@@<zbr/>
-    <zbr/> #<LOC>Martinica</LOC>, llevando azúcar, tabaco, café, rum etc. del resto que queda hallan
+    <zbr/> #<Territory>Martinica</Territory>, llevando azúcar, tabaco, café, rum etc. del resto que queda hallan
     despacho en <Territory>Canadá</Territory>, a cambio de pieles de castor y de otros animales: no
     era este el único <Concept_Landmark>Puerto</Concept_Landmark> en que los <humanGroup
         type="political_group">Franceses</humanGroup> cargaban bacalao porque muchos iban a
@@ -253,8 +253,8 @@
         type="indigenous_group">Tronontes</humanGroup>, <humanGroup type="indigenous_group"
         >Tecagas</humanGroup>, <humanGroup type="indigenous_group">Chavanons</humanGroup> y otras,
     por el E con la <Territory>Florida Occidental</Territory>, <Territory>Georgia</Territory> y
-        <Territory>Carolina</Territory>, y al O con el Nuevo <Landmark>México</Landmark> y
-        <LOC>Nueva España</LOC>; tiene de extensión del Septentrión al Mediodía cerca de 15 grados,
+        <Territory>Carolina</Territory>, y al O con el <Territory>Nuevo México</Territory> y
+        <Territory>Nueva España</Territory>; tiene de extensión del Septentrión al Mediodía cerca de 15 grados,
     esto es desde 25 a 40 de latitud septentrional, y de Levante a Poniente 10 ú 11 grados desde 86
     a 96 de longitud, no hallándose todavía precisamente determinados sus límites: Mr.
         <persName>Delisle</persName> le da mucha más extensión con particularidad por la parte del N
@@ -373,7 +373,7 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory> o
         <Territory>Acadia</Territory> en la <Territory>América Septentrional</Territory>, fundada
     por una porción de <humanGroup type="political_group">Alemanes</humanGroup> de
-        <LOC>Hallifax</LOC> que llegaban a 600, disgustados de la poca fertilidad del terreno que
+        <Settlement>Hallifax</Settlement> que llegaban a 600, disgustados de la poca fertilidad del terreno que
     gozaban, y deseosos de buscar otro mejor se establecieron aquí; pero habiéndose tumultuado envió
     el Gobernador de la <Concept_Territory>Provincia</Concept_Territory> un destacamento de tropa
     que los redujo, puso acordes en sus diferencias, y protegió, defendiéndolos de los Indios para
@@ -391,8 +391,8 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>San Juan de los
         Llanos</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, es pequeño, corre al
     N, y entra en el <Landmark>Meta</Landmark>, enfrente del
-        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones de <LOC>Santa Teresa de
-        Maipures</LOC> que tenían los Regulares de la Compañía. <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones de <Settlement>Santa Teresa de
+        Maipures</Settlement> que tenían los Regulares de la Compañía. <zbr/>
     <zbr/> §§§id_09242§§§<zbr/> LURIBAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cicasica</Territory> en

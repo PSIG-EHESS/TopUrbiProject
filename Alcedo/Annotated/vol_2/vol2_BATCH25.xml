@@ -180,8 +180,8 @@
  <zbr/> §§§id_09033§§§<zbr/> LONG-ISLAND, <Concept_Landmark>Isla</Concept_Landmark> Larga, o de
  Nassau) en la <Concept_Territory>Provincia</Concept_Territory> y
   <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Yorck</Territory>, tiene la de
-  <LOC>Staaten</LOC> o de los Estados al NO, la <Concept_Territory>Colonia</Concept_Territory> de
-  <Territory>Connecticut</Territory> al N, y el Occéano <LOC>Atlántico</LOC> al S y E; su extensión
+  <Landmark>Staaten</Landmark> o de los Estados al NO, la <Concept_Territory>Colonia</Concept_Territory> de
+  <Territory>Connecticut</Territory> al N, y el <Landmark>Occéano Atlántico</Landmark> al S y E; su extensión
  es de 130 millas <zbr/>
  <zbr/> @@@Alcedo_vol_2-0604@@@<zbr/>
  <zbr/> #de largo, y no más de 16 de ancho, estrechándose hacia el
@@ -468,7 +468,7 @@
  <zbr/> §§§id_09083§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> caudalosísimo, y uno de los
  mayores que hay en la <Territory>América</Territory>, llamado también de
   <Territory>Canadá</Territory>, que fue el nombre que le dieron primero, y le mudó después
-  <persName>Jacobo Cartier</persName> por haber llegado a él en día de <LOC>San Lorenzo</LOC>,
+  <persName>Jacobo Cartier</persName> por haber llegado a él en día de San Lorenzo,
  aunque no se sabe <zbr/>
  <zbr/> @@@Alcedo_vol_2-0609@@@<zbr/>
  <zbr/> #con certidumbre su origen, después de haber subido por él los <humanGroup
@@ -491,8 +491,7 @@
  arreglados solo le dan 30, porque aquellos miden desde el <Concept_Landmark>Cabo</Concept_Landmark>
  <Landmark>Rais</Landmark> hasta la <Concept_Landmark>extremidad</Concept_Landmark> o
   <Concept_Landmark>punta</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
- <LOC>Real</LOC> o de <Concept_Landmark>Cabo</Concept_Landmark>
- <LOC>Bretón</LOC>: este <Concept_Landmark>río</Concept_Landmark> que es navegable de embarcaciones
+ <Landmark>Real</Landmark> o de <Landmark>Cabo Bretón</Landmark>: este <Concept_Landmark>río</Concept_Landmark> que es navegable de embarcaciones
  grandes por espacio de 450 leguas, aunque con mucho riesgo, atraviesa toda la <Territory>Nueva
   Francia</Territory>, y en muchos parajes tiene grande rapidez, abunda de mil especies diferentes
  de pescados, como de tortugas y ballenas. <zbr/>
@@ -778,7 +777,7 @@
  dos leguas y media, las dos son mayores que las otras tres, y la más grande tendrá una legua de
  largo: sus nombres particulares que les dan los Indios son
   <Concept_Landmark>Isla</Concept_Landmark>
- <LOC>Grande</LOC>, Memkechkaoveck, <Landmark>Chibiamkek</Landmark>,
+ <Landmark>Grande</Landmark>, Memkechkaoveck, <Landmark>Chibiamkek</Landmark>,
   <Landmark>Concheacadia</Landmark>, y <Concept_Landmark>Isla</Concept_Landmark>
  <Landmark>Plana</Landmark>, que es la menor: en todas ellas hay abundancia de lobos marinos: distan
  5 leguas del <Concept_Landmark>cabo</Concept_Landmark> referido. <zbr/>
@@ -1161,10 +1160,10 @@
  <zbr/> §§§id_09161§§§<zbr/> S. LUCIA, llamada así de los <humanGroup type="political_group"
   >Franceses</humanGroup> porque fue descubierta el día de esta Santa, es una de las
   <Concept_Landmark>Islas</Concept_Landmark>
- <LOC>Caribes</LOC>, situada 6 millas al S de la <Settlement>Martinica</Settlement>, y 21 al NO de
+ <Landmark>Caribes</Landmark>, situada 6 millas al S de la <Settlement>Martinica</Settlement>, y 21 al NO de
  la <Settlement>Barbada</Settlement>, tiene casi 27 millas de largo N S, y 12 de ancho; hay en ella
  diferentes <Concept_Landmark>montañas</Concept_Landmark>, dos de las cuales que son redondas y
- escarpadas llaman los marineros Tetas de <LOC>Santa Lucía</LOC>, y dicen que ambas son
+ escarpadas llaman los marineros <Landmark>Tetas de Santa Lucía</Landmark>, y dicen que ambas son
   <Concept_Landmark>volcanes</Concept_Landmark>; al pie de ellas hay muy <zbr/>
  <zbr/> @@@Alcedo_vol_2-0622@@@<zbr/>
  <zbr/> #buenos <Concept_Landmark>llanos</Concept_Landmark> fértiles, y bien regados, en que tienen
@@ -1183,10 +1182,10 @@
   <Concept_Landmark>Isla</Concept_Landmark> ha sido poseída y dejada varias veces por los
   <humanGroup type="political_group">Ingleses</humanGroup> y <humanGroup type="political_group"
   >Franceses</humanGroup>, hasta que las Cortes de estas dos <Concept_Group>naciones</Concept_Group>
- convinieron el año de 1722 que fuese evacuada como las de <LOC>San Vicente</LOC> y la Dominica
+ convinieron el año de 1722 que fuese evacuada como las de <Landmark>San Vicente</Landmark> y la Dominica
  hasta que se determinase amigablemente su destino; pero a poco tiempo determinaron los <humanGroup
   type="political_group">Ingleses</humanGroup> apropiársela, y el Rey <persName>Jorge I</persName>°
- se la dio con la de <LOC>San Vicente</LOC> a el <persName>Duque de Montague</persName>, que
+ se la dio con la de <Landmark>San Vicente</Landmark> a el <persName>Duque de Montague</persName>, que
  haciendo inmensos gastos envió a ella al Capitán <persName>Uring</persName>, nombrándolo
  Gobernador, con gente, armas, instrumentos, y demás cosas necesarias para establecer la
   <Concept_Territory>Colonia</Concept_Territory>, el cual salió de <Territory>Inglaterra</Territory>
@@ -1196,7 +1195,7 @@
   type="political_group">Franceses</humanGroup> de <Territory>Martinica</Territory>, capitulando que
  quedase evacuada hasta que se determinasen las pretensiones de ambos partidos; sin embargo de esto
  volvieron a establecerse en ella los <humanGroup type="political_group">Franceses</humanGroup> a
- quienes fue cedida por la paz de <LOC>Versalles</LOC> el año de 1763, y han construido varias
+ quienes fue cedida por la paz de <Settlement>Versalles</Settlement> el año de 1763, y han construido varias
  fortificaciones para su defensa: está dividida en nueve
   <Concept_District>Parroquias</Concept_District>, las ocho están a una parte de la
   <Concept_Landmark>Isla</Concept_Landmark>, y en la otra solo hay una, naciendo esta preferencia,
@@ -1217,7 +1216,7 @@
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
  de <Territory>Venezuela</Territory>, situado al E de la
   <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Victoria</Territory>, uno de las
- Misiones de <LOC>Barinas</LOC> que tienen los Religiosos de Santo Domingo. <zbr/>
+ Misiones de <Settlement>Barinas</Settlement> que tienen los Religiosos de Santo Domingo. <zbr/>
  <zbr/> §§§id_09163§§§<zbr/> Otro de las Misiones que tenían los Regulares de la Compañía en la
   <Concept_Territory>Provincia</Concept_Territory> de <Territory>Topia</Territory> y
   <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, situado a
