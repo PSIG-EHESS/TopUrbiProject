@@ -1185,35 +1185,42 @@
     hacia la parte de la <Concept_Structure>Catedral</Concept_Structure> una
         <Concept_Structure>Hermita</Concept_Structure> dedicada a nuestra Señora de Egipto en que
     estan los <Concept_Group>Religiosos</Concept_Group> de la <humanGroup>Merced</humanGroup>: un
-    Colegio que fue de los Regulares de la Compañía, cuya casa era la más suntuosa y magnífica que
-    tenían en toda la Christiandad ( exceptuando la de Jesús en <Settlement>Roma</Settlement>) donde
-    se veneran los cuerpos de los Santos Mártires Mauro, Fortunato, Dionisio, Euthimio, y Anastasio:
-    otro llamado la Compañía Chiquita y Casa de Noviciado, en que tenían el Crucifixo con que murió
-    San Francisco de Borja; Convento de <Settlement>San Juan de Dios</Settlement>, a cuyo cargo esta
-    el grande Hospital de San Pedro: quatro Monasterios de Religiosas, uno de la Concepción, otro de
-    Santa Clara, otro de Carmelitas Descalzas, y otro de Santa Inés de Monte Policiano: tres
-    Colegios de estudios, que son el mayor con la advocación del Rosario, fundado el año de 1652, en
-    que hay quatro Becas destinadas por el Rey para hijos de Ministros, y goza los mismos
-    privilegios que el del Arzobispo en Sala<zbr/>
+        <Concept_Structure>Colegio</Concept_Structure> que fue de los
+        <Concept_Group>Regulares</Concept_Group> de la <humanGroup>Compañía</humanGroup>, cuya casa
+    era la más suntuosa y magnífica que tenían en toda la Christiandad ( exceptuando la de Jesús en
+        <Settlement>Roma</Settlement>) donde se veneran los cuerpos de los Santos Mártires Mauro,
+    Fortunato, Dionisio, Euthimio, y Anastasio: otro llamado la Compañía Chiquita y Casa de
+    Noviciado, en que tenían el Crucifixo con que murió San Francisco de Borja;
+        <Concept_Structure>Convento</Concept_Structure> de San Juan de Dios, a cuyo cargo esta el
+    grande <Concept_Structure>Hospital</Concept_Structure> de San Pedro: quatro
+        <Concept_Structure>Monasterios</Concept_Structure> de
+        <Concept_Group>Religiosas</Concept_Group>, uno de la <humanGroup>Concepción</humanGroup>,
+    otro de <humanGroup>Santa Clara</humanGroup>, otro de <humanGroup>Carmelitas
+        Descalzas</humanGroup>, y otro de <humanGroup>Santa Inés de Monte Policiano</humanGroup>:
+    tres <Concept_Structure>Colegios</Concept_Structure> de estudios, que son el mayor con la
+    advocación del Rosario, fundado el año de 1652, en que hay quatro Becas destinadas por el Rey
+    para hijos de Ministros, y goza los mismos privilegios que el del Arzobispo en Sala<zbr/>
     <zbr/> @@@Alcedo_vol_2-0124@@@<zbr/>
-    <zbr/> #manca: otro Seminario de San Bartolomé, y el tercero de Santo Tomás con Universidad
-    fundado el año de 1621 por autoridad Pontificia y Regia, en que hay una gran Biblioteca pública
-    establecida el de 1772. Ilustran esta <Concept_Settlement>Capital</Concept_Settlement> que tiene
-    además de los Templos referidos los de la Capilla del Sagrario, de nuestra Señora de Belem, de
-    Guadalupe, de la <Concept_Landmark>Peña</Concept_Landmark>, de las Cruces, de San Felipe, y el
-    Humilladero, que esta en la plazuela de San Francisco, en memoria de haherse dicho en aquel
-    sitio la primera Misa, y todos componen 28, sin varias Capillas y Oratorios reservados: un
-    Tribunal de Audiencia y Chancillería Real erigida el año de 1548, con un Presidente que después
-    se erigió en <Concept_Territory>Virreynato</Concept_Territory> el de 1718, suprimido el de 1724,
-    y vuelto a restablecer el de 1739: otro Tribunal mayor de Cuentas, que se fundo el de 1605: otro
-    de Dirección de Rentas Reales estancadas el de 1780, otro de la Santa Cruzada, otro de bienes de
-    difuntos, Contador general de Azogues, y Casa Real de Moneda, que gobierna ##un Intendente, un
-    Contador, Tesorero, y otros Ministros: el Emperador <persName>Carlos V</persName> le concedió
-    título de muy noble, muy leal y <Concept_Settlement>Ciudad</Concept_Settlement> más antigua el
-    año de 1548, y por blasón de armas un escudo en que esta una aguila negra en campo de oro, con
-    una granada abierta en cada garra, orlado de algunos ramos de oro en campo azul: el vecindario,
-    que consta de más de 300 almas, tiene muchas familias ilustres descendientes de las casas mas
-    nobles de <Territory>España</Territory>, y de los primeros Conquistadores de aquel
+    <zbr/> #manca: otro Seminario de San Bartolomé, y el tercero de Santo Tomás con
+        <Concept_Structure>Universidad</Concept_Structure> fundado el año de 1621 por autoridad
+    Pontificia y Regia, en que hay una gran Biblioteca pública establecida el de 1772. Ilustran esta
+        <Concept_Settlement>Capital</Concept_Settlement> que tiene además de los
+        <Concept_Structure>Templos</Concept_Structure> referidos los de la Capilla del Sagrario, de
+    nuestra Señora de Belem, de Guadalupe, de la <Concept_Landmark>Peña</Concept_Landmark>, de las
+    Cruces, de San Felipe, y el Humilladero, que esta en la plazuela de San Francisco, en memoria de
+    haherse dicho en aquel sitio la primera Misa, y todos componen 28, sin varias Capillas y
+    Oratorios reservados: un Tribunal de Audiencia y Chancillería Real erigida el año de 1548, con
+    un Presidente que después se erigió en <Concept_Territory>Virreynato</Concept_Territory> el de
+    1718, suprimido el de 1724, y vuelto a restablecer el de 1739: otro Tribunal mayor de Cuentas,
+    que se fundo el de 1605: otro de Dirección de Rentas Reales estancadas el de 1780, otro de la
+    Santa Cruzada, otro de bienes de difuntos, Contador general de Azogues, y Casa Real de Moneda,
+    que gobierna ##un Intendente, un Contador, Tesorero, y otros Ministros: el Emperador
+        <persName>Carlos V</persName> le concedió título de muy noble, muy leal y
+        <Concept_Settlement>Ciudad</Concept_Settlement> más antigua el año de 1548, y por blasón de
+    armas un escudo en que esta una aguila negra en campo de oro, con una granada abierta en cada
+    garra, orlado de algunos ramos de oro en campo azul: el vecindario, que consta de más de 300
+    almas, tiene muchas familias ilustres descendientes de las casas mas nobles de
+        <Territory>España</Territory>, y de los primeros Conquistadores de aquel
         <Concept_Territory>Reyno</Concept_Territory>: son de buenas costumbres y educación, habiles
     e ingeniosos, de buena estatura y aspecto, pero flemáticos y pausados: cuenta en el número de
     sus hijos muchos sugetos ilustres cuyo catálogo seria dilatado, y por eso expresaremos solamente
@@ -1240,20 +1247,20 @@
         Fe</Settlement> antes de mandarse trasladar la Iglesia de <Settlement>Santa
         Marta</Settlement>, murió de las enfermedades que le sobrevinieron del penoso viage a
         <Settlement>Lima</Settlement>.<zbr/> 2 Don Fr. <persName>Juan de los Barrios</persName>,
-    Religioso del Orden de San Francisco, <persName>Gil González Dávila</persName> en el Teatro de
-    las Iglesias del <Landmark>Paraguay</Landmark>, <Settlement>Santa Marta</Settlement> y
-        <Settlement>Santa Fe</Settlement>, dice que fue primer Obispo del
-        <Landmark>Paraguay</Landmark> y <Concept_Landmark>río</Concept_Landmark> de la
-        <Landmark>Plata</Landmark>, cuya erección hizo en <Settlement>Aranda de Duero</Settlement>,
-    y habiéndose detenido fue nombrado Obispo de <Territory>Santa Marta</Territory> y del
-        <Territory>Nuevo Reyno de Granada</Territory>, mandándole residir en <Settlement>Santa
-        Fe</Settlement>, a donde trasladó la Catedral aplicando la erección que habia hecho en
-        <Territory>España</Territory>, y la constituyó Metropolitana, a cuyo fin envió a la Corte a
-    su Dean Don <persName>Francisco Adame</persName>, y consiguió la aprobación de Pio IV por Bula
-    de 1562, y el de 1564 se verificó, dándole por sufragáneas las Iglesias de
-        <Settlement>Popayán</Settlement> y de <Settlement>Cartagena</Settlement>, y la Abadía de
-        <Settlement>Santa Marta</Settlement> a que quedó reducida; pero no tuvo la investidura ni
-    Bulas de Arzobispo por haber muerto antes de volver el referido Dean.<zbr/> 3 Don <persName>Luis
-        Zapata de Cárdenas</persName>, del Orden de San Francisco, natural de
-        <Settlement>Llerena</Settlement> en <Territory>Estremadura</Territory>, Ca<zbr/>
+        <Concept_Group>Religioso</Concept_Group> del <humanGroup>Orden de San
+    Francisco</humanGroup>, <persName>Gil González Dávila</persName> en el Teatro de las Iglesias
+    del Paraguay, <Settlement>Santa Marta</Settlement> y <Settlement>Santa Fe</Settlement>, dice que
+    fue primer Obispo del <Territory>Paraguay</Territory> y <Territory>río de la Plata</Territory>,
+    cuya erección hizo en <Settlement>Aranda de Duero</Settlement>, y habiéndose detenido fue
+    nombrado Obispo de <Territory>Santa Marta</Territory> y del <Territory>Nuevo Reyno de
+        Granada</Territory>, mandándole residir en <Settlement>Santa Fe</Settlement>, a donde
+    trasladó la Catedral aplicando la erección que habia hecho en <Territory>España</Territory>, y
+    la constituyó Metropolitana, a cuyo fin envió a la Corte a su Dean Don <persName>Francisco
+        Adame</persName>, y consiguió la aprobación de Pio IV por Bula de 1562, y el de 1564 se
+    verificó, dándole por sufragáneas las Iglesias de <Settlement>Popayán</Settlement> y de
+        <Settlement>Cartagena</Settlement>, y la Abadía de <Settlement>Santa Marta</Settlement> a
+    que quedó reducida; pero no tuvo la investidura ni Bulas de Arzobispo por haber muerto antes de
+    volver el referido Dean.<zbr/> 3 Don <persName>Luis Zapata de Cárdenas</persName>, del
+        <humanGroup>Orden de San Francisco</humanGroup>, natural de <Settlement>Llerena</Settlement>
+    en <Territory>Estremadura</Territory>, Ca<zbr/>
     <zbr/></xml>
