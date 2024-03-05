@@ -720,12 +720,12 @@
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóval</Landmark> hay un
     angosto <Concept_Landmark>canal</Concept_Landmark>, su principal fruto es el tabaco, de que esta
     plantada toda la circunferencia de la <Concept_Landmark>montaña</Concept_Landmark> que esta bien
-    fortificada, habitanla 50 <humanGroup type="social_group">vecinos</humanGroup>
-    <humanGroup type="social_group">Blancos</humanGroup> y 150 <humanGroup type="social_group"
-        >Negros</humanGroup> que también trabajan en hacer azúcar, tiene un regular
-        <Concept_Landmark>Puerto</Concept_Landmark> defendido por un fuerte en que hay 16 cañones,
-    solo en la cumbre de la <Concept_Landmark>montaña</Concept_Landmark> hay
-        <Concept_Landmark>bosque</Concept_Landmark>, y todo lo demás esta cultivado; aunque no tiene
+    fortificada, habitanla 50 <Concept_Group>vecinos</Concept_Group>
+    <Concept_Group>Blancos</Concept_Group> y 150 <Concept_Group>Negros</Concept_Group> que también
+    trabajan en hacer azúcar, tiene un regular <Concept_Landmark>Puerto</Concept_Landmark> defendido
+    por un fuerte en que hay 16 cañones, solo en la cumbre de la
+        <Concept_Landmark>montaña</Concept_Landmark> hay
+    <Concept_Landmark>bosque</Concept_Landmark>, y todo lo demás esta cultivado; aunque no tiene
         <Concept_Landmark>río</Concept_Landmark> ni fuente alguna, han construido en todas las casas
     cisternas para conservar el agua que necesitan, y se conduce de <Landmark>San
         Christóval</Landmark> por una embarcación que continuamente no se emplea en otra cosa: los
@@ -853,8 +853,8 @@
         <Concept_Territory>Reyno</Concept_Territory>, en cuyo
         <Concept_District>distrito</Concept_District> hay algunos
         <Concept_Structure>trapiches</Concept_Structure> de azúcar y crias de ganado mayor: tiene 18
-    familias de <humanGroup type="social_group">Indios</humanGroup>, y esta 9 leguas entre Poniente
-    y Sur de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+    familias de <Concept_Group>Indios</Concept_Group>, y esta 9 leguas entre Poniente y Sur de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05919§§§<zbr/> EYOU, <Concept_Landmark>Río</Concept_Landmark> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> que baxa de la
         <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>, y con el
@@ -869,9 +869,8 @@
     que va de <Settlement>Santa Fe</Settlement> a <Settlement>Honda</Settlement> y
         <Settlement>Mariquita</Settlement>; en él tenían los Zipas de <Territory>Bogotá</Territory>
     una <Concept_Structure>fortaleza</Concept_Structure> de que ##ya no hay más que memoria; hoy
-    tendrá 300 <humanGroup type="social_group">vecinos</humanGroup>, y 150 <humanGroup
-        type="social_group">Indios</humanGroup>: esta 4 leguas de <Settlement>Santa Fe</Settlement>
-    al SO. <zbr/>
+    tendrá 300 <Concept_Group>vecinos</Concept_Group>, y 150 <Concept_Group>Indios</Concept_Group>:
+    esta 4 leguas de <Settlement>Santa Fe</Settlement> al SO. <zbr/>
     <zbr/> §§§id_05921§§§<zbr/> FAIR-FIELD, <Concept_Territory>Condado</Concept_Territory> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Connecticut</Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Nueva
@@ -1055,7 +1054,7 @@
         <Concept_Territory>Condado</Concept_Territory> de <Territory>Hertford</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Connecticut</Territory>, al N
-    de <Settlement>Nueva Cambridge</Settlement>, y al O de <Territory>Hertford</Territory>. <zbr/>
+    de <Settlement>Nueva Cambridge</Settlement>, y al O de <Settlement>Hertford</Settlement>. <zbr/>
     <zbr/> §§§id_05949§§§<zbr/> FARMINGTON, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Connecticut</Territory>. <zbr/>
@@ -1071,7 +1070,8 @@
     Gobierno; pero tan arruinada y deshecha que apenas tendrá seis casas que merezcan este <zbr/>
     <zbr/> @@@Alcedo_vol_2-0121@@@<zbr/>
     <zbr/> #nombre, porque la mayor parte de los moradores que tenía la han abandonado por las
-    continuas invasiones que ha padecido de los <Concept_Group>Indios infieles</Concept_Group>
+    continuas invasiones que ha padecido de los <Concept_Group>Indios</Concept_Group>
+    <Concept_Group>infieles</Concept_Group>
     <humanGroup type="indigenous_group">Motilones</humanGroup>, como por su temperamento calido y
     mal sano, casi no produce hoy fruto alguno, aunque el terreno es fértil para cacao, tabaco, maíz
     y cañas dulces y otros frutos, esta 12 leguas al NO de la
@@ -1140,13 +1140,13 @@
     su Población N S, no distante de unas elevadas <Concept_Landmark>sierras</Concept_Landmark> que
     tiene al Oriente, y siguen desde <Settlement>Santa Marta</Settlement> la
         <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark> hasta el
-        <Landmark>Perú</Landmark>, es grande y hermosa, sus calles anchas y bien empedradas, la
+        <Territory>Perú</Territory>, es grande y hermosa, sus calles anchas y bien empedradas, la
     adornan quatro plazas y cinco puentes sobre los pequeños
         <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>San Francisco</Landmark> y
         <Landmark>San Agustín</Landmark>, cuyas aguas cristalinas, delgadas, frias y saludables
     tienen su origen en la <Concept_Landmark>montaña</Concept_Landmark>, y pasando por los umbrales
-    de estos Conventos les dan el nombre, y corriendo de Oriente a Poniente bañan la
-        <Concept_Settlement>Ciudad</Concept_Settlement> y su
+    de estos <Concept_Structure>Conventos</Concept_Structure> les dan el nombre, y corriendo de
+    Oriente a Poniente bañan la <Concept_Settlement>Ciudad</Concept_Settlement> y su
         <Concept_Landmark>llanura</Concept_Landmark>, que tie##ne 20 leguas de largo y 11 de ancho,
     hasta incorporarse en el <Landmark>Funzha</Landmark> que pasa un quarto de legua distante: es de
     temperamento fresco, experimentando duplicadas las quatro estaciones del año, en que se puede
@@ -1166,31 +1166,35 @@
         <Concept_Territory>Obispados</Concept_Territory> de <Territory>Cartagena</Territory>,
         <Territory>Caracas</Territory>, <Territory>Popayán</Territory>,
         <Territory>Panamá</Territory>, <Territory>Santa Marta</Territory>, y <Territory>Mérida de
-        Maracaibo</Territory>: la Catedral es magnífica y rica, y entre sus tesoros venera la cabeza
-    de Santa Isabel, Reyna de <Territory>Ungria</Territory>, dadiva de su Arzobispo Don Fr.
-        <persName>Luis Zapata de Cárdenas</persName>; hay en ella 16 Prebendas: tiene tres
+        Maracaibo</Territory>: la <Concept_Structure>Catedral</Concept_Structure> es magnífica y
+    rica, y entre sus tesoros venera la cabeza de Santa Isabel, Reyna de
+        <Territory>Ungria</Territory>, dadiva de su Arzobispo Don Fr. <persName>Luis Zapata de
+        Cárdenas</persName>; hay en ella 16 Prebendas: tiene tres
         <Concept_District>Parroquias</Concept_District> llamadas nuestra Señora de las Nieves, que
     tiene por <Concept_District>distrito</Concept_District> su quartel y el del Noviciado, segunda
-    Santa Barbara, y tercera la de San Victorino: Conventos de Religiosos de Santo Domingo dos, el
-    uno que es Recolección con el nombre de nuestra Señora de las Aguas: tres de los de San
-    Francisco, uno que esta a orilla del <Concept_Landmark>río</Concept_Landmark> de su nombre, otro
-    con título de la <Landmark>Vera Cruz</Landmark>, y el tercero de Recoletos de San Diego: en el
+    Santa Barbara, y tercera la de San Victorino: <Concept_Structure>Conventos</Concept_Structure>
+    de <Concept_Group>Religiosos</Concept_Group> de <humanGroup>Santo Domingo</humanGroup> dos, el
+    uno que es Recolección con el nombre de nuestra Señora de las Aguas: tres de los de
+        <humanGroup>San Francisco</humanGroup>, uno que esta a orilla del
+        <Concept_Landmark>río</Concept_Landmark> de su nombre, otro con título de la <Landmark>Vera
+        Cruz</Landmark>, y el tercero de <humanGroup>Recoletos de San Diego</humanGroup>: en el
     Egido de la <Concept_Settlement>Ciudad</Concept_Settlement>, a su salida para la de
-        <Settlement>Tunja</Settlement>, dos de San Agustín, de los quales es uno de Recoletos con
-    título de nuestra Señora de Montserrat, y esta en la cumbre de un
-        <Concept_Landmark>monte</Concept_Landmark> que domina, y en ##otro que hay hacia la parte de
-    la Catedral una <Concept_Structure>Hermita</Concept_Structure> dedicada a nuestra Señora de
-    Egipto en que estan los Religiosos de la Merced: un Colegio que fue de los Regulares de la
-    Compañía, cuya casa era la más suntuosa y magnífica que tenían en toda la Christiandad (
-    exceptuando la de Jesús en <Settlement>Roma</Settlement>) donde se veneran los cuerpos de los
-    Santos Mártires Mauro, Fortunato, Dionisio, Euthimio, y Anastasio: otro llamado la Compañía
-    Chiquita y Casa de Noviciado, en que tenían el Crucifixo con que murió San Francisco de Borja;
-    Convento de <Settlement>San Juan de Dios</Settlement>, a cuyo cargo esta el grande Hospital de
-    San Pedro: quatro Monasterios de Religiosas, uno de la Concepción, otro de Santa Clara, otro de
-    Carmelitas Descalzas, y otro de Santa Inés de Monte Policiano: tres Colegios de estudios, que
-    son el mayor con la advocación del Rosario, fundado el año de 1652, en que hay quatro Becas
-    destinadas por el Rey para hijos de Ministros, y goza los mismos privilegios que el del
-    Arzobispo en Sala<zbr/>
+        <Settlement>Tunja</Settlement>, dos de <humanGroup>San Agustín</humanGroup>, de los quales
+    es uno de Recoletos con título de <humanGroup>nuestra Señora de Montserrat</humanGroup>, y esta
+    en la cumbre de un <Concept_Landmark>monte</Concept_Landmark> que domina, y en ##otro que hay
+    hacia la parte de la <Concept_Structure>Catedral</Concept_Structure> una
+        <Concept_Structure>Hermita</Concept_Structure> dedicada a nuestra Señora de Egipto en que
+    estan los <Concept_Group>Religiosos</Concept_Group> de la <humanGroup>Merced</humanGroup>: un
+    Colegio que fue de los Regulares de la Compañía, cuya casa era la más suntuosa y magnífica que
+    tenían en toda la Christiandad ( exceptuando la de Jesús en <Settlement>Roma</Settlement>) donde
+    se veneran los cuerpos de los Santos Mártires Mauro, Fortunato, Dionisio, Euthimio, y Anastasio:
+    otro llamado la Compañía Chiquita y Casa de Noviciado, en que tenían el Crucifixo con que murió
+    San Francisco de Borja; Convento de <Settlement>San Juan de Dios</Settlement>, a cuyo cargo esta
+    el grande Hospital de San Pedro: quatro Monasterios de Religiosas, uno de la Concepción, otro de
+    Santa Clara, otro de Carmelitas Descalzas, y otro de Santa Inés de Monte Policiano: tres
+    Colegios de estudios, que son el mayor con la advocación del Rosario, fundado el año de 1652, en
+    que hay quatro Becas destinadas por el Rey para hijos de Ministros, y goza los mismos
+    privilegios que el del Arzobispo en Sala<zbr/>
     <zbr/> @@@Alcedo_vol_2-0124@@@<zbr/>
     <zbr/> #manca: otro Seminario de San Bartolomé, y el tercero de Santo Tomás con Universidad
     fundado el año de 1621 por autoridad Pontificia y Regia, en que hay una gran Biblioteca pública
