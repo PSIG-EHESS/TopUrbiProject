@@ -14,9 +14,9 @@
     Cabezera del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Tituben</Landmark> fundado por Don <persName>Joseph Manso</persName>, Conde de
     Superunda, Presidente que fue allí, y le dio su nombre: cerca de ella hay una
-        <Concept_Structure>hacienda</Concept_Structure> muy fértil llamada Ninhue. <zbr/>
-    <zbr/> §§§id_09578§§§<zbr/> Tienen el mismo nombre de
-        <Concept_Landmark>Llanos</Concept_Landmark> de Manso unas
+        <Concept_Structure>hacienda</Concept_Structure> muy fértil llamada
+        <Structure>Ninhue</Structure>. <zbr/>
+    <zbr/> §§§id_09578§§§<zbr/> Tienen el mismo nombre de Llanos de Manso unas
         <Concept_Landmark>llanuras</Concept_Landmark> dilatadas del
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> del <Territory>Chaco</Territory>,
@@ -25,8 +25,7 @@
     están habitadas de muchas <Concept_Group>Naciones de Indios</Concept_Group>; tiene la
     denominación del Capitan <persName>Andrés Manso</persName>, que fundó allí la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Santiago de
-        Guadalcazar</Settlement> que destruyeron los Infieles: µµµvéase el artículo
-        <Territory>Chaco</Territory>µµµ. <zbr/>
+        Guadalcazar</Settlement> que destruyeron los Infieles: µµµvéase el artículo Chacoµµµ. <zbr/>
     <zbr/> §§§id_09579§§§<zbr/> MANTA, <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Concept_District>Partido</Concept_District> de <Territory>Puerto Viejo</Territory> ##en la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -39,10 +38,11 @@
         <Landmark>Toalla</Landmark>, cuya agua es de color de almaciga, pero muy gustosa y
     saludable: en la Iglesia mayor se venera una Imagen muy milagrosa de Nuestra Señora de
     Monserrat, a quien hacen salva y cantan la Letanía a la entrada y salida las embarcaciones:
-    tiene el <Concept_Landmark>Puerto</Concept_Landmark> tres placeres llamados Salango, Salanguillo
-    y el <Concept_Landmark>Morro</Concept_Landmark> abundantes de cochas y caracoles muy preciosos
-    que arroja el <Concept_Landmark>mar</Concept_Landmark>, y en el siglo pasado fueron pesquerías
-    de perlas tan buenas como las de la <Landmark>Margarita</Landmark> y
+    tiene el <Concept_Landmark>Puerto</Concept_Landmark> tres placeres llamados
+        <Landmark>Salango</Landmark>, <Landmark>Salanguillo</Landmark> y el
+        <Landmark>Morro</Landmark> abundantes de cochas y caracoles muy preciosos que arroja el
+        <Concept_Landmark>mar</Concept_Landmark>, y en el siglo pasado fueron pesquerías de perlas
+    tan buenas como las de la <Territory>Margarita</Territory> y
         <Concept_Landmark>río</Concept_Landmark> del <Landmark>Hacha</Landmark>, pero se abandonaron
     por los muchos buzos que perecían, sofocados del pez Manta, que abunda allí y da nombre al
         <Concept_Landmark>Puerto</Concept_Landmark>: es de la figura de una manta redonda de tres y
@@ -54,29 +54,31 @@
     dividirlo, pero son pocos los que han logrado este triunfo: ha sido saqueado el
         <Concept_Settlement>Pueblo</Concept_Settlement> varias veces por los piratas extrangeros,
     por lo qual se trasladó al pie de una <Concept_Landmark>Colina</Concept_Landmark>, en que está
-    hoy, y se llama <Settlement>Monte Cristi</Settlement> o <Settlement>Manta</Settlement> la Nueva: La Martinieré
-    dice que dista 9 leguas de la <Concept_Landmark>Bahía</Concept_Landmark> de
-        <Landmark>Carracas</Landmark>, por decir Cara, de que está 10 leguas: nombra después el
+    hoy, y se llama <Settlement>Monte Cristi</Settlement> o <Settlement>Manta la Nueva</Settlement>:
+        <persName>La Martinieré</persName> dice que dista 9 leguas de la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Carracas</Landmark>, por decir
+        <Landmark>Cara</Landmark>, de que está 10 leguas: nombra después el
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Choropoto</Landmark> en vez de <Landmark>Charapoto</Landmark>, y que las embarcaciones
-    que van de <Territory>Panamá</Territory> al <Territory>Perú</Territory>, hacen escala en este
+    que van de <Settlement>Panamá</Settlement> al <Territory>Perú</Territory>, hacen escala en este
         <Concept_Landmark>Puerto</Concept_Landmark>, de donde los pasageros pasan a
         <Settlement>Lima</Settlement> por tierra; en lo que se equivoca, como acostumbra, pues sería
     desproposito desembarcar en <Settlement>Manta</Settlement> para hacer el rodeo de ir a
         <Settlement>Guayaquil</Settlement>, embarcarse aqui para <Settlement>Tumbez</Settlement>, y
-    seguir por tierra a <Settlement>Puira</Settlement>; sin duda ##tomó a
-        <Settlement>Manta</Settlement> por Paita, <Concept_Landmark>Puerto</Concept_Landmark> en la
-        <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Perú</Territory>, donde
-    desembarcan los que van a <Settlement>Lima</Settlement> por tierra, y el Ex-Jesuita
-        <persName>Coleti</persName> impugnando este error incurre en el de decir, que ninguna
-    embarcación que va al <Territory>Perú</Territory> entra en <Settlement>Manta</Settlement>,
-    siendo asi que es común entrar allí a hacer aguada como hemos dicho: algunos aseguran que en sus
-    inmediaciones había una célebre <Concept_Landmark>mina</Concept_Landmark> de esmeraldas, de
-    donde sacaron una tan grande los <humanGroup type="social_group">Indios</humanGroup>, que la
-    adoraban por Deidad, y venian de distancia en peregrinación: estos antiguos
-        <Settlement>Manta</Settlement>s eran sumamente lascivos y sodomitas, hoy han quedado muy
-    pocos, y todos reducidos a la fé Católica: está 5 leguas de <Settlement>Puerto
-        Viejo</Settlement>, 26 de <Settlement>Guayaquil</Settlement>, y tres y media de la
+    seguir por tierra a <Settlement>Piura</Settlement>; sin duda ##tomó a
+        <Settlement>Manta</Settlement> por <Settlement>Paita</Settlement>,
+        <Concept_Landmark>Puerto</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark>
+    del <Territory>Perú</Territory>, donde desembarcan los que van a <Settlement>Lima</Settlement>
+    por tierra, y el Ex-Jesuita <persName>Coleti</persName> impugnando este error incurre en el de
+    decir, que ninguna embarcación que va al <Territory>Perú</Territory> entra en
+        <Settlement>Manta</Settlement>, siendo así que es común entrar allí a hacer aguada como
+    hemos dicho: algunos aseguran que en sus inmediaciones había una célebre
+        <Concept_Landmark>mina</Concept_Landmark> de esmeraldas, de donde sacaron una tan grande los
+        <humanGroup type="social_group">Indios</humanGroup>, que la adoraban por Deidad, y venian de
+    distancia en peregrinación: estos antiguos <humanGroup type="indigenous_group"
+        >Mantas</humanGroup> eran sumamente lascivos y sodomitas, hoy han quedado muy pocos, y todos
+    reducidos a la fé Católica: está 5 leguas de <Settlement>Puerto Viejo</Settlement>, 26 de
+        <Settlement>Guayaquil</Settlement>, y tres y media de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en 1 gr. y 18 seg. de
     lat. aust. <zbr/>
     <zbr/> §§§id_09580§§§<zbr/> MANTEOUEC, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -97,7 +99,7 @@
     <humanGroup type="indigenous_group">Panos</humanGroup>, <humanGroup type="indigenous_group"
         >Piros</humanGroup>, y <humanGroup type="indigenous_group">Chípeos</humanGroup>, algunos de
     los quales se han reducido a <Concept_Settlement>Pueblos</Concept_Settlement> por los Religiosos
-    de San Francisco de Lima; este <Concept_Landmark>Río</Concept_Landmark>
+    de San Francisco de <Settlement>Lima</Settlement>; este <Concept_Landmark>Río</Concept_Landmark>
     <Landmark>Manua</Landmark> entra por su orilla occidental en el <Landmark>Ucayale</Landmark> en
     10 gr. 58 min. de lat. aust. <zbr/>
     <zbr/> §§§id_09583§§§<zbr/> MANZANARES, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -114,7 +116,7 @@
     de la <Concept_Landmark>Costa</Concept_Landmark> del N en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> juntó al
         <Concept_Landmark>Puerto</Concept_Landmark>
-    <Landmark>Delfín</Landmark> 14 leguas de el de Gu <Landmark>arico</Landmark>. <zbr/>
+    <Landmark>Delfín</Landmark> 14 leguas de el de <Landmark>Guarico</Landmark>. <zbr/>
     <zbr/> §§§id_09586§§§<zbr/> Una <Concept_Landmark>Punta de tierra</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -153,7 +155,7 @@
         <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nue<zbr/>
         <zbr/> @@@Alcedo_vol_3-0054@@@<zbr/>
         <zbr/> #va Vizcaya</Territory> en la <Territory>Améririca Septentrional</Territory>, donde
-    reside un Capitán, un Sargento mayor y 21. Soldados de guarnición para contener los
+    reside un Capitán, un Sargento mayor y 21 Soldados de guarnición para contener los
         <Concept_Group>Indios infieles</Concept_Group>. Acia la parte del N hay fin Jirón de tierra
     despoblada que se dilata por más de cien leguas del S al N hasta las riveras de el
         <Concept_Landmark>río</Concept_Landmark>
@@ -172,7 +174,7 @@
     pasageros y pastores de ganados; antiguamente hubo en este
         <Concept_Settlement>Presidio</Concept_Settlement> unas abundantes
         <Concept_Landmark>minas</Concept_Landmark> de plata que se trabajaron con mucha utilidad, en
-    que había un Alcalde mayor, pero ya no se benefician: está 54. ##leguas al N de la
+    que había un Alcalde mayor, pero ya no se benefician: está 54 ##leguas al N de la
         <Concept_Settlement>Capital</Concept_Settlement>
     <Settlement>Guadiana</Settlement>. <zbr/>
     <zbr/> §§§id_09592§§§<zbr/> MAPINASA, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -246,10 +248,9 @@
     <zbr/> §§§id_09601§§§<zbr/> MAPURA, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
     la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Anserma</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, donde hay las mejores
-        <Concept_Landmark>minas</Concept_Landmark> de oro de quantas se han descubierto en la
-        <Landmark>Améri</Landmark><zbr/>
-    <zbr/> @@@Alcedo_vol_3-0056@@@<zbr/>
-    <zbr/> #ca, pero se trababan poco por falta de gente. <zbr/>
+        <Concept_Landmark>minas</Concept_Landmark> de oro de quantas se han descubierto en la <Territory>Améri<zbr/>
+        <zbr/> @@@Alcedo_vol_3-0056@@@<zbr/>
+        <zbr/> #ca</Territory>, pero se trababan poco por falta de gente. <zbr/>
     <zbr/> §§§id_09602§§§<zbr/> MAPUTEYAPES, <Concept_Group>Nación bárbara de Indios</Concept_Group>
     del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> al N de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guánuco</Territory> o, y en
@@ -313,14 +314,15 @@
     <Landmark>Magallanico</Landmark> y del <Concept_Landmark>mar</Concept_Landmark>
     <zbr/>
     <zbr/> @@@Alcedo_vol_3-0057@@@<zbr/>
-    <zbr/> #<Territory>Pacífico</Territory> o con más propiedad del
+    <zbr/> #<Landmark>Pacífico</Landmark> o con más propiedad del
         <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Chileno</Landmark> o de <Landmark>Chile</Landmark>. A principios de este siglo se
     empezó a frecuentar su navegación por los <humanGroup type="political_group"
         >Franceses</humanGroup>, abandonando el <Concept_Landmark>Estrecho</Concept_Landmark> de
         <Landmark>Magallanes</Landmark> para pasar a la <Concept_Landmark>mar</Concept_Landmark> de
     el <Landmark>Sur</Landmark>: algunos le dan por límites acia el Polo, la tierra
-        <Territory>Austral</Territory> o de <Territory>Quirós</Territory>, pero nada hay determinado con certidumbre. <zbr/>
+        <Territory>Austral</Territory> o de <Territory>Quirós</Territory>, pero nada hay determinado
+    con certidumbre. <zbr/>
     <zbr/> §§§id_09610§§§<zbr/> BRASILICO, <Concept_Landmark>mar</Concept_Landmark> que baña las
         <Concept_Landmark>Costas</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
     de el <Territory>Brasil</Territory>, empieza desde la boca o entrada del
@@ -338,9 +340,9 @@
     49 min. de lat. aust; y termina en la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San
         Ambrosio</Landmark> en 25 gr; de lat. ##aust; baña toda la
         <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
-    de <Territory>Chile</Territory>, y la de los <humanGroup type="indigenous_group">Patagones</humanGroup>; este
-        <Concept_Landmark>mar</Concept_Landmark> se comprehende también en el nombre de
-        <Concept_Landmark>mar</Concept_Landmark>
+    de <Territory>Chile</Territory>, y la de los <humanGroup type="indigenous_group"
+        >Patagones</humanGroup>; este <Concept_Landmark>mar</Concept_Landmark> se comprehende
+    también en el nombre de <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Pacífico</Landmark>, y algunos Geógrafos le llaman
         <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Austrino</Landmark>, lo mismo que al <Concept_Landmark>mar</Concept_Landmark>
@@ -352,7 +354,7 @@
         <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> en 52 gr.
     21 min. de lat. aust dividiéndolo del <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>austral</Landmark>: baña la <Concept_Landmark>Costa</Concept_Landmark> de las
-        <Landmark>Pampas</Landmark>, y de las tierras <Landmark>Magallanicas</Landmark>. <zbr/>
+        <Landmark>Pampas</Landmark>, y de las tierras <Territory>Magallanicas</Territory>. <zbr/>
     <zbr/> §§§id_09613§§§<zbr/> DEL NORTE, se toma respeclo a la <Territory>América
         Meridional</Territory> desde la <Concept_Landmark>Costa</Concept_Landmark> del
         <Concept_Landmark>Itsmo</Concept_Landmark> de <Territory>Panamá</Territory> o de
@@ -366,7 +368,7 @@
     formado por una linea imaginaria del NE al SO, esto es, de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Santo Tomás</Landmark>, última de las <zbr/>
     <zbr/> @@@Alcedo_vol_3-0058@@@<zbr/>
-    <zbr/> #Antilles menores al N hasta la boca o entrada del
+    <zbr/> #<Landmark>Antilles menores</Landmark> al N hasta la boca o entrada del
         <Concept_Landmark>río</Concept_Landmark> de <Landmark>Chagre</Landmark>. <zbr/>
     <zbr/> §§§id_09614§§§<zbr/> PACÍFICO, llamado también del <Territory>Sur</Territory>, que con
     más propiedad hablando de la <Territory>América Meridional</Territory> debia llamarse
@@ -376,7 +378,7 @@
     como dice <persName>Martiniere</persName>: respecto a la <Territory>América
         Meridional</Territory> se extiende desde el <Concept_Landmark>Estrecho</Concept_Landmark> de
         <Landmark>Magallanes</Landmark>, hasta el <Concept_Landmark>Itsmo</Concept_Landmark> de
-        <Landmark>Panamá</Landmark> o de <Territory>Tierra-Firme</Territory>, 66 gr. 46 min. 48 seg.
+        <Landmark>Panamá</Landmark> o de <Landmark>Tierra-Firme</Landmark>, 66 gr. 46 min. 48 seg.
     de lat. esto es, 52 gr. 49 min. de lat. aust; y 8 gr. 57 min. 48 seg. de lat. bor; que hacen
     1286 leg. poco más; y de Levante a Poniente llega hasta las
         <Concept_Landmark>Islas</Concept_Landmark> de <Landmark>Salomón</Landmark>, que están en una
@@ -401,8 +403,8 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cotabambas</Territory> en
     el <Territory>Perú</Territory>. Tiene este nombre otro
         <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los Padres
-    Carmelitas de <Territory>Portugal</Territory>, en el <Concept_Territory>País</Concept_Territory> de las
-        <Territory>Amazonas</Territory>, situado a orilla del
+    Carmelitas de <Territory>Portugal</Territory>, en el <Concept_Territory>País</Concept_Territory>
+    de las <Territory>Amazonas</Territory>, situado a orilla del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Negro</Landmark>. <zbr/>
     <zbr/> §§§id_09618§§§<zbr/> MARABI, o según otros Marahi,
@@ -433,7 +435,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, fundada a orilla de la
         <Landmark>Laguna</Landmark> de su nombre, fundada por el Capitán <persName>Alonso
         Pacheco</persName> el año de 1571; y no por <persName>Ambrosio de Alfinger</persName> el año
-    de 1530, como dice <persName>Colcti</persName>: es de temperamento sumamente cálido, pero sano,
+    de 1530, como dice <persName>Coleti</persName>: es de temperamento sumamente cálido, pero sano,
     y tan seco que en más de 20 leguas acia la <Concept_Landmark>Serranía</Concept_Landmark> no se
     halla más agua que la que recoge la industria quando llueve en xahueyes o pozas hechas a mano
     para mantener los ganados que pacen en aquellos campos, de que se origina ser muy estéril su
@@ -447,9 +449,10 @@
     Juan de Dios con la advocación de Santa Ana; pertenecía antes esta
         <Concept_Settlement>Ciudad</Concept_Settlement> al
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Caracas</Territory> hasta el
-    año de 1678; que se agregó al de <Settlement>Mérida</Settlement>, y es Cabezera de él donde
-    reside el Gobernador: está seis leguas del <Concept_Landmark>mar</Concept_Landmark> o entrada de
-    la <Landmark>Laguna</Landmark>, para cuya defensa hay construidos tres
+    año de 1678; que se agregó al de <Territory>Mérida</Territory>, y es
+        <Concept_Settlement>Cabezera</Concept_Settlement> de él donde reside el Gobernador: está
+    seis leguas del <Concept_Landmark>mar</Concept_Landmark> o entrada de la
+        <Landmark>Laguna</Landmark>, para cuya defensa hay construidos tres
         <Concept_Structure>Castillos</Concept_Structure> o
         <Concept_Structure>Fortalezas</Concept_Structure>. Tiene un
         <Concept_Landmark>Puerto</Concept_Landmark> muy bueno, seguro y cómodo para construir
@@ -458,12 +461,11 @@
     infinito ganado de toda especie que cría en sus campañas: en su vecindario se cuentan muchas
     familias ilustres, y algu<zbr/>
     <zbr/> @@@Alcedo_vol_3-0060@@@<zbr/>
-    <zbr/> #nas descendientes de los primeros Conquistadores <humanGroup type="political_group"
-        >Alemanes</humanGroup> de <Settlement>Augusta</Settlement>: el pirata <persName>Francisco
-        Lolonois</persName> la saqueó el año de 1668. <persName>Francisco Drake</persName> el de
-    1669 y los <humanGroup type="political_group">Franceses</humanGroup> el de 1678: en su Iglesia
-    se venera un milagroso Crucifixo, a quien los <humanGroup type="social_group"
-        >Indios</humanGroup>
+    <zbr/> #nas descendientes de los primeros Conquistadores Alemanes de
+        <Settlement>Augusta</Settlement>: el pirata <persName>Francisco Lolonois</persName> la
+    saqueó el año de 1668. <persName>Francisco Drake</persName> el de 1669 y los <humanGroup
+        type="political_group">Franceses</humanGroup> el de 1678: en su Iglesia se venera un
+    milagroso Crucifixo, a quien los <humanGroup type="social_group">Indios</humanGroup>
     <humanGroup type="indigenous_group">Quiriquiris</humanGroup> tiraron seis flechazos quando se
     sublevaron contra los <humanGroup type="social_group">Españoles</humanGroup> el año de 1600; en
     que saquearon y quemaron la <Concept_Settlement>Ciudad</Concept_Settlement> de
@@ -489,38 +491,40 @@
         <Landmark>Paurate</Landmark> que baxa de las <Concept_Landmark>Sierras</Concept_Landmark> de
         <Landmark>Ocaña</Landmark>, el <Landmark>Catumbo</Landmark> por tres bocas, el de
         <Landmark>Arinas</Landmark>, <Landmark>Rico de Oro</Landmark>, el
-        <Landmark>Torondoy</Landmark> de aguas saludables, el Sucui que baxa de la
-        <Concept_Landmark>Cordillera</Concept_Landmark> que está a espaldas de el
+        <Landmark>Torondoy</Landmark> de aguas saludables, el <Landmark>Sucui</Landmark> que baxa de
+    la <Concept_Landmark>Cordillera</Concept_Landmark> que está a espaldas de el
         <Concept_Landmark>río</Concept_Landmark> del <Landmark>Hacha</Landmark>, y el del Astillero
     célebre por sus ricas maderas, con otros muchos de menos consideración: navegan este
         <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>agua dulce</Landmark> muchas
     fragatas, balandras y otras embarcaciones, y aun las más grandes pudieran surcarlo por su fondo,
     si lo permitiera la barra que hay a su entrada, que tiene media legua de ancho, y en ella hay
-    dos <Concept_Landmark>Isletas</Concept_Landmark> llamadas la una de las <Landmark>Palomas</Landmark>, y la
-    otra de la <Landmark>Vigía</Landmark>, en las mareas crecien<zbr/>
+    dos <Concept_Landmark>Isletas</Concept_Landmark> llamadas la una de las
+        <Landmark>Palomas</Landmark>, y la otra de la <Landmark>Vigía</Landmark>, en las mareas crecien<zbr/>
     <zbr/> @@@Alcedo_vol_3-0061@@@<zbr/>
     <zbr/> #tes entra el aguí del <Concept_Landmark>Golfo</Concept_Landmark> de
         <Landmark>Venezuela</Landmark>, y entonces son algo salobres sus aguas: descubrió este
         <Concept_Landmark>lago</Concept_Landmark>, y fue el primero que entró en él
-        <persName>Bartolomé Sailler Alemán</persName>, Lugar Teniente del General <persName>Ambrosio
+        <persName>Bartolomé Sailler</persName> Alemán, Lugar Teniente del General <persName>Ambrosio
         de Alfinger</persName> el año de 1529 y por haber hallado en él grandes
         <Concept_Settlement>Poblaciones</Concept_Settlement>, fundadas dentro de el agua como en
-        <Settlement>Venecia</Settlement> la llamaron <Landmark>Venezuela</Landmark>, nombre que después
-    extendieron a toda la <Concept_Territory>Provincia</Concept_Territory>; hoy solo hay quatro
-        <Concept_Settlement>Pueblos</Concept_Settlement> muy cortos, y los horcones de madera en que
-    estriban los edificios, después de algunos años se convierte en piedra la parte que está dentro
-    del agua; a poca distancia habitan las <Concept_Group>Naciones bárbaras</Concept_Group> de
-        <Concept_Group>Indios</Concept_Group>
+        <Settlement>Venecia</Settlement> la llamaron <Landmark>Venezuela</Landmark>, nombre que
+    después extendieron a toda la <Concept_Territory>Provincia</Concept_Territory>; hoy solo hay
+    quatro <Concept_Settlement>Pueblos</Concept_Settlement> muy cortos, y los horcones de madera en
+    que estriban los edificios, después de algunos años se convierte en piedra la parte que está
+    dentro del agua; a poca distancia habitan las <Concept_Group>Naciones bárbaras</Concept_Group>
+    de <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Quiriquires</humanGroup>, <humanGroup
         type="indigenous_group">Zaparas</humanGroup>, <humanGroup type="indigenous_group"
         >Pocabuyes</humanGroup>, <humanGroup type="indigenous_group">Alcoholades</humanGroup> y
         <humanGroup type="indigenous_group">Bohures</humanGroup> o <humanGroup
         type="indigenous_group">Bobures</humanGroup>: abunda de excelente pescado, y con
     especialidad de Manatíes o Vacas marinas de extraordinario tamaño; cerca de la orilla oriental
-    tiene una <Concept_Landmark>Isla</Concept_Landmark> que llaman de las <Landmark>Borricas</Landmark>, muy
-    fértil y deliciosa, en que pace muchísimo ganado:, está 40 leguas al Ponien##te de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. Tiene
-    también el nombre de Saco de Maracaibo una <Concept_Landmark>Ensenada</Concept_Landmark> de la
+    tiene una <Concept_Landmark>Isla</Concept_Landmark> que llaman de las
+        <Landmark>Borricas</Landmark>, muy fértil y deliciosa, en que pace muchísimo ganado:, está
+    40 leguas al Ponien##te de la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Coro</Settlement>. <zbr/>
+    <zbr/> §§§id_09621b§§§<zbr/> Tiene también el nombre de Saco de Maracaibo una
+        <Concept_Landmark>Ensenada</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> de la misma
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory>, muy grande y capaz, que está a la derecha de
@@ -584,8 +588,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
     situado a orilla de el <Concept_Landmark>Río</Concept_Landmark>
     <Landmark>Xexuy</Landmark>, entre los del <Landmark>Paraná</Landmark> y
-        <Landmark>Paraguay</Landmark> al NE de la <Concept_Settlement>Villa</Concept_Settlement>
-    <Settlement>Rica</Settlement>. <zbr/>
+        <Landmark>Paraguay</Landmark> al NE de la <Settlement>Villa Rica</Settlement>. <zbr/>
     <zbr/> §§§id_09631§§§<zbr/> Tiene el mismo nombre una
         <Concept_Landmark>Cordillera</Concept_Landmark> de
         <Concept_Landmark>montañas</Concept_Landmark> muy altas de la
@@ -602,7 +605,7 @@
     orillas están cubiertas de disformes árboles que forman unos
         <Concept_Landmark>bosques</Concept_Landmark> densos e impenetrables: sale al
         <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>Golfo</Concept_Landmark> de
-    San Luis de <Territory>Marañan</Territory> en 3 gr. 40 min. de lat. aust. <zbr/>
+        <Landmark>San Luis de Marañan</Landmark> en 3 gr. 40 min. de lat. aust. <zbr/>
     <zbr/> §§§id_09633§§§<zbr/> Tiene el mismo nombre una
         <Concept_Landmark>Laguna</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -619,9 +622,9 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Chayanta</Territory> o
         <Territory>Charcas</Territory> en el <Territory>Perú</Territory>, anexo al
         <Concept_District>Curato</Concept_District> de <Settlement>Moromoma</Settlement>. <zbr/>
-    <zbr/> §§§id_09636§§§<zbr/> MARAGUAZE, Pue<zbr/>
-    <zbr/> @@@Alcedo_vol_3-0063@@@<zbr/>
-    <zbr/> #blo de la <Concept_Territory>Provincia</Concept_Territory> y
+    <zbr/> §§§id_09636§§§<zbr/> MARAGUAZE, <Concept_Settlement>Pue<zbr/>
+        <zbr/> @@@Alcedo_vol_3-0063@@@<zbr/>
+        <zbr/> #blo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de el <Territory>Pará</Territory> en el
         <Territory>Brasil</Territory> , situado a la orilla del Sur del
         <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Amazonas</Landmark> entre los del
@@ -659,9 +662,9 @@
     del N al medio día. Le dio el nombre la <Concept_Group>Nación de Indios bárbaros</Concept_Group>
     <humanGroup type="indigenous_group">Marayos</humanGroup>, después corrompido el vocablo en
     Marajo por los <humanGroup type="social_group">Españoles</humanGroup>, y algunos han fingido la
-    fábula de que estos <humanGroup type="social_group">Indios</humanGroup> tienen los pies al
-    revés, esto es, los talones acia adelante. La <Concept_Landmark>Isla</Concept_Landmark> está muy
-    cultivada, produce maíz, plátanos, cañas dulces, y otros frutos propios del
+    fábula de que estos <Concept_Group>Indios</Concept_Group> tienen los pies al revés, esto es, los
+    talones acia adelante. La <Concept_Landmark>Isla</Concept_Landmark> está muy cultivada, produce
+    maíz, plátanos, cañas dulces, y otros frutos propios del
         <Concept_Territory>País</Concept_Territory> en abundancia: el clima es bastante cálido, pero
     los vientos del <Concept_Landmark>mar</Concept_Landmark> lo refrescan y templan mucho. <zbr/>
     <zbr/> §§§id_09642§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>Río</Concept_Landmark>
@@ -682,7 +685,8 @@
     de la <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de <Territory>río Jeneiro</Territory> en el
-        <Territory>Brasil</Territory> al E de la <Concept_Landmark>Isla</Concept_Landmark> grande. <zbr/>
+        <Territory>Brasil</Territory> al E de la <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>grande</Landmark>. <zbr/>
     <zbr/> §§§id_09645§§§<zbr/> MARAMEG, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>: nace
@@ -696,7 +700,7 @@
     comprehende la <Concept_Landmark>Isla</Concept_Landmark> de su nombre o de <Landmark>San
         Luis</Landmark>, y el continente inmediato: confina a Levante con la de
         <Territory>Seara</Territory>, al N con el <Concept_Landmark>mar</Concept_Landmark>
-    <Territory>Brasil</Territory>iano, a occidente con la
+    <Landmark>Brasiliano</Landmark>, a occidente con la
         <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory>, y al medio
     día con el <Concept_Territory>País</Concept_Territory> que habitan los <Concept_Group>Indios
         bárbaros</Concept_Group>, especialmente la <Concept_Group>Nación</Concept_Group> de los
@@ -707,8 +711,8 @@
     <Landmark>Moni</Landmark>, que desembocan en el <Concept_Landmark>Golfo</Concept_Landmark> de
         <Landmark>San Luis</Landmark>. Las <Concept_Landmark>Islas</Concept_Landmark> mayores son
         <Landmark>Sipotuba</Landmark>, <Landmark>Santa Ana</Landmark>, y
-        <Landmark>Ygarapotoe</Landmark> además de la de <Territory>Marañan</Territory>, en que está
-    la <Concept_Settlement>Capital</Concept_Settlement>, que tiene 43 leguas de circuito, y dista
+        <Landmark>Ygarapotoe</Landmark> además de la de <Landmark>Marañan</Landmark>, en que está la
+        <Concept_Settlement>Capital</Concept_Settlement>, que tiene 43 leguas de circuito, y dista
     del continente 6 leguas por una parte, y por otra tres y media. A Poniente y a Levante tiene
     muchos <Concept_Landmark>bancos de arena</Concept_Landmark> formados por el
         <Concept_Landmark>Río</Concept_Landmark> que desemboca al
@@ -718,8 +722,8 @@
         <Concept_Landmark>arroyos</Concept_Landmark> de agua muy clara y fresca que fertiliza las
         <Concept_Landmark>llanuras</Concept_Landmark>: el clima es sano y agradable; produce toda
     especie de granos y frutos que se siembran, y de maíz se cogen dos cosechas al año: la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Landmark>San Luis</Landmark> fundada por
-    los <humanGroup type="political_group">Franceses</humanGroup> el año de 1612; y cedida a los
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Luis</Settlement> fundada
+    por los <humanGroup type="political_group">Franceses</humanGroup> el año de 1612; y cedida a los
         <humanGroup type="political_group">Portugueses</humanGroup> el siguiente de 1613 es pequeña;
     pero muy poblada, alegre, rica y bien fortificada. Los <humanGroup type="political_group"
         >Holandeses</humanGroup> la tomaron el año de 1641; pero el de 1643 la recobraron los
@@ -727,13 +731,14 @@
     <zbr/> @@@Alcedo_vol_3-0065@@@<zbr/>
     <zbr/> #ce hoy; tiene un buen <Concept_Structure>Castillo</Concept_Structure> sobre una pequeña
     eminencia, y otros dos <Concept_Structure>Fuertes</Concept_Structure> llamados <Structure>San
-        Francisco</Structure> y Santiago, y un grande arrabál que tiene el nombre de San Andrés: esta
-        <Concept_Settlement>Ciudad</Concept_Settlement> es Cabeza de
+        Francisco</Structure> y <Structure>Santiago</Structure>, y un grande
+        <Concept_Settlement>arrabal</Concept_Settlement> que tiene el nombre de <Settlement>San
+        Andrés</Settlement>: esta <Concept_Settlement>Ciudad</Concept_Settlement> es Cabeza de
         <Concept_Territory>Obispado</Concept_Territory> Sufragáneo del Arzobispo de <Territory>San
-        Salvador de la <Concept_Landmark>Bahía</Concept_Landmark> de todos Santos</Territory>,
-    erigido por el Pontífice <persName>Inocencio XI</persName>, el año de 1677; el
+        Salvador de la Bahía de todos Santos</Territory>, erigido por el Pontífice
+        <persName>Inocencio XI</persName>, el año de 1677; el
         <Concept_Landmark>Puerto</Concept_Landmark> tiene difícil la entrada, pero es grande, seguro
-    y de buen fondo: está en a. gr. 15 min. de lat. aust. <zbr/>
+    y de buen fondo: está en 2 gr. 15 min. de lat. aust. <zbr/>
     <zbr/> §§§id_09647§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>Río</Concept_Landmark> de
     esta <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory>: corre muy caudaloso al N, y sale al
@@ -751,11 +756,12 @@
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark>. <zbr/>
     <zbr/> §§§id_09650§§§<zbr/> MARANLAO, <Concept_Landmark>Río</Concept_Landmark> del
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, que riega el
-        <Concept_Territory>País</Concept_Territory> de los In##dios Guayazas: nace cerca de la
+        <Concept_Territory>País</Concept_Territory> de los <Concept_Group>In##dios</Concept_Group>
+    <humanGroup type="indigenous_group">Guayazas</humanGroup>: nace cerca de la
         <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Minas Generales</Settlement>;
     corre al N y torciendo luego su curso al O entra en el de <Landmark>Tocantines</Landmark> entre
     el de <Landmark>Tambo de Oro</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> de
-        <Landmark>Fr</Landmark>. <Landmark>Reynaldo</Landmark>. <zbr/>
+        <Landmark>Fr. Reynaldo</Landmark>. <zbr/>
     <zbr/> §§§id_09651§§§<zbr/> MARANON, Amazonas, Orellana, o Solimoes) que todos estos nombres
     tiene, <Concept_Landmark>Río</Concept_Landmark> el mayor que se conoce no solo en la
         <Territory>América</Territory>, sino en todo el mundo: nace de la
@@ -774,29 +780,30 @@
     recibe en su dila<zbr/>
     <zbr/> @@@Alcedo_vol_3-0066@@@<zbr/>
     <zbr/> #tado curso; pero los mayores y más caudalosos son, por la parte Septentrional,
-        <Landmark>Santiago</Landmark>, <Settlement>Morona</Settlement>, <Landmark>Pastaza</Landmark>,
+        <Landmark>Santiago</Landmark>, <Landmark>Morona</Landmark>, <Landmark>Pastaza</Landmark>,
         <Landmark>Tigre</Landmark>, <Landmark>Napo</Landmark>, <Landmark>Negro</Landmark>,
         <Landmark>Putumayo</Landmark>, <Landmark>Yupurá</Landmark>, <Landmark>Yaguapiri</Landmark>,
-        <Landmark>Curupatuba</Landmark> y Yari, y por la parte Austral <Landmark>Guallaga</Landmark>,
-        <Landmark>Ucayale</Landmark>, <Landmark>Cuchivara</Landmark>, <Landmark>Yahuari</Landmark>, <Landmark>Yutay</Landmark> o
-        <Landmark>Yotau</Landmark>, <Landmark>Cayari</Landmark> o <Landmark>Coyari</Landmark>, <Landmark>Madera</Landmark>,
-        <Landmark>Topayos</Landmark>, <Landmark>Tocantines</Landmark>, <Landmark>Xingú</Landmark>, <Landmark>Guanapú</Landmark>,
-        <Landmark>Mujú</Landmark> y otros: el primero que descubrió la boca de este gran
-        <Concept_Landmark>Río</Concept_Landmark> fue <persName>Vicente Yañez Pinzón</persName> el
-    año de 1498. Después lo reconocieron el año de 1541. <persName>Francisco de Orellana</persName>,
-    Lugar Teniente de <persName>Gonzalo Pizarro</persName>: el de 1560. <persName>Pedro de
-        Ursua</persName>, de orden de Don <persName>Andrés Hurtado de Mendoza</persName>,
-        <persName>Marqués de Cañete</persName>, Virrey del <Territory>Perú</Territory>: el de 1602
-    el Padre <persName>Rafael Ferrer</persName> de la extinguida Compañía en a
-        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Quito</Territory>, Misionero
-    entre los <Concept_Group>Indios</Concept_Group>
+        <Landmark>Curupatuba</Landmark> y <Landmark>Yari</Landmark>, y por la parte Austral
+        <Landmark>Guallaga</Landmark>, <Landmark>Ucayale</Landmark>, <Landmark>Cuchivara</Landmark>,
+        <Landmark>Yahuari</Landmark>, <Landmark>Yutay</Landmark> o <Landmark>Yotau</Landmark>,
+        <Landmark>Cayari</Landmark> o <Landmark>Coyari</Landmark>, <Landmark>Madera</Landmark>,
+        <Landmark>Topayos</Landmark>, <Landmark>Tocantines</Landmark>, <Landmark>Xingú</Landmark>,
+        <Landmark>Guanapú</Landmark>, <Landmark>Mujú</Landmark> y otros: el primero que descubrió la
+    boca de este gran <Concept_Landmark>Río</Concept_Landmark> fue <persName>Vicente Yañez
+        Pinzón</persName> el año de 1498. Después lo reconocieron el año de 1541.
+        <persName>Francisco de Orellana</persName>, Lugar Teniente de <persName>Gonzalo
+        Pizarro</persName>: el de 1560. <persName>Pedro de Ursua</persName>, de orden de Don
+        <persName>Andrés Hurtado de Mendoza</persName>, Marqués de Cañete, Virrey del
+        <Territory>Perú</Territory>: el de 1602 el Padre <persName>Rafael Ferrer</persName> de la
+    extinguida Compañía en a <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Quito</Territory>, Misionero entre los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Cofanes</humanGroup> el de 1616 por orden de Don
-        <persName>Francisco de Borja</persName>, <persName>Príncipe de Esquiladle</persName>, Virrey
-    del <Territory>Perú</Territory>; y el de 1725 lo repitió <persName>Juan de Palacios</persName>
+        <persName>Francisco de Borja</persName>, Príncipe de Esquilache, Virrey del
+        <Territory>Perú</Territory>; y el de 1725 lo repitió <persName>Juan de Palacios</persName>
     en compañía de los Padres <persName>Domingo Breda</persName>, y <persName>Andrés ##de
         Toledo</persName> del orden de San Francisco; con el mismo fin <persName>Pedro Texeira
-        Porgues</persName> en nombre de <persName>Santiago Raimundo de Noroña</persName>, Gobernador de
-        <Territory>San Luis del Marañan</Territory>, emprendió la navegación, y reconocimiento de
+        Porgues</persName> en nombre de <persName>Santiago Raimundo de Noroña</persName>, Gobernador
+    de <Territory>San Luis del Marañan</Territory>, emprendió la navegación, y reconocimiento de
     este <Concept_Landmark>Río</Concept_Landmark>, llegando por el <Landmark>Napo</Landmark> hasta
     el <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Payamino</Landmark> en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Moxos</Territory>: el año de
@@ -807,18 +814,18 @@
     Padre <persName>Samuel Friz</persName> de la misma extinguida Compañía, de nación Alemán, gran
     Misionero y sabio Matemático, repitió con mucha exactitud las observaciones hasta el
         <Territory>Pará</Territory> el año de 1689 y 1691; y dio a luz la primera Carta Geográfica
-    del <Landmark>Marañon</Landmark>, hecha y publicada en <Territory>Quito</Territory> el año de 1707,:
-    después publicó otra Don <persName>Carlos de la Condamine</persName>, de la Academia Real de las
-    Ciencias de <Territory>París</Territory>, y uno de los comisionados para hacer las observaciones
-    Astronómicas en la linea <zbr/>
+    del <Landmark>Marañon</Landmark>, hecha y publicada en <Territory>Quito</Territory> el año de
+    1707: después publicó otra Don <persName>Carlos de la Condamine</persName>, de la Academia Real
+    de las Ciencias de <Settlement>París</Settlement>, y uno de los comisionados para hacer las
+    observaciones Astronómicas en la línea <zbr/>
     <zbr/> @@@Alcedo_vol_3-0067@@@<zbr/>
     <zbr/> #equinoccial, que es la más corregida, hecha en el viage que hizo por el
-        <Landmark>Marañon</Landmark> los años de 1743 y 1744 con el auxilio de otra que habia formado el mismo
-    año el Padre <persName>Juan Magnin</persName> de la ya citada Compañía, Misionero entonces de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Francisco de
-        Borja</Settlement>, de la <Concept_Territory>Provincia</Concept_Territory> de
+        <Landmark>Marañon</Landmark> los años de 1743 y 1744 con el auxilio de otra que habia
+    formado el mismo año el Padre <persName>Juan Magnin</persName> de la ya citada Compañía,
+    Misionero entonces de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San
+        Francisco de Borja</Settlement>, de la <Concept_Territory>Provincia</Concept_Territory> de
         <Territory>Mainas</Territory> y Académico Honorario de la Academia de las Ciencias de
-        <Territory>París</Territory>: las orillas e inumerables
+        <Settlement>París</Settlement>: las orillas e inumerables
         <Concept_Landmark>Islas</Concept_Landmark> de este gran
         <Concept_Landmark>Río</Concept_Landmark> estaban pobladas y habitadas de muchas
         <Concept_Group>Naciones bárbaras de Indios</Concept_Group>, que hoy por la mayor parte se
@@ -826,19 +833,20 @@
     <Concept_Landmark>montes</Concept_Landmark>; el nombre de Amazonas le viene de unas mugeres
     guerreras que combatieron, y se opusieron a los primeros descubridores, especialmente a
         <persName>Orellana</persName>; algunos tienen esto por fábula, pero otros quieren que
-    efectivamente las hubo y las hay, refiriendo de ellas lo mismo que de las de <Territory>Asia</Territory> en
-    el <Landmark>Termodonte</Landmark>, pero no hay tal cosa, y lo cierto que hubo tales Indias que
-    hacian la guerra, ayudando a sus maridos, como ##es costumbre en la mayor parte de las
-        <Concept_Group>Naciones de Indios bárbaros</Concept_Group>, asi lo experimentaron
-        <persName>Gonzalo Ximénez de Quesada</persName> en el
+    efectivamente las hubo y las hay, refiriendo de ellas lo mismo que de las de
+        <Territory>Asia</Territory> en el <Landmark>Termodonte</Landmark>, pero no hay tal cosa, y
+    lo cierto que hubo tales Indias que hacian la guerra, ayudando a sus maridos, como ##es
+    costumbre en la mayor parte de las <Concept_Group>Naciones de Indios bárbaros</Concept_Group>,
+    asi lo experimentaron <persName>Gonzalo Ximénez de Quesada</persName> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tunja</Territory>,
         <persName>Sebastián de Benalcázar</persName> en <Territory>Popayán</Territory>,
         <persName>Pedro de Valdivia</persName> en <Territory>Chile</Territory>, y otros
     Conquistadores en diferentes <Concept_Territory>Provincias</Concept_Territory>. Las del
-        <Landmark>Marañon</Landmark>, de que tratamos y hicieron frente a <persName>Orellana</persName>, eran
-    de la <Concept_Group>Nación</Concept_Group> de los <humanGroup type="indigenous_group"
-        >Omaguas</humanGroup> que señoreaban las <Concept_Landmark>Islas</Concept_Landmark> y
-    orillas del <Concept_Landmark>Río</Concept_Landmark>: las historias que pintan el
+        <Landmark>Marañon</Landmark>, de que tratamos y hicieron frente a
+        <persName>Orellana</persName>, eran de la <Concept_Group>Nación</Concept_Group> de los
+        <humanGroup type="indigenous_group">Omaguas</humanGroup> que señoreaban las
+        <Concept_Landmark>Islas</Concept_Landmark> y orillas del
+        <Concept_Landmark>Río</Concept_Landmark>: las historias que pintan el
         <Concept_Territory>País</Concept_Territory>, gobierno y costumbres de estas fingidas
     amazonas, son delirios y sueños de algunos que han querido publicar maravillas para acreditar
     sus viages y relaciones: desde la boca hasta el <Concept_Landmark>río</Concept_Landmark>
@@ -880,15 +888,16 @@
     para tintes, aunque abundan también están poco conocidas, como las tierras <zbr/>
     <zbr/> @@@Alcedo_vol_3-0069@@@<zbr/>
     <zbr/> #minerales de diversos colores: en todo el <Concept_Territory>País</Concept_Territory>
-    que baña este monstruoso <Concept_Landmark>río</Concept_Landmark> desde el Pongo o
-        <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Manseriche</Landmark> hasta su
-    boca no se halla en parte alguna piedra, oro, ni otro metal; su corriente tiene mucha violencia
-    y rápidez, y es inmensurable su fondo: las avenidas y crecientes que suele tener son muy
-    grandes, y entonces inunda el <Concept_Territory>País</Concept_Territory> por muchas leguas, y
-    cubre de agua todas las <Concept_Landmark>Islas</Concept_Landmark>, que muda de sitio, quitando
-    unas y formando otras de nuevo por los <Concept_Landmark>canales</Concept_Landmark> y cauces que
-    abre: en dos parages llamados el Pongo de <Landmark>Manseriche</Landmark>, y
-        <Landmark>Pauxis</Landmark>, se estrecha y recoge en un
+    que baña este monstruoso <Concept_Landmark>río</Concept_Landmark> desde el
+        <Concept_Landmark>Pongo</Concept_Landmark> o <Concept_Landmark>Estrecho</Concept_Landmark>
+    de <Landmark>Manseriche</Landmark> hasta su boca no se halla en parte alguna piedra, oro, ni
+    otro metal; su corriente tiene mucha violencia y rápidez, y es inmensurable su fondo: las
+    avenidas y crecientes que suele tener son muy grandes, y entonces inunda el
+        <Concept_Territory>País</Concept_Territory> por muchas leguas, y cubre de agua todas las
+        <Concept_Landmark>Islas</Concept_Landmark>, que muda de sitio, quitando unas y formando
+    otras de nuevo por los <Concept_Landmark>canales</Concept_Landmark> y cauces que abre: en dos
+    parages llamados el <Concept_Landmark>Pongo</Concept_Landmark> de
+        <Landmark>Manseriche</Landmark>, y <Landmark>Pauxis</Landmark>, se estrecha y recoge en un
         <Concept_Landmark>canal</Concept_Landmark> angosto que tiene de largo 3 leguas; el agua es
     dulce y de buen gusto, pero muy ##turbia y sucia por los arboles, maderos y tierra que arrastra,
     que hacen peligrosa la navegación a las canoas, lo que no sucede a las piraguas de los
@@ -900,7 +909,7 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Yaguarsongo</Territory> a su
     boca es cálido, húmedo y mal sano, especialmente a las orillas, con la molesta pensión de
     mosquitos de mil especies, y de otros insectos incómodos, y muchos venenosos; el Padre
-        <persName>Manuel Rodríguez de la</persName> extinguida Compañía escribió la historia de este
+        <persName>Manuel Rodríguez</persName> de la extinguida Compañía escribió la historia de este
         <Concept_Landmark>Río</Concept_Landmark> en un tomo en folio. <zbr/>
     <zbr/> ___CATÁLOGO DE LAS NACIONES BÁRBARAS, y principales Lugares del
         <Concept_Landmark>río</Concept_Landmark>
@@ -1078,20 +1087,21 @@
         <Concept_Landmark>ríos</Concept_Landmark> que entran en el de
         <Landmark>Choromoros</Landmark>, está al Sur de la
         <Concept_Settlement>Ciudad</Concept_Settlement> del <Territory>Tucumán</Territory>. <zbr/>
-    <zbr/> §§§id_09653§§§<zbr/> MARAPOU, Salto de agua del <Concept_Landmark>río</Concept_Landmark>
+    <zbr/> §§§id_09653§§§<zbr/> MARAPOU, <Concept_Landmark>Salto de agua</Concept_Landmark> del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Aprouack</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> de la
         <Territory>Guayana</Territory>; tiene cerca de un quarto de legua de largo, y es muy
     peligroso para las canoas; está habitado este parage de los
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Nouragues</humanGroup>. <zbr/>
-    <zbr/> §§§id_09654§§§<zbr/> MARAQUA, parage del mismo <Concept_Landmark>Río</Concept_Landmark> y
-        <Concept_Territory>provincia</Concept_Territory> que el salto anterior, hasta donde llegan
-    las canoas, y no pueden pasar de allí por estar cerrada la navegación con árboles muy ##gruesos,
-    y por esto es desembarcadero preciso. <zbr/>
+    <zbr/> §§§id_09654§§§<zbr/> MARAQUA, <Concept_Landmark>parage</Concept_Landmark> del mismo
+        <Concept_Landmark>Río</Concept_Landmark> y <Concept_Territory>provincia</Concept_Territory>
+    que el salto anterior, hasta donde llegan las canoas, y no pueden pasar de allí por estar
+    cerrada la navegación con árboles muy ##gruesos, y por esto es desembarcadero preciso. <zbr/>
     <zbr/> §§§id_09655§§§<zbr/> MARAQUIN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> en la parte
-    de la <Territory>Guayan</Territory> a que poseen los <humanGroup type="political_group"
+    de la <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group"
         >Holandeses</humanGroup>, y es uno de los que entran en el <Landmark>Cuyuni</Landmark> por
     la vanda del Norte. <zbr/>
     <zbr/> §§§id_09656§§§<zbr/> MARARA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
@@ -1247,13 +1257,13 @@
     <zbr/> §§§id_09670§§§<zbr/> MARCABAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamachuco</Territory> en
-    el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior 5 uno de los quatro que
-    hay Cabezas de <Concept_District>Partido</Concept_District> del
+    el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, uno de los quatro que hay
+    Cabezas de <Concept_District>Partido</Concept_District> del
         <Concept_District>Curato</Concept_District> de <Settlement>Estancias</Settlement>. <zbr/>
     <zbr/> §§§id_09671§§§<zbr/> MARCACONGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Quispicanchi</Territory>
-    en el mismo <Concept_Territory>Reyno</Concept_Territory> ##que los anteriores, anexa al
+    en el mismo <Concept_Territory>Reyno</Concept_Territory> ##que los anteriores, anexo al
         <Concept_District>Curato</Concept_District> de <Settlement>Sangarará</Settlement>. <zbr/>
     <zbr/> §§§id_09672§§§<zbr/> MARCAGUASI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -1293,15 +1303,17 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Canta</Territory> en el
         <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
-        <Settlement>Guarnantanga</Settlement>. <zbr/>
+        <Settlement>Guamantanga</Settlement>. <zbr/>
     <zbr/> §§§id_09679§§§<zbr/> S. MARCOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
     Cabezera de <Concept_District>Partido</Concept_District> de <Settlement>Tlacotepec</Settlement>
     y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepeaca</Territory> en
-        <Territory>Nueva España</Territory>; tiene 43 familias, y está 3 leguas de su Cabezera. <zbr/>
+        <Territory>Nueva España</Territory>; tiene 43 familias, y está 3 leguas de su
+        <Concept_Settlement>Cabezera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_09680§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo
     nombre en la Cabezera de <Settlement>Ahuacatlán</Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zacatlán</Territory> en el propio
-        <Concept_Territory>Reyno</Concept_Territory>, distante una legua de su Cabezera. <zbr/>
+        <Concept_Territory>Reyno</Concept_Territory>, distante una legua de su
+        <Concept_Settlement>Cabezera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_09681§§§<zbr/> Otro de la Cabezera y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Cuiceo</Territory> en el mismo
         <Concept_Territory>Reyno</Concept_Territory>, situado a orilla de la
@@ -1315,7 +1327,7 @@
         <Concept_Landmark>montaña</Concept_Landmark>, que tiene al Poniente una gran
         <Concept_Landmark>Laguna</Concept_Landmark> de agua salobre, y no cría pez alguno: tiene
     ##35 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 3 leguas al Oriente
-    de su Cabezera. <zbr/>
+    de su <Concept_Settlement>Cabezera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_09683§§§<zbr/> Otro de la Cabezera de <Concept_District>Partido</Concept_District>
     de <Settlement>Tlacolula</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Xalapa</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>,
