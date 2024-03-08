@@ -2,7 +2,9 @@
 
 ## Site github du projet pour centraliser les données et les traitements
 
-Chargé des traitements des données extuels et géohistoriques : **Werner Stangl**, PhD, historien et humaniste digital
+Chargé des traitements des données extuels et géohistoriques : 
+
+**Werner Stangl**, PhD, historien et humaniste digital
 
 Avec le soutien de **Carmen Brando**, responsable du WP, plateforme Géomatique EHESS
 
