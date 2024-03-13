@@ -1,544 +1,1127 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
-<xml>@@@Alcedo_vol_1-0496@@@
-<zbr/>
-<zbr/>#comercio que hacen de sus texidos de algodón a cambio de sal en la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Xicayán</Territory>: está 1 leguas entre Poniente y S de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03606§§§
-<zbr/>Tiene el mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guauchinango</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Tlaola</Settlement>.
-<zbr/>§§§id_03607§§§
-<zbr/>CHICAMA, <Concept_Landmark>Valle</Concept_Landmark> grande, fértil y hermoso, de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en el <Territory>Perú</Territory>: era uno de los más poblados de <humanGroup type="social_group">Indios</humanGroup> en tiempo de su gentilidad por su agradable y benigno temperamento: riégalo un <Concept_Landmark>río</Concept_Landmark> de sú mismo nombre, que lo divide del de <Territory>Chimu</Territory>: en él fundo el año de 1540 Fray <persName>Domingo de Santo Tomás</persName>, del Orden de Predicadores, un Convento de su Orden para catequizar los <humanGroup type="social_group">Indios</humanGroup>, que luego se hizo Priorato y Casa de Noviciado; pero hoy está quasi destruido por la injuria de los tiempos: dista este <Concept_Landmark>valle</Concept_Landmark> 6 leguas de su <Concept_Settlement>Capital</Concept_Settlement> al N, en el camino que va a las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Quito</Territory>, <Territory>Saña</Territory> y <Territory>Piura</Territory>. 
-<zbr/>§§§id_03608§§§
-<zbr/>Tiene el propio nombre un <Concept_Landmark>río</Concept_Landmark> de esta <Concept_Territory>Provincia</Concept_Territory> ##<Concept_Territory>Corregimiento</Concept_Territory>: nace en la de <Territory>Guamachuco</Territory> de 2 <Concept_Landmark>montes</Concept_Landmark> muy altos llamados <Landmark>Yulcaguanca</Landmark> y <Landmark>Yanaguanca</Landmark> al NE: riega y fertiliza el <Concept_Landmark>valle</Concept_Landmark> que le da nombre, y corre 30 leguas, recogiendo las aguas de otros muchos <Concept_Landmark>arroyos</Concept_Landmark>, <Concept_Landmark>quebradas</Concept_Landmark> y <Concept_Landmark>riachuelos</Concept_Landmark> que aumentan su caudal hasta salir al <Concept_Landmark>mar</Concept_Landmark>, de modo que muchas veces no se puede vadear.
-<zbr/>§§§id_03609§§§
-<zbr/>CHICAMOCHA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>: nace en el <Concept_Landmark>Páramo</Concept_Landmark> de <Landmark>Albarracin</Landmark>, entre aquella <Concept_Settlement>Ciudad</Concept_Settlement> y la de <Territory>Santa Fe</Territory>, a la parte del N: quando pasa por <Territory>Tunja</Territory>, que solo es un <Concept_Landmark>arroyo</Concept_Landmark>, tiene el nombre de <Concept_Landmark>río</Concept_Landmark> de <Landmark>Gallinazos</Landmark>, que luego cambia por el de <Landmark>Sogamoso</Landmark>, y por el de <LOC>Chia</LOC> quando pasa por este <Concept_Settlement>Pueblo</Concept_Settlement>; después se llama <Settlement>Chicamocha</Settlement>, y atraviesa varias <Concept_Territory>Provincias</Concept_Territory> hasta incorporarse con el de la <Landmark>Magdalena</Landmark>, donde entra con una gran boca; poco antes tiene un buen <Concept_Landmark>Puerto</Concept_Landmark> llamado de la <Landmark>Tora</Landmark>, donde hubo antiguamente un <Concept_Settlement>Pueblo</Concept_Settlement> que hoy está arruinado; 
-<zbr/>§§§id_03610§§§
-<zbr/>CHICANAM, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> Co
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0497@@@
-<zbr/>
-<zbr/>#lonia de <Territory>Surinam</Territory> o parte de la <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group">Holandeses</humanGroup>, y es uno de los que entran en el <Landmark>Cuyuni</Landmark>.
-<zbr/>§§§id_03611§§§
-<zbr/>CHICANI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Larecaja</Territory> en el <Territory>Perú</Territory>, anejo al <Concept_District>Curato</Concept_District> de <Settlement>Combayá</Settlement>.
-<zbr/>§§§id_03612§§§
-<zbr/>CHICAQUARO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o <Concept_Settlement>barrio</Concept_Settlement> del <Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Valladolid</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>.
-<zbr/>§§§id_03613§§§
-<zbr/>CHICASAUUS, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Territory>Carolina meridional</Territory> de <humanGroup type="social_group">Indios</humanGroup> de esta <Concept_Group>nación</Concept_Group> que tiene otros varios, y en todos ellos tienen los <humanGroup type="political_group">Ingleses</humanGroup> fuertes y <Concept_Settlement>establecimiento</Concept_Settlement> para su comercio y defensa.
-<zbr/>§§§id_03614§§§
-<zbr/>Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de esta <Concept_Territory>Provincia</Concept_Territory> que corre al O, y entra en el <Landmark>Missisipi</Landmark> 780 millas de su boca o salida al <Concept_Landmark>mar</Concept_Landmark>.
-<zbr/>§§§id_03615§§§
-<zbr/>CHICHAS y <Territory>Tarija</Territory>, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>: confina por el N con la de <Territory>Cinti</Territory>, por el S con la del <Territory>Tucumán</Territory>, sirviendo de división el <Concept_Landmark>río</Concept_Landmark> que llaman de <Landmark>Quiaca</Landmark>, por el O con la de <Territory>Lipes</Territory>, y por el N con la de <Territory>Porco</Territory>; el <Concept_District>Partido</Concept_District> de <Territory>Tarija</Territory> perteneciente a este <Concept_Territory>Corregimiento</Concept_Territory>, que dista de la <Concept_Settlement>Capital</Concept_Settlement> de Chi##chas 40 leguas, confina por el E con las tierras de los <Concept_Group>Indios Infieles</Concept_Group> <humanGroup type="indigenous_group">Chiriguanos</humanGroup>, <humanGroup type="indigenous_group">Chanaes</humanGroup> y <humanGroup type="indigenous_group">Mataguayos</humanGroup> a cuyos primeros pueblos hay desde las últimas habitaciones de <Territory>Tarija</Territory> 14 leguas de caminos fragosos, estrechuras y <Concept_Landmark>montañas</Concept_Landmark>: confina también por el N y O con el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Pilaya</Landmark>, y por el S con la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Xuxúi</Territory>: el <Concept_District>Partido</Concept_District> de <Settlement>Chichas</Settlement> tiene 140 leguas de circuito, y el de <Territory>Tarija</Territory> 80, divididos por unas dilatadas <Concept_Landmark>serranías</Concept_Landmark>: en los términos del primero hay muchas <Concept_Structure>estancias</Concept_Structure> y <Concept_Structure>haciendas</Concept_Structure> de ganado donde se cogen papas, maíz, trigo, cebada y otras semillas, y algún vino: hay minerales de oro y plata que fueron muy ricos, y de los primeros algunos dieron millares de marcos por caxon, especialmente en la <Territory>Nueva Chocaya</Territory>, donde aun rinden 50 y 60 marcos: muchos de estos metales se benefician por fundición; entre los de oro el de <Landmark>Chiloca</Landmark> ha sido famoso por su riqueza: los <Concept_Landmark>ríos</Concept_Landmark> que tiene algo considerables son el de <Landmark>Supacha</Landmark>, que baxa de la <Concept_Landmark>Cordillera</Concept_Landmark> de <Territory>Lipes</Territory>, y corriendo al E pasa por medio de la <Concept_Territory>Provincia</Concept_Territory> has
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0498@@@
-<zbr/>
-<zbr/>#ta entrar en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Cinti</Landmark>, de la de <Territory>Pilaya</Territory> y <Territory>Paspaya</Territory>: el otro es el de <Landmark>Toropalca</Landmark>, que entra en la de <Territory>Porco</Territory> y pasa al mismo parage de <Landmark>Cinti</Landmark>: los habitantes de este <Concept_District>Partido</Concept_District> llegan a 6.200: en el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tatasi</Settlement> padecen hombres y mugeres la rara enfermedad de una fuerte locura, con la qual dan en correr desatentadamente por los <Concept_Landmark>cerros</Concept_Landmark> sin reparar en precipicios, pues ordinariamente se despeñan, habiéndose observado que si no mueren de la caida sanan de la locura, y no hay observación que entre los animales padezcan esta enfermedad las vicuñas y carneros de la tierra; se cree que proviene de los especiales efluvios de los minerales de aquel <Concept_Territory>territorio</Concept_Territory> y, que es muy propenso a convulsiones: las mugeres del <Concept_Settlement>Pueblo</Concept_Settlement> referido para lograr sus hijos van a parir a los lugares baxos de la <Concept_Landmark>Quebrada</Concept_Landmark>. El <Concept_District>Partido</Concept_District> de <Territory>Tarija</Territory> es un <Concept_Territory>territorio</Concept_Territory> de <Concept_Landmark>quebradas</Concept_Landmark> y <Concept_Landmark>cerros</Concept_Landmark> ásperos hasta salir a las punas y llanadas altas de <Landmark>Escayache</Landmark> y <Landmark>Tacsora</Landmark>, donde hay 2 <Concept_Landmark>lagunas</Concept_Landmark> de sal: compónese de 4 <Concept_Landmark>valles</Concept_Landmark> fértiles en algunas laderas, en los quales se ha##llan huesos humanos muy grandes, petrificados, canillas de vara y quarta, muelas mayores que el puño; en medio de uno de estos <Concept_Landmark>valles</Concept_Landmark> está la <Concept_Settlement>Villa</Concept_Settlement> de San Bernardo de <Territory>Tarija</Territory>, que es la <Concept_Settlement>Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory>, que tenía de repartimiento 82.350 pesos, pagando de alcabala 558 en cada año.
-<zbr/>§§§id_03616§§§
-<zbr/>Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Condesuyos de Arequipa</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Salamanca</Settlement>.
-<zbr/>§§§id_03617§§§
-<zbr/>Un <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxui</Territory>, que la divide de la de la <Concept_Settlement>Capital</Concept_Settlement> de <Settlement>San Miguel</Settlement>.
-<zbr/>§§§id_03618§§§
-<zbr/>CHICHIBACOA, Cabo de) en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: está 80 leguas al O de aquella <Concept_Settlement>Ciudad</Concept_Settlement>, en 304 grad. de long., y 12 y 16 min. de lat.
-<zbr/>§§§id_03619§§§
-<zbr/>CHICHICAPA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Capital</Concept_Settlement> de <Concept_Territory>Alcaldía mayor</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en <Territory>Nueva España</Territory>: es de temperamento templado, y antiguamente fue <Concept_Settlement>Real de Minas</Concept_Settlement> de plata de las más ce
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0499@@@
-<zbr/>
-<zbr/>#lebres; pero hoy está quasi abandonado este beneficio, siendo muy poco lo que se trabajan, por haberse dedicado sus naturales más al cultivo de la grana en que abunda su <Concept_Territory>territorio</Concept_Territory> y; produce también muchas semillas y maíz; la <Concept_Territory>jurisdicción</Concept_Territory> es de las más pingues y fértiles de la <Concept_Territory>Provincia</Concept_Territory> cons##ta de 5 <Concept_Settlement>Pueblos</Concept_Settlement> Cabeceras de <Concept_District>Partido</Concept_District>, a que están sujetos otros muchos más pequeños: tiene la <Concept_Settlement>Capital</Concept_Settlement> 430 familias de <humanGroup type="social_group">Indios</humanGroup>, y algunas de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>: está 90 leguas de <Settlement>México</Settlement> entre Oriente y S en 277 grad. 30 min. de long. y 18 grad. 15 min. de lat.: los demás <Concept_Settlement>Pueblos</Concept_Settlement> son:
-<zbr/>
-<zbr/>ßßß
-<zbr/>#<Settlement>Río Hondo</Settlement> o <Settlement>Thequila</Settlement>.
-<zbr/><Settlement>San Agustín de Losicha</Settlement>.
-<zbr/>##<Settlement>Tetipác</Settlement>.
-<zbr/><Settlement>Cozautepec</Settlement>.
-<zbr/><Settlement>Zimitlán</Settlement>.
-<zbr/>###<Settlement>Tepezimatlán</Settlement>.
-<zbr/><Settlement>La Magdalena</Settlement>.
-<zbr/><Settlement>Atzozola</Settlement>.
-<zbr/>
-<zbr/>$$$
-<zbr/>§§§id_03620§§§
-<zbr/>#CHICHICATEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>: es de temperamento frío; tiene 26 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 7 leguas entre Oriente y S de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03621§§§
-<zbr/>CHICHICOAUTLA, S. Francisco de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Metepeque</Territory> en <Territory>Nueva España</Territory>: tiene 91 familias de <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03622§§§
-<zbr/>CHICHIMEQUILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Zitaquaro</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Maravatio</Territory> en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>: tiene 84 familias de <humanGroup type="social_group">Indios</humanGroup>, y está un quarto de legua ##al S de su <Concept_Settlement>Cabecera</Concept_Settlement>.
-<zbr/>§§§id_03623§§§
-<zbr/>CHICHIQUILA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Quinuxtlán</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Juan de los Llanos</Territory> en <Territory>Nueva España</Territory>: tiene 180 familias de <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03624§§§
-<zbr/>CHIRIBICHE, <Concept_Landmark>Punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en frente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Aves</Landmark>.
-<zbr/>§§§id_03625§§§
-<zbr/>CHICHESTER, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory>.
-<zbr/>§§§id_03626§§§
-<zbr/>CHICHOPON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarca</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Huambos</Settlement>.
-<zbr/>§§§id_03627§§§
-<zbr/>CHICKAMINE, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>. 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0500@@@
-<zbr/>§§§id_03628§§§
-<zbr/>#CHICLAIO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el <Territory>Perú</Territory>, en que hay un Convento de Religiosos de San Francisco.
-<zbr/>§§§id_03629§§§
-<zbr/>CHICHOI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>.
-<zbr/>§§§id_03630§§§
-<zbr/>CHICO, Río) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Presidio</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Yaqui</Landmark>.
-<zbr/>§§§id_03631§§§
-<zbr/>Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Panamá</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: nace en las <Concept_Landmark>montañas</Concept_Landmark> de la parte del S del <Landmark>Itsmo</Landmark>, cerca del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Chepo</Settlement>: corre al SO, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Ensenada</Concept_Landmark> y <Concept_Landmark>Golfo</Concept_Landmark> de <Territory>Panamá</Territory>. 
-<zbr/>§§§id_03632§§§
-<zbr/>Otro <Concept_Landmark>río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>: corre al E en la <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxuy</Territory>.
-<zbr/>§§§id_03633§§§
-<zbr/>Un <Concept_Landmark>Islote</Concept_Landmark> llamado <Concept_Landmark>Morro</Concept_Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory>, enfrente de esta <Concept_Settlement>Ciudad</Concept_Settlement>, y no lejos de otro que distinguen con el nombre de <Concept_Landmark>Morro</Concept_Landmark> grande. 
-<zbr/>§§§id_03634§§§
-<zbr/>CHICOANTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zoques</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. 
-<zbr/>§§§id_03635§§§
-<zbr/>CHICOLAPA, <Concept_Settlement>Pueblo</Concept_Settlement> ##de la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Coatepec</Territory> en <Territory>Nueva España</Territory>, anexo al <Concept_District>Curato</Concept_District> de su <Concept_Settlement>Capital</Concept_Settlement>: tiene 187 familias de <humanGroup type="social_group">Indios</humanGroup>, que celebran todos los Viernes del año una feria o Teanguis, en que se venden ropas, semillas, ganados y demas frutos, a que concurren de todas las <Concept_Territory>Provincias</Concept_Territory> confinantes, y por su abundancia y concurso se ha levantado con el nombre del célebre Teanguis de S. Vicente de Chicolapa: es sumamente fértil y ameno, rodeado de diferentes Pueblocilios pequeños o <Concept_Settlement>barrios</Concept_Settlement>.
-<zbr/>§§§id_03636§§§
-<zbr/>CHICOMESUCHIL, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Yxtepexi</Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en <Territory>Nueva España</Territory>: es de temperamento cálido, tiene 300 familias de <humanGroup type="social_group">Indios</humanGroup> que se ocupan en el beneficio de la grana y texidos de algodón.
-<zbr/>§§§id_03637§§§
-<zbr/>CHICOMI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tampico</Territory> en <Territory>Nueva España</Territory>: tiene 45 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 10 leguas al S de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03638§§§
-<zbr/>CHICOMOCELO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Al
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0501@@@
-<zbr/>
-<zbr/>#caldía mayor de <Territory>Comitlán</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>.
-<zbr/>§§§id_03639§§§
-<zbr/>CHICONAUTA, Santo Tomás de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ecatepec</Territory> en <Territory>Nueva España</Territory>, anexo al <Concept_District>Curato</Concept_District> de su <Concept_Settlement>Capital</Concept_Settlement>, de donde dista una legua al NNE: tiene 165 familias de <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03640§§§
-<zbr/>CHICONCUAC, S. Miguel de ) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tezcuco</Territory> en <Territory>Nueva España</Territory>: tiene 123 familias de <humanGroup type="social_group">indios</humanGroup> y 6 de <humanGroup type="social_group">Españoles</humanGroup>: produce bastantes granos, semillas y ganado, de cuyas lanas sacan mucha utilidad, como de los Sayales que fabrican de ellas: está una legua al N de su <Concept_Settlement>Capital</Concept_Settlement>. 
-<zbr/>§§§id_03641§§§
-<zbr/>CHICONCUASO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Naulingo</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Xalapa</Territory> en <Territory>Nueva España</Territory>, cuyo nombre significa lugar de siete fuentes: está situado en lo más alto de una <Concept_Landmark>sierra</Concept_Landmark> áspera y montuosa, por cuya razón es el temperamento más frío de todo el <Concept_District>partido</Concept_District> sujeto a humedades y lluvias continuas, su comercio es de maíz que produce con abundancia, y la cría de ganado de cerda, que uno y ##otro venden en la <Settlement>Vera Cruz</Settlement>, ejercitándose también sus <humanGroup type="social_group">vecinos</humanGroup> en el tráfico de las roquas de mulas que hay de estos parages a las <Concept_Landmark>Costas</Concept_Landmark> de <Landmark>Barlovento</Landmark> por caminos tan ásperos y pedregosos, que en muchas partes se ven precisados por su estrechura a formar escaleras abiertas en la misma piedra, pareciendo increíble que puedan subir y bajar por ellas las mulas cargadas, especialmente en el invierno, pero como están acostumbradas las pasan con mucha yelocidad: este camino tan penoso sirve de atajo ahorrando muchas leguas para las <Concept_Territory>Provincias</Concept_Territory> de la <Territory>Guasca</Territory>: el vecindario de este <Concept_Settlement>Pueblo</Concept_Settlement> se compone de 236 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 3 leguas cortas al N de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03642§§§
-<zbr/>CHICONCUAUTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guachinango</Territory> en <Territory>Nueva España</Territory>: es de temperamento templado y tiene 270 familias de <humanGroup type="social_group">Indios</humanGroup>, inclusos los de otros tres Pueblocitos de su <Concept_District>distrito</Concept_District>: está 6 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03643§§§
-<zbr/>CHICONTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tlalixcoya</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0502@@@
-<zbr/>
-<zbr/>#de Mizantla en <Territory>Nueva España</Territory>: tiene 53 familias de <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03644§§§
-<zbr/>CHICORATO, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>.
-<zbr/>§§§id_03645§§§
-<zbr/>CHICUAS, <Concept_Group>Nación de Indios</Concept_Group> del <Territory>Perú</Territory>, hoy reducida solo a un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Condesuios</Territory> en que se coge con abundancia cochinilla, con que tiñen la lana sus <humanGroup type="social_group">naturales</humanGroup>, y es el ramo de comercio de que se mantienen. 
-<zbr/>§§§id_03646§§§
-<zbr/>CHIEGNETO, <Concept_Settlement>Pueblo</Concept_Settlement> y fuerte de los <humanGroup type="political_group">Ingleses</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory>, situado en lo más interior de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark>.
-<zbr/>§§§id_03647§§§
-<zbr/>Tiene el mismo nombre un. <Concept_Landmark>río</Concept_Landmark> pequeño de esta <Concept_Territory>Provincia</Concept_Territory>, que nace de una <Concept_Landmark>laguna</Concept_Landmark> pequeña: corre al S y entra en el Basin des <Landmark>Mines</Landmark>.
-<zbr/>§§§id_03648§§§
-<zbr/>Un <Concept_Landmark>Cabo</Concept_Landmark> o <Concept_Landmark>Punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark>.
-<zbr/>§§§id_03649§§§
-<zbr/>CHIEN, Trou au) o Agujero del Perro, <Concept_Landmark>río</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Guadalupe</Territory>: nace en las <Concept_Landmark>montañas</Concept_Landmark> del E, corre a este rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> entre la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Petit Car##bet</Landmark> y el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Trou au Chat</Landmark>.
-<zbr/>§§§id_03650§§§
-<zbr/>CHIENS, Isla de los, o de los <LOC>Perros</LOC> en el <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> a la entrada del <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Belle Isle</Landmark>, y en la <Concept_Landmark>Costa</Concept_Landmark> del O de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>.
-<zbr/>§§§id_03651§§§
-<zbr/>CHIETLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Yzucar</Territory> en <Territory>Nueva España</Territory>: fue antes <Concept_Territory>Corregimiento</Concept_Territory>, y hoy está agregado a esta <Concept_Territory>jurisdicción</Concept_Territory>: es de temperamento caliente y húmedo, pero muy ameno, poblado de huertas en que abundan las flores, frutas y legumbres:: el <Concept_Territory>territorio</Concept_Territory> también es muy fértil en trigo, maíz y otras semillas, y particularmente en dátiles, porque todo el <Concept_District>distrito</Concept_District> está cubierto de palmas: su vecindario consta de 267 familias de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, y de 356 de <humanGroup type="social_group">Indios</humanGroup>, inclusos los que habitan tres <Concept_Settlement>Pueblos</Concept_Settlement> que pertenecen a este <Concept_District>partido</Concept_District>, también se cogen muchos garbanzos, anis y melones, que se reputan por los de mejor calidad de todo el <Concept_Territory>Reyno</Concept_Territory>: está 3 leguas distante al S de su <Concept_Settlement>Capital</Concept_Settlement>, los referidos <Concept_Settlement>Pueblos</Concept_Settlement> son: 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0503@@@
-<zbr/>
-<zbr/>ßßß
-<zbr/>#<Settlement>Ahuehuezingo</Settlement>.
-<zbr/>##<Settlement>San Nicolás de Tenexcalco</Settlement>. 
-<zbr/>###<Settlement>Santiago de Azalan</Settlement>.
-<zbr/>
-<zbr/>$$$
-<zbr/>§§§id_03652§§§
-<zbr/>#CHIGNAL, <Concept_Landmark>Volcán</Concept_Landmark> de) <Concept_Landmark>Monte</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, distinto de otro casi confinante del mismo nombre.
-<zbr/>§§§id_03653§§§
-<zbr/>CHIGUACHI, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_Territory>Corregimiento</Concept_Territory> de la <Territory>baque</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado detras de los <Concept_Landmark>montes</Concept_Landmark> de <Landmark>Guadalupe</Landmark> y <Landmark>Monserrat</Landmark> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Santa Fe</Settlement>, de donde dista 5 leguas al Oriente: es de temperamento agradable y delicioso, abundante en trigo, maíz, cebada, papas, cañas de azúcar y plátanos: tiene de vecindario más de 200 familias de <humanGroup type="social_group">Españoles</humanGroup>, y muy pocos <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03654§§§
-<zbr/>CHIGUAGUA, San Felipe de) <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, situada cerca del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Pedro</Landmark>: tiene de vecindario más de 2.000 familias de <humanGroup type="social_group">Españoles</humanGroup> y algunas de <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>: es <Concept_Settlement>población</Concept_Settlement> grande, bien dispuesta y de hermosos edificios, entré los quaies sobresalen la Iglesia Parroquial, el Co##legio que era de los Regulares de la Compañía, y el Convento de San Francisco: goza de un temperamento muy templado, y su principal comercio es de plata, por la riqueza de sus <Concept_Landmark>minas</Concept_Landmark>, haciéndola populosa los muchos traficantes que siempre hay en ella para expender toda especie de mercaderías en cambio de aquel metal: está 260 leguas al NNO de <Settlement>México</Settlement> en 271 gr. 50 min. de long. y 29 y 4 min. de lat. bor.
-<zbr/>§§§id_03655§§§
-<zbr/>CHIGUAGUILA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de Minas</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory>.
-<zbr/>§§§id_03656§§§
-<zbr/>CHIGUAGUILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>, situado en los términos que dividen la <Concept_Landmark>Sierra</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> 40 leguas al E, 1/4 al. NE de la <Concept_Settlement>Villa</Concept_Settlement> de los <Settlement>Alamos</Settlement>.
-<zbr/>§§§id_03657§§§
-<zbr/>CRIGUARA, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_Territory>Gobierno</Concept_Territory> y <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Maracaibo</Territory> en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>: es de temperamento cálido, abundante en cacao, caña dulce y demás frutos de este clima: ha sido antes pobla
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0504@@@
-<zbr/>
-<zbr/>#cion grande y rica por las muchas <Concept_Structure>haciendas</Concept_Structure> que tiene en su <Concept_District>distrito</Concept_District>, particularmente a distancia de una legua, la que llaman los <Concept_Landmark>Estanques</Concept_Landmark>, que tiene más de 40.000 cabezas de ganado mayor, y la que tenían los Regulares de la Compañía llamada la <Concept_Landmark>Selva</Concept_Landmark>; pero hoy está arruinado por las hostilidades que han hecho en él los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Motilones</humanGroup>, y apenas tendrá 40 <humanGroup type="social_group">Indios</humanGroup> y 30 <humanGroup type="social_group">vecinos blancos</humanGroup>.
-<zbr/>§§§id_03658§§§
-<zbr/>CHIHA, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Apalachicola</Landmark>.
-<zbr/>§§§id_03659§§§
-<zbr/>CHIHEMECOMET, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> y al N de la de <Landmark>Hateras</Landmark>.
-<zbr/>§§§id_03660§§§
-<zbr/>CHIHUATA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arequipa</Territory> en el <Territory>Perú</Territory>: es de temperamento frío, y en su <Concept_Territory>jurisdicción</Concept_Territory> hay una <Concept_Landmark>laguna</Concept_Landmark> de donde se saca mucha sal para el abasto de toda la <Concept_Territory>Provincia</Concept_Territory>, y conducen a otras para el beneficio de la plata. 
-<zbr/>§§§id_03661§§§
-<zbr/>CHIKEHAUK, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Carolina Sep##tentrional,</Territory> que forma con ella el extrecho de Currotuck.
-<zbr/>§§§id_03662§§§
-<zbr/>CHILA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acatlan</Territory>, en <Territory>Nueva España</Territory>: tiene 200 familias de <humanGroup type="social_group">indios</humanGroup>, algunas de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, y un Convento de Religiosos de Santo Domingo. 
-<zbr/>§§§id_03663§§§
-<zbr/>CHILAC, San Gabriel de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Thehuacan</Territory> en <Territory>Nueva España</Territory>: tiene 286 familias de <humanGroup type="social_group">Indios</humanGroup>, y dista 4 leguas al SO de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03664§§§
-<zbr/>CHILAPA, <Concept_Settlement>Pueblo Capital</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de este nombre en <Territory>Nueva España</Territory>: es de temperamento más frío que caliente: tiene 41 familias de <humanGroup type="social_group">Españoles</humanGroup>, su vecindario 72 de <humanGroup type="social_group">Mestizos</humanGroup>, 26 de <humanGroup type="social_group">Mulatos</humanGroup> y 447 de <humanGroup type="social_group">Indios</humanGroup>, y un Convento de Religiosos de San Agustín, pertenece en lo eclesiástico al <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Puebla</Territory>: 
-<zbr/>§§§id_03664a§§§
-<zbr/>la <Concept_Territory>jurisdicción</Concept_Territory> se compone de once <Concept_Settlement>Pueblos</Concept_Settlement>, <Concept_Settlement>Cabezeras de partido</Concept_Settlement>, y de otros 23 en los quales se numeran 2.503 familias de <humanGroup type="social_group">Indios</humanGroup>, 65 de <humanGroup type="social_group">Españoles</humanGroup>, 116 de <humanGroup type="social_group">Mestizos</humanGroup> y 47 de 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0505@@@
-<zbr/>
-<zbr/>#<humanGroup type="social_group">Mulatos</humanGroup>, que todos se ocupan en el cultivo y comercio de los frutos que produce, y son azúcar, miel, cascalote, fábrica de loza ordinaria, grana silvestre, cera, algodón, Petates, fru##tas del <Concept_Territory>País</Concept_Territory> alguna hortaliza: está 60 leguas al S, 1/4 al SO de <Settlement>México</Settlement> en 273 gr. de long. y 18 y 40 min. de lat. los otros <Concept_Settlement>Pueblos</Concept_Settlement> son :
-<zbr/>
-<zbr/>ßßß
-<zbr/>#<Settlement>Holcazautitlán</Settlement>.
-<zbr/><Settlement>Temalacl</Settlement>. 
-<zbr/><Settlement>Hostutla</Settlement>.
-<zbr/><Settlement>Mezquitlán</Settlement>.
-<zbr/><Settlement>Papulatla</Settlement>.
-<zbr/><Settlement>Toliman</Settlement>.
-<zbr/><Settlement>Atengo</Settlement>.
-<zbr/><Settlement>Comala</Settlement>. 
-<zbr/><Settlement>San Juan de la Brea</Settlement>.
-<zbr/><Settlement>Zitlala</Settlement>.
-<zbr/><Settlement>Acatlán</Settlement>.
-<zbr/>##<Settlement>Azaquiloya</Settlement>.
-<zbr/><Settlement>Acazango</Settlement>.
-<zbr/><Settlement>Hahuacazingo</Settlement>. 
-<zbr/><Settlement>Pochotla</Settlement>.
-<zbr/><Settlement>Alpoyeca</Settlement>.
-<zbr/><Settlement>Xiutopantla</Settlement>.
-<zbr/><Settlement>Tehuaustitlán</Settlement>. 
-<zbr/><Settlement>Zacanhualin</Settlement>.
-<zbr/><Settlement>Tlaquilzingo</Settlement>.
-<zbr/><Settlement>Palantla</Settlement>.
-<zbr/><Settlement>Ayahualtempa</Settlement>. 
-<zbr/><Settlement>Petatlán</Settlement>.
-<zbr/>###<Settlement>Ayahualulco</Settlement>.
-<zbr/><Settlement>Mitlazingo</Settlement>.
-<zbr/><Settlement>Tepoxtlán</Settlement>.
-<zbr/><Settlement>Quecholtenango</Settlement>.
-<zbr/><Settlement>San Martín</Settlement>.
-<zbr/><Settlement>Colotlipan</Settlement>.
-<zbr/><Settlement>Xocutla</Settlement>.
-<zbr/><Settlement>Nazintla</Settlement>.
-<zbr/><Settlement>Teozintla</Settlement>.
-<zbr/><Settlement>Zicultepec</Settlement>.
-<zbr/><Settlement>Calmetitlán</Settlement>. 
-<zbr/>
-<zbr/>$$$
-<zbr/>§§§id_03665§§§
-<zbr/>#Tiene el mismo nombre con la advocación de San Miguel otro <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>: es de temperamento temblado; tiene un Convento de Religiosos de Santo Domingo y 128 familias de <humanGroup type="social_group">Indios</humanGroup> que se ocupan, en el beneficio de la grana, con que hacen su comercio y de algunas semillas que cultivan en los <Concept_Structure>ranchos</Concept_Structure> de labor: está 4 leguas al N con inclinación al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>. 
-<zbr/>§§§id_03666§§§
-<zbr/>##Otro con la advocación de San Pedro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Huitepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixquintepec</Territory> es el mismo <Concept_Territory>Reyno</Concept_Territory>: tiene 30 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 5 leguas al N con inclinación al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03667§§§
-<zbr/>CHILAQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Olintla</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zacatlán</Territory> en <Territory>Nueva España</Territory>: está situado en una deliciosa <Concept_Landmark>cañada</Concept_Landmark>, que riegan y fertilizan varios <Concept_Landmark>ríos</Concept_Landmark>, distante 5 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>.
-<zbr/>§§§id_03668§§§
-<zbr/>CHILATECA, S. Juan 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0506@@@
-<zbr/>
-<zbr/>#de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de <Settlement>Cuilapa</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro Villas</Territory> en <Territory>Nueva España</Territory>: tiene 52 familias de <humanGroup type="social_group">Indios</humanGroup> que cultivan grana, semillas, frutas, carbón y maderas con que comercian: está 5 leguas entre Oriente y S de su <Concept_Settlement>Cabecera</Concept_Settlement>.
-<zbr/>§§§id_03669§§§
-<zbr/>CHILCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cañete</Territory> en el <Territory>Perú</Territory>, con un pequeño <Concept_Landmark>Puerto</Concept_Landmark>, pero cómodo y seguro: produce mucho salitre, que llevan sus naturales a vender a <Settlement>Lima</Settlement> para las fábricas de pólvora, por cuya razón la mayor parte son arrieros: en su inmediación se ven algunos vestigios de fábricas magníficas de los Incas del <Territory>Perú</Territory>: el nombre de Chuca le dan los <humanGroup type="social_group">Indios</humanGroup> del <Concept_Territory>Reyno</Concept_Territory> los de <Territory>Quito</Territory> a un arbolillo o arbusto que nace en los climas cálidos, y sirve mucho para hacer con sus cenizas lexía para los <Concept_Structure>ingenios</Concept_Structure> de azúcar.
-<zbr/>§§§id_03670§§§
-<zbr/>Tiene el mismo nombre un <Concept_Landmark>valle</Concept_Landmark> hermoso y dilatado de esta <Concept_Territory>Provincia</Concept_Territory> particular, porque nunca llueve en él, ni tiene <Concept_Landmark>río</Concept_Landmark>, fuente, ni agua de ninguna parte que lo fertilice, y sin embargo produce una gran cosecha de maíz, que nace enterrando con cada grano al tiempo de sembrarlo la cabeza de una sardina de que hay abundancia en su <Concept_Landmark>Costa</Concept_Landmark>, con cuya humedad y la del rocío de la mañana nace y crece, y lo mismo hacen con los demás frutos y hortalizas; pero para beber no tienen más recurso que los pozos.
-<zbr/>§§§id_03671§§§
-<zbr/>CHILCAIMARCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Condesuyos de Arequipa</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Andahua</Settlement>.
-<zbr/>§§§id_03672§§§
-<zbr/>CHILCAIO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Querobamba</Settlement>.
-<zbr/>§§§id_03673§§§
-<zbr/>CHILCAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Hacas</Settlement>.
-<zbr/>§§§id_03674§§§
-<zbr/>Tiene el mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huanta</Territory> en el propio <Concept_Territory>Reyno</Concept_Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Tambos</Settlement>.
-<zbr/>§§§id_03675§§§
-<zbr/>CHILCHAIOTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zochicoatlán</Territory> en <Territory>Nueva España</Territory>, situado en una ladera: es de temperamento cálido: tiene 26 familias de In
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0507@@@
-<zbr/>
-<zbr/>#dios, y está 11 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03676§§§
-<zbr/>CHILCHOTA, <Concept_Territory>Alcaldía mayor</Concept_Territory> y <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>: es muy corta y reducida a unos quantos <Concept_Settlement>barrios</Concept_Settlement>, tan inmediatos entre sí, que sus límites están divididos unos de otros con cruces: su población consta de 470 familias de <humanGroup type="social_group">Indios</humanGroup> <humanGroup type="indigenous_group">Tarascos</humanGroup>, y cerca de 300 de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, repartidos la mayor parte en las <Concept_Structure>haciendas</Concept_Structure> de labor que tiene en su <Concept_District>distrito</Concept_District>, en las quales se coge con abundancia trigo, maíz y otras semillas por ser la tierra muy fértil, cuya amenidad hace el <Concept_Territory>País</Concept_Territory> delicioso y poblado de toda especie de árboles frutales: la <Concept_Settlement>Capital</Concept_Settlement> es el <Concept_Settlement>Pueblo</Concept_Settlement> de este nombre: está 70 leguas al ONO de <Settlement>México</Settlement>: long. 270.....45 latit. 21.....15.
-<zbr/>§§§id_03677§§§
-<zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay también de este nombre de la Cabecera de <Settlement>Huavtla</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuicatlán</Territory>, situado en la cumbre de un ameno <Concept_Landmark>cerro</Concept_Landmark> poblado de árboles frutales: tiene 80 familias de <humanGroup type="social_group">Indios</humanGroup> aplicados al comercio y cultivo de grana salitre, algodón, semi##llas y frutas: está 8 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>.
-<zbr/>§§§id_03678§§§
-<zbr/>Otro con la advocación de San Pedro que es de la Cabecera de <Settlement>Quimixtlán</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de S. <Territory>Juan de los Llanos</Territory> en <Territory>Nueva España</Territory>: tiene 210 familias de <humanGroup type="social_group">Indios</humanGroup>.
-<zbr/>§§§id_03679§§§
-<zbr/>CHILCHOIAQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tlacolula</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Xalapa</Territory> en <Territory>Nueva España</Territory>, situado en una <Concept_Landmark>cañada</Concept_Landmark> de mucha extensión, que principia en los derrames de <Landmark>Xilotepec</Landmark>, y corre por más de una legua: es <Concept_Settlement>Pueblo</Concept_Settlement> muy corto y de mal temperamento, por cuya causa, de las muchas familias que lo habitaban, solo se cuentan hoy 19, que sirven de trabajar en las <Concept_Settlement>rancherías</Concept_Settlement> de la <Concept_District>comarca</Concept_District> por la esterilidad de su <Concept_Territory>territorio</Concept_Territory> y: a distancia de una legua al N de <Territory>Xalapa</Territory> y a orilla del camino Real que sube a <Settlement>México</Settlement> está el gran <Concept_Structure>molino</Concept_Structure> de <Landmark>Lucas Martín</Landmark>, cuyas tierras fertiliza el caudaloso <Concept_Landmark>río</Concept_Landmark> <Landmark>Cerdeño</Landmark>, y de sus aguas se proveen varios <Concept_Settlement>Pueblos</Concept_Settlement> y <Concept_Structure>ranchos</Concept_Structure> de labor en que asisten más de 30 familias de <humanGroup type="social_group">Españoles</humanGroup>, algunos <humanGroup type="social_group">mestizos</humanGroup> y muchos <humanGroup type="social_group">Indios</humanGroup>: está 4 leguas al SO de su <Concept_Settlement>Cabecera</Concept_Settlement>. 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0508@@@
-<zbr/>§§§id_03680§§§
-<zbr/>#CHILCUAUTLA y Cardonal, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de Minas</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixmiquilpan</Territory> en <Territory>Nueva España</Territory>: tiene 215 familias de <humanGroup type="social_group">Indios</humanGroup>, y en el Real 27 de <humanGroup type="social_group">Españoles</humanGroup> y 46 de <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup> que viven en él: es de temperamento sumamente frío y húmedo, y su comercio la labor de las <Concept_Landmark>minas</Concept_Landmark> de plomo; antiguamente se trabajaron algunas de plata que hábia en su recinto; pero daban tan poco metal y de tan baxa ley, que las abandonaron por las de plomo, que les dexa más utilidad: está 5 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>.
-<zbr/>§§§id_03681§§§
-<zbr/>CHILE, <Concept_Territory>Reyno</Concept_Territory> de la <Territory>América Meridional</Territory> en la parte más austral de ella: confina por el N con el <Territory>Perú</Territory>, por el S con el <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> y <Concept_Landmark>Tierra</Concept_Landmark> del <Territory>Fuego</Territory>, por el Oriente con la <Concept_Territory>Provincias</Concept_Territory> del <Territory>Tucumán</Territory> y <Territory>Buenos Ayres</Territory>, por el NE con el <Territory>Brasil</Territory> y <Territory>Paraguay</Territory>, y al Poniente tiene por límites la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>: se extiende del N al S 472 leguas, comprehendiendo las tierras <Territory>magallánicas</Territory> hasta el <Concept_Landmark>estrecho</Concept_Landmark>, desde las <Concept_Landmark>llanuras</Concept_Landmark> o <Concept_Landmark>desiertos</Concept_Landmark> de <Landmark>Copiapó</Landmark>, que es la parte más Septentrio##nal, el Inca <persName>Yupanqui XI</persName>, Emperador del <Territory>Perú</Territory>, conquisto hasta el <Concept_Landmark>río</Concept_Landmark> <Landmark>Mauli</Landmark> o <Landmark>Maulle</Landmark>, en 34 gr. 30 min. de lat. aust. <persName>Diego de Almagro</persName> fue el primer Español que descubrió este <Concept_Territory>País</Concept_Territory> el año de 1535, y empezó su conquista, que después prosiguió el de 1541 el célebre <persName>Pedro de Valdivia</persName>, fundador de las primeras <Concept_Settlement>Ciudades</Concept_Settlement> del <Concept_Territory>Reyno</Concept_Territory>, y murió desgraciadamente a manos de los <humanGroup type="social_group">Indios</humanGroup> que lo hicieron prisionero el año de 1551: estos son los más valerosos y guerreros de toda la <Territory>América</Territory>, que han mantenido una continua guerra para no rendirse al dominio de los <humanGroup type="political_group">Españoles</humanGroup>, de quienes los separa el <Concept_Landmark>río</Concept_Landmark> <Landmark>Biobió</Landmark>, límite de la parte que poseen estos, pues aunque en diferentes entradas han penetrado de la otra parte y establecido varias <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Structure>fortalezas</Concept_Structure>, todas han sido arruinadas y destruidas por aquellos valerosos defensores de su libertad y de su patria, que son diestrísimos en el manejo de la lanza, la espada, la flecha y la macana; y aunque también lo son en las armas de fuego, las usan poco porque dicen que es de cobar
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0509@@@
-<zbr/>
-<zbr/>#des, son muy ágiles y diestros en montar a caballo, y los tienen excelentes, pues los que produce el <Concept_Territory>Reyno</Concept_Territory> se llevaron de los de <Territory>Andalucía</Territory>, no han degenerado ni son inferiores a los mejores que produce este <Concept_Territory>País</Concept_Territory>: la parte que poseen los <humanGroup type="political_group">Españoles</humanGroup> en este <Concept_Territory>Reyno</Concept_Territory> se extiende por toda la longitud de él desde el referido <Concept_Landmark>Valle</Concept_Landmark> de <Landmark>Copiapó</Landmark> hasta el <Concept_Landmark>río</Concept_Landmark> sin fondo, más adelante de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Chiloé</Landmark>, en 44 grados de lat., pero de ancho solo 45 leguas por donde más; de modo, que es como una faxa entre la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark> y la <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>, de donde nacen infinitos <Concept_Landmark>ríos</Concept_Landmark> y <Concept_Landmark>arroyos</Concept_Landmark> que riegan muchos <Concept_Landmark>Valles</Concept_Landmark> fértiles y hermosos que hacen un delicioso <Concept_Territory>País</Concept_Territory>, abundante y pingue de todo quanto es necesario para la comodidad y regalo de la vida, produciendo toda especie de frutos delicados de <Territory>América</Territory> y de <Territory>Europa</Territory> en sus regulares estaciones, que empiezan en Septiembre el Verano, el <Concept_Landmark>Estío</Concept_Landmark> en Diciembre, en Marzo el Otoño, y el Invierno en Junio: su temperamento es semejante al de <Territory>España</Territory>, variando los temples según sus alturas, ##pues las primeras <Concept_Territory>Provincias</Concept_Territory> entrando por el <Territory>Perú</Territory>, que están más baxas, son calientes y carecen de lluvias, no teniendo otro riego que el de unos pequeños <Concept_Landmark>ríos</Concept_Landmark> que baxan de la <Concept_Landmark>Cordillera</Concept_Landmark> al <Concept_Landmark>mar</Concept_Landmark> por espacio de 20 ú 30 leguas: en las otras llueve con más abundancia quanto están más al S, especialmente en invierno desde Abril a Septiembre, por lo qual son más fértiles y regadas de más de 40 <Concept_Landmark>ríos</Concept_Landmark>, que también descienden de la <Concept_Landmark>Cordillera</Concept_Landmark>, y se forman de las lluvias y de las nieves derretidas en verano, y llegando a juntarse unos con otros hacen algunos muy caudalosos, y generalmente abundan de delicados peces, como anguilas, truchas bagres, reyeques, ahogatos y pejereyes y otros muchos: la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> pudiera sustentar <Concept_Territory>reynos</Concept_Territory> dilatados solo con el marisco que hay de 20 especies de muy delicado gusto, y lo mismo el pescado, como tollos, congrios, robalos, sienas, cabrillas, viejas, lenguados, machuelos, dorados, pejegallos, pulpos, pámpanos, corbinas, pejereyes, lisas, atunes que vienen por sus tiempos a la <Concept_Landmark>Costa</Concept_Landmark>, co
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0510@@@
-<zbr/>
-<zbr/>#mo en las Almadrabas de <Territory>Andalucía</Territory>: de algunos años a esta parte se salan bacalaos, que aunque menores que los que se pescan en <Territory>Terranova</Territory>, son más tiernos y de mejor gusto, y también se suele hallar ámbar en la <Concept_Landmark>Costa</Concept_Landmark>: los <Concept_Landmark>montes</Concept_Landmark> estan poblados de árboles muy hermosos, como laureles, robles de 4 especies, algarrobos que son de una madera fortísima, reulís, canelos, cipreses, sándalos, paraguas, avellanos, nogales, guayacanes, volos y alerces, que son como una especie de cedro de que hacen tablas para conducir a <Settlement>Lima</Settlement> y otras partes en crecido número; muchos de estos árboles conservan todo el año su verdura, por la humedad y abrigo de la <Concept_Landmark>Cordillera</Concept_Landmark> que encierra en sus entrañas mucho fuego por los <Concept_Landmark>volcanes</Concept_Landmark> que hay en ella, y se cuentan 12 sin otros muchos que siguen hasta el <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, y con ser tan grandes los <Concept_Landmark>montes</Concept_Landmark> y <Concept_Landmark>bosques</Concept_Landmark> apenas se encuentran lieras en ellos, a excepción de tal qual tigre o leopardo, pero sí muchos venados, ciervos, vicuñas y huanacos que servían de alimento a los <humanGroup type="social_group">Indios</humanGroup>; y ##de aves, patos, vandurrias, cigueñas, garzas, milanos, palomas, piuguenes, tartaIes, papagayos, cernícalos, aleones, neblíes, y muchas de canto, como gilgueros, calandrias, tordos, diucas, trillis y otros varios; los frutos que hoy produce son trigo, cebada, maíz, fríxoles de diferentes especies, aceyte de hermosas aceytunas, excelentes vinos muy estimados en el <Territory>Perú</Territory>, toda especie de frutas de hueso;, naranjas, limones, inumerables manzanos, y todo género de hortalizas: se cultiva el lino y mucho cañamo, de que hacen porciones de jarcia para surtir las embarcaciones de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, y se fabricara más si fuera mayor el consumo; tiene este <Concept_Territory>Reyno</Concept_Territory> un comercio considerable con el <Territory>Perú</Territory>, pues un año con otro envia a <Settlement>Lima</Settlement> de 150 a 180.000 fanegas de trigo, 120.000 quintales de sebo, mucho vino y otros frutos, como almendras, avellanas, nueces, lentejas, orégano, azafrán, romi, y trae en cambio azúcar y ropas de la tierra; tiene muchas <Concept_Structure>haciendas</Concept_Structure> o <Concept_Structure>estancias</Concept_Structure> en que abunda el ganado vacuno, ovejuno y cabrío, de cuyas pieles cur
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0511@@@
-<zbr/>
-<zbr/>#ten cordobanes, badanas, gamuzas y zuelas, sacando mucho sebo: son grandes también las crias de caballos muy hermosos, y unas <Concept_Group>castas</Concept_Group> que al paso siguen a otros corriendo y llaman aguilillas: el ganado mular también abunda, y seria más si se sacara para el <Territory>Perú</Territory>, como en otro tiempo se hacia, en que fabricaban de sus lanas paños finos, alfombras matizadas de colores, y todavía hacen algunas bayetas, cordellates, jergas y muchos ponchos, que es el bestuario común, y se reduce a una manta quadrada con una abertura en medio para entrar la cabeza, pero se han perdido muchos telares por falta de <humanGroup type="social_group">Indios</humanGroup>, que sin tener huertas ni cultivarlas cogían muchas frutas, como avellanas, piñones distintos de los de <Territory>Europa</Territory>, fresas, cocos pequeñitos, made, maque y murtilla, de que hacían excelente chicha; y hoy es tal la frondosidad y abundancia de flores delicadas y de yervas aromáticas y medicinales, que parece increíble, siendo de estas últimas las más apreciables por sus virtudes, la canchalagua, quinchimali albaha##quilla y culen: tiene muchas <Concept_Landmark>minas</Concept_Landmark> del más riquísimo oro, de plata, cobre, plomo, estaño, azogue, azufre, piedra imán y de carbón fósil, de que produce inmensas riquezas que nunca apreciaron los <humanGroup type="social_group">Indios</humanGroup> ni trabajaron hasta la conquista de los Yncas que empezaron a beneficiarlas, enviando porciones de oro al <Settlement>Cuzco</Settlement> para adorno de los templos y palacios como regalo y no como tributo: las incursiones y rebeliones de los <humanGroup type="social_group">Indios</humanGroup>, principalmente de los <humanGroup type="indigenous_group">Araucanos</humanGroup>, que el año de 1599 tomaron y destruyeron 6 <Concept_Settlement>Ciudades</Concept_Settlement> que fueron <Settlement>Valdivia</Settlement>, la <Settlement>Imperial</Settlement>, <Settlement>Angol</Settlement>, <Settlement>Santa Cruz</Settlement>, <Settlement>Chillán</Settlement> y la <Settlement>Concepción</Settlement>, es el motivo de haber hoy pocas poblaciones grandes, y éstas pobres y de poco vecindario, que siempre viven con el temor de alguna sorpresa de los <humanGroup type="social_group">Indios</humanGroup>, aunque en los confines hay <Concept_Settlement>presidios</Concept_Settlement> y fuertes guarnecidos de tropa española, con las provisiones necesarias de artillería, víveres y municiones: la guerra que desde el principio han sostenido los <humanGroup type="political_group">Españoles</humanGroup> con estos ferocísimos <humanGroup type="social_group">Indios</humanGroup>, ha disminuido mucho el núme
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0512@@@
-<zbr/>
-<zbr/>#ro de aquellos que han sido muertos de <humanGroup type="social_group">esclavos</humanGroup> de estos bárbaros que nunca se han podido reducir; y aunque viendo que no era posible conseguirlo con las armas, se intentó por el medio de Misioneros de la extinguida Compañía, a cuyo fin entrárou a predicarles el año de 1612 los Padres <persName>Horacio Vechi</persName> y <persName>Martín de Aranda</persName> fueron martirizados a sus manos, por lo qual hizo un tratado de paces el Gobernador <persName>Marqués de Baides</persName> el año de 1640, y desde entonces se renueva todos los años, a cuyo fin vienen a la <Concept_Settlement>Capital</Concept_Settlement> sus Diputados, y reciben los regalos de parte del Rey; pero sin embargo, han roto la paz diferentes veces, haciendo incursión en nuestras poblaciones, y el modo de declarar la guerra es enviar de <Concept_Settlement>Pueblo</Concept_Settlement> en <Concept_Settlement>Pueblo</Concept_Settlement> la mano de un difun##to empuñada una flecha, que llaman de la convocatoria, y así lo hicieron el año de 1723 haciendo increíbles extragos en el <Concept_Territory>Reyno</Concept_Territory>, que de lo que hemos dicho se vé que es la región más fértil, abundante, rica y deliciosa de toda la <Territory>América</Territory>, a quien concedió liberalmente la naturaleza quanto escaseo a otras o les vendió muy caro: la gente es sana, robusta, el viento general que reyna es el SO, y el Puelche que viene de la <Concept_Landmark>Cordillera</Concept_Landmark> es algo molesto. Se divide en dos <Concept_Territory>Obispados</Concept_Territory> sufragáneos del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Lima</Territory>, que son el de <Territory>Santiago</Territory> y la <Territory>Concepción</Territory>; y se gobierna por un Presidente Gobernador y Capitan General, cuyo título fue Don <persName>Melchor Bravo de Saravia</persName> el primero que lo tuvo, y su <Concept_Territory>Gobierno</Concept_Territory> se divide en 18 <Concept_District>partidos</Concept_District> y <Concept_Territory>Provincias</Concept_Territory> o <Concept_Territory>Corregimientos</Concept_Territory>, que son: 
-<zbr/>
-<zbr/>ßßß
-<zbr/>#<Territory>Cuyo</Territory>.
-<zbr/><Territory>Copiapó</Territory>.
-<zbr/><Territory>La Serena</Territory> o <Territory>Coquimbo</Territory>.
-<zbr/><Territory>Quillota</Territory>.
-<zbr/><Territory>Aconcagua</Territory>.
-<zbr/><Territory>Islas de Juan Fernandez</Territory>.
-<zbr/>##<Territory>Santiago</Territory>.
-<zbr/><Territory>Melipilla</Territory>.
-<zbr/><Territory>Rancagua</Territory>.
-<zbr/><Territory>Colchagua</Territory>.
-<zbr/><Territory>Maule</Territory>.
-<zbr/><Territory>Ytata</Territory>.
-<zbr/>##<Territory>Chillan</Territory>.
-<zbr/><Territory>Estancia del Rey</Territory> o <Territory>Rede</Territory>.
-<zbr/><Territory>Puchacay</Territory>.
-<zbr/><Territory>La Concepción</Territory>.
-<zbr/><Territory>Valdivia</Territory>.
-<zbr/><Territory>Chiloé</Territory>. 
-<zbr/>La <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Santiago</Settlement>.
-<zbr/>
-<zbr/>$$$
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0513@@@
-<zbr/>
-<zbr/>#___CATALOGO DE LAS NACIONES bárbaras y principales Lugares del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>.___
-<zbr/>
-<zbr/>ßßß
-<zbr/>#___NACIONES___.
-<zbr/><humanGroup type="indigenous_group">Antallis</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Araucanos</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Cauquis</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Chauracabis</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Guarpes</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Juncos</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Pequenches</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Pevinges</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Pincus</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Poyas</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Pulches</humanGroup>.
-<zbr/><humanGroup type="indigenous_group">Yanacunas</humanGroup>.
-<zbr/>___CIUDADES___.
-<zbr/><Settlement>Calbuco</Settlement>.
-<zbr/><Settlement>Cañete</Settlement>.
-<zbr/><Settlement>Castro</Settlement>.
-<zbr/><Settlement>Chacao</Settlement>.
-<zbr/><Settlement>Chillán</Settlement>.
-<zbr/><Settlement>Concepción</Settlement>.
-<zbr/><Settlement>Confines</Settlement>.
-<zbr/><Settlement>Copiapó</Settlement>.
-<zbr/><Settlement>Coquimbo</Settlement> o <Settlement>la Serena</Settlement>.
-<zbr/><Settlement>Imperial</Settlement>.
-<zbr/><Settlement>Loyola</Settlement>.
-<zbr/><Settlement>Mendoza</Settlement>.
-<zbr/><Settlement>Osorno</Settlement>.
-<zbr/><Settlement>Santiago</Settlement>.
-<zbr/><Settlement>San Juan de la Frontera</Settlement>.
-<zbr/><Settlement>San Luis de Loyola</Settlement>.
-<zbr/>##<Settlement>Valdivia</Settlement>.
-<zbr/><Settlement>Valparaíso</Settlement>.
-<zbr/><Settlement>Villarica</Settlement>.
-<zbr/>
-<zbr/>___FUERTES___.
-<zbr/><Structure>Arauco</Structure>.
-<zbr/><Structure>Los Angeles</Structure>.
-<zbr/><Structure>San Fernando</Structure>.
-<zbr/><Structure>Tucapel</Structure>.
-<zbr/><Structure>Yumbel</Structure>.
-<zbr/><Structure>RIOS</Structure>.
-<zbr/><Structure>Andalie</Structure>.
-<zbr/><Structure>Arancagua</Structure>.
-<zbr/><Structure>Biobio</Structure>.
-<zbr/><Structure>Buono</Structure>.
-<zbr/><Structure>Cachapoal</Structure>.
-<zbr/><Structure>Cauquenes</Structure>.
-<zbr/><Structure>Caunen</Structure>.
-<zbr/><Structure>Cauten</Structure>.
-<zbr/><Structure>Chavin</Structure>.
-<zbr/><Structure>Civapa</Structure>.
-<zbr/><Structure>Claro</Structure>.
-<zbr/><Structure>Copiapó</Structure>.
-<zbr/><Structure>Curarahua</Structure>.
-<zbr/>De <Structure>Lora</Structure>.
-<zbr/>De la <Structure>Sal</Structure>.
-<zbr/><Structure>Eyou</Structure>.
-<zbr/><Structure>Guasco</Structure>.
-<zbr/><Structure>Ytata</Structure>.
-<zbr/><Structure>Labapi</Structure>.
-<zbr/><Structure>Laxa</Structure>.
-<zbr/><Structure>Lebo</Structure>.
-<zbr/><Structure>Ligua</Structure>.
-<zbr/><Structure>Liman</Structure>.
-<zbr/>###<Structure>Limachi</Structure>.
-<zbr/><Structure>Longatoma</Structure>.
-<zbr/><Structure>Mapocho</Structure>.
-<zbr/><Structure>Mataquito</Structure>.
-<zbr/><Structure>Maule</Structure>.
-<zbr/><Structure>Maypo</Structure>.
-<zbr/><Structure>Nubbe</Structure> o <Structure>Nuble</Structure>.
-<zbr/><Structure>Pereroa</Structure>.
-<zbr/><Structure>Poangue</Structure>.
-<zbr/><Structure>Queule</Structure>.
-<zbr/><Structure>Ralemo</Structure>.
-<zbr/><Structure>Salado</Structure>.
-<zbr/><Structure>Teno</Structure>.
-<zbr/><Structure>Toltén</Structure>.
-<zbr/><Structure>Tongoy</Structure>.
-<zbr/><Structure>Topocalma</Structure>.
-<zbr/><Structure>Turuyan</Structure>.
-<zbr/><Structure>Uten</Structure>.
-<zbr/>
-<zbr/>___LAGUNAS___.
-<zbr/><Landmark>Aguas Calientes</Landmark>.
-<zbr/><Landmark>Guanacache</Landmark>.
-<zbr/><Landmark>Mallabauquen</Landmark>.
-<zbr/><Landmark>Padaguel</Landmark>.
-<zbr/><Landmark>Puren</Landmark>.
-<zbr/>
-<zbr/>___MONTES___.
-<zbr/><Landmark>Antojo</Landmark>.
-<zbr/><Landmark>Chillán</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
-<zbr/><Landmark>Chuapa</Landmark> <Concept_Landmark>Volc.</Concept_Landmark>
-<zbr/><Landmark>Estancia del Rey</Landmark>. Oro. 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0514@@@
-<zbr/>
-<zbr/>#<Landmark>Lampangui</Landmark>. Plata.
-<zbr/><Landmark>Ligua</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
-<zbr/><Landmark>Llaon</Landmark>. Oro.
-<zbr/><Landmark>Llupangui</Landmark>. Oro.
-<zbr/><Landmark>Notuco</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
-<zbr/><Landmark>Payen</Landmark>. Plomo.
-<zbr/><Landmark>Peteroa</Landmark>. Volc.
-<zbr/><Landmark>Petorca</Landmark>. Oro.
-<zbr/><Landmark>Quillacoya</Landmark>. Oro.
-<zbr/><Landmark>Sinn</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
-<zbr/><Landmark>Yapel</Landmark>. Oro.
-<zbr/>
-<zbr/>___PROMONTORIOS___.
-<zbr/><Landmark>Ballena</Landmark>.
-<zbr/>##<Landmark>Carnero</Landmark>.
-<zbr/><Landmark>Cauten</Landmark>.
-<zbr/><Landmark>Changui</Landmark>.
-<zbr/><Landmark>Feliz</Landmark>.
-<zbr/><Landmark>Villiva</Landmark>.
-<zbr/>
-<zbr/>___PUERTOS___.
-<zbr/>
-<zbr/><Landmark>Castro</Landmark>.
-<zbr/><Landmark>Cauten</Landmark>.
-<zbr/><Landmark>Cerrito Verde</Landmark>.
-<zbr/><Landmark>Chacao</Landmark>.
-<zbr/><Landmark>Cumberland</Landmark>.
-<zbr/><Landmark>Guasco</Landmark>.
-<zbr/><Landmark>Paracas</Landmark>.
-<zbr/>###<Landmark>Quillin</Landmark>.
-<zbr/><Landmark>Talcaguano</Landmark>.
-<zbr/><Landmark>Tome</Landmark>.
-<zbr/><Landmark>Tongoy</Landmark>.
-<zbr/>
-<zbr/>___ISLAS___.
-<zbr/><Landmark>Chiloé</Landmark>.
-<zbr/><Landmark>Ciones</Landmark>.
-<zbr/><Landmark>Farallones</Landmark>.
-<zbr/><Landmark>Fernandez</Landmark>.
-<zbr/><Landmark>Guaiteca</Landmark>.
-<zbr/><Landmark>Moche</Landmark>.
-<zbr/><Landmark>Quiriquina</Landmark>.
-<zbr/><Landmark>Santa María</Landmark>.
-<zbr/>$$$
-<zbr/>
-<zbr/>___CATALOGO BE LOS PRESIDENTES, Gobernadores y Capitanes Generales del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>.___
-<zbr/>
-<zbr/>ßßß
-<zbr/>
-<zbr/>1 El Adelantado <persName>Pedro de Valdivia</persName>, Conquistador del <Concept_Territory>Reyno</Concept_Territory>, exercitado en las conquistas del <Territory>Perú</Territory> con mucho valor, Maestre de Campo de <persName>Francisco Pizarro</persName>: entró el año de 1537, fundó las primeras poblaciones y gobernó hasta el año de 1551, que fue hecho prisionero peleando valerosamente en una batalla con los <humanGroup type="indigenous_group">Araucanos</humanGroup> y muerto.
-<zbr/>2 Don <persName>Garda Hurtado</persName>, de Mendoza, hijo del <persName>Marqués de Cañete</persName>, que se hallaba de <LOC>Virey</LOC> en el <Territory>Perú</Territory>: luego que tuvo la noticia de la muerte de <persName>Valdivia</persName> lo nombró por Gobernador, y se volvió al <Territory>Perú</Territory> después de un acertado gobierno quando llegó nombrado por el Rey el sucesor 
-<zbr/>3 <persName>Francisco de Villagra</persName>, insigne Capitán, que siguiendo las conquistas fue muerto también por los <humanGroup type="social_group">Indios</humanGroup> en una batalla, dexando nombrado interinamente a su tio hasta que llego el propietario por el Rey 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0515@@@
-<zbr/>
-<zbr/>#4 El Adelantado <persName>Rodrigo de Quiroga</persName>, que gobernó pacíficamente hasta su muerte, dexando encargado el Gobierno a su suegro 
-<zbr/>5 El Mariscal <persName>Martín Ruiz de Gamboa</persName>, hasta que llegó nombrado por el Rey 
-<zbr/>6 El Doctor <persName>Melchor Bravo de Sarávia</persName>, con título de primer Presidente hasta su muerte.
-<zbr/>7 Don <persName>Alonso de Sotomayor</persName>, <persName>Marqués de <Concept_Settlement>Villa</Concept_Settlement>-Hermosa</persName>, nombrado el año de 1584; habiendo acreditado su valor, talento y conducta en aquel Gobierno, que exerció con sumo crédito y acierto, con grandes ventajas contra los <humanGroup type="social_group">Indios</humanGroup> hasta el año de 1592 que llegó 
-<zbr/>8 Don <persName>Martín García Oñez y Loyola</persName>, Caballero del Orden de Calatrava; fue muerto por los <humanGroup type="social_group">Indios</humanGroup> socorriendo el <Concept_Structure>Fuerte</Concept_Structure> de <Settlement>Puren</Settlement>, que tenían sitiado el año de 1599.
-<zbr/>9 El Licenciado <persName>Pedro de Vízcarra</persName>, que exercia el empleo de Teniente General del <Concept_Territory>Reyno</Concept_Territory>; fue nombrado para él quando mataron al anterior, hasta que nombró el Virey del <Territory>Perú</Territory> a 
-<zbr/>10 El Capitán <persName>Francisco de Quiñones</persName>, que se empleó en contener a los <humanGroup type="indigenous_group">Araucanos</humanGroup>, después de su rebelión hasta su muerte, y llegó nombrado por el Virey del <Territory>Perú</Territory> 
-<zbr/>11 El Capitán <persName>Alonso García Remon</persName>, Oficial de mucho crédito y conocimiento del <Concept_Territory>País</Concept_Territory> guerra de los <humanGroup type="social_group">Indios</humanGroup>; siendo Maestre de Campo de Don <persName>Alonso Sotomayor</persName> entró a gobernar nombrado por el Virey de <Territory>Lima</Territory>, hasta que llegó el propietario nombrado por el Rey 
-<zbr/>12 Don <persName>Alonso de la Rivera</persName>, que se hallaba sirviendo en <Territory>Flandes</Territory>, y fue enviado a <Territory>Chile</Territory>, donde habiéndose casado contra la prohibición de S. M. lo privó del empleo, nombrando para sucederle a 
-<zbr/>13 El ya referido Don <persName>Alonso Garcia Remon</persName>, que exerció muy poco tiempo el Gobierno por haber muerto, y entró 
-<zbr/>14 El Doctor Don <persName>Luis Merlo de la Fuente</persName>, Oidor 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0516@@@
-<zbr/>
-<zbr/>#Decano de la <Concept_Territory>Real Audiencia</Concept_Territory>, que por muerte de su antecesor gobernó también muy poco, hasta que llegó 
-<zbr/>15 Don <persName>Juan de Xaraquemada</persName>, natural de <Settlement>Canaria</Settlement>, que se hallaba en <Settlement>Lima</Settlement> lleno de méritos contraidos en la guerra de <Territory>Chile</Territory>, quando fue nomhrado Gobernador por el Virey del <Territory>Perú</Territory>, Marqués de <Concept_Landmark>Monte</Concept_Landmark> Claros, 16 Don <persName>Alonso de la Rivera</persName> segunda vez, que se hallaba de Gobernador del <Territory>Tucumán</Territory> desde que se le separó de éste, y fue nombrado por el Rey a instancia de los Misioneros para reducir aquel <Concept_Territory>Reyno</Concept_Territory>, por el conocimiento que tenía, y verificó la experiencia en sus muchos aciertos de paz y guerra, hasta, que murió.
-<zbr/>17 El Licenciado <persName>Fernando Talaverano</persName>, Oidor más antiguo de la Audiencia; quedó encargado del Gobierno por esta calidad, y por particular nombramiento de su antecesor, hasta que con la noticia nombró el Virey del <Territory>Perú</Territory>, Príncipe de <LOC>Esquilache</LOC> a 
-<zbr/>18 Don <persName>Lope de Ulloa</persName>, que hallándose exerciendo este empleo fue confirmado por S M. hasta su muerte, que entró a gobernar 
-<zbr/>19 Don <persName>Christóval de la Cerda Sotomayor</persName>, natural de <Settlement>México</Settlement>, Oidor Decano de la <Concept_Territory>Real Audiencia</Concept_Territory>, que a pesar de sus excelentes qualidades y aplauso de su Gobierno duró poco por haber nombrado el Virey del <Territory>Perú</Territory> a 
-<zbr/>20 Don <persName>Pedro Sorez de Ulloa y Lemos</persName>, Caballero del Orden de Alcántara, que a poco tiempo fue confirmado en el Gobierno por el Rey, exerciéndole hasta su muerte, que lo dexó encargado a su cuñado 21 Don <persName>Francisco de Alva y Norueña</persName>, que lo obtuvo poco tiempo por haber nombrado el Virey segun costumbre a 
-<zbr/>22 Don <persName>Luis Fernandez de Córdoba y Arce</persName>, Señor del <LOC>Carpió</LOC>, Veinte y Quatro de <LOC>Córdoba</LOC>, que aun 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0517@@@
-<zbr/>
-<zbr/>#que no tuvo confirmación por el Rey, le mantuvo algunos años en consideración al acierto con que gobernaba el <Concept_Territory>Reyno</Concept_Territory>, hasta que liego el año de 1633 
-<zbr/>23 Don <persName>Francisco Laso de la Vega</persName>, Caballero del Orden de Santiago, hombre de suma inteligencia y fortuna en la guerra de los <humanGroup type="social_group">Indios</humanGroup>, en que lleno de laureles acabó su Gobierno y le entregó al sucesor 
-<zbr/>24 Don <persName>Francisco de Zuñiga</persName>, <persName>Marqués de Baydes</persName>, <persName>Conde del Pedroso</persName>; entró en la posesión de su Gobierno el año de 1640, y fue el que estableció y aseguró la paz con los <humanGroup type="social_group">Indios</humanGroup> por medio de los Misioneros de la extinguida Compañía, con cuya gloria dexó el Gobierno al sucesor el año de 1655 
-<zbr/>25 Don <persName>Martín de Muxica</persName>, Caballero del Orden de Santiago, célebre Oficial, acreditado en los exércitos de <Territory>Italia</Territory> y Flandes.
-<zbr/>26 Don <persName>Pedro Porter de Casanate</persName>, año de 1659.
-<zbr/>27 Don <persName>Francisco Meneses Bravo de Sarábia</persName>, conduxo de <Territory>España</Territory> un Cuerpo de Tropas para contener los <humanGroup type="social_group">Indios</humanGroup>, como lo consiguió, reedificando el año de 1664 las <Concept_Settlement>Ciudades</Concept_Settlement> que habian destruido el de 1599: gobernó hasta el año de 1668, que fue depuesto por el Virey del <Territory>Perú</Territory>. 
-<zbr/>28 Don <persName>Angel Peredo</persName>, Caballero del Orden de Santiago; fue nombrado interinamente por separación de su antecesor, y exerció el Gobierno hasta el año siguiente de 1669.29 Don <persName>Juan Enriquez</persName>, natural de <Settlement>Lima</Settlement>, Caballero del Orden de Santiago, gobernó hasta el año de 1677.
-<zbr/>30 Don
-<zbr/>31 Don 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0518@@@
-<zbr/>
-<zbr/>#32 Don
-<zbr/>33 Don <persName>Juan Andrés de Ustariz</persName>, natural de <Settlement>Sevilla</Settlement>, hasta el año de 1715, que fue nombrado 
-<zbr/>34 Don <persName>Gabriel Cano de Aponte</persName>, Mariscal de Campo de los Reales Exércitos, en cuyo tiempo volvieron los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup> a declarar la guerra, y los obligó a renovar la paz; murió el año de 1728.
-<zbr/>35 Don <persName>Juan de Salamanca</persName>, Maestre de Campo de las Milicias de aquel <Concept_Territory>Reyno</Concept_Territory>; gobernó interinamente, y por su muerte 
-<zbr/>36 Don <persName>Joseph de Santiago Concha</persName>, Marqués de Casa Concha, Caballero del Orden de Calatrava, Oidor Decano de la <Concept_Territory>Real Audiencia</Concept_Territory> de <Territory>Lima</Territory>, nombrado por el Virey.
-<zbr/>37 Don <persName>Alonso de Obando</persName>, <persName>Marqués de Obando</persName>, Gefe de Esquadra de la Real Armada; nombrado también interinamente por el Virey, <persName>Marqués de <Concept_Settlement>Villa</Concept_Settlement> García</persName>, hasta el año de 1736.
-<zbr/>38 Don <persName>Joseph Manso de Velasco</persName>, Conde de Superunda, Caballero del Orden de Santiago: se hallaba de Capitán de Granaderos del Regimiento de Guardias Españolas, graduado de Brigadier, con particulares créditos de valor y conducta, quando fue nombrado para esta Presidencia el referido año, que exerció hasta el de 1746, que pasó promovido al <Concept_Territory>Vireynato</Concept_Territory> del <Territory>Perú</Territory>. 
-<zbr/>39 Don <persName>Domingo Ortíz de Rozas</persName>, Caballero del Orden de Santiago: se hallaba de Gobernador de <Territory>Buenos Ayres</Territory>, y fue destinado a esta Presidencia el referido año: hizo diferentes <Concept_Settlement>Pueblos</Concept_Settlement>, por lo qual le 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0519@@@
-<zbr/>
-<zbr/>#dio el Rey título de Conde de <Concept_Settlement>Poblaciones</Concept_Settlement>: gobernó hasta el año de 1754, que volviendo a <Territory>España</Territory> murió. 
-<zbr/>40 Don <persName>Manuel Amat y Junient</persName>, Caballero del Orden de San Juan, Coronel del Regimiento; de Dragones de <Settlement>Sagunto</Settlement>, graduado de Brigadier, nombrado para esta Presidencia, que exerció hasta el año de 1761, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> del <Territory>Perú</Territory>.
-<zbr/>41 Don <persName>Mateo de Toro Zambrano y Ureta</persName>, nombrado interinamente por el anterior quando pasó de <LOC>Lima</LOC> llanta la llegada del propietario 
-<zbr/>42 Don <persName>Antonio Guill</persName>, Coronel que habia sido del Regimiento de Infantería de <Territory>Guadalaxara</Territory>, y se hallaba graduado de Brigadier, exerciendo el Gobierno y <Concept_Territory>Capitanía</Concept_Territory> General del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, pasó promovido a esta Presidencia el citado año de 1761, y lo exerció hasta su muerte el de 1768.
-<zbr/>43 Don <persName>Mateo de Toro Zambrano y Ureta</persName>, segunda vez nombrado interinamente por la Audiencia en la vacante, hasta que llegó nombrado por el Virey del <Territory>Perú</Territory> 
-<zbr/>44 Don <persName>Francisco Xavier de Morales</persName>, Caballero del Orden de Santiago, Mariscal de Campo de los Reales Exércitos, que pasó siendo Capitán del de Granaderos del Regimiento de Reales Guardias Españolas a General de las Milicias del <Territory>Perú</Territory>, y fue nombrado interinamente por el Virey para esta Presidencia, que exerció hasta su muerte el año de 1772.
-<zbr/>45 El referido Don <persName>Mateo de Toro Zambrano y Urueta</persName>, ya Conde de la Conquista, Caballero del Orden de Santiago, y Teniente Coronel de los Reales Exércitos, nombrado tercera vez por la <Concept_Territory>Real Audiencia</Concept_Territory> en esta vacante, hasta que llegó el propietario 
-<zbr/>46 Don <persName>Agustín de Jauregui</persName>, Caballero del Orden de Santiago, Mariscal de Campo de los Reales Exércirtos, que habia sido Coronel del Regimiento de Dragones de <Settlement>Sagunto</Settlement>, fue nombrado para pasar a esta Presidencia el año de 1773, y la exerció hasta el 
-<zbr/>
-<zbr/>@@@Alcedo_vol_1-0520@@@
-<zbr/>
-<zbr/>#de 1782, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> del <Territory>Perú</Territory>.
-<zbr/>47 Don <persName>Ambrosio de Benavides</persName>, Brigadier de los Reales Exércitos, fue nombrado el mismo año de 1782. 
-<zbr/>$$$
-<zbr/>§§§id_03682§§§
-<zbr/>#Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> antecedente en el <Concept_District>Partido</Concept_District> de <Territory>Toltén baxo</Territory>: corre ál O, y sale al <Concept_Landmark>mar</Concept_Landmark> entre los de <Landmark>Toltén</Landmark> y de <Landmark>Budi</Landmark>.
-<zbr/>§§§id_03683§§§
-<zbr/>Una <Concept_Landmark>Punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arequipa</Territory>.
-<zbr/>§§§id_03684§§§
-<zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> pequeña de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory>.
-<zbr/>§§§id_03685§§§
-<zbr/>Una <Concept_Landmark>Caleta</Concept_Landmark> que sirve de abrigo para las embarcaciones menores, en la referida, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory>.
-<zbr/>§§§id_03686§§§
-<zbr/>CHILENO, Paso del) <Concept_Landmark>vado</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Jazegua</Landmark>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, junto al <Concept_Landmark>río</Concept_Landmark> <Landmark>Cordobés</Landmark>.
-<zbr/>§§§id_03687§§§
-<zbr/>CHILERIOS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>: corre al N, y entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>.
-<zbr/>§§§id_03688§§§
-<zbr/>CHILES, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pasto</Territory> en él <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. 
-<zbr/>§§§id_03689§§§
-<zbr/>CHILIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla</Territory> y <Territory>Collay</Territory> en el <Territory>Perú</Territory>.
-<zbr/>§§§id_03690§§§
-<zbr/>CHILINTOMO, <Concept_Landmark>Monte</Concept_Landmark> ##de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, donde viven algunos <humanGroup type="social_group">Indios</humanGroup>, que aunque reducidos a la Fe Católica, son de tan malas costumbres, que manifiestan lo arraigados que están en los errores de su idolatría.
-<zbr/>§§§id_03691§§§
-<zbr/>CHILIPUIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory> en el <Territory>Perú</Territory>.
-<zbr/>§§§id_03692§§§
-<zbr/>CHILLAHUA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Carangas</Territory> en el <Territory>Perú</Territory>, y <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory>.
-<zbr/>§§§id_03693§§§
-<zbr/>CHILLAN, <Concept_Settlement>Ciudad Capital</Concept_Settlement> del <Concept_District>Partido</Concept_District> y <Concept_Territory>Corregimiento</Concept_Territory> de este nombre en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>: es muy chica y pobre, aunque tiene algunas familias de distinción, y a lo más contendrá 360 casas, porque después que la destruyeron los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup> el año de 1599, no ha podido volver a su antiguo explendor: está entre el <Concept_Landmark>río</Concept_Landmark> <Landmark>Nuble</Landmark> al N; y el <Landmark>Itata</Landmark> al S, en 36 grad. 6 min. de lat. aust. 
-<zbr/>§§§id_03694§§§
-<zbr/>Tiene el mismo nombre 
-<zbr/>
-<zbr/></xml>
+<xml>@@@Alcedo_vol_1-0496@@@ <zbr/>
+    <zbr/>#comercio que hacen de sus texidos de algodón a cambio de sal en la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Xicayán</Territory>: está 1 leguas
+    entre Poniente y S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03606§§§
+    <zbr/>Tiene el mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o
+        <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Guauchinango</Territory> en el mismo
+        <Concept_Territory>Reyno</Concept_Territory>, anexo al
+        <Concept_District>Curato</Concept_District> del de <Settlement>Tlaola</Settlement>.
+    <zbr/>§§§id_03607§§§ <zbr/>CHICAMA, <Concept_Landmark>Valle</Concept_Landmark> grande, fértil y
+    hermoso, de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en
+    el <Territory>Perú</Territory>: era uno de los más poblados de <humanGroup type="social_group"
+        >Indios</humanGroup> en tiempo de su gentilidad por su agradable y benigno temperamento:
+    riégalo un <Concept_Landmark>río</Concept_Landmark> de sú mismo nombre, que lo divide del de
+        <Landmark>Chimu</Landmark>: en él fundo el año de 1540 Fray <persName>Domingo de Santo
+        Tomás</persName>, del Orden de Predicadores, un Convento de su Orden para catequizar los
+        <humanGroup type="social_group">Indios</humanGroup>, que luego se hizo Priorato y Casa de
+    Noviciado; pero hoy está quasi destruido por la injuria de los tiempos: dista este
+        <Concept_Landmark>valle</Concept_Landmark> 6 leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement> al N, en el camino que va a las
+        <Concept_Territory>Provincias</Concept_Territory> de <Territory>Quito</Territory>,
+        <Territory>Saña</Territory> y <Territory>Piura</Territory>. <zbr/>§§§id_03608§§§ <zbr/>Tiene
+    el propio nombre un <Concept_Landmark>río</Concept_Landmark> de esta
+        <Concept_Territory>Provincia</Concept_Territory>
+        ##<Concept_Territory>Corregimiento</Concept_Territory>: nace en la de
+        <Territory>Guamachuco</Territory> de 2 <Concept_Landmark>montes</Concept_Landmark> muy altos
+    llamados <Landmark>Yulcaguanca</Landmark> y <Landmark>Yanaguanca</Landmark> al NE: riega y
+    fertiliza el <Concept_Landmark>valle</Concept_Landmark> que le da nombre, y corre 30 leguas,
+    recogiendo las aguas de otros muchos <Concept_Landmark>arroyos</Concept_Landmark>,
+        <Concept_Landmark>quebradas</Concept_Landmark> y
+        <Concept_Landmark>riachuelos</Concept_Landmark> que aumentan su caudal hasta salir al
+        <Concept_Landmark>mar</Concept_Landmark>, de modo que muchas veces no se puede vadear.
+    <zbr/>§§§id_03609§§§ <zbr/>CHICAMOCHA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>: nace en el
+        <Concept_Landmark>Páramo</Concept_Landmark> de <Landmark>Albarracin</Landmark>, entre
+    aquella <Concept_Settlement>Ciudad</Concept_Settlement> y la de <Settlement>Santa
+        Fe</Settlement>, a la parte del N: quando pasa por <Settlement>Tunja</Settlement>, que solo
+    es un <Concept_Landmark>arroyo</Concept_Landmark>, tiene el nombre de
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Gallinazos</Landmark>, que luego
+    cambia por el de <Landmark>Sogamoso</Landmark>, y por el de <Landmark>Chia</Landmark> quando
+    pasa por este <Concept_Settlement>Pueblo</Concept_Settlement>; después se llama
+        <Settlement>Chicamocha</Settlement>, y atraviesa varias
+        <Concept_Territory>Provincias</Concept_Territory> hasta incorporarse con el de la
+        <Landmark>Magdalena</Landmark>, donde entra con una gran boca; poco antes tiene un buen
+        <Concept_Landmark>Puerto</Concept_Landmark> llamado de la <Landmark>Tora</Landmark>, donde
+    hubo antiguamente un <Concept_Settlement>Pueblo</Concept_Settlement> que hoy está arruinado;
+    <zbr/>§§§id_03610§§§ <zbr/>CHICANAM, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Co <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0497@@@ <zbr/>
+        <zbr/>#lonia</Concept_Territory> de <Territory>Surinam</Territory> o parte de la
+        <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group"
+        >Holandeses</humanGroup>, y es uno de los que entran en el <Landmark>Cuyuni</Landmark>.
+    <zbr/>§§§id_03611§§§ <zbr/>CHICANI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Larecaja</Territory> en
+    el <Territory>Perú</Territory>, anejo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Combayá</Settlement>. <zbr/>§§§id_03612§§§ <zbr/>CHICAQUARO,
+        <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o
+        <Concept_Settlement>barrio</Concept_Settlement> del
+        <Concept_District>distrito</Concept_District> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Valladolid</Territory> en
+    la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>.
+    <zbr/>§§§id_03613§§§ <zbr/>CHICASAUUS, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    de la <Territory>Carolina meridional</Territory> de <humanGroup type="social_group"
+        >Indios</humanGroup> de esta <Concept_Group>nación</Concept_Group> que tiene otros varios, y
+    en todos ellos tienen los <humanGroup type="political_group">Ingleses</humanGroup> fuertes y
+        <Concept_Settlement>establecimiento</Concept_Settlement> para su comercio y defensa.
+    <zbr/>§§§id_03614§§§ <zbr/>Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de
+    esta <Concept_Territory>Provincia</Concept_Territory> que corre al O, y entra en el
+        <Landmark>Missisipi</Landmark> 780 millas de su boca o salida al
+        <Concept_Landmark>mar</Concept_Landmark>. <zbr/>§§§id_03615§§§ <zbr/>CHICHAS y Tarija,
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>:
+    confina por el N con la de <Territory>Cinti</Territory>, por el S con la del
+        <Territory>Tucumán</Territory>, sirviendo de división el
+        <Concept_Landmark>río</Concept_Landmark> que llaman de <Landmark>Quiaca</Landmark>, por el O
+    con la de <Territory>Lipes</Territory>, y por el N con la de <Territory>Porco</Territory>; el
+        <Concept_District>Partido</Concept_District> de <Territory>Tarija</Territory> perteneciente
+    a este <Concept_Territory>Corregimiento</Concept_Territory>, que dista de la
+        <Concept_Settlement>Capital</Concept_Settlement> de <Settlement>Chi##chas</Settlement> 40
+    leguas, confina por el E con las tierras de los <Concept_Group>Indios Infieles</Concept_Group>
+    <humanGroup type="indigenous_group">Chiriguanos</humanGroup>, <humanGroup
+        type="indigenous_group">Chanaes</humanGroup> y <humanGroup type="indigenous_group"
+        >Mataguayos</humanGroup> a cuyos primeros pueblos hay desde las últimas habitaciones de
+        <Territory>Tarija</Territory> 14 leguas de caminos fragosos, estrechuras y
+        <Concept_Landmark>montañas</Concept_Landmark>: confina también por el N y O con el
+        <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Pilaya</Landmark>, y por el S con la
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Xuxúi</Territory>: el
+        <Concept_District>Partido</Concept_District> de <Territory>Chichas</Territory> tiene 140
+    leguas de circuito, y el de <Territory>Tarija</Territory> 80, divididos por unas dilatadas
+        <Concept_Landmark>serranías</Concept_Landmark>: en los términos del primero hay muchas
+        <Concept_Structure>estancias</Concept_Structure> y
+        <Concept_Structure>haciendas</Concept_Structure> de ganado donde se cogen papas, maíz,
+    trigo, cebada y otras semillas, y algún vino: hay <Concept_Landmark>minerales</Concept_Landmark>
+    de oro y plata que fueron muy ricos, y de los primeros algunos dieron millares de marcos por
+    caxon, especialmente en la <Settlement>Nueva Chocaya</Settlement>, donde aun rinden 50 y 60
+    marcos: muchos de estos metales se benefician por fundición; entre los de oro el de
+        <Landmark>Chiloca</Landmark> ha sido famoso por su riqueza: los
+        <Concept_Landmark>ríos</Concept_Landmark> que tiene algo considerables son el de
+        <Landmark>Supacha</Landmark>, que baxa de la <Concept_Landmark>Cordillera</Concept_Landmark>
+    de <Territory>Lipes</Territory>, y corriendo al E pasa por medio de la
+        <Concept_Territory>Provincia</Concept_Territory> has <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0498@@@ <zbr/>
+    <zbr/>#ta entrar en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Cinti</Landmark>,
+    de la de <Territory>Pilaya y Paspaya</Territory>: el otro es el de
+        <Landmark>Toropalca</Landmark>, que entra en la de <Territory>Porco</Territory> y pasa al
+    mismo parage de <Landmark>Cinti</Landmark>: los habitantes de este
+        <Concept_District>Partido</Concept_District> llegan a 6.200: en el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tatasi</Settlement> padecen
+    hombres y mugeres la rara enfermedad de una fuerte locura, con la qual dan en correr
+    desatentadamente por los <Concept_Landmark>cerros</Concept_Landmark> sin reparar en precipicios,
+    pues ordinariamente se despeñan, habiéndose observado que si no mueren de la caida sanan de la
+    locura, y no hay observación que entre los animales padezcan esta enfermedad las vicuñas y
+    carneros de la tierra; se cree que proviene de los especiales efluvios de los minerales de aquel
+        <Concept_Territory>territorio</Concept_Territory> y, que es muy propenso a convulsiones: las
+    mugeres del <Concept_Settlement>Pueblo</Concept_Settlement> referido para lograr sus hijos van a
+    parir a los lugares baxos de la <Concept_Landmark>Quebrada</Concept_Landmark>. El
+        <Concept_District>Partido</Concept_District> de <Territory>Tarija</Territory> es un
+        <Concept_Territory>territorio</Concept_Territory> de
+        <Concept_Landmark>quebradas</Concept_Landmark> y <Concept_Landmark>cerros</Concept_Landmark>
+    ásperos hasta salir a las <Concept_Landmark>punas</Concept_Landmark> y llanadas altas de
+        <Landmark>Escayache</Landmark> y <Landmark>Tacsora</Landmark>, donde hay 2
+        <Concept_Landmark>lagunas</Concept_Landmark> de sal: compónese de 4
+        <Concept_Landmark>valles</Concept_Landmark> fértiles en algunas laderas, en los quales se
+    ha##llan huesos humanos muy grandes, petrificados, canillas de vara y quarta, muelas mayores que
+    el puño; en medio de uno de estos <Concept_Landmark>valles</Concept_Landmark> está la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Bernardo de
+        Tarija</Settlement>, que es la <Concept_Settlement>Capital</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory>, que tenía de repartimiento 82.350 pesos,
+    pagando de alcabala 558 en cada año. <zbr/>§§§id_03616§§§ <zbr/>Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Condesuyos de
+        Arequipa</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Salamanca</Settlement>.
+    <zbr/>§§§id_03617§§§ <zbr/>Un <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
+        <Concept_District>distrito</Concept_District> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxui</Territory>, que la
+    divide de la de la <Concept_Settlement>Capital</Concept_Settlement> de <Settlement>San
+        Miguel</Settlement>. <zbr/>§§§id_03618§§§ <zbr/>CHICHIBACOA, Cabo de) en la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: está 80
+    leguas al O de aquella <Concept_Settlement>Ciudad</Concept_Settlement>, en 304 grad. de long., y
+    12 y 16 min. de lat. <zbr/>§§§id_03619§§§ <zbr/>CHICHICAPA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Capital</Concept_Settlement> de <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en
+        <Territory>Nueva España</Territory>: es de temperamento templado, y antiguamente fue
+        <Concept_Settlement>Real de Minas</Concept_Settlement> de plata de las más ce <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0499@@@ <zbr/>
+    <zbr/>#lebres; pero hoy está quasi abandonado este beneficio, siendo muy poco lo que se
+    trabajan, por haberse dedicado sus naturales más al cultivo de la grana en que abunda su
+        <Concept_Territory>territorio</Concept_Territory> y; produce también muchas semillas y maíz;
+    la <Concept_Territory>jurisdicción</Concept_Territory> es de las más pingues y fértiles de la
+        <Concept_Territory>Provincia</Concept_Territory> cons##ta de 5
+        <Concept_Settlement>Pueblos</Concept_Settlement> Cabeceras de
+        <Concept_District>Partido</Concept_District>, a que están sujetos otros muchos más pequeños:
+    tiene la <Concept_Settlement>Capital</Concept_Settlement> 430 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y algunas de <humanGroup type="social_group"
+        >Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup
+        type="social_group">Mestizos</humanGroup>: está 90 leguas de <Settlement>México</Settlement>
+    entre Oriente y S en 277 grad. 30 min. de long. y 18 grad. 15 min. de lat.: los demás
+        <Concept_Settlement>Pueblos</Concept_Settlement> son: <zbr/>
+    <zbr/>ßßß <zbr/>#<Settlement>Río Hondo</Settlement> o <Settlement>Thequila</Settlement>.
+        <zbr/><Settlement>San Agustín de Losicha</Settlement>.
+        <zbr/>##<Settlement>Tetipác</Settlement>. <zbr/><Settlement>Cozautepec</Settlement>.
+        <zbr/><Settlement>Zimitlán</Settlement>. <zbr/>###<Settlement>Tepezimatlán</Settlement>.
+        <zbr/><Settlement>La Magdalena</Settlement>. <zbr/><Settlement>Atzozola</Settlement>. <zbr/>
+    <zbr/>$$$ <zbr/>§§§id_03620§§§ <zbr/>#CHICHICATEPEC,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva
+        España</Territory>: es de temperamento frío; tiene 26 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 7 leguas entre Oriente y S de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03621§§§ <zbr/>CHICHICOAUTLA,
+    S. Francisco de) <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Metepeque</Territory> en <Territory>Nueva
+        España</Territory>: tiene 91 familias de <humanGroup type="social_group"
+    >Indios</humanGroup>. <zbr/>§§§id_03622§§§ <zbr/>CHICHIMEQUILLA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Zitaquaro</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Maravatio</Territory> en
+    el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>: tiene
+    84 familias de <humanGroup type="social_group">Indios</humanGroup>, y está un quarto de legua
+    ##al S de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>§§§id_03623§§§
+    <zbr/>CHICHIQUILA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Quinuxtlán</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Juan de los
+        Llanos</Territory> en <Territory>Nueva España</Territory>: tiene 180 familias de <humanGroup
+        type="social_group">Indios</humanGroup>. <zbr/>§§§id_03624§§§ <zbr/>CHIRIBICHE,
+        <Concept_Landmark>Punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en
+    frente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Aves</Landmark>.
+    <zbr/>§§§id_03625§§§ <zbr/>CHICHESTER, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory>.
+    <zbr/>§§§id_03626§§§ <zbr/>CHICHOPON, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarca</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Huambos</Settlement>. <zbr/>§§§id_03627§§§ <zbr/>CHICKAMINE,
+        <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>. <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0500@@@ <zbr/>§§§id_03628§§§ <zbr/>#CHICLAIO,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el
+        <Territory>Perú</Territory>, en que hay un Convento de Religiosos de San Francisco.
+    <zbr/>§§§id_03629§§§ <zbr/>CHICHOI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>.
+    <zbr/>§§§id_03630§§§ <zbr/>CHICO, Río) <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Presidio</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Yaqui</Landmark>. <zbr/>§§§id_03631§§§ <zbr/>Tiene el mismo nombre un
+        <Concept_Landmark>río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Panamá</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: nace en
+    las <Concept_Landmark>montañas</Concept_Landmark> de la parte del S del
+        <Concept_Landmark>Itsmo</Concept_Landmark>, cerca del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Chepo</Settlement>: corre al
+    SO, y sale al <Concept_Landmark>mar</Concept_Landmark> en la
+        <Concept_Landmark>Ensenada</Concept_Landmark> y <Concept_Landmark>Golfo</Concept_Landmark>
+    de <Territory>Panamá</Territory>. <zbr/>§§§id_03632§§§ <zbr/>Otro
+        <Concept_Landmark>río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
+        <Territory>Perú</Territory>: corre al E en la
+        <Concept_Territory>jurisdicción</Concept_Territory> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxuy</Territory>.
+    <zbr/>§§§id_03633§§§ <zbr/>Un <Concept_Landmark>Islote</Concept_Landmark> llamado
+        <Concept_Landmark>Morro</Concept_Landmark>, cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory>,
+    enfrente de esta <Concept_Settlement>Ciudad</Concept_Settlement>, y no lejos de otro que
+    distinguen con el nombre de <Concept_Landmark>Morro</Concept_Landmark> grande.
+    <zbr/>§§§id_03634§§§ <zbr/>CHICOANTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zoques</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>.
+    <zbr/>§§§id_03635§§§ <zbr/>CHICOLAPA, <Concept_Settlement>Pueblo</Concept_Settlement> ##de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Coatepec</Territory> en <Territory>Nueva
+        España</Territory>, anexo al <Concept_District>Curato</Concept_District> de su
+        <Concept_Settlement>Capital</Concept_Settlement>: tiene 187 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, que celebran todos los Viernes del año una feria o
+    Teanguis, en que se venden ropas, semillas, ganados y demas frutos, a que concurren de todas las
+        <Concept_Territory>Provincias</Concept_Territory> confinantes, y por su abundancia y
+    concurso se ha levantado con el nombre del célebre Teanguis de S. Vicente de Chicolapa: es
+    sumamente fértil y ameno, rodeado de diferentes
+        <Concept_Settlement>Pueblocillos</Concept_Settlement> pequeños o
+        <Concept_Settlement>barrios</Concept_Settlement>. <zbr/>§§§id_03636§§§ <zbr/>CHICOMESUCHIL,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Yxtepexi</Territory> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en
+        <Territory>Nueva España</Territory>: es de temperamento cálido, tiene 300 familias de
+        <humanGroup type="social_group">Indios</humanGroup> que se ocupan en el beneficio de la
+    grana y texidos de algodón. <zbr/>§§§id_03637§§§ <zbr/>CHICOMI,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Tampico</Territory> en <Territory>Nueva España</Territory>: tiene 45 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y está 10 leguas al S de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03638§§§ <zbr/>CHICOMOCELO,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> Al <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0501@@@ <zbr/>
+    <zbr/>#caldía mayor de <Territory>Comitlán</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Goatemala</Territory>.
+    <zbr/>§§§id_03639§§§ <zbr/>CHICONAUTA, Santo Tomás de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Ecatepec</Territory> en <Territory>Nueva
+        España</Territory>, anexo al <Concept_District>Curato</Concept_District> de su
+        <Concept_Settlement>Capital</Concept_Settlement>, de donde dista una legua al NNE: tiene 165
+    familias de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>§§§id_03640§§§
+    <zbr/>CHICONCUAC, S. Miguel de ) <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Tezcuco</Territory> en <Territory>Nueva
+        España</Territory>: tiene 123 familias de <humanGroup type="social_group"
+        >indios</humanGroup> y 6 de <humanGroup type="social_group">Españoles</humanGroup>: produce
+    bastantes granos, semillas y ganado, de cuyas lanas sacan mucha utilidad, como de los Sayales
+    que fabrican de ellas: está una legua al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03641§§§ <zbr/>CHICONCUASO,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Naulingo</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Xalapa</Territory> en
+        <Territory>Nueva España</Territory>, cuyo nombre significa lugar de siete fuentes: está
+    situado en lo más alto de una <Concept_Landmark>sierra</Concept_Landmark> áspera y montuosa, por
+    cuya razón es el temperamento más frío de todo el <Concept_District>partido</Concept_District>
+    sujeto a humedades y lluvias continuas, su comercio es de maíz que produce con abundancia, y la
+    cría de ganado de cerda, que uno y ##otro venden en la <Settlement>Vera Cruz</Settlement>,
+    ejercitándose también sus <humanGroup type="social_group">vecinos</humanGroup> en el tráfico de
+    las roquas de mulas que hay de estos parages a las <Concept_Landmark>Costas</Concept_Landmark>
+    de <Landmark>Barlovento</Landmark> por caminos tan ásperos y pedregosos, que en muchas partes se
+    ven precisados por su estrechura a formar escaleras abiertas en la misma piedra, pareciendo
+    increíble que puedan subir y bajar por ellas las mulas cargadas, especialmente en el invierno,
+    pero como están acostumbradas las pasan con mucha yelocidad: este camino tan penoso sirve de
+    atajo ahorrando muchas leguas para las <Concept_Territory>Provincias</Concept_Territory> de la
+        <Territory>Guasca</Territory>: el vecindario de este
+        <Concept_Settlement>Pueblo</Concept_Settlement> se compone de 236 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 3 leguas cortas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03642§§§ <zbr/>CHICONCUAUTLA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Guachinango</Territory> en <Territory>Nueva
+        España</Territory>: es de temperamento templado y tiene 270 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, inclusos los de otros tres
+        <Concept_Settlement>Pueblecitos</Concept_Settlement> de su
+        <Concept_District>distrito</Concept_District>: está 6 leguas al Oriente de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03643§§§ <zbr/>CHICONTEPEC,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tlalixcoya</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory>
+    <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0502@@@ <zbr/>
+    <zbr/>#de Mizantla en <Territory>Nueva España</Territory>: tiene 53 familias de <humanGroup
+        type="social_group">Indios</humanGroup>. <zbr/>§§§id_03644§§§ <zbr/>CHICORATO,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de
+    la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>.
+    <zbr/>§§§id_03645§§§ <zbr/>CHICUAS, <Concept_Group>Nación de Indios</Concept_Group> del
+        <Territory>Perú</Territory>, hoy reducida solo a un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Condesuios</Territory> en que
+    se coge con abundancia cochinilla, con que tiñen la lana sus <humanGroup type="social_group"
+        >naturales</humanGroup>, y es el ramo de comercio de que se mantienen. <zbr/>§§§id_03646§§§
+    <zbr/>CHIEGNETO, <Concept_Settlement>Pueblo</Concept_Settlement> y fuerte de los <humanGroup
+        type="political_group">Ingleses</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory>,
+    situado en lo más interior de la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Fundy</Landmark>. <zbr/>§§§id_03647§§§ <zbr/>Tiene el mismo nombre un.
+        <Concept_Landmark>río</Concept_Landmark> pequeño de esta
+        <Concept_Territory>Provincia</Concept_Territory>, que nace de una
+        <Concept_Landmark>laguna</Concept_Landmark> pequeña: corre al S y entra en el Basin des
+        <Landmark>Mines</Landmark>. <zbr/>§§§id_03648§§§ <zbr/>Un
+        <Concept_Landmark>Cabo</Concept_Landmark> o <Concept_Landmark>Punta</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la misma
+        <Concept_Territory>Provincia</Concept_Territory> en la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark>.
+    <zbr/>§§§id_03649§§§ <zbr/>CHIEN, Trou au) o Agujero del Perro,
+        <Concept_Landmark>río</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
+    <Territory>Guadalupe</Territory>: nace en las <Concept_Landmark>montañas</Concept_Landmark> del
+    E, corre a este rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> entre la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Petit Car##bet</Landmark> y el
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Trou au Chat</Landmark>.
+    <zbr/>§§§id_03650§§§ <zbr/>CHIENS, Isla de los, o de los Perros en el
+        <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> a la entrada
+    del <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Belle Isle</Landmark>, y en la
+        <Concept_Landmark>Costa</Concept_Landmark> del O de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>.
+    <zbr/>§§§id_03651§§§ <zbr/>CHIETLAN, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Yzucar</Territory> en <Territory>Nueva
+        España</Territory>: fue antes <Concept_Territory>Corregimiento</Concept_Territory>, y hoy
+    está agregado a esta <Concept_Territory>jurisdicción</Concept_Territory>: es de temperamento
+    caliente y húmedo, pero muy ameno, poblado de huertas en que abundan las flores, frutas y
+    legumbres:: el <Concept_Territory>territorio</Concept_Territory> también es muy fértil en trigo,
+    maíz y otras semillas, y particularmente en dátiles, porque todo el
+        <Concept_District>distrito</Concept_District> está cubierto de palmas: su vecindario consta
+    de 267 familias de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup
+        type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
+        >Mulatos</humanGroup>, y de 356 de <humanGroup type="social_group">Indios</humanGroup>,
+    inclusos los que habitan tres <Concept_Settlement>Pueblos</Concept_Settlement> que pertenecen a
+    este <Concept_District>partido</Concept_District>, también se cogen muchos garbanzos, anis y
+    melones, que se reputan por los de mejor calidad de todo el
+        <Concept_Territory>Reyno</Concept_Territory>: está 3 leguas distante al S de su
+        <Concept_Settlement>Capital</Concept_Settlement>, los referidos
+        <Concept_Settlement>Pueblos</Concept_Settlement> son: <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0503@@@ <zbr/>
+    <zbr/>ßßß <zbr/>#<Settlement>Ahuehuezingo</Settlement>. <zbr/>##<Settlement>San Nicolás de
+        Tenexcalco</Settlement>. <zbr/>###<Settlement>Santiago de Azalan</Settlement>. <zbr/>
+    <zbr/>$$$ <zbr/>§§§id_03652§§§ <zbr/>#CHIGNAL, <Concept_Landmark>Volcán</Concept_Landmark> de)
+        <Concept_Landmark>Monte</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, distinto de
+    otro casi confinante del mismo nombre. <zbr/>§§§id_03653§§§ <zbr/>CHIGUACHI,
+        <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_Territory>Corregimiento</Concept_Territory> de la <Territory>baque</Territory> en
+    el <Territory>Nuevo Reyno de Granada</Territory>, situado detras de los
+        <Concept_Landmark>montes</Concept_Landmark> de <Landmark>Guadalupe</Landmark> y
+        <Landmark>Monserrat</Landmark> de la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Santa Fe</Settlement>, de donde dista 5 leguas al Oriente: es de temperamento
+    agradable y delicioso, abundante en trigo, maíz, cebada, papas, cañas de azúcar y plátanos:
+    tiene de vecindario más de 200 familias de <humanGroup type="social_group"
+        >Españoles</humanGroup>, y muy pocos <humanGroup type="social_group">Indios</humanGroup>.
+    <zbr/>§§§id_03654§§§ <zbr/>CHIGUAGUA, San Felipe de)
+        <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>,
+    situada cerca del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Pedro</Landmark>:
+    tiene de vecindario más de 2.000 familias de <humanGroup type="social_group"
+        >Españoles</humanGroup> y algunas de <humanGroup type="social_group">Mestizos</humanGroup> y
+        <humanGroup type="social_group">Mulatos</humanGroup>: es
+        <Concept_Settlement>población</Concept_Settlement> grande, bien dispuesta y de hermosos
+    edificios, entré los quaies sobresalen la Iglesia Parroquial, el Co##legio que era de los
+    Regulares de la Compañía, y el Convento de San Francisco: goza de un temperamento muy templado,
+    y su principal comercio es de plata, por la riqueza de sus
+        <Concept_Landmark>minas</Concept_Landmark>, haciéndola populosa los muchos traficantes que
+    siempre hay en ella para expender toda especie de mercaderías en cambio de aquel metal: está 260
+    leguas al NNO de <Settlement>México</Settlement> en 271 gr. 50 min. de long. y 29 y 4 min. de
+    lat. bor. <zbr/>§§§id_03655§§§ <zbr/>CHIGUAGUILA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de
+        Minas</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory>.
+    <zbr/>§§§id_03656§§§ <zbr/>CHIGUAGUILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>, situado
+    en los términos que dividen la <Concept_Landmark>Sierra</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> 40 leguas al E, 1/4 al. NE de la
+        <Concept_Settlement>Villa</Concept_Settlement> de los <Settlement>Alamos</Settlement>.
+    <zbr/>§§§id_03657§§§ <zbr/>CRIGUARA, <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_Territory>Gobierno</Concept_Territory> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Maracaibo</Territory> en
+    la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>: es de
+    temperamento cálido, abundante en cacao, caña dulce y demás frutos de este clima: ha sido antes
+        <Concept_Settlement>pobla <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0504@@@ <zbr/>
+        <zbr/>#ción</Concept_Settlement> grande y rica por las muchas
+        <Concept_Structure>haciendas</Concept_Structure> que tiene en su
+        <Concept_District>distrito</Concept_District>, particularmente a distancia de una legua, la
+    que llaman los <Structure>Estanques</Structure>, que tiene más de 40.000 cabezas de ganado
+    mayor, y la que tenían los Regulares de la Compañía llamada la <Structure>Selva</Structure>;
+    pero hoy está arruinado por las hostilidades que han hecho en él los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Motilones</humanGroup>, y apenas tendrá 40 <humanGroup
+        type="social_group">Indios</humanGroup> y 30 <humanGroup type="social_group">vecinos
+        blancos</humanGroup>. <zbr/>§§§id_03658§§§ <zbr/>CHIHA, <Concept_Settlement>Pueblo de
+        Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Apalachicola</Landmark>. <zbr/>§§§id_03659§§§ <zbr/>CHIHEMECOMET,
+        <Concept_Landmark>Isla</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina
+        Septentrional</Territory>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> y al N de
+    la de <Landmark>Hateras</Landmark>. <zbr/>§§§id_03660§§§ <zbr/>CHIHUATA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arequipa</Territory> en
+    el <Territory>Perú</Territory>: es de temperamento frío, y en su
+        <Concept_Territory>jurisdicción</Concept_Territory> hay una
+        <Concept_Landmark>laguna</Concept_Landmark> de donde se saca mucha sal para el abasto de
+    toda la <Concept_Territory>Provincia</Concept_Territory>, y conducen a otras para el beneficio
+    de la plata. <zbr/>§§§id_03661§§§ <zbr/>CHIKEHAUK, <Concept_Landmark>Isla</Concept_Landmark> de
+    la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Carolina
+        Sep##tentrional,</Territory> que forma con ella el extrecho de Currotuck.
+    <zbr/>§§§id_03662§§§ <zbr/>CHILA, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acatlan</Territory>, en
+        <Territory>Nueva España</Territory>: tiene 200 familias de <humanGroup type="social_group"
+        >indios</humanGroup>, algunas de <humanGroup type="social_group">Españoles</humanGroup> y
+        <humanGroup type="social_group">Mestizos</humanGroup>, y un Convento de Religiosos de Santo
+    Domingo. <zbr/>§§§id_03663§§§ <zbr/>CHILAC, San Gabriel de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
+        partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Thehuacan</Territory> en <Territory>Nueva España</Territory>: tiene 286 familias
+    de <humanGroup type="social_group">Indios</humanGroup>, y dista 4 leguas al SO de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03664§§§ <zbr/>CHILAPA,
+        <Concept_Settlement>Pueblo Capital</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de este nombre en <Territory>Nueva España</Territory>: es de
+    temperamento más frío que caliente: tiene 41 familias de <humanGroup type="social_group"
+        >Españoles</humanGroup>, su vecindario 72 de <humanGroup type="social_group"
+        >Mestizos</humanGroup>, 26 de <humanGroup type="social_group">Mulatos</humanGroup> y 447 de
+        <humanGroup type="social_group">Indios</humanGroup>, y un Convento de Religiosos de San
+    Agustín, pertenece en lo eclesiástico al <Concept_Territory>Obispado</Concept_Territory> de la
+        <Territory>Puebla</Territory>: <zbr/>§§§id_03664a§§§ <zbr/>la
+        <Concept_Territory>jurisdicción</Concept_Territory> se compone de once
+        <Concept_Settlement>Pueblos</Concept_Settlement>, <Concept_Settlement>Cabezeras de
+        partido</Concept_Settlement>, y de otros 23 en los quales se numeran 2.503 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, 65 de <humanGroup type="social_group"
+        >Españoles</humanGroup>, 116 de <humanGroup type="social_group">Mestizos</humanGroup> y 47
+    de <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0505@@@ <zbr/>
+    <zbr/>#<humanGroup type="social_group">Mulatos</humanGroup>, que todos se ocupan en el cultivo y
+    comercio de los frutos que produce, y son azúcar, miel, cascalote, fábrica de loza ordinaria,
+    grana silvestre, cera, algodón, Petates, fru##tas del
+        <Concept_Territory>País</Concept_Territory> alguna hortaliza: está 60 leguas al S, 1/4 al SO
+    de <Settlement>México</Settlement> en 273 gr. de long. y 18 y 40 min. de lat. los otros
+        <Concept_Settlement>Pueblos</Concept_Settlement> son : <zbr/>
+    <zbr/>ßßß <zbr/>#<Settlement>Holcazautitlán</Settlement>.
+        <zbr/><Settlement>Temalacl</Settlement>. <zbr/><Settlement>Hostutla</Settlement>.
+        <zbr/><Settlement>Mezquitlán</Settlement>. <zbr/><Settlement>Papulatla</Settlement>.
+        <zbr/><Settlement>Toliman</Settlement>. <zbr/><Settlement>Atengo</Settlement>.
+        <zbr/><Settlement>Comala</Settlement>. <zbr/><Settlement>San Juan de la Brea</Settlement>.
+        <zbr/><Settlement>Zitlala</Settlement>. <zbr/><Settlement>Acatlán</Settlement>.
+        <zbr/>##<Settlement>Azaquiloya</Settlement>. <zbr/><Settlement>Acazango</Settlement>.
+        <zbr/><Settlement>Hahuacazingo</Settlement>. <zbr/><Settlement>Pochotla</Settlement>.
+        <zbr/><Settlement>Alpoyeca</Settlement>. <zbr/><Settlement>Xiutopantla</Settlement>.
+        <zbr/><Settlement>Tehuaustitlán</Settlement>. <zbr/><Settlement>Zacanhualin</Settlement>.
+        <zbr/><Settlement>Tlaquilzingo</Settlement>. <zbr/><Settlement>Palantla</Settlement>.
+        <zbr/><Settlement>Ayahualtempa</Settlement>. <zbr/><Settlement>Petatlán</Settlement>.
+        <zbr/>###<Settlement>Ayahualulco</Settlement>. <zbr/><Settlement>Mitlazingo</Settlement>.
+        <zbr/><Settlement>Tepoxtlán</Settlement>. <zbr/><Settlement>Quecholtenango</Settlement>.
+        <zbr/><Settlement>San Martín</Settlement>. <zbr/><Settlement>Colotlipan</Settlement>.
+        <zbr/><Settlement>Xocutla</Settlement>. <zbr/><Settlement>Nazintla</Settlement>.
+        <zbr/><Settlement>Teozintla</Settlement>. <zbr/><Settlement>Zicultepec</Settlement>.
+        <zbr/><Settlement>Calmetitlán</Settlement>. <zbr/>
+    <zbr/>$$$ <zbr/>§§§id_03665§§§ <zbr/>#Tiene el mismo nombre con la advocación de San Miguel otro
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Tepozcolula</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>:
+    es de temperamento temblado; tiene un Convento de Religiosos de Santo Domingo y 128 familias de
+        <humanGroup type="social_group">Indios</humanGroup> que se ocupan, en el beneficio de la
+    grana, con que hacen su comercio y de algunas semillas que cultivan en los
+        <Concept_Structure>ranchos</Concept_Structure> de labor: está 4 leguas al N con inclinación
+    al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03666§§§
+    <zbr/>##Otro con la advocación de San Pedro de la <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de <Settlement>Huitepec</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixquintepec</Territory>
+    es el mismo <Concept_Territory>Reyno</Concept_Territory>: tiene 30 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 5 leguas al N con inclinación al Oriente de
+    su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03667§§§ <zbr/>CHILAQUE,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de <Settlement>Olintla</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zacatlán</Territory> en
+        <Territory>Nueva España</Territory>: está situado en una deliciosa
+        <Concept_Landmark>cañada</Concept_Landmark>, que riegan y fertilizan varios
+        <Concept_Landmark>ríos</Concept_Landmark>, distante 5 leguas de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>§§§id_03668§§§ <zbr/>CHILATECA, S.
+    Juan <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0506@@@ <zbr/>
+    <zbr/>#de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de <Settlement>Cuilapa</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro
+        Villas</Territory> en <Territory>Nueva España</Territory>: tiene 52 familias de <humanGroup
+        type="social_group">Indios</humanGroup> que cultivan grana, semillas, frutas, carbón y
+    maderas con que comercian: está 5 leguas entre Oriente y S de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>§§§id_03669§§§ <zbr/>CHILCA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cañete</Territory> en el
+        <Territory>Perú</Territory>, con un pequeño <Concept_Landmark>Puerto</Concept_Landmark>,
+    pero cómodo y seguro: produce mucho salitre, que llevan sus naturales a vender a
+        <Settlement>Lima</Settlement> para las fábricas de pólvora, por cuya razón la mayor parte
+    son arrieros: en su inmediación se ven algunos vestigios de fábricas magníficas de los Incas del
+        <Territory>Perú</Territory>: el nombre de Chuca le dan los <humanGroup type="social_group"
+        >Indios</humanGroup> del <Concept_Territory>Reyno</Concept_Territory> los de
+        <Territory>Quito</Territory> a un arbolillo o arbusto que nace en los climas cálidos, y
+    sirve mucho para hacer con sus cenizas lexía para los
+        <Concept_Structure>ingenios</Concept_Structure> de azúcar. <zbr/>§§§id_03670§§§ <zbr/>Tiene
+    el mismo nombre un <Concept_Landmark>valle</Concept_Landmark> hermoso y dilatado de esta
+        <Concept_Territory>Provincia</Concept_Territory> particular, porque nunca llueve en él, ni
+    tiene <Concept_Landmark>río</Concept_Landmark>, <Concept_Landmark>fuente</Concept_Landmark>, ni
+    agua de ninguna parte que lo fertilice, y sin embargo produce una gran cosecha de maíz, que nace
+    enterrando con cada grano al tiempo de sembrarlo la cabeza de una sardina de que hay abundancia
+    en su <Concept_Landmark>Costa</Concept_Landmark>, con cuya humedad y la del rocío de la mañana
+    nace y crece, y lo mismo hacen con los demás frutos y hortalizas; pero para beber no tienen más
+    recurso que los pozos. <zbr/>§§§id_03671§§§ <zbr/>CHILCAIMARCA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Condesuyos de
+        Arequipa</Territory> en el <Territory>Perú</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Andahua</Settlement>.
+    <zbr/>§§§id_03672§§§ <zbr/>CHILCAIO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Querobamba</Settlement>. <zbr/>§§§id_03673§§§ <zbr/>CHILCAS,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Hacas</Settlement>. <zbr/>§§§id_03674§§§ <zbr/>Tiene el mismo nombre otro
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huanta</Territory> en el
+    propio <Concept_Territory>Reyno</Concept_Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Tambos</Settlement>.
+    <zbr/>§§§id_03675§§§ <zbr/>CHILCHAIOTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Zochicoatlán</Territory> en <Territory>Nueva
+        España</Territory>, situado en una ladera: es de temperamento cálido: tiene 26 familias de
+        <humanGroup type="social_group">In <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0507@@@ <zbr/>
+        <zbr/>#dios</humanGroup>, y está 11 leguas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03676§§§ <zbr/>CHILCHOTA,
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>: es muy
+    corta y reducida a unos quantos <Concept_Settlement>barrios</Concept_Settlement>, tan inmediatos
+    entre sí, que sus límites están divididos unos de otros con cruces: su población consta de 470
+    familias de <humanGroup type="social_group">Indios</humanGroup>
+    <humanGroup type="indigenous_group">Tarascos</humanGroup>, y cerca de 300 de <humanGroup
+        type="social_group">Españoles</humanGroup>, <humanGroup type="social_group"
+        >Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, repartidos la
+    mayor parte en las <Concept_Structure>haciendas</Concept_Structure> de labor que tiene en su
+        <Concept_District>distrito</Concept_District>, en las quales se coge con abundancia trigo,
+    maíz y otras semillas por ser la tierra muy fértil, cuya amenidad hace el
+        <Concept_Territory>País</Concept_Territory> delicioso y poblado de toda especie de árboles
+    frutales: la <Concept_Settlement>Capital</Concept_Settlement> es el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de este nombre: está 70 leguas al ONO de
+        <Settlement>México</Settlement>: long. 270.....45 latit. 21.....15. <zbr/>§§§id_03677§§§
+    <zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay también de este nombre de la
+    Cabecera de <Settlement>Huavtla</Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Cuicatlán</Territory>, situado en la cumbre de un
+    ameno <Concept_Landmark>cerro</Concept_Landmark> poblado de árboles frutales: tiene 80 familias
+    de <humanGroup type="social_group">Indios</humanGroup> aplicados al comercio y cultivo de grana
+    salitre, algodón, semi##llas y frutas: está 8 leguas de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>§§§id_03678§§§ <zbr/>Otro con la
+    advocación de San Pedro que es de la Cabecera de <Settlement>Quimixtlán</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de S. <Territory>Juan de los
+        Llanos</Territory> en <Territory>Nueva España</Territory>: tiene 210 familias de <humanGroup
+        type="social_group">Indios</humanGroup>. <zbr/>§§§id_03679§§§ <zbr/>CHILCHOIAQUE,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tlacolula</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Xalapa</Territory> en
+        <Territory>Nueva España</Territory>, situado en una
+        <Concept_Landmark>cañada</Concept_Landmark> de mucha extensión, que principia en los
+    derrames de <Landmark>Xilotepec</Landmark>, y corre por más de una legua: es
+        <Concept_Settlement>Pueblo</Concept_Settlement> muy corto y de mal temperamento, por cuya
+    causa, de las muchas familias que lo habitaban, solo se cuentan hoy 19, que sirven de trabajar
+    en las <Concept_Settlement>rancherías</Concept_Settlement> de la
+        <Concept_District>comarca</Concept_District> por la esterilidad de su
+        <Concept_Territory>territorio</Concept_Territory> y: a distancia de una legua al N de
+        <Settlement>Xalapa</Settlement> y a orilla del camino Real que sube a
+        <Settlement>México</Settlement> está el gran <Concept_Structure>molino</Concept_Structure>
+    de <persName>Lucas Martín</persName>, cuyas tierras fertiliza el caudaloso
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Cerdeño</Landmark>, y de sus aguas se proveen varios
+        <Concept_Settlement>Pueblos</Concept_Settlement> y
+        <Concept_Structure>ranchos</Concept_Structure> de labor en que asisten más de 30 familias de
+        <humanGroup type="social_group">Españoles</humanGroup>, algunos <humanGroup
+        type="social_group">mestizos</humanGroup> y muchos <humanGroup type="social_group"
+        >Indios</humanGroup>: está 4 leguas al SO de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0508@@@ <zbr/>§§§id_03680§§§ <zbr/>#CHILCUAUTLA y Cardonal,
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de
+        Minas</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Ixmiquilpan</Territory> en <Territory>Nueva España</Territory>: tiene 215
+    familias de <humanGroup type="social_group">Indios</humanGroup>, y en el Real 27 de <humanGroup
+        type="social_group">Españoles</humanGroup> y 46 de <humanGroup type="social_group"
+        >Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup> que viven en
+    él: es de temperamento sumamente frío y húmedo, y su comercio la labor de las
+        <Concept_Landmark>minas</Concept_Landmark> de plomo; antiguamente se trabajaron algunas de
+    plata que hábia en su recinto; pero daban tan poco metal y de tan baxa ley, que las abandonaron
+    por las de plomo, que les dexa más utilidad: está 5 leguas al Oriente de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_03681§§§ <zbr/>CHILE,
+        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>América Meridional</Territory>
+    en la parte más austral de ella: confina por el N con el <Territory>Perú</Territory>, por el S
+    con el <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> y
+        <Concept_Landmark>Tierra</Concept_Landmark> del <Territory>Fuego</Territory>, por el Oriente
+    con la <Concept_Territory>Provincias</Concept_Territory> del <Territory>Tucumán</Territory> y
+        <Territory>Buenos Ayres</Territory>, por el NE con el <Territory>Brasil</Territory> y
+        <Territory>Paraguay</Territory>, y al Poniente tiene por límites la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>: se extiende del N al
+    S 472 leguas, comprehendiendo las <Concept_Territory>tierras</Concept_Territory>
+    <Territory>magallánicas</Territory> hasta el <Concept_Landmark>estrecho</Concept_Landmark>,
+    desde las <Concept_Landmark>llanuras</Concept_Landmark> o
+        <Concept_Landmark>desiertos</Concept_Landmark> de <Landmark>Copiapó</Landmark>, que es la
+    parte más Septentrio##nal, el <persName>Inca Yupanqui</persName> XI. Emperador del
+        <Territory>Perú</Territory>, conquisto hasta el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Mauli</Landmark> o <Landmark>Maulle</Landmark>, en 34 gr. 30 min. de lat. aust.
+        <persName>Diego de Almagro</persName> fue el primer Español que descubrió este
+        <Concept_Territory>País</Concept_Territory> el año de 1535, y empezó su conquista, que
+    después prosiguió el de 1541 el célebre <persName>Pedro de Valdivia</persName>, fundador de las
+    primeras <Concept_Settlement>Ciudades</Concept_Settlement> del
+        <Concept_Territory>Reyno</Concept_Territory>, y murió desgraciadamente a manos de los
+        <humanGroup type="social_group">Indios</humanGroup> que lo hicieron prisionero el año de
+    1551: estos son los más valerosos y guerreros de toda la <Territory>América</Territory>, que han
+    mantenido una contínua guerra para no rendirse al dominio de los <humanGroup
+        type="political_group">Españoles</humanGroup>, de quienes los separa el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Biobió</Landmark>, límite de la parte que poseen estos, pues aunque en diferentes
+    entradas han penetrado de la otra parte y establecido varias
+        <Concept_Settlement>Ciudades</Concept_Settlement> y
+        <Concept_Structure>fortalezas</Concept_Structure>, todas han sido arruinadas y destruidas
+    por aquellos valerosos defensores de su libertad y de su patria, que son diestrísimos en el
+    manejo de la lanza, la espada, la flecha y la macana; y aunque también lo son en las armas de
+    fuego, las usan poco porque dicen que es de cobar <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0509@@@ <zbr/>
+    <zbr/>#des, son muy ágiles y diestros en montar a caballo, y los tienen excelentes, pues los que
+    produce el <Concept_Territory>Reyno</Concept_Territory> se llevaron de los de
+        <Territory>Andalucía</Territory>, no han degenerado ni son inferiores a los mejores que
+    produce este <Concept_Territory>País</Concept_Territory>: la parte que poseen los <humanGroup
+        type="political_group">Españoles</humanGroup> en este
+        <Concept_Territory>Reyno</Concept_Territory> se extiende por toda la longitud de él desde el
+    referido <Concept_Landmark>Valle</Concept_Landmark> de <Landmark>Copiapó</Landmark> hasta el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>sin fondo</Landmark>, más adelante de la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Chiloé</Territory>, en 44 grados de lat., pero de ancho solo 45 leguas por donde
+    más; de modo, que es como una faxa entre la <Concept_Landmark>mar</Concept_Landmark> del
+        <Landmark>S</Landmark> y la <Concept_Landmark>Cordillera</Concept_Landmark> de los
+        <Landmark>Andes</Landmark>, de donde nacen infinitos
+        <Concept_Landmark>ríos</Concept_Landmark> y <Concept_Landmark>arroyos</Concept_Landmark> que
+    riegan muchos <Concept_Landmark>Valles</Concept_Landmark> fértiles y hermosos que hacen un
+    delicioso <Concept_Territory>País</Concept_Territory>, abundante y pingue de todo quanto es
+    necesario para la comodidad y regalo de la vida, produciendo toda especie de frutos delicados de
+        <Territory>América</Territory> y de <Territory>Europa</Territory> en sus regulares
+    estaciones, que empiezan en Septiembre el Verano, el <Concept_Landmark>Estío</Concept_Landmark>
+    en Diciembre, en Marzo el Otoño, y el Invierno en Junio: su temperamento es semejante al de
+        <Territory>España</Territory>, variando los temples según sus alturas, ##pues las primeras
+        <Concept_Territory>Provincias</Concept_Territory> entrando por el
+        <Territory>Perú</Territory>, que están más baxas, son calientes y carecen de lluvias, no
+    teniendo otro riego que el de unos pequeños <Concept_Landmark>ríos</Concept_Landmark> que baxan
+    de la <Concept_Landmark>Cordillera</Concept_Landmark> al
+        <Concept_Landmark>mar</Concept_Landmark> por espacio de 20 ú 30 leguas: en las otras llueve
+    con más abundancia quanto están más al S, especialmente en invierno desde Abril a Septiembre,
+    por lo qual son más fértiles y regadas de más de 40 <Concept_Landmark>ríos</Concept_Landmark>,
+    que también descienden de la <Concept_Landmark>Cordillera</Concept_Landmark>, y se forman de las
+    lluvias y de las nieves derretidas en verano, y llegando a juntarse unos con otros hacen algunos
+    muy caudalosos, y generalmente abundan de delicados peces, como anguilas, truchas bagres,
+    reyeques, ahogatos y pejereyes y otros muchos: la <Concept_Landmark>Costa</Concept_Landmark> del
+        <Concept_Landmark>mar</Concept_Landmark> pudiera sustentar
+        <Concept_Territory>reynos</Concept_Territory> dilatados solo con el marisco que hay de 20
+    especies de muy delicado gusto, y lo mismo el pescado, como tollos, congrios, robalos, sienas,
+    cabrillas, viejas, lenguados, machuelos, dorados, pejegallos, pulpos, pámpanos, corbinas,
+    pejereyes, lisas, atunes que vienen por sus tiempos a la
+        <Concept_Landmark>Costa</Concept_Landmark>, co <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0510@@@ <zbr/>
+    <zbr/>#mo en las Almadrabas de <Territory>Andalucía</Territory>: de algunos años a esta parte se
+    salan bacalaos, que aunque menores que los que se pescan en <Territory>Terranova</Territory>,
+    son más tiernos y de mejor gusto, y también se suele hallar ámbar en la
+        <Concept_Landmark>Costa</Concept_Landmark>: los <Concept_Landmark>montes</Concept_Landmark>
+    estan poblados de árboles muy hermosos, como laureles, robles de 4 especies, algarrobos que son
+    de una madera fortísima, reulís, canelos, cipreses, sándalos, paraguas, avellanos, nogales,
+    guayacanes, volos y alerces, que son como una especie de cedro de que hacen tablas para conducir
+    a <Settlement>Lima</Settlement> y otras partes en crecido número; muchos de estos árboles
+    conservan todo el año su verdura, por la humedad y abrigo de la
+        <Concept_Landmark>Cordillera</Concept_Landmark> que encierra en sus entrañas mucho fuego por
+    los <Concept_Landmark>volcanes</Concept_Landmark> que hay en ella, y se cuentan 12 sin otros
+    muchos que siguen hasta el <Concept_Landmark>estrecho</Concept_Landmark> de
+        <Landmark>Magallanes</Landmark>, y con ser tan grandes los
+        <Concept_Landmark>montes</Concept_Landmark> y <Concept_Landmark>bosques</Concept_Landmark>
+    apenas se encuentran lieras en ellos, a excepción de tal qual tigre o leopardo, pero sí muchos
+    venados, ciervos, vicuñas y huanacos que servían de alimento a los <humanGroup
+        type="social_group">Indios</humanGroup>; y ##de aves, patos, vandurrias, cigueñas, garzas,
+    milanos, palomas, piuguenes, tartaIes, papagayos, cernícalos, aleones, neblíes, y muchas de
+    canto, como gilgueros, calandrias, tordos, diucas, trillis y otros varios; los frutos que hoy
+    produce son trigo, cebada, maíz, fríxoles de diferentes especies, aceyte de hermosas aceytunas,
+    excelentes vinos muy estimados en el <Territory>Perú</Territory>, toda especie de frutas de
+    hueso;, naranjas, limones, inumerables manzanos, y todo género de hortalizas: se cultiva el lino
+    y mucho cañamo, de que hacen porciones de jarcia para surtir las embarcaciones de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, y se fabricara más si
+    fuera mayor el consumo; tiene este <Concept_Territory>Reyno</Concept_Territory> un comercio
+    considerable con el <Territory>Perú</Territory>, pues un año con otro envia a
+        <Settlement>Lima</Settlement> de 150 a 180.000 fanegas de trigo, 120.000 quintales de sebo,
+    mucho vino y otros frutos, como almendras, avellanas, nueces, lentejas, orégano, azafrán, romi,
+    y trae en cambio azúcar y ropas de la tierra; tiene muchas
+        <Concept_Structure>haciendas</Concept_Structure> o
+        <Concept_Structure>estancias</Concept_Structure> en que abunda el ganado vacuno, ovejuno y
+    cabrío, de cuyas pieles cur <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0511@@@ <zbr/>
+    <zbr/>#ten cordobanes, badanas, gamuzas y zuelas, sacando mucho sebo: son grandes también las
+    crias de caballos muy hermosos, y unas <Concept_Group>castas</Concept_Group> que al paso siguen
+    a otros corriendo y llaman aguilillas: el ganado mular también abunda, y seria más si se sacara
+    para el <Territory>Perú</Territory>, como en otro tiempo se hacia, en que fabricaban de sus
+    lanas paños finos, alfombras matizadas de colores, y todavía hacen algunas bayetas, cordellates,
+    jergas y muchos ponchos, que es el bestuario común, y se reduce a una manta quadrada con una
+    abertura en medio para entrar la cabeza, pero se han perdido muchos telares por falta de
+        <humanGroup type="social_group">Indios</humanGroup>, que sin tener huertas ni cultivarlas
+    cogían muchas frutas, como avellanas, piñones distintos de los de <Territory>Europa</Territory>,
+    fresas, cocos pequeñitos, made, maque y murtilla, de que hacían excelente chicha; y hoy es tal
+    la frondosidad y abundancia de flores delicadas y de yervas aromáticas y medicinales, que parece
+    increíble, siendo de estas últimas las más apreciables por sus virtudes, la canchalagua,
+    quinchimali albaha##quilla y culen: tiene muchas <Concept_Landmark>minas</Concept_Landmark> del
+    más riquísimo oro, de plata, cobre, plomo, estaño, azogue, azufre, piedra imán y de carbón
+    fósil, de que produce inmensas riquezas que nunca apreciaron los <humanGroup type="social_group"
+        >Indios</humanGroup> ni trabajaron hasta la conquista de los Yncas que empezaron a
+    beneficiarlas, enviando porciones de oro al <Settlement>Cuzco</Settlement> para adorno de los
+    templos y palacios como regalo y no como tributo: las incursiones y rebeliones de los
+        <humanGroup type="social_group">Indios</humanGroup>, principalmente de los <humanGroup
+        type="indigenous_group">Araucanos</humanGroup>, que el año de 1599 tomaron y destruyeron 6
+        <Concept_Settlement>Ciudades</Concept_Settlement> que fueron
+        <Settlement>Valdivia</Settlement>, la <Settlement>Imperial</Settlement>,
+        <Settlement>Angol</Settlement>, <Settlement>Santa Cruz</Settlement>,
+        <Settlement>Chillán</Settlement> y la <Settlement>Concepción</Settlement>, es el motivo de
+    haber hoy pocas poblaciones grandes, y éstas pobres y de poco vecindario, que siempre viven con
+    el temor de alguna sorpresa de los <humanGroup type="social_group">Indios</humanGroup>, aunque
+    en los confines hay <Concept_Settlement>presidios</Concept_Settlement> y fuertes guarnecidos de
+    tropa española, con las provisiones necesarias de artillería, víveres y municiones: la guerra
+    que desde el principio han sostenido los <humanGroup type="political_group"
+        >Españoles</humanGroup> con estos ferocísimos <humanGroup type="social_group"
+        >Indios</humanGroup>, ha disminuido mucho el núme <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0512@@@ <zbr/>
+    <zbr/>#ro de aquellos que han sido muertos de <humanGroup type="social_group"
+        >esclavos</humanGroup> de estos bárbaros que nunca se han podido reducir; y aunque viendo
+    que no era posible conseguirlo con las armas, se intentó por el medio de Misioneros de la
+    extinguida Compañía, a cuyo fin entrárou a predicarles el año de 1612 los Padres
+        <persName>Horacio Vechi</persName> y <persName>Martín de Aranda</persName> fueron
+    martirizados a sus manos, por lo qual hizo un tratado de paces el Gobernador <persName>Marqués
+        de Baides</persName> el año de 1640, y desde entonces se renueva todos los años, a cuyo fin
+    vienen a la <Concept_Settlement>Capital</Concept_Settlement> sus Diputados, y reciben los
+    regalos de parte del Rey; pero sin embargo, han roto la paz diferentes veces, haciendo incursión
+    en nuestras poblaciones, y el modo de declarar la guerra es enviar de
+        <Concept_Settlement>Pueblo</Concept_Settlement> en
+        <Concept_Settlement>Pueblo</Concept_Settlement> la mano de un difun##to empuñada una flecha,
+    que llaman de la convocatoria, y así lo hicieron el año de 1723 haciendo increíbles extragos en
+    el <Concept_Territory>Reyno</Concept_Territory>, que de lo que hemos dicho se vé que es la
+    región más fértil, abundante, rica y deliciosa de toda la <Territory>América</Territory>, a
+    quien concedió liberalmente la naturaleza quanto escaseo a otras o les vendió muy caro: la gente
+    es sana, robusta, el viento general que reyna es el SO, y el Puelche que viene de la
+        <Concept_Landmark>Cordillera</Concept_Landmark> es algo molesto. Se divide en dos
+        <Concept_Territory>Obispados</Concept_Territory> sufragáneos del
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Lima</Territory>, que son
+    el de <Territory>Santiago</Territory> y la <Territory>Concepción</Territory>; y se gobierna por
+    un Presidente Gobernador y Capitan General, cuyo título fue Don <persName>Melchor Bravo de
+        Saravia</persName> el primero que lo tuvo, y su
+        <Concept_Territory>Gobierno</Concept_Territory> se divide en 18
+        <Concept_District>partidos</Concept_District> y
+        <Concept_Territory>Provincias</Concept_Territory> o
+        <Concept_Territory>Corregimientos</Concept_Territory>, que son: <zbr/>
+    <zbr/>ßßß <zbr/>#<Territory>Cuyo</Territory>. <zbr/><Territory>Copiapó</Territory>.
+        <zbr/><Territory>La Serena</Territory> o <Territory>Coquimbo</Territory>.
+        <zbr/><Territory>Quillota</Territory>. <zbr/><Territory>Aconcagua</Territory>.
+        <zbr/><Territory>Islas de Juan Fernandez</Territory>.
+        <zbr/>##<Territory>Santiago</Territory>. <zbr/><Territory>Melipilla</Territory>.
+        <zbr/><Territory>Rancagua</Territory>. <zbr/><Territory>Colchagua</Territory>.
+        <zbr/><Territory>Maule</Territory>. <zbr/><Territory>Ytata</Territory>.
+        <zbr/>##<Territory>Chillan</Territory>. <zbr/><Territory>Estancia del Rey</Territory> o
+        <Territory>Rede</Territory>. <zbr/><Territory>Puchacay</Territory>. <zbr/><Territory>La
+        Concepción</Territory>. <zbr/><Territory>Valdivia</Territory>.
+        <zbr/><Territory>Chiloé</Territory>. <zbr/>La
+        <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Santiago</Settlement>. <zbr/>
+    <zbr/>$$$ <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0513@@@ <zbr/>
+    <zbr/>#___CATALOGO DE LAS NACIONES bárbaras y principales Lugares del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>.___ <zbr/>
+    <zbr/>ßßß <zbr/>#___NACIONES___. <zbr/><humanGroup type="indigenous_group"
+    >Antallis</humanGroup>. <zbr/><humanGroup type="indigenous_group">Araucanos</humanGroup>.
+        <zbr/><humanGroup type="indigenous_group">Cauquis</humanGroup>. <zbr/><humanGroup
+        type="indigenous_group">Chauracabis</humanGroup>. <zbr/><humanGroup type="indigenous_group"
+        >Guarpes</humanGroup>. <zbr/><humanGroup type="indigenous_group">Juncos</humanGroup>.
+        <zbr/><humanGroup type="indigenous_group">Pequenches</humanGroup>. <zbr/><humanGroup
+        type="indigenous_group">Pevinges</humanGroup>. <zbr/><humanGroup type="indigenous_group"
+        >Pincus</humanGroup>. <zbr/><humanGroup type="indigenous_group">Poyas</humanGroup>.
+        <zbr/><humanGroup type="indigenous_group">Pulches</humanGroup>. <zbr/><humanGroup
+        type="indigenous_group">Yanacunas</humanGroup>. <zbr/>___CIUDADES___.
+        <zbr/><Settlement>Calbuco</Settlement>. <zbr/><Settlement>Cañete</Settlement>.
+        <zbr/><Settlement>Castro</Settlement>. <zbr/><Settlement>Chacao</Settlement>.
+        <zbr/><Settlement>Chillán</Settlement>. <zbr/><Settlement>Concepción</Settlement>.
+        <zbr/><Settlement>Confines</Settlement>. <zbr/><Settlement>Copiapó</Settlement>.
+        <zbr/><Settlement>Coquimbo</Settlement> o la <Settlement>Serena</Settlement>.
+        <zbr/><Settlement>Imperial</Settlement>. <zbr/><Settlement>Loyola</Settlement>.
+        <zbr/><Settlement>Mendoza</Settlement>. <zbr/><Settlement>Osorno</Settlement>.
+        <zbr/><Settlement>Santiago</Settlement>. <zbr/><Settlement>San Juan de la
+        Frontera</Settlement>. <zbr/><Settlement>San Luis de Loyola</Settlement>.
+        <zbr/>##<Settlement>Valdivia</Settlement>. <zbr/><Settlement>Valparaíso</Settlement>.
+        <zbr/><Settlement>Villarica</Settlement>. <zbr/>
+    <zbr/>___FUERTES___. <zbr/><Structure>Arauco</Structure>. <zbr/><Structure>Los
+        Angeles</Structure>. <zbr/><Structure>San Fernando</Structure>.
+        <zbr/><Structure>Tucapel</Structure>. <zbr/><Structure>Yumbel</Structure>. <zbr/>___RIOS___.
+        <zbr/><Landmark>Andalie</Landmark>. <zbr/><Landmark>Arancagua</Landmark>.
+        <zbr/><Landmark>Biobio</Landmark>. <zbr/><Landmark>Buono</Landmark>.
+        <zbr/><Landmark>Cachapoal</Landmark>. <zbr/><Landmark>Cauquenes</Landmark>.
+        <zbr/><Landmark>Caunen</Landmark>. <zbr/><Landmark>Cauten</Landmark>.
+        <zbr/><Landmark>Chavin</Landmark>. <zbr/><Landmark>Civapa</Landmark>.
+        <zbr/><Landmark>Claro</Landmark>. <zbr/><Landmark>Copiapó</Landmark>.
+        <zbr/><Landmark>Curarahua</Landmark>. <zbr/>De <Landmark>Lora</Landmark>. <zbr/>De la
+        <Landmark>Sal</Landmark>. <zbr/><Landmark>Eyou</Landmark>.
+    <zbr/><Landmark>Guasco</Landmark>. <zbr/><Landmark>Ytata</Landmark>.
+        <zbr/><Landmark>Labapi</Landmark>. <zbr/><Landmark>Laxa</Landmark>.
+        <zbr/><Landmark>Lebo</Landmark>. <zbr/><Landmark>Ligua</Landmark>.
+        <zbr/><Landmark>Liman</Landmark>. <zbr/>###<Landmark>Limachi</Landmark>.
+        <zbr/><Landmark>Longatoma</Landmark>. <zbr/><Landmark>Mapocho</Landmark>.
+        <zbr/><Landmark>Mataquito</Landmark>. <zbr/><Landmark>Maule</Landmark>.
+        <zbr/><Landmark>Maypo</Landmark>. <zbr/><Landmark>Nubbe</Landmark> o
+        <Landmark>Nuble</Landmark>. <zbr/><Landmark>Pereroa</Landmark>.
+        <zbr/><Landmark>Poangue</Landmark>. <zbr/><Landmark>Queule</Landmark>.
+        <zbr/><Landmark>Ralemo</Landmark>. <zbr/><Landmark>Salado</Landmark>.
+        <zbr/><Landmark>Teno</Landmark>. <zbr/><Landmark>Toltén</Landmark>.
+        <zbr/><Landmark>Tongoy</Landmark>. <zbr/><Landmark>Topocalma</Landmark>.
+        <zbr/><Landmark>Turuyan</Landmark>. <zbr/><Landmark>Uten</Landmark>. <zbr/>
+    <zbr/>___LAGUNAS___. <zbr/><Landmark>Aguas Calientes</Landmark>.
+        <zbr/><Landmark>Guanacache</Landmark>. <zbr/><Landmark>Mallabauquen</Landmark>.
+        <zbr/><Landmark>Padaguel</Landmark>. <zbr/><Landmark>Puren</Landmark>. <zbr/>
+    <zbr/>___MONTES___. <zbr/><Landmark>Antojo</Landmark>. <zbr/><Landmark>Chillán</Landmark>.
+        <Concept_Landmark>Volc.</Concept_Landmark>
+    <zbr/><Landmark>Chuapa</Landmark>
+    <Concept_Landmark>Volc.</Concept_Landmark>
+    <zbr/><Landmark>Estancia del Rey</Landmark>. Oro. <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0514@@@ <zbr/>
+    <zbr/>#<Landmark>Lampangui</Landmark>. Plata. <zbr/><Landmark>Ligua</Landmark>.
+        <Concept_Landmark>Volc.</Concept_Landmark>
+    <zbr/><Landmark>Llaon</Landmark>. Oro. <zbr/><Landmark>Llupangui</Landmark>. Oro.
+        <zbr/><Landmark>Notuco</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
+    <zbr/><Landmark>Payen</Landmark>. Plomo. <zbr/><Landmark>Peteroa</Landmark>. Volc.
+        <zbr/><Landmark>Petorca</Landmark>. Oro. <zbr/><Landmark>Quillacoya</Landmark>. Oro.
+        <zbr/><Landmark>Sinn</Landmark>. <Concept_Landmark>Volc.</Concept_Landmark>
+    <zbr/><Landmark>Yapel</Landmark>. Oro. <zbr/>
+    <zbr/>___PROMONTORIOS___. <zbr/><Landmark>Ballena</Landmark>.
+        <zbr/>##<Landmark>Carnero</Landmark>. <zbr/><Landmark>Cauten</Landmark>.
+        <zbr/><Landmark>Changui</Landmark>. <zbr/><Landmark>Feliz</Landmark>.
+        <zbr/><Landmark>Villiva</Landmark>. <zbr/>
+    <zbr/>___PUERTOS___. <zbr/>
+    <zbr/><Landmark>Castro</Landmark>. <zbr/><Landmark>Cauten</Landmark>. <zbr/><Landmark>Cerrito
+        Verde</Landmark>. <zbr/><Landmark>Chacao</Landmark>. <zbr/><Landmark>Cumberland</Landmark>.
+        <zbr/><Landmark>Guasco</Landmark>. <zbr/><Landmark>Paracas</Landmark>.
+        <zbr/>###<Landmark>Quillin</Landmark>. <zbr/><Landmark>Talcaguano</Landmark>.
+        <zbr/><Landmark>Tome</Landmark>. <zbr/><Landmark>Tongoy</Landmark>. <zbr/>
+    <zbr/>___ISLAS___. <zbr/><Landmark>Chiloé</Landmark>. <zbr/><Landmark>Ciones</Landmark>.
+        <zbr/><Landmark>Farallones</Landmark>. <zbr/><Landmark>Fernandez</Landmark>.
+        <zbr/><Landmark>Guaiteca</Landmark>. <zbr/><Landmark>Moche</Landmark>.
+        <zbr/><Landmark>Quiriquina</Landmark>. <zbr/><Landmark>Santa María</Landmark>. <zbr/>$$$ <zbr/>
+    <zbr/>___CATALOGO BE LOS PRESIDENTES, Gobernadores y Capitanes Generales del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>.___ <zbr/>
+    <zbr/>ßßß <zbr/>
+    <zbr/>1 El Adelantado <persName>Pedro de Valdivia</persName>, Conquistador del
+        <Concept_Territory>Reyno</Concept_Territory>, exercitado en las conquistas del
+        <Territory>Perú</Territory> con mucho valor, Maestre de Campo de <persName>Francisco
+        Pizarro</persName>: entró el año de 1537, fundó las primeras poblaciones y gobernó hasta el
+    año de 1551, que fue hecho prisionero peleando valerosamente en una batalla con los <humanGroup
+        type="indigenous_group">Araucanos</humanGroup> y muerto. <zbr/>2 Don <persName>Garda
+        Hurtado</persName>, de Mendoza, hijo del <persName>Marqués de Cañete</persName>, que se
+    hallaba de Virey en el <Territory>Perú</Territory>: luego que tuvo la noticia de la muerte de
+        <persName>Valdivia</persName> lo nombró por Gobernador, y se volvió al
+        <Territory>Perú</Territory> después de un acertado gobierno quando llegó nombrado por el Rey
+    el sucesor <zbr/>3 <persName>Francisco de Villagra</persName>, insigne Capitán, que siguiendo
+    las conquistas fue muerto también por los <humanGroup type="social_group">Indios</humanGroup> en
+    una batalla, dexando nombrado interinamente a su tio hasta que llego el propietario por el Rey <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0515@@@ <zbr/>
+    <zbr/>#4 El Adelantado <persName>Rodrigo de Quiroga</persName>, que gobernó pacíficamente hasta
+    su muerte, dexando encargado el Gobierno a su suegro <zbr/>5 El Mariscal <persName>Martín Ruiz
+        de Gamboa</persName>, hasta que llegó nombrado por el Rey <zbr/>6 El Doctor
+        <persName>Melchor Bravo de Sarávia</persName>, con título de primer Presidente hasta su
+    muerte. <zbr/>7 Don <persName>Alonso de Sotomayor</persName>, Marqués de Villa-Hermosa, nombrado
+    el año de 1584; habiendo acreditado su valor, talento y conducta en aquel Gobierno, que exerció
+    con sumo crédito y acierto, con grandes ventajas contra los <humanGroup type="social_group"
+        >Indios</humanGroup> hasta el año de 1592 que llegó <zbr/>8 Don <persName>Martín García Oñez
+        y Loyola</persName>, Caballero del Orden de Calatrava; fue muerto por los <humanGroup
+        type="social_group">Indios</humanGroup> socorriendo el
+        <Concept_Structure>Fuerte</Concept_Structure> de <Structure>Puren</Structure>, que tenían
+    sitiado el año de 1599. <zbr/>9 El Licenciado <persName>Pedro de Vízcarra</persName>, que
+    exercia el empleo de Teniente General del <Concept_Territory>Reyno</Concept_Territory>; fue
+    nombrado para él quando mataron al anterior, hasta que nombró el Virey del
+        <Territory>Perú</Territory> a <zbr/>10 El Capitán <persName>Francisco de
+    Quiñones</persName>, que se empleó en contener a los <humanGroup type="indigenous_group"
+        >Araucanos</humanGroup>, después de su rebelión hasta su muerte, y llegó nombrado por el
+    Virey del <Territory>Perú</Territory>
+    <zbr/>11 El Capitán <persName>Alonso García Remon</persName>, Oficial de mucho crédito y
+    conocimiento del <Concept_Territory>País</Concept_Territory> guerra de los <humanGroup
+        type="social_group">Indios</humanGroup>; siendo Maestre de Campo de Don <persName>Alonso
+        Sotomayor</persName> entró a gobernar nombrado por el Virey de <Territory>Lima</Territory>,
+    hasta que llegó el propietario nombrado por el Rey <zbr/>12 Don <persName>Alonso de la
+        Rivera</persName>, que se hallaba sirviendo en <Territory>Flandes</Territory>, y fue enviado
+    a <Territory>Chile</Territory>, donde habiéndose casado contra la prohibición de S. M. lo privó
+    del empleo, nombrando para sucederle a <zbr/>13 El ya referido Don <persName>Alonso Garcia
+        Remon</persName>, que exerció muy poco tiempo el Gobierno por haber muerto, y entró <zbr/>14
+    El Doctor Don <persName>Luis Merlo de la Fuente</persName>, Oidor <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0516@@@ <zbr/>
+    <zbr/>#Decano de la <Concept_Territory>Real Audiencia</Concept_Territory>, que por muerte de su
+    antecesor gobernó también muy poco, hasta que llegó <zbr/>15 Don <persName>Juan de
+        Xaraquemada</persName>, natural de <Settlement>Canaria</Settlement>, que se hallaba en
+        <Settlement>Lima</Settlement> lleno de méritos contraidos en la guerra de
+        <Territory>Chile</Territory>, quando fue nomhrado Gobernador por el Virey del
+        <Territory>Perú</Territory>, <persName>Marqués de Monte Claros</persName>, <zbr/>16 Don
+        <persName>Alonso de la Rivera</persName> segunda vez, que se hallaba de Gobernador del
+        <Territory>Tucumán</Territory> desde que se le separó de éste, y fue nombrado por el Rey a
+    instancia de los Misioneros para reducir aquel <Concept_Territory>Reyno</Concept_Territory>, por
+    el conocimiento que tenía, y verificó la experiencia en sus muchos aciertos de paz y guerra,
+    hasta, que murió. <zbr/>17 El Licenciado <persName>Fernando Talaverano</persName>, Oidor más
+    antiguo de la <Concept_Territory>Audiencia</Concept_Territory>; quedó encargado del Gobierno por
+    esta calidad, y por particular nombramiento de su antecesor, hasta que con la noticia nombró el
+    Virey del <Territory>Perú</Territory>, <persName>Príncipe de Esquilache</persName> a <zbr/>18
+    Don <persName>Lope de Ulloa</persName>, que hallándose exerciendo este empleo fue confirmado por
+    S M. hasta su muerte, que entró a gobernar <zbr/>19 Don <persName>Christóval de la Cerda
+        Sotomayor</persName>, natural de <Settlement>México</Settlement>, Oidor Decano de la
+        <Concept_Territory>Real Audiencia</Concept_Territory>, que a pesar de sus excelentes
+    qualidades y aplauso de su Gobierno duró poco por haber nombrado el Virey del
+        <Territory>Perú</Territory> a <zbr/>20 Don <persName>Pedro Sorez de Ulloa y
+    Lemos</persName>, Caballero del Orden de Alcántara, que a poco tiempo fue confirmado en el
+    Gobierno por el Rey, exerciéndole hasta su muerte, que lo dexó encargado a su cuñado 21 Don
+        <persName>Francisco de Alva y Norueña</persName>, que lo obtuvo poco tiempo por haber
+    nombrado el Virey segun costumbre a <zbr/>22 Don <persName>Luis Fernandez de Córdoba y
+        Arce</persName>, Señor del Carpió, Veinte y Quatro de <Settlement>Córdoba</Settlement>, que
+    aun <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0517@@@ <zbr/>
+    <zbr/>#que no tuvo confirmación por el Rey, le mantuvo algunos años en consideración al acierto
+    con que gobernaba el <Concept_Territory>Reyno</Concept_Territory>, hasta que liego el año de
+    1633 <zbr/>23 Don <persName>Francisco Laso de la Vega</persName>, Caballero del Orden de
+    Santiago, hombre de suma inteligencia y fortuna en la guerra de los <humanGroup
+        type="social_group">Indios</humanGroup>, en que lleno de laureles acabó su Gobierno y le
+    entregó al sucesor <zbr/>24 Don <persName>Francisco de Zuñiga</persName>, Marqués de Baydes,
+    Conde del Pedroso; entró en la posesión de su Gobierno el año de 1640, y fue el que estableció y
+    aseguró la paz con los <humanGroup type="social_group">Indios</humanGroup> por medio de los
+    Misioneros de la extinguida Compañía, con cuya gloria dexó el Gobierno al sucesor el año de 1655
+    <zbr/>25 Don <persName>Martín de Muxica</persName>, Caballero del Orden de Santiago, célebre
+    Oficial, acreditado en los exércitos de <Territory>Italia</Territory> y
+        <Territory>Flandes</Territory>. <zbr/>26 Don <persName>Pedro Porter de Casanate</persName>,
+    año de 1659. <zbr/>27 Don <persName>Francisco Meneses Bravo de Sarábia</persName>, conduxo de
+        <Territory>España</Territory> un Cuerpo de Tropas para contener los <humanGroup
+        type="social_group">Indios</humanGroup>, como lo consiguió, reedificando el año de 1664 las
+        <Concept_Settlement>Ciudades</Concept_Settlement> que habian destruido el de 1599: gobernó
+    hasta el año de 1668, que fue depuesto por el Virey del <Territory>Perú</Territory>. <zbr/>28
+    Don <persName>Angel Peredo</persName>, Caballero del Orden de Santiago; fue nombrado
+    interinamente por separación de su antecesor, y exerció el Gobierno hasta el año siguiente de
+    1669. <zbr/> 29 Don <persName>Juan Enriquez</persName>, natural de
+    <Settlement>Lima</Settlement>, Caballero del Orden de Santiago, gobernó hasta el año de 1677.
+    <zbr/>30 Don <zbr/>31 Don <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0518@@@ <zbr/>
+    <zbr/>#32 Don <zbr/>33 Don <persName>Juan Andrés de Ustariz</persName>, natural de
+        <Settlement>Sevilla</Settlement>, hasta el año de 1715, que fue nombrado <zbr/>34 Don
+        <persName>Gabriel Cano de Aponte</persName>, Mariscal de Campo de los Reales Exércitos, en
+    cuyo tiempo volvieron los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Araucanos</humanGroup> a declarar la guerra, y los obligó a
+    renovar la paz; murió el año de 1728. <zbr/>35 Don <persName>Juan de Salamanca</persName>,
+    Maestre de Campo de las Milicias de aquel <Concept_Territory>Reyno</Concept_Territory>; gobernó
+    interinamente, y por su muerte <zbr/>36 Don <persName>Joseph de Santiago Concha</persName>,
+    Marqués de Casa Concha, Caballero del Orden de Calatrava, Oidor Decano de la
+        <Concept_Territory>Real Audiencia</Concept_Territory> de <Territory>Lima</Territory>,
+    nombrado por el Virey. <zbr/>37 Don <persName>Alonso de Obando</persName>, Marqués de Obando,
+    Gefe de Esquadra de la Real Armada; nombrado también interinamente por el Virey,
+        <persName>Marqués de Villa García</persName>, hasta el año de 1736. <zbr/>38 Don
+        <persName>Joseph Manso de Velasco</persName>, Conde de Superunda, Caballero del Orden de
+    Santiago: se hallaba de Capitán de Granaderos del Regimiento de Guardias Españolas, graduado de
+    Brigadier, con particulares créditos de valor y conducta, quando fue nombrado para esta
+    Presidencia el referido año, que exerció hasta el de 1746, que pasó promovido al
+        <Concept_Territory>Vireynato</Concept_Territory> del <Territory>Perú</Territory>. <zbr/>39
+    Don <persName>Domingo Ortíz de Rozas</persName>, Caballero del Orden de Santiago: se hallaba de
+    Gobernador de <Territory>Buenos Ayres</Territory>, y fue destinado a esta Presidencia el
+    referido año: hizo diferentes <Concept_Settlement>Pueblos</Concept_Settlement>, por lo qual le <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0519@@@ <zbr/>
+    <zbr/>#dio el Rey título de Conde de Poblaciones: gobernó hasta el año de 1754, que volviendo a
+        <Territory>España</Territory> murió. <zbr/>40 Don <persName>Manuel Amat y
+    Junient</persName>, Caballero del Orden de San Juan, Coronel del Regimiento de Dragones de
+    Sagunto, graduado de Brigadier, nombrado para esta Presidencia, que exerció hasta el año de
+    1761, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> del
+        <Territory>Perú</Territory>. <zbr/>41 Don <persName>Mateo de Toro Zambrano y
+        Ureta</persName>, nombrado interinamente por el anterior quando pasó de
+        <Settlement>Lima</Settlement> llanta la llegada del propietario <zbr/>42 Don
+        <persName>Antonio Guill</persName>, Coronel que habia sido del Regimiento de Infantería de
+        <Territory>Guadalaxara</Territory>, y se hallaba graduado de Brigadier, exerciendo el
+    Gobierno y <Concept_Territory>Capitanía</Concept_Territory> General del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, pasó
+    promovido a esta <Concept_Territory>Presidencia</Concept_Territory> el citado año de 1761, y lo
+    exerció hasta su muerte el de 1768. <zbr/>43 Don <persName>Mateo de Toro Zambrano y
+        Ureta</persName>, segunda vez nombrado interinamente por la
+        <Concept_Territory>Audiencia</Concept_Territory> en la vacante, hasta que llegó nombrado por
+    el Virey del <Territory>Perú</Territory>
+    <zbr/>44 Don <persName>Francisco Xavier de Morales</persName>, Caballero del Orden de Santiago,
+    Mariscal de Campo de los Reales Exércitos, que pasó siendo Capitán del de Granaderos del
+    Regimiento de Reales Guardias Españolas a General de las Milicias del
+        <Territory>Perú</Territory>, y fue nombrado interinamente por el Virey para esta
+    Presidencia, que exerció hasta su muerte el año de 1772. <zbr/>45 El referido Don
+        <persName>Mateo de Toro Zambrano y Urueta</persName>, ya Conde de la Conquista, Caballero
+    del Orden de Santiago, y Teniente Coronel de los Reales Exércitos, nombrado tercera vez por la
+        <Concept_Territory>Real Audiencia</Concept_Territory> en esta vacante, hasta que llegó el
+    propietario <zbr/>46 Don <persName>Agustín de Jauregui</persName>, Caballero del Orden de
+    Santiago, Mariscal de Campo de los Reales Exércitos, que habia sido Coronel del Regimiento de
+    Dragones de <Settlement>Sagunto</Settlement>, fue nombrado para pasar a esta Presidencia el año
+    de 1773, y la exerció hasta el <zbr/>
+    <zbr/>@@@Alcedo_vol_1-0520@@@ <zbr/>
+    <zbr/>#de 1782, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> del
+        <Territory>Perú</Territory>. <zbr/>47 Don <persName>Ambrosio de Benavides</persName>,
+    Brigadier de los Reales Exércitos, fue nombrado el mismo año de 1782. <zbr/>$$$
+    <zbr/>§§§id_03682§§§ <zbr/>#Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>
+    del <Concept_Territory>Reyno</Concept_Territory> antecedente en el
+        <Concept_District>Partido</Concept_District> de <Territory>Toltén baxo</Territory>: corre ál
+    O, y sale al <Concept_Landmark>mar</Concept_Landmark> entre los de <Landmark>Toltén</Landmark> y
+    de <Landmark>Budi</Landmark>. <zbr/>§§§id_03683§§§ <zbr/>Una
+        <Concept_Landmark>Punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark>
+    en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arequipa</Territory>.
+    <zbr/>§§§id_03684§§§ <zbr/>Una <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory>. <zbr/>§§§id_03685§§§ <zbr/>Una
+        <Concept_Landmark>Caleta</Concept_Landmark> que sirve de abrigo para las embarcaciones
+    menores, en la referida, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory>. <zbr/>§§§id_03686§§§ <zbr/>CHILENO,
+    Paso del) <Concept_Landmark>vado</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Jazegua</Landmark>, en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
+    junto al <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Cordobés</Landmark>. <zbr/>§§§id_03687§§§ <zbr/>CHILERIOS,
+        <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>:
+    corre al N, y entra en el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark>. <zbr/>§§§id_03688§§§ <zbr/>CHILES,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pasto</Territory> en él
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.
+    <zbr/>§§§id_03689§§§ <zbr/>CHILIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla y
+        Collay</Territory> en el <Territory>Perú</Territory>. <zbr/>§§§id_03690§§§ <zbr/>CHILINTOMO,
+        <Concept_Landmark>Monte</Concept_Landmark> ##de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, donde viven
+    algunos <humanGroup type="social_group">Indios</humanGroup>, que aunque reducidos a la Fe
+    Católica, son de tan malas costumbres, que manifiestan lo arraigados que están en los errores de
+    su idolatría. <zbr/>§§§id_03691§§§ <zbr/>CHILIPUIN,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory>
+    en el <Territory>Perú</Territory>. <zbr/>§§§id_03692§§§ <zbr/>CHILLAHUA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Carangas</Territory> en
+    el <Territory>Perú</Territory>, y <Concept_Territory>Arzobispado</Concept_Territory> de
+        <Territory>Charcas</Territory>. <zbr/>§§§id_03693§§§ <zbr/>CHILLAN,
+        <Concept_Settlement>Ciudad Capital</Concept_Settlement> del
+        <Concept_District>Partido</Concept_District> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de este nombre en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>: es muy chica y
+    pobre, aunque tiene algunas familias de distinción, y a lo más contendrá 360 casas, porque
+    después que la destruyeron los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Araucanos</humanGroup> el año de 1599, no ha podido volver a
+    su antiguo explendor: está entre el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Nuble</Landmark> al N; y el <Landmark>Itata</Landmark> al S, en 36 grad. 6 min. de
+    lat. aust. <zbr/>§§§id_03694§§§ <zbr/>Tiene el mismo nombre <zbr/>
+    <zbr/></xml>

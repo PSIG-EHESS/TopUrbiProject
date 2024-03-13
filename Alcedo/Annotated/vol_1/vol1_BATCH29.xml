@@ -11,7 +11,7 @@
     sacó de ella mucho oro, principalmente en los parages llamados hoy
         <Settlement>Jagua</Settlement> y <Concept_Settlement>Ciudad</Concept_Settlement> de la
         <Settlement>Trinidad</Settlement>; y el Coronista <persName>Antonio de Herrera</persName>
-    dice, que era de mayores quilates que el de <LOC>Cibao</LOC> en la
+    dice, que era de mayores quilates que el de <Settlement>Cibao</Settlement> en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, todavía
     se saca hoy alguno en <Settlement>Holguin</Settlement>: hay
         <Concept_Landmark>minas</Concept_Landmark> muy abundantes de cobre y de piedra imán, y
@@ -90,7 +90,7 @@
     cera blanca que producen, y con##sumir mucha en las Iglesias para el culto divino, se extragéron
     el año de 1776 en solo el <Concept_Landmark>Puerto</Concept_Landmark> de la
         <Settlement>Habana</Settlement> 12.550 arrobas, de tan buena calidad como la de
-        <LOC>Venecia</LOC>: aunque la <Concept_Settlement>Capital</Concept_Settlement> de la
+        <Settlement>Venecia</Settlement>: aunque la <Concept_Settlement>Capital</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> es la
         <Concept_Settlement>Ciudad</Concept_Settlement> del mismo nombre, se mira hoy como la
     principal la <Settlement>Habana</Settlement>, en que reside el Gobernador y Capitán General, por
@@ -158,7 +158,7 @@
     <zbr/>#7 Don <persName>Bernardino de Villalpando</persName>, hasta el año de 1569. <zbr/>8 Don
         <persName>Juan del Castillo</persName>, natural de la Orden en el
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Burgos</Territory>,
-    Colegial del Colegio de <Settlement>Siguenza</Settlement> y del de <LOC>San Bartolomé</LOC> en
+    Colegial del Colegio de <Settlement>Siguenza</Settlement> y del de San Bartolomé en
         <Settlement>Salamanca</Settlement>, Catedrático de Artes, electo Obispo el año de 1567,
     gobernó hasta el de 1580, que renunció, y volvió a <Territory>España</Territory>. <zbr/>9 Don
         <persName>Antonio Diaz de Salcedo</persName>, del Orden de San Francisco, Colegial de San
@@ -277,7 +277,7 @@
     <zbr/>42 Don <persName>Diego Peñalosa</persName>, hasta 1725. <zbr/>
     <zbr/>@@@Alcedo_vol_1-0704@@@ <zbr/>
     <zbr/>#43 El Mariscal de Campo Don <persName>Juan Francisco Guemes y Horcasitas</persName>,
-    Coronel que habia sido del Regimiento de Infantería de <LOC>Granada</LOC> el año de 1734, hasta
+    Coronel que habia sido del Regimiento de Infantería de Granada el año de 1734, hasta
     1746, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> de
         <Territory>México</Territory>. <zbr/>44 El Mariscal de Campo Don <persName>Francisco Antonio
         Tinco</persName>, Capitán del Regimiento de Guardias Españolas, Oficial de singulares
@@ -295,7 +295,7 @@
     de los Reales Exércitos, nombrado para entregarse de la
         <Concept_Structure>Plaza</Concept_Structure> que devolvían los <humanGroup
         type="political_group">Ingleses</humanGroup> en la paz, y fortificar el puesto de la
-        <LOC>Cabana</LOC>, como lo executó, volvió a <Territory>España</Territory> el año de 1765.
+        <Structure>Cabana</Structure>, como lo executó, volvió a <Territory>España</Territory> el año de 1765.
     <zbr/>48 El Mariscal de Campo Don <persName>Diego Manrique</persName>, murió el mismo año a poco
     tiempo de su llegada. <zbr/>49 Don <persName>Pasqual de Cisneros</persName>, Teniente General de
     los Reales Exércitos, Gobernador interino dos veces. <zbr/>50 Don <persName>Antonio María
@@ -346,7 +346,7 @@
         <Concept_Landmark>río</Concept_Landmark>
     <Territory>Bogotá</Territory>, donde da el célebre salto de <Landmark>Tequendama</Landmark>: es
     de agradable clima, fértil y abundante de huertas y jardines, en que cultivan con particularidad
-    azucenas, de que hacen su principal grangería para adorno de las Iglesias de <LOC>Santa Fe</LOC>
+    azucenas, de que hacen su principal grangería para adorno de las Iglesias de <Settlement>Santa Fe</Settlement>
     y demás <Concept_Settlement>Pueblos</Concept_Settlement> inmediatos. <zbr/>§§§id_04894§§§
     <zbr/>CUCAITA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -389,7 +389,7 @@
         <Concept_Landmark>Río</Concept_Landmark> pequeño del
         <Concept_Territory>territorio</Concept_Territory> de <Territory>Cuyaba</Territory> en el
         <Territory>Brasil</Territory>: corre al N y entra en el de <Landmark>Camapoa</Landmark>: a
-    su orilla hay un parage llamado la <LOC>Estancia</LOC>, por donde pasan en hombros las canoas
+    su orilla hay un parage llamado la <Landmark>Estancia</Landmark>, por donde pasan en hombros las canoas
     los <humanGroup type="political_group">Portugueses</humanGroup> para penetrar por este último a
     el <Settlement>Matogroso</Settlement>. <zbr/>§§§id_04900§§§ <zbr/>CUCHIPO,
         <Concept_Landmark>Río</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
@@ -552,8 +552,8 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, situado en un gran
         <Concept_Landmark>valle</Concept_Landmark> que llaman el
-        <Concept_Landmark>Llano</Concept_Landmark>
-    <LOC>Grande</LOC>, donde se cría muchísimo ganado vacuno, y a orilla del
+        <Landmark>Llano
+    Grande</Landmark>, donde se cría muchísimo ganado vacuno, y a orilla del
         <Concept_Landmark>río</Concept_Landmark> de su nombre, que entra luego en el de
         <Landmark>Saldaña</Landmark>, y abunda de pescado: es de temperamento cálido, produce mucho
     cacao, tabaco, maíz, yucas, plátanos, y en las arenas del
@@ -597,7 +597,7 @@
         <Concept_Settlement>Ciudad</Concept_Settlement>, muy inmediato a ella: el segundo al N,
     llamado del Matadero, también arrimado a la <Concept_Settlement>población</Concept_Settlement>:
     el tercero <Settlement>Yanuncay</Settlement>, a distancia de medio quarto de legua; y el quarto
-    de <LOC>Baños</LOC>, de todos los quales unidos se forma uno muy caudaloso, que después toma el
+    de <Settlement>Baños</Settlement>, de todos los quales unidos se forma uno muy caudaloso, que después toma el
     nombre de Paute; tiene en sus contornos minerales de oro y plata: es
         <Concept_Settlement>Ciudad</Concept_Settlement> grande y una de las más hermosas del
         <Concept_Territory>Reyno</Concept_Territory>: la Iglesia Parroquial, que se erigió en
@@ -619,7 +619,7 @@
     mejores y más útiles de la <Concept_Settlement>Ciudad</Concept_Settlement>: en su
         <Concept_Territory>territorio</Concept_Territory> al Mediodía está la altura de
         <Settlement>Tarqui</Settlement>, célebre por ser el sitio donde formaron la base de la
-        <LOC>Meridiana</LOC> los Académicos de las Ciencias de Pa##rís Mr.
+        Meridiana los Académicos de las Ciencias de Pa##rís Mr.
         <persName>Godin</persName>, <persName>Bouger</persName> y <persName>la Condamine</persName>,
     ayudados de Don <persName>Jorge Juan</persName> y Don <persName>Antonio de Ulloa</persName>, que
     los acompañaban el año de 1742: esta <Concept_Settlement>Ciudad</Concept_Settlement> es muy
@@ -666,7 +666,7 @@
     del <Concept_Landmark>valle</Concept_Landmark> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zultepec</Territory> en <Territory>Nueva
         España</Territory>: tiene 53 familias de <humanGroup type="social_group"
-    >Indios</humanGroup>. <zbr/>§§§id_04931§§§ <zbr/>CUERNO, Isla del) o de los <LOC>Cuernos</LOC>,
+    >Indios</humanGroup>. <zbr/>§§§id_04931§§§ <zbr/>CUERNO, Isla del) o de los Cuernos,
     en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Florida</Territory>, entre la
     Del##fina, y la de Navios. <zbr/>§§§id_04932§§§ <zbr/>CUERO,
@@ -870,7 +870,7 @@
     Conejos de Indias: el agua que corre entre las dos <Concept_Landmark>Islas</Concept_Landmark>
     forma un <Concept_Landmark>canal</Concept_Landmark> de 3.000 brazas: pertenece esta
         <Concept_Landmark>laguna</Concept_Landmark> a la noble familia de los <humanGroup
-        type="indigenous_group">Chiribogas</humanGroup> de <LOC>Quito</LOC>, y está en 19 mín. de
+        type="indigenous_group">Chiribogas</humanGroup> de <Settlement>Quito</Settlement>, y está en 19 mín. de
     lat. bor. <zbr/>§§§id_04954§§§ <zbr/>CUILAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de
     la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Ygualapa</Territory> en <Territory>Nueva
