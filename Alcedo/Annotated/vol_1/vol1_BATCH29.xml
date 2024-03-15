@@ -8,18 +8,17 @@
     árboles floridos y plantas odoríferas: el terreno es fértilísimo, de modo, que jamas faltan
     flores en el campo, ni los árboles se ven desnudos de sus hojas; y de algunos granos se cogen
     dos cosechas al año, siendo la una en el rigor del Invierno: a los principios de su conquista se
-    sacó de ella mucho oro, principalmente en los parages llamados hoy
-        <Settlement>Jagua</Settlement> y <Concept_Settlement>Ciudad</Concept_Settlement> de la
-        <Settlement>Trinidad</Settlement>; y el Coronista <persName>Antonio de Herrera</persName>
-    dice, que era de mayores quilates que el de <Settlement>Cibao</Settlement> en la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, todavía
-    se saca hoy alguno en <Settlement>Holguin</Settlement>: hay
-        <Concept_Landmark>minas</Concept_Landmark> muy abundantes de cobre y de piedra imán, y
-    antiguamente se fundia en ella artillería como la que tenían las
-        <Concept_Settlement>Plazas</Concept_Settlement> de la <Settlement>Ha##bana</Settlement>,
-        <Settlement>Cuba</Settlement> y el <Concept_Structure>Castillo</Concept_Structure> del
-        <Concept_Landmark>Morro</Concept_Landmark>, que hizo por
-        <Concept_Settlement>asiento</Concept_Settlement> con el Rey Don <persName>Juan de
+    sacó de ella mucho oro, principalmente en los parages llamados hoy <Landmark>Jagua</Landmark> y
+        <Concept_Settlement>Ciudad</Concept_Settlement> de la <Settlement>Trinidad</Settlement>; y
+    el Coronista <persName>Antonio de Herrera</persName> dice, que era de mayores quilates que el de
+        <Settlement>Cibao</Settlement> en la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Santo Domingo</Territory>, todavía se saca hoy alguno en
+        <Settlement>Holguin</Settlement>: hay <Concept_Landmark>minas</Concept_Landmark> muy
+    abundantes de cobre y de piedra imán, y antiguamente se fundía en ella artillería como la que
+    tenían las <Concept_Settlement>Plazas</Concept_Settlement> de la
+        <Settlement>Ha##bana</Settlement>, <Settlement>Cuba</Settlement> y el
+        <Concept_Structure>Castillo</Concept_Structure> del <Structure>Morro</Structure>, que hizo
+    por <Concept_Settlement>asiento</Concept_Settlement> con el Rey Don <persName>Juan de
         Eguilúz</persName>, y todos los años enviaban a <Territory>España</Territory> dos mil
     quintales: en la <Concept_Territory>jurisdicción</Concept_Territory> de la
         <Territory>Habana</Territory> se ha descubierto poco tiempo hace una
@@ -32,22 +31,23 @@
         <Concept_Landmark>puertos</Concept_Landmark> muy seguros y
         <Concept_Landmark>salinas</Concept_Landmark> abundantes, 480
         <Concept_Structure>ingenios</Concept_Structure> de azúcar, de que embarca para
-        <Territory>Europa</Territory> cada año más de un millón de arrobas, tan estimada y de buena calidad, que
-    sin refinarla iguala a la de <Territory>Holanda</Territory> y de <Territory>Francia</Territory>,
-    además de la crecidísima cantidad que se gasta en hacer delicados dulces, que también envia en
-    considerable porción a <Territory>España</Territory> y a varias partes de
-        <Territory>América</Territory>; 982 <Concept_Structure>hatos</Concept_Structure> de ganado
-    mayor, 617 corrales para cerdos, 350 po <zbr/>
-    <zbr/>@@@Alcedo_vol_1-0697@@@ <zbr/>
-    <zbr/>#treros para cebar animales, 1881 sitios de labranza y 5933
-        <Concept_Structure>estancias</Concept_Structure> de labor: y si tuviera labradores a
-    proporción, nada dexaria que desear, pues abunda con extremo en yucas dulces y amargas, de que
-    se hace el pan de cazave, en café, maíz, añil, algodón, algún cacao y mucho tabaco de excelente
-    calidad, que es de sus principales frutos y el que mantiene este ramo de la Real Hacienda,
-    enviándolo así en hoja, como labrado, en polvo y en cigarros, dándole la preferencia en toda
-        <Territory>Europa</Territory> a los otros que se cogen en las demás partes de la
-        <Territory>América</Territory>: lo más particular de este clima es, que en qualquier tiempo
-    del año se cogen exquisitas verduras y delicadas frutas en sazón de las de
+        <Territory>Europa</Territory> cada año más de un millón de arrobas, tan estimada y de buena
+    calidad, que sin refinarla iguala a la de <Territory>Holanda</Territory> y de
+        <Territory>Francia</Territory>, además de la crecidísima cantidad que se gasta en hacer
+    delicados dulces, que también envia en considerable porción a <Territory>España</Territory> y a
+    varias partes de <Territory>América</Territory>; 982
+        <Concept_Structure>hatos</Concept_Structure> de ganado mayor, 617
+        <Concept_Structure>corrales</Concept_Structure> para cerdos, 350 <Concept_Structure>po <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0697@@@ <zbr/>
+        <zbr/>#treros</Concept_Structure> para cebar animales, 1881 <Concept_Structure>sitios de
+        labranza</Concept_Structure> y 5933 <Concept_Structure>estancias</Concept_Structure> de
+    labor: y si tuviera labradores a proporción, nada dexaria que desear, pues abunda con extremo en
+    yucas dulces y amargas, de que se hace el pan de cazave, en café, maíz, añil, algodón, algún
+    cacao y mucho tabaco de excelente calidad, que es de sus principales frutos y el que mantiene
+    este ramo de la Real Hacienda, enviándolo así en hoja, como labrado, en polvo y en cigarros,
+    dándole la preferencia en toda <Territory>Europa</Territory> a los otros que se cogen en las
+    demás partes de la <Territory>América</Territory>: lo más particular de este clima es, que en
+    qualquier tiempo del año se cogen exquisitas verduras y delicadas frutas en sazón de las de
         <Territory>Europa</Territory> y regionales del <Concept_Territory>País</Concept_Territory>,
     entre las quaIes se estima sobre todo la pina: los campes son deliciosos y tan saludables, que
     los enfermos van a ellos a convalecer: no se encuentra en toda la
@@ -57,7 +57,7 @@
     se ahorcaron ellos al principio de la conquista hostigados de la dureza de los primeros
     pobladores: hoy los naturales son los más activos e industriosos de todas las
         <Concept_Landmark>Islas</Concept_Landmark>
-    <Territory>Antillas</Territory>: las mugeres, aunque no tienen el color de las Europeas, son
+    <Landmark>Antillas</Landmark>: las mugeres, aunque no tienen el color de las Europeas, son
     hermosas, vivas, afables y de agudo ingenio, dominadas de la virtud, de la hospitalidad y de una
     suma generosidad: la primera <Concept_Settlement>población</Concept_Settlement> de esta
         <Concept_Landmark>Isla</Concept_Landmark> fue <Settlement>Baracoa</Settlement>, hecha por
@@ -71,27 +71,28 @@
         <Concept_Territory>Provincias</Concept_Territory> de la <Territory>Luisiana</Territory> y la
         <Territory>Movila</Territory>, y siempre se ha mirado como un destino de la mayor confianza
     y utilidad, empleando en él Oficiales Generales de las mayores circunstancias y méritos, y en su
-    vacante ocupa el Teniente de Rey de la <Territory>Habana</Territory> por <zbr/>
+    vacante ocupa el Teniente de Rey de la <Settlement>Habana</Settlement> por <zbr/>
     <zbr/>@@@Alcedo_vol_1-0698@@@ <zbr/>
-    <zbr/>#privilegio la <Concept_Territory>Capitanía</Concept_Territory> General con el
+    <zbr/>#privilegio la <Concept_Territory>Capitanía General</Concept_Territory> con el
         <Concept_Territory>Gobierno</Concept_Territory>: toda la
-        <Concept_Landmark>Isla</Concept_Landmark> es una Diócesis, comprehendiendo su
+        <Concept_Landmark>Isla</Concept_Landmark> es una
+        <Concept_Territory>Diócesis</Concept_Territory>, comprehendiendo su
         <Concept_Territory>jurisdicción</Concept_Territory> las
         <Concept_Territory>Provincias</Concept_Territory> de la <Territory>Luisiana</Territory> y el
-    titulo de las de la <Territory>Florida</Territory> y <Concept_Landmark>Isla</Concept_Landmark>
+    título de las de la <Territory>Florida</Territory> y <Concept_Landmark>Isla</Concept_Landmark>
     de <Territory>Jamayca</Territory>; es Sufragáneo del
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santo Domingo</Territory>,
     erigido en <Settlement>Baracoa</Settlement> el año de 1518, y trasladado a
         <Settlement>Cuba</Settlement> por Bula del Pontífice <persName>Adriano VI</persName> el de
     1522; cuenta 25 <Concept_District>Parroquias</Concept_District>, 90 Iglesias, 52
         <Concept_District>Curatos</Concept_District>, 23 Conventos, 3 Colegios y 22 Hospitales: el
-    año de 1763 conduxéron de San Agustín de la <Territory>Florida</Territory> unos enjambres de
+    año de 1763 conduxéron de <Settlement>San Agustín de la Florida</Settlement> unos enjambres de
     abejas, y han cundido tanto, que después de alumbrarse en todas las casas de comodidad con la
     cera blanca que producen, y con##sumir mucha en las Iglesias para el culto divino, se extragéron
     el año de 1776 en solo el <Concept_Landmark>Puerto</Concept_Landmark> de la
         <Settlement>Habana</Settlement> 12.550 arrobas, de tan buena calidad como la de
-        <Settlement>Venecia</Settlement>: aunque la <Concept_Settlement>Capital</Concept_Settlement> de la
-        <Concept_Landmark>Isla</Concept_Landmark> es la
+        <Settlement>Venecia</Settlement>: aunque la <Concept_Settlement>Capital</Concept_Settlement>
+    de la <Concept_Landmark>Isla</Concept_Landmark> es la
         <Concept_Settlement>Ciudad</Concept_Settlement> del mismo nombre, se mira hoy como la
     principal la <Settlement>Habana</Settlement>, en que reside el Gobernador y Capitán General, por
     la excelencia de su <Concept_Landmark>Puerto</Concept_Landmark> y demás qualidades, de que
@@ -109,7 +110,8 @@
         <zbr/><Settlement>S. Felipe y Santiago</Settlement>. <zbr/><Settlement>San Juan de los
         Remedios</Settlement>. <zbr/><Settlement>Santi Espiritus</Settlement>.
         <zbr/><Settlement>Santa Clara</Settlement>. <zbr/><Settlement>Guanavacoa</Settlement>.
-        <zbr/><Settlement>Santiago de las Vegas</Settlement>. <zbr/>###___PUEBLOS___. <zbr/><Settlement>Consolación</Settlement>. <zbr/>
+        <zbr/><Settlement>Santiago de las Vegas</Settlement>. <zbr/>###___PUEBLOS___.
+        <zbr/><Settlement>Consolación</Settlement>. <zbr/>
     <Settlement>Los Pinos</Settlement>. <zbr/><Settlement>Baxa</Settlement>.
         <zbr/><Settlement>Mántua</Settlement>. <zbr/><Settlement>Guacamaro</Settlement>.
         <zbr/><Settlement>Las Tuscas</Settlement>. <zbr/><Settlement>Yara</Settlement>.
@@ -123,8 +125,8 @@
     <zbr/>##<Settlement>Tiguabos</Settlement>. <zbr/><Settlement>El Prado</Settlement>.
         <zbr/><Settlement>Moron</Settlement>. <zbr/><Settlement>San Miguel</Settlement>.
         <zbr/><Settlement>El Cano</Settlement>. <zbr/><Settlement>Managua</Settlement>.
-        <zbr/><Settlement>Guines</Settlement>. <zbr/><Settlement>Río Blanco</Settlement>. 
-    <zbr/>###<Settlement>Guamutas</Settlement>. <zbr/><Settlement>Alvarez</Settlement>.
+        <zbr/><Settlement>Guines</Settlement>. <zbr/><Settlement>Río Blanco</Settlement>.
+        <zbr/>###<Settlement>Guamutas</Settlement>. <zbr/><Settlement>Alvarez</Settlement>.
         <zbr/><Settlement>Hanavana</Settlement>. <zbr/><Settlement>Macuriges</Settlement>.
         <zbr/><Settlement>Guanajay</Settlement>. <zbr/><Settlement>El Ciego</Settlement>.
         <zbr/><Settlement>Cacarajicaras</Settlement>. <zbr/><Settlement>Pinal del Río</Settlement>.
@@ -140,20 +142,21 @@
     Predicador de su Religión; murió el año de 1538. <zbr/>3 Don Fray <persName>Juan de
         Flándes</persName>, natural de este <Concept_Territory>País</Concept_Territory>, Religioso
     del Orden de Santo Domingo; dexó el <Concept_Territory>Obispado</Concept_Territory> por haberlo
-    nombrado Confesor de la Reyna de <Territory>Francia</Territory> Doña Leonor, y le sucedió
-    <zbr/>4 Don Fray Miguel Ramírez de <Settlement>Salamanca</Settlement>, natural de
-        <Settlement>Burgos</Settlement>, del Orden de Santo Domingo, Maestro en su Religión,
-    Predicador del Emperador <persName>Carlos V</persName>, Colegial en el Colegio de
-        <Settlement>San Gregorio de Valladolid</Settlement>, Regente, en la Universidad de
-        <Territory>Lobayna</Territory> y Obispo de <Territory>Cuba</Territory> en 1539. <zbr/>5 Don
-        <persName>Fray Diego Sarmiento</persName>, natural de <Settlement>Burgos</Settlement>,
-    Religioso Cartuxo, Prior del Convento de <Settlement>Santa María de las Cuevas</Settlement> de
-    Sevilla, electo Obispo el año de 1540, renunció el
+    nombrado Confesor de la Reyna de <Territory>Francia</Territory> Doña
+    <persName>Leonor</persName>, y le sucedió <zbr/>4 Don Fray <persName>Miguel Ramírez de
+        Salamanca</persName>, natural de <Settlement>Burgos</Settlement>, del Orden de Santo
+    Domingo, Maestro en su Religión, Predicador del Emperador <persName>Carlos V</persName>,
+    Colegial en el Colegio de San Gregorio de Valladolid, Regente, en la Universidad de
+        <Settlement>Lobayna</Settlement> y Obispo de <Territory>Cuba</Territory> en 1539. <zbr/>5
+    Don <persName>Fray Diego Sarmiento</persName>, natural de <Settlement>Burgos</Settlement>,
+    Religioso Cartuxo, Prior del Convento de Santa María de las Cuevas de
+        <Settlement>Sevilla</Settlement>, electo Obispo el año de 1540, renunció el
         <Concept_Territory>Obispado</Concept_Territory> después de hacer la Visita de toda la
         <Concept_Landmark>Isla</Concept_Landmark>, y volvió a <Territory>España</Territory>. <zbr/>6
     Don <persName>Fernando de Urango</persName>, natural de <Settlement>Azpeitia</Settlement> en
-    Guipúzcoa, Colegial del Colegio de San Bartolomé en <Settlement>Salamanca</Settlement>, Maestro
-    de Teología y Catedrático de ella, electo Obispo en 1551, murió el de 1556. <zbr/>
+        <Territory>Guipúzcoa</Territory>, Colegial del Colegio de San Bartolomé en
+        <Settlement>Salamanca</Settlement>, Maestro de Teología y Catedrático de ella, electo Obispo
+    en 1551, murió el de 1556. <zbr/>
     <zbr/>@@@Alcedo_vol_1-0700@@@ <zbr/>
     <zbr/>#7 Don <persName>Bernardino de Villalpando</persName>, hasta el año de 1569. <zbr/>8 Don
         <persName>Juan del Castillo</persName>, natural de la Orden en el
@@ -173,18 +176,18 @@
     <Territory>Española</Territory>, vino a <Territory>España</Territory> al Capítulo General, y fue
     electo Obispo de <Territory>Cuba</Territory> el año de 1602; intentó trasladar la Catedral a la
         <Settlement>Habana</Settlement>, y no lo pudo conseguir, visitó la
-        <Territory>Florida</Territory>, y fue promovido a la mitra de Goatemala en 1610. <zbr/>12
-    Don Fray <persName>Alonso Enriquez de Armendariz</persName>, del Orden de Nuestra Señora de la
-    Merced, natural de <Settlement>Navarra</Settlement>; fue Comendador de Granada, Obispo titular
-    de <Territory>Sidonia</Territory>, y nombrado para <Territory>Cuba</Territory> en 1610; escribió
-    de orden del Rey una Relación espiritual y temporal de su
-        <Concept_Territory>Obispado</Concept_Territory>, fue promovido al de
-        <Settlement>Mechoacán</Settlement> el año de 1624. <zbr/>13 Don Fray <persName>Gregorio de
+        <Territory>Florida</Territory>, y fue promovido a la mitra de
+        <Territory>Goatemala</Territory> en 1610. <zbr/>12 Don Fray <persName>Alonso Enriquez de
+        Armendariz</persName>, del Orden de Nuestra Señora de la Merced, natural de
+        <Territory>Navarra</Territory>; fue Comendador de Granada, Obispo titular de Sidonia, y
+    nombrado para <Territory>Cuba</Territory> en 1610; escribió de orden del Rey una Relación
+    espiritual y temporal de su <Concept_Territory>Obispado</Concept_Territory>, fue promovido al de
+        <Territory>Mechoacán</Territory> el año de 1624. <zbr/>13 Don Fray <persName>Gregorio de
         Alarcon</persName>, del Orden de San Agustín, electo el mismo año, murió en la navegación.
     <zbr/>14 Don <persName>León de Cervantes</persName>, natural de <Settlement>México</Settlement>,
     estudió en <Settlement>Salamanca</Settlement>, y fue Colegial en la Universidad de
-        <Settlement>Siguenza</Settlement>, Maestre Escuela de la Iglesia de <Territory>Santa
-        Fe</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, Comisario del Santo
+        <Settlement>Siguenza</Settlement>, Maestre Escuela de la Iglesia de <Settlement>Santa
+        Fe</Settlement> en el <Territory>Nuevo Reyno de Granada</Territory>, Comisario del Santo
     Oficio, Obispo de <Territory>Santa Marta</Territory>, y promovido a esta Silla el año de 1625, y <zbr/>
     <zbr/>@@@Alcedo_vol_1-0701@@@ <zbr/>
     <zbr/>#de ella a la de <Territory>Guadalaxara</Territory> el de 1631. <zbr/>15 Don Fray
@@ -195,13 +198,13 @@
         Zelaya Ocarriz</persName>, en 1645. <zbr/>17 Don <persName>Nicolás de la Torre</persName>,
     natural de <Settlement>México</Settlement>, Catedrático de Prima de Teología en su Universidad,
     Rector de ella 4 veces, Canónigo Penitenciario y Magistral de aquella Iglesia Metropolitana,
-    Capellán Mayor del Colegio de <Settlement>Nuestra Señora de la Caridad</Settlement>, Examinador
-    General del <Concept_Territory>Arzobispado</Concept_Territory>, y Visitador General de los
-    Conventos, presentado para Obispo de <Territory>Cuba</Territory> el año de 1646, murió el de
-    1652. <zbr/>18 Don <persName>Juan de Montiel</persName>, hasta el año de 1656. <zbr/>19 Don
-        <persName>Pedro de Reyna Maldonado</persName>, natural de <Settlement>Lima</Settlement>,
-    célebre Escritor, hasta el año de 1658. <zbr/>20 Don <persName>Juan de Santo Matia Saenz de
-        Mañosea</persName>, natural de <Settlement>México</Settlement>, Inquisidor de aquella
+    Capellán Mayor del Colegio de Nuestra Señora de la Caridad, Examinador General del
+        <Concept_Territory>Arzobispado</Concept_Territory>, y Visitador General de los Conventos,
+    presentado para Obispo de <Territory>Cuba</Territory> el año de 1646, murió el de 1652. <zbr/>18
+    Don <persName>Juan de Montiel</persName>, hasta el año de 1656. <zbr/>19 Don <persName>Pedro de
+        Reyna Maldonado</persName>, natural de <Settlement>Lima</Settlement>, célebre Escritor,
+    hasta el año de 1658. <zbr/>20 Don <persName>Juan de Santo Matia Saenz de Mañosea</persName>,
+    natural de <Settlement>México</Settlement>, Inquisidor de aquella
         <Concept_Settlement>Capital</Concept_Settlement>, electo el año de 1661, promovido a la
     Iglesia de <Territory>Guatemala</Territory> el de 1667. <zbr/>21 Don Fray <persName>Bernardo
         Alonso de los Ríos</persName>, del Orden de la Trinidad Calzada, hasta el año de 1670.
@@ -215,8 +218,8 @@
     hasta el año de 1730. <zbr/>28 Don Fray <persName>Gaspar de Molina y Oviedo</persName>, del
     Orden de San Agustín, electo el año de 1730, promovido antes de tomar posesión al
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Málaga</Territory>, al
-        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Consejo</Territory>, y luego
-    a la Púrpura. <zbr/>29 Don Fray <persName>Juan Laso de la Vega</persName> y Cansino, Reli <zbr/>
+        <Concept_Territory>Gobierno</Concept_Territory> del Consejo, y luego a la Púrpura. <zbr/>29
+    Don Fray <persName>Juan Laso de la Vega</persName> y Cansino, Reli <zbr/>
     <zbr/>@@@Alcedo_vol_1-0702@@@ <zbr/>
     <zbr/>#gioso del Orden de San Francisco, electo el mismo año de 1730. <zbr/>30 Don
         <persName>Pedro Agustín Morel de Santa Cruz</persName>, gobernó hasta el año de 1753.
@@ -229,13 +232,13 @@
     <zbr/>#1 Don <persName>Diego Velazquez</persName>, natural de <Settlement>Cuellar</Settlement>,
     Caballero del Orden de Santiago, Conquistador y Poblador de esta
         <Concept_Landmark>Isla</Concept_Landmark>, nombrado por el Almirante Don <persName>Cristóval
-        Colon</persName> el año de 1511, gobernó con grandes créditos hasta su muerte el de 15 24.2
-        <persName>Manuel de Roxas</persName>, natural de la misma
+        Colon</persName> el año de 1511, gobernó con grandes créditos hasta su muerte el de 1524.
+    <zbr/>2 <persName>Manuel de Roxas</persName>, natural de la misma
         <Concept_Settlement>Villa</Concept_Settlement> que su antecesor, por cuya muerte fue
     nombrado en su lucrar, en atención a los grandes créditos que habia adquirido en la Conquista de
     la <Concept_Landmark>Isla</Concept_Landmark> por la
-        <Concept_Territory>Audiencia</Concept_Territory> de <Territory>Santo Domingo</Territory>,
-    y confirmado por el Emperador el año de 1525 hasta 1538. <zbr/>3 <persName>Hernando de
+        <Concept_Territory>Audiencia</Concept_Territory> de <Territory>Santo Domingo</Territory>, y
+    confirmado por el Emperador el año de 1525 hasta 1538. <zbr/>3 <persName>Hernando de
         Soto</persName>, hasta 1539. <zbr/>4 El Licenciado <persName>Juan de Avila</persName>, hasta
     1545. <zbr/>5 El Licenciado <persName>Antonio de Chaves</persName>, hasta 1547. <zbr/>6 El
     Doctor <persName>Gonzalo Pérez Angulo</persName>, hasta 1549. <zbr/>7 <persName>Diego
@@ -277,8 +280,8 @@
     <zbr/>42 Don <persName>Diego Peñalosa</persName>, hasta 1725. <zbr/>
     <zbr/>@@@Alcedo_vol_1-0704@@@ <zbr/>
     <zbr/>#43 El Mariscal de Campo Don <persName>Juan Francisco Guemes y Horcasitas</persName>,
-    Coronel que habia sido del Regimiento de Infantería de Granada el año de 1734, hasta
-    1746, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> de
+    Coronel que habia sido del Regimiento de Infantería de <Settlement>Granada</Settlement> el año
+    de 1734, hasta 1746, que fue promovido al <Concept_Territory>Vireynato</Concept_Territory> de
         <Territory>México</Territory>. <zbr/>44 El Mariscal de Campo Don <persName>Francisco Antonio
         Tinco</persName>, Capitán del Regimiento de Guardias Españolas, Oficial de singulares
     qualidades, entró el referido año y murió a pocos días de su llegada. <zbr/>45 El Mariscal de
@@ -294,18 +297,18 @@
         <Territory>España</Territory>, Comendador de Reyna en la Orden de Santiago, Teniente General
     de los Reales Exércitos, nombrado para entregarse de la
         <Concept_Structure>Plaza</Concept_Structure> que devolvían los <humanGroup
-        type="political_group">Ingleses</humanGroup> en la paz, y fortificar el puesto de la
-        <Structure>Cabana</Structure>, como lo executó, volvió a <Territory>España</Territory> el año de 1765.
-    <zbr/>48 El Mariscal de Campo Don <persName>Diego Manrique</persName>, murió el mismo año a poco
-    tiempo de su llegada. <zbr/>49 Don <persName>Pasqual de Cisneros</persName>, Teniente General de
-    los Reales Exércitos, Gobernador interino dos veces. <zbr/>50 Don <persName>Antonio María
-        Bucareli, Bailio</persName>, del Orden de San Juan, Teniente General de los Reales Exércitos
-    el año de 1766, fue promovido a Virey de <Territory>México</Territory> el de 1771. <zbr/>51 El
-        <persName>Marqués de la Torre</persName>, Caballero del Orden de Santiago, Teniente General,
-    pasó siendo Gobernador de <Territory>Caracas</Territory> el año referido, y gobernó hasta el de
-    1777 que volvió a <Territory>España</Territory>. <zbr/>52 El Teniente General Don
-        <persName>Diego Joseph Navarro</persName>, que habia sido Capitán de Granaderos del
-    Regimiento de <zbr/>
+        type="political_group">Ingleses</humanGroup> en la paz, y fortificar el
+        <Concept_Structure>puesto</Concept_Structure> de la <Structure>Cabana</Structure>, como lo
+    executó, volvió a <Territory>España</Territory> el año de 1765. <zbr/>48 El Mariscal de Campo
+    Don <persName>Diego Manrique</persName>, murió el mismo año a poco tiempo de su llegada.
+    <zbr/>49 Don <persName>Pasqual de Cisneros</persName>, Teniente General de los Reales Exércitos,
+    Gobernador interino dos veces. <zbr/>50 Don <persName>Antonio María Bucareli, Bailio</persName>,
+    del Orden de San Juan, Teniente General de los Reales Exércitos el año de 1766, fue promovido a
+    Virey de <Territory>México</Territory> el de 1771. <zbr/>51 El <persName>Marqués de la
+        Torre</persName>, Caballero del Orden de Santiago, Teniente General, pasó siendo Gobernador
+    de <Territory>Caracas</Territory> el año referido, y gobernó hasta el de 1777 que volvió a
+        <Territory>España</Territory>. <zbr/>52 El Teniente General Don <persName>Diego Joseph
+        Navarro</persName>, que habia sido Capitán de Granaderos del Regimiento de <zbr/>
     <zbr/>@@@Alcedo_vol_1-0705@@@ <zbr/>
     <zbr/>#Guardias Españolas, y se hallaba exerciendo el
         <Concept_Territory>Gobierno</Concept_Territory> de la
@@ -327,8 +330,8 @@
         <Territory>Margarita</Territory> en 10 gr. 42 mín. de lat. bor. <zbr/>§§§id_04890§§§
     <zbr/>CUBAZ, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en
-    el <Territory>Brasil</Territory>, situado entre los <Concept_Landmark>ríos</Concept_Landmark>
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el
+        <Territory>Brasil</Territory>, situado entre los <Concept_Landmark>ríos</Concept_Landmark>
     <Landmark>Pedroza</Landmark> y <Landmark>Recisto</Landmark>. <zbr/>§§§id_04891§§§
     <zbr/>CUBIGIES, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -344,11 +347,11 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Bogotá</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, situado a orilla del
         <Concept_Landmark>río</Concept_Landmark>
-    <Territory>Bogotá</Territory>, donde da el célebre salto de <Landmark>Tequendama</Landmark>: es
-    de agradable clima, fértil y abundante de huertas y jardines, en que cultivan con particularidad
-    azucenas, de que hacen su principal grangería para adorno de las Iglesias de <Settlement>Santa Fe</Settlement>
-    y demás <Concept_Settlement>Pueblos</Concept_Settlement> inmediatos. <zbr/>§§§id_04894§§§
-    <zbr/>CUCAITA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+    <Landmark>Bogotá</Landmark>, donde da el célebre salto de <Landmark>Tequendama</Landmark>: es de
+    agradable clima, fértil y abundante de huertas y jardines, en que cultivan con particularidad
+    azucenas, de que hacen su principal grangería para adorno de las Iglesias de <Settlement>Santa
+        Fe</Settlement> y demás <Concept_Settlement>Pueblos</Concept_Settlement> inmediatos.
+    <zbr/>§§§id_04894§§§ <zbr/>CUCAITA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, situado en un ameno
@@ -373,9 +376,13 @@
     mayores que le tributan: sus naturales lo llaman Purús: es navegable, aunque en algunos parages
     tiene grandes peniscos: abunda mucho de peces de diferentes géneros y de tortugas: en sus
     orillas se cría mucho maíz y otros frutos: además de la <Concept_Group>nación</Concept_Group>
-    referida tiene las de Cumaiaris, Guaquiaris, Cuyaciyayanes, Curucurus, Quatausis, Mutuanis y
-    Curigueres: éstos últimos son agigantados, pues tienen 16 palmos de altura y son muy valerosos:
-    andan desnudos, con grandes patenas de oro ##en las narices y orejas: sus
+    referida tiene las de <humanGroup type="indigenous_group">Cumaiaris</humanGroup>, <humanGroup
+        type="indigenous_group">Guaquiaris</humanGroup>, <humanGroup type="indigenous_group"
+        >Cuyaciyayanes</humanGroup>, <humanGroup type="indigenous_group">Curucurus</humanGroup>,
+        <humanGroup type="indigenous_group">Quatausis</humanGroup>, <humanGroup
+        type="indigenous_group">Mutuanis</humanGroup> y <humanGroup type="indigenous_group"
+        >Curigueres</humanGroup>: éstos últimos son agigantados, pues tienen 16 palmos de altura y
+    son muy valerosos: andan desnudos, con grandes patenas de oro ##en las narices y orejas: sus
         <Concept_Settlement>Pueblos</Concept_Settlement> distan dos meses largos de navegación de la
     boca del <Concept_Landmark>río</Concept_Landmark>. <zbr/>§§§id_04897§§§ <zbr/>CUCHILLO, San
     Pedro del) <Concept_Settlement>Pueblo</Concept_Settlement> de la Misión que tienen los
@@ -389,9 +396,9 @@
         <Concept_Landmark>Río</Concept_Landmark> pequeño del
         <Concept_Territory>territorio</Concept_Territory> de <Territory>Cuyaba</Territory> en el
         <Territory>Brasil</Territory>: corre al N y entra en el de <Landmark>Camapoa</Landmark>: a
-    su orilla hay un parage llamado la <Landmark>Estancia</Landmark>, por donde pasan en hombros las canoas
-    los <humanGroup type="political_group">Portugueses</humanGroup> para penetrar por este último a
-    el <Settlement>Matogroso</Settlement>. <zbr/>§§§id_04900§§§ <zbr/>CUCHIPO,
+    su orilla hay un parage llamado la <Landmark>Estancia</Landmark>, por donde pasan en hombros las
+    canoas los <humanGroup type="political_group">Portugueses</humanGroup> para penetrar por este
+    último a el <Settlement>Matogroso</Settlement>. <zbr/>§§§id_04900§§§ <zbr/>CUCHIPO,
         <Concept_Landmark>Río</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
     del <Territory>Brasil</Territory> en el mismo <Concept_Territory>territorio</Concept_Territory>
     que el anterior: nace en la <Concept_Landmark>montaña</Concept_Landmark> y corre al O.
@@ -400,9 +407,10 @@
         <Concept_Territory>territorio</Concept_Territory> que los dos anteriores: nace en las
         <Concept_Landmark>montañas</Concept_Landmark> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Cayapos</humanGroup>: corre al NNO y entra en el de
-        <Landmark>Taquari</Landmark>. <zbr/>§§§id_04902§§§ <zbr/>CUCHIRIHUAY, Pue <zbr/>
-    <zbr/>@@@Alcedo_vol_1-0707@@@ <zbr/>
-    <zbr/>#blo de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Landmark>Taquari</Landmark>. <zbr/>§§§id_04902§§§ <zbr/>CUCHIRIHUAY,
+        <Concept_Settlement>Pue <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0707@@@ <zbr/>
+        <zbr/>#blo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chilques y
         Masques</Territory> en el <Territory>Perú</Territory>, anexo al
         <Concept_District>Curato</Concept_District> de <Settlement>Pampacucho</Settlement>.
@@ -454,7 +462,7 @@
     <zbr/>§§§id_04910§§§ <zbr/>CUCUCHUCHAU, San Pedro de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera</Concept_Settlement> de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Cocupaó</Settlement> y
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Cocupao</Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>
     en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado
@@ -474,7 +482,7 @@
         <Landmark>Romana</Landmark>, enfrente de la <Concept_Landmark>Isla</Concept_Landmark>
     <Territory>Catalina</Territory>. <zbr/>§§§id_04913§§§ <zbr/>CUCUNUBA,
         <Concept_Settlement>Pueblo</Concept_Settlement> del
-        <Concept_Territory>Corregimiento</Concept_Territory> de la <Territory>bate</Territory> en el
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Ubate</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>: es de temperamento frío, y produce los frutos
     de este clima: tiene más de 100 familias de vecindario, y 80 <humanGroup type="social_group"
         >Indios</humanGroup>: está 9 leguas al N de <Settlement>Santa Fe</Settlement>.
@@ -496,9 +504,9 @@
     del <Territory>Perú</Territory>, que corre por el <Concept_Territory>País</Concept_Territory> de
     los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Canisienes</humanGroup> a Levante de los
-        <Settlement>Andes</Settlement>: abunda de pescado de muy buena calidad, que sirve de
-    alimento a los bárbaros: corre a Levante, y entra muy crecido con las aguas que recoge de otros
-    en el de <Landmark>Santa Rosa</Landmark>. <zbr/>§§§id_04917§§§ <zbr/>CUCUTA, San Joseph de)
+        <Landmark>Andes</Landmark>: abunda de pescado de muy buena calidad, que sirve de alimento a
+    los bárbaros: corre a Levante, y entra muy crecido con las aguas que recoge de otros en el de
+        <Landmark>Santa Rosa</Landmark>. <zbr/>§§§id_04917§§§ <zbr/>CUCUTA, San Joseph de)
         <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Concept_Territory>Gobierno</Concept_Territory> y
         <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Pamplona</Territory> en el
@@ -551,12 +559,10 @@
         ##<Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Tocayma</Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, situado en un gran
-        <Concept_Landmark>valle</Concept_Landmark> que llaman el
-        <Landmark>Llano
-    Grande</Landmark>, donde se cría muchísimo ganado vacuno, y a orilla del
-        <Concept_Landmark>río</Concept_Landmark> de su nombre, que entra luego en el de
-        <Landmark>Saldaña</Landmark>, y abunda de pescado: es de temperamento cálido, produce mucho
-    cacao, tabaco, maíz, yucas, plátanos, y en las arenas del
+        <Concept_Landmark>valle</Concept_Landmark> que llaman el <Landmark>Llano Grande</Landmark>,
+    donde se cría muchísimo ganado vacuno, y a orilla del <Concept_Landmark>río</Concept_Landmark>
+    de su nombre, que entra luego en el de <Landmark>Saldaña</Landmark>, y abunda de pescado: es de
+    temperamento cálido, produce mucho cacao, tabaco, maíz, yucas, plátanos, y en las arenas del
         <Concept_Landmark>río</Concept_Landmark> abundancia de oro: tiene 700 <humanGroup
         type="social_group">vecinos</humanGroup> y poco más de 80 <humanGroup type="social_group"
         >Indios</humanGroup>; está 40 leguas al SO de <Settlement>Santa Fe</Settlement>.
@@ -579,26 +585,28 @@
     tapices, que allí llaman paños de Corte, primorosamente trabajados, y se estiman tanto, que no
     hay casa principal y de conveniencias en todo el <Concept_Territory>Reyno</Concept_Territory>
     que no los tenga: riéganla quatro <Concept_Landmark>ríos</Concept_Landmark> caudalosos, llamados
-        <Landmark>Yanuncay</Landmark>, <Landmark>Machangara</Landmark>, Baños y
+        <Landmark>Yanuncay</Landmark>, <Landmark>Machangara</Landmark>, <Landmark>Baños</Landmark> y
         <Landmark>Turnebamba</Landmark>, a quien llaman también del Matadero, y es el mayor: tiene
     abundancia de quina y cochinilla de que cogen cosecha, y la emplean para el tinte de bayetas,
     que pasan por las mejores que se fabrican en toda la <Territory>América</Territory>, como los
     cueros curtidos y cordovanes; en fin, es muy rica de todo, y no tuviera que envidiar a otra
     alguna, si sus <humanGroup type="social_group">naturales</humanGroup>, a quienes dan en las
-    demás el nombre de Morlacos, no fueran altivos, cabilosos y alborotadores, más inclinados al
-    ocio y a las ##diversiones que al trabajo: <zbr/>§§§id_04926§§§ <zbr/>La
-        <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre con la advocación de
-    Santa Ana, fundada por <persName>Gil Ramírez Davalos</persName> el año de 1557 en el
-        <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Yunquilla</Landmark>, celebrado por
-    su amenidad, fertilidad y abundancia, que tiene seis leguas y media de largo y otras tantas de
-    ancho en medio de la <Concept_Landmark>serranía</Concept_Landmark>, de donde salen quatro
-        <Concept_Landmark>ríos</Concept_Landmark> grandes que lo riegan, llamados: el primero,
-        <Landmark>Machangara</Landmark>, que corre al S de la
+    demás el nombre de <humanGroup type="indigenous_group">Morlacos</humanGroup>, no fueran altivos,
+    cabilosos y alborotadores, más inclinados al ocio y a las ##diversiones que al trabajo:
+    <zbr/>§§§id_04926§§§ <zbr/>La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo
+    nombre con la advocación de Santa Ana, fundada por <persName>Gil Ramírez Davalos</persName> el
+    año de 1557 en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Yunquilla</Landmark>,
+    celebrado por su amenidad, fertilidad y abundancia, que tiene seis leguas y media de largo y
+    otras tantas de ancho en medio de la <Concept_Landmark>serranía</Concept_Landmark>, de donde
+    salen quatro <Concept_Landmark>ríos</Concept_Landmark> grandes que lo riegan, llamados: el
+    primero, <Landmark>Machangara</Landmark>, que corre al S de la
         <Concept_Settlement>Ciudad</Concept_Settlement>, muy inmediato a ella: el segundo al N,
-    llamado del Matadero, también arrimado a la <Concept_Settlement>población</Concept_Settlement>:
-    el tercero <Settlement>Yanuncay</Settlement>, a distancia de medio quarto de legua; y el quarto
-    de <Settlement>Baños</Settlement>, de todos los quales unidos se forma uno muy caudaloso, que después toma el
-    nombre de Paute; tiene en sus contornos minerales de oro y plata: es
+    llamado del <Landmark>Matadero</Landmark>, también arrimado a la
+        <Concept_Settlement>población</Concept_Settlement>: el tercero
+    <Landmark>Yanuncay</Landmark>, a distancia de medio quarto de legua; y el quarto de
+        <Landmark>Baños</Landmark>, de todos los quales unidos se forma uno muy caudaloso, que
+    después toma el nombre de <Landmark>Paute</Landmark>; tiene en sus contornos
+        <Concept_Structure>minerales</Concept_Structure> de oro y plata: es
         <Concept_Settlement>Ciudad</Concept_Settlement> grande y una de las más hermosas del
         <Concept_Territory>Reyno</Concept_Territory>: la Iglesia Parroquial, que se erigió en
     Catedral y Cabeza de <Concept_Territory>Obispado</Concept_Territory> de la
@@ -611,7 +619,7 @@
     suntuosos, cómodos y bien servidos, todos los quales son muy buenos edificios: las calles están
     tiradas a cordel, y el temperamento es benigno, templado y sano, abundante de carnes y de
     quantos frutos, legumbres, hortalizas y frutas se pueden apetecer: hacen unos quesos muy
-    grandes, semejantes a los de <Territory>Parma</Territory>, que llevan de regalo a
+    grandes, semejantes a los de <Settlement>Parma</Settlement>, que llevan de regalo a
         <Settlement>Lima</Settlement>, <Settlement>Quito</Settlement> y otros parages: el azúcar que
     labran en gran cantidad es finísima y estimada, como las conservas de varias frutas, y llaman
     caxetas de <Settlement>Cuenca</Settlement>: pocos años hace que se estableció una fábrica de
@@ -619,8 +627,8 @@
     mejores y más útiles de la <Concept_Settlement>Ciudad</Concept_Settlement>: en su
         <Concept_Territory>territorio</Concept_Territory> al Mediodía está la altura de
         <Settlement>Tarqui</Settlement>, célebre por ser el sitio donde formaron la base de la
-        Meridiana los Académicos de las Ciencias de Pa##rís Mr.
-        <persName>Godin</persName>, <persName>Bouger</persName> y <persName>la Condamine</persName>,
+    Meridiana los Académicos de las Ciencias de <Settlement>Pa##rís</Settlement> Mr.
+        <persName>Godin</persName>, <persName>Bouger</persName> y la <persName>Condamine</persName>,
     ayudados de Don <persName>Jorge Juan</persName> y Don <persName>Antonio de Ulloa</persName>, que
     los acompañaban el año de 1742: esta <Concept_Settlement>Ciudad</Concept_Settlement> es muy
     propensa a tempestades, que se forman de repente quando el Cielo está sereno, con terribles
@@ -637,7 +645,7 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Angaraez</Territory> en
     el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
-        <Settlement>conayca</Settlement>, en su <Concept_District>distrito</Concept_District> hay un
+        <Settlement>Conayca</Settlement>, en su <Concept_District>distrito</Concept_District> hay un
         <Concept_Landmark>manantial</Concept_Landmark> de agua caliente que sale hirviendo. <zbr/>
     <zbr/>@@@Alcedo_vol_1-0712@@@ <zbr/>§§§id_04928§§§ <zbr/>#CUENCAMÉ, San Antonio de)
         <Concept_Settlement>Villa</Concept_Settlement> de la
@@ -651,7 +659,7 @@
         <Concept_Settlement>Capital</Concept_Settlement>
     <Settlement>Guadiana</Settlement> y 24 de <Settlement>Durango</Settlement>. <zbr/>§§§id_04929§§§
     <zbr/>CUENCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Trrindaro</Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tirindaro</Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>
     en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado
@@ -666,11 +674,11 @@
     del <Concept_Landmark>valle</Concept_Landmark> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zultepec</Territory> en <Territory>Nueva
         España</Territory>: tiene 53 familias de <humanGroup type="social_group"
-    >Indios</humanGroup>. <zbr/>§§§id_04931§§§ <zbr/>CUERNO, Isla del) o de los Cuernos,
-    en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
+    >Indios</humanGroup>. <zbr/>§§§id_04931§§§ <zbr/>CUERNO, Isla del) o de los Cuernos, en la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Florida</Territory>, entre la
-    Del##fina, y la de Navios. <zbr/>§§§id_04932§§§ <zbr/>CUERO,
-        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Landmark>Del##fina</Landmark>, y la de <Landmark>Navios</Landmark>. <zbr/>§§§id_04932§§§
+    <zbr/>CUERO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Riobamba</Territory> en
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, algunos lo
@@ -710,13 +718,13 @@
         <Concept_Settlement>Real de Minas</Concept_Settlement> de
     <Settlement>Chiguagua</Settlement>. <zbr/>§§§id_04938§§§ <zbr/>CUGUI,
         <Concept_Landmark>Río</Concept_Landmark> pequeño del partido de
-        <Settlement>Toltén-baxo</Settlement> en el <Concept_Territory>Reyno</Concept_Territory> de
-        <Territory>Chile</Territory>: corre al N, y entra en el do <Landmark>Toltén</Landmark>.
+        <Territory>Toltén-baxo</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Chile</Territory>: corre al N, y entra en el río <Landmark>Toltén</Landmark>.
     <zbr/>§§§id_04939§§§ <zbr/>CUJENA, Caño de) <Concept_Landmark>Brazo</Concept_Landmark> del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Negro</Landmark> en el <Concept_Territory>País</Concept_Territory> de las
         <Territory>Amazonas</Territory>: corre casi al S, y se comunica con el de
-        <Landmark>Parimé</Landmark>. <zbr/>§§§id_04940§§§ <zbr/>CUJILLOS,
+        <Landmark>Parime</Landmark>. <zbr/>§§§id_04940§§§ <zbr/>CUJILLOS,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Jaen de Bracamoros</Territory>
@@ -788,7 +796,7 @@
         <Concept_Settlement>Capital</Concept_Settlement> es el
         <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, en que habitan 125
     familias de <humanGroup type="social_group">Indios</humanGroup>
-    <humanGroup type="indigenous_group">Cuícatecos</humanGroup>, que cultivan mucho maíz, fríxoles y
+    <humanGroup type="indigenous_group">Cuicatecos</humanGroup>, que cultivan mucho maíz, fríxoles y
     algodón: está 70 leguas al Oriente con alguna inclinación al S de
         <Settlement>México</Settlement>; los demás <Concept_Settlement>Pueblos</Concept_Settlement>
     de este <Concept_District>distrito</Concept_District> son: <zbr/>
@@ -833,7 +841,7 @@
         <Concept_Landmark>Isla</Concept_Landmark> que hay en la
         <Concept_Landmark>laguna</Concept_Landmark> referida: es de muy corto comercio, porque solo
     produce maíz, fríxoles y chile, y una especie de peces en que abundan ambas
-        <Concept_Landmark>lagunas</Concept_Landmark> y llaman charaes.La
+        <Concept_Landmark>lagunas</Concept_Landmark> y llaman charaes. La
         <Concept_Settlement>Capital</Concept_Settlement> es el
         <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, situado en frente de la
         <Concept_Landmark>Isla</Concept_Landmark> que forma la
@@ -860,19 +868,20 @@
     conductos subterráneos del <Concept_Landmark>monte</Concept_Landmark>
     <zbr/>
     <zbr/>@@@Alcedo_vol_1-0716@@@ <zbr/>
-    <zbr/>#Cota-cache, que siempre está cubierto de nieve: en medio de este
+    <zbr/>#<Landmark>Cota-cache</Landmark>, que siempre está cubierto de nieve: en medio de este
         <Concept_Landmark>lago</Concept_Landmark> se elevan dos
         <Concept_Landmark>Colinas</Concept_Landmark>, que parecen dos
         <Concept_Landmark>Isletas</Concept_Landmark> muy hermosas, la una está cubierta de árboles y
     de ciervos y cabras monteses, y la otra de una yerva que llaman pajón, donde hay muchos conejos
     de Indias, que en el idioma del <Concept_Territory>País</Concept_Territory> llaman Cuy, de donde
-    le viene el nombre de Cuy-cocha, que quiere decir <Concept_Landmark>Laguna</Concept_Landmark> de
-    Conejos de Indias: el agua que corre entre las dos <Concept_Landmark>Islas</Concept_Landmark>
-    forma un <Concept_Landmark>canal</Concept_Landmark> de 3.000 brazas: pertenece esta
-        <Concept_Landmark>laguna</Concept_Landmark> a la noble familia de los <humanGroup
-        type="indigenous_group">Chiribogas</humanGroup> de <Settlement>Quito</Settlement>, y está en 19 mín. de
-    lat. bor. <zbr/>§§§id_04954§§§ <zbr/>CUILAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de
-    la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+    le viene el nombre de Cuy-cocha, que quiere decir <Landmark>Laguna de Conejos de
+        Indias</Landmark>: el agua que corre entre las dos
+        <Concept_Landmark>Islas</Concept_Landmark> forma un
+        <Concept_Landmark>canal</Concept_Landmark> de 3.000 brazas: pertenece esta
+        <Concept_Landmark>laguna</Concept_Landmark> a la noble familia de los Chiribogas de
+        <Settlement>Quito</Settlement>, y está en 19 mín. de lat. bor. <zbr/>§§§id_04954§§§
+    <zbr/>CUILAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Ygualapa</Territory> en <Territory>Nueva
         España</Territory>, distante medio quarto de legua de su
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_04955§§§ <zbr/>Tiene el mismo
@@ -911,16 +920,15 @@
         <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de la <Concept_Settlement>Villa</Concept_Settlement> de
         <Territory>León</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Me</Territory>
-    <zbr/>
-    <zbr/>@@@Alcedo_vol_1-0717@@@ <zbr/>
-    <zbr/>#choacan: tiene 83 familias de <humanGroup type="social_group">Indios</humanGroup> que se
-    ocupan en las sementeras de maíz y cultivo de muchas frutas: está muy inmediato a su
-        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_04960§§§ <zbr/>CUITES,
-        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de
-    la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa de Nueva
-        España</Territory>. <zbr/>§§§id_04961§§§ <zbr/>CUITI,
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Me <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0717@@@ <zbr/>
+        <zbr/>#choacan</Territory>: tiene 83 familias de <humanGroup type="social_group"
+        >Indios</humanGroup> que se ocupan en las sementeras de maíz y cultivo de muchas frutas:
+    está muy inmediato a su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_04960§§§
+    <zbr/>CUITES, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los
+    Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory> de
+        <Territory>Nueva España</Territory>. <zbr/>§§§id_04961§§§ <zbr/>CUITI,
         <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y
@@ -958,15 +966,15 @@
         <Territory>Nuevo Reyno de Granada</Territory>, anexo al
         <Concept_District>Curato</Concept_District> de <Settlement>Oiba</Settlement>: está entre los
     del <Settlement>Socorro</Settlement> y de <Settlement>Charala</Settlement>. <zbr/>§§§id_04966§§§
-    <zbr/>CULAUI, <Concept_Landmark>Río</Concept_Landmark> de la
-        <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Laxa</Landmark> en el
-        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>: corre al O
-    formando un arco entre los de <Landmark>Huaque</Landmark> y <Landmark>Duqueco</Landmark> y entra
-    en el de <Landmark>Biobio</Landmark>. <zbr/>§§§id_04967§§§ <zbr/>CULCHE,
-        <Concept_Settlement>Pueblo de Indios</Concept_Settlement> del
-        <Concept_District>Partido</Concept_District> de <Territory>Guadalabquen</Territory> y
-        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado en la
-    Cabecera del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Valdivia</Landmark>.
+    <zbr/>CULAUI, <Concept_Landmark>Río</Concept_Landmark> de la <Territory>Isla de la
+        Laxa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Chile</Territory>: corre al O formando un arco entre los de
+        <Landmark>Huaque</Landmark> y <Landmark>Duqueco</Landmark> y entra en el de
+        <Landmark>Biobio</Landmark>. <zbr/>§§§id_04967§§§ <zbr/>CULCHE, <Concept_Settlement>Pueblo
+        de Indios</Concept_Settlement> del <Concept_District>Partido</Concept_District> de
+        <Territory>Guadalabquen</Territory> y <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Chile</Territory>, situado en la Cabecera del
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Valdivia</Landmark>.
     <zbr/>§§§id_04968§§§ <zbr/>CULEBRAS, Río de) en la <Concept_Landmark>Costa</Concept_Landmark> de
     la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Costarica</Territory> del
@@ -1010,7 +1018,7 @@
         <Concept_Landmark>Ensenada</Concept_Landmark> de <Landmark>Panamá</Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: es
-    una de las que forman con la de <Territory>Perico</Territory> el
+    una de las que forman con la de <Landmark>Perico</Landmark> el
         <Concept_Landmark>Puerto</Concept_Landmark> de este nombre <zbr/>§§§id_04975§§§ <zbr/>CAL DE
     SAC o Callejón, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_District>Parroquia</Concept_District> de los <humanGroup type="political_group"
@@ -1064,9 +1072,8 @@
         <Concept_Territory>Provincia</Concept_Territory> son: <zbr/>
     <zbr/>ßßß <zbr/>#<Settlement>Cozela</Settlement>
     <Concept_Settlement>Real de Minas</Concept_Settlement>.
-    <zbr/>##<Settlement>Tacuchameta</Settlement>. 
-    <zbr/><Settlement>Buya</Settlement>. 
-    <zbr/>###<Settlement>Binapa</Settlement>. <zbr/><Settlement>Baita</Settlement>. <zbr/>
+        <zbr/>##<Settlement>Tacuchameta</Settlement>. <zbr/><Settlement>Buya</Settlement>.
+        <zbr/>###<Settlement>Binapa</Settlement>. <zbr/><Settlement>Baita</Settlement>. <zbr/>
     <zbr/>$$$ <zbr/>§§§id_04980§§§ <zbr/>#Tiene el mismo nombre un
         <Concept_Landmark>río</Concept_Landmark> de esta
         <Concept_Territory>Provincia</Concept_Territory> que divide su
@@ -1087,10 +1094,11 @@
     orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Apalachicola</Landmark>. <zbr/>§§§id_04983§§§ <zbr/>CULLUAI,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Territory>Provincia</Concept_Territory> Corregimien##to de
-        <Territory>Canta</Territory> en el <Territory>Perú</Territory>, anexo al
-        <Concept_District>Curato</Concept_District> de <Settlement>San Buenaventura</Settlement>.
-    <zbr/>§§§id_04984§§§ <zbr/>CULLUE, <Concept_Landmark>Laguna</Concept_Landmark> grande la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimien##to</Concept_Territory> de <Territory>Canta</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>San Buenaventura</Settlement>. <zbr/>§§§id_04984§§§ <zbr/>CULLUE,
+        <Concept_Landmark>Laguna</Concept_Landmark> grande la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el
         <Territory>Perú</Territory>, que forma dos <Concept_Landmark>senos</Concept_Landmark>
@@ -1146,7 +1154,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> y del <Concept_Landmark>Cabo</Concept_Landmark>
     de su nombre. <zbr/>§§§id_04993§§§ <zbr/>Este está también en la misma
         <Concept_Territory>Capitanía</Concept_Territory> entre una barra y la
-        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Cábelo de Velha</Landmark>.
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Cabelo de Velha</Landmark>.
     <zbr/>§§§id_04994§§§ <zbr/>La barra referida que es una
         <Concept_Landmark>peña</Concept_Landmark> que sale al
         <Concept_Landmark>mar</Concept_Landmark> a la entrada del
