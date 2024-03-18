@@ -1,589 +1,1218 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_2-0478@@@<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Magdalena</Settlement>. <zbr/>
-<Settlement>Oconahua</Settlement>. <zbr/>
-##<Settlement>San Juan</Settlement>. <zbr/>
-<Settlement>Amatlán</Settlement>. <zbr/>
-###<Settlement>Izatlán</Settlement>. <zbr/>
-<Settlement>San Marcos</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_08095§§§<zbr/>
-#Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de partido</Concept_Settlement> de esta <Concept_Territory>jurisdicción</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory>, situado a orilla de una <Concept_Landmark>laguna</Concept_Landmark> o <Concept_Landmark>ciénega</Concept_Landmark>; tiene un Convento de Religiosos de San Francisco. <zbr/>
-<zbr/>
-§§§id_08096§§§<zbr/>
-IZCATLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuicatlán</Territory> en <Territory>Nueva España</Territory>, es de temperamento frío y seco, tiene 83 familias de <humanGroup type="social_group">Indios</humanGroup>, y pertenece al <Concept_District>Curato</Concept_District> de <Settlement>Cuistlahuaca</Settlement> en la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Yanguitlan</Territory>; produce bastante grana y algodón de que fabrican sus naturales unas mantas que llaman de Oaxaca, y de uno y otro hacen un lucroso comercio: está 12 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08097§§§<zbr/>
-IZHUATLAN, S. Christóval de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de la <Territory>Guayacocotla</Territory> en <Territory>Nueva España</Territory>, tiene 466 familias de <humanGroup type="social_group">Indios</humanGroup> <humanGroup type="indigenous_group">Otomies</humanGroup>, inclusos los que habitan los <Concept_Settlement>barrios</Concept_Settlement> o <Concept_Structure>ranchos</Concept_Structure> de su <Concept_District>distrito</Concept_District>. <zbr/>
-<zbr/>
-§§§id_08098§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre, que es un <Concept_Settlement>barrio</Concept_Settlement> ##pequeño, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Tamapachi</Settlement>, en la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guauchinango</Territory> del mismo <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
-<zbr/>
-§§§id_08099§§§<zbr/>
-IZQUINTIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Suchitepec</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>. <zbr/>
-<zbr/>
-§§§id_08100§§§<zbr/>
-IZQUINTENANGO, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
-<zbr/>
-§§§id_08101§§§<zbr/>
-IZQUINTLAPILCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Octupam</Territory> en <Territory>Nueva España</Territory>. <zbr/>
-<zbr/>
-§§§id_08102§§§<zbr/>
-IZTAHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Caxititlán</Territory> en <Territory>Nueva España</Territory>, distante 4 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08103§§§<zbr/>
-IZTACOMITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de los <Territory>Zoques</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
-<zbr/>
-§§§id_08104§§§<zbr/>
-IZTACOSTE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
-<zbr/>
-§§§id_08105§§§<zbr/>
-IZTAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
-<zbr/>
-§§§id_08106§§§ <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0479@@@<zbr/>
-<zbr/>
-#Otro hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Capabanastla</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
-<zbr/>
-§§§id_08107§§§<zbr/>
-IZTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>S. Salvador</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que los antecedentes. <zbr/>
-<zbr/>
-§§§id_08108§§§<zbr/>
-IZUCAR, <Concept_Territory>Jurisdicción</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nueva España</Territory>, es por la mayor ##parte de terreno montuoso, áspero y estéril, y solo produce cortas cosechas de granos y semillas; era antes más reducida, y por su escasez se agregaron a su <Concept_Territory>jurisdicción</Concept_Territory> las de <Territory>Aguatlán</Territory> y <Territory>Teopantlan</Territory>, que son muy pobres: sin embargo tiene suficiente población en los <Concept_Settlement>Pueblos</Concept_Settlement> siguientes. <zbr/>
-<zbr/>
-ßßß<zbr/>
-<Settlement>San Lucas de Culucan</Settlement>. <zbr/>
-<Settlement>Santa María de la Asunción</Settlement>. <zbr/>
-<Settlement>San Martín de Alchichica</Settlement>. <zbr/>
-##<Settlement>S. Juan de Epatlán</Settlement>. <zbr/>
-<Settlement>Tepexoxuma</Settlement>. <zbr/>
-<Settlement>Tepapayeca</Settlement>. <zbr/>
-<Settlement>Chietlán</Settlement>. <zbr/>
-<Settlement>S. Nicolás Tenexcalco</Settlement>. <zbr/>
-###<Settlement>Aguatlán</Settlement>. <zbr/>
-<Settlement>Telipán</Settlement>. <zbr/>
-<Settlement>Ahuatelco</Settlement>. <zbr/>
-<Settlement>Ahuehuezingo</Settlement>. <zbr/>
-<Settlement>Santiago Azalán</Settlement>. <zbr/>
-<Settlement>Teopantlán</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_08109§§§<zbr/>
-#Tiene el mismo nombre el <Concept_Settlement>Pueblo Capital</Concept_Settlement> de esta <Concept_Territory>jurisdicción</Concept_Territory>, situado a la falda de un <Concept_Landmark>volcán</Concept_Landmark>; es de temperamento cálido y seco; tiene dos <Concept_District>Parroquias</Concept_District>, una de <humanGroup type="social_group">Españoles</humanGroup> y otra de <humanGroup type="social_group">Indios</humanGroup>: en la primera hay 240 familias de aquellos, y de algunos <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, la segunda es admi##nistrada por los Religiosos de Santo Domingo, y contiene 94 familias de <humanGroup type="social_group">Indios</humanGroup> que llaman Forasteros, y 850 de <humanGroup type="indigenous_group">Mexicanos</humanGroup> en los <Concept_Settlement>barrios</Concept_Settlement> de su <Concept_District>distrito</Concept_District>, que llegan a diez y seis: está 31 leguas al S de <Settlement>México</Settlement>, en 274 gr. 15 min. de long. y en 18 gr. 50 min. de lat. <zbr/>
-<zbr/>
-§§§id_08110§§§<zbr/>
-#JAAYA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre muy caudaloso al Sur, y entra en el <Landmark>Putumayo</Landmark> en el <Concept_Territory>territorio</Concept_Territory> ##de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Arianas</humanGroup>. <zbr/>
-<zbr/>
-§§§id_08111§§§<zbr/>
-JACABIRA, <Concept_Landmark>Río</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> que el anterior, nace en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Cuma</humanGroup><zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0480@@@<zbr/>
-<zbr/>
-#yaris, entre los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Cuchivara</Landmark> y de la <Landmark>Madera</Landmark>, corre al E, y entra en el último. <zbr/>
-<zbr/>
-§§§id_08112§§§<zbr/>
-JABARABA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>río Jeneyro</Territory> en el <Territory>Brasil</Territory>, situada en la Cabecera del <Concept_Landmark>río</Concept_Landmark> <Landmark>Paraibuna</Landmark>. <zbr/>
-<zbr/>
-§§§id_08113§§§<zbr/>
-JACAIBAMBA, <Concept_Landmark>Laguna</Concept_Landmark> grande del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Canta</Territory>, se forma del <Concept_Landmark>río</Concept_Landmark> <Landmark>Carabaillo</Landmark> que corre a Poniente, y desagua al <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark>, al N de <Settlement>Lima</Settlement>. <zbr/>
-<zbr/>
-§§§id_08113a§§§<zbr/>
-JACAPATOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08114§§§<zbr/>
-JACARAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el <Territory>Brasil</Territory>, sisuado al OSO de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Jambute</Settlement>. <zbr/>
-<zbr/>
-§§§id_08115§§§<zbr/>
-JACARE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al NNO, y entra en el de la <Landmark>Madera</Landmark>, entre los de <Landmark>Macacipa</Landmark> y <Landmark>Giparana</Landmark>. <zbr/>
-<zbr/>
-§§§id_08116§§§<zbr/>
-S. JACINTO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado en las <Concept_Landmark>montañas</Concept_Landmark> del <Concept_District>partido</Concept_District> de <Settlement>María</Settlement>, una de las <Concept_Settlement>Poblaciones</Concept_Settlement> que formó el año de 1776. el Gobernador Don <persName>Francisco Pimienta</persName>. <zbr/>
-<zbr/>
-§§§id_08117§§§<zbr/>
-##Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory>, situado a orilla de un <Concept_Landmark>río</Concept_Landmark> pequeño que entra en el de <Landmark>Matazán</Landmark>. <zbr/>
-<zbr/>
-§§§id_08118§§§<zbr/>
-Otro de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la <Concept_Settlement>Villa</Concept_Settlement> del <Concept_Territory>Marquesado</Concept_Territory> del <Territory>Valle</Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro Villas</Territory> en <Territory>Nueva España</Territory> tiene 58 familias de <humanGroup type="social_group">indios</humanGroup> que comercian en trigo, grana, maíz, frutas, maderas, cal, carbón y leña, que son los frutos que produce: está una legua al NNO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08119§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> en el <Territory>Brasil</Territory>, situado a la orilla del O del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Topayos</Landmark>, cerca de su boca o salida al de las <Landmark>Amazonas</Landmark>. <zbr/>
-<zbr/>
-§§§id_08120§§§<zbr/>
-JACHAL, <Concept_Settlement>Villa</Concept_Settlement> pequeña de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuyo</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada al N de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement> S. Juan</Settlement>. <zbr/>
-<zbr/>
-§§§id_08120a§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de esta <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory>, nace a la parte del N en la <Concept_Landmark>Cordillera</Concept_Landmark>, corre al Oriente, y se consume en unas <Concept_Landmark>lagunas</Concept_Landmark> por falta de inclinación del terreno. <zbr/>
-<zbr/>
-§§§id_08121§§§<zbr/>
-JACKMAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, situado en la parte del Sur. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0481@@@<zbr/>
-<zbr/>
-§§§id_08122§§§<zbr/>
-#JACKSOMBURG, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Georgia</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Pompón</Landmark>, cerca de su salida al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_08123§§§<zbr/>
-JACKSONS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Virginia</Territory> en el <Concept_Territory>Condado</Concept_Territory> de <Territory>Albemarle</Territory>, corre al NO, y entra en la Cabecera del de <Landmark>James</Landmark>. <zbr/>
-<zbr/>
-§§§id_08124§§§<zbr/>
-JACO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Puerto Seguro</Territory> en el <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark> entre el de los <Landmark>Frayles</Landmark> y el <Concept_Landmark>monte</Concept_Landmark> <Landmark>Pasqual</Landmark>. <zbr/>
-<zbr/>
-§§§id_08125§§§<zbr/>
-Tiene el mismo nombre una <Concept_Landmark>Bahía</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> del propio <Concept_Territory>Reyno</Concept_Territory>, entre el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Guarahú</Landmark> y la <Concept_Landmark>peña</Concept_Landmark> de <Landmark>Porcelados</Landmark>. <zbr/>
-<zbr/>
-§§§id_08126§§§<zbr/>
-JACOBINS, Río de los) o de los <humanGroup type="religious_group">Dominicos</humanGroup>, en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Guadalupe</Territory>, nace en sus <Concept_Landmark>montañas</Concept_Landmark>, corre al O, y sale al <Concept_Landmark>mar</Concept_Landmark> entre los de <Landmark>Baillif</Landmark> y de <Landmark>Herbes</Landmark>. <zbr/>
-<zbr/>
-§§§id_08127§§§<zbr/>
-S. JACOBO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory> en <Territory>Nueva España</Territory>, situado cerca de la <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Rosario</Settlement>. <zbr/>
-<zbr/>
-§§§id_08128§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la <Concept_Landmark>Isla</Concept_Landmark> de la <Territory>Trinidad</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del N, con un fuerte ##construido para su defensa, <zbr/>
-<zbr/>
-§§§id_08129§§§<zbr/>
-JACOME, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Barcelona</Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace al S del <Concept_Landmark>Valle</Concept_Landmark> de la <Landmark>Pasqua</Landmark>, y se une con el de <Landmark>Santiago</Landmark> para entrar en el de <Landmark>Marapire</Landmark>. <zbr/>
-<zbr/>
-§§§id_08130§§§<zbr/>
-JACORE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al NNO, y entra en el de la <Landmark>Madera</Landmark>, al lado del de <Landmark>Aripuana</Landmark>. <zbr/>
-<zbr/>
-§§§id_08131§§§<zbr/>
-S. JACQUES, o Santiago) <Concept_Landmark>Islas</Concept_Landmark> de) cerca de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Territory>país</Concept_Territory> del <Territory>Labrador</Territory> en el <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>S. Lorenzo</Landmark>, entre las de <Landmark>Chanel</Landmark> y de <Landmark>Esquimales</Landmark>. <zbr/>
-<zbr/>
-§§§id_08132§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> que corre al N, y entra en el <Concept_Landmark>lago</Concept_Landmark> <Landmark>Superior</Landmark>. <zbr/>
-<zbr/>
-§§§id_08133§§§<zbr/>
-Una <Concept_Landmark>ensenada</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del N en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Martinica</Territory>, entre el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Santa María</Settlement> y el Pilón de <Landmark>Azúcar</Landmark> o Pain du <Landmark>Sucre</Landmark>. <zbr/>
-<zbr/>
-§§§id_08134§§§<zbr/>
-JACUADA, <Concept_Landmark>Río</Concept_Landmark> del <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Tocantines</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> y <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, corre al N, y por la parte austral entra en el <Landmark>Guanapú</Landmark>, después de unirse con un <Concept_Landmark>brazo</Concept_Landmark> del <Landmark>Marañon</Landmark> llamado <Landmark>Tagipu</Landmark><zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0482@@@<zbr/>
-<zbr/>
-#ru: está su entrada en 2 gr. 31 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_08135§§§<zbr/>
-JACUNDA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al N en el <Concept_Territory>territorio</Concept_Territory> de los <humanGroup type="political_group">Portugueses</humanGroup>, entre los de <Landmark>Tocantines</Landmark> y <Landmark>Pacajas</Landmark>, y entra al <Landmark>Marañon</Landmark> en el <Concept_Landmark>brazo</Concept_Landmark> que forma la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Joanes</Landmark> o <Landmark>Marajo</Landmark>. <zbr/>
-<zbr/>
-§§§id_08136§§§<zbr/>
-JACUARON, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el <Territory>Brasil</Territory>, corre al S, luego tuerce su curso ál E, y desagua en la <Concept_Landmark>laguna</Concept_Landmark> del <Landmark>Miní</Landmark>. <zbr/>
-<zbr/>
-§§§id_08137§§§<zbr/>
-JACURA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Guaique</Landmark>, al E de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. <zbr/>
-<zbr/>
-§§§id_08138§§§<zbr/>
-JADAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado entre las <Concept_Landmark>montañas</Concept_Landmark> que están al E de aquella <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08139§§§<zbr/>
-JAECES, <Concept_Group>Nación bárbara de Indios</Concept_Group>, descendiente de los <humanGroup type="indigenous_group">Scimigaes</humanGroup>, que vive en las <Concept_Landmark>selvas</Concept_Landmark> de los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Tigre</Landmark> y <Landmark>Curaray</Landmark>. <zbr/>
-<zbr/>
-§§§id_08140§§§<zbr/>
-JAEN, de Bracamoros) <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, confina al N con el <Concept_Territory>territorio</Concept_Territory> de Zamora de la de <Territory>Loxa</Territory>, al Poniente con la de <Territory>Piura</Territory>, ##al Mediodía con el <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, y a Levante con los <Concept_Landmark>bosques</Concept_Landmark> y <Concept_Territory>país</Concept_Territory> de los <humanGroup type="indigenous_group">Xivaros</humanGroup>; la descubrió <persName>Pedro de Vergara</persName>, enviado por <persName>Gonzalo Pizarro</persName> el año de 1538, y la conquistó poco después <persName>Juan de Salinas</persName>, que fue su primer Gobernador; llamábase en aquel tiempo Silla y Chacaigna, o Igualsongo y Pacarñoros, que conservó muchos años, hasta que sublevados los Indios de ambos <Concept_Territory>territorios</Concept_Territory> destruyeron las principales <Concept_Settlement>Poblaciones</Concept_Settlement>, agregándose las pocas que quedaron casi un siglo después a la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Jaen</Settlement>, que dio denominación a esta <Concept_Territory>Provincia</Concept_Territory>, y corrompidos los vocablos de sus primeros nombres quedaron en Yaguarsingo y Bracamoros; es de temperamento muy templado, abundante en algodón, de que hacen muy buenos texidos, como en cacao, qué es de excelente calidad, cera silvestre y tabaco, cuyos frutos conduce por la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Piura</Territory> y sus <Concept_Landmark>valles</Concept_Landmark> a <Territory>Lima</Territory> y al <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, donde los venden con sobrada estimación; cría en sus potreros bastantes mulas y ganados, tiene ricas <Concept_Landmark>minas</Concept_Landmark> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0483@@@<zbr/>
-<zbr/>
-#oro, aunque no de la mejor calidad, y lavaderos en que cogen los Indios porciones considerables; en sus <Concept_Landmark>bosques</Concept_Landmark> abundan las fieras y animales silvestres, como tigres, leopardos, osos y dantas, que allí llaman gran bestia, y habitan en los parages fríos de la <Concept_Landmark>Cordillera</Concept_Landmark>; riéganla los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Guancobamba</Landmark>, <Landmark>Chinchipe</Landmark>, <Landmark>Paracassa</Landmark>, <Landmark>Turumbasa</Landmark>, <Landmark>Numballe</Landmark>, <Landmark>Palanda</Landmark>, ##<Landmark>Simanchi</Landmark>, <Landmark>Sangalla</Landmark> y <Landmark>San Francisco</Landmark>, que divide el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory> del de <Territory>Truxillo</Territory>; su <Concept_Settlement>Población</Concept_Settlement> es muy corta, reducida a las <Concept_Settlement>Ciudades</Concept_Settlement> de <Settlement>Jaen</Settlement>, <Settlement>Loyola</Settlement>, <Settlement>Valladolid</Settlement> y <Settlement>Santiago de las montañas</Settlement>, que impropiamente tienen aquel título, pues todas son unos <Concept_Settlement>Pueblos</Concept_Settlement> quasi destruidos y miserables como los restantes de su Población, que son los siguientes, <zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>San Joseph</Settlement>, <zbr/>
-<Settlement>Chito</Settlement>, <zbr/>
-<Settlement>Sander</Settlement>, <zbr/>
-<Settlement>Charape</Settlement>, <zbr/>
-##<Settlement>Pucará</Settlement>, <zbr/>
-<Settlement>Chinchipe</Settlement>, <zbr/>
-<Settlement>Chirinos</Settlement>, <zbr/>
-###<Settlement>Pomaca</Settlement>, <zbr/>
-<Settlement>Tomependa</Settlement>, <zbr/>
-<Settlement>Chucchunga</Settlement>, <zbr/>
-$$$<zbr/>
-por las continuas invasiones de los infieles a que está muy expuesta. <zbr/>
-<zbr/>
-§§§id_08141§§§<zbr/>
-La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre; está fundada en un <Concept_Landmark>llano</Concept_Landmark> rodeado de <Concept_Landmark>montes</Concept_Landmark> que llaman de <Landmark>Clachimayo</Landmark> por el Capitán <persName>Diego Palomino el año</persName> de 1549, y a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Chinchipe</Landmark> o <Landmark>Guancabamba</Landmark> en la parte oriental; es de buen temperamento, abundante en frutos, y de mucho comercio, porque es paso preciso del correo que baxa de la <Concept_Landmark>sierra</Concept_Landmark> a <Settlement>Piura</Settlement> para seguir por los <Concept_Landmark>valles</Concept_Landmark> a <Settlement>Lima</Settlement>; y sin embargo está tan des##tituida, que aunque su vecindario consta de 4.000 habitantes son casi todos <humanGroup type="social_group">gente de color</humanGroup>, y muy pocos <humanGroup type="social_group">Españoles</humanGroup>: está 150 leguas de <Settlement>Quito</Settlement>, y 60 de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Loxa</Settlement>, en 5 gr. 25 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_08142§§§<zbr/>
-JAGUA, Grande) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del N, cerca del de <Landmark>Nizao</Landmark>. <zbr/>
-<zbr/>
-§§§id_08143§§§<zbr/>
-Otro hay con el sobrenombre de Chica, para distinguirlo del anterior, en la misma <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Landmark>Costa</Concept_Landmark> situado entre él y la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Matanzas</Landmark>. <zbr/>
-<zbr/>
-§§§id_08144§§§<zbr/>
-JAGUARIBE, <Concept_Landmark>Río</Concept_Landmark> de la <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0484@@@<zbr/>
-<zbr/>
-#<Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al N, y sale al <Concept_Landmark>mar</Concept_Landmark>, junto a la <Concept_Landmark>ensenada</Concept_Landmark> de <Landmark>Ubarana</Landmark>. <zbr/>
-<zbr/>
-§§§id_08145§§§<zbr/>
-JAGUEYES, <Concept_Landmark>Ensenada</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Perú</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory>, junto al <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Malabrigo</Landmark>. <zbr/>
-<zbr/>
-§§§id_08146§§§<zbr/>
-JAHUYAY, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace enel <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Cocamas</humanGroup> de cabezas chatas, corre al N, y entra en el <Landmark>Marañon</Landmark>, frente del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>San Joaquín de los Omaguas</Settlement>. <zbr/>
-<zbr/>
-§§§id_08147§§§<zbr/>
-JAIBA, <Concept_Landmark>Laguna</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, que se forma de un <Concept_Landmark>desagüe</Concept_Landmark> de este <Concept_Landmark>río</Concept_Landmark> a su orilla por la vanda del O. <zbr/>
-<zbr/>
-§§§id_08147a§§§<zbr/>
-Otro estero hay con este nombre en la <Concept_Landmark>Costa</Concept_Landmark> del O de la <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Puna</Landmark>, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory>. <zbr/>
-<zbr/>
-§§§id_08148§§§<zbr/>
-S. JAIME <Concept_Landmark>Isla</Concept_Landmark> de) en el <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, muy inmediata a la <Concept_Landmark>Costa</Concept_Landmark> del Sur, entre la de <Landmark>Ruperts</Landmark>, y el <Concept_Landmark>monte</Concept_Landmark> del <Landmark>Pan de Azúcar</Landmark>. <zbr/>
-<zbr/>
-§§§id_08149§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Guanapalo</Landmark>, cerca de la boca ##donde entra en el <Landmark>Apure</Landmark>. <zbr/>
-<zbr/>
-§§§id_08150§§§<zbr/>
-JAINA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del S, a orilla del <Concept_Landmark>río</Concept_Landmark> de su nombre. <zbr/>
-<zbr/>
-§§§id_08150a§§§<zbr/>
-Este nace en las <Concept_Landmark>montañas</Concept_Landmark> del <Landmark>Sur</Landmark>, corre al mismo rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> entre el de <Landmark>Nigua</Landmark> y la <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08151§§§<zbr/>
-Otro hay en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Abacaris</humanGroup>, corre al E, y torciendo luego al NNE, después de un dilatado curso de muchas leguas, entra en el de <Landmark>Juraena</Landmark>. <zbr/>
-<zbr/>
-§§§id_08152§§§<zbr/>
-JALAHUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Latani</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 113 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 22 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08153§§§<zbr/>
-JALAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado al frente del de <Landmark>Sabanilla</Landmark>. <zbr/>
-<zbr/>
-§§§id_08154§§§<zbr/>
-JALCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y Chillaos</Territory> en el <Territory>Perú</Territory>, es de temperamento muy frío. <zbr/>
-<zbr/>
-§§§id_08155§§§<zbr/>
-JALOMBO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
-<zbr/>
-§§§id_08156§§§<zbr/>
-JALOSTOTITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera del <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0485@@@<zbr/>
-<zbr/>
-#partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Lagos</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Galicia</Territory>, está 12 leguas al O, y 1/2 al SO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08157§§§<zbr/>
-JALTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Jahuibe</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, es de temperamento cálido, tiene 18 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 23 leguas de la <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08158§§§<zbr/>
-JAMA, <Concept_Landmark>Río</Concept_Landmark> grande de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, corre al Poniente, y no lexos del <Concept_Landmark>mar</Concept_Landmark> tuerce su curso al NO, y sale al <Concept_Landmark>mar</Concept_Landmark> <Landmark>Pacífico</Landmark> formando la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Cara</Landmark> en 7 min. 30 seg. de lat. aust. <zbr/>
-<zbr/>
-§§§id_08159§§§<zbr/>
-Otro <Concept_Landmark>río</Concept_Landmark> pequeño hay del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> del <Concept_District>partido</Concept_District> de <Territory>Puerto Viejo</Territory>, corre formando un semicírculo, y sale al <Concept_Landmark>mar</Concept_Landmark> detrás de la <Concept_Landmark>punta</Concept_Landmark> de la <Landmark>Ballena</Landmark>. <zbr/>
-<zbr/>
-§§§id_08160§§§<zbr/>
-JAMAYCA, <Concept_Landmark>Isla</Concept_Landmark> grande de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las <Territory>Antilles</Territory> mayores descubierta por el Almirante <persName>Christóval Colon</persName> el año de 1494 en su segundo viage, que la mudó el nombre en el de Santiago, que conservó mientras estuvo en ##poder de los <humanGroup type="political_group">Españoles</humanGroup>, pero le perdió el año de 1655 que los <humanGroup type="political_group">Ingleses</humanGroup> la tomaron con una poderosa Esquadra destinada por el Protector <persName>Cromuel</persName>, a la orden del Almirante <persName>Penn</persName>, y del Coronel <persName>Venables</persName> que mandaba las tropas de desembarco para atacar la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, de donde fueron rechazados: después la cedieron los <humanGroup type="social_group">Españoles</humanGroup> a estos, y no tenía entonces más que 3.000 habitantes, inclusos 1500 <humanGroup type="social_group">Negros esclavos</humanGroup>, sin más comercio que las piraterías que hacían en las <Concept_Landmark>Costas</Concept_Landmark> de los <humanGroup type="political_group">Españoles</humanGroup>; pero después de la restauración del Rey <persName>Carlos II</persName> al Trono de <Territory>Inglaterra</Territory> se aumentó su Población al número de 18.000 habitantes, que empezaron a cultivar cacao, cañas de azúcar y <Concept_Landmark>salinas</Concept_Landmark>, aumentándose de modo que hoy es una de las <Concept_Territory>Colonias</Concept_Territory> más fértil, rica y comerciante de quantas hay en la <Territory>América</Territory>; es la <Concept_Landmark>Isla</Concept_Landmark> mayor de las <Territory>Antilles</Territory>, exceptuando las de <Territory>Cuba</Territory> y <Territory>Santo Domingo</Territory>; ocupa desde 17 gr. hasta 18 y 27 min. de lat. y de 76 a 79 de long. tiene 140 millas de largo de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Negrillo</Landmark> al <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0486@@@<zbr/>
-<zbr/>
-#O hasta la de <Landmark>Morante</Landmark> al E, y 60 en su mayor anchura de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Gallina</Landmark> al N hasta la de <Landmark>Portland</Landmark> al S, y forma la figura de un óvalo; su situación es la más ventajosa para el comercio, distante 36 leguas al S de la de <Territory>Cuba</Territory>, y 39 al O de <Settlement>Santo Domingo</Settlement>, con la comodidad de tener 16 <Concept_Landmark>Bahías</Concept_Landmark> grandes, y 30 <Concept_Landmark>Puertos</Concept_Landmark> o parages donde anclar seguramente las embarcaciones: está dividida por una cadena de <Concept_Landmark>montañas</Concept_Landmark> que corren toda la <Concept_Landmark>Isla</Concept_Landmark> E O, y la parte occidental llaman <Concept_Landmark>montañas</Concept_Landmark> azules, de donde nacen innumerables <Concept_Landmark>ríos</Concept_Landmark> abundantes de toda especie de pescado, y muchos de ellos son navegables en canoas, por donde conducen el azúcar de las <Concept_Structure>plantaciones</Concept_Structure> a la <Concept_Landmark>Costa</Concept_Landmark>: estas <Concept_Landmark>montañas</Concept_Landmark> están llenas de árboles de más de cien especies diferentes, particularmente cedros, lignum vitae, y caoba; están siempre verdes, y forman hermosos <Concept_Landmark>bosques</Concept_Landmark>: unas son de más altura que otras, y está variedad con los árboles y las <Concept_Structure>plantaciones</Concept_Structure> forman de lexos una agradable perspectiva: algunos de los <Concept_Landmark>ríos</Concept_Landmark> mudan ##su curso y el nombre después de alguna tempestad, y otros corren debaxo de tierra muchas leguas: el célebre D. <persName>Sloane</persName> cuenta más de 106 que con más propiedad se pueden llamar torrentes, pues corren pocas millas antes de salir al <Concept_Landmark>mar</Concept_Landmark>, arrastran grandes piedras, maderos, y mucha arena o tierra que enturbia el agua, y algunos tienen saltos de 50 u 60 pies de alto; el agua de las fuentes distantes del <Concept_Landmark>mar</Concept_Landmark> se prefiere allí a la de los <Concept_Landmark>ríos</Concept_Landmark>, y particularmente cerca de <Settlement>Puerto Real</Settlement>, donde es gruesa, y ocasiona cursos y otras enfermedades a los que la beben; hay varias fuentes y <Concept_Landmark>ríos</Concept_Landmark> en que el agua petrifica los conductos, y impide su curso: el <Concept_Landmark>río</Concept_Landmark> de más consideración de éstos es el de la <Concept_Structure>plantación</Concept_Structure> de <Structure>Abraham</Structure>, al N de la <Concept_Landmark>Isla</Concept_Landmark>: cerca de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Morante</Landmark>, a la parte del E, hay en un <Concept_Landmark>bosque</Concept_Landmark> un baño de agua caliente que bebida y bañándose en ella cura los cólicos, enfermedad muy común allí: casi dos millas del <Concept_Landmark>mar</Concept_Landmark> nacen de una <Concept_Landmark>montaña</Concept_Landmark> diferentes <Concept_Landmark>arroyos</Concept_Landmark> salados que se unen y forman el <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Sal</Landmark>; ésta <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0487@@@<zbr/>
-<zbr/>
-#se hace en estanques donde entra el agua del <Concept_Landmark>mar</Concept_Landmark>, cuya humedad exâlada por el calor del Sol dexa mucha abundancia de sal, particularmente cerca de la <Concept_Landmark>Bahía</Concept_Landmark> <Landmark>Vieja</Landmark>, y aunque no es muy blanca ni granada se cogen pedazos grandes: hay también varias <Concept_Landmark>lagunas</Concept_Landmark>, y la que llaman <Landmark>Río-hoa</Landmark> recibe mucha cantidad de agua de un <Concept_Landmark>río</Concept_Landmark> cuyo curso no es visible. El clima de <Territory>Jamayca</Territory> es más templado y vario que en las otras <Concept_Landmark>Islas</Concept_Landmark>, y no hay <Concept_Territory>país</Concept_Territory> situado entre los Trópicos donde el calor sea menos molesto, porque el viento que regularmente sopla del E, y llaman briza, con freqüencia trae lluvia, y refresca las noches: hacia el E y el O no es tan agradable como al S y al N por los espesos <Concept_Landmark>bosques</Concept_Landmark> que hay en aquellas, y la hacen más sujeta a tempestades de vientos y aguas, y en los parages montuosos es más frío el ayre, aunque por lo común llueve en Enero; sin embargo Mayo y Octubre o Noviembre se conocen por los meses de Invierno a causa de las tempestades de truenos y lluvias, que algunas veces duran mu##chos días sin intermisión, inundando el terreno, y dexando intransitables los caminos: todo el año hace un calor excesivo por la mañana hasta las ocho que empieza a correr la briza, llamada por la gente común el Doctor, porque mientras dura trabajan los <humanGroup type="social_group">Negros</humanGroup> en el campo, y cada uno hace sus dependencias: este viento viene del <Concept_Landmark>mar</Concept_Landmark> como si fuera humo, se va aumentando hasta las doce que tiene mayor fuerza, y dura hasta las dos o las tres que empieza a baxar, y a las cinco cesa hasta la mañana siguiente: a las ocho de la noche se levanta la briza de tierra que se extiende 4 leguas a la <Concept_Landmark>mar</Concept_Landmark>, y continúa aumentándose hasta las doce que empieza a ceder, y a las quatro de la mañana se acaba; la primera es más fuerte unas veces que otras, particularmente en los plenilunios, y en Diciembre, Enero y Febrero que reynan los Nortes soplan con violencia entre las montanas y la confunden, menos cerca del <Concept_Landmark>mar</Concept_Landmark>, como en <Settlement>Puerto Real</Settlement> y fuerte del Paso, que tiene más fuerza y duración; y al contrario la de tierra se <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0488@@@<zbr/>
-<zbr/>
-#experimenta más tarde en la <Concept_Settlement>Ciudad</Concept_Settlement> que en los parages dichos: como los vientos entre los Trópicos no vienen directamente del E, si no que varían del NE al SE según la posición del Sol, la briza de <Concept_Landmark>mar</Concept_Landmark> tiene aquí la misma variación porque no viene siempre del mismo punto, lo qual no sucede a la de tierra que viene siempre de las <Concept_Landmark>montañas</Concept_Landmark> de la parte del S y del N, algunas veces aquella sopla en los meses de Invierno catorce días y noches seguidos, y entonces no hay nube alguna, y solo cae rocío, y esto no sucede quando corren Nortes; en los <Concept_Landmark>valles</Concept_Landmark> que hay entre las <Concept_Landmark>montañas</Concept_Landmark> no tienen influencia estas brizas, pero los Nortes arrancan los árboles: como el viento de tierra es por la noche, y el del <Concept_Landmark>mar</Concept_Landmark> de día, solo en éste pueden entrar al <Concept_Landmark>Puerto</Concept_Landmark> las embarcaciones, y salir de él en aquella: los Nortes son más freqüentes quando el Sol está más cerca del Trópico de Capricornio, y por consequencia más al S; es muy frío, mal sano, y más fuerte por la noche que se le añade el terral; seca las ##cañas de azúcar y todos los vegetables que hay en la parte del N; pero en la del S le cortan su fuerza las <Concept_Landmark>montañas</Concept_Landmark>, y rara vez trae lluvias: las tempestades apenas se conocían en esta <Concept_Landmark>Isla</Concept_Landmark> hasta 70 ú 80 años hace que los terribles huracanes y terremotos han hecho mucho daño en ella, y en las embarcaciones. Las noches son muy frescas, en ellas cae un rocío que se tiene por enfermo con especialidad para las gentes recién llegadas a el <Concept_Territory>país</Concept_Territory>; pero en las <Concept_Landmark>llanuras</Concept_Landmark> y <Concept_Landmark>Playas</Concept_Landmark> cerca del <Concept_Landmark>mar</Concept_Landmark> no es así, las lluvias son violentas, y las mareas apenas se distinguen porque su creciente y menguante depende de los vientos. Los días y las noches son quasi iguales todo el año, y el mayor tiene trece horas, y la noche once, no durando el crepúsculo más que tres quartos de hora. Los meses de Julio, Agosto y Setiembre llaman allí a los huracanes, porque apenas hay año en que no se experimente alguno. Los vientos fuertes del N traen tempestades con granizo y grandes relámpagos casi toda la noche, pero sin true<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0489@@@<zbr/>
-<zbr/>
-#nos, y quando los hay son terribles. Los terremotos son tan comunes como en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, y han hecho considerables daños, como sucedió en los años de 1687 y 1692, y poco después un incendio que arruinó casi toda la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Puerto Real</Settlement>, que no se ha vuelto a reedificar; pero aún son todavía más temibles allí los huracanes, como el que experimentaron el año de 1712, y otro que vino acompañado de un terremoto el de 1722. Los <Concept_Landmark>valles</Concept_Landmark> que hay en esta <Concept_Landmark>Isla</Concept_Landmark> son muy llanos, sin piedras: las <Concept_Landmark>montañas</Concept_Landmark> están escarpadas, y algunas inaccesibles por estar circundadas de <Concept_Landmark>barrancos</Concept_Landmark> muy profundos y torrentes que forman las lluvias: solo una parte de ella está cultivada, y si lo fuera toda podría producir tres veces más que ahora: en toda ella hay <Concept_Structure>plantaciones</Concept_Structure>, pero ninguna lexos de la <Concept_Landmark>Costa</Concept_Landmark>: en algunos parages es tan fértil el terreno que una aranzada de tierra da cañas para hacer mucha azúcar: se hallan prados y <Concept_Landmark>llanuras</Concept_Landmark> en que los Indios sembraban maíz, y después los <humanGroup type="political_group">Españoles</humanGroup> criaban ga##nados, porque el pasto crecía tanto que se veían precisados a quemarlo. Las producciones naturales de esta <Concept_Landmark>Isla</Concept_Landmark> son azúcar, rum, jenjibre, algodón, café, añil, pimienta, cacao, maderas de diferentes especies, drogas medicinales, y tabaco, pero éste de mala calidad, y solo se cultiva para los <humanGroup type="social_group">Negros</humanGroup> que lo estiman mucho; no produce ningún género de grano de <Territory>Europa</Territory> si no maíz, trigo de Guinéa, chícharos de varias especies; las frutas de que abunda son naranjas de china, limones agrios y dulces, cidras, granadas, mameyes, papas, pinas, guayas, melones, sandías, varios géneros de peras y manzanas, pero éstas no son como las de <Territory>Europa</Territory>, no se dan si no en tal qual parage, como en los jardines donde a fuerza de cultivo y de cuidado se dan toda especie de frutas y hortalizas. Además de lo dicho tienen canela silvestre muy útil para la medicina; manzanilla, cuyo árbol es de la más hermosa vista, y su madera primorosa para adornos, pero el fruto y el jugo del árbol muy venenoso; la caoba tan usada entre los <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0490@@@<zbr/>
-<zbr/>
-#<humanGroup type="political_group">Ingleses</humanGroup> para todo que el año de 1770 importó su extracción 50.000 libras esterlinas o 300 mil pesos; la palma, de que sacan mucho aceyte estimado por los <humanGroup type="social_group">Negros</humanGroup> así para el alimento como para la medicina; el leño blanco que se usa para embarcaciones porque no le entra la carcoma; el árbol de xabón, cuyo fruto tiene la misma virtud que éste para lavar; el palo colorado y el de Campeche para los tintes, sin que falte el guayacán, zarzaparrilla, china, casca, tamarindos, aloes y cochinilla, de cuyos frutos saca al año la siguiente utilidad: de azúcar 100.000 arrobas, 30.000 azumbres de rum, otras tantas de melaza, 3 millones de libras de pimienta, 500 botas de jenjibre de 500 libras cada una 1.000 de algodón de a 180 libras, 800 caxas de café de a 300 libras, y con esto mucha porción de las drogas referidas; pero el principal comercio es él que hacen con los <humanGroup type="political_group">Españoles</humanGroup> de <Territory>Tierra-Firme</Territory> y <Territory>Nueva España</Territory> con la venta de negros y efectos de <Territory>Europa</Territory> que confiesan les produce cinco millones de pesos anuales. Pocos paí##ses hay tan abundantes de ganado como esta <Concept_Landmark>Isla</Concept_Landmark>: sus caballos, burros y mulas son muy baratos; los bueyes y vacas son muy grandes, y habría más si los naturales no se aplicasen más a las <Concept_Structure>plantaciones</Concept_Structure> que a su cría, proveyéndose de carnes de las <Concept_Territory>Colonias</Concept_Territory> Septentrionales y las demás <Concept_Landmark>Islas</Concept_Landmark>; las ovejas y carneros son grandes, y su carne muy buena, pero la lana es despreciable; hay muchas cabras, cabritos, conejos y cerdos: en las <Concept_Landmark>Bahías</Concept_Landmark>, <Concept_Landmark>Puertos</Concept_Landmark> y <Concept_Landmark>ríos</Concept_Landmark> abunda todo género de pescado, pero estiman sobre todos la tortuga: hay muchas aves así domésticas como silvestres, papagayos más que en otra ninguna <Concept_Landmark>Isla</Concept_Landmark>, becacines, gallinas de Guinea, pichones, ocas, ánades, pelicanos y fragatas, cuya grasa es buena para los dolores: hay moscas de fuego, que son una especie de cantáridas, porque echan de sí una luz; de día son verdes, y por la noche brillantes, y aún después de muertas. Está dividida la <Concept_Landmark>Isla</Concept_Landmark> en 19 <Concept_District>distritos</Concept_District> o <Concept_District>Parroquias</Concept_District>, que cada una envía dos Diputados a la asamblea, y son <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0491@@@<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Santa Catalina</Settlement>. <zbr/>
-<Settlement>Puerto Real</Settlement>. <zbr/>
-<Settlement>Kingstón</Settlement>. <zbr/>
-<Settlement>Santa Dorotea</Settlement>. <zbr/>
-<Settlement>Clarendón</Settlement>. <zbr/>
-<Settlement>Vere</Settlement>.<zbr/>
-<Settlement>Santa Isabel</Settlement>.<zbr/>
-##<Settlement>Westmoreland</Settlement>. <zbr/>
-<Settlement>Santa Ana</Settlement>. <zbr/>
-<Settlement>Santo Tomás</Settlement>. <zbr/>
-<Settlement>San Andrés</Settlement>. <zbr/>
-<Settlement>San Juan</Settlement>. <zbr/>
-<Settlement>Santo Tomás del Valle</Settlement>. <zbr/>
-###<Settlement>Hannover</Settlement>. <zbr/>
-<Settlement>San Jorge</Settlement>. <zbr/>
-<Settlement>Santiago</Settlement>. <zbr/>
-<Settlement>Santa María</Settlement>. <zbr/>
-<Settlement>Portland</Settlement>. <zbr/>
-<Settlement>S. David</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-#El año de 1736 tenía seis <Concept_Structure>fortalezas</Concept_Structure> con los nombres de fuerte Carlos en <Territory>Puerto Real</Territory>, <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Roca</Landmark> a la entrada del de <Landmark>Kingston</Landmark>, <Concept_Structure>fuerte</Concept_Structure> de <Structure>Puerto Antonio</Structure>, <Concept_Structure>fuerte</Concept_Structure> <Structure>Guillermo</Structure>, <Concept_Structure>fuerte</Concept_Structure> <Structure>Morante</Structure>, y <Concept_Structure>fuerte</Concept_Structure> de la <Structure>Bahía de Carlisle</Structure>: sus tropas consisten de nueve Regimientos de Milicias de Infantería y Caballería que contienen cerca de 3.000 hombres, y ocho Compañías independientes a sueldo del Rey, y por ley de la <Concept_Landmark>Isla</Concept_Landmark> todo vecino desde 16 años a 60 está obligado a alistarse en las Milicias: pertenece en lo Eclesiástico, como las demás <Concept_Territory>Colonias</Concept_Territory> <humanGroup type="political_group">Inglesas</humanGroup>, al Obispo de <Settlement>Londres</Settlement>, y en lo Político y Militar se gobierna por un Gobernador nombrado por el Rey de <Territory>Inglaterra</Territory>, que siempre es persona de la primera calidad y mérito, con título de Capitán General, Almirante y Gran ##Canciller de la <Concept_Landmark>Isla</Concept_Landmark>, y facultad de dar toda especie de comisiones, de congregar y disolver la Asamblea (que se compone de doce personas de la primera distinción nombrados por el Rey, y forman la Cámara alta, y quarenta y tres representantes del <Concept_Settlement>Pueblo</Concept_Settlement> elegidos por las <Concept_District>Parroquias</Concept_District>): puede perdonar los delitos, exceptuando los de felonía y homicidio; y en suma tiene una omnímoda autoridad que unida al sueldo de 2500 libras esterlinas, sin un quantioso regalo que le hacen a su entrada, los donativos que le concede la Asamblea, y lo que le contribuyen los <humanGroup type="religious_group">Judíos</humanGroup>, y otros emolumentos, se reputa por 100.000 libras esterlinas al año, y hacen reputar este gobierno por el mejor de la Corona después del <Concept_Territory>Virreynato</Concept_Territory> de <Territory>Irlanda</Territory>. El año de 1778 tenía 17949 habitantes blancos, inclusos 8.000 Ju<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0492@@@<zbr/>
-<zbr/>
-#díos, 166904 <humanGroup type="social_group">Negros esclavos</humanGroup> libres y <humanGroup type="social_group">Mulatos</humanGroup>, 680 <Concept_Structure>plantaciones</Concept_Structure> de azúcar, 110 <Concept_Structure>obrages</Concept_Structure> de algodón, 100 <Concept_Structure>plantaciones</Concept_Structure> de pimienta, 30 de jenjibre, 150 de café, 8 <Concept_Structure>obrages</Concept_Structure> de añil. El año de 1735 se sublevaron los <humanGroup type="social_group">Negros esclavos</humanGroup> retirándose a las <Concept_Landmark>montañas</Concept_Landmark>, y haciendo guerra a los <humanGroup type="political_group">Ingleses</humanGroup>, y aunque se reduxeron, han quedado algunos fortificados en aquellas asperezas que con freqüencia repiten sus insultos. Mientras estuvo esta <Concept_Landmark>Isla</Concept_Landmark> en poder de ##los <humanGroup type="political_group">Españoles</humanGroup>, desde que la conquistó y pobló <persName>Juan de Esquibél</persName> el año de 1509, fue Abadía erigida en 1514, la concedió el Rey en propiedad al Almirante <persName>Christóval Colon</persName>, y fue hecha Marquesado para los Primogénitos de los Duques de Veragua, que hoy solo poseen el título: dista 140 leguas de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Tierra-Firme</Territory>. La <Concept_Settlement>Capital</Concept_Settlement> era <Settlement>Santiago de la Vega</Settlement>, y hoy <Settlement>Kingstown</Settlement>. Está en 301 gr. de long. y en 18 de lat. <zbr/>
-<zbr/>
-#___GOBERNADORES INGLESES QUE HA HABIDO en <Territory>Jamayca</Territory>.___ <zbr/>
-<zbr/>
-ßßß<zbr/>
-1 El Coronel <persName>Doyley</persName>, nombrado primer Gobernador quando se apoderaron de la <Concept_Landmark>Isla</Concept_Landmark> los <humanGroup type="political_group">Ingleses</humanGroup> el año de 1655, acabó de perseguir a los <humanGroup type="social_group">Españoles</humanGroup> que quedaban, y estableció la <Concept_Territory>Colonia</Concept_Territory>, gobernando con inteligencia hasta que llegó nombrado por el Protector <persName>Cromwel. <zbr/>
-2</persName> El Mayor <persName>Sedgwich, cuyo gobierno duró pocos meses porque haciéndole novedad el clima y alimentos murió muy luego. <zbr/>
-3</persName> El mismo <persName>Doyley</persName>, que tomó el gobierno por aclamación de todos los habitantes; pero luego que en <Territory>Inglaterra</Territory> se supo la muerte del antecesor se nombró <zbr/>
-4 El Coronel <persName>Brayne</persName>, Irlandés, partidario del Protector; pero también tuvo la desgracia de morir a pocos días de su llegada a <Settlement>Jamayca</Settlement> con un refuerzo de mil hombres el año de 1658. <zbr/>
-5 El ya referido Coronel <persName>Doyley</persName> entró tercera vez a el gobierno, y fue confirmado en él por el Parla<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0493@@@<zbr/>
-<zbr/>
-#mento después de la muerte de <persName>Oliverio Cromwell;</persName> pero el Rey <persName>Carlos II</persName> quando fue restablecido a el Trono de <Territory>Inglaterra</Territory> lo separó del gobierno el año de 1661. <zbr/>
-6 El Lord <persName>Windsór</persName> que estableció las leyes y el gobierno civil, y dio las mejores disposiciones; pero solo gobernó dos años, porque habiendo permitido domiciliarse a los <humanGroup type="political_group">Flibustiers</humanGroup> en la <Concept_Landmark>Isla</Concept_Landmark> se quexó la Corte de <Territory>España</Territory> de las piraterías y robos que hacían protegidos del Gobernador de <Territory>Jamayca</Territory>, por lo qual fue separado del gobierno el año de 1663. <zbr/>
-7 <persName>Tomás Moddyford</persName>, vecino rico de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> que se estableció en la de <Territory>Jamayca</Territory> en el gobierno anterior, fue nombrado para entrar en él, y en su tiempo cobró su mayor auge esta <Concept_Territory>Colonia</Concept_Territory> porque fomentó las <Concept_Structure>plantaciones</Concept_Structure> y <Concept_Settlement>establecimientos</Concept_Settlement>, y a los piratas que con sus robos enriquecieron la <Concept_Landmark>Isla</Concept_Landmark>.<zbr/>
-8 <persName>Tomás Lynch</persName> que siguió los pasos de su antecesor, y comisionó al pirata <persName>Morgan</persName> en las expediciones que hizo contra los <humanGroup type="political_group">Españoles</humanGroup> a <Settlement>Maracaibo</Settlement>, <Settlement>Granada</Settlement>, <Settlement>Panamá</Settlement>, <Settlement>Portobelo</Settlement> y Chagre, lo qual dio motivo a que las vivas representaciones de la Corte de <Territory>España</Territory> a la <Territory>Inglaterra</Territory> lo separasen del gobierno el año de 1773. <zbr/>
-9 El <persName>Duque de Albemarle</persName>, enviado con particular comisión de exterminar los piratas, como lo hizo mandando ahorcar a quantos pudo haber a las manos, cuyo beneficio produxo la tranquilidad en las <Concept_Landmark>Costas</Concept_Landmark> y <Concept_Landmark>Puertos</Concept_Landmark> de los <humanGroup type="political_group">Españoles</humanGroup>, y grande aplauso a este Gobernador, que murió el año de 1689. <zbr/>
-10 Milord <persName>Jusquin</persName>, en cuyo tiempo hicieron los <humanGroup type="political_group">Franceses</humanGroup> mandados por Mr. <persName>Daviot</persName> una invasión en la <Concept_Landmark>Isla</Concept_Landmark>, y sucedió en ésta el gran terremoto en que perecieron más de 10.000 personas el año de 1692. <zbr/>
-11 Milord <persName>Bellamont</persName>, en su tiempo se establecieron los <humanGroup type="political_group">Escoceses</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Darién</Territory> protegidos de él, a cuyo pesar fueron echados por el Gobernador de <Territory>Cartagena</Territory>, gobernó hasta el año de 1708. <zbr/>
-12 El <persName>Conde de Peterbourg</persName>, enviado con motivo de la <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0494@@@<zbr/>
-<zbr/>
-#guerra de succesíon para fomentar otra vez el establecimiento del <Territory>Darién</Territory>, llevando autoridad para que estuviesen a sus órdenes quantas embarcaciones Inglesas hubiese en la <Territory>América</Territory>. <zbr/>
-13 El <persName>Duque de Portland</persName> fue nombrado Gobernador el año de 1721, murió el de 1725. <zbr/>
-14 El <persName>Conde de Stayrs</persName>, nombrado el mismo año de 1726, gobernó hasta el de 1737 que fue nombrado <zbr/>
-15 El Caballero <persName>Eduardo Trewlaney</persName>, que ha sido el que más largo tiempo ha gobernado a satisfacción de la Corte y de todos los habitantes de la <Concept_Landmark>Isla</Concept_Landmark> por sus bellas qualidades, pacificó la sublevación de los <humanGroup type="social_group">Negros</humanGroup>, y se restituyó a <Territory>Inglaterra</Territory> dexando el gobierno el año de 1752. <zbr/>
-16 El Almirante <persName>Carlos Knowles</persName>, después del dilatado mérito que lo hizo glorioso, fue nombrado para succeder al anterior, y gobernó hasta el año de 1761 que volvió a <Territory>Inglaterra</Territory>, y pasó destinado a <Territory>Rusia</Territory> para arreglar la Marina de aquel Imperio. <zbr/>
-17 <persName>Guillermo Enrique Littleton</persName> pasó de Gobernador a <Settlement>Jamayca</Settlement> el año de 1762, y el de 1766 promovido de <Settlement>Embaxador</Settlement> a la Corte de <Territory>Lisboa</Territory>. <zbr/>
-18 El General <persName>Eduardo Wortley Montagú</persName>, nombrado Gobernador el año referido, y destinado el siguiente a <Settlement>Embaxador</Settlement> de la Corte de <Territory>Rusia</Territory>. <zbr/>
-19 El General <persName>Guillermo Moncktón</persName>, nombrado el año de 1767. <zbr/>
-20 El Caballero Dalyng, nombrado el año de <zbr/>
-21 El Lord <persName>Guillermo Campbell</persName>, Ingeniero General de la <Territory>América</Territory>, Gobernador de la <Territory>Carolina Meridional</Territory>, fue nombrado el año de 1780. $$$<zbr/>
-<zbr/>
-§§§id_08161§§§<zbr/>
-#Tiene el mismo nombre una <Concept_Settlement>Ciudad</Concept_Settlement> principal de la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>Larga</Landmark> o de <Landmark>Nassau</Landmark>, perteneciente al <Concept_Territory>Condado</Concept_Territory> de la <Territory>Reyna</Territory> en la <Territory>Nueva Yorck</Territory>, situada en la parte del O, 8 millas de Hamps##tead, y casi lo mismo de <Settlement>Bedford</Settlement>. <zbr/>
-<zbr/>
-§§§id_08162§§§<zbr/>
-JAMALCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Ron</Settlement>. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0495@@@<zbr/>
-<zbr/>
-§§§id_08163§§§<zbr/>
-#JAMBUTE, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el <Territory>Brasil</Territory>, situada al S de la de <Territory>Pinhanga</Territory>. <zbr/>
-<zbr/>
-§§§id_08164§§§<zbr/>
-S. JAMES, o Santiago) <Concept_Territory>Condado</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, confina al E con el de <Territory>Carlos</Territory>, y se extiende por ambas partes del <Concept_Landmark>río</Concept_Landmark> de su nombre, contiene 108362 acres o medidas de tierra, y está dividido en cinco <Concept_District>Parroquias</Concept_District> o <Concept_District>distritos</Concept_District>, que son <Settlement>Wallingford</Settlement>, <Settlement>Wilmington</Settlement>, James-town, Merchantshundred a la parte del N del <Concept_Landmark>río</Concept_Landmark>, y <Settlement>Bruton</Settlement> a la del Sur. <zbr/>
-<zbr/>
-§§§id_08165§§§<zbr/>
-Tiene el mismo nombre una <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Condado</Concept_Territory> antecedente que fue antes <Concept_Settlement>Capital</Concept_Settlement> de él, situada en una <Concept_Landmark>Península</Concept_Landmark> a la orilla septentrional del <Concept_Landmark>río</Concept_Landmark> <Landmark>James</Landmark> o <Landmark>Ponhatan</Landmark>, 42 millas distante de su entrada, hoy tiene solo 70 casas dispersas, habitadas la mayor parte de marineros, y es muy pobre desde que se trasladaron los oficios a <Settlement>Williamsburg</Settlement>, 8 millas distante, por su mejor situación, y sin estanques de agua del <Concept_Landmark>mar</Concept_Landmark> como esta que la hacen propensa a tercianas: está ##en 76gr. y 5 1 min. de long. y 37 gr. 16 min. de lat. <zbr/>
-<zbr/>
-§§§id_08166§§§<zbr/>
-Otra <Concept_Settlement>Ciudad</Concept_Settlement> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory>. <zbr/>
-<zbr/>
-§§§id_08167§§§<zbr/>
-Otra en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, una de las de <Territory>Barlovento</Territory>. <zbr/>
-<zbr/>
-§§§id_08168§§§<zbr/>
-Un <Concept_Settlement>Pueblo</Concept_Settlement> en la misma <Concept_Landmark>Isla</Concept_Landmark>, situado en la extremidad que mira al N. <zbr/>
-<zbr/>
-§§§id_08169§§§<zbr/>
-Otro en la misma <Concept_Landmark>Isla</Concept_Landmark> del <Concept_District>distrito</Concept_District> y <Concept_District>Parroquia</Concept_District> de <Settlement>Todos Santos</Settlement>. <zbr/>
-<zbr/>
-§§§id_08170§§§<zbr/>
-Una <Concept_Landmark>Bahía</Concept_Landmark> en la parte oriental y división más occidental de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Hudsón</Landmark> tiene 100 leguas de fondo desde el <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Henriqueta</Landmark> María en 55 gr. 15 min. de lat. hasta lo último de ella, y 50 o 60 de ancho, en ella hay varias <Concept_Landmark>Islas</Concept_Landmark> llamadas <Landmark>Bear</Landmark>, <Landmark>Viner</Landmark>, <Landmark>Charlton</Landmark> y <Landmark>Cape Hope</Landmark>. <zbr/>
-<zbr/>
-§§§id_08171§§§<zbr/>
-Un <Concept_Landmark>Río</Concept_Landmark> caudaloso en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, que tiene su origen 40 millas del <Landmark>Kanhava</Landmark>, <Concept_Landmark>brazo</Concept_Landmark> del <Landmark>Ohio</Landmark>, y llega hasta <Settlement>Augusta</Settlement>, tiene varios saltos, y sin embargo es navegable hasta la Nueva <Territory>Virginia</Territory>, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Chesapeack</Landmark>. <zbr/>
-<zbr/>
-§§§id_08172§§§<zbr/>
-Una <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Georgia</Territory>, µµµvéase Northmainµµµ. <zbr/>
-<zbr/>
-§§§id_08173§§§<zbr/>
-Otras dos <Concept_Landmark>Islas</Concept_Landmark> pequeñas, <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0496@@@<zbr/>
-<zbr/>
-#llamadas la una Grande y la otra Chica, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Virginia</Territory> en el <Concept_Landmark>Canal</Concept_Landmark> del <Landmark>Rey</Landmark>, al E de la <Landmark>Tórtola</Landmark> y O de la de <Territory>Santo Tomás</Territory>, entre la qual y ellas está el pasage de <Landmark>S. James</Landmark>. <zbr/>
-<zbr/>
-§§§id_08174§§§<zbr/>
-JAMON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Colcamár</Settlement>. <zbr/>
-<zbr/>
-§§§id_08175§§§<zbr/>
-JAMUNDA, Piedad de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, a orilla del <Concept_Landmark>río</Concept_Landmark> de su nombre, y no lexos de una <Concept_Landmark>laguna</Concept_Landmark> que toma la misma denominación. <zbr/>
-<zbr/>
-§§§id_08176§§§<zbr/>
-Aquél corre muchas leguas al SSE, y entra en la <Concept_Landmark>laguna</Concept_Landmark> referida. <zbr/>
-<zbr/>
-§§§id_08177§§§<zbr/>
-Ésta se forma de las aguas de este, del de las <Landmark>Trombetas</Landmark>, y otros en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Samundases</humanGroup>; es grande, y desagua por dos <Concept_Landmark>brazos</Concept_Landmark> o <Concept_Landmark>canales</Concept_Landmark> en el gran <Concept_Landmark>río</Concept_Landmark> del <Landmark>Marañon</Landmark>, formando la gran <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Maravia</Landmark>. <zbr/>
-<zbr/>
-§§§id_08178§§§<zbr/>
-Otro <Concept_Landmark>río</Concept_Landmark> pequeño hay del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> del <Territory>Nuevo Reyno de Granada</Territory>, corre al NNE, y entra en el de <Landmark>Cauca</Landmark>. <zbr/>
-<zbr/>
-§§§id_08179§§§<zbr/>
-JANOS) <Concept_Settlement>Pueblo</Concept_Settlement> y Pre##sidio de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, fundado para contener las incursiones de los <Concept_Group>Indios infieles</Concept_Group> <humanGroup type="indigenous_group">Apaches</humanGroup> en una espaciosa <Concept_Landmark>llanura</Concept_Landmark> que tiene 6 leguas de extensión por todas partes, cuyo terreno está cultivado, y produce bastante trigo, tiene 100 familias, y un Capitán que reside en él, con un Teniente, un Alférez, y un Sargento con 47 Soldados, para cuya comodidad hay un buen quartel con habitaciones para el Comandante, Capellán etc. una Capilla muy buena, cuyo edificio tiene quatro torres que lo flanquean para su defensa: está en la extremidad de este <Concept_Territory>Reyno</Concept_Territory>, en 49 gr. 20 min. de lat. <zbr/>
-<zbr/>
-§§§id_08180§§§<zbr/>
-JAPERIBUI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre al E, y entra en el <Landmark>Paraná</Landmark>, entre los de <Landmark>Iluci</Landmark> y <Landmark>Roy</Landmark>. <zbr/>
-<zbr/>
-§§§id_08181§§§<zbr/>
-JAPOA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Paraiba</Territory> en el <Territory>Brasil</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark> <Territory>Paraiba</Territory>, casi en su boca o salida del <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_08182§§§<zbr/>
-JAQUE, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Ciboo</Landmark>, corre al SSO, y entra en el de <Landmark>Neiba</Landmark>. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0497@@@<zbr/>
-<zbr/>
-§§§id_08183§§§<zbr/>
-#JAQUEHUA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lipes</Territory> y <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08184§§§<zbr/>
-JAQUEI, De la Zorra) <Concept_Landmark>Cerro</Concept_Landmark> o <Concept_Landmark>monte</Concept_Landmark> muy alto de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en el <Territory>Perú</Territory>. <zbr/>
-<zbr/>
-§§§id_08185§§§<zbr/>
-JAQUEMEL, <Concept_Settlement>Villa</Concept_Settlement> de los <humanGroup type="political_group">Franceses</humanGroup> en la parte que poseen de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, está en la <Concept_Landmark>Costa</Concept_Landmark> del Sur, a orilla de una gran <Concept_Landmark>ensenada</Concept_Landmark>, entre el <Concept_Landmark>cabo</Concept_Landmark> de su nombre y el de <Landmark>Marechal</Landmark>. <zbr/>
-<zbr/>
-§§§id_08186§§§<zbr/>
-La <Concept_Landmark>punta</Concept_Landmark> referida o <Concept_Landmark>cabo</Concept_Landmark> está en la misma <Concept_Landmark>Costa</Concept_Landmark>, entre el de <Landmark>Marechal</Landmark> y la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Moral</Landmark>. <zbr/>
-<zbr/>
-§§§id_08187§§§<zbr/>
-JAQUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Camaná</Territory> en el <Territory>Perú</Territory>, situado en un dilatado <Concept_Landmark>valle</Concept_Landmark> de quien toma el nombre, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Acari</Settlement>. <zbr/>
-<zbr/>
-§§§id_08188§§§<zbr/>
-JAQUIN, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> del S de la de <Territory>Santo Domingo</Territory> en la parte que poseen los <humanGroup type="political_group">Franceses</humanGroup>, entre la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Pasqual</Landmark> y la del <Landmark>Diamante</Landmark>. <zbr/>
-<zbr/>
-§§§id_08189§§§<zbr/>
-JAQUIPEI, o Cesta del Tabaco) Pedazo de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, a ##orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Plata</Landmark>, entre los de <Landmark>San Lorenzo</Landmark> y <Landmark>Santa Lucía</Landmark>. <zbr/>
-<zbr/>
-§§§id_08190§§§<zbr/>
-JAQUIRI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el <Territory>Brasil</Territory>, corre casi al O, y entra en la Cabecera del de <Landmark>Tiete</Landmark>. <zbr/>
-<zbr/>
-§§§id_08191§§§<zbr/>
-JARAGUAI, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> bárbaros de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado en los confines de la de <Territory>Cartagena</Territory> en la <Concept_Landmark>montaña</Concept_Landmark>, a orilla de un <Concept_Landmark>caño</Concept_Landmark> o <Concept_Landmark>brazo</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Sinú</Landmark>. <zbr/>
-<zbr/>
-§§§id_08192§§§<zbr/>
-JARDINERO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado al E, y a corta distancia de la <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Guanare</Territory>, en una <Concept_Landmark>lengua de tierra</Concept_Landmark> que forma un <Concept_Landmark>río</Concept_Landmark> pequeño para entrar en el de <Territory>Guanare</Territory>. <zbr/>
-<zbr/>
-§§§id_08193§§§<zbr/>
-JARDINES, De la Reyna) <Concept_Landmark>Islotes</Concept_Landmark> o <Concept_Landmark>baxos</Concept_Landmark> de <Concept_Landmark>peña</Concept_Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> meridional de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, al E de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Jagua</Landmark>, en que se han perdido muchas embarcaciones, y entre estos dos navíos de guerra que mandaba Mr. <persName>Du Rochet</persName> el año de 1727. <zbr/>
-<zbr/>
-§§§id_08194§§§<zbr/>
-Otros <Concept_Landmark>baxos</Concept_Landmark> hay con el nombre de Jardines del Rey, para distinguirlos de los an<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0498@@@<zbr/>
-<zbr/>
-#teriores en la <Concept_Landmark>Costa</Concept_Landmark> opuesta de la misma <Concept_Landmark>Isla</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_08195§§§<zbr/>
-JARETA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Ocotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 39 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 6 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_08196§§§<zbr/>
-JARIAPU, Trinidad de) <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Apolobamba</Territory>. <zbr/>
-<zbr/>
-§§§id_08197§§§<zbr/>
-JARRIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Parianchacra</Settlement>. <zbr/>
-<zbr/>
-§§§id_08198§§§<zbr/>
-JARUMA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory> que entra en el de <Landmark>Menday</Landmark>. <zbr/>
-<zbr/>
-§§§id_08199§§§<zbr/>
-JASAPE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>, situado cerca de la <Concept_Settlement>Capital</Concept_Settlement> <Settlement>Durango</Settlement>. <zbr/>
-<zbr/>
-§§§id_08200§§§<zbr/>
-JASKEGI, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina Meridional</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Albama</Landmark>. <zbr/>
-<zbr/>
-§§§id_08201§§§<zbr/>
-JASKIGIS, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Apalachicola</Landmark>. <zbr/>
-<zbr/>
-§§§id_08202§§§<zbr/>
-JATEBO, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía en ##la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>. <zbr/>
-<zbr/>
-§§§id_08203§§§<zbr/>
-JAULIA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, nace al E de la <Concept_Settlement>Capital</Concept_Settlement>, y torciendo un poco su curso sigue a el SE. <zbr/>
-<zbr/>
-§§§id_08204§§§<zbr/>
-JAUMAVE, San Juan Baptista de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>reducción</Concept_Settlement> de Indios de las Misiones que tienen los Religiosos de San Francisco en el <Concept_District>distrito</Concept_District> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guadalcázar</Territory>, tiene 15 familias de <humanGroup type="social_group">Indios</humanGroup>, además de los que habitan una <Concept_Landmark>Cañada</Concept_Landmark> en su inmediación: está 30 leguas de la Cabecera de <Settlement>Tula</Settlement>. <zbr/>
-<zbr/>
-§§§id_08205§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sierra Gorda</Territory> en el <Concept_Landmark>Seno</Concept_Landmark> <Landmark>Mexicano</Landmark> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>, una de las <Concept_Settlement>Poblaciones</Concept_Settlement> que fundó el Conde de <Territory>Sierra Gorda</Territory> Don <persName>Joseph de Escandón</persName>, Coronel de Milicias de <Settlement>Queretaro</Settlement>, el año de 1748. <zbr/>
-<zbr/>
-§§§id_08206§§§<zbr/>
-JAURU, <Concept_Landmark>Río</Concept_Landmark> del <Concept_Territory>territorio</Concept_Territory> de <Territory>Matogroso</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace al Sur de la <Concept_Settlement>Villa</Concept_Settlement> Bella de <Territory>Matogroso</Territory>, corre al E, y torciendo su curso hacia el N entra en el del <Landmark>Paraguay</Landmark>. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0499@@@<zbr/>
-<zbr/>
-§§§id_08207§§§<zbr/>
-#JAUXA, µµµvéase Xauxaµµµ. <zbr/>
-<zbr/>
-§§§id_08208§§§<zbr/>
-JAYACATEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Ocotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 78 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 9 leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement> <zbr/>
-<zbr/>
-§§§id_08209§§§<zbr/>
-JAYAN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> en la <Concept_Landmark>Costa</Concept_Landmark> de la Cabeza del E, sale al <Concept_Landmark>mar</Concept_Landmark> en la gran <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, entre el de <Landmark>Guayabo</Landmark> y el de <Landmark>Culebras</Landmark>. <zbr/>
-<zbr/>
-§§§id_08210§§§<zbr/>
-JAYANCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el <Territory>Perú</Territory>, situado en un hermoso <Concept_Landmark>valle</Concept_Landmark> muy fértil en cepas, de que cogen al año más de 600 botijas de vino de a 25 frascos cada una. <zbr/>
-<zbr/>
-§§§id_08211§§§<zbr/>
-JAYAZA-YEUPETIRA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre al O, y entra en el <Landmark>Paraná</Landmark>. <zbr/>
-<zbr/>
-§§§id_08212§§§<zbr/>
-JAYENA, Punta de) en la <Concept_Landmark>Península</Concept_Landmark> <Landmark>Paraguana</Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, es la que mira a la <Concept_Landmark>Costa</Concept_Landmark>, y forma una de las <Concept_Landmark>puntas</Concept_Landmark> de la entrada del <Landmark>golfete</Landmark>. <zbr/>
-<zbr/>
-§§§id_08213§§§<zbr/>
-JAZEGUA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory> en el <Territory>Perú</Territory>, ##nace en la <Concept_Landmark>laguna</Concept_Landmark> de su nombre, corre al OSO, y entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>. <zbr/>
-<zbr/>
-§§§id_08214§§§<zbr/>
-Una <Concept_Landmark>laguna</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que el <Concept_Landmark>río</Concept_Landmark> anterior. <zbr/>
-<zbr/>
-§§§id_08215§§§<zbr/>
-S. JEAN, o San Juan) <Concept_Landmark>Lago</Concept_Landmark> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> en el <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Reckouagamiens</humanGroup>; se forma del <Concept_Landmark>río</Concept_Landmark> grande de <Landmark>Decharge</Landmark>. <zbr/>
-<zbr/>
-§§§id_08216§§§<zbr/>
-Tiene el mismo nombre un fuerte de los <humanGroup type="political_group">Franceses</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Iroqueses</humanGroup>; a orilla del <Concept_Landmark>caño</Concept_Landmark> o <Concept_Landmark>río</Concept_Landmark> que desagua el <Concept_Landmark>lago</Concept_Landmark> de éstos en el <Concept_Landmark>río</Concept_Landmark> <Landmark>San Lorenzo</Landmark>. <zbr/>
-<zbr/>
-§§§id_08217§§§<zbr/>
-Un <Concept_Landmark>Río</Concept_Landmark> caudaloso del <Concept_Territory>país</Concept_Territory> o <Concept_Landmark>tierra</Concept_Landmark> del <Territory>Labrador</Territory> que corre al S, y entra en el de <Landmark>San Lorenzo</Landmark>. <zbr/>
-<zbr/>
-§§§id_08218§§§<zbr/>
-Una <Concept_Landmark>Isla</Concept_Landmark> grande cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Nueva Escocia</Territory> y <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, entre aquella y la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>Real</Landmark> o de <Concept_Landmark>cabo</Concept_Landmark> <Landmark>Bretón</Landmark>. <zbr/>
-<zbr/>
-§§§id_08219§§§<zbr/>
-Otra en el mismo <Concept_Landmark>golfo</Concept_Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O de la de <Territory>Terranova</Territory>. <zbr/>
-<zbr/>
-§§§id_08220§§§<zbr/>
-Otras dos pequeñas cerca de la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Demerary</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>. <zbr/>
-<zbr/>
-§§§id_08221§§§<zbr/>
-Un <Concept_Landmark>cabo</Concept_Landmark> o <Concept_Landmark>punta de tierra</Concept_Landmark> <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0500@@@<zbr/>
-<zbr/>
-#en la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, y es uno de los que forman la entrada de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>notre Dame</Landmark> o <Landmark>nuestra Señora</Landmark>. <zbr/>
-<zbr/>
-§§§id_08222§§§<zbr/>
-Otro <Concept_Landmark>cabo</Concept_Landmark> o <Concept_Landmark>punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del E en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Guadalupe</Territory>, entre el <Concept_Landmark>Puerto</Concept_Landmark> de l'Enfer o <Landmark>Infierno</Landmark> y el <Concept_Landmark>Islote</Concept_Landmark> de la <Landmark>Corona</Landmark>. <zbr/>
-<zbr/>
-§§§id_08223§§§<zbr/>
-Otra <Concept_Landmark>Isla</Concept_Landmark> pequeña cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Georgia</Territory>, entre los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Ashley</Landmark> y <Landmark>Pompón</Landmark>. <zbr/>
-<zbr/>
-§§§id_08224§§§<zbr/>
-Un <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del Sur de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre las dos <Concept_Landmark>Bahías</Concept_Landmark> de la <Landmark>Desesperación</Landmark> y de la <Landmark>Fortuna</Landmark>. <zbr/>
-<zbr/>
-§§§id_08225§§§<zbr/>
-JEDAKNE, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory>, situado entre los dos <Concept_Landmark>brazos</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Susquehanna</Landmark>. <zbr/>
-<zbr/>
-§§§id_08226§§§<zbr/>
-JEFFREIS, <Concept_Landmark>Banco</Concept_Landmark> grande de arena cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Nueva Inglaterra</Territory>, en el <Concept_District>distrito</Concept_District> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Massachusets</Territory>. <zbr/>
-<zbr/>
-§§§id_08227§§§<zbr/>
-JEKYL, Estrecho de) <Concept_Landmark>Bahía</Concept_Landmark> pequeña de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Simón</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, a la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Alatamha</Landmark>, donde pueden estar diez o doce navíos, para cuya defensa hay un <Concept_Structure>castillo</Concept_Structure> y <Concept_Structure>batería</Concept_Structure> construido ##por el General <persName>Oglethorp</persName>. <zbr/>
-<zbr/>
-§§§id_08228§§§<zbr/>
-JELOUZELL, Estrecho de) se comunica desde el de <Landmark>Magallanes</Landmark> a la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, pero está poco conocido. <zbr/>
-<zbr/>
-§§§id_08229§§§<zbr/>
-JEMKEG, <Concept_Structure>Fuerte</Concept_Structure> construido por los <humanGroup type="political_group">Ingleses</humanGroup> en la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Juan</Landmark>, y del <Concept_Landmark>lago</Concept_Landmark> <Landmark>Freneuse</Landmark>. <zbr/>
-<zbr/>
-§§§id_08230§§§<zbr/>
-JENEIRO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, una de las catorce que lo componen, confina por el N con la del <Territory>Espíritu Santo</Territory>, por el Levante con el <Concept_Landmark>mar</Concept_Landmark> <Landmark>Atlántico</Landmark> o <Landmark>Brasílico</Landmark>, por el Poniente con el <Concept_Territory>país</Concept_Territory> incógnito de los <Concept_Group>Indios infieles</Concept_Group>, y por el Mediodía con la <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory>. Esta <Concept_Territory>Provincia</Concept_Territory> es uno de los tres <Concept_Territory>Gobiernos</Concept_Territory> en que tienen dividido los <humanGroup type="political_group">Portugueses</humanGroup> el <Territory>Brasil</Territory>, y la de más utilidad porque es sumamente fértil, y con particularidad en cañas dulces, de que hacen infinita azúcar, y es uno de los principales ramos de su comercio: tiene muchas <Concept_Landmark>minas</Concept_Landmark> de riquísimo oro que les producen grande utilidad: riégala el <Concept_Landmark>río</Concept_Landmark> de su nombre, que es el mayor, además de otros 17, cuyos nombres son <zbr/>
-<zbr/></xml>
+    <zbr/> ßßß<zbr/> #<Settlement>Magdalena</Settlement>. <zbr/>
+    <Settlement>Oconahua</Settlement>. <zbr/> ##<Settlement>San Juan</Settlement>. <zbr/>
+    <Settlement>Amatlán</Settlement>. <zbr/> ###<Settlement>Izatlán</Settlement>. <zbr/>
+    <Settlement>San Marcos</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_08095§§§<zbr/> #Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
+        partido</Concept_Settlement> de esta <Concept_Territory>jurisdicción</Concept_Territory> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory>, situado a orilla de una
+        <Concept_Landmark>laguna</Concept_Landmark> o <Concept_Landmark>ciénega</Concept_Landmark>;
+    tiene un Convento de Religiosos de San Francisco. <zbr/>
+    <zbr/> §§§id_08096§§§<zbr/> IZCATLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Cuicatlán</Territory> en <Territory>Nueva
+        España</Territory>, es de temperamento frío y seco, tiene 83 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y pertenece al
+        <Concept_District>Curato</Concept_District> de <Settlement>Cuistlahuaca</Settlement> en la
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Yanguitlan</Territory>;
+    produce bastante grana y algodón de que fabrican sus naturales unas mantas que llaman de Oaxaca,
+    y de uno y otro hacen un lucroso comercio: está 12 leguas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08097§§§<zbr/> IZHUATLAN, S. Christóval de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de la <Territory>Guayacocotla</Territory> en <Territory>Nueva
+        España</Territory>, tiene 466 familias de <humanGroup type="social_group"
+        >Indios</humanGroup>
+    <humanGroup type="indigenous_group">Otomies</humanGroup>, inclusos los que habitan los
+        <Concept_Settlement>barrios</Concept_Settlement> o
+        <Concept_Structure>ranchos</Concept_Structure> de su
+        <Concept_District>distrito</Concept_District>. <zbr/>
+    <zbr/> §§§id_08098§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre, que es un <Concept_Settlement>barrio</Concept_Settlement> ##pequeño, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Tamapachi</Settlement>, en la
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guauchinango</Territory>
+    del mismo <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
+    <zbr/> §§§id_08099§§§<zbr/> IZQUINTIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Suchitepec</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado en
+    la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del
+        <Landmark>Sur</Landmark>. <zbr/>
+    <zbr/> §§§id_08100§§§<zbr/> IZQUINTENANGO, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
+    <zbr/> §§§id_08101§§§<zbr/> IZQUINTLAPILCO, <Concept_Settlement>Pueblo</Concept_Settlement> de
+    la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Octupam</Territory> en
+        <Territory>Nueva España</Territory>. <zbr/>
+    <zbr/> §§§id_08102§§§<zbr/> IZTAHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Caxititlán</Territory> en <Territory>Nueva
+        España</Territory>, distante 4 leguas al Oriente de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08103§§§<zbr/> IZTACOMITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de los <Territory>Zoques</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
+    <zbr/> §§§id_08104§§§<zbr/> IZTACOSTE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el mismo
+        <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
+    <zbr/> §§§id_08105§§§<zbr/> IZTAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Alcaldía</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
+    <zbr/> §§§id_08106§§§ <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0479@@@<zbr/>
+    <zbr/> #Otro hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Capabanastla</Territory>
+    en el mismo <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
+    <zbr/> §§§id_08107§§§<zbr/> IZTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>S. Salvador</Territory> en el mismo
+        <Concept_Territory>Reyno</Concept_Territory> que los antecedentes. <zbr/>
+    <zbr/> §§§id_08108§§§<zbr/> IZUCAR, <Concept_Territory>Jurisdicción</Concept_Territory> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Nueva
+    España</Territory>, es por la mayor ##parte de terreno montuoso, áspero y estéril, y solo
+    produce cortas cosechas de granos y semillas; era antes más reducida, y por su escasez se
+    agregaron a su <Concept_Territory>jurisdicción</Concept_Territory> las de
+        <Territory>Aguatlán</Territory> y <Territory>Teopantlan</Territory>, que son muy pobres: sin
+    embargo tiene suficiente población en los <Concept_Settlement>Pueblos</Concept_Settlement>
+    siguientes. <zbr/>
+    <zbr/> ßßß<zbr/>
+    <Settlement>San Lucas de Culucan</Settlement>. <zbr/>
+    <Settlement>Santa María de la Asunción</Settlement>. <zbr/>
+    <Settlement>San Martín de Alchichica</Settlement>. <zbr/> ##<Settlement>S. Juan de
+        Epatlán</Settlement>. <zbr/>
+    <Settlement>Tepexoxuma</Settlement>. <zbr/>
+    <Settlement>Tepapayeca</Settlement>. <zbr/>
+    <Settlement>Chietlán</Settlement>. <zbr/>
+    <Settlement>S. Nicolás Tenexcalco</Settlement>. <zbr/> ###<Settlement>Aguatlán</Settlement>. <zbr/>
+    <Settlement>Telipán</Settlement>. <zbr/>
+    <Settlement>Ahuatelco</Settlement>. <zbr/>
+    <Settlement>Ahuehuezingo</Settlement>. <zbr/>
+    <Settlement>Santiago Azalán</Settlement>. <zbr/>
+    <Settlement>Teopantlán</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_08109§§§<zbr/> #Tiene el mismo nombre el <Concept_Settlement>Pueblo
+        Capital</Concept_Settlement> de esta <Concept_Territory>jurisdicción</Concept_Territory>,
+    situado a la falda de un <Concept_Landmark>volcán</Concept_Landmark>; es de temperamento cálido
+    y seco; tiene dos <Concept_District>Parroquias</Concept_District>, una de <humanGroup
+        type="social_group">Españoles</humanGroup> y otra de <humanGroup type="social_group"
+        >Indios</humanGroup>: en la primera hay 240 familias de aquellos, y de algunos <humanGroup
+        type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
+        >Mulatos</humanGroup>, la segunda es admi##nistrada por los Religiosos de Santo Domingo, y
+    contiene 94 familias de <humanGroup type="social_group">Indios</humanGroup> que llaman
+        <humanGroup type="social_group">Forasteros</humanGroup>, y 850 de <humanGroup
+        type="indigenous_group">Mexicanos</humanGroup> en los
+        <Concept_Settlement>barrios</Concept_Settlement> de su
+        <Concept_District>distrito</Concept_District>, que llegan a diez y seis: está 31 leguas al S
+    de <Settlement>México</Settlement>, en 274 gr. 15 min. de long. y en 18 gr. 50 min. de lat. <zbr/>
+    <zbr/> §§§id_08110§§§<zbr/> #JAAYA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre
+    muy caudaloso al Sur, y entra en el <Landmark>Putumayo</Landmark> en el
+        <Concept_Territory>territorio</Concept_Territory> ##de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Arianas</humanGroup>. <zbr/>
+    <zbr/> §§§id_08111§§§<zbr/> JACABIRA, <Concept_Landmark>Río</Concept_Landmark> de la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> que el anterior, nace en el
+        <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Cuma<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0480@@@<zbr/>
+        <zbr/> #yaris</humanGroup>, entre los <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Cuchivara</Landmark> y de la <Landmark>Madera</Landmark>, corre al E, y entra en el
+    último. <zbr/>
+    <zbr/> §§§id_08112§§§<zbr/> JABARABA, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>río Jeneyro</Territory> en el
+        <Territory>Brasil</Territory>, situada en la Cabecera del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Paraibuna</Landmark>. <zbr/>
+    <zbr/> §§§id_08113§§§<zbr/> JACAIBAMBA, <Concept_Landmark>Laguna</Concept_Landmark> grande del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Canta</Territory>, se forma
+    del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Carabaillo</Landmark> que corre a Poniente, y desagua al
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>S</Landmark>, al N de
+        <Settlement>Lima</Settlement>. <zbr/>
+    <zbr/> §§§id_08113a§§§<zbr/> JACAPATOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y
+        Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08114§§§<zbr/> JACARAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el
+        <Territory>Brasil</Territory>, sisuado al OSO de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Jambute</Settlement>. <zbr/>
+    <zbr/> §§§id_08115§§§<zbr/> JACARE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al
+    NNO, y entra en el de la <Landmark>Madera</Landmark>, entre los de <Landmark>Macacipa</Landmark>
+    y <Landmark>Giparana</Landmark>. <zbr/>
+    <zbr/> §§§id_08116§§§<zbr/> S. JACINTO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado
+    en las <Concept_Landmark>montañas</Concept_Landmark> del
+        <Concept_District>partido</Concept_District> de <Territory>María</Territory>, una de las
+        <Concept_Settlement>Poblaciones</Concept_Settlement> que formó el año de 1776. el Gobernador
+    Don <persName>Francisco Pimienta</persName>. <zbr/>
+    <zbr/> §§§id_08117§§§<zbr/> ##Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory>, situado
+    a orilla de un <Concept_Landmark>río</Concept_Landmark> pequeño que entra en el de
+        <Landmark>Matazán</Landmark>. <zbr/>
+    <zbr/> §§§id_08118§§§<zbr/> Otro de la <Concept_Settlement>Cabecera de
+        partido</Concept_Settlement> de la <Concept_Settlement>Villa</Concept_Settlement> del
+        <Concept_Territory>Marquesado</Concept_Territory> del <Territory>Valle</Territory> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Quatro
+        Villas</Territory> en <Territory>Nueva España</Territory> tiene 58 familias de <humanGroup
+        type="social_group">indios</humanGroup> que comercian en trigo, grana, maíz, frutas,
+    maderas, cal, carbón y leña, que son los frutos que produce: está una legua al NNO de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08119§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> en el
+        <Territory>Brasil</Territory>, situado a la orilla del O del
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Topayos</Landmark>, cerca de su boca o
+    salida al de las <Landmark>Amazonas</Landmark>. <zbr/>
+    <zbr/> §§§id_08120§§§<zbr/> JACHAL, <Concept_Settlement>Villa</Concept_Settlement> pequeña de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuyo</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada al N
+    de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement> S. Juan</Settlement>. <zbr/>
+    <zbr/> §§§id_08120a§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>
+    de esta <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory>, nace a la parte del N en la
+        <Concept_Landmark>Cordillera</Concept_Landmark>, corre al Oriente, y se consume en unas
+        <Concept_Landmark>lagunas</Concept_Landmark> por falta de inclinación del terreno. <zbr/>
+    <zbr/> §§§id_08121§§§<zbr/> JACKMAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, situado en la
+    parte del Sur. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0481@@@<zbr/>
+    <zbr/> §§§id_08122§§§<zbr/> #JACKSOMBURG, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Georgia</Territory>, situado
+    a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Pompón</Landmark>, cerca de su salida al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_08123§§§<zbr/> JACKSONS, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Virginia</Territory> en el
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>Albemarle</Territory>, corre al
+    NO, y entra en la Cabecera del de <Landmark>James</Landmark>. <zbr/>
+    <zbr/> §§§id_08124§§§<zbr/> JACO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Puerto Seguro</Territory> en
+    el <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>,
+    corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark> entre el de los
+        <Landmark>Frayles</Landmark> y el <Concept_Landmark>monte</Concept_Landmark>
+    <Landmark>Pasqual</Landmark>. <zbr/>
+    <zbr/> §§§id_08125§§§<zbr/> Tiene el mismo nombre una <Concept_Landmark>Bahía</Concept_Landmark>
+    en la <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> del propio
+        <Concept_Territory>Reyno</Concept_Territory>, entre el
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Guarahú</Landmark> y la
+        <Concept_Landmark>peña</Concept_Landmark> de <Landmark>Porcelados</Landmark>. <zbr/>
+    <zbr/> §§§id_08126§§§<zbr/> JACOBINS, Río de los) o de los <humanGroup type="religious_group"
+        >Dominicos</humanGroup>, en la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Guadalupe</Territory>, nace en sus <Concept_Landmark>montañas</Concept_Landmark>,
+    corre al O, y sale al <Concept_Landmark>mar</Concept_Landmark> entre los de
+        <Landmark>Baillif</Landmark> y de <Landmark>Herbes</Landmark>. <zbr/>
+    <zbr/> §§§id_08127§§§<zbr/> S. JACOBO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory> en
+        <Territory>Nueva España</Territory>, situado cerca de la
+        <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Rosario</Settlement>. <zbr/>
+    <zbr/> §§§id_08128§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre en la <Concept_Landmark>Isla</Concept_Landmark> de la <Territory>Trinidad</Territory>,
+    situado en la <Concept_Landmark>Costa</Concept_Landmark> del N, con un
+        <Concept_Structure>fuerte</Concept_Structure> ##construido para su defensa, <zbr/>
+    <zbr/> §§§id_08129§§§<zbr/> JACOME, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Barcelona</Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace al S
+    del <Concept_Landmark>Valle</Concept_Landmark> de la <Landmark>Pasqua</Landmark>, y se une con
+    el de <Landmark>Santiago</Landmark> para entrar en el de <Landmark>Marapire</Landmark>. <zbr/>
+    <zbr/> §§§id_08130§§§<zbr/> JACORE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al
+    NNO, y entra en el de la <Landmark>Madera</Landmark>, al lado del de
+        <Landmark>Aripuana</Landmark>. <zbr/>
+    <zbr/> §§§id_08131§§§<zbr/> S. JACQUES, o Santiago) <Concept_Landmark>Islas</Concept_Landmark>
+    de) cerca de la <Concept_Landmark>Costa</Concept_Landmark> del
+        <Concept_Territory>país</Concept_Territory> del <Territory>Labrador</Territory> en el
+        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>S. Lorenzo</Landmark>, entre las de
+        <Landmark>Chanel</Landmark> y de <Landmark>Esquimales</Landmark>. <zbr/>
+    <zbr/> §§§id_08132§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de
+    la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> que corre al N, y entra
+    en el <Concept_Landmark>lago</Concept_Landmark>
+    <Landmark>Superior</Landmark>. <zbr/>
+    <zbr/> §§§id_08133§§§<zbr/> Una <Concept_Landmark>ensenada</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> del N en la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Martinica</Territory>, entre el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Santa María</Settlement> y el
+        <Landmark>Pilón de Azúcar</Landmark> o <Landmark>Pain du Sucre</Landmark>. <zbr/>
+    <zbr/> §§§id_08134§§§<zbr/> JACUADA, <Concept_Landmark>Río</Concept_Landmark> del
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Tocantines</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, corre al N,
+    y por la parte austral entra en el <Landmark>Guanapú</Landmark>, después de unirse con un
+        <Concept_Landmark>brazo</Concept_Landmark> del <Landmark>Marañon</Landmark> llamado
+        <Landmark>Tagipu</Landmark><zbr/>
+    <zbr/> @@@Alcedo_vol_2-0482@@@<zbr/>
+    <zbr/> #ru: está su entrada en 2 gr. 31 min. de lat. aust. <zbr/>
+    <zbr/> §§§id_08135§§§<zbr/> JACUNDA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre al
+    N en el <Concept_Territory>territorio</Concept_Territory> de los <humanGroup
+        type="political_group">Portugueses</humanGroup>, entre los de
+        <Landmark>Tocantines</Landmark> y <Landmark>Pacajas</Landmark>, y entra al
+        <Landmark>Marañon</Landmark> en el <Concept_Landmark>brazo</Concept_Landmark> que forma la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Joanes</Landmark> o
+        <Landmark>Marajo</Landmark>. <zbr/>
+    <zbr/> §§§id_08136§§§<zbr/> JACUARON, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el
+        <Territory>Brasil</Territory>, corre al S, luego tuerce su curso ál E, y desagua en la
+        <Concept_Landmark>laguna</Concept_Landmark> del <Landmark>Miní</Landmark>. <zbr/>
+    <zbr/> §§§id_08137§§§<zbr/> JACURA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
+    a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Guaique</Landmark>, al E de la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Coro</Settlement>. <zbr/>
+    <zbr/> §§§id_08138§§§<zbr/> JADAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado entre
+    las <Concept_Landmark>montañas</Concept_Landmark> que están al E de aquella
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08139§§§<zbr/> JAECES, <Concept_Group>Nación bárbara de Indios</Concept_Group>,
+    descendiente de los <humanGroup type="indigenous_group">Scimigaes</humanGroup>, que vive en las
+        <Concept_Landmark>selvas</Concept_Landmark> de los <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Tigre</Landmark> y <Landmark>Curaray</Landmark>. <zbr/>
+    <zbr/> §§§id_08140§§§<zbr/> JAEN, de Bracamoros)
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, confina al N
+    con el <Concept_Territory>territorio</Concept_Territory> de Zamora de la de
+        <Territory>Loxa</Territory>, al Poniente con la de <Territory>Piura</Territory>, ##al
+    Mediodía con el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, y a Levante con los <Concept_Landmark>bosques</Concept_Landmark> y
+        <Concept_Territory>país</Concept_Territory> de los <humanGroup type="indigenous_group"
+        >Xivaros</humanGroup>; la descubrió <persName>Pedro de Vergara</persName>, enviado por
+        <persName>Gonzalo Pizarro</persName> el año de 1538, y la conquistó poco después
+        <persName>Juan de Salinas</persName>, que fue su primer Gobernador; llamábase en aquel
+    tiempo <Territory>Silla y Chacaigna</Territory>, o <Territory>Igualsongo y
+    Pacamoros</Territory>, que conservó muchos años, hasta que sublevados los Indios de ambos
+        <Concept_Territory>territorios</Concept_Territory> destruyeron las principales
+        <Concept_Settlement>Poblaciones</Concept_Settlement>, agregándose las pocas que quedaron
+    casi un siglo después a la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Jaen</Settlement>, que dio denominación a esta
+        <Concept_Territory>Provincia</Concept_Territory>, y corrompidos los vocablos de sus primeros
+    nombres quedaron en <Territory>Yaguarsingo y Bracamoros</Territory>; es de temperamento muy
+    templado, abundante en algodón, de que hacen muy buenos texidos, como en cacao, qué es de
+    excelente calidad, cera silvestre y tabaco, cuyos frutos conduce por la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Piura</Territory> y sus
+        <Concept_Landmark>valles</Concept_Landmark> a <Settlement>Lima</Settlement> y al
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, donde los
+    venden con sobrada estimación; cría en sus potreros bastantes mulas y ganados, tiene ricas
+        <Concept_Landmark>minas</Concept_Landmark> de <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0483@@@<zbr/>
+    <zbr/> #oro, aunque no de la mejor calidad, y lavaderos en que cogen los Indios porciones
+    considerables; en sus <Concept_Landmark>bosques</Concept_Landmark> abundan las fieras y animales
+    silvestres, como tigres, leopardos, osos y dantas, que allí llaman gran bestia, y habitan en los
+    parages fríos de la <Concept_Landmark>Cordillera</Concept_Landmark>; riéganla los
+        <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Guancobamba</Landmark>, <Landmark>Chinchipe</Landmark>,
+    <Landmark>Paracassa</Landmark>, <Landmark>Turumbasa</Landmark>, <Landmark>Numballe</Landmark>,
+        <Landmark>Palanda</Landmark>, ##<Landmark>Simanchi</Landmark>, <Landmark>Sangalla</Landmark>
+    y <Landmark>San Francisco</Landmark>, que divide el
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory> del de
+        <Territory>Truxillo</Territory>; su <Concept_Settlement>Población</Concept_Settlement> es
+    muy corta, reducida a las <Concept_Settlement>Ciudades</Concept_Settlement> de
+        <Settlement>Jaen</Settlement>, <Settlement>Loyola</Settlement>,
+        <Settlement>Valladolid</Settlement> y <Settlement>Santiago de las montañas</Settlement>, que
+    impropiamente tienen aquel título, pues todas son unos
+        <Concept_Settlement>Pueblos</Concept_Settlement> quasi destruidos y miserables como los
+    restantes de su Población, que son los siguientes, <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>San Joseph</Settlement>, <zbr/>
+    <Settlement>Chito</Settlement>, <zbr/>
+    <Settlement>Sander</Settlement>, <zbr/>
+    <Settlement>Charape</Settlement>, <zbr/> ##<Settlement>Pucará</Settlement>, <zbr/>
+    <Settlement>Chinchipe</Settlement>, <zbr/>
+    <Settlement>Chirinos</Settlement>, <zbr/> ###<Settlement>Pomaca</Settlement>, <zbr/>
+    <Settlement>Tomependa</Settlement>, <zbr/>
+    <Settlement>Chucchunga</Settlement>, <zbr/> $$$<zbr/> por las continuas invasiones de los
+    infieles a que está muy expuesta. <zbr/>
+    <zbr/> §§§id_08141§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo
+    nombre; está fundada en un <Concept_Landmark>llano</Concept_Landmark> rodeado de
+        <Concept_Landmark>montes</Concept_Landmark> que llaman de <Landmark>Clachimayo</Landmark>
+    por el Capitán <persName>Diego Palomino</persName> el año de 1549, y a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Chinchipe</Landmark> o <Landmark>Guancabamba</Landmark> en la parte oriental; es de
+    buen temperamento, abundante en frutos, y de mucho comercio, porque es paso preciso del correo
+    que baxa de la <Concept_Landmark>sierra</Concept_Landmark> a <Settlement>Piura</Settlement> para
+    seguir por los <Concept_Landmark>valles</Concept_Landmark> a <Settlement>Lima</Settlement>; y
+    sin embargo está tan des##tituida, que aunque su vecindario consta de 4.000 habitantes son casi
+    todos <humanGroup type="social_group">gente de color</humanGroup>, y muy pocos <humanGroup
+        type="social_group">Españoles</humanGroup>: está 150 leguas de
+        <Settlement>Quito</Settlement>, y 60 de la <Concept_Settlement>Ciudad</Concept_Settlement>
+    de <Settlement>Loxa</Settlement>, en 5 gr. 25 min. de lat. aust. <zbr/>
+    <zbr/> §§§id_08142§§§<zbr/> JAGUA, Grande) <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, situado en la
+        <Concept_Landmark>Costa</Concept_Landmark> del N, cerca del de <Landmark>Nizao</Landmark>. <zbr/>
+    <zbr/> §§§id_08143§§§<zbr/> Otro hay con el sobrenombre de Chica, para distinguirlo del
+    anterior, en la misma <Concept_Landmark>Isla</Concept_Landmark> y
+        <Concept_Landmark>Costa</Concept_Landmark> situado entre él y la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Matanzas</Landmark>. <zbr/>
+    <zbr/> §§§id_08144§§§<zbr/> JAGUARIBE, <Concept_Landmark>Río</Concept_Landmark> de la <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0484@@@<zbr/>
+    <zbr/> #<Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el
+        <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>,
+    corre al N, y sale al <Concept_Landmark>mar</Concept_Landmark>, junto a la
+        <Concept_Landmark>ensenada</Concept_Landmark> de <Landmark>Ubarana</Landmark>. <zbr/>
+    <zbr/> §§§id_08145§§§<zbr/> JAGUEYES, <Concept_Landmark>Ensenada</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Perú</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory>,
+    junto al <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Malabrigo</Landmark>. <zbr/>
+    <zbr/> §§§id_08146§§§<zbr/> JAHUYAY, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace
+    enel <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Cocamas</humanGroup> de cabezas chatas, corre al N, y entra
+    en el <Landmark>Marañon</Landmark>, frente del <Concept_Settlement>Pueblo</Concept_Settlement>
+    de <Settlement>San Joaquín de los Omaguas</Settlement>. <zbr/>
+    <zbr/> §§§id_08147§§§<zbr/> JAIBA, <Concept_Landmark>Laguna</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, que se
+    forma de un <Concept_Landmark>desagüe</Concept_Landmark> de este
+        <Concept_Landmark>río</Concept_Landmark> a su orilla por la vanda del O. <zbr/>
+    <zbr/> §§§id_08147a§§§<zbr/> Otro estero hay con este nombre en la
+        <Concept_Landmark>Costa</Concept_Landmark> del O de la
+        <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Puna</Landmark>, en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory>. <zbr/>
+    <zbr/> §§§id_08148§§§<zbr/> S. JAIME <Concept_Landmark>Isla</Concept_Landmark> de) en el
+        <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, muy
+    inmediata a la <Concept_Landmark>Costa</Concept_Landmark> del Sur, entre la de
+        <Landmark>Ruperts</Landmark>, y el <Concept_Landmark>monte</Concept_Landmark> del
+        <Landmark>Pan de Azúcar</Landmark>. <zbr/>
+    <zbr/> §§§id_08149§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
+    a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Guanapalo</Landmark>, cerca de la boca ##donde entra en el <Landmark>Apure</Landmark>. <zbr/>
+    <zbr/> §§§id_08150§§§<zbr/> JAINA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, situado
+    en la <Concept_Landmark>Costa</Concept_Landmark> del S, a orilla del
+        <Concept_Landmark>río</Concept_Landmark> de su nombre. <zbr/>
+    <zbr/> §§§id_08150a§§§<zbr/> Este nace en las <Concept_Landmark>montañas</Concept_Landmark> del
+        <Landmark>Sur</Landmark>, corre al mismo rumbo, y sale al
+        <Concept_Landmark>mar</Concept_Landmark> entre el de <Landmark>Nigua</Landmark> y la
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08151§§§<zbr/> Otro hay en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace en
+    el <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Abacaris</humanGroup>, corre al E, y torciendo luego al NNE,
+    después de un dilatado curso de muchas leguas, entra en el de <Landmark>Juraena</Landmark>. <zbr/>
+    <zbr/> §§§id_08152§§§<zbr/> JALAHUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
+        <Settlement>Latani</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 113 familias
+    de <humanGroup type="social_group">Indios</humanGroup>, y está 22 leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08153§§§<zbr/> JALAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado
+    al frente del de <Settlement>Sabanilla</Settlement>. <zbr/>
+    <zbr/> §§§id_08154§§§<zbr/> JALCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y
+        Chillaos</Territory> en el <Territory>Perú</Territory>, es de temperamento muy frío. <zbr/>
+    <zbr/> §§§id_08155§§§<zbr/> JALOMBO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño de
+    la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
+    <zbr/> §§§id_08156§§§<zbr/> JALOSTOTITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera del <zbr/>
+        <zbr/> @@@Alcedo_vol_2-0485@@@<zbr/>
+        <zbr/> #partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
+    de <Territory>Lagos</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de la
+        <Territory>Nueva Galicia</Territory>, está 12 leguas al O, y 1/2 al SO de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08157§§§<zbr/> JALTEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
+        <Settlement>Jahuibe</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, es de temperamento
+    cálido, tiene 18 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 23
+    leguas de la <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08158§§§<zbr/> JAMA, <Concept_Landmark>Río</Concept_Landmark> grande de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, corre al
+    Poniente, y no lexos del <Concept_Landmark>mar</Concept_Landmark> tuerce su curso al NO, y sale
+    al <Concept_Landmark>mar</Concept_Landmark>
+    <Landmark>Pacífico</Landmark> formando la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Cara</Landmark> en 7 min. 30 seg. de lat. aust. <zbr/>
+    <zbr/> §§§id_08159§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> pequeño hay del mismo
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> del
+        <Concept_District>partido</Concept_District> de <Territory>Puerto Viejo</Territory>, corre
+    formando un semicírculo, y sale al <Concept_Landmark>mar</Concept_Landmark> detrás de la
+        <Concept_Landmark>punta</Concept_Landmark> de la <Landmark>Ballena</Landmark>. <zbr/>
+    <zbr/> §§§id_08160§§§<zbr/> JAMAYCA, <Concept_Landmark>Isla</Concept_Landmark> grande de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las
+        <Landmark>Antilles mayores</Landmark> descubierta por el Almirante <persName>Christóval
+        Colon</persName> el año de 1494 en su segundo viage, que la mudó el nombre en el de
+        <Territory>Santiago</Territory>, que conservó mientras estuvo en ##poder de los <humanGroup
+        type="political_group">Españoles</humanGroup>, pero le perdió el año de 1655 que los
+        <humanGroup type="political_group">Ingleses</humanGroup> la tomaron con una poderosa
+    Esquadra destinada por el Protector <persName>Cromuel</persName>, a la orden del Almirante
+        <persName>Penn</persName>, y del Coronel <persName>Venables</persName> que mandaba las
+    tropas de desembarco para atacar la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Santo Domingo</Territory>, de donde fueron rechazados: después la cedieron los
+        <humanGroup type="social_group">Españoles</humanGroup> a estos, y no tenía entonces más que
+    3.000 habitantes, inclusos 1500 <humanGroup type="social_group">Negros esclavos</humanGroup>,
+    sin más comercio que las piraterías que hacían en las
+        <Concept_Landmark>Costas</Concept_Landmark> de los <humanGroup type="political_group"
+        >Españoles</humanGroup>; pero después de la restauración del Rey <persName>Carlos
+        II</persName> al Trono de <Territory>Inglaterra</Territory> se aumentó su Población al
+    número de 18.000 habitantes, que empezaron a cultivar cacao, cañas de azúcar y
+        <Concept_Landmark>salinas</Concept_Landmark>, aumentándose de modo que hoy es una de las
+        <Concept_Territory>Colonias</Concept_Territory> más fértil, rica y comerciante de quantas
+    hay en la <Territory>América</Territory>; es la <Concept_Landmark>Isla</Concept_Landmark> mayor
+    de las <Territory>Antilles</Territory>, exceptuando las de <Territory>Cuba</Territory> y
+        <Territory>Santo Domingo</Territory>; ocupa desde 17 gr. hasta 18 y 27 min. de lat. y de 76
+    a 79 de long. tiene 140 millas de largo de la <Concept_Landmark>punta</Concept_Landmark> de
+        <Landmark>Negrillo</Landmark> al <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0486@@@<zbr/>
+    <zbr/> #O hasta la de <Landmark>Morante</Landmark> al E, y 60 en su mayor anchura de la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Gallina</Landmark> al N hasta la de
+        <Landmark>Portland</Landmark> al S, y forma la figura de un óvalo; su situación es la más
+    ventajosa para el comercio, distante 36 leguas al S de la de <Territory>Cuba</Territory>, y 39
+    al O de <Territory>Santo Domingo</Territory>, con la comodidad de tener 16
+        <Concept_Landmark>Bahías</Concept_Landmark> grandes, y 30
+        <Concept_Landmark>Puertos</Concept_Landmark> o parages donde anclar seguramente las
+    embarcaciones: está dividida por una cadena de <Concept_Landmark>montañas</Concept_Landmark> que
+    corren toda la <Concept_Landmark>Isla</Concept_Landmark> E O, y la parte occidental llaman
+        <Concept_Landmark>montañas</Concept_Landmark> azules, de donde nacen innumerables
+        <Concept_Landmark>ríos</Concept_Landmark> abundantes de toda especie de pescado, y muchos de
+    ellos son navegables en canoas, por donde conducen el azúcar de las
+        <Concept_Structure>plantaciones</Concept_Structure> a la
+        <Concept_Landmark>Costa</Concept_Landmark>: estas
+        <Concept_Landmark>montañas</Concept_Landmark> están llenas de árboles de más de cien
+    especies diferentes, particularmente cedros, lignum vitae, y caoba; están siempre verdes, y
+    forman hermosos <Concept_Landmark>bosques</Concept_Landmark>: unas son de más altura que otras,
+    y está variedad con los árboles y las <Concept_Structure>plantaciones</Concept_Structure> forman
+    de lexos una agradable perspectiva: algunos de los <Concept_Landmark>ríos</Concept_Landmark>
+    mudan ##su curso y el nombre después de alguna tempestad, y otros corren debaxo de tierra muchas
+    leguas: el célebre D. <persName>Sloane</persName> cuenta más de 106 que con más propiedad se
+    pueden llamar torrentes, pues corren pocas millas antes de salir al
+        <Concept_Landmark>mar</Concept_Landmark>, arrastran grandes piedras, maderos, y mucha arena
+    o tierra que enturbia el agua, y algunos tienen saltos de 50 u 60 pies de alto; el agua de las
+    fuentes distantes del <Concept_Landmark>mar</Concept_Landmark> se prefiere allí a la de los
+        <Concept_Landmark>ríos</Concept_Landmark>, y particularmente cerca de <Settlement>Puerto
+        Real</Settlement>, donde es gruesa, y ocasiona cursos y otras enfermedades a los que la
+    beben; hay varias fuentes y <Concept_Landmark>ríos</Concept_Landmark> en que el agua petrifica
+    los conductos, y impide su curso: el <Concept_Landmark>río</Concept_Landmark> de más
+    consideración de éstos es el de la <Concept_Structure>plantación</Concept_Structure> de
+        <Structure>Abraham</Structure>, al N de la <Concept_Landmark>Isla</Concept_Landmark>: cerca
+    de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Morante</Landmark>, a la parte del
+    E, hay en un <Concept_Landmark>bosque</Concept_Landmark> un baño de agua caliente que bebida y
+    bañándose en ella cura los cólicos, enfermedad muy común allí: casi dos millas del
+        <Concept_Landmark>mar</Concept_Landmark> nacen de una
+        <Concept_Landmark>montaña</Concept_Landmark> diferentes
+        <Concept_Landmark>arroyos</Concept_Landmark> salados que se unen y forman el
+        <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Sal</Landmark>; ésta <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0487@@@<zbr/>
+    <zbr/> #se hace en estanques donde entra el agua del <Concept_Landmark>mar</Concept_Landmark>,
+    cuya humedad exâlada por el calor del Sol dexa mucha abundancia de sal, particularmente cerca de
+    la <Concept_Landmark>Bahía</Concept_Landmark>
+    <Landmark>Vieja</Landmark>, y aunque no es muy blanca ni granada se cogen pedazos grandes: hay
+    también varias <Concept_Landmark>lagunas</Concept_Landmark>, y la que llaman
+        <Landmark>Río-hoa</Landmark> recibe mucha cantidad de agua de un
+        <Concept_Landmark>río</Concept_Landmark> cuyo curso no es visible. El clima de
+        <Territory>Jamayca</Territory> es más templado y vario que en las otras
+        <Concept_Landmark>Islas</Concept_Landmark>, y no hay
+        <Concept_Territory>país</Concept_Territory> situado entre los Trópicos donde el calor sea
+    menos molesto, porque el viento que regularmente sopla del E, y llaman briza, con freqüencia
+    trae lluvia, y refresca las noches: hacia el E y el O no es tan agradable como al S y al N por
+    los espesos <Concept_Landmark>bosques</Concept_Landmark> que hay en aquellas, y la hacen más
+    sujeta a tempestades de vientos y aguas, y en los parages montuosos es más frío el ayre, aunque
+    por lo común llueve en Enero; sin embargo Mayo y Octubre o Noviembre se conocen por los meses de
+    Invierno a causa de las tempestades de truenos y lluvias, que algunas veces duran mu##chos días
+    sin intermisión, inundando el terreno, y dexando intransitables los caminos: todo el año hace un
+    calor excesivo por la mañana hasta las ocho que empieza a correr la briza, llamada por la gente
+    común el Doctor, porque mientras dura trabajan los <humanGroup type="social_group"
+        >Negros</humanGroup> en el campo, y cada uno hace sus dependencias: este viento viene del
+        <Concept_Landmark>mar</Concept_Landmark> como si fuera humo, se va aumentando hasta las doce
+    que tiene mayor fuerza, y dura hasta las dos o las tres que empieza a baxar, y a las cinco cesa
+    hasta la mañana siguiente: a las ocho de la noche se levanta la briza de tierra que se extiende
+    4 leguas a la <Concept_Landmark>mar</Concept_Landmark>, y continúa aumentándose hasta las doce
+    que empieza a ceder, y a las quatro de la mañana se acaba; la primera es más fuerte unas veces
+    que otras, particularmente en los plenilunios, y en Diciembre, Enero y Febrero que reynan los
+    Nortes soplan con violencia entre las montanas y la confunden, menos cerca del
+        <Concept_Landmark>mar</Concept_Landmark>, como en <Settlement>Puerto Real</Settlement> y
+        <Concept_Structure>fuerte</Concept_Structure> del <Structure>Paso</Structure>, que tiene más
+    fuerza y duración; y al contrario la de tierra se <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0488@@@<zbr/>
+    <zbr/> #experimenta más tarde en la <Concept_Settlement>Ciudad</Concept_Settlement> que en los
+    parages dichos: como los vientos entre los Trópicos no vienen directamente del E, si no que
+    varían del NE al SE según la posición del Sol, la briza de
+        <Concept_Landmark>mar</Concept_Landmark> tiene aquí la misma variación porque no viene
+    siempre del mismo punto, lo qual no sucede a la de tierra que viene siempre de las
+        <Concept_Landmark>montañas</Concept_Landmark> de la parte del S y del N, algunas veces
+    aquella sopla en los meses de Invierno catorce días y noches seguidos, y entonces no hay nube
+    alguna, y solo cae rocío, y esto no sucede quando corren Nortes; en los
+        <Concept_Landmark>valles</Concept_Landmark> que hay entre las
+        <Concept_Landmark>montañas</Concept_Landmark> no tienen influencia estas brizas, pero los
+    Nortes arrancan los árboles: como el viento de tierra es por la noche, y el del
+        <Concept_Landmark>mar</Concept_Landmark> de día, solo en éste pueden entrar al
+        <Concept_Landmark>Puerto</Concept_Landmark> las embarcaciones, y salir de él en aquella: los
+    Nortes son más freqüentes quando el Sol está más cerca del Trópico de Capricornio, y por
+    consequencia más al S; es muy frío, mal sano, y más fuerte por la noche que se le añade el
+    terral; seca las ##cañas de azúcar y todos los vegetables que hay en la parte del N; pero en la
+    del S le cortan su fuerza las <Concept_Landmark>montañas</Concept_Landmark>, y rara vez trae
+    lluvias: las tempestades apenas se conocían en esta <Concept_Landmark>Isla</Concept_Landmark>
+    hasta 70 ú 80 años hace que los terribles huracanes y terremotos han hecho mucho daño en ella, y
+    en las embarcaciones. Las noches son muy frescas, en ellas cae un rocío que se tiene por enfermo
+    con especialidad para las gentes recién llegadas a el
+        <Concept_Territory>país</Concept_Territory>; pero en las
+        <Concept_Landmark>llanuras</Concept_Landmark> y <Concept_Landmark>Playas</Concept_Landmark>
+    cerca del <Concept_Landmark>mar</Concept_Landmark> no es así, las lluvias son violentas, y las
+    mareas apenas se distinguen porque su creciente y menguante depende de los vientos. Los días y
+    las noches son quasi iguales todo el año, y el mayor tiene trece horas, y la noche once, no
+    durando el crepúsculo más que tres quartos de hora. Los meses de Julio, Agosto y Setiembre
+    llaman allí a los huracanes, porque apenas hay año en que no se experimente alguno. Los vientos
+    fuertes del N traen tempestades con granizo y grandes relámpagos casi toda la noche, pero sin true<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0489@@@<zbr/>
+    <zbr/> #nos, y quando los hay son terribles. Los terremotos son tan comunes como en la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, y han
+    hecho considerables daños, como sucedió en los años de 1687 y 1692, y poco después un incendio
+    que arruinó casi toda la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Puerto
+        Real</Settlement>, que no se ha vuelto a reedificar; pero aún son todavía más temibles allí
+    los huracanes, como el que experimentaron el año de 1712, y otro que vino acompañado de un
+    terremoto el de 1722. Los <Concept_Landmark>valles</Concept_Landmark> que hay en esta
+        <Concept_Landmark>Isla</Concept_Landmark> son muy llanos, sin piedras: las
+        <Concept_Landmark>montañas</Concept_Landmark> están escarpadas, y algunas inaccesibles por
+    estar circundadas de <Concept_Landmark>barrancos</Concept_Landmark> muy profundos y torrentes
+    que forman las lluvias: solo una parte de ella está cultivada, y si lo fuera toda podría
+    producir tres veces más que ahora: en toda ella hay
+        <Concept_Structure>plantaciones</Concept_Structure>, pero ninguna lexos de la
+        <Concept_Landmark>Costa</Concept_Landmark>: en algunos parages es tan fértil el terreno que
+    una aranzada de tierra da cañas para hacer mucha azúcar: se hallan prados y
+        <Concept_Landmark>llanuras</Concept_Landmark> en que los Indios sembraban maíz, y después
+    los <humanGroup type="political_group">Españoles</humanGroup> criaban ga##nados, porque el pasto
+    crecía tanto que se veían precisados a quemarlo. Las producciones naturales de esta
+        <Concept_Landmark>Isla</Concept_Landmark> son azúcar, rum, jenjibre, algodón, café, añil,
+    pimienta, cacao, maderas de diferentes especies, drogas medicinales, y tabaco, pero éste de mala
+    calidad, y solo se cultiva para los <humanGroup type="social_group">Negros</humanGroup> que lo
+    estiman mucho; no produce ningún género de grano de <Territory>Europa</Territory> si no maíz,
+    trigo de Guinea, chícharos de varias especies; las frutas de que abunda son naranjas de china,
+    limones agrios y dulces, cidras, granadas, mameyes, papas, pinas, guayas, melones, sandías,
+    varios géneros de peras y manzanas, pero éstas no son como las de <Territory>Europa</Territory>,
+    no se dan si no en tal qual parage, como en los jardines donde a fuerza de cultivo y de cuidado
+    se dan toda especie de frutas y hortalizas. Además de lo dicho tienen canela silvestre muy útil
+    para la medicina; manzanilla, cuyo árbol es de la más hermosa vista, y su madera primorosa para
+    adornos, pero el fruto y el jugo del árbol muy venenoso; la caoba tan usada entre los <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0490@@@<zbr/>
+    <zbr/> #<humanGroup type="political_group">Ingleses</humanGroup> para todo que el año de 1770
+    importó su extracción 50.000 libras esterlinas o 300 mil pesos; la palma, de que sacan mucho
+    aceyte estimado por los <humanGroup type="social_group">Negros</humanGroup> así para el alimento
+    como para la medicina; el leño blanco que se usa para embarcaciones porque no le entra la
+    carcoma; el árbol de xabón, cuyo fruto tiene la misma virtud que éste para lavar; el palo
+    colorado y el de Campeche para los tintes, sin que falte el guayacán, zarzaparrilla, china,
+    casca, tamarindos, aloes y cochinilla, de cuyos frutos saca al año la siguiente utilidad: de
+    azúcar 100.000 arrobas, 30.000 azumbres de rum, otras tantas de melaza, 3 millones de libras de
+    pimienta, 500 botas de jenjibre de 500 libras cada una 1.000 de algodón de a 180 libras, 800
+    caxas de café de a 300 libras, y con esto mucha porción de las drogas referidas; pero el
+    principal comercio es él que hacen con los <humanGroup type="political_group"
+        >Españoles</humanGroup> de <Territory>Tierra-Firme</Territory> y <Territory>Nueva
+        España</Territory> con la venta de negros y efectos de <Territory>Europa</Territory> que
+    confiesan les produce cinco millones de pesos anuales. Pocos paí##ses hay tan abundantes de
+    ganado como esta <Concept_Landmark>Isla</Concept_Landmark>: sus caballos, burros y mulas son muy
+    baratos; los bueyes y vacas son muy grandes, y habría más si los naturales no se aplicasen más a
+    las <Concept_Structure>plantaciones</Concept_Structure> que a su cría, proveyéndose de carnes de
+    las <Concept_Territory>Colonias</Concept_Territory> Septentrionales y las demás
+        <Concept_Landmark>Islas</Concept_Landmark>; las ovejas y carneros son grandes, y su carne
+    muy buena, pero la lana es despreciable; hay muchas cabras, cabritos, conejos y cerdos: en las
+        <Concept_Landmark>Bahías</Concept_Landmark>, <Concept_Landmark>Puertos</Concept_Landmark> y
+        <Concept_Landmark>ríos</Concept_Landmark> abunda todo género de pescado, pero estiman sobre
+    todos la tortuga: hay muchas aves así domésticas como silvestres, papagayos más que en otra
+    ninguna <Concept_Landmark>Isla</Concept_Landmark>, becacines, gallinas de Guinea, pichones,
+    ocas, ánades, pelicanos y fragatas, cuya grasa es buena para los dolores: hay moscas de fuego,
+    que son una especie de cantáridas, porque echan de sí una luz; de día son verdes, y por la noche
+    brillantes, y aún después de muertas. Está dividida la <Concept_Landmark>Isla</Concept_Landmark>
+    en 19 <Concept_District>distritos</Concept_District> o
+        <Concept_District>Parroquias</Concept_District>, que cada una envía dos Diputados a la
+    asamblea, y son <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0491@@@<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Santa Catalina</Settlement>. <zbr/>
+    <Settlement>Puerto Real</Settlement>. <zbr/>
+    <Settlement>Kingstón</Settlement>. <zbr/>
+    <Settlement>Santa Dorotea</Settlement>. <zbr/>
+    <Settlement>Clarendón</Settlement>. <zbr/>
+    <Settlement>Vere</Settlement>.<zbr/>
+    <Settlement>Santa Isabel</Settlement>.<zbr/> ##<Settlement>Westmoreland</Settlement>. <zbr/>
+    <Settlement>Santa Ana</Settlement>. <zbr/>
+    <Settlement>Santo Tomás</Settlement>. <zbr/>
+    <Settlement>San Andrés</Settlement>. <zbr/>
+    <Settlement>San Juan</Settlement>. <zbr/>
+    <Settlement>Santo Tomás del Valle</Settlement>. <zbr/> ###<Settlement>Hannover</Settlement>. <zbr/>
+    <Settlement>San Jorge</Settlement>. <zbr/>
+    <Settlement>Santiago</Settlement>. <zbr/>
+    <Settlement>Santa María</Settlement>. <zbr/>
+    <Settlement>Portland</Settlement>. <zbr/>
+    <Settlement>S. David</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> #El año de 1736 tenía seis <Concept_Structure>fortalezas</Concept_Structure> con los
+    nombres de <Concept_Structure>fuerte</Concept_Structure>
+    <Structure>Carlos</Structure> en <Territory>Puerto Real</Territory>, <Structure>Puerto de la
+        Roca</Structure> a la entrada del de <Settlement>Kingston</Settlement>, fuerte de Puerto
+    Antonio, <Concept_Structure>fuerte</Concept_Structure>
+    <Structure>Guillermo</Structure>, <Concept_Structure>fuerte</Concept_Structure>
+    <Structure>Morante</Structure>, y <Concept_Structure>fuerte</Concept_Structure> de la
+        <Structure>Bahía de Carlisle</Structure>: sus tropas consisten de nueve Regimientos de
+    Milicias de Infantería y Caballería que contienen cerca de 3.000 hombres, y ocho Compañías
+    independientes a sueldo del Rey, y por ley de la <Concept_Landmark>Isla</Concept_Landmark> todo
+    vecino desde 16 años a 60 está obligado a alistarse en las Milicias: pertenece en lo
+    Eclesiástico, como las demás <Concept_Territory>Colonias</Concept_Territory>
+    <humanGroup type="political_group">Inglesas</humanGroup>, al Obispo de
+        <Territory>Londres</Territory>, y en lo Político y Militar se gobierna por un Gobernador
+    nombrado por el Rey de <Territory>Inglaterra</Territory>, que siempre es persona de la primera
+    calidad y mérito, con título de Capitán General, Almirante y Gran ##Canciller de la
+        <Concept_Landmark>Isla</Concept_Landmark>, y facultad de dar toda especie de comisiones, de
+    congregar y disolver la Asamblea (que se compone de doce personas de la primera distinción
+    nombrados por el Rey, y forman la Cámara alta, y quarenta y tres representantes del
+        <Concept_Settlement>Pueblo</Concept_Settlement> elegidos por las
+        <Concept_District>Parroquias</Concept_District>): puede perdonar los delitos, exceptuando
+    los de felonía y homicidio; y en suma tiene una omnímoda autoridad que unida al sueldo de 2500
+    libras esterlinas, sin un quantioso regalo que le hacen a su entrada, los donativos que le
+    concede la Asamblea, y lo que le contribuyen los <humanGroup type="religious_group"
+        >Judíos</humanGroup>, y otros emolumentos, se reputa por 100.000 libras esterlinas al año, y
+    hacen reputar este gobierno por el mejor de la Corona después del
+        <Concept_Territory>Virreynato</Concept_Territory> de <Territory>Irlanda</Territory>. El año
+    de 1778 tenía 17949 habitantes blancos, inclusos 8.000 <humanGroup type="religious_group">Ju<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0492@@@<zbr/>
+        <zbr/> #díos</humanGroup>, 166904 <humanGroup type="social_group">Negros
+        esclavos</humanGroup> libres y <humanGroup type="social_group">Mulatos</humanGroup>, 680
+        <Concept_Structure>plantaciones</Concept_Structure> de azúcar, 110
+        <Concept_Structure>obrages</Concept_Structure> de algodón, 100
+        <Concept_Structure>plantaciones</Concept_Structure> de pimienta, 30 de jenjibre, 150 de
+    café, 8 <Concept_Structure>obrages</Concept_Structure> de añil. El año de 1735 se sublevaron los
+        <humanGroup type="social_group">Negros esclavos</humanGroup> retirándose a las
+        <Concept_Landmark>montañas</Concept_Landmark>, y haciendo guerra a los <humanGroup
+        type="political_group">Ingleses</humanGroup>, y aunque se reduxeron, han quedado algunos
+    fortificados en aquellas asperezas que con freqüencia repiten sus insultos. Mientras estuvo esta
+        <Concept_Landmark>Isla</Concept_Landmark> en poder de ##los <humanGroup
+        type="political_group">Españoles</humanGroup>, desde que la conquistó y pobló <persName>Juan
+        de Esquibél</persName> el año de 1509, fue Abadía erigida en 1514, la concedió el Rey en
+    propiedad al Almirante <persName>Christóval Colon</persName>, y fue hecha Marquesado para los
+    Primogénitos de los Duques de Veragua, que hoy solo poseen el título: dista 140 leguas de la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Tierra-Firme</Territory>. La
+        <Concept_Settlement>Capital</Concept_Settlement> era <Settlement>Santiago de la
+        Vega</Settlement>, y hoy <Settlement>Kingstown</Settlement>. Está en 301 gr. de long. y en
+    18 de lat. <zbr/>
+    <zbr/> #___GOBERNADORES INGLESES QUE HA HABIDO en <Territory>Jamayca</Territory>.___ <zbr/>
+    <zbr/> ßßß<zbr/> 1 El Coronel <persName>Doyley</persName>, nombrado primer Gobernador quando se
+    apoderaron de la <Concept_Landmark>Isla</Concept_Landmark> los <humanGroup
+        type="political_group">Ingleses</humanGroup> el año de 1655, acabó de perseguir a los
+        <humanGroup type="social_group">Españoles</humanGroup> que quedaban, y estableció la
+        <Concept_Territory>Colonia</Concept_Territory>, gobernando con inteligencia hasta que llegó
+    nombrado por el Protector Cromwel. <zbr/> 2 El Mayor <persName>Sedgwich</persName>, cuyo
+    gobierno duró pocos meses porque haciéndole novedad el clima y alimentos murió muy luego. <zbr/>
+    3 El mismo <persName>Doyley</persName>, que tomó el gobierno por aclamación de todos los
+    habitantes; pero luego que en <Territory>Inglaterra</Territory> se supo la muerte del antecesor
+    se nombró <zbr/> 4 El Coronel <persName>Brayne</persName>, Irlandés, partidario del Protector;
+    pero también tuvo la desgracia de morir a pocos días de su llegada a
+        <Territory>Jamayca</Territory> con un refuerzo de mil hombres el año de 1658. <zbr/> 5 El ya
+    referido Coronel <persName>Doyley</persName> entró tercera vez a el gobierno, y fue confirmado
+    en él por el Parla<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0493@@@<zbr/>
+    <zbr/> #mento después de la muerte de <persName>Oliverio Cromwell;</persName> pero el Rey
+        <persName>Carlos II</persName> quando fue restablecido a el Trono de
+        <Territory>Inglaterra</Territory> lo separó del gobierno el año de 1661. <zbr/> 6 El Lord
+        <persName>Windsór</persName> que estableció las leyes y el gobierno civil, y dio las mejores
+    disposiciones; pero solo gobernó dos años, porque habiendo permitido domiciliarse a los
+        <humanGroup type="political_group">Flibustiers</humanGroup> en la
+        <Concept_Landmark>Isla</Concept_Landmark> se quexó la Corte de <Territory>España</Territory>
+    de las piraterías y robos que hacían protegidos del Gobernador de
+    <Territory>Jamayca</Territory>, por lo qual fue separado del gobierno el año de 1663. <zbr/> 7
+        <persName>Tomás Moddyford</persName>, vecino rico de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> que se
+    estableció en la de <Territory>Jamayca</Territory> en el gobierno anterior, fue nombrado para
+    entrar en él, y en su tiempo cobró su mayor auge esta
+        <Concept_Territory>Colonia</Concept_Territory> porque fomentó las
+        <Concept_Structure>plantaciones</Concept_Structure> y
+        <Concept_Settlement>establecimientos</Concept_Settlement>, y a los piratas que con sus robos
+    enriquecieron la <Concept_Landmark>Isla</Concept_Landmark>.<zbr/> 8 <persName>Tomás
+        Lynch</persName> que siguió los pasos de su antecesor, y comisionó al pirata
+        <persName>Morgan</persName> en las expediciones que hizo contra los <humanGroup
+        type="political_group">Españoles</humanGroup> a <Settlement>Maracaibo</Settlement>,
+        <Settlement>Granada</Settlement>, <Settlement>Panamá</Settlement>,
+        <Settlement>Portobelo</Settlement> y <Settlement>Chagre</Settlement>, lo qual dio motivo a
+    que las vivas representaciones de la Corte de <Territory>España</Territory> a la
+        <Territory>Inglaterra</Territory> lo separasen del gobierno el año de 1773. <zbr/> 9 El
+        <persName>Duque de Albemarle</persName>, enviado con particular comisión de exterminar los
+    piratas, como lo hizo mandando ahorcar a quantos pudo haber a las manos, cuyo beneficio produxo
+    la tranquilidad en las <Concept_Landmark>Costas</Concept_Landmark> y
+        <Concept_Landmark>Puertos</Concept_Landmark> de los <humanGroup type="political_group"
+        >Españoles</humanGroup>, y grande aplauso a este Gobernador, que murió el año de 1689.
+    <zbr/> 10 Milord <persName>Jusquin</persName>, en cuyo tiempo hicieron los <humanGroup
+        type="political_group">Franceses</humanGroup> mandados por Mr. <persName>Daviot</persName>
+    una invasión en la <Concept_Landmark>Isla</Concept_Landmark>, y sucedió en ésta el gran
+    terremoto en que perecieron más de 10.000 personas el año de 1692. <zbr/> 11 Milord
+        <persName>Bellamont</persName>, en su tiempo se establecieron los <humanGroup
+        type="political_group">Escoceses</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> del <Territory>Darién</Territory>
+    protegidos de él, a cuyo pesar fueron echados por el Gobernador de
+        <Territory>Cartagena</Territory>, gobernó hasta el año de 1708. <zbr/> 12 El <persName>Conde
+        de Peterbourg</persName>, enviado con motivo de la <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0494@@@<zbr/>
+    <zbr/> #guerra de succesíon para fomentar otra vez el establecimiento del
+        <Territory>Darién</Territory>, llevando autoridad para que estuviesen a sus órdenes quantas
+    embarcaciones Inglesas hubiese en la <Territory>América</Territory>. <zbr/> 13 El
+        <persName>Duque de Portland</persName> fue nombrado Gobernador el año de 1721, murió el de
+    1725. <zbr/> 14 El <persName>Conde de Stayrs</persName>, nombrado el mismo año de 1726, gobernó
+    hasta el de 1737 que fue nombrado <zbr/> 15 El Caballero <persName>Eduardo Trewlaney</persName>,
+    que ha sido el que más largo tiempo ha gobernado a satisfacción de la Corte y de todos los
+    habitantes de la <Concept_Landmark>Isla</Concept_Landmark> por sus bellas qualidades, pacificó
+    la sublevación de los <humanGroup type="social_group">Negros</humanGroup>, y se restituyó a
+        <Territory>Inglaterra</Territory> dexando el gobierno el año de 1752. <zbr/> 16 El Almirante
+        <persName>Carlos Knowles</persName>, después del dilatado mérito que lo hizo glorioso, fue
+    nombrado para succeder al anterior, y gobernó hasta el año de 1761 que volvió a
+        <Territory>Inglaterra</Territory>, y pasó destinado a <Territory>Rusia</Territory> para
+    arreglar la Marina de aquel <Concept_Territory>Imperio</Concept_Territory>. <zbr/> 17
+        <persName>Guillermo Enrique Littleton</persName> pasó de Gobernador a
+        <Territory>Jamayca</Territory> el año de 1762, y el de 1766 promovido de Embaxador a la
+    Corte de <Territory>Lisboa</Territory>. <zbr/> 18 El General <persName>Eduardo Wortley
+        Montagú</persName>, nombrado Gobernador el año referido, y destinado el siguiente a
+    Embaxador de la Corte de <Territory>Rusia</Territory>. <zbr/> 19 El General <persName>Guillermo
+        Moncktón</persName>, nombrado el año de 1767. <zbr/> 20 El Caballero Dalyng, nombrado el año
+    de <zbr/> 21 El Lord <persName>Guillermo Campbell</persName>, Ingeniero General de la
+        <Territory>América</Territory>, Gobernador de la <Territory>Carolina Meridional</Territory>,
+    fue nombrado el año de 1780. $$$<zbr/>
+    <zbr/> §§§id_08161§§§<zbr/> #Tiene el mismo nombre una
+        <Concept_Settlement>Ciudad</Concept_Settlement> principal de la
+        <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>Larga</Landmark> o de <Landmark>Nassau</Landmark>, perteneciente al
+        <Concept_Territory>Condado</Concept_Territory> de la <Territory>Reyna</Territory> en la
+        <Territory>Nueva Yorck</Territory>, situada en la parte del O, 8 millas de
+        <Settlement>Hamps##tead</Settlement>, y casi lo mismo de <Settlement>Bedford</Settlement>. <zbr/>
+    <zbr/> §§§id_08162§§§<zbr/> JAMALCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y
+        Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Ron</Settlement>. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0495@@@<zbr/>
+    <zbr/> §§§id_08163§§§<zbr/> #JAMBUTE, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el
+        <Territory>Brasil</Territory>, situada al S de la de <Settlement>Pinhanga</Settlement>. <zbr/>
+    <zbr/> §§§id_08164§§§<zbr/> S. JAMES, o Santiago) <Concept_Territory>Condado</Concept_Territory>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, confina
+    al E con el de <Territory>Carlos</Territory>, y se extiende por ambas partes del
+        <Concept_Landmark>río</Concept_Landmark> de su nombre, contiene 108362 acres o medidas de
+    tierra, y está dividido en cinco <Concept_District>Parroquias</Concept_District> o
+        <Concept_District>distritos</Concept_District>, que son
+    <Settlement>Wallingford</Settlement>, <Settlement>Wilmington</Settlement>,
+        <Settlement>James-town</Settlement>, <Settlement>Merchantshundred</Settlement> a la parte
+    del N del <Concept_Landmark>río</Concept_Landmark>, y <Settlement>Bruton</Settlement> a la del
+    Sur. <zbr/>
+    <zbr/> §§§id_08165§§§<zbr/> Tiene el mismo nombre una
+        <Concept_Settlement>Ciudad</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Condado</Concept_Territory> antecedente que fue antes
+        <Concept_Settlement>Capital</Concept_Settlement> de él, situada en una
+        <Concept_Landmark>Península</Concept_Landmark> a la orilla septentrional del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>James</Landmark> o <Landmark>Ponhatan</Landmark>, 42 millas distante de su entrada,
+    hoy tiene solo 70 casas dispersas, habitadas la mayor parte de marineros, y es muy pobre desde
+    que se trasladaron los oficios a <Settlement>Williamsburg</Settlement>, 8 millas distante, por
+    su mejor situación, y sin estanques de agua del <Concept_Landmark>mar</Concept_Landmark> como
+    esta que la hacen propensa a tercianas: está ##en 76gr. y 5 1 min. de long. y 37 gr. 16 min. de
+    lat. <zbr/>
+    <zbr/> §§§id_08166§§§<zbr/> Otra <Concept_Settlement>Ciudad</Concept_Settlement> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina
+        Septentrional</Territory>. <zbr/>
+    <zbr/> §§§id_08167§§§<zbr/> Otra en la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Barbada</Territory>, una de las de <Territory>Barlovento</Territory>. <zbr/>
+    <zbr/> §§§id_08168§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> en la misma
+        <Concept_Landmark>Isla</Concept_Landmark>, situado en la extremidad que mira al N. <zbr/>
+    <zbr/> §§§id_08169§§§<zbr/> Otro en la misma <Concept_Landmark>Isla</Concept_Landmark> del
+        <Concept_District>distrito</Concept_District> y
+        <Concept_District>Parroquia</Concept_District> de <Settlement>Todos Santos</Settlement>. <zbr/>
+    <zbr/> §§§id_08170§§§<zbr/> Una <Concept_Landmark>Bahía</Concept_Landmark> en la parte oriental
+    y división más occidental de la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Hudsón</Landmark> tiene 100 leguas de fondo desde el
+        <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Henriqueta</Landmark> María en 55 gr.
+    15 min. de lat. hasta lo último de ella, y 50 o 60 de ancho, en ella hay varias
+        <Concept_Landmark>Islas</Concept_Landmark> llamadas <Landmark>Bear</Landmark>,
+        <Landmark>Viner</Landmark>, <Landmark>Charlton</Landmark> y <Landmark>Cape Hope</Landmark>. <zbr/>
+    <zbr/> §§§id_08171§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> caudaloso en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, que tiene
+    su origen 40 millas del <Landmark>Kanhava</Landmark>, <Concept_Landmark>brazo</Concept_Landmark>
+    del <Landmark>Ohio</Landmark>, y llega hasta <Settlement>Augusta</Settlement>, tiene varios
+    saltos, y sin embargo es navegable hasta la <Territory>Nueva Virginia</Territory>, y sale al
+        <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Chesapeack</Landmark>. <zbr/>
+    <zbr/> §§§id_08172§§§<zbr/> Una <Concept_Landmark>Isla</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Georgia</Territory>, µµµvéase
+    Northmainµµµ. <zbr/>
+    <zbr/> §§§id_08173§§§<zbr/> Otras dos <Concept_Landmark>Islas</Concept_Landmark> pequeñas, <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0496@@@<zbr/>
+    <zbr/> #llamadas la una Grande y la otra Chica, cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Virginia</Territory> en el
+        <Concept_Landmark>Canal</Concept_Landmark> del <Landmark>Rey</Landmark>, al E de la
+        <Landmark>Tórtola</Landmark> y O de la de <Territory>Santo Tomás</Territory>, entre la qual
+    y ellas está el pasage de <Landmark>S. James</Landmark>. <zbr/>
+    <zbr/> §§§id_08174§§§<zbr/> JAMON, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Luya y
+        Chillaos</Territory> en el <Territory>Perú</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Colcamár</Settlement>. <zbr/>
+    <zbr/> §§§id_08175§§§<zbr/> JAMUNDA, Piedad de) <Concept_Settlement>Pueblo</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> en la
+    parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, a orilla del
+        <Concept_Landmark>río</Concept_Landmark> de su nombre, y no lexos de una
+        <Concept_Landmark>laguna</Concept_Landmark> que toma la misma denominación. <zbr/>
+    <zbr/> §§§id_08176§§§<zbr/> Aquél corre muchas leguas al SSE, y entra en la
+        <Concept_Landmark>laguna</Concept_Landmark> referida. <zbr/>
+    <zbr/> §§§id_08177§§§<zbr/> Ésta se forma de las aguas de este, del de las
+        <Landmark>Trombetas</Landmark>, y otros en el
+        <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Samundases</humanGroup>; es grande, y desagua por dos
+        <Concept_Landmark>brazos</Concept_Landmark> o <Concept_Landmark>canales</Concept_Landmark>
+    en el gran <Concept_Landmark>río</Concept_Landmark> del <Landmark>Marañon</Landmark>, formando
+    la gran <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Maravia</Landmark>. <zbr/>
+    <zbr/> §§§id_08178§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> pequeño hay del mismo
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> del
+        <Territory>Nuevo Reyno de Granada</Territory>, corre al NNE, y entra en el de
+        <Landmark>Cauca</Landmark>. <zbr/>
+    <zbr/> §§§id_08179§§§<zbr/> JANOS) <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Pre##sidio</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>,
+    fundado para contener las incursiones de los <Concept_Group>Indios infieles</Concept_Group>
+    <humanGroup type="indigenous_group">Apaches</humanGroup> en una espaciosa
+        <Concept_Landmark>llanura</Concept_Landmark> que tiene 6 leguas de extensión por todas
+    partes, cuyo terreno está cultivado, y produce bastante trigo, tiene 100 familias, y un Capitán
+    que reside en él, con un Teniente, un Alférez, y un Sargento con 47 Soldados, para cuya
+    comodidad hay un buen quartel con habitaciones para el Comandante, Capellán etc. una Capilla muy
+    buena, cuyo edificio tiene quatro torres que lo flanquean para su defensa: está en la extremidad
+    de este <Concept_Territory>Reyno</Concept_Territory>, en 49 gr. 20 min. de lat. <zbr/>
+    <zbr/> §§§id_08180§§§<zbr/> JAPERIBUI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre
+    al E, y entra en el <Landmark>Paraná</Landmark>, entre los de <Landmark>Iluci</Landmark> y
+        <Landmark>Roy</Landmark>. <zbr/>
+    <zbr/> §§§id_08181§§§<zbr/> JAPOA, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Paraiba</Territory> en el
+        <Territory>Brasil</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Territory>Paraiba</Territory>, casi en su boca o salida del
+        <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_08182§§§<zbr/> JAQUE, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, nace en
+    las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Ciboo</Landmark>, corre al SSO, y
+    entra en el de <Landmark>Neiba</Landmark>. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0497@@@<zbr/>
+    <zbr/> §§§id_08183§§§<zbr/> #JAQUEHUA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lipes</Territory> y
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08184§§§<zbr/> JAQUEI, De la Zorra) <Concept_Landmark>Cerro</Concept_Landmark> o
+        <Concept_Landmark>monte</Concept_Landmark> muy alto de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en
+    el <Territory>Perú</Territory>. <zbr/>
+    <zbr/> §§§id_08185§§§<zbr/> JAQUEMEL, <Concept_Settlement>Villa</Concept_Settlement> de los
+        <humanGroup type="political_group">Franceses</humanGroup> en la parte que poseen de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, está en
+    la <Concept_Landmark>Costa</Concept_Landmark> del Sur, a orilla de una gran
+        <Concept_Landmark>ensenada</Concept_Landmark>, entre el
+        <Concept_Landmark>cabo</Concept_Landmark> de su nombre y el de
+    <Landmark>Marechal</Landmark>. <zbr/>
+    <zbr/> §§§id_08186§§§<zbr/> La <Concept_Landmark>punta</Concept_Landmark> referida o
+        <Concept_Landmark>cabo</Concept_Landmark> está en la misma
+        <Concept_Landmark>Costa</Concept_Landmark>, entre el de <Landmark>Marechal</Landmark> y la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Moral</Landmark>. <zbr/>
+    <zbr/> §§§id_08187§§§<zbr/> JAQUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Camaná</Territory> en el
+        <Territory>Perú</Territory>, situado en un dilatado
+        <Concept_Landmark>valle</Concept_Landmark> de quien toma el nombre, anexo al
+        <Concept_District>Curato</Concept_District> de <Settlement>Acari</Settlement>. <zbr/>
+    <zbr/> §§§id_08188§§§<zbr/> JAQUIN, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> del S de la de <Territory>Santo
+        Domingo</Territory> en la parte que poseen los <humanGroup type="political_group"
+        >Franceses</humanGroup>, entre la <Concept_Landmark>punta</Concept_Landmark> de
+        <Landmark>Pasqual</Landmark> y la del <Landmark>Diamante</Landmark>. <zbr/>
+    <zbr/> §§§id_08189§§§<zbr/> JAQUIPEI, o Cesta del Tabaco) Pedazo de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, a
+    ##orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Plata</Landmark>, entre
+    los de <Landmark>San Lorenzo</Landmark> y <Landmark>Santa Lucía</Landmark>. <zbr/>
+    <zbr/> §§§id_08190§§§<zbr/> JAQUIRI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el
+        <Territory>Brasil</Territory>, corre casi al O, y entra en la Cabecera del de
+        <Landmark>Tiete</Landmark>. <zbr/>
+    <zbr/> §§§id_08191§§§<zbr/> JARAGUAI, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    bárbaros de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado
+    en los confines de la de <Territory>Cartagena</Territory> en la
+        <Concept_Landmark>montaña</Concept_Landmark>, a orilla de un
+        <Concept_Landmark>caño</Concept_Landmark> o <Concept_Landmark>brazo</Concept_Landmark> del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Sinú</Landmark>. <zbr/>
+    <zbr/> §§§id_08192§§§<zbr/> JARDINERO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
+    al E, y a corta distancia de la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Territory>Guanare</Territory>, en una <Concept_Landmark>lengua de tierra</Concept_Landmark>
+    que forma un <Concept_Landmark>río</Concept_Landmark> pequeño para entrar en el de
+        <Territory>Guanare</Territory>. <zbr/>
+    <zbr/> §§§id_08193§§§<zbr/> JARDINES, De la Reyna) <Concept_Landmark>Islotes</Concept_Landmark>
+    o <Concept_Landmark>baxos</Concept_Landmark> de <Concept_Landmark>peña</Concept_Landmark>, cerca
+    de la <Concept_Landmark>Costa</Concept_Landmark> meridional de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, al E de la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Jagua</Landmark>, en que se han
+    perdido muchas embarcaciones, y entre estos dos navíos de guerra que mandaba Mr. <persName>Du
+        Rochet</persName> el año de 1727. <zbr/>
+    <zbr/> §§§id_08194§§§<zbr/> Otros <Concept_Landmark>baxos</Concept_Landmark> hay con el nombre
+    de Jardines del Rey, para distinguirlos de los an<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0498@@@<zbr/>
+    <zbr/> #teriores en la <Concept_Landmark>Costa</Concept_Landmark> opuesta de la misma
+        <Concept_Landmark>Isla</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_08195§§§<zbr/> JARETA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
+        <Settlement>Ocotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 39 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y está 6 leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_08196§§§<zbr/> JARIAPU, Trinidad de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de
+    la Compañía en la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Apolobamba</Territory>. <zbr/>
+    <zbr/> §§§id_08197§§§<zbr/> JARRIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Parianchacra</Settlement>. <zbr/>
+    <zbr/> §§§id_08198§§§<zbr/> JARUMA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory> que
+    entra en el de <Landmark>Menday</Landmark>. <zbr/>
+    <zbr/> §§§id_08199§§§<zbr/> JASAPE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>,
+    situado cerca de la <Concept_Settlement>Capital</Concept_Settlement>
+    <Settlement>Durango</Settlement>. <zbr/>
+    <zbr/> §§§id_08200§§§<zbr/> JASKEGI, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina
+        Meridional</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Albama</Landmark>. <zbr/>
+    <zbr/> §§§id_08201§§§<zbr/> JASKIGIS, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, a orilla
+    del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Apalachicola</Landmark>. <zbr/>
+    <zbr/> §§§id_08202§§§<zbr/> JATEBO, <Concept_Settlement>Pueblo</Concept_Settlement> de las
+    Misiones que tenían los Regulares de la Compañía en ##la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>. <zbr/>
+    <zbr/> §§§id_08203§§§<zbr/> JAULIA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory>
+    en el <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, nace al E de
+    la <Concept_Settlement>Capital</Concept_Settlement>, y torciendo un poco su curso sigue a el SE. <zbr/>
+    <zbr/> §§§id_08204§§§<zbr/> JAUMAVE, San Juan Baptista de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>reducción de Indios</Concept_Settlement> de las Misiones que tienen los
+    Religiosos de San Francisco en el <Concept_District>distrito</Concept_District> de la
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guadalcázar</Territory>,
+    tiene 15 familias de <humanGroup type="social_group">Indios</humanGroup>, además de los que
+    habitan una <Concept_Landmark>Cañada</Concept_Landmark> en su inmediación: está 30 leguas de la
+    Cabecera de <Settlement>Tula</Settlement>. <zbr/>
+    <zbr/> §§§id_08205§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sierra Gorda</Territory> en el
+        <Concept_Landmark>Seno</Concept_Landmark>
+    <Landmark>Mexicano</Landmark> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva
+        España</Territory>, una de las <Concept_Settlement>Poblaciones</Concept_Settlement> que
+    fundó el Conde de <Territory>Sierra Gorda</Territory> Don <persName>Joseph de
+        Escandón</persName>, Coronel de Milicias de <Settlement>Queretaro</Settlement>, el año de
+    1748. <zbr/>
+    <zbr/> §§§id_08206§§§<zbr/> JAURU, <Concept_Landmark>Río</Concept_Landmark> del
+        <Concept_Territory>territorio</Concept_Territory> de <Territory>Matogroso</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace al
+    Sur de la <Concept_Settlement>Villa</Concept_Settlement> Bella de
+        <Territory>Matogroso</Territory>, corre al E, y torciendo su curso hacia el N entra en el
+    del <Landmark>Paraguay</Landmark>. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0499@@@<zbr/>
+    <zbr/> §§§id_08207§§§<zbr/> #JAUXA, µµµvéase Xauxaµµµ. <zbr/>
+    <zbr/> §§§id_08208§§§<zbr/> JAYACATEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
+        <Settlement>Ocotepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 78 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y está 9 leguas al Oriente de su
+        <Concept_Settlement>Capital</Concept_Settlement>
+    <zbr/>
+    <zbr/> §§§id_08209§§§<zbr/> JAYAN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> en la
+        <Concept_Landmark>Costa</Concept_Landmark> de la Cabeza del E, sale al
+        <Concept_Landmark>mar</Concept_Landmark> en la gran
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, entre el de
+        <Landmark>Guayabo</Landmark> y el de <Landmark>Culebras</Landmark>. <zbr/>
+    <zbr/> §§§id_08210§§§<zbr/> JAYANCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el
+        <Territory>Perú</Territory>, situado en un hermoso
+        <Concept_Landmark>valle</Concept_Landmark> muy fértil en cepas, de que cogen al año más de
+    600 botijas de vino de a 25 frascos cada una. <zbr/>
+    <zbr/> §§§id_08211§§§<zbr/> JAYAZA-YEUPETIRA, <Concept_Landmark>Río</Concept_Landmark> pequeño
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre
+    al O, y entra en el <Landmark>Paraná</Landmark>. <zbr/>
+    <zbr/> §§§id_08212§§§<zbr/> JAYENA, Punta de) en la
+        <Concept_Landmark>Península</Concept_Landmark>
+    <Landmark>Paraguana</Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, es la
+    que mira a la <Concept_Landmark>Costa</Concept_Landmark>, y forma una de las
+        <Concept_Landmark>puntas</Concept_Landmark> de la entrada del <Landmark>golfete</Landmark>. <zbr/>
+    <zbr/> §§§id_08213§§§<zbr/> JAZEGUA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory> en el
+        <Territory>Perú</Territory>, ##nace en la <Concept_Landmark>laguna</Concept_Landmark> de su
+    nombre, corre al OSO, y entra en el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark>. <zbr/>
+    <zbr/> §§§id_08214§§§<zbr/> Una <Concept_Landmark>laguna</Concept_Landmark> de la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> que el
+        <Concept_Landmark>río</Concept_Landmark> anterior. <zbr/>
+    <zbr/> §§§id_08215§§§<zbr/> S. JEAN, o San Juan) <Concept_Landmark>Lago</Concept_Landmark> de la
+        <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> en el
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Reckouagamiens</humanGroup>; se forma del
+        <Concept_Landmark>río</Concept_Landmark> grande de <Landmark>Decharge</Landmark>. <zbr/>
+    <zbr/> §§§id_08216§§§<zbr/> Tiene el mismo nombre un fuerte de los <humanGroup
+        type="political_group">Franceses</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Iroqueses</humanGroup>; a orilla del
+        <Concept_Landmark>caño</Concept_Landmark> o <Concept_Landmark>río</Concept_Landmark> que
+    desagua el <Concept_Landmark>lago</Concept_Landmark> de éstos en el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>San Lorenzo</Landmark>. <zbr/>
+    <zbr/> §§§id_08217§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> caudaloso del
+        <Concept_Territory>país</Concept_Territory> o <Concept_Landmark>tierra</Concept_Landmark>
+    del <Territory>Labrador</Territory> que corre al S, y entra en el de <Landmark>San
+        Lorenzo</Landmark>. <zbr/>
+    <zbr/> §§§id_08218§§§<zbr/> Una <Concept_Landmark>Isla</Concept_Landmark> grande cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Nueva Escocia</Territory> y
+        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, entre
+    aquella y la <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>Real</Landmark> o de <Concept_Landmark>cabo</Concept_Landmark>
+    <Landmark>Bretón</Landmark>. <zbr/>
+    <zbr/> §§§id_08219§§§<zbr/> Otra en el mismo <Concept_Landmark>golfo</Concept_Landmark>, cerca
+    de la <Concept_Landmark>Costa</Concept_Landmark> del O de la de
+    <Territory>Terranova</Territory>. <zbr/>
+    <zbr/> §§§id_08220§§§<zbr/> Otras dos pequeñas cerca de la orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Demerary</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>. <zbr/>
+    <zbr/> §§§id_08221§§§<zbr/> Un <Concept_Landmark>cabo</Concept_Landmark> o
+        <Concept_Landmark>punta de tierra</Concept_Landmark>
+    <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0500@@@<zbr/>
+    <zbr/> #en la <Concept_Landmark>Costa</Concept_Landmark> del E de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, y es uno de
+    los que forman la entrada de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>notre
+        Dame</Landmark> o <Landmark>nuestra Señora</Landmark>. <zbr/>
+    <zbr/> §§§id_08222§§§<zbr/> Otro <Concept_Landmark>cabo</Concept_Landmark> o
+        <Concept_Landmark>punta</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark>
+    del E en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Guadalupe</Territory>, entre
+    el <Concept_Landmark>Puerto</Concept_Landmark> de l'Enfer o <Landmark>Infierno</Landmark> y el
+        <Concept_Landmark>Islote</Concept_Landmark> de la <Landmark>Corona</Landmark>. <zbr/>
+    <zbr/> §§§id_08223§§§<zbr/> Otra <Concept_Landmark>Isla</Concept_Landmark> pequeña cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Georgia</Territory>, entre los
+        <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Ashley</Landmark> y <Landmark>Pompón</Landmark>. <zbr/>
+    <zbr/> §§§id_08224§§§<zbr/> Un <Concept_Landmark>Puerto</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> del Sur de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre las dos
+        <Concept_Landmark>Bahías</Concept_Landmark> de la <Landmark>Desesperación</Landmark> y de la
+        <Landmark>Fortuna</Landmark>. <zbr/>
+    <zbr/> §§§id_08225§§§<zbr/> JEDAKNE, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory>,
+    situado entre los dos <Concept_Landmark>brazos</Concept_Landmark> del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Susquehanna</Landmark>. <zbr/>
+    <zbr/> §§§id_08226§§§<zbr/> JEFFREIS, <Concept_Landmark>Banco</Concept_Landmark> grande de arena
+    cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Nueva
+        Inglaterra</Territory>, en el <Concept_District>distrito</Concept_District> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Massachusets</Territory>. <zbr/>
+    <zbr/> §§§id_08227§§§<zbr/> JEKYL, Estrecho de) <Concept_Landmark>Bahía</Concept_Landmark>
+    pequeña de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Simón</Landmark> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Georgia</Territory>, a la boca
+    del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Alatamha</Landmark>, donde pueden estar diez o doce navíos, para cuya defensa hay un
+        <Concept_Structure>castillo</Concept_Structure> y
+        <Concept_Structure>batería</Concept_Structure> construido ##por el General
+        <persName>Oglethorp</persName>. <zbr/>
+    <zbr/> §§§id_08228§§§<zbr/> JELOUZELL, Estrecho de) se comunica desde el de
+        <Landmark>Magallanes</Landmark> a la <Concept_Landmark>mar</Concept_Landmark> del
+        <Landmark>Sur</Landmark>, pero está poco conocido. <zbr/>
+    <zbr/> §§§id_08229§§§<zbr/> JEMKEG, <Concept_Structure>Fuerte</Concept_Structure> construido por
+    los <humanGroup type="political_group">Ingleses</humanGroup> en la <Territory>Nueva
+        Escocia</Territory> o <Territory>Acadia</Territory>, a orilla del
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Juan</Landmark>, y del
+        <Concept_Landmark>lago</Concept_Landmark>
+    <Landmark>Freneuse</Landmark>. <zbr/>
+    <zbr/> §§§id_08230§§§<zbr/> JENEIRO, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, una de las
+    catorce que lo componen, confina por el N con la del <Territory>Espíritu Santo</Territory>, por
+    el Levante con el <Concept_Landmark>mar</Concept_Landmark>
+    <Landmark>Atlántico</Landmark> o <Landmark>Brasílico</Landmark>, por el Poniente con el
+        <Concept_Territory>país</Concept_Territory> incógnito de los <Concept_Group>Indios
+        infieles</Concept_Group>, y por el Mediodía con la
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory>. Esta
+        <Concept_Territory>Provincia</Concept_Territory> es uno de los tres
+        <Concept_Territory>Gobiernos</Concept_Territory> en que tienen dividido los <humanGroup
+        type="political_group">Portugueses</humanGroup> el <Territory>Brasil</Territory>, y la de
+    más utilidad porque es sumamente fértil, y con particularidad en cañas dulces, de que hacen
+    infinita azúcar, y es uno de los principales ramos de su comercio: tiene muchas
+        <Concept_Landmark>minas</Concept_Landmark> de riquísimo oro que les producen grande
+    utilidad: riégala el <Concept_Landmark>río</Concept_Landmark> de su nombre, que es el mayor,
+    además de otros 17, cuyos nombres son <zbr/>
+    <zbr/></xml>

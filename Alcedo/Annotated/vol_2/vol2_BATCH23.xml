@@ -20,8 +20,8 @@
     produce muchas cañas dulces, yucas, maíz, plátanos y variedad de frutas, especialmente parras,
     de que hacen vino para su uso; tiene algunas <Concept_Structure>haciendas</Concept_Structure> de
     cacao, bastante algodón y <Concept_Structure>trapiches</Concept_Structure> en que hacen porción
-    grande de dulces: tendrá 100 indios, y 50 <humanGroup type="social_group">vecinos
-        blancos</humanGroup>. <zbr/>
+    grande de dulces: tendrá 100 <humanGroup type="social_group">indios</humanGroup>, y 50
+        <humanGroup type="social_group">vecinos blancos</humanGroup>. <zbr/>
     <zbr/> §§§id_08684§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
     nombre en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Porco</Territory> en ##el
@@ -40,8 +40,8 @@
         <Territory>Maracaibo</Territory> y <Concept_Territory>Provincia</Concept_Territory> de
         <Territory>Venezuela</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>,
     situado en la <Concept_Landmark>Costa</Concept_Landmark> de la
-        <Concept_Landmark>laguna</Concept_Landmark> de <Territory>Maracaibo</Territory> a su entrada
-    y parte del E. <zbr/>
+        <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Maracaibo</Landmark> a su entrada y
+    parte del E. <zbr/>
     <zbr/> §§§id_08688§§§<zbr/> Otro de las Misiones que tienen los Religiosos de San Francisco en
     la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Luis de
         Potosí</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva
@@ -91,8 +91,8 @@
     <Landmark>Budi</Landmark>. <zbr/>
     <zbr/> §§§id_08695§§§<zbr/> LAIO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tinta o Canes y
-        Canches</Territory> en el <Territory>Perú</Territory>, anexo al
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tinta</Territory> o
+        <Territory>Canes y Canches</Territory> en el <Territory>Perú</Territory>, anexo al
         <Concept_District>Curato</Concept_District> de <Settlement>Langui</Settlement>. <zbr/>
     <zbr/> §§§id_08696§§§<zbr/> LAIQUEN del Limite) <Concept_Settlement>Pueblo</Concept_Settlement>
     del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> en el
@@ -107,7 +107,7 @@
     leguas al Oriente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_08698§§§<zbr/> LALAMA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
-        <Settlement>Teotaizinco</Settlement>, y de la misma
+        <Settlement>Teotalzinco</Settlement>, y de la misma
         <Concept_Territory>Alcaldía</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory> que el anterior, tiene 70 familias de
         <humanGroup type="social_group">Indios</humanGroup>, y está 19 leguas al N de su
@@ -130,9 +130,9 @@
     conquista espiritual de los Misioneros Regulares de la Compañía de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Mainas</Territory>, y
     particularmente de los del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>San
-        Borja</Settlement> que es uno de ella, la llamaron el Triunfo de la Santa Cruz de los Lamas:
-    estos Misioneros penetrando en el siglo pasado las fragosidades de la
-        <Concept_Landmark>montaña</Concept_Landmark> encontraron a estos <humanGroup
+        Borja</Settlement> que es uno de ella, la llamaron el <Settlement>Triunfo de la Santa Cruz
+        de los Lamas</Settlement>: estos Misioneros penetrando en el siglo pasado las fragosidades
+    de la <Concept_Landmark>montaña</Concept_Landmark> encontraron a estos <humanGroup
         type="social_group">Indios</humanGroup>, y los instruyeron en la Fe, domesticándolos antes,
     y reduciéndolos a <Concept_Settlement>Pueblos</Concept_Settlement>: después el Obispo de
         <Territory>Truxillo</Territory> les nombró un Cura Secular que no pudiendo acomodarse a la
@@ -284,31 +284,27 @@
     los cinco años: la <Concept_Settlement>Capital</Concept_Settlement> es el
         <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, los demás de su
         <Concept_District>distrito</Concept_District> son: <zbr/>
-    <zbr/> ßßß<zbr/> 
-    #<Settlement>Lampa</Settlement>. <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Lampa</Settlement>. <zbr/>
     <Settlement>Calapuja</Settlement>.<zbr/>
     <Settlement>Cabanilla</Settlement>.<zbr/>
     <Settlement>Cabaña</Settlement>.<zbr/>
     <Settlement>Mañazo</Settlement>.<zbr/>
     <Settlement>Cupi</Settlement>.<zbr/>
     <Settlement>Ocubiri</Settlement>.<zbr/>
-    <Settlement>Vilque</Settlement>.<zbr/> 
-    ##<Settlement>Atuncalla</Settlement>. <zbr/>
+    <Settlement>Vilque</Settlement>.<zbr/> ##<Settlement>Atuncalla</Settlement>. <zbr/>
     <Settlement>Caracoto</Settlement>.<zbr/>
     <Settlement>Huaca</Settlement>.<zbr/>
     <Settlement>Llasin</Settlement>.<zbr/>
     <Settlement>Pucará</Settlement>.<zbr/>
     <Settlement>Umachiri</Settlement>.<zbr/>
     <Settlement>Juliaca</Settlement>. <zbr/>
-    <Settlement>Vilavila</Settlement>. <zbr/> 
-    ###<Settlement>Ayaviri</Settlement>. <zbr/>
+    <Settlement>Vilavila</Settlement>. <zbr/> ###<Settlement>Ayaviri</Settlement>. <zbr/>
     <Settlement>Orurillo</Settlement>. <zbr/>
     <Settlement>Nuñoa</Settlement>. <zbr/>
     <Settlement>Santa Rosa</Settlement>. <zbr/>
     <Settlement>Macari</Settlement>.<zbr/>
     <Settlement>Llalli</Settlement>.<zbr/>
-    <Settlement>Nicasio</Settlement>.<zbr/> 
-    $$$<zbr/>
+    <Settlement>Nicasio</Settlement>.<zbr/> $$$<zbr/>
     <zbr/> §§§id_08714§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo
     nombre en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Parinacochas</Territory>
@@ -380,7 +376,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> occidental de la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Tomás Smith</Landmark>, su parte más
     meridional está en 74 gr. 20 min. de lat. , y la más occidental, llamada
-        <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Aderman</Landmark> Jones, en 76
+        <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Aderman Jones</Landmark>, en 76
     gr. de long. occid. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0558@@@<zbr/>
     <zbr/> §§§id_08727§§§<zbr/> #LANCHA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -407,8 +403,8 @@
         <Settlement>Chorrillo</Settlement>. <zbr/>
     <zbr/> §§§id_08732§§§<zbr/> LANGUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tinta</Territory> o Canes
-    y Canches en el <Territory>Perú</Territory>. <zbr/>
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tinta</Territory> o
+        <Territory>Canes y Canches</Territory> en el <Territory>Perú</Territory>. <zbr/>
     <zbr/> §§§id_08733§§§<zbr/> LANQUER, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Honduras</Territory> en el
@@ -420,15 +416,16 @@
         <Concept_Landmark>Islote</Concept_Landmark> de piedra casi cubierto del
         <Concept_Landmark>mar</Concept_Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Nueva Escocia</Territory>, está
-    cerca de tres cuartos de legua de la <Concept_Landmark>Isla</Concept_Landmark> Mona##no, y forma
-    el paso para el <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Juan</Landmark>, a la
-    parte del N de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark> y de
-    la <Landmark>Plata</Landmark>. <zbr/>
+    cerca de tres cuartos de legua de la <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>Mona##no</Landmark>, y forma el paso para el <Concept_Landmark>río</Concept_Landmark>
+    de <Landmark>San Juan</Landmark>, a la parte del N de la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Fundy</Landmark> y de la
+        <Landmark>Plata</Landmark>. <zbr/>
     <zbr/> §§§id_08735§§§<zbr/> LAQUARIBE, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el
         <Territory>Brasil</Territory>, corre entre los de <Landmark>Siope</Landmark> y de
-        <Landmark>Varirin</Landmark>, abunda de excelente pescado, y en su inmediacion hay algunas
+        <Landmark>Varirin</Landmark>, abunda de excelente pescado, y en su inmediación hay algunas
         <Concept_Structure>plantaciones</Concept_Structure> de cañas dulces, desemboca en el
         <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
     <zbr/> §§§id_08736§§§<zbr/> LAQUEIQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -490,10 +487,10 @@
         <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>,
     confina por el N y NE con las <Concept_Landmark>montañas</Concept_Landmark> de los
         <Concept_Group>Indios infieles</Concept_Group>, casi al S de las Misiones de
-        <Territory>Apolobamba</Territory>, por este rumbo con la <Concept_Settlement>Ciudad</Concept_Settlement>
-    de la <Settlement>Paz</Settlement>, por el ##O con la
-        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Omasuyos</Territory> mediando
-    la <Concept_Landmark>Cordillera</Concept_Landmark>, y siguiendo hacia el N con las de
+        <Territory>Apolobamba</Territory>, por este rumbo con la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de la <Settlement>Paz</Settlement>, por el
+    ##O con la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Omasuyos</Territory>
+    mediando la <Concept_Landmark>Cordillera</Concept_Landmark>, y siguiendo hacia el N con las de
         <Territory>Paucarcolla</Territory>, <Territory>Asangaro</Territory> y
         <Territory>Carabaya</Territory>: toda esta <Concept_Territory>Provincia</Concept_Territory>
     es como una <Concept_Landmark>quebrada</Concept_Landmark> que corre N S hasta encontrar con las
@@ -517,17 +514,17 @@
     <zbr/> #falta de ánimos y caudales con que hacer los gastos de las labores, que por escasez de
         <Concept_Landmark>minas</Concept_Landmark>, y sin embargo no dejan de sacarse algunas
     considerables utilidades: por la parte de las <Concept_Landmark>montañas</Concept_Landmark> de
-    los <Landmark>Andes</Landmark> están las Misiones que vulgarmente llaman del Paititi de
-    Misioneros Agustinos, en que hay cinco <Concept_Settlement>Poblaciones</Concept_Settlement> de
-    Indios convertidos, que ##de algunos años a esta parte pagan tributo aunque corto al Rey en las
-    Cajas Reales de la <Settlement>Paz</Settlement>. Conquistó esta
+    los <Landmark>Andes</Landmark> están las Misiones que vulgarmente llaman del
+        <Territory>Paititi</Territory> de Misioneros Agustinos, en que hay cinco
+        <Concept_Settlement>Poblaciones</Concept_Settlement> de Indios convertidos, que ##de algunos
+    años a esta parte pagan tributo aunque corto al Rey en las Cajas Reales de la
+        <Settlement>Paz</Settlement>. Conquistó esta
         <Concept_Territory>Provincia</Concept_Territory>, y la agregó al Imperio, el Inca
         <persName>Maytacapac</persName>. Sus habitantes son 20.000, y tenía de repartimiento 114635
     pesos, pagando de alcavala su Corregidor 4585 en el quinquenio. La
         <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Zorata</Settlement>, los
     demás <Concept_Settlement>Pueblos</Concept_Settlement> son:<zbr/>
-    <zbr/> ßßß<zbr/> 
-    #<Settlement>Songo</Settlement>. <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Songo</Settlement>. <zbr/>
     <Settlement>Challana</Settlement>. <zbr/>
     <Settlement>Quiabaya</Settlement>.<zbr/>
     <Settlement>Hilabaya</Settlement>.<zbr/>
@@ -539,8 +536,7 @@
     <Settlement>Ayata</Settlement>.<zbr/>
     <Settlement>Charazani</Settlement>. <zbr/>
     <Settlement>Camatá</Settlement>.<zbr/>
-    <Settlement>Pelechuco</Settlement>. <zbr/> 
-    ##<Settlement>Chiacani</Settlement>. <zbr/>
+    <Settlement>Pelechuco</Settlement>. <zbr/> ##<Settlement>Chiacani</Settlement>. <zbr/>
     <Settlement>Carasani</Settlement>. <zbr/>
     <Settlement>Cumlili</Settlement>.<zbr/>
     <Settlement>Coate</Settlement>.<zbr/>
@@ -552,31 +548,25 @@
     <Settlement>Chaclaya</Settlement>. <zbr/>
     <Settlement>Punamá</Settlement>.<zbr/>
     <Settlement>Patazcachi</Settlement>.<zbr/>
-    <Settlement>Yanabaya</Settlement>.<zbr/> 
-    ###<Settlement>Huacapata</Settlement>. <zbr/>
+    <Settlement>Yanabaya</Settlement>.<zbr/> ###<Settlement>Huacapata</Settlement>. <zbr/>
     <Settlement>Antarete</Settlement>. <zbr/>
     <Settlement>Chajaya</Settlement>. <zbr/>
     <Settlement>Chulina</Settlement>. <zbr/>
     <Settlement>Curba</Settlement>.<zbr/>
     <Settlement>Omobamba</Settlement>. <zbr/>
-    <Settlement>Carijana</Settlement>. <zbr/> 
-    ___De las Misiones___. <zbr/>
+    <Settlement>Carijana</Settlement>. <zbr/> ___De las Misiones___. <zbr/>
     <Settlement>Hucsumane</Settlement>. <zbr/>
     <Settlement>Tipuane</Settlement>.<zbr/>
     <Settlement>Mapite</Settlement>. <zbr/>
     <Settlement>Chinijo</Settlement>. <zbr/>
-    <Settlement>Consata</Settlement>. <zbr/> 
-    $$$<zbr/> 
-    §§§id_08747§§§<zbr/> 
-    LAREDO,
+    <Settlement>Consata</Settlement>. <zbr/> $$$<zbr/> §§§id_08747§§§<zbr/> LAREDO,
         <Concept_Settlement>Villa</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sierra Gorda</Territory> en
     el <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva
-        España</Territory>, fundada el año de 1748 por el Conde de <Territory>Sierra
-        Gorda</Territory> D. <persName>Joseph de Escandón</persName>, Coronel de las Milicias de
-        <Settlement>Queretaro</Settlement>. <zbr/>
+        España</Territory>, fundada el año de 1748 por el Conde de Sierra Gorda D. <persName>Joseph
+        de Escandón</persName>, Coronel de las Milicias de <Settlement>Queretaro</Settlement>. <zbr/>
     <zbr/> §§§id_08748§§§<zbr/> LARES, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la Pro#vincia y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Calca y Lares</Territory>
@@ -585,7 +575,8 @@
         <Landmark>N</Landmark>, llamada también <Landmark>Yuma</Landmark>, entre la de
         <Landmark>Krooked</Landmark> y el <Landmark>Placer</Landmark>, que está al N de la Cabeza
     del E de la de <Territory>Cuba</Territory>, los <humanGroup type="political_group"
-        >Ingleses</humanGroup> de quién está habitada le dan el nombre de Long-Island. <zbr/>
+        >Ingleses</humanGroup> de quién está habitada le dan el nombre de
+        <Landmark>Long-Island</Landmark>. <zbr/>
     <zbr/> §§§id_08750§§§ <zbr/>
     <zbr/> @@@Alcedo_vol_2-0561@@@<zbr/>
     <zbr/> #Otra hay del mismo nombre, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la
@@ -684,7 +675,7 @@
     <humanGroup type="indigenous_group">Chiquitos</humanGroup> en el <Territory>Perú</Territory>,
     nace junto al camino que baja del <Concept_Settlement>Pueblo</Concept_Settlement> de
         <Settlement>San Juan Baptista</Settlement>, corre al E, y entra en el
-        <Landmark>Paraguay</Landmark>, en el parage que llaman el Paso. <zbr/>
+        <Landmark>Paraguay</Landmark>, en el parage que llaman el <Landmark>Paso</Landmark>. <zbr/>
     <zbr/> §§§id_08767§§§<zbr/> LAVANDERAS, Punta de las)
         <Concept_Landmark>extremidad</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
@@ -729,8 +720,7 @@
         <Concept_Landmark>extremidad</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> del N de la
         <Concept_Landmark>Isla</Concept_Landmark>
-    <Landmark>Real</Landmark> o de <Landmark>Cabo
-    Bretón</Landmark>. <zbr/>
+    <Landmark>Real</Landmark> o de <Landmark>Cabo Bretón</Landmark>. <zbr/>
     <zbr/> §§§id_08776§§§<zbr/> LAURICOCHA, S. Antonio de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -775,11 +765,11 @@
         <Concept_Settlement>Pueblo</Concept_Settlement>; son torpes, y tienen poca inclinación a
     reducirse a la Religión: está 30 leguas de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_08782§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
-    nombre con la advocación de San Joseph, uno de las Misiones y
-        <Concept_Settlement>reducción</Concept_Settlement> de In##dios que tienen los Religiosos de
-    San Francisco en el <Concept_District>distrito</Concept_District> de la
-        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guadalaxara</Territory>,
-    de cuya <Concept_Settlement>Capital</Concept_Settlement> dista más de 60 leguas al Oriente. <zbr/>
+    nombre con la advocación de San Joseph, uno de las Misiones y <Concept_Settlement>reducción de
+        In##dios</Concept_Settlement> que tienen los Religiosos de San Francisco en el
+        <Concept_District>distrito</Concept_District> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Guadalaxara</Territory>, de cuya
+        <Concept_Settlement>Capital</Concept_Settlement> dista más de 60 leguas al Oriente. <zbr/>
     <zbr/> §§§id_08783§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Omasuyos</Territory> en
     el <Territory>Perú</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
@@ -795,14 +785,15 @@
     del <Landmark>Salto</Landmark> y el de <Landmark>Pangal</Landmark>, y una gran
         <Concept_Landmark>cascada</Concept_Landmark> en que se precipita de una altura de 40 brazas
     entre <Concept_Landmark>peñascos</Concept_Landmark>; cerca de su
-        <Concept_Settlement>cabecera</Concept_Settlement> o nacimiento se halla el fuerte de
-        <Landmark>Tucapél</Landmark> construido por los <humanGroup type="political_group"
-        >Españoles</humanGroup> para contener los <Concept_Group>Indios</Concept_Group>
+        <Concept_Settlement>cabecera</Concept_Settlement> o nacimiento se halla el
+        <Concept_Structure>fuerte</Concept_Structure> de <Structure>Tucapél</Structure> construido
+    por los <humanGroup type="political_group">Españoles</humanGroup> para contener los
+        <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Araucanos</humanGroup>; sus orillas están pobladas de varias
-        <Concept_Structure>haciendas</Concept_Structure> muy fértiles llamadas <humanGroup
-        type="religious_group">Tarpeyanca</humanGroup>, León, Caripuchon y Jesús, y tiene una
-    excelente cantera de piedra que llaman San Joseph: su boca está en 37 gr. 9 min. de
-    lat. aust. <zbr/>
+        <Concept_Structure>haciendas</Concept_Structure> muy fértiles llamadas
+        <Structure>Tarpeyanca</Structure>, <Structure>León</Structure>,
+        <Structure>Caripuchon</Structure> y <Structure>Jesús</Structure>, y tiene una excelente
+    cantera de piedra que llaman San Joseph: su boca está en 37 gr. 9 min. de lat. aust. <zbr/>
     <zbr/> §§§id_08785§§§<zbr/> Un bajo de <Concept_Landmark>peña</Concept_Landmark> cerca <zbr/>
     <zbr/> @@@Alcedo_vol_2-0564@@@<zbr/>
     <zbr/> #de la <Concept_Landmark>Costa</Concept_Landmark> del N de la
@@ -841,7 +832,7 @@
     <zbr/> §§§id_08790§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Patáz</Territory> o
-        <Territory>Caxamarquilla</Territory> en el Pe##rú nace en el
+        <Territory>Caxamarquilla</Territory> en el <Territory>Pe##rú</Territory> nace en el
         <Concept_Territory>territorio</Concept_Territory> de los
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Untucailis</humanGroup>, corre al NO, y entra en el
@@ -936,7 +927,7 @@
     una <Concept_Landmark>ensenada</Concept_Landmark> que hace la
         <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de Veragua en el
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, son
     tres, una mediana y dos más pequeñas, cerca del Continente. <zbr/>
     <zbr/> §§§id_08804§§§<zbr/> LECOS, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -1001,9 +992,9 @@
     naturales más aplicados al cultivo de las tierras; es de temperamento frío sin exceso, y uno de
     los mejores del <Concept_Territory>Reyno</Concept_Territory>; tiene abundancia de aguas muy
     buenas que hacen su <Concept_Territory>territorio</Concept_Territory> fértil de toda especie de
-    granos y frutos, y las aceitunas son tan buenas como las de <Settlement>Sevilla</Settlement>; fue
-    abundantísima de trigo de excelente calidad en otro tiempo hasta el año de 1691, que después de
-    un eclipse de sol agostó todo el <Concept_Territory>país</Concept_Territory> malogrando sus
+    granos y frutos, y las aceitunas son tan buenas como las de <Settlement>Sevilla</Settlement>;
+    fue abundantísima de trigo de excelente calidad en otro tiempo hasta el año de 1691, que después
+    de un eclipse de sol agostó todo el <Concept_Territory>país</Concept_Territory> malogrando sus
     cosechas, pues al empezar a granar las espigas se llenaba la caña de un polvillo de color de
     tabaco que las dejaba huecas, lo qual no sucedió con el maíz, cebada, papas, arracachas y
     cebollas: la Iglesia Parroquial es una de las mejores que hay en aquel
@@ -1012,9 +1003,9 @@
     <zbr/> @@@Alcedo_vol_2-0567@@@<zbr/>
     <zbr/> #pital, y Monasterio de Religiosas Carmelitas: celebra un mercado todos los Viernes del
     año en que hace gran comercio por la concurrencia de los <humanGroup type="social_group"
-        >vecinos</humanGroup> y mercaderes de <Territory>Velez</Territory> y de
-        <Territory>Tunja</Territory>: la <Concept_Territory>jurisdicción</Concept_Territory> de esta
-        <Concept_Settlement>Villa</Concept_Settlement> es tan reducida que por el N a distancia de
+        >vecinos</humanGroup> y mercaderes de <Settlement>Velez</Settlement> y de
+        <Settlement>Tunja</Settlement>: la <Concept_Territory>jurisdicción</Concept_Territory> de
+    esta <Concept_Settlement>Villa</Concept_Settlement> es tan reducida que por el N a distancia de
     una legua se encuentra el <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Cane</Landmark>, al NO los <Concept_Settlement>Pueblos</Concept_Settlement> de
         <Settlement>Yuca</Settlement> y EcceHomo, que son del
@@ -1045,7 +1036,7 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento cálido, abundante en cañas
-    dulces, plátanos, yucas, batatas, y mucho algodón que sacan para <Territory>Tunja</Territory>,
+    dulces, plátanos, yucas, batatas, y mucho algodón que sacan para <Settlement>Tunja</Settlement>,
     está situado entre <Concept_Landmark>bosques</Concept_Landmark> y
         <Concept_Landmark>pantanos</Concept_Landmark>, en él tenían los Regulares de la Compañía una
     rica <Concept_Structure>hacienda</Concept_Structure> con grandes
@@ -1056,7 +1047,7 @@
     <zbr/> §§§id_08816§§§<zbr/> LENGUSAQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
     misma <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory> que el anterior, perteneciente al
-        <Concept_Territory>Corregimiento</Concept_Territory> de Indios de
+        <Concept_Territory>Corregimiento de Indios</Concept_Territory> de
         <Territory>Turmeque</Territory>, es de temperamento frío, produce trigo, maíz, papas y demás
     frutos de su clima, fue en tiempo de los Indios <Concept_Settlement>Ciudad</Concept_Settlement>
     grande y populosa, la conquistó <persName>Gonzalo Ximénez de Quesada</persName> el año de 1537;
@@ -1066,10 +1057,10 @@
     <zbr/> §§§id_08817§§§<zbr/> LENKIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
         <Concept_District>distrito</Concept_District> de la
-        <Concept_District>Parroquia</Concept_District> de <District>San</District>
-    <zbr/>
-    <zbr/> @@@Alcedo_vol_2-0568@@@<zbr/>
-    <zbr/> #Joseph, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
+        <Concept_District>Parroquia</Concept_District> de <Settlement>San <zbr/>
+        <zbr/> @@@Alcedo_vol_2-0568@@@<zbr/>
+        <zbr/> #Joseph</Settlement>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark>
+    del O. <zbr/>
     <zbr/> §§§id_08818§§§<zbr/> LEOGANE, <Concept_Settlement>Villa</Concept_Settlement> de los
         <humanGroup type="political_group">Franceses</humanGroup> en la parte que poseen de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, fundada
@@ -1103,7 +1094,7 @@
     <Landmark>Bravo</Landmark> o <Landmark>Grande del Norte</Landmark>: la mayor parte de este
     dilatado <Concept_Territory>país</Concept_Territory> está desierto de
         <Concept_Settlement>Pueblos</Concept_Settlement> y Misiones, y solo habitado de diferentes
-        <Concept_Group>naciones bárbaras</Concept_Group> de Indios desde la
+        <Concept_Group>naciones bárbaras de Indios</Concept_Group> desde la
         <Concept_Landmark>sierra</Concept_Landmark> referida hasta los confines de la
         <Concept_Territory>Provincia</Concept_Territory> de las <Territory>Tejas</Territory> y
         <Concept_Landmark>río</Concept_Landmark> de <Landmark>Medina</Landmark>, y en estos
@@ -1111,7 +1102,8 @@
     buenas <Concept_Landmark>salinas</Concept_Landmark>: casi todo el
         <Concept_Territory>Reyno</Concept_Territory> es montuoso y lleno de bre<zbr/>
     <zbr/> @@@Alcedo_vol_2-0569@@@<zbr/>
-    <zbr/> #ñas, como de <Concept_Landmark>ríos</Concept_Landmark> y esteros, y tiene varias
+    <zbr/> #ñas, como de <Concept_Landmark>ríos</Concept_Landmark> y
+        <Concept_Landmark>esteros</Concept_Landmark>, y tiene varias
         <Concept_Landmark>sierras</Concept_Landmark> que se apartan de la general, que es una
     dilatada <Concept_Landmark>cordillera</Concept_Landmark> que se extiende desde la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Coaguila</Territory> y
@@ -1124,8 +1116,8 @@
     cochinilla, porque nace de la misma planta que es el copal: a la parte del referido
         <Concept_Landmark>río</Concept_Landmark> grande del N, que cae a este rumbo, hay unas
     grandes <Concept_Landmark>salinas</Concept_Landmark>, y a la del Sur, 50 leguas de ellas, otras
-    que llaman de la <Landmark>Barra</Landmark>: por lo general goza de un temperamento templado por la
-    libertad con que le baten los vientos del Nor##te y del Oriente; todo su terreno es muy
+    que llaman de la <Landmark>Barra</Landmark>: por lo general goza de un temperamento templado por
+    la libertad con que le baten los vientos del Nor##te y del Oriente; todo su terreno es muy
     abundante en pastos y maderas; el principal comercio que mantiene se reduce a vender en las
         <Concept_Territory>Provincias</Concept_Territory> de <Territory>Coaguila</Territory> y
         <Territory>Texas</Territory> ganado cabrío, mulas y caballos, y plomo que sacan de las
@@ -1139,32 +1131,27 @@
         <Concept_Settlement>Capital</Concept_Settlement> es la
         <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Monterrey</Settlement>, y los
     demás <Concept_Settlement>Pueblos</Concept_Settlement> los siguientes. <zbr/>
-    <zbr/> 
-    ßßß<zbr/> #<Settlement>Valle de Sta. Catalina</Settlement>. <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Valle de Sta. Catalina</Settlement>. <zbr/>
     <Settlement>Valle de la Pesquería</Settlement>. <zbr/>
     <Settlement>Santiago del Saltillo</Settlement>. <zbr/>
-    <Settlement>Valle de las Salinas</Settlement>. <zbr/> 
-    ##<Settlement>S. Pedro Boca de Leones</Settlement>. <zbr/>
+    <Settlement>Valle de las Salinas</Settlement>. <zbr/> ##<Settlement>S. Pedro Boca de
+        Leones</Settlement>. <zbr/>
     <Settlement>Tlaxcala</Settlement>. <zbr/>
     <Settlement>Santiago de Guajuco</Settlement>. <zbr/>
     <Settlement>S. Felipe de Linares</Settlement>. <zbr/>
-    <Settlement>Santa Engracia</Settlement>. <zbr/> 
-    ###<Settlement>El Pablillo</Settlement>. <zbr/>
-    La <Settlement>Presa</Settlement>. <zbr/>
+    <Settlement>Santa Engracia</Settlement>. <zbr/> ###<Settlement>El Pablillo</Settlement>. <zbr/>
+    <Settlement>La Presa</Settlement>. <zbr/>
     <Settlement>Santiago de las Sabinas</Settlement>. <zbr/>
     <Settlement>San Gregorio de Cerralvo</Settlement>. <zbr/>
     <Settlement>S. Nicolás de Gualegas</Settlement>. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0570@@@<zbr/>
     <zbr/>#<Settlement>S. Juan de Cadereita</Settlement>. <zbr/>
-    Las <Settlement>Tablas</Settlement>. <zbr/>
-    <Settlement>S. Mateo del Pilón</Settlement>. <zbr/> 
-    ##La <Settlement>Mota</Settlement>. <zbr/>
-    <Settlement>S. Antonio de los Llanos</Settlement>. <zbr/> 
-    ###Los <Settlement>Labradores</Settlement>. <zbr/>
-    <Settlement>San Miguel de Aguayo</Settlement>. <zbr/> 
-    $$$<zbr/>
-    <zbr/> #___OBISPOS QUE HA HABIDO EN EL NUEVO <Concept_Territory>Reyno</Concept_Territory> de
-        <Territory>León</Territory>.___<zbr/>
+    <Settlement>Las Tablas</Settlement>. <zbr/>
+    <Settlement>S. Mateo del Pilón</Settlement>. <zbr/> ##<Settlement>La Mota</Settlement>. <zbr/>
+    <Settlement>S. Antonio de los Llanos</Settlement>. <zbr/> ###<Settlement>Los
+        Labradores</Settlement>. <zbr/>
+    <Settlement>San Miguel de Aguayo</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> #___OBISPOS QUE HA HABIDO EN EL <Territory>NUEVO Reyno de León</Territory>.___<zbr/>
     <zbr/> ßßß<zbr/> 1 Don Fr. <persName>Antonio de Jesús Sacedón</persName>, del Orden de San
     Francisco. <zbr/> 2 Don Fr. <persName>Rafael Joseph de Vergér</persName>. <zbr/> $$$<zbr/>
     <zbr/> §§§id_08820§§§<zbr/> #Tiene el mismo nombre una
@@ -1177,33 +1164,26 @@
         <Territory>Tlazasalca</Territory>, confinando por el ONO con la de
         <Territory>Lagos</Territory>; es muy abundante en maíz, trigo y ganado mayor y menor; está
     toda poblada de <Concept_Structure>haciendas</Concept_Structure> con que abastece de frutos
-    algunos Reales de <Concept_Landmark>Minas</Concept_Landmark> y las
+    algunos <Concept_Settlement>Reales de Minas</Concept_Settlement> y las
         <Concept_Territory>Provincias</Concept_Territory> de la <Territory>Puebla</Territory>. <zbr/>
     <zbr/> §§§id_08821§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> es la
         <Concept_Settlement>Villa</Concept_Settlement> del mismo nombre en que hay 521 familias de
         <humanGroup type="social_group">Españoles</humanGroup>, ##471 de <humanGroup
         type="social_group">Mestizos</humanGroup> y 196 de <humanGroup type="social_group"
         >Mulatos</humanGroup>; tiene un buen Convento de Religiosos de San Francisco que administran
-    el <Concept_District>Curato</Concept_District>, otro con Hospital de los de San Juan de
-        Dios, un Colegio que fue de los Regulares de la Compañía, y un Beaterio de Mugeres que
-    siguen la Regla e Instituto de éstos, y era el único que había en la
-        <Territory>América</Territory>: está 80 leguas al NNO de <Settlement>México</Settlement>, en
-    272 gr. 10 min. de long. y en 2 gr. 18 min. de lat. Los demás
-        <Concept_Settlement>Pueblos</Concept_Settlement> de la
+    el <Concept_District>Curato</Concept_District>, otro con Hospital de los de San Juan de Dios, un
+    Colegio que fue de los Regulares de la Compañía, y un Beaterio de Mugeres que siguen la Regla e
+    Instituto de éstos, y era el único que había en la <Territory>América</Territory>: está 80
+    leguas al NNO de <Settlement>México</Settlement>, en 272 gr. 10 min. de long. y en 2 gr. 18 min.
+    de lat. Los demás <Concept_Settlement>Pueblos</Concept_Settlement> de la
         <Concept_Territory>jurisdicción</Concept_Territory> se reducen a los siguientes: <zbr/>
-    <zbr/> 
-    ßßß<zbr/> 
-    #<Settlement>San Francisco de Cuisillo</Settlement>. <zbr/>
-    <Settlement>San Miguel</Settlement>. <zbr/> 
-    ##<Settlement>San Francisco del Rincón</Settlement>. <zbr/>
-    <Settlement>San Pedro de Piedra Gorda</Settlement>. <zbr/> 
-    ###<Settlement>San Francisco</Settlement>. <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>San Francisco de Cuisillo</Settlement>. <zbr/>
+    <Settlement>San Miguel</Settlement>. <zbr/> ##<Settlement>San Francisco del Rincón</Settlement>. <zbr/>
+    <Settlement>San Pedro de Piedra Gorda</Settlement>. <zbr/> ###<Settlement>San
+        Francisco</Settlement>. <zbr/>
     <Settlement>Penjamo</Settlement>. <zbr/>
-    <Settlement>La Concepción</Settlement>. <zbr/>
-    $$$<zbr/>
-    <zbr/> 
-    §§§id_08822§§§<zbr/> 
-    #Otra <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la
+    <Settlement>La Concepción</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_08822§§§<zbr/> #Otra <Concept_Settlement>Ciudad Capital</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de ##<Territory>Nicaragua</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situada a
@@ -1231,9 +1211,9 @@
         <Territory>Chile</Territory>. <zbr/>
     <zbr/> §§§id_08825§§§<zbr/> Otro con el sobrenombre de Froes en la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Espíritu Santo</Territory>
-    en el <Territory>Brasil</Territory>, situado a orilla del
-        <Concept_Landmark>río</Concept_Landmark> de este nombre. <zbr/>
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Espíritu Santo</Territory> en
+    el <Territory>Brasil</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
+    de este nombre. <zbr/>
     <zbr/> §§§id_08826§§§<zbr/> ##Un <Concept_Landmark>río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
@@ -1246,8 +1226,9 @@
     mismo <Concept_Territory>Reyno</Concept_Territory> corre al N, luego tuerce su curso al O, y
     sale al <Concept_Landmark>mar</Concept_Landmark> cerca de la
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-    <zbr/> §§§id_08828§§§<zbr/> Otro del <Territory>Nuevo Reyno de su nombre</Territory> que sale al
-        <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>Seno</Concept_Landmark>
+    <zbr/> §§§id_08828§§§<zbr/> Otro del Nuevo <Concept_Territory>Reyno</Concept_Territory> de su
+    nombre que sale al <Concept_Landmark>mar</Concept_Landmark> en el
+        <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark> y <Concept_Landmark>Bahía</Concept_Landmark> o
         <Concept_Landmark>lago</Concept_Landmark> de <Landmark>San Joseph</Landmark>. <zbr/>
     <zbr/> §§§id_08829§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
@@ -1297,8 +1278,8 @@
     <Landmark>Martín grande</Landmark>. <zbr/>
     <zbr/> §§§id_08835§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Real de Minas</Concept_Settlement> de Plata en el <Territory>Nuevo Reyno
-        de León</Territory>, llamado <Settlement>San Pedro de Boca de Leones</Settlement>, está 24 leguas al N de
-    su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+        de León</Territory>, llamado <Settlement>San Pedro de Boca de Leones</Settlement>, está 24
+    leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_08836§§§<zbr/> LEONISA, San Joseph de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guayana</Territory> y
@@ -1316,19 +1297,19 @@
         <Concept_Territory>jurisdicciones</Concept_Territory> de <Territory>Toluca</Territory> y
         <Territory>Metepec</Territory> sus confinantes, y así por esto como por haber desertado
     muchos de sus <humanGroup type="social_group">vecinos</humanGroup> no tiene comercio alguno,
-    hallándose reducida a una suma pobreza; es tránsito preciso de <Settlement>México</Settlement> para todas las
-        <Concept_Territory>Provincias</Concept_Territory> interiores, para lo qual y comodidad de
-    los viajantes se construyó una gran calzada que atraviesa la
+    hallándose reducida a una suma pobreza; es tránsito preciso de <Settlement>México</Settlement>
+    para todas las <Concept_Territory>Provincias</Concept_Territory> interiores, para lo qual y
+    comodidad de los viajantes se construyó una gran calzada que atraviesa la
         <Concept_Settlement>Ciudad</Concept_Settlement> N S: esta es pequeña, de planta irregular, y
     deteriorados sus edificios, de temperamento frío y húmedo por ser principio del frigidísimo
         <Concept_Landmark>valle</Concept_Landmark> de <Territory>Toluca</Territory> y
         <Territory>Metepec</Territory>, cuya extensión está siempre cubierta de nieve, pasa muy
     cerca de ella <zbr/>
     <zbr/> @@@Alcedo_vol_2-0573@@@<zbr/>
-    <zbr/> #un <Concept_Landmark>río</Concept_Landmark> llamado <Landmark>Matlazingo</Landmark> que en lo más
-    baxo del terreno forma una <Concept_Landmark>ciénega</Concept_Landmark>, y ayudado de otros
-    veneros de agua que brotan en el <Concept_Territory>país</Concept_Territory> hace muy hondo el
-    parage donde está el puente; el origen y nacimiento de este
+    <zbr/> #un <Concept_Landmark>río</Concept_Landmark> llamado <Landmark>Matlazingo</Landmark> que
+    en lo más baxo del terreno forma una <Concept_Landmark>ciénega</Concept_Landmark>, y ayudado de
+    otros veneros de agua que brotan en el <Concept_Territory>país</Concept_Territory> hace muy
+    hondo el parage donde está el puente; el origen y nacimiento de este
         <Concept_Landmark>río</Concept_Landmark> es un ojo de corta porción de agua que nace cerca
     del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Santiago</Settlement>: tiene
     95 familias de <humanGroup type="social_group">Indios</humanGroup>, 57 de <humanGroup
@@ -1341,10 +1322,10 @@
     buscar en las <Concept_Territory>jurisdicciones</Concept_Territory> confinantes todo lo
     necesario para su subsistencia, contentándose con criar algún ganado de cerda, a que se aplican:
     no tiene más <Concept_Settlement>Pueblos</Concept_Settlement> esta
-        <Concept_Territory>Alcaldía</Concept_Territory> que quatro, y son <Settlement>Tarasquillo</Settlement>,
-        <Settlement>Santiago</Settlement>, <Settlement>San Mateo</Settlement> y <Settlement>San
-        Miguel</Settlement>: está 9 leguas al OSO de <Settlement>México</Settlement>, en 273 gr. 42 min. de
-    long. y en 19 gr. 48 min. de lat. <zbr/>
+        <Concept_Territory>Alcaldía</Concept_Territory> que quatro, y son
+        <Settlement>Tarasquillo</Settlement>, <Settlement>Santiago</Settlement>, <Settlement>San
+        Mateo</Settlement> y <Settlement>San Miguel</Settlement>: está 9 leguas al OSO de
+        <Settlement>México</Settlement>, en 273 gr. 42 min. de long. y en 19 gr. 48 min. de lat. <zbr/>
     <zbr/> §§§id_08838§§§<zbr/> Tiene el mismo nombre un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> ##y
@@ -1355,7 +1336,7 @@
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Campeche</Settlement>. <zbr/>
     <zbr/> §§§id_08839§§§<zbr/> LESTE, Punta del) en la <Concept_Landmark>Costa</Concept_Landmark>
     de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Tortuga</Landmark>, cerca de la de
-        <Landmark>Santo Domingo</Landmark>. <zbr/>
+        <Territory>Santo Domingo</Territory>. <zbr/>
     <zbr/> §§§id_08840§§§<zbr/> LEVANTADOS, Cayo de los) <Concept_Landmark>Islote</Concept_Landmark>
     de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
@@ -1411,11 +1392,12 @@
     <zbr/> §§§id_08853§§§<zbr/> LEXINGTON, <Concept_Settlement>Ciudad</Concept_Settlement> pequeña
     del <Concept_Territory>Condado</Concept_Territory> de <Territory>Middlesex</Territory> en la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Massachusets</Landmark>, casi 12
-    millas al O de <Settlement>Charlestown</Settlement>, entre la qual y la de <Settlement>Concord</Settlement> a
-    quatro millas está el terreno que se ha hecho célebre por haber empezado allí las hostilidades
-    de la guerra en la sublevación ##de las <Concept_Territory>Colonias</Concept_Territory> de
-        <Territory>América</Territory> para establecer la independencia de la
-        <Territory>Inglaterra</Territory> el año de 1775 por el mes de Abril. <zbr/>
+    millas al O de <Settlement>Charlestown</Settlement>, entre la qual y la de
+        <Settlement>Concord</Settlement> a quatro millas está el terreno que se ha hecho célebre por
+    haber empezado allí las hostilidades de la guerra en la sublevación ##de las
+        <Concept_Territory>Colonias</Concept_Territory> de <Territory>América</Territory> para
+    establecer la independencia de la <Territory>Inglaterra</Territory> el año de 1775 por el mes de
+    Abril. <zbr/>
     <zbr/> §§§id_08854§§§<zbr/> LEZAMANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
@@ -1431,7 +1413,7 @@
     <zbr/> §§§id_08856§§§<zbr/> LIBANO, Pinar de piñones del)
         <Concept_Landmark>Bosque</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
     de <Territory>Chile</Territory> en el <Concept_District>partido</Concept_District> y
-        <Concept_District>distrito</Concept_District> de <Settlement>Toltén alto</Settlement>. <zbr/>
+        <Concept_District>distrito</Concept_District> de <Territory>Toltén alto</Territory>. <zbr/>
     <zbr/> §§§id_08857§§§<zbr/> LIBERTE o Libertad) Punta de la) en la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Guayana Francesa</Territory>,
     una de las que forman la entrada o boca del <Concept_Landmark>río</Concept_Landmark>
@@ -1465,7 +1447,7 @@
         <Concept_District>distrito</Concept_District> al E de él tiene una gran
         <Concept_Structure>hacienda</Concept_Structure> llamada la Cantera. <zbr/>
     <zbr/> §§§id_08863§§§<zbr/> LICANI, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
-    del <Concept_District>partido</Concept_District> de <Settlement>Toltén</Settlement>, baxo en el
+    del <Concept_District>partido</Concept_District> de <Territory>Toltén baxo</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a
     orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Metenquen</Landmark>. <zbr/>

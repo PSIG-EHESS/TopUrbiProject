@@ -71,8 +71,8 @@
         Minas</Concept_Settlement> de <Settlement>San Felipe de Guebavi</Settlement>. <zbr/>
     <zbr/> §§§id_09208§§§<zbr/> Otro <Concept_Settlement>Capital</Concept_Settlement> de las
         <Concept_Landmark>Islas</Concept_Landmark>
-    <Landmark>Maluinas</Landmark> o de <Landmark>Falkland</Landmark>, fundado el año de 1763 por el
-    Capitán de Navio Francés Don <persName>Luis de Bouganville</persName> con un
+    <Territory>Maluinas</Territory> o de <Territory>Falkland</Territory>, fundado el año de 1763 por
+    el Capitán de Navio Francés Don <persName>Luis de Bouganville</persName> con un
         <Concept_Structure>castillo</Concept_Structure> que lo defiende, y tiene el mismo nombre,
     está situado a orilla de un buen <Concept_Landmark>Puerto</Concept_Landmark> dentro de la
         <Concept_Landmark>Bahía</Concept_Landmark>, en la <Concept_Landmark>Isla</Concept_Landmark>
@@ -109,7 +109,7 @@
     orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Arivi</Landmark>, al E de la <Concept_Settlement>Villa</Concept_Settlement> de
         <Settlement>San Fernando</Settlement>. <zbr/>
-    <zbr/> §§§id_09215§§§<zbr/> Otro llamado Portal de <Settlement>San Luis</Settlement>,
+    <zbr/> §§§id_09215§§§<zbr/> Otro llamado Portal de San Luis,
         <Concept_Settlement>Aldea</Concept_Settlement> de los <humanGroup type="political_group"
         >Portugueses</humanGroup> en el <Concept_Territory>Reyno</Concept_Territory> del
         <Territory>Brasil</Territory>, situado en la orilla del E del
@@ -153,7 +153,7 @@
     Gerónimo</Landmark>, y a la entrada del <Concept_Landmark>canal</Concept_Landmark> de
         <Landmark>Santa Bárbara</Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark>
     austral, los <humanGroup type="political_group">Franceses</humanGroup> que llegaron allí con
-    permiso del Rey de España para hacer el comercio en las
+    permiso del Rey de <Territory>España</Territory> para hacer el comercio en las
         <Concept_Landmark>Costas</Concept_Landmark> del <Territory>Perú</Territory> a principios de
     este siglo de dieron el nombre en obsequio de <persName>Luis XIV</persName> que reynaba entonces
     en <Territory>Francia</Territory>, es de terreno bajo, desierta, y se extiende más de 16 leguas
@@ -162,8 +162,8 @@
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory> corre al NNO,
     y entra en el de <Landmark>Tocantines</Landmark>, entre el
         <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Preto</Landmark> y el <Concept_Settlement>Pueblo</Concept_Settlement> del Portal de
-        <Settlement>San Luis</Settlement>. <zbr/>
+    <Landmark>Preto</Landmark> y el <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Settlement>Portal de San Luis</Settlement>. <zbr/>
     <zbr/> §§§id_09223§§§<zbr/> LUISA, Campo de) <Concept_Landmark>llanura</Concept_Landmark> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> en la
     parte de ella que tienen los <humanGroup type="political_group">Franceses</humanGroup>, entre el
@@ -190,8 +190,8 @@
         <humanGroup type="political_group">Ingleses</humanGroup> mandados por el Almirante
         <persName>Pedro Warren</persName>, y las tropas de tierra por el Coronel <persName>Guillermo
         Papparel</persName>, la tomaron a los <humanGroup type="political_group"
-        >Franceses</humanGroup> el año de 1745; pero se la restituyeron en la paz de <Landmark>Aix
-        la Chapelle</Landmark> el de 1748: después se la volvieron a tomar bajo de las órdenes del
+        >Franceses</humanGroup> el año de 1745; pero se la restituyeron en la paz de <Settlement>Aix
+        la Chapelle</Settlement> el de 1748: después se la volvieron a tomar bajo de las órdenes del
     Almirante <persName>Boscawen</persName> y <zbr/>
     <zbr/> @@@Alcedo_vol_2-0629@@@<zbr/>
     <zbr/> #del Teniente General <persName>Amherst</persName> el año de 1758, demoliendo las
@@ -226,12 +226,12 @@
         <Concept_Territory>Colonias</Concept_Territory> Francesas de <Territory>Santo
         Domingo</Territory> y <zbr/>
     <zbr/> @@@Alcedo_vol_2-0630@@@<zbr/>
-    <zbr/> #<Territory>Martinica</Territory>, llevando azúcar, tabaco, café, rum etc. del resto que queda hallan
-    despacho en <Territory>Canadá</Territory>, a cambio de pieles de castor y de otros animales: no
-    era este el único <Concept_Landmark>Puerto</Concept_Landmark> en que los <humanGroup
-        type="political_group">Franceses</humanGroup> cargaban bacalao porque muchos iban a
-        <Territory>Terranova</Territory>, sobre la <Concept_Landmark>Costa</Concept_Landmark> del N
-    y sus bancos. Además de los habitantes de <Settlement>Luisbourg</Settlement> hay una gran
+    <zbr/> #<Territory>Martinica</Territory>, llevando azúcar, tabaco, café, rum etc. del resto que
+    queda hallan despacho en <Territory>Canadá</Territory>, a cambio de pieles de castor y de otros
+    animales: no era este el único <Concept_Landmark>Puerto</Concept_Landmark> en que los
+        <humanGroup type="political_group">Franceses</humanGroup> cargaban bacalao porque muchos
+    iban a <Territory>Terranova</Territory>, sobre la <Concept_Landmark>Costa</Concept_Landmark> del
+    N y sus bancos. Además de los habitantes de <Settlement>Luisbourg</Settlement> hay una gran
     porción de <humanGroup type="political_group">Franceses</humanGroup> establecidos en las
         <Concept_Landmark>Costas</Concept_Landmark> de las
         <Concept_Landmark>Islas</Concept_Landmark> vecinas, particularmente en la de <Territory>S.
@@ -254,10 +254,10 @@
         >Tecagas</humanGroup>, <humanGroup type="indigenous_group">Chavanons</humanGroup> y otras,
     por el E con la <Territory>Florida Occidental</Territory>, <Territory>Georgia</Territory> y
         <Territory>Carolina</Territory>, y al O con el <Territory>Nuevo México</Territory> y
-        <Territory>Nueva España</Territory>; tiene de extensión del Septentrión al Mediodía cerca de 15 grados,
-    esto es desde 25 a 40 de latitud septentrional, y de Levante a Poniente 10 ú 11 grados desde 86
-    a 96 de longitud, no hallándose todavía precisamente determinados sus límites: Mr.
-        <persName>Delisle</persName> le da mucha más extensión con particularidad por la parte del N
+        <Territory>Nueva España</Territory>; tiene de extensión del Septentrión al Mediodía cerca de
+    15 grados, esto es desde 25 a 40 de latitud septentrional, y de Levante a Poniente 10 ú 11
+    grados desde 86 a 96 de longitud, no hallándose todavía precisamente determinados sus límites:
+    Mr. <persName>Delisle</persName> le da mucha más extensión con particularidad por la parte del N
     que la une con el <Territory>Canadá</Territory>, y según esto confina por allí con la
         <Territory>Nueva Yorck</Territory>, <Territory>Pensilvania</Territory>,
         <Territory>Virginia</Territory> etc. y al O por los
@@ -302,12 +302,13 @@
     ante curtidas con primor, y de mucha estimación en <Territory>Europa</Territory>: la parte
     oriental de la <Territory>Luisiana</Territory> pertenecía a los <humanGroup
         type="political_group">Ingleses</humanGroup>, y tenían facultad de extender por allí como
-    quisieran sus <Concept_Territory>Colonias</Concept_Territory> de <Territory>Carolina</Territory>, <zbr/>
+    quisieran sus <Concept_Territory>Colonias</Concept_Territory> de
+    <Territory>Carolina</Territory>, <zbr/>
     <zbr/> @@@Alcedo_vol_2-0632@@@<zbr/>
     <zbr/> #<Territory>Virginia</Territory> y <Territory>Pensilvania</Territory>: los <humanGroup
         type="political_group">Franceses</humanGroup> cedieron este
         <Concept_Territory>país</Concept_Territory> a los <humanGroup type="political_group"
-        >Españoles</humanGroup> por la paz de Versalles el año de 1763. La
+        >Españoles</humanGroup> por la paz de <Settlement>Versalles</Settlement> el año de 1763. La
         <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Nueva Orleans</Settlement>. <zbr/>
     <zbr/> §§§id_09227§§§<zbr/> LUKE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
@@ -328,8 +329,8 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>,
     construido a orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San
-        Remi</Landmark> en el Confluente, donde se le juntan el <Landmark>Verde</Landmark> y el de
-        <Landmark>San Pedro</Landmark>. <zbr/>
+        Remi</Landmark> en el <Concept_Landmark>Confluente</Concept_Landmark>, donde se le juntan el
+        <Landmark>Verde</Landmark> y el de <Landmark>San Pedro</Landmark>. <zbr/>
     <zbr/> §§§id_09231§§§<zbr/> LULUMBAMBA, <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> en el
         <Concept_Territory>Corregimiento</Concept_Territory> del
@@ -354,7 +355,7 @@
     <zbr/> §§§id_09235§§§<zbr/> LUNA, Aguage de la) <Concept_Settlement>Pueblo</Concept_Settlement>
     de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory>, situado
-    cerca del de <Landmark>Agua Escondida</Landmark>. <zbr/>
+    cerca del de <Settlement>Agua Escondida</Settlement>. <zbr/>
     <zbr/> §§§id_09236§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de
     la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pataz</Territory> o
@@ -373,11 +374,11 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Escocia</Territory> o
         <Territory>Acadia</Territory> en la <Territory>América Septentrional</Territory>, fundada
     por una porción de <humanGroup type="political_group">Alemanes</humanGroup> de
-        <Settlement>Hallifax</Settlement> que llegaban a 600, disgustados de la poca fertilidad del terreno que
-    gozaban, y deseosos de buscar otro mejor se establecieron aquí; pero habiéndose tumultuado envió
-    el Gobernador de la <Concept_Territory>Provincia</Concept_Territory> un destacamento de tropa
-    que los redujo, puso acordes en sus diferencias, y protegió, defendiéndolos de los Indios para
-    lograr y asegurar su establecimiento. <zbr/>
+        <Settlement>Hallifax</Settlement> que llegaban a 600, disgustados de la poca fertilidad del
+    terreno que gozaban, y deseosos de buscar otro mejor se establecieron aquí; pero habiéndose
+    tumultuado envió el Gobernador de la <Concept_Territory>Provincia</Concept_Territory> un
+    destacamento de tropa que los redujo, puso acordes en sus diferencias, y protegió,
+    defendiéndolos de los Indios para lograr y asegurar su establecimiento. <zbr/>
     <zbr/> §§§id_09240§§§<zbr/> Tiene el mismo nombre un
         <Concept_Territory>Condado</Concept_Territory> de la <Territory>Virginia</Territory>.<zbr/>
     <zbr/> §§§id_09240a§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de los
@@ -391,8 +392,8 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>San Juan de los
         Llanos</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, es pequeño, corre al
     N, y entra en el <Landmark>Meta</Landmark>, enfrente del
-        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones de <Settlement>Santa Teresa de
-        Maipures</Settlement> que tenían los Regulares de la Compañía. <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones de <Settlement>Santa Teresa
+        de Maipures</Settlement> que tenían los Regulares de la Compañía. <zbr/>
     <zbr/> §§§id_09242§§§<zbr/> LURIBAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cicasica</Territory> en
@@ -428,7 +429,7 @@
         <Concept_Landmark>ríos</Concept_Landmark> a la <Concept_Landmark>Bahía</Concept_Landmark> de
         <Landmark>Hudsón</Landmark>. <zbr/>
     <zbr/> §§§id_09249§§§<zbr/> LUXAN, <Concept_Settlement>Villa</Concept_Settlement> pequeña de la
-        <Concept_Territory>Provincia</Concept_Territory> <zbr/>
+        <Concept_Territory>Provincia</Concept_Territory> y <zbr/>
     <zbr/> @@@Alcedo_vol_2-0634@@@<zbr/>
     <zbr/> #<Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>
     en el <Territory>Perú</Territory>, situada en el camino que va a <Settlement>Lima</Settlement>,
@@ -448,11 +449,11 @@
     otro <Concept_Landmark>río</Concept_Landmark> grande nombrado <Landmark>Uccubamba</Landmark>,
     que naciendo en las vertientes de la <Concept_Territory>Provincia</Concept_Territory> de
         <Territory>Caxamarquilla</Territory>, y engrosándose en la de
-        <Territory>Chachapoyas</Territory> con el de <Territory>Taulia</Territory> y otros, desagua
-    en el <Landmark>Marañon</Landmark>, casi enfrente del
-        <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Tomependa</Landmark> de la
-        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Jaen</Territory>, en la
-    inmediación de dos <Concept_Landmark>cerros</Concept_Landmark> elevados que llaman
+        <Territory>Chachapoyas</Territory> con el de <Landmark>Taulia</Landmark> y otros, desagua en
+    el <Landmark>Marañon</Landmark>, casi enfrente del <Concept_Landmark>Puerto</Concept_Landmark>
+    de <Landmark>Tomependa</Landmark> de la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Jaen</Territory>, en la inmediación de dos
+        <Concept_Landmark>cerros</Concept_Landmark> elevados que llaman
         <Landmark>Reintema</Landmark>, donde tributa sus corrientes a aquel
         <Concept_Landmark>río</Concept_Landmark>; otro grande hay, nombrado
         <Landmark>Chinchipe</Landmark>, que bajando de <Landmark>Loxa</Landmark> pasa por la de
@@ -492,7 +493,7 @@
     refregada entre las manos, y aplicadas al olfato, preserva mucho a los caminantes del frío y
     calentura de tercianas en los parages que son propensos a ellas: en los
         <Concept_Landmark>cerros</Concept_Landmark> hay minerales de oro y plata, pero no se trabaja
-    ninguno. Tenia su Corregidor de repartimiento solo 25.000 pesos, pagando mil en cada año. La
+    ninguno. Tenía su Corregidor de repartimiento solo 25.000 pesos, pagando mil en cada año. La
         <Concept_Settlement>Capital</Concept_Settlement> es el
         <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, los demás de su Población: <zbr/>
     <zbr/> ßßß<zbr/> #<Settlement>Colina</Settlement>. <zbr/>
@@ -501,15 +502,13 @@
     <Settlement>Paclas</Settlement>.<zbr/>
     <Settlement>Tambillo</Settlement>.<zbr/>
     <Settlement>Tiapollo</Settlement>.<zbr/>
-    <Settlement>Corobamba</Settlement>.<zbr/> 
-    ##<Settlement>Jucusbamba</Settlement>. <zbr/>
+    <Settlement>Corobamba</Settlement>.<zbr/> ##<Settlement>Jucusbamba</Settlement>. <zbr/>
     <Settlement>Lamúr</Settlement>.<zbr/>
     <Settlement>Olto</Settlement>.<zbr/>
     <Settlement>Cunumal</Settlement>.<zbr/>
     <Settlement>Chusgon</Settlement>.<zbr/>
     <Settlement>Colcamar</Settlement>.<zbr/>
-    <Settlement>Balcho</Settlement>.<zbr/> 
-    ###<Settlement>Ron</Settlement>.<zbr/>
+    <Settlement>Balcho</Settlement>.<zbr/> ###<Settlement>Ron</Settlement>.<zbr/>
     <Settlement>Jamaica</Settlement>.<zbr/>
     <Settlement>Bagua</Settlement>.<zbr/>
     <Settlement>Cheto</Settlement>.<zbr/>
@@ -518,10 +517,8 @@
     <Settlement>Jamón</Settlement>.<zbr/>
     <zbr/> @@@Alcedo_vol_2-0636@@@<zbr/>
     <zbr/> #<Settlement>Chelel</Settlement>. <zbr/>
-    <Settlement>Cochaima</Settlement>. <zbr/> 
-    ##<Settlement>Huaillabamba</Settlement>. <zbr/>
-    <Settlement>Jalca</Settlement>. <zbr/> 
-    ###<Settlement>Magdalena</Settlement>. <zbr/>
+    <Settlement>Cochaima</Settlement>. <zbr/> ##<Settlement>Huaillabamba</Settlement>. <zbr/>
+    <Settlement>Jalca</Settlement>. <zbr/> ###<Settlement>Magdalena</Settlement>. <zbr/>
     <Settlement>Lonia</Settlement>. <zbr/> $$$<zbr/>
     <zbr/> §§§id_09252§§§<zbr/> Tiene el mismo nombre el <Concept_Settlement>Pueblo
         Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory>
