@@ -33,8 +33,9 @@
     <Territory>Connecticut</Territory>, es la <Concept_Settlement>Población</Concept_Settlement> más
     antigua de la <Concept_Territory>Provincia</Concept_Territory>, y debe su nombre al Lord
         <persName>Vizconde ##de Say</persName>, y al Lord <persName>Brook</persName>, con cuyo
-    dinero se fabricó; tiene un buen fuerte que la defiende de los <humanGroup type="social_group"
-        >Indios</humanGroup> de la <Concept_Group>Nación</Concept_Group>
+    dinero se fabricó; tiene un buen <Concept_Structure>fuerte</Concept_Structure> que la defiende
+    de los <humanGroup type="social_group">Indios</humanGroup> de la
+        <Concept_Group>Nación</Concept_Group>
     <humanGroup type="indigenous_group">Pequet</humanGroup> que la atacaron el año 1637, y ha sido
     después muy útil para defender la entrada del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Connecticut</Landmark> de enemigos más formidables que los <humanGroup
@@ -147,7 +148,7 @@
     <Landmark>Piscataqua</Landmark>.<zbr/>
     <zbr/> §§§id_14880§§§<zbr/> SCHOHARIE, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva Yorck</Territory> en
-    los Estados Unidos de la <Territory>América Septentrional</Territory>, corre al N, y entra en el
+    los <Territory>Estados Unidos de la América Septentrional</Territory>, corre al N, y entra en el
         <Landmark>Mohawks</Landmark>.<zbr/>
     <zbr/> §§§id_14881§§§<zbr/> SCHOOGUN, Salto del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Kenebec</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> de
@@ -186,15 +187,15 @@
     <zbr/>
     <zbr/> @@@Alcedo_vol_4-0529@@@<zbr/>
     <zbr/> #de <Settlement>San Ignacio de Pevas</Settlement>, baña el
-        <Concept_Territory>territorio</Concept_Territory> de la <Concept_Group>Nación
-        bárbara</Concept_Group> de <Concept_Group>Indios</Concept_Group>
+        <Concept_Territory>territorio</Concept_Territory> de la <Concept_Group>Nación bárbara de
+        Indios</Concept_Group>
     <humanGroup type="indigenous_group">Yahuas</humanGroup> que habitan en las
         <Concept_Landmark>selvas</Concept_Landmark> inmediatas a su origen, y entra en el
         <Landmark>Marañon</Landmark> por la parte Boreal en 3 gr. 7 min. de lat. aust.<zbr/>
     <zbr/> §§§id_14887§§§<zbr/> SCITUATE, <Concept_Settlement>Ciudad</Concept_Settlement> marítima
     con un buen <Concept_Landmark>Puerto</Concept_Landmark> en el
         <Concept_Territory>Condado</Concept_Territory> y
-        <Concept_Territory>Colonia</Concept_Territory> de <Settlement>Plimouth</Settlement> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Plimouth</Territory> y
         <Territory>Nueva lnglatena</Territory>, situada en la extremidad del NE, 5 millas al S de
         <Settlement>Hinham</Settlement> y 8 al E de <Settlement>Abingdón</Settlement>.<zbr/>
     <zbr/> §§§id_14888§§§<zbr/> SCOT, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -213,11 +214,10 @@
     tan lleno de rocas a la entrada que es imposible pasar con seguridad ninguna embarcación si no
     lleva persona que sea muy práctica: está en 78 gr. 40 min. de long. y en 9 gr. 12 min. de lat.<zbr/>
     <zbr/> §§§id_14892§§§<zbr/> SCRUB, <Concept_Landmark>Isla</Concept_Landmark> de la
-        <Concept_Landmark>mar</Concept_Landmark>
-    <Landmark>##del N</Landmark>, una de las <Landmark>Vírgenes pequeñas</Landmark>, situada al O de
-    la <Landmark>Virgen Gorda</Landmark> y al E de la extremidad del N de la
-        <Landmark>Tórtola</Landmark>, de quien depende, está en 62 gr. 57 min. de long. y en 18 gr.
-    25 min. de lat.<zbr/>
+        <Concept_Landmark>mar</Concept_Landmark> ##del <Landmark>N</Landmark>, una de las
+        <Landmark>Vírgenes pequeñas</Landmark>, situada al O de la <Landmark>Virgen Gorda</Landmark>
+    y al E de la extremidad del N de la <Landmark>Tórtola</Landmark>, de quien depende, está en 62
+    gr. 57 min. de long. y en 18 gr. 25 min. de lat.<zbr/>
     <zbr/> §§§id_14893§§§<zbr/> SCURBY, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del E de la de <Territory>Terranova</Territory>,
@@ -273,7 +273,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> de Veragua en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory> en la
         <Concept_Landmark>ensenada</Concept_Landmark> de la <Landmark>Soledad</Landmark>, al S de la
-    de la Gobernadora.<zbr/>
+    de la <Landmark>Gobernadora</Landmark>.<zbr/>
     <zbr/> §§§id_14900§§§<zbr/> SEBALD, Islas de) en la <Concept_Landmark>mar</Concept_Landmark> del
         <Landmark>Sur</Landmark> y <Concept_Landmark>estrecho</Concept_Landmark> de
         <Landmark>Magallanes</Landmark>, descubiertas por <persName>Sebald Waert</persName> el año
@@ -291,12 +291,10 @@
         <Territory>Nueva Andalucía</Territory>, corre hacia el N, entre los de
         <Landmark>Aguirre</Landmark> y de <Landmark>Maritore</Landmark>, y sale al
         <Landmark>Orinoco</Landmark> en su boca grande llamada de <Landmark>Navios</Landmark>.<zbr/>
-    <zbr/> §§§id_14902§§§<zbr/> S. SEBASTIAN, <Concept_Settlement>Ciudad</Concept_Settlement>
-    <zbr/>
-    <zbr/> @@@Alcedo_vol_4-0531@@@<zbr/>
-    <zbr/> #<Concept_Settlement>Capital</Concept_Settlement> de la
-        <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Río de Jeneyro</Territory> en
+    <zbr/> §§§id_14902§§§<zbr/> S. SEBASTIAN, <Concept_Settlement>Ciudad <zbr/>
+        <zbr/> @@@Alcedo_vol_4-0531@@@<zbr/>
+        <zbr/> #Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory>
+    y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Río de Jeneyro</Territory> en
     el <Territory>Brasil</Territory>; µµµvéase Jeneyroµµµ.<zbr/>
     <zbr/> §§§id_14903§§§<zbr/> Otra <Concept_Settlement>Ciudad</Concept_Settlement> hay del mismo
     nombre y aditamento de los Reyes en la <Concept_Territory>Provincia</Concept_Territory> y
@@ -314,11 +312,11 @@
     una en el sitio de <Settlement>San Juan de los Morros</Settlement>, y la otra en la
         <Concept_Settlement>Villa</Concept_Settlement> de <Territory>San Luis</Territory>, consiste
     en 13 leguas de Oriente a Poniente y 11 de N a S: al Oriente con declinación al N confina con el
-        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tacata de los
-            <Concept_Landmark>Valles</Concept_Landmark> del Tuy</Settlement>, distante 20 leguas, en
-    que intermedian muchas <Concept_Landmark>serranías</Concept_Landmark>; al Poniente con la
-    referida nueva <Concept_District>Parroquia</Concept_District> de <Settlement>San Juan de los
-        Morros</Settlement>, que dista 6 leguas; al N con declinación al Poniente con el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Tacata</Settlement> de los
+        <Concept_Landmark>Valles</Concept_Landmark> del <Landmark>Tuy</Landmark>, distante 20
+    leguas, en que intermedian muchas <Concept_Landmark>serranías</Concept_Landmark>; al Poniente
+    con la referida nueva <Concept_District>Parroquia</Concept_District> de <Settlement>San Juan de
+        los Morros</Settlement>, que dista 6 leguas; al N con declinación al Poniente con el
         <Concept_Settlement>Pueblo</Concept_Settlement> de la <Settlement>Victoria</Settlement> del
     Vi##cariato de los <Concept_Landmark>Valles</Concept_Landmark> de <Landmark>Aragua</Landmark>,
     distante 18 leguas; y al S con el <Concept_Settlement>Pueblo</Concept_Settlement> de
@@ -379,9 +377,9 @@
     <zbr/> §§§id_14910§§§<zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Analco</Territory>
     tiene: 20 familias de <humanGroup type="social_group">Indios</humanGroup> que se ocupan en
-    llevar a vender a la <Concept_Settlement>Ciudad</Concept_Settlement> de Gua##dalajara trigo,
-    maíz, semillas y frutas: está poco distante de su
-        <Concept_Settlement>Cabecera</Concept_Settlement> al Oriente.<zbr/>
+    llevar a vender a la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Gua##dalajara</Settlement> trigo, maíz, semillas y frutas: está poco distante de
+    su <Concept_Settlement>Cabecera</Concept_Settlement> al Oriente.<zbr/>
     <zbr/> §§§id_14911§§§<zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> de
         <Settlement>Taximaroa</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
     de <Territory>Maravatio</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
@@ -923,9 +921,8 @@
     <zbr/> ßßß<zbr/> #<Settlement>S. Amaro de las Brotas</Settlement>. <zbr/>
     <Settlement>S. Antonio de Tabayana</Settlement>. <zbr/> ##<Settlement>S. Antonio del Río de S.
         Francisco</Settlement>. <zbr/>
-    <Settlement>Nuestra Señora de la Piedad</Settlement>. <zbr/>
-        ###<Concept_Settlement>Villa</Concept_Settlement> Real de <Settlement>Piagui</Settlement>.
-    <zbr/> $$$<zbr/>
+    <Settlement>Nuestra Señora de la Piedad</Settlement>. <zbr/> ###<Settlement>Villa Real de
+        Piagui</Settlement>. <zbr/> $$$<zbr/>
     <zbr/> §§§id_14987a§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> tiene la
     advocación de S. Christóval, su propio nombre era <Settlement>Cirijí</Settlement>, que se ha
     corrompido en el de <Landmark>Seregipe</Landmark>: está situada a orilla del
@@ -985,7 +982,7 @@
     <zbr/> §§§id_14995§§§<zbr/> SERRANA, <Concept_Landmark>Isla</Concept_Landmark> pequeña o
         <Concept_Landmark>Islote</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
     del <Landmark>N</Landmark> cerca de la <Concept_Landmark>Isla</Concept_Landmark> de
-        <Landmark>Jamayca</Landmark>, está en 296 gr. de long. y en 14 gr. 30 min. de lat.<zbr/>
+        <Territory>Jamayca</Territory>, está en 296 gr. de long. y en 14 gr. 30 min. de lat.<zbr/>
     <zbr/> §§§id_14996§§§<zbr/> SERRANILLA, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la anterior, y
     al SO de la de <Territory>Jamayca</Territory>, llámase así desde que naufragó en ella
@@ -1013,7 +1010,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, <Concept_Settlement>Cabeza de
         Corregimiento</Concept_Settlement>, es de temperamento frío, pero sano, alegre y ameno;
     tiene muy buenas y abundantes aguas; su <Concept_Territory>territorio</Concept_Territory> es
-    sumamente fértil, y goza de todos temples cálidos y frios; produce mucho trigo de excelente
+    sumamente fértil, y goza de todos temples cálidos y fríos; produce mucho trigo de excelente
     calidad, mucha caña dulce, maíz, turmas, habas, alberjas, repollos, cebollas y demás legumbres y
     plátanos, infinito ganado vacuno y cabrío; tiene 400 <humanGroup type="social_group">vecinos
         blancos</humanGroup> y 200 <humanGroup type="social_group">Indios</humanGroup>: está 24
@@ -1084,7 +1081,7 @@
         type="political_group">Españoles</humanGroup> estaba en ella la Colegiata, que se fundó, y
     residía allí el Abad: está en ##299 gr. 40 min. de long. y en 18 gr. 40 min. de lat.<zbr/>
     <zbr/> §§§id_15008§§§<zbr/> Otra <Concept_Settlement>Ciudad</Concept_Settlement> hay del mismo
-    nombre con el aditamento del Oro,µµµvéase Macasµµµ.<zbr/>
+    nombre con el aditamento del Oro, µµµvéase Macasµµµ.<zbr/>
     <zbr/> §§§id_15009§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory> con un buen
         <Concept_Landmark>Puerto</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark>
@@ -1094,8 +1091,9 @@
     <zbr/> §§§id_15010§§§<zbr/> El <Concept_Landmark>río</Concept_Landmark> referido nace cerca de
     la <Concept_Landmark>Costa</Concept_Landmark> del S, corre a este rumbo, y sale al
         <Concept_Landmark>mar</Concept_Landmark> entre el de <Landmark>Turino</Landmark> y el
-        <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>San Pedro</Landmark>, a su boca o
-    entrada forma un buea <Concept_Landmark>Puerto</Concept_Landmark>.<zbr/>
+        <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>San Pedro</Landmark>, a su
+        <Concept_Landmark>boca</Concept_Landmark> o <Concept_Landmark>entrada</Concept_Landmark>
+    forma un buen <Concept_Landmark>Puerto</Concept_Landmark>.<zbr/>
     <zbr/> §§§id_15011§§§<zbr/> SEWI, Bahía de) en la <Concept_Landmark>Costa</Concept_Landmark> de
     la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Georgia</Territory>, formada
     por la boca o entrada de un <Concept_Landmark>río</Concept_Landmark>.<zbr/>
@@ -1242,10 +1240,11 @@
     <zbr/> §§§id_15039§§§<zbr/> SHOP, µµµvéase Concepciónµµµ.<zbr/>
     <zbr/> §§§id_15040§§§<zbr/> SHOWTEN, <Concept_Landmark>Islas</Concept_Landmark> de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, llamadas también de
-    los Perros y de los Cochinos, son quincen, las descubrió <persName>Guillermo Showten</persName>
-    el año de 1616, de quien tomaron el nombre, están al N de la <Settlement>Nueva
-        Zelanda</Settlement>, 1200 leguas de la <Concept_Landmark>Costa</Concept_Landmark> de
-        <Territory>Chile</Territory>, entre 15 y 20 gt. de lat. aust.<zbr/>
+    los <Landmark>Perros</Landmark> y de los <Landmark>Cochinos</Landmark>, son quince, las
+    descubrió <persName>Guillermo Showten</persName> el año de 1616, de quien tomaron el nombre,
+    están al N de la <Territory>Nueva Zelanda</Territory>, 1200 leguas de la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Chile</Territory>, entre 15 y 20
+    gt. de lat. aust.<zbr/>
     <zbr/> §§§id_15041§§§<zbr/> SHREWSBURY, <Concept_Settlement>Ciudad</Concept_Settlement>
     principal del <Concept_Territory>Condado</Concept_Territory> de <zbr/>
     <zbr/> @@@Alcedo_vol_4-0547@@@<zbr/>

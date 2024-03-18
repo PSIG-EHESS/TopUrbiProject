@@ -1,18 +1,18 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_4-0502@@@<zbr/>
- <zbr/> #Indias, y pidió licencia para dexar el <Concept_Territory>Obispado</Concept_Territory>
- retirarse, pero no se la concedió el Rey Don <persName>Felipe IV</persName>, murió el año de 1653.
- <zbr/> 9 Don <persName>Fernando de Avendaño</persName>, natural de <Settlement>Lima</Settlement>,
- Catedrático de Prima de Teología en su Universidad, Calificador del Santo Oficio, Cura y Rector de
- su Iglesia Arzobispal, y en ella Chantre y Arcediano, Visitador de la idolatría de los <humanGroup
-  type="social_group">Indios</humanGroup>, electo Obispo de <Territory>Santiago de Chile</Territory>
- el referido año de 1655, murió sin tomar posesión. <zbr/> 10 Don <persName>Diego de
-  Encinas</persName>, natural de <Settlement>Lima</Settlement>, Catedrático de su Universidad,
- Canónigo Penitenciario, Tesorero, Maestre-Escuela, Chantre y Arcediano de su Santa Iglesia
- Metropolitana, Varón sabio y de admirables exemplos de virtud, fue electo Obispo de
-  <Territory>Santiago de Chile</Territory>, y murió antes de consagrarse el año de 1659. <zbr/> 11
- Don Fr. <persName>Diego de Umansoro</persName>, Religioso del Orden de San Francisco, natural de
-  <Settlement>Guipuzcoa</Settlement>, Provincial de la
+ <zbr/> #<Territory>Indias</Territory>, y pidió licencia para dexar el
+  <Concept_Territory>Obispado</Concept_Territory> retirarse, pero no se la concedió el Rey Don
+  <persName>Felipe IV</persName>, murió el año de 1653. <zbr/> 9 Don <persName>Fernando de
+  Avendaño</persName>, natural de <Settlement>Lima</Settlement>, Catedrático de Prima de Teología en
+ su Universidad, Calificador del Santo Oficio, Cura y Rector de su Iglesia Arzobispal, y en ella
+ Chantre y Arcediano, Visitador de la idolatría de los <humanGroup type="social_group"
+  >Indios</humanGroup>, electo Obispo de <Territory>Santiago de Chile</Territory> el referido año de
+ 1655, murió sin tomar posesión. <zbr/> 10 Don <persName>Diego de Encinas</persName>, natural de
+  <Settlement>Lima</Settlement>, Catedrático de su Universidad, Canónigo Penitenciario, Tesorero,
+ Maestre-Escuela, Chantre y Arcediano de su Santa Iglesia Metropolitana, Varón sabio y de admirables
+ exemplos de virtud, fue electo Obispo de <Territory>Santiago de Chile</Territory>, y murió antes de
+ consagrarse el año de 1659. <zbr/> 11 Don Fr. <persName>Diego de Umansoro</persName>, Religioso del
+ Orden de San Francisco, natural de <Territory>Guipuzcoa</Territory>, Provincial de la
   <Concept_Territory>Provincia</Concept_Territory> del <Territory>Cuzco</Territory>, electo Obispo
  el año de 1660, gobernó con prudencia, zelo y entereza, celebró el tercer Sínodo el de 1670, y
  murió el de 1676. <zbr/> 12 Don Fr. <persName>Bernardo Carrasco</persName>, del Orden de Santo
@@ -35,14 +35,13 @@
  Maestre-Escuela, Chantre y Dean de la Iglesia del <Settlement>Cuzco</Settlement>, tomó posesión del
   <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santiago de Chile</Territory> el año
  de 1708, construyó el altar de los Santos Justo y Pastor, pasó promovido a la Iglesia de
-  <Settlement>Quito</Settlement> en 1717. <zbr/> 15 Don <persName>Alejo Fernando de
- Rojas</persName>, a quién algunos llaman Alejandro, natural de <Settlement>Lima</Settlement>,
- Colegial del Real y Mayor de <Settlement>San Felipe</Settlement>, electo Obispo de
-  <Territory>Santiago de Chile</Territory>, de que tomó posesión el año de 1719, fue promovido a la
-  <Territory>Paz</Territory> el de 1723. <zbr/> 16 Don <persName>Alonso del Pozo y Silva</persName>,
- natural de la <Settlement>Concepción de Chile</Settlement>, Colegial del Convictorio de
-  <Settlement>San Francisco Xavier de esta</Settlement>
- <Concept_Settlement>Ciudad</Concept_Settlement>, Cura Rector, Canónigo Magistral, Arcediano y Dean
+  <Territory>Quito</Territory> en 1717. <zbr/> 15 Don <persName>Alejo Fernando de Rojas</persName>,
+ a quién algunos llaman Alejandro, natural de <Settlement>Lima</Settlement>, Colegial del Real y
+ Mayor de San Felipe, electo Obispo de <Territory>Santiago de Chile</Territory>, de que tomó
+ posesión el año de 1719, fue promovido a la <Territory>Paz</Territory> el de 1723. <zbr/> 16 Don
+  <persName>Alonso del Pozo y Silva</persName>, natural de la <Settlement>Concepción de
+  Chile</Settlement>, Colegial del Convictorio de San Francisco Xavier de esta
+  <Concept_Settlement>Ciudad</Concept_Settlement>, Cura Rector, Canónigo Magistral, Arcediano y Dean
  de la misma Catedral, de donde fue promovido al <Concept_Territory>Obispado</Concept_Territory> del
   <Territory>Tucumán</Territory>, y de este al de <Territory>Santiago de Chile</Territory> el año de
  1723, fue sumamente limosnero y virtuoso y pasó al
@@ -72,13 +71,13 @@
   <Territory>Arequipa</Territory> el año de 1754, pero murió antes de salir. <zbr/> 20 Don
   <persName>Manuel de Alday y Aspee</persName>, natural de la
   <Concept_Settlement>Ciudad</Concept_Settlement> de la <Settlement>Concepción de
- Chile</Settlement>, donde estudió Filosofía y Teología en el Convictorio de <Settlement>San
-  Joseph</Settlement>, y después Jurisprudencia en el Colegio de San Martín y Real Universidad de
- San Marcos de <Settlement>Lima</Settlement>, en cuya Catedral fue Canónigo Doctoral y Juez
- Subdelegado del Tribunal de la Santa Cruzada, fue hecho Obispo de <Territory>Santiago de
-  Chile</Territory>, de que tomó posesión el año de 1754, ha continuado la fábrica de la Catedral
- contribuyendo con 50 pesos anuales, celebró el quinto Sínodo Diocesano, y hace 34 años que gobierna
- con el mayor aplauso por su virtud, celo y caridad.<zbr/> $$$<zbr/>
+ Chile</Settlement>, donde estudió Filosofía y Teología en el Convictorio de San Joseph, y después
+ Jurisprudencia en el Colegio de San Martín y Real Universidad de San Marcos de
+  <Settlement>Lima</Settlement>, en cuya Catedral fue Canónigo Doctoral y Juez Subdelegado del
+ Tribunal de la Santa Cruzada, fue hecho Obispo de <Territory>Santiago de Chile</Territory>, de que
+ tomó posesión el año de 1754, ha continuado la fábrica de la Catedral contribuyendo con 50 pesos
+ anuales, celebró el quinto Sínodo Diocesano, y hace 34 años que gobierna con el mayor aplauso por
+ su virtud, celo y caridad.<zbr/> $$$<zbr/>
  <zbr/> §§§id_14668§§§<zbr/> #Otra <Concept_Settlement>Ciudad</Concept_Settlement> hay de este
  nombre con el sobrenombre de Alanje en la <Concept_Territory>Provincia</Concept_Territory> de
   <Territory>Veragua</Territory> y <Concept_Territory>Reyno</Concept_Territory> de
@@ -104,7 +103,7 @@
   <Concept_Settlement>Ciudad</Concept_Settlement>, y tiene por nombre San Pedro de Roca, porque lo
  construyó el año de 1641 el Gobernador Don <persName>Pedro de Roca y Borja</persName>, Caballero
  del Orden de Samugo, natural de <Settlement>Valencia</Settlement>, y de una
-  <Concept_Structure>batería</Concept_Structure> que llaman la Estrella: es
+  <Concept_Structure>batería</Concept_Structure> que llaman la <Structure>Estrella</Structure>: es
   <Concept_Settlement>Población</Concept_Settlement> pequeña, pero muy hermosa y de buenos
  edificios, frequentada de embarcaciones y gentes por su comercio y abundancia de frutos,
  particularmente azúcar y tabaco: es Cabeza de <Concept_Territory>Obispado</Concept_Territory>
@@ -577,9 +576,9 @@
   <Landmark>Flores</Landmark> y <Landmark>Saladillo</Landmark>.<zbr/>
  <zbr/> §§§id_14747§§§<zbr/> Un <Concept_Landmark>río</Concept_Landmark> de la
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory>
- de la <Territory>Carolina Meridional</Territory>, el mismo que llaman Congari los <humanGroup
-  type="social_group">Indios</humanGroup>, corre al SE muy caudaloso, y luego muda el nombre en el
- de Santos, y sale al <Concept_Landmark>mar</Concept_Landmark>.<zbr/>
+ de la <Territory>Carolina Meridional</Territory>, el mismo que llaman <Landmark>Congari</Landmark>
+ los <humanGroup type="social_group">Indios</humanGroup>, corre al SE muy caudaloso, y luego muda el
+ nombre en el de Santos, y sale al <Concept_Landmark>mar</Concept_Landmark>.<zbr/>
  <zbr/> §§§id_14748§§§<zbr/> SAONA, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
   <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, situada cerca de la Cabeza
  del E de la de <Territory>Santo Domingo</Territory>, mediando un
@@ -592,8 +591,9 @@
  de <Territory>Santa Catalina</Territory>: las <Concept_Landmark>Costas</Concept_Landmark> del N y
  del S están llenas <zbr/>
  <zbr/> @@@Alcedo_vol_4-0514@@@<zbr/>
- <zbr/> #de rocas, y solo por la del E pueden fondear las embarcaciones en 7 ú 8 pies de agua, donde
- quedan abrigadas de los vientos: está en 308 gr. de long. y en 18 gr. de lat.<zbr/>
+ <zbr/> #de <Concept_Landmark>rocas</Concept_Landmark>, y solo por la del E pueden fondear las
+ embarcaciones en 7 ú 8 pies de agua, donde quedan abrigadas de los vientos: está en 308 gr. de
+ long. y en 18 gr. de lat.<zbr/>
  <zbr/> §§§id_14749§§§<zbr/> SAPA, San Miguel de) <Concept_Settlement>Pueblo</Concept_Settlement> de
  la <Concept_Territory>Provincia</Concept_Territory> y
   <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arica</Territory> en el
@@ -831,7 +831,7 @@
  <zbr/> @@@Alcedo_vol_4-0518@@@<zbr/>
  <zbr/> #al <Concept_Landmark>mar</Concept_Landmark> cerca del de <Landmark>Surinam</Landmark>.<zbr/>
  <zbr/> §§§id_14784§§§<zbr/> SARAMISSUES, <Concept_Group>Nación bárbara y antigua de
-  Indios</Concept_Group> al N del <Territory>Cuzco</Territory>, el Emperador
+  Indios</Concept_Group> al N del <Settlement>Cuzco</Settlement>, el Emperador
   <persName>Huayna-Capac</persName> habiendo entrado en su
   <Concept_Territory>territorio</Concept_Territory> para sujetarlos al Imperio vió que eran tan
  brutales que más parecian fieras que hombres, los abandonó diciendo retirémonos que estos
@@ -1032,7 +1032,7 @@
  <zbr/> §§§id_14814§§§<zbr/> SATICO, µµµvéase Tanasseeµµµ.<zbr/>
  <zbr/> §§§id_14815§§§<zbr/> SATIGNAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
   <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, situado a orilla del
-  <Concept_Landmark>río</Concept_Landmark> ##La <Landmark>Chaudiere</Landmark> o la
+  <Concept_Landmark>río</Concept_Landmark> ##<Landmark>La Chaudiere</Landmark> o la
   <Landmark>Caldera</Landmark>, 4 leguas de la <Concept_Settlement>Ciudad</Concept_Settlement> de
   <Settlement>Quebec</Settlement>.<zbr/>
  <zbr/> §§§id_14816§§§<zbr/> SATIVA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -1090,8 +1090,9 @@
   <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Yaquesón</Landmark>.<zbr/>
  <zbr/> §§§id_14824a§§§<zbr/> SAVANILLA, <Concept_Landmark>Río</Concept_Landmark> de la
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
- de <Territory>Quixos y Macas</Territory> en el Rey##no de <Territory>Quito</Territory>, corre al
- Mediodía en el <Concept_District>distrito</Concept_District> de la
+ de <Territory>Quixos y Macas</Territory> en el <Concept_Territory>Rey##no</Concept_Territory> de
+  <Territory>Quito</Territory>, corre al Mediodía en el
+  <Concept_District>distrito</Concept_District> de la
   <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Zamora</Territory>, y se une con el
   <Landmark>Bombasicaro</Landmark> para entrar en el de <Landmark>Zamora</Landmark> por la parte
  Boreal en 4 gr. 3 min. de lat. aust.<zbr/>
@@ -1165,8 +1166,8 @@
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
  de <Territory>Buenos Ayres</Territory>, corre al Sur, y sale al
   <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Plata</Landmark>, al lado de la
-  <Concept_Territory>Colonia</Concept_Territory> del <Territory>Sacramento</Territory> que tenían
- los <humanGroup type="political_group">Portugueses</humanGroup>.<zbr/>
+  <Settlement>Colonia del Sacramento</Settlement> que tenían los <humanGroup type="political_group"
+  >Portugueses</humanGroup>.<zbr/>
  <zbr/> §§§id_14833§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> también pequeño y de la
  misma <Concept_Territory>Provincia</Concept_Territory> que el anterior corre al O, y entra en el
   <Landmark>Uruguay</Landmark> entre el de <Landmark>Gracian</Landmark> y el de
@@ -1174,9 +1175,9 @@
  <zbr/> §§§id_14834§§§<zbr/> Otro con el sobrenombre de Roto en la misma
   <Concept_Territory>Provincia</Concept_Territory> corre al O, y entra en el de <Landmark>Santa
   Lucía Chico</Landmark>.<zbr/>
- <zbr/> §§§id_14835§§§<zbr/> Un fuerte en la <Concept_Territory>Provincia</Concept_Territory> y
-  <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> para contener
- los <Concept_Group>Indios bárbaros</Concept_Group>.<zbr/>
+ <zbr/> §§§id_14835§§§<zbr/> Un <Concept_Structure>fuerte</Concept_Structure> en la
+  <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
+ del <Territory>Tucumán</Territory> para contener los <Concept_Group>Indios bárbaros</Concept_Group>.<zbr/>
  <zbr/> §§§id_14836§§§<zbr/> Un <Concept_Landmark>valle</Concept_Landmark> fértil y grande en la
   <Concept_Territory>Provincia</Concept_Territory> y
   <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Melipilla</Territory> y
@@ -1200,7 +1201,7 @@
  <zbr/> §§§id_14841§§§<zbr/> Un <Concept_Landmark>río</Concept_Landmark> en la
   <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory>
  del <Territory>Paraguay</Territory> que baña el <Concept_Territory>territorio</Concept_Territory>
- llamado <Territory>Pampas</Territory> a la parte del Mediodía recibe en su curso las aguas de otros
+ llamado <Landmark>Pampas</Landmark> a la parte del Mediodía recibe en su curso las aguas de otros
  muchos <Concept_Landmark>ríos</Concept_Landmark> que bajan de la
   <Concept_Landmark>Cordillera</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
  de <Territory>Chile</Territory>, y después de correr más de 126 leguas al Mediodía tuerce a
@@ -1225,7 +1226,7 @@
   <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Uraña</Settlement>.<zbr/>
  <zbr/> §§§id_14845§§§<zbr/> SAUMON, <Concept_Landmark>Río</Concept_Landmark> pequeño <zbr/>
  <zbr/> @@@Alcedo_vol_4-0525@@@<zbr/>
- <zbr/> #de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>San Juan</Territory> en la
+ <zbr/> #de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Juan</Landmark> en la
   <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory>, nace de dos
   <Concept_Landmark>lagunas</Concept_Landmark> pequeñas, corre al N, y sale al
   <Concept_Landmark>mar</Concept_Landmark> entre la <Concept_Landmark>Bahía</Concept_Landmark> de
@@ -1262,7 +1263,7 @@
  <zbr/> §§§id_14853§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de la
   <Concept_Territory>Provincia</Concept_Territory>
   ##<Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Piura</Territory> en el
-  <Territory>Perú</Territory>, corre al O, y entra en el de <Territory>Piura</Territory>.<zbr/>
+  <Territory>Perú</Territory>, corre al O, y entra en el de <Landmark>Piura</Landmark>.<zbr/>
  <zbr/> §§§id_14854§§§<zbr/> SAUS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
   <Concept_Settlement>Cabeza de partido</Concept_Settlement> de
   <Settlement>Tamazunchale</Settlement> y <Concept_Territory>Provincia</Concept_Territory> y

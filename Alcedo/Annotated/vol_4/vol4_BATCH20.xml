@@ -59,8 +59,8 @@
         <Concept_Territory>Go##bierno</Concept_Territory> del <Territory>Nuevo Reyno de
         León</Territory> en la <Territory>América Septentrional</Territory>, pertenece al
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guadalaxara</Territory>, y es
-    paso preciso para los que transitan a <Territory>Durango</Territory> y el
-        <Territory>Parral</Territory> en las <Concept_Landmark>Costas</Concept_Landmark> del
+    paso preciso para los que transitan a <Settlement>Durango</Settlement> y el
+        <Settlement>Parral</Settlement> en las <Concept_Landmark>Costas</Concept_Landmark> del
         <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark>, atravesando un <Concept_Landmark>Puerto</Concept_Landmark>
     estrecho y encaxonado de más de 2 leguas, y un parage a corta distancia de este llamado la
@@ -128,28 +128,27 @@
     subida tan pendiente que son impracticables para carruages, y así la gente de distinción se
     hacen llevar en hamacas colgadas de un palanquín que llevan dos negros en los hombros, y con
     cortinas a los costados. Fundó esta <Concept_Settlement>Ciudad</Concept_Settlement>
-    <persName>Tomás de Sousa</persName>, Portugués, cerca del fuerte de <Landmark>San
-        Antonio</Landmark>, en el sitio que hoy llaman
-        <Concept_Settlement>Villa</Concept_Settlement>
-    <Settlement>Veya</Settlement> o <Concept_Settlement>Ciudad</Concept_Settlement> Vieja, y después
-    se mudó al parage en que está. La situación incómoda e irregular no la impide hacer un gran
-    comercio, y que sea una de <zbr/>
+    <persName>Tomás de Sousa</persName>, Portugués, cerca del
+        <Concept_Structure>fuerte</Concept_Structure> de <Structure>San Antonio</Structure>, en el
+    sitio que hoy llaman <Landmark>Villa Veya</Landmark> o <Landmark>Ciudad Vieja</Landmark>, y
+    después se mudó al parage en que está. La situación incómoda e irregular no la impide hacer un
+    gran comercio, y que sea una de <zbr/>
     <zbr/> @@@Alcedo_vol_4-0479@@@<zbr/>
     <zbr/> #las más ricas de la <Territory>América</Territory>, y antes contribuye tanto a su
         <Concept_Structure>fortaleza</Concept_Structure> que a poca
         <Concept_Landmark>costa</Concept_Landmark> se podría hacer insuperable, porque la naturaleza
     ha dispuesto fosos y obras exteriores que se flanquean y hacen disputable cada palmo de tierra;
     la parte Oriental es casi inexpugnable, y el resto está bien fortificado por la naturaleza y el
-    arte, y defendidos los aproches por varios fuertes, particularmente el de <Landmark>San
-        Pedro</Landmark> que es un tetrágono irregular de tierra revestida de piedra y rodeado de un
-    foso, el de <Structure>San Diego</Structure> es casi de la misma figura y material, aunque sin
-    foso; el almacén de la pólvora lo mismo, y hay otro separado hecho en bóveda y cubierto en
-    figura de pirámide; el de <Structure>San Antonio</Structure> también de la misma figura, pero
-    mayor, y el <Concept_Structure>castillo</Concept_Structure> de <Structure>Nuestra Señora de
-        Victoria</Structure>, situado cerca de medio tiro de cañón del de <Structure>San
-        Antonio</Structure>; el de <Structure>San Bartolomé</Structure> que defiende un
-        <Concept_Landmark>Puerto</Concept_Landmark> pequeño donde carenan las embarcaciones, lo
-    mismo que el de <Structure>Monferrato</Structure> y otros que dominan la entrada de la
+    arte, y defendidos los aproches por varios <Concept_Structure>fuertes</Concept_Structure>,
+    particularmente el de <Structure>San Pedro</Structure> que es un tetrágono irregular de tierra
+    revestida de piedra y rodeado de un foso, el de <Structure>San Diego</Structure> es casi de la
+    misma figura y material, aunque sin foso; el almacén de la pólvora lo mismo, y hay otro separado
+    hecho en bóveda y cubierto en figura de pirámide; el de <Structure>San Antonio</Structure>
+    también de la misma figura, pero mayor, y el <Concept_Structure>castillo</Concept_Structure> de
+        <Structure>Nuestra Señora de Victoria</Structure>, situado cerca de medio tiro de cañón del
+    de <Structure>San Antonio</Structure>; el de <Structure>San Bartolomé</Structure> que defiende
+    un <Concept_Landmark>Puerto</Concept_Landmark> pequeño donde carenan las embarcaciones, lo mismo
+    que el de <Structure>Monferrato</Structure> y otros que dominan la entrada de la
         <Landmark>Bahía</Landmark>: parece que con estos fuertes no le ##faltaba a la
         <Concept_Settlement>Ciudad</Concept_Settlement> para hacerla inexpugnable más que el buen
     estado de las fortificaciones, y tenerlas provistas de municiones y tropas, lo qual no sucede
@@ -344,10 +343,11 @@
     <Landmark>Pauto</Landmark>.<zbr/>
     <zbr/> §§§id_14587§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situado a
-    la orilla del <Concept_Landmark>río</Concept_Landmark> Ori<zbr/>
-    <zbr/> @@@Alcedo_vol_4-0484@@@<zbr/>
-    <zbr/> #noco, enfrente de <Settlement>Ciudad Real</Settlement>, que fue destiuido por los
-        <Concept_Group>Indios</Concept_Group>
+    la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Ori<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0484@@@<zbr/>
+        <zbr/> #noco</Landmark>, enfrente de <Settlement>Ciudad Real</Settlement>, que fue destiuido
+    por los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Caribes</humanGroup>, y solo permanecen sus ruinas.<zbr/>
     <zbr/> §§§id_14588§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory> en la
@@ -372,12 +372,12 @@
     parage muy frío y nubloso, habitan allí 12 familias de <humanGroup type="social_group"
         >Españoles</humanGroup> y algu##nos <humanGroup type="social_group">Indios</humanGroup>; y
     en el mismo camino que es el real que va a <Settlement>México</Settlement>, 2 leguas más
-    adelante, está la <Concept_Structure>estancia</Concept_Structure> de las Vigas, cuyo sitio es
-    del mismo clima, y también sirve de albergue a los pasageros: en él viven 20 familias de
-        <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
-        >Mestizos</humanGroup> ocupados en criar ganado vacuno y cabrío; abunda de pinos, de que
-    sacan porción de brea y alquitrán para llevar a vender a la <Settlement>Vera Cruz</Settlement>
-    para las carenas de navios: está 2 leguas al N de su
+    adelante, está la <Concept_Structure>estancia</Concept_Structure> de las
+        <Structure>Vigas</Structure>, cuyo sitio es del mismo clima, y también sirve de albergue a
+    los pasageros: en él viven 20 familias de <humanGroup type="social_group">Españoles</humanGroup>
+    y <humanGroup type="social_group">Mestizos</humanGroup> ocupados en criar ganado vacuno y
+    cabrío; abunda de pinos, de que sacan porción de brea y alquitrán para llevar a vender a la
+        <Settlement>Vera Cruz</Settlement> para las carenas de navios: está 2 leguas al N de su
         <Concept_Settlement>Cabecera</Concept_Settlement>.<zbr/>
     <zbr/> §§§id_14590§§§<zbr/> Un <Concept_Landmark>río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -397,7 +397,7 @@
     el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Abaucán</Landmark>, corre al Este en
     el <Concept_District>distrito</Concept_District> de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxuy</Territory>, también lo
-    llaman Bermejo.<zbr/>
+    llaman <Landmark>Bermejo</Landmark>.<zbr/>
     <zbr/> §§§id_14593§§§<zbr/> Una <Concept_Landmark>Isla</Concept_Landmark> de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las
         <Landmark>Lucayas</Landmark>, que <zbr/>
@@ -405,8 +405,9 @@
     <zbr/> #fue la primera tierra de aquel <Territory>Nuevo Mundo</Territory> que descubrió el
     Almirante <persName>Christóval Colon</persName> el año de 1492, en que tomó posesión de aquellos
     dominios por los Reyes Católicos Don <persName>Fernando el Quinto</persName> y Doña
-        <persName>Isabel</persName> que reynaban en Castilla, los Indios la llamaban Guanahani o
-    Cuanabay, está en 302 gr. 30 min. de long. y en 24 gr. 10 min. de lat.<zbr/>
+        <persName>Isabel</persName> que reynaban en <Territory>Castilla</Territory>, los Indios la
+    llamaban <Landmark>Guanahani</Landmark> o <Landmark>Cuanabay</Landmark>, está en 302 gr. 30 min.
+    de long. y en 24 gr. 10 min. de lat.<zbr/>
     <zbr/> §§§id_14594§§§<zbr/> SALVALEON de Iguey, <Concept_Settlement>Pueblo</Concept_Settlement>
     de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, una de
     las primeras <Concept_Settlement>Poblaciones</Concept_Settlement> que fundaron en ella los
@@ -468,7 +469,7 @@
     en el camino que va a <Settlement>Chiquinquirá</Settlement>, produce mucho trigo, maíz, cebada,
     papas y demás frutos de tierra fría; tiene 250 <humanGroup type="social_group"
         >Indios</humanGroup>, y más de 300 <humanGroup type="social_group">vecinos</humanGroup>:
-    está 2 leguas de <Territory>Tunja</Territory>.<zbr/>
+    está 2 leguas de <Settlement>Tunja</Settlement>.<zbr/>
     <zbr/> §§§id_14601§§§<zbr/> SAMAGALLI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en
@@ -545,7 +546,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, nace en lo interior de las
         <Concept_Landmark>montañas</Concept_Landmark>, y sale al
         <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>golfo</Concept_Landmark> de
-        <Landmark>Tucumari</Landmark> o del <Landmark>Darién</Landmark>.<zbr/>
+        <Landmark>Tucumari</Landmark> o del <Territory>Darién</Territory>.<zbr/>
     <zbr/> §§§id_14614§§§<zbr/> SAMARUNBU, <Concept_Landmark>Laguna</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el
@@ -656,8 +657,8 @@
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>; tiene de largo 25
     leguas SE NO, y 14 de ancho; fue en otro tiempo muy poblada, y tan abundante de frutos, que se
     cargaban en el <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Cherrepe</Landmark>
-    muchos navios para <Territory>Panamá</Territory>, <Territory>Guayaquil</Territory>,
-        <Territory>Callao</Territory> y <Territory>Chile</Territory>, fuera de lo que internaba a
+    muchos navíos para <Settlement>Panamá</Settlement>, <Settlement>Guayaquil</Settlement>,
+        <Settlement>Callao</Settlement> y <Territory>Chile</Territory>, fuera de lo que internaba a
     las <Concept_Territory>Provincias</Concept_Territory> confinantes; su temperamento es
     benignísimo, y en nada diferente del de <Territory>Truxillo</Territory>; riéganla quatro
     pequeños <Concept_Landmark>ríos</Concept_Landmark>, de los quales el que está más al N llaman de
@@ -725,10 +726,10 @@
         <Settlement>Lima</Settlement> el Cuerpo de su Arzobispo <persName>Santo Toribio
         Mogrovejo</persName> que tenían por haber muerto allí: es de excelente clima, y de
         <Concept_Territory>territorio</Concept_Territory> muy fértil y ameno; hoy solo subsisten el
-    Convento ##de San Francisco, y el Hospital de <Settlement>San Juan de Dios</Settlement>, con
-    algunas pocas familias nobles, pero muy pobres: está situada entre los
-        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Lambayeque</Settlement> y
-        <Settlement>Guadalupe</Settlement> en 6 gr. 52 min. de lat. aust.<zbr/>
+    Convento ##de San Francisco, y el Hospital de San Juan de Dios, con algunas pocas familias
+    nobles, pero muy pobres: está situada entre los <Concept_Settlement>Pueblos</Concept_Settlement>
+    de <Settlement>Lambayeque</Settlement> y <Settlement>Guadalupe</Settlement> en 6 gr. 52 min. de
+    lat. aust.<zbr/>
     <zbr/> §§§id_14631§§§<zbr/> SANARE, Santa Ana de)
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -769,7 +770,8 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situada a
     orilla del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Orinoco</Landmark>, enfrente de la boca del de <Landmark>Manapire</Landmark>.<zbr/>
+    <Landmark>Orinoco</Landmark>, enfrente de la <Concept_Landmark>boca</Concept_Landmark> del de
+        <Landmark>Manapire</Landmark>.<zbr/>
     <zbr/> §§§id_14636§§§<zbr/> Tiene el mismo nombre un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -860,7 +862,7 @@
     un <Concept_Landmark>banco de arena</Concept_Landmark> y le da el nombre: está en 92 gr. 35 min.
     de long. y en 41 gr. 24 min. de lat.<zbr/>
     <zbr/> §§§id_14648§§§<zbr/> Una <Concept_Settlement>Ciudad</Concept_Settlement> hay de este
-    nombre en la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóval</Landmark>,
+    nombre en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>San Christóval</Territory>,
     una de las <Landmark>Antilles</Landmark>, es grande, y está situada en el extremo del NO, fue
         <Concept_Settlement>Capital</Concept_Settlement> de la parte que poseían los <humanGroup
         type="political_group">Ingleses</humanGroup> antes, del tratado de la paz de
@@ -880,8 +882,8 @@
         <Concept_Landmark>volcán</Concept_Landmark> muy alto de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en
-    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y en el partido
-    del Se<zbr/>
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y en el
+        <Concept_District>partido</Concept_District> del Se<zbr/>
     <zbr/> @@@Alcedo_vol_4-0493@@@<zbr/>
     <zbr/> #gundo, cuyo nombre también le dan, por la parte del N se ve siempre cubierto de nieve,
     su altura es prodigiosa, pues según los Académicos de las Ciencias de
@@ -1029,15 +1031,15 @@
     N con la de <Territory>Coaguila</Territory> y principio de la de las
         <Territory>Texas</Territory>; de Oriente a Poniente tiene 80 leguas, desde la
         <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>
-    hasta los confines del <Landmark>Nuevo</Landmark>
-    <zbr/>
-    <zbr/> @@@Alcedo_vol_4-0496@@@<zbr/>
-    <zbr/> #<Concept_Territory>Reyno</Concept_Territory> de <Territory>León</Territory>, y resto de
-    la <Concept_Territory>Provincia</Concept_Territory> referida de <Territory>Coaguila</Territory>;
-    está la mayor parte situada baxo de la Zona Tórrida; es de benigno temperamento y ayre sano,
-    como de terreno fértil y abundante en granos y frutos, y particularmente de ganados; tiene
-    muchas <Concept_Landmark>salinas</Concept_Landmark>, y algunos minerales excelentes de plata en
-    las vertientes de la <Concept_Landmark>sierra</Concept_Landmark>, de donde baxan muchos
+    hasta los confines del <Territory>Nuevo <zbr/>
+        <zbr/> @@@Alcedo_vol_4-0496@@@<zbr/>
+        <zbr/> #Reyno de León</Territory>, y resto de la
+        <Concept_Territory>Provincia</Concept_Territory> referida de
+    <Territory>Coaguila</Territory>; está la mayor parte situada baxo de la Zona Tórrida; es de
+    benigno temperamento y ayre sano, como de terreno fértil y abundante en granos y frutos, y
+    particularmente de ganados; tiene muchas <Concept_Landmark>salinas</Concept_Landmark>, y algunos
+    minerales excelentes de plata en las vertientes de la
+        <Concept_Landmark>sierra</Concept_Landmark>, de donde baxan muchos
         <Concept_Landmark>ríos</Concept_Landmark> que fertilizan los
         <Concept_Landmark>valles</Concept_Landmark>: estuvo este dilatado
         <Concept_Territory>país</Concept_Territory> poblado de innumerables <humanGroup
@@ -1052,11 +1054,11 @@
     <zbr/> §§§id_14664a§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> es la
         <Concept_Settlement>Villa</Concept_Settlement> del mismo nombre, fundada por el mismo
     conquistador el año de 1748, tiene un gran <Concept_Landmark>Puerto</Concept_Landmark> que
-    descubrió el de 1739, y un fuerte construido para su de##fensa: si hubieran proseguido con el
-    calor que empezó su establecimiento, aprovechándose de las ventajas del
-        <Concept_Landmark>Puerto</Concept_Landmark>, podría haber sido de consideración; pero hoy es
-    un <Concept_Settlement>Pueblo</Concept_Settlement> en que la mayor parte de las casas son
-    barracas de paja.<zbr/>
+    descubrió el de 1739, y un <Concept_Structure>fuerte</Concept_Structure> construido para su
+    de##fensa: si hubieran proseguido con el calor que empezó su establecimiento, aprovechándose de
+    las ventajas del <Concept_Landmark>Puerto</Concept_Landmark>, podría haber sido de
+    consideración; pero hoy es un <Concept_Settlement>Pueblo</Concept_Settlement> en que la mayor
+    parte de las casas son barracas de paja.<zbr/>
     <zbr/> §§§id_14665§§§<zbr/> SANTERO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el
@@ -1174,8 +1176,8 @@
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Araucanos</humanGroup> la destruyeron enteramente el de
     1601: su vecindario se compone de más de 4.000 familias: ha sido patria de Don <persName>Antonio
-        de Irazabal y Andia</persName>, Marqués de <Settlement>Valparaíso</Settlement>, Comandante
-    General de <Territory>Canarias</Territory>, Virrey de <Territory>Tremecén</Territory>, de
+        de Irazabal y Andia</persName>, Marqués de Valparaíso, Comandante General de
+        <Territory>Canarias</Territory>, Virrey de <Territory>Tremecén</Territory>, de
         <Territory>Orán</Territory> y de <Territory>Navarra</Territory>, y del Consejo Supremo de
     Estado y Guerra: está 20 leguas del <Concept_Landmark>Puerto</Concept_Landmark> de
         <Settlement>Valparaíso</Settlement> en la <Concept_Landmark>mar</Concept_Landmark> del
@@ -1183,7 +1185,7 @@
     <zbr/> ___OBISPOS QUE HA HABIDO EN SANTIAGO de <Territory>Chile</Territory>.___<zbr/>
     <zbr/> ßßß<zbr/> #1 Don <persName>Rodrigo González Marmolejo</persName>, natural de
         <Settlement>Carmona</Settlement> en <Territory>Andalucía</Territory>, se hallaba de Cura y
-    Vicario de <Territory>Santiago de Chile</Territory> nombrado por el Obispo del
+    Vicario de <Settlement>Santiago de Chile</Settlement> nombrado por el Obispo del
         <Territory>Cuzco</Territory>, a cuya Diócesis pertenecía ese
         <Concept_Territory>Reyno</Concept_Territory>, y quando se desmembró y erigió en
         <Concept_Territory>Obispado</Concept_Territory> fue pre<zbr/>
@@ -1222,12 +1224,11 @@
         <Concept_Territory>Obispado</Concept_Territory>, de donde trajo 70.000 pesos que se mandaron
     volver a él después que murió en el Convento de su Orden en <Settlement>Sevilla</Settlement> el
     año de 1622. <zbr/> 6 Don <persName>Francisco de Salcedo</persName>, Canónigo Dignidad de
-    Tesorero de la Iglesia del <Settlement>Tucumán</Settlement>, Dean de la Metropolitana de
+    Tesorero de la Iglesia del <Territory>Tucumán</Territory>, Dean de la Metropolitana de
         <Territory>Charcas</Territory>, electo Obispo de <Territory>Santiago de Chile</Territory> el
     referido año de 1622, celebró Sínodo para el mejor gobierno de su Diócesis el de 1628, erigió la
-        <Concept_District>Parroquia</Concept_District> de Santa Ana, y en su tiempo consiguieron los
-        <humanGroup type="political_group">Españoles</humanGroup> una célebre victoria de los
-        <Concept_Group>Indios</Concept_Group>
+    Parroquia de Santa Ana, y en su tiempo consiguieron los <humanGroup type="political_group"
+        >Españoles</humanGroup> una célebre victoria de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Araucanos</humanGroup>, murió el año de 1635. <zbr/> 7 Don
     Fr. <persName>Gaspar de Villarroel</persName>, del Orden de San Agustín, natural de
         <Settlement>Quito</Settlement>, fue Lector de Artes y Prior de algunos Conventos en su

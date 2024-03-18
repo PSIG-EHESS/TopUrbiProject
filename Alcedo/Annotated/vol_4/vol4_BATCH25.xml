@@ -99,8 +99,8 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> en la
         <Territory>América Septentrional</Territory>, situado al N del que llaman de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Wight</Landmark>, contiene 111050
-    acres de tierra, y tiene dos <Concept_District>Parroquias</Concept_District> llamadas Suthward y
-        <persName>León Creek.</persName><zbr/>
+    acres de tierra, y tiene dos <Concept_District>Parroquias</Concept_District> llamadas
+        <Settlement>Suthward</Settlement> y <Settlement>León Creek</Settlement>.<zbr/>
     <zbr/> §§§id_15448§§§<zbr/> Otro <Concept_Territory>Condado</Concept_Territory> hay del mismo
     nombre, que es una <Concept_Landmark>Isla</Concept_Landmark> en el
         <Concept_District>distrito</Concept_District> de <Territory>Salisbury</Territory> en la
@@ -147,7 +147,7 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la
         <Territory>América Septentrional</Territory>, está entre los de la
-        <Territory>Trinidad</Territory> y de <Territory>Fores</Territory>.<zbr/>
+        <Landmark>Trinidad</Landmark> y de <Landmark>Fores</Landmark>.<zbr/>
     <zbr/> §§§id_15454§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>monte</Concept_Landmark>
     situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, entre la
@@ -236,8 +236,8 @@
     pacto tan especial con el demonio que para matar al que querían les bastaba solamente hacer una
     raya en el camino con el veneno, sin que sirviese para dañar a los demás que pasaban: tuvieron
     estrecha confederación con los <humanGroup type="indigenous_group">Pijaos</humanGroup> sus
-    confinantes contra los <humanGroup type="social_group">Españoles</humanGroup>, y dominaron a los
-        <humanGroup type="indigenous_group">Sumapaez</humanGroup>, <humanGroup
+    confinantes contra los <humanGroup type="political_group">Españoles</humanGroup>, y dominaron a
+    los <humanGroup type="indigenous_group">Sumapaez</humanGroup>, <humanGroup
         type="indigenous_group">Doas</humanGroup> y <humanGroup type="indigenous_group"
         >Cundayes</humanGroup>, más con el espanto de sus hechizos y yerbas que con el valor de sus
     armas: tenían una <Concept_Settlement>población</Concept_Settlement> de su nombre que tomó,
@@ -292,8 +292,9 @@
     <Settlement>Santo Tomás Jalpatagua</Settlement>. <zbr/> ##<Settlement>San Francisco
         Pasaco</Settlement>. <zbr/>
     <Settlement>San Estevan Azulco</Settlement>. <zbr/>
-    <Settlement>San Juan Baptista Moyuta</Settlement>. <zbr/> Los Esclavos. <zbr/>
-    <Settlement>Jumay</Settlement>. <zbr/> ###Matquescuinta. <zbr/>
+    <Settlement>San Juan Baptista Moyuta</Settlement>. <zbr/>
+    <Settlement>Los Esclavos</Settlement>. <zbr/>
+    <Settlement>Jumay</Settlement>. <zbr/> ###<Settlement>Matquescuinta</Settlement>. <zbr/>
     <Settlement>Quaxinicuilapa</Settlement>. <zbr/>
     <Settlement>Asunción de Mita</Settlement>. <zbr/>
     <Settlement>Santa Catalina</Settlement>. <zbr/>
@@ -307,9 +308,9 @@
     la ori##lla de un <Concept_Landmark>brazo</Concept_Landmark> del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Munford</Landmark>, 7 millas al N de <Settlement>Uxbridge</Settlement> y
-        <Settlement>Douglás</Settlement>, y a la misma distancia al E de <Settlement>Ox</Settlement><zbr/>
-    <zbr/> @@@Alcedo_vol_4-0608@@@<zbr/>
-    <zbr/> #ford, y 9 al S de <Settlement>Worcester</Settlement>.<zbr/>
+        <Settlement>Douglás</Settlement>, y a la misma distancia al E de <Settlement>Ox<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0608@@@<zbr/>
+        <zbr/> #ford</Settlement>, y 9 al S de <Settlement>Worcester</Settlement>.<zbr/>
     <zbr/> §§§id_15466a§§§<zbr/>
     <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo nombre en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> de la
@@ -321,11 +322,12 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la
     boca del <Concept_Landmark>río</Concept_Landmark> de su nombre en la
         <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>golfo</Concept_Landmark> de
-        <Territory>Guayaquil</Territory>.<zbr/>
+        <Landmark>Guayaquil</Landmark>.<zbr/>
     <zbr/> §§§id_15468§§§<zbr/> El <Concept_Landmark>río</Concept_Landmark> referido sale al
         <Concept_Landmark>mar</Concept_Landmark> también en el mismo
-        <Concept_Landmark>golfo</Concept_Landmark>, cerca de la boca o entrada del de
-        <Landmark>Guayaquil</Landmark>.<zbr/>
+        <Concept_Landmark>golfo</Concept_Landmark>, cerca de la
+        <Concept_Landmark>boca</Concept_Landmark> o <Concept_Landmark>entrada</Concept_Landmark> del
+    de <Landmark>Guayaquil</Landmark>.<zbr/>
     <zbr/> §§§id_15469§§§<zbr/> SUYALTEPEQUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Xalapa</Territory> en <Territory>Nueva
@@ -334,17 +336,16 @@
         <Concept_Territory>jurisdicción</Concept_Territory>, es de temperamento húmedo y cálido con
     tanto exceso que en pocas horas se pudre todo, por cuya razón no matan más carnes que las que se
     han de guisar inmediatamente: su vecindario se compone de 300 familias de <humanGroup
-        type="social_group">Indios</humanGroup> que hablan el idioma <humanGroup
-        type="indigenous_group">Mazateco</humanGroup>; es sumamente fértil y frondoso, abundante de
-    infinitas frutas delicadas: su principal comercio es el de la cosecha de vainilla tan estimada
-    para el chocolate por su fragancia aromática; co##gen también algun algodón y cacao, y tiene
-    árboles de canela que si supieran cultivarla sería muy buena, y no carece de pimienta de
-    Tabasco: hay unos arbolitos, cuya madera, que es blanquizca, luego que se pone en agua se vuelve
-    encarnada, y de ella hacen palillos para mondadientes que son muy estimados: toda la piedra que
-    se encuentra en este <Concept_Settlement>Pueblo</Concept_Settlement> es de amolar, y por la
-    parte del Norte tiene una gran <Concept_Landmark>peña</Concept_Landmark> de esta especie de más
-    de 100 pies de largo y 60 de ancho; es muy propenso a terremotos, está 7 leguas de
-        <Territory>Xalapa</Territory>.<zbr/>
+        type="social_group">Indios</humanGroup> que hablan el idioma Mazateco; es sumamente fértil y
+    frondoso, abundante de infinitas frutas delicadas: su principal comercio es el de la cosecha de
+    vainilla tan estimada para el chocolate por su fragancia aromática; co##gen también algun
+    algodón y cacao, y tiene árboles de canela que si supieran cultivarla sería muy buena, y no
+    carece de pimienta de Tabasco: hay unos arbolitos, cuya madera, que es blanquizca, luego que se
+    pone en agua se vuelve encarnada, y de ella hacen palillos para mondadientes que son muy
+    estimados: toda la piedra que se encuentra en este
+        <Concept_Settlement>Pueblo</Concept_Settlement> es de amolar, y por la parte del Norte tiene
+    una gran <Concept_Landmark>peña</Concept_Landmark> de esta especie de más de 100 pies de largo y
+    60 de ancho; es muy propenso a terremotos, está 7 leguas de <Territory>Xalapa</Territory>.<zbr/>
     <zbr/> §§§id_15470§§§<zbr/> SUZCUBA, <Concept_Landmark>Valle</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pataz</Territory> o
@@ -360,15 +361,15 @@
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Chesapeack</Landmark> en los
         <Territory>Estados Unidos de la América</Territory>.<zbr/>
     <zbr/> §§§id_15471§§§<zbr/> SWANSCUT, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
-        <Concept_Territory>Provincia</Concept_Territory> Co<zbr/>
-    <zbr/> @@@Alcedo_vol_4-0609@@@<zbr/>
-    <zbr/> #lonia de la <Territory>Carolina Septentrional</Territory>, corre al E, y sale al
-        <Concept_Landmark>mar</Concept_Landmark> junto al de <Landmark>Kikotau</Landmark>.<zbr/>
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Co<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0609@@@<zbr/>
+        <zbr/> #lonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory>, corre
+    al E, y sale al <Concept_Landmark>mar</Concept_Landmark> junto al de
+        <Landmark>Kikotau</Landmark>.<zbr/>
     <zbr/> §§§id_15472§§§<zbr/> SWANSEY, <Concept_Settlement>Ciudad</Concept_Settlement> de la
         <Territory>Nueva Inglaterra</Territory> y <Concept_Territory>Colonia</Concept_Territory> de
-        <Territory>Nueva Plimouth</Territory> en los Estados Unidos de la
-        ##<Territory>América</Territory>, situada a la boca del
-        <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Providencia</Landmark>, es
-        <Concept_Settlement>población</Concept_Settlement> grande porque las casas están muy
-    esparcidas, pero de considerable comercio, está en 42 gr. 5 min. de lat. sept. y en 71 gr. 10
-    min. de long. occid. <zbr/> #FIN DEL CUARTO TOMO. <zbr/></xml>
+        <Territory>Nueva Plimouth</Territory> en los <Territory>Estados Unidos de la
+        ##América</Territory>, situada a la boca del <Concept_Landmark>río</Concept_Landmark> de la
+        <Landmark>Providencia</Landmark>, es <Concept_Settlement>población</Concept_Settlement>
+    grande porque las casas están muy esparcidas, pero de considerable comercio, está en 42 gr. 5
+    min. de lat. sept. y en 71 gr. 10 min. de long. occid. <zbr/> #FIN DEL CUARTO TOMO. <zbr/></xml>

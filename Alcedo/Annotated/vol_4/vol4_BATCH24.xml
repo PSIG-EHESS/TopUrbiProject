@@ -138,13 +138,14 @@
     Domingo, y el tercero de la Merced; una Casa de Beaterío para Beatas huérfanas que fundó Don Fr.
         <persName>Juan de Zapata y Sandoval</persName>, del Orden de San Agustín, Obispo de
         <Territory>Vera Paz</Territory>; su población, que es bastante grande, se compone de tres
-        <Concept_Settlement>barrios</Concept_Settlement> que tienen los nombres de Sonsonate,
-        <humanGroup type="indigenous_group">Mexicanos</humanGroup> y <humanGroup>San An##tonio,
-        en</humanGroup> que habitan como 100 <humanGroup type="social_group">Indios</humanGroup> y
-    1900 almas de vecindario, de las quales habrá 400 <humanGroup type="social_group"
-        >Españoles</humanGroup>: esta <Concept_Settlement>Población</Concept_Settlement>, aunque de
-    suma importancia por las razones que hemos dicho, no tiene fortificación ni defensa alguna,
-    tiene en su inmediación la gran <Concept_Landmark>sierra</Concept_Landmark>
+        <Concept_Settlement>barrios</Concept_Settlement> que tienen los nombres de
+        <Settlement>Sonsonate</Settlement>, <Settlement>Mexicanos</Settlement> y <Settlement>San
+        An##tonio</Settlement>, en que habitan como 100 <humanGroup type="social_group"
+        >Indios</humanGroup> y 1900 almas de vecindario, de las quales habrá 400 <humanGroup
+        type="social_group">Españoles</humanGroup>: esta
+        <Concept_Settlement>Población</Concept_Settlement>, aunque de suma importancia por las
+    razones que hemos dicho, no tiene fortificación ni defensa alguna, tiene en su inmediación la
+    gran <Concept_Landmark>sierra</Concept_Landmark>
     <Landmark>Apaneca</Landmark>, que corre muchas leguas E O, y tres
         <Concept_Landmark>volcanes</Concept_Landmark>; es de temperamento cálido: como es el
         <Concept_Landmark>Puerto</Concept_Landmark> más inmediato a la
@@ -402,10 +403,10 @@
         <Concept_Landmark>Isla</Concept_Landmark> en la <Concept_Landmark>mar</Concept_Landmark> del
         <Landmark>N</Landmark>,µµµvéase el artículo Virgen Gordaµµµ.<zbr/>
     <zbr/> §§§id_15327§§§<zbr/> SPEIGHT-TOWN, <Concept_Settlement>Ciudad</Concept_Settlement> de la
-        <Concept_Landmark>Isla</Concept_Landmark> de Bar##bada muy frequentada antes de los
-    comerciantes de <Settlement>Bristol</Settlement>, y llamada por eso pequeña
-        <Settlement>Bristol</Settlement>, es muy hermosa, tiene 350 casas muy bien construidas, y
-    repartidas en cuatro calles regulares y espaciosas, de las calles la mayor se llama de los
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Bar##bada</Territory> muy
+    frequentada antes de los comerciantes de <Settlement>Bristol</Settlement>, y llamada por eso
+    pequeña <Settlement>Bristol</Settlement>, es muy hermosa, tiene 350 casas muy bien construidas,
+    y repartidas en cuatro calles regulares y espaciosas, de las calles la mayor se llama de los
     Judíos, y así ésta como las otras tres van a parar a la orilla del
         <Concept_Landmark>mar</Concept_Landmark>: los labradores de la parte de la
         <Concept_Landmark>Isla</Concept_Landmark> llamada <Landmark>Escocia</Landmark> embarcan allí
@@ -434,8 +435,8 @@
     <zbr/> §§§id_15330§§§<zbr/> SPRING, Cold) <Concept_Landmark>Isla</Concept_Landmark> pequeña de
     la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, situada cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la
-        <Concept_Territory>Provincia</Concept_Territory> de Nueva Jersey, entre el
-        <Concept_Landmark>Cabo</Concept_Landmark>
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva Jersey</Territory>,
+    entre el <Concept_Landmark>Cabo</Concept_Landmark>
     <Landmark>May</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Five
         Mile</Landmark> o de <Landmark>Cinco Mil</Landmark>.<zbr/>
     <zbr/> §§§id_15331§§§<zbr/> SPRINGFIELD, Oriental y Septentrional) dos
@@ -478,8 +479,8 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Connecticut</Territory>, una
     de las de la <Territory>Nueva Inglaterra</Territory> en los <Territory>Estados Unidos de la
         América</Territory>, situado en el <Concept_Landmark>estrecho</Concept_Landmark> de
-        <Landmark>Isle Longue</Landmark> o <Concept_Landmark>Isla</Concept_Landmark>
-    <Landmark>Larga</Landmark>, a la entrada del <Concept_Landmark>río</Concept_Landmark>
+        <Landmark>Isle Longue</Landmark> o <Landmark>Isla Larga</Landmark>, a la entrada del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Housatonick</Landmark>, 7 millas de <Settlement>Greenwich</Settlement> y 10 de
         <Settlement>Norwalk</Settlement>.<zbr/>
     <zbr/> §§§id_15339§§§<zbr/> STANINGTON, <Concept_Settlement>Ciudad</Concept_Settlement> y
@@ -500,7 +501,7 @@
     son por la mayor parte <humanGroup type="political_group">Holandeses</humanGroup> y <humanGroup
         type="political_group">Franceses</humanGroup>, los primeros tienen Iglesia de su secta, pero
     los segundos habiendo estado mucho tiempo sin Ministros Eclesiásticos hicieron una Iglesia en la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Richmond</Territory> que es
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Richmond</Settlement> que es
     muy infeliz y pobre, y la única <Concept_Settlement>población</Concept_Settlement> que tiene la
         <Concept_Landmark>Isla</Concept_Landmark>, para lo qual contribuyen con 40 libras anuales:
     está en 74 gr. 22 min. de long. y en 40 gr. y 34 min. de lat.<zbr/>
@@ -607,8 +608,8 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, uno de los
     que componen las Misiones que tienen allí los PP. Capuchinos <humanGroup type="political_group"
         >Catalanes</humanGroup>, y el primero que fundaron el año de 1724, está 2 leguas tierra
-    adentro del <Concept_Settlement>presidio</Concept_Settlement> de Santo Tomé de la
-        <Territory>Guayana</Territory>.<zbr/>
+    adentro del <Concept_Settlement>presidio</Concept_Settlement> de <Settlement>Santo Tomé de la
+        Guayana</Settlement>.<zbr/>
     <zbr/> §§§id_15358§§§<zbr/> SUAZA, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Neiva</Territory> en el
@@ -773,8 +774,8 @@
         <Settlement>Suezusa</Settlement>, que en su idioma significa color de guacamaya por la
     variedad de verdes que hay en su <Concept_Landmark>llanura</Concept_Landmark>; era
         <Concept_Settlement>Ciudad</Concept_Settlement> libre o anseática, al modo de la
-        <Concept_Territory>República</Concept_Territory> de <Settlement>Ginebra</Settlement>, donde
-    se daba asilo a todos los que se refugiaban a ella: la conquistó <persName>Gonzalo Ximénez de
+        <Concept_Territory>República</Concept_Territory> de <Territory>Ginebra</Territory>, donde se
+    daba asilo a todos los que se refugiaban a ella: la conquistó <persName>Gonzalo Ximénez de
         Quesada</persName> el año de 1537, <zbr/>
     <zbr/> @@@Alcedo_vol_4-0589@@@<zbr/>
     <zbr/> #y después se retiró a ella, donde escribió su compendio historial de la conquista de
@@ -897,9 +898,9 @@
     recogiendo las aguas de otros muchos se une con el <Landmark>Catacumbo</Landmark>, y separándose
     otra vez a poco espacio forma tres bocas para entrar en la
         <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Maracaibo</Landmark>, dejando antes
-    una gran la<zbr/>
-    <zbr/> @@@Alcedo_vol_4-0591@@@<zbr/>
-    <zbr/> #guna llamada el Baradero más arriba de la
+    una gran <Concept_Landmark>la<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0591@@@<zbr/>
+        <zbr/> #guna</Concept_Landmark> llamada el <Landmark>Baradero</Landmark> más arriba de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de la <Settlement>Grita</Settlement>: su
     boca está en 8 gr. 35 min. de lat. bor.<zbr/>
     <zbr/> §§§id_15392§§§<zbr/> Tiene el mismo nombre un
@@ -937,8 +938,8 @@
         <Territory>Nueva Andalucia</Territory>, nace en el
         <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Caribes</humanGroup> feroces, ##y entra en el de
-        <Landmark>Caroni</Landmark> más arriba de la boca donde le entra el caudaloso
-        <Landmark>Arvi</Landmark>.<zbr/>
+        <Landmark>Caroni</Landmark> más arriba de la <Concept_Landmark>boca</Concept_Landmark> donde
+    le entra el caudaloso <Landmark>Arvi</Landmark>.<zbr/>
     <zbr/> §§§id_15397§§§<zbr/> SUMAPAMPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
@@ -1191,9 +1192,10 @@
         <Concept_Landmark>ríos</Concept_Landmark>
     <Landmark>Apurvaca</Landmark> y <Landmark>Camovi</Landmark>; confinan estos <humanGroup
         type="social_group">Indios</humanGroup> hacia el Poniente con la
-        <Concept_Group>Nación</Concept_Group> de los <Territory>Acuranis</Territory> y al NO con la
-    de los <humanGroup type="indigenous_group">Nourages</humanGroup>, son dóciles, de genio
-    pacífico, y amigos de los <humanGroup type="political_group">Franceses</humanGroup>.<zbr/>
+        <Concept_Group>Nación</Concept_Group> de los <humanGroup type="indigenous_group"
+        >Acuranis</humanGroup> y al NO con la de los <humanGroup type="indigenous_group"
+        >Nourages</humanGroup>, son dóciles, de genio pacífico, y amigos de los <humanGroup
+        type="political_group">Franceses</humanGroup>.<zbr/>
     <zbr/> §§§id_15428§§§<zbr/> SUPONGA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> en la parte
@@ -1275,7 +1277,7 @@
     situado a la orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Meta</Landmark>, tiene este nombre por la inmediación a una
         <Concept_Landmark>ciénega</Concept_Landmark> así llamada, tuvo antes el de
-        <Landmark>Guanapalo</Landmark> por haber sido su primera fundación cerca de este
+        <Settlement>Guanapalo</Settlement> por haber sido su primera fundación cerca de este
         <Concept_Landmark>río</Concept_Landmark> que después se trasladó a donde está, es de
     temperamento muy cálido, pero abundante de frutos de este clima, y de unos árboles muy frondosos
     que dan copiosa cosecha de una fruta de color jaspeado semejante al membrillo, con la diferencia
@@ -1378,11 +1380,11 @@
         <Concept_Territory>Colonia</Concept_Territory> hay en <Settlement>Amsterdam</Settlement> un
     Colegio compuesto de diez Directores, de los cuales cinco se eligen de los Magistrados de la
         <Concept_Settlement>Ciudad</Concept_Settlement>, cuatro de la Compañía de las Indias
-    Occidentales, y uno el Señor de Someldyck; aunque este tribunal es opuesto a la Compañía, da sus
-    órdenes y manda a la regencia de <Territory>Surinam</Territory> todo lo perteneciente a la
-    conservación de la <Concept_Territory>Colonia</Concept_Territory>, y los referidos Directores
-    nombran el Gobernador que debe tener la aprobación de los Estados Generales, y prestar su
-    juramento asi a estos como a aquellos. Este Jefe, que tiene a sus órdenes un Comandante, ejerce
-    en nombre de los Estados Generales y de la Compañía una suprema autoridad en la
-        <Concept_Territory>Colonia</Concept_Territory> en los negocios civi<zbr/>
+    Occidentales, y uno el <persName>Señor de Someldyck</persName>; aunque este tribunal es opuesto
+    a la Compañía, da sus órdenes y manda a la regencia de <Territory>Surinam</Territory> todo lo
+    perteneciente a la conservación de la <Concept_Territory>Colonia</Concept_Territory>, y los
+    referidos Directores nombran el Gobernador que debe tener la aprobación de los Estados
+    Generales, y prestar su juramento asi a estos como a aquellos. Este Jefe, que tiene a sus
+    órdenes un Comandante, ejerce en nombre de los Estados Generales y de la Compañía una suprema
+    autoridad en la <Concept_Territory>Colonia</Concept_Territory> en los negocios civi<zbr/>
     <zbr/></xml>

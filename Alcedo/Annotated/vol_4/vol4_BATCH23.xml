@@ -100,7 +100,8 @@
         <Concept_Landmark>llanos</Concept_Landmark> de <Landmark>Manso</Landmark>, a orilla del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Vermejo</Landmark>, para contener los <Concept_Group>Indios</Concept_Group>
-    <humanGroup type="indigenous_group">Abipones</humanGroup> y otros infieles.<zbr/>
+    <humanGroup type="indigenous_group">Abipones</humanGroup> y otros
+        <Concept_Group>infieles</Concept_Group>.<zbr/>
     <zbr/> §§§id_15123§§§<zbr/> Una <Concept_Landmark>angostura</Concept_Landmark> o pasage en el
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, que es la
     segunda que se pasa para salir a la <Concept_Landmark>mar</Concept_Landmark> del
@@ -162,7 +163,7 @@
     incorpora con un <Concept_Landmark>brazo</Concept_Landmark> que sale del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Apure</Landmark> en el centro de las <Concept_Landmark>selvas</Concept_Landmark>, que
-    desde que se separa de su madre tiene el nombre de Masibuli, y por el
+    desde que se separa de su madre tiene el nombre de <Landmark>Masibuli</Landmark>, y por el
         <Concept_Landmark>llano</Concept_Landmark>
     <Landmark>Arauca</Landmark>: así que se juntan él y el <Landmark>Canaguata</Landmark> toman el
     de Sinaruco, y entra en el <Landmark>Orinoco</Landmark> 48 leguas más abajo del
@@ -461,7 +462,7 @@
         <Structure>Lechuguilla</Structure>.<zbr/>
     <zbr/> §§§id_15175§§§<zbr/> SITAS, <Concept_Settlement>Pueblo</Concept_Settlement> del
         <Territory>Nuevo México</Territory> en la <Territory>América Septentrional</Territory>,
-    situado cerca del <Concept_Landmark>río</Concept_Landmark> grande del N.<zbr/>
+    situado cerca del <Concept_Landmark>río</Concept_Landmark> grande del <Landmark>N</Landmark>.<zbr/>
     <zbr/> §§§id_15176§§§<zbr/> SITAWINGO, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
     de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> y
         <Territory>Estados Unidos de la América</Territory>, situado a orilla del
@@ -540,7 +541,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> del E de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>.<zbr/>
     <zbr/> §§§id_15191§§§<zbr/> SMITHFIELD, <Concept_Settlement>Pueblo</Concept_Settlement> de los
-        <Settlement>Estados Unidos</Settlement> de la <Territory>América</Territory> en la
+        <Territory>Estados Unidos de la América</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva Yorck</Territory>,
     situado a la orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Hudson</Landmark>.<zbr/>
@@ -623,7 +624,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero con moderación,
     produce buen trigo, maíz, papas y demás frutos de tierra fría, tiene 100 <humanGroup
         type="social_group">vecinos</humanGroup> y 70 <humanGroup type="social_group"
-        >Indios</humanGroup>, y dista 12 leguas al NE de <Territory>Tunja</Territory>.<zbr/>
+        >Indios</humanGroup>, y dista 12 leguas al NE de <Settlement>Tunja</Settlement>.<zbr/>
     <zbr/> §§§id_15207§§§<zbr/> SOCHILA, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva
@@ -884,9 +885,8 @@
     por dos <Concept_Landmark>caños</Concept_Landmark> de los del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Orinoco</Landmark>, la descubrió el Almirante Don <persName>Christóval
-        Colon</persName> en su cuarto viaje, y le puso por nombre
-        <Concept_Landmark>Escollo</Concept_Landmark> del Gallo, y a la entrada del
-        <Concept_Landmark>canal</Concept_Landmark>
+        Colon</persName> en su cuarto viaje, y le puso por nombre <Landmark>Escollo del
+        Gallo</Landmark>, y a la entrada del <Concept_Landmark>canal</Concept_Landmark>
     <Landmark>Boca de Sierpe</Landmark>.<zbr/>
     <zbr/> §§§id_15239§§§<zbr/> Tiene el mismo nombre con la advocación de San Miguel, un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de
@@ -952,9 +952,8 @@
         Magdalena</Landmark>.<zbr/>
     <zbr/> §§§id_15247§§§<zbr/> Otro del <Territory>Nuevo Reyno de León</Territory> en la
         <Territory>América Septentrional</Territory>.<zbr/>
-    <zbr/> §§§id_15248§§§<zbr/> Otro con el sobrenombre del <Concept_Landmark>Río</Concept_Landmark>
-    del Norte de las Misiones que tienen los Religiosos de San Francisco en el <Territory>Nuevo
-        México</Territory>.<zbr/>
+    <zbr/> §§§id_15248§§§<zbr/> Otro con el sobrenombre del Río del Norte de las Misiones que tienen
+    los Religiosos de San Francisco en el <Territory>Nuevo México</Territory>.<zbr/>
     <zbr/> §§§id_15249§§§<zbr/> Otro que es <Concept_Settlement>Asiento de
         Minas</Concept_Settlement> de plata en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla</Territory>
@@ -1013,24 +1012,23 @@
         <Territory>América Septentrional</Territory>, confina por el N con las de
         <Territory>Quesaltenango</Territory> y <Territory>Totonicapan</Territory>, por el S con
         <Concept_Landmark>mar</Concept_Landmark>, por el O con la de <Territory>San Antonio de
-        Suchitepeque</Territory> y por el E con la del <Concept_Landmark>valle</Concept_Landmark> de
-        <Territory>Guatemala</Territory>; es de corta extensión, pero muy fértil en trigo de
-    excelente calidad, especialmente el del parage llama##do <Landmark>Polopó</Landmark>, que tiene
-    singular estimación como los garbanzos; produce muchas legumbres y frutas, entre las cuales los
-    higos chumbos pasan por los mejores de todo el <Concept_Territory>Reyno</Concept_Territory>;
-    fabrica considerable porción de hilados de algodón, y de todo lo referido hace un regular
-    comercio con las demás <Concept_Territory>Provincias</Concept_Territory>; ocupa la mayor parte
-    de la extensión de esta la <Concept_Landmark>laguna</Concept_Landmark> de
-        <Landmark>Atitán</Landmark>, que tiene de 6 a 7 leguas de circunferencia, y a cuyas orillas
-    tienen su situación los mejores <Concept_Settlement>Pueblos</Concept_Settlement>, y la
-    particularidad de que entrando a desaguar en ella diferentes
-        <Concept_Landmark>ríos</Concept_Landmark> caudalosos no se le conoce aumento ni disminución
-    en sus aguas, de que se infiere con razón tiene algún
+        Suchitepeque</Territory> y por el E con la del <Territory>valle de Guatemala</Territory>; es
+    de corta extensión, pero muy fértil en trigo de excelente calidad, especialmente el del parage
+    llama##do <Landmark>Polopó</Landmark>, que tiene singular estimación como los garbanzos; produce
+    muchas legumbres y frutas, entre las cuales los higos chumbos pasan por los mejores de todo el
+        <Concept_Territory>Reyno</Concept_Territory>; fabrica considerable porción de hilados de
+    algodón, y de todo lo referido hace un regular comercio con las demás
+        <Concept_Territory>Provincias</Concept_Territory>; ocupa la mayor parte de la extensión de
+    esta la <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Atitán</Landmark>, que tiene de
+    6 a 7 leguas de circunferencia, y a cuyas orillas tienen su situación los mejores
+        <Concept_Settlement>Pueblos</Concept_Settlement>, y la particularidad de que entrando a
+    desaguar en ella diferentes <Concept_Landmark>ríos</Concept_Landmark> caudalosos no se le conoce
+    aumento ni disminución en sus aguas, de que se infiere con razón tiene algún
         <Concept_Landmark>desagüe</Concept_Landmark> subterráneo: a la parte del Sur son violentas
     sus corrientes, y el fondo es inaccesible desde el mismo cantil, sin formar
         <Concept_Landmark>playa</Concept_Landmark> más que en un corto
         <Concept_District>distrito</Concept_District> en <Landmark>Atitán</Landmark> y
-        <Landmark>Polopó</Landmark>; el agua es sumamente fria, sin embargo de que el temperamento
+        <Landmark>Polopó</Landmark>; el agua es sumamente fría, sin embargo de que el temperamento
     de la <Concept_Territory>Provincia</Concept_Territory> es cálido: no se cría en ella pescado
     alguno, y se atribuye a la gran frialdad; pero los <humanGroup type="social_group"
         >Indios</humanGroup> tienen la superstición de creer que fue castigo de <zbr/>
@@ -1145,10 +1143,11 @@
     comercio porque el terreno es muy fértil y abundante en cañas dulces, algodón, tabaco y café.<zbr/>
     <zbr/> §§§id_15269§§§<zbr/> SOMERS, µµµvéase Bermudasµµµ.<zbr/>
     <zbr/> §§§id_15270§§§<zbr/> También tiene el mismo nombre una
-        <Concept_Settlement>Ciudad</Concept_Settlement> del Con<zbr/>
-    <zbr/> @@@Alcedo_vol_4-0572@@@<zbr/>
-    <zbr/> #dado de Hartford en la <Concept_Territory>Provincia</Concept_Territory> de
-        <Territory>Connecticut</Territory>, cerca del <Concept_Landmark>río</Concept_Landmark>
+        <Concept_Settlement>Ciudad</Concept_Settlement> del <Concept_Territory>Con<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0572@@@<zbr/>
+        <zbr/> #dado</Concept_Territory> de <Territory>Hartford</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Connecticut</Territory>,
+    cerca del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Willimanti</Landmark> que entra en el <Landmark>Tames</Landmark>, está 19 millas al SE
     de <Settlement>Springfield</Settlement> y 46 al N de la <Settlement>Nueva Londres</Settlement>.<zbr/>
     <zbr/> §§§id_15271§§§<zbr/> SOMERSET, <Concept_Territory>Condado</Concept_Territory> de la
@@ -1283,7 +1282,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> su extensión que es de más de 100 leguas, y de
     350 de circunferencia en lo que está descubierto y poblado: la descubrió el Capitán
         <persName>Sebastián Vizcaíno</persName> el año de 1596 quando fue a descubrir y reconocer
-    las <Landmark>Californias</Landmark>: tiene el nombre por el de un
+    las <Territory>Californias</Territory>: tiene el nombre por el de un
         <Concept_Landmark>valle</Concept_Landmark> que hay en ella de más de 60 leguas, y a quién
     los primeros <humanGroup type="political_group">Españoles</humanGroup> llamaron de Señora,
     corrompido del de <Territory>Sonora</Territory>, en que dominaba un Cacique o Regulo señor de
