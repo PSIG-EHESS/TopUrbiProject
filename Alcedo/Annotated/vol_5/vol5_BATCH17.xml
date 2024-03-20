@@ -1,434 +1,1163 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_5-0401@@@<zbr/>
-<zbr/>
-#ne 89 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 2 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18036§§§<zbr/>
-YOA, <Concept_Landmark>Laguna</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, se forma de un <Concept_Landmark>desagüe</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Madera</Landmark> a sus orillas, y entre los <Concept_Landmark>ríos</Concept_Landmark> al N del de <Landmark>Paracevini</Landmark>. <zbr/>
-<zbr/>
-§§§id_18037§§§<zbr/>
-YOBEGO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> de <Settlement>Chixila</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 10 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 11 1/2 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18038§§§<zbr/>
-YOCALLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Porco</Territory> en el <Territory>Perú</Territory>, a cuya entrada hay un puente de piedra sobre el <Concept_Landmark>río</Concept_Landmark> <Landmark>Cachimayo</Landmark>, que es de los mejores de todo el <Concept_Territory>Reyno</Concept_Territory>, está 10 leguas de <Settlement>Potosí</Settlement>. <zbr/>
-<zbr/>
-§§§id_18039§§§<zbr/>
-YOCARBAYA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Larecaja</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Italaque</Settlement>. <zbr/>
-<zbr/>
-§§§id_18040§§§<zbr/>
-YOCON, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Cañar</Settlement>. <zbr/>
-<zbr/>
-§§§id_18041§§§<zbr/>
-YOCOPO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la Ca##yena en la <Territory>Nueva Andalucía</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark> de ella, y sale al <Concept_Landmark>mar</Concept_Landmark> al lado del <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Orange</Landmark>. <zbr/>
-<zbr/>
-§§§id_18042§§§<zbr/>
-YOHI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o <Territory>Nueva Andalucia</Territory>, se forma de la unión de los de <Landmark>Tocome</Landmark> y <Landmark>Hichique</Landmark> formando la figura de una Y, en cuyo tronco toma el nombre; entra en el <Landmark>Orinoco</Landmark> enfrente del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Alta gracia</Settlement>. <zbr/>
-<zbr/>
-§§§id_18043§§§<zbr/>
-YOIBIDE, <Concept_Landmark>Monte</Concept_Landmark> muy alto de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Chiquitos</humanGroup> en el <Territory>Perú</Territory>, tiene al S una <Concept_Landmark>laguna</Concept_Landmark> que produce mucha sal: en sus inmediaciones padeció el martirio a manos de aquelos bárbaros el Hermano <persName>Alberto Romero</persName> de la extinguida Compañía. <zbr/>
-<zbr/>
-§§§id_18044§§§<zbr/>
-YOJOBI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, es de temperamento. cálido, tiene 55 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 3 leguas y quarto al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18045§§§<zbr/>
-YOLO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>jurisdición</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Octiupa</Territory> m en <Territory>Nueva España</Territory>. <zbr/>
-<zbr/>
-§§§id_18046§§§<zbr/>
-YOLOTEPEC, Santa María de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0402@@@<zbr/>
-<zbr/>
-#mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en <Territory>Nueva España</Territory>, tiene 254 familias de <humanGroup type="social_group">Indios</humanGroup>, inclusos los que habitan en los <Concept_Settlement>barrios</Concept_Settlement> de su <Concept_District>distrito</Concept_District> en que hay muchos <Concept_Structure>ranchos</Concept_Structure> de labor donde cogen copiosas cosechas de trigo y maíz, que es a lo que se dedican, es de temperamento cálido, y dista 19 leguas al S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18047§§§<zbr/>
-YOLOXINISQUILA, San Pedro de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Teocuilco</Territory> en <Territory>Nueva España</Territory>, tiene 224 familias de <humanGroup type="social_group">Indios</humanGroup> inclusos los que habitan en los <Concept_Settlement>barrios</Concept_Settlement> de su <Concept_District>distrito</Concept_District>, produce grana con abundancia, que es el único fruto de su comercio, porque aunque la tierra es a propósito para qualquiera frutos están tan cebados en el lucro que les dexa aquel que no cultivan más que las semillas necesarias para su consumo. <zbr/>
-<zbr/>
-§§§id_18048§§§<zbr/>
-YOEHUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Quillota</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Imperial</Landmark>. <zbr/>
-<zbr/>
-§§§id_18049§§§<zbr/>
-YOTAHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuquio</Territory> en <Territory>Nueva España</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> Ver##de distante 4 leguas al S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18050§§§<zbr/>
-YOTALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Yamparaes</Territory> en el <Territory>Perú</Territory> del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory>. <zbr/>
-<zbr/>
-§§§id_18051§§§<zbr/>
-YORCK, Nueva) <Concept_Territory>Provincia</Concept_Territory> de los Estados Unidos de la <Territory>América Septentrional</Territory>, confina por el N con la de la <Territory>Nueva Inglaterra</Territory>, por el O con la de <Territory>Nueva Jersey</Territory>, por el Sur con el <Landmark>Occéano</Landmark>, y por el N con el <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Iroqueses</humanGroup>; tiene el nombre por haberla cedido Carlos Segundo, Rey de <Territory>Inglaterra</Territory>, al Duque de Yorck, que después ocupó aquel Trono: la descubrió el Caballero <persName>Hudson</persName> que la vendió a los <humanGroup type="political_group">Holandeses</humanGroup> el año de 1608, estos empezaron a establecerse en ella en 1614, y la dieron el nombre de Nueva Netherland, pero <persName>Samuel Argal</persName>, Gobernador de la <Territory>Virginia</Territory>, los echó de allí poco después: el año de 1664 envió el Rey de <Territory>Inglaterra</Territory> quatro Comisarios para establecer los límites de aquella <Concept_Territory>Colonia</Concept_Territory>, y quitaron a los <humanGroup type="political_group">Holandeses</humanGroup> la <Concept_Settlement>Capital</Concept_Settlement> que se llamaba <Settlement>Nueva Amsterdan</Settlement>, y le mudaron el nombre en el de Nueva Yorck; algún tiempo des<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0403@@@<zbr/>
-<zbr/>
-#pués tomaron los <humanGroup type="political_group">Ingleses</humanGroup>, mandados por <persName>Roberto Car</persName>, la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Orange</Settlement>, llamada ahora <Territory>Albania</Territory>, y luego el <Concept_Structure>Fuerte</Concept_Structure> y <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Arasapha</Settlement>, y el <Concept_Structure>Castillo</Concept_Structure> de la <Settlement>Ware</Settlement>, con que quedaron dueños de toda la <Concept_Territory>Provincia</Concept_Territory> que tiene 300 millas de largo y 150 de ancho, entre 40 y 45 grad. de lat. y entre 72 y 76 gr. de lat. del meridiano de <Settlement>Londres</Settlement>: se divide en los <Concept_Territory>Condados</Concept_Territory> de <Territory>Nueva Yorck</Territory>, <Territory>Albania</Territory>, <Territory>Ulster</Territory>, Duquesa, <Settlement>Orange</Settlement>, <Settlement>Westchester</Settlement> y <Settlement>Long island</Settlement> o <Concept_Landmark>Isla</Concept_Landmark> <Territory>Larga</Territory>; los de <Territory>Rey</Territory>, <Territory>Reyna</Territory>, <Territory>Suffolck</Territory>, <Territory>Richmond</Territory> y tierra de los Estados: el terreno es por lo general sumamente abundante, no solo en maíz, que es el trigo de los naturales, sino en todos los frutos que se han llevado de <Territory>Europa</Territory>, que producen tanto, y de tan excelente calidad que en pocas partes del mundo tienen semejante, como cebada, trigo, avena, arroz y demás especies de granos; cría muchísimo ganado, caballos, ovejas y cabras, todo género de aves, y particularmente faisanes de varías especies muy hermosos, y solo producidos en este <Concept_Territory>país</Concept_Territory>, mucha variedad de ##yervas y raices de las que se cultivan en <Territory>Europa</Territory>, y allí se crían naturalmente frutas exquisitas, entre las quales se estiman los melones, que son delicados: sus <Concept_Landmark>bosques</Concept_Landmark> abundan de ricas maderas, como encinas, cedros, caobas, sabinos, pinos, cipreses, sasafrás, y otras, tiene también muchísimas viñas de tres o quatro especies, y todas diferentes de las de <Territory>Europa</Territory>; pero ya sea por defecto del terreno o del clima en que se producen, o lo que es más probable por falta de cultivo, nunca se ha podido hacer de ellas vino que sea de provecho; las maderas no son tampoco tan buenas para la construcción de embarcaciones como las de la <Territory>Nueva Inglaterra</Territory>, y de la <Territory>Nueva Escocia</Territory>: produce también mucho lino y cáñamo, y de todos los frutos referidos hace un prodigioso comercio, porque su situación es la más ventajosa para ello como que se halla en el centro de todas las demás <Concept_Territory>Colonias</Concept_Territory>, y así las provee de trigo, arroz, guisantes, maíz, manzanas, cebollas, tablas, caballos, carneros, manteca, quesos, ostras escabechadas, carne <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0404@@@<zbr/>
-<zbr/>
-#salada y tocino, y harina de que cada año extrae 80.000 barriles; en cambio de estas produciones recibe aguardiente, ron, azúcar, melaza; también el <Concept_Settlement>establecimiento</Concept_Settlement> de <Settlement>Oswego</Settlement> le ha facilitado el comercio de pieles de toda especie a cambio de aguardiente, municiones, lienzos y otras drogas: el comercio que hacían antes de la última guerra con la <Territory>Inglaterra</Territory> era tan grande que se veían precisados a un continuo trabajo para hacer sus remesas a los correspondientes que tenían, y a este fin sacaban algodón de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Tomás</Territory>, y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory>, y Palo de Campeche de la <Concept_Landmark>Bahía</Concept_Landmark> de este nombre; está reputado que la exportación anual que llevaban de <Territory>Inglaterra</Territory> ascendía a 100.000 libras esterlinas, y hubiera sido mayor si hubieran impedido el comercio clandestino. Riegan esta <Concept_Territory>Provincia</Concept_Territory> los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Hudson</Landmark> o del <Landmark>Norte</Landmark>, <Landmark>Mohawk</Landmark> y <Landmark>Sorrel</Landmark>; el año 1767 se unió con las demás <Concept_Territory>Colonias</Concept_Territory> que tenían los <humanGroup type="political_group">Ingleses</humanGroup> en aquella parte del mundo para establecer la independencia y una república separada como lo consiguie##ron después de una obstinada guerra contra su Metrópoli el de 1783. Contiene 250.000 habitantes, la mayor parte descendientes de los <humanGroup type="political_group">Holandeses</humanGroup>, sus primeros pobladores; la <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre. <zbr/>
-<zbr/>
-§§§id_18052§§§<zbr/>
-Esta <Concept_Settlement>Ciudad</Concept_Settlement> fue fundada por los <humanGroup type="political_group">Holandeses</humanGroup> el año de 1608 con el nombre de Nueva Amsterdan: su situación es agradable y la más cómoda para el comercio sobre una gran Bahia en la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Manahaton</Territory>; tiene 3.000 casas, una milla de largo y media de ancho: las calles, aunque irregulares, están bien empedradas y limpias, y las casas son de ladrillo, cubiertas de tejas encarnadas, y con alamedas de árboles delante de la entrada, el clima es el más sano que se puede hallar; la parte del E y la del Sur son baxas, pero el resto de la <Concept_Settlement>población</Concept_Settlement> está en terreno alto y seco, en ninguna parte de la <Territory>América</Territory> hay una plaza tan provista de comestibles como esta: a la parte del SO de la <Concept_Settlement>Ciudad</Concept_Settlement> está el <Concept_Structure>Castillo</Concept_Structure>, que es un quadrado con quatro bastiones, y dentro de él está la casa del Gobernador que es de tres altos a la extremidad <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0405@@@<zbr/>
-<zbr/>
-#del Sur tenía una Capilla que la quemaron los <humanGroup type="social_group">Negros</humanGroup> quando se sublevaron el año de 1741, y lo mismo sucedió al resto del edificio en 1744: más abaxo de las murallas de la Plaza, y cerca del agua hay una línea de fortificación construida modernamente que defiende la entrada de la <Concept_Landmark>Bahía</Concept_Landmark> y boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Hudson</Landmark>; esta obra es de piedra, y los merlones de caxones de cedro llenos de tierra, y tiene 92 cañones; a poca distancia del <Concept_Structure>Fuerte</Concept_Structure> está la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Noten</Landmark> que tendrá como 120 acres de tierra destinada por un acto de la asamblea como feudo del Gobernador. Los <humanGroup type="political_group">Holandeses</humanGroup> tienen tres Iglesias, la una, que es la mejor y más grande, se acabó el año de 1729; los <humanGroup type="political_group">Ingleses</humanGroup> otras tres, de las quales la de la Trinidad, que se construyó el año de 1596, y se extendió el de 1737, tiene 148 pies de largo y 72 de ancho, pero no bastando para todos, sin embargo de caber en ella 2.000 personas, se hizo otra con nombre de San Jorge en 1752. Los <humanGroup type="religious_group">Presbiterianos</humanGroup> tienen otra Casa de Congregación hecha en 1718 que es magnífica: los <humanGroup type="political_group">Franceses</humanGroup> otra## muy pequeña: los <humanGroup type="religious_group">Luteranos</humanGroup> <humanGroup type="political_group">Alemanes</humanGroup> otras dos: los <humanGroup type="religious_group">Quacaros</humanGroup> otra: los <humanGroup type="religious_group">Moravios</humanGroup> otra: los <humanGroup type="religious_group">Anabatistas</humanGroup> se juntan en una casa particular: y los <humanGroup type="religious_group">Judios</humanGroup>, cuyo número es considerable, tienen también su Sinagoga. La Casa de la <Concept_Settlement>Ciudad</Concept_Settlement> es un edificio grande de ladrillo, con dos altos, de figura oblonga con dos alas en los extremos que forman martillo, y está en el encuentro de quatro calles, y tiene el frente a la que mira al SO, que es la más espaciosa de la <Concept_Settlement>Ciudad</Concept_Settlement>; en el ala de la parte de Oriente está en el segundo piso la Junta de la Asamblea, una amesala y el quarto del Abogado en la otra el Ayuntamiento y la Librería; en el centro el Consejo Supremo; y en lo baxo la cárcel y calabozos: la Librería consta de 1.000 volúmenes cedidos el año de 1728 por el Doctor <persName>Millington</persName>, Rector de <Settlement>Newington</Settlement>, el de 1754 se juntaron varios Caballeros y abrieron una subscripción para formar una Librería pública, y en pocos días pusieron 600 libras esterlinas con que compraron 700 volúmenes escogidos: además del edificio referido hay una casa <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0406@@@<zbr/>
-<zbr/>
-#de corrección y otra de comercio, que tiene una gran sala sobre arcos de ladrillo, destinada a los entretenimientos públicos, como bayles, conciertos de música y asambleas: tiene esta <Concept_Settlement>Población</Concept_Settlement> la incomodidad de haber de traer el agua para beber de bastante distancia, su comercio es tanto que en los años de 749 y 750 entraron en su <Concept_Landmark>Puerto</Concept_Landmark> 232 embarcaciones de varias partes, los habitantes pasan de 80.000, los más de ellos muy acaudalados; y la ha hecho tan floreciente la libertad que tiene todo extrangero para establecerse allí, permitiéndose por ley la tolerancia de todas las sectas: está 259 millas Inglesas de <Settlement>Boston</Settlement>. <zbr/>
-<zbr/>
-§§§id_18053§§§<zbr/>
-Tiene el mismo nombre un <Concept_Territory>Condado</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en los <Territory>Estados Unidos de la América</Territory>, que confina al S con la de <Territory>Mariland</Territory>, al NO con el <Concept_Territory>Condado</Concept_Territory> de <Territory>Cumberland</Territory>, de quien lo divide el <Concept_Landmark>río</Concept_Landmark> <Landmark>Susquehannah</Landmark>, y al NE por el <Concept_Territory>Condado</Concept_Territory> de <Territory>Lancaster</Territory>: la <Concept_Settlement>Capital</Concept_Settlement> se llama también así, es <Concept_Settlement>Ciudad</Concept_Settlement> muy comerciante, situada a la orilla de un <Concept_Landmark>brazo</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Susquehannah</Landmark>, de quien dista 10 millas al O y 25 al SE de <Settlement>Carlisle</Settlement>. <zbr/>
-<zbr/>
-§§§id_18054§§§<zbr/>
-##Otro <Concept_Territory>Condado</Concept_Territory> de la <Concept_Landmark>Bahía</Concept_Landmark> de <Territory>Massachusets</Territory> en la <Territory>Nueva Inglaterra</Territory> de los mismos Estados Unidos, a la qual está ahora unido, aunque al principio fue distinto baxo el título de la <Concept_Territory>Provincia</Concept_Territory> <Territory>Main</Territory>; y la <Concept_Settlement>Capital</Concept_Settlement> de este situada en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> cerca del <Concept_Landmark>río</Concept_Landmark> de su nombre 16 millas al N de <Settlement>Porsmouth</Settlement>, 26 de <Settlement>Salisbury</Settlement> y 70 de <Settlement>Boston</Settlement>. <zbr/>
-<zbr/>
-§§§id_18055§§§<zbr/>
-Otro <Concept_Territory>Condado</Concept_Territory> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> al SE del de <Territory>James</Territory>, entre el <Concept_Landmark>río</Concept_Landmark> de este nombre y el de <Landmark>Yorck</Landmark>, contiene 60767 acres de tierra en tres <Concept_District>Parroquias</Concept_District> nombradas <Landmark>Yorck</Landmark>, <Settlement>Hampton</Settlement> y <Settlement>Nuevo Pokosow</Settlement>; esta última está a la entrada o boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Yorck</Landmark>. <zbr/>
-<zbr/>
-§§§id_18056§§§<zbr/>
-Un <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> llamado por los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Pamunky</humanGroup>, que conserva en el <Concept_Landmark>brazo</Concept_Landmark> superior y en el <Concept_Territory>Condado</Concept_Territory> de <Territory>William</Territory>, es navegable para navíos grandes 60 millas, y con embarcaciones menores, como balandras y bergantines, otras 30; atravesando la <Concept_Landmark>lengua de tierra</Concept_Landmark> de <Landmark>Pokosow</Landmark> se llega a su boca, tiene el mismo curso que el de <Landmark>James</Landmark> por más de 100 millas, corriendo tan inmediato a él que en algunos para<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0407@@@<zbr/>
-<zbr/>
-#ges dista solo 5 millas uno de otro: siendo el terreno que media más poblado y bien cultivado de <Concept_Structure>plantaciones</Concept_Structure>, por la comodidad de la navegación de los dos <Concept_Landmark>ríos</Concept_Landmark>; 40 millas después de su origen se divide en dos <Concept_Landmark>brazos</Concept_Landmark> navegables de embarcaciones menores: en el terreno referido que hay entre los dos <Concept_Landmark>ríos</Concept_Landmark> se coge el mejor tabaco de toda la <Concept_Territory>Provincia</Concept_Territory>, del qual hacen ballotes tan apretados que suele pesar cada uno 1500 libras; tiene este pedazo de tierra la comodidad de dos entradas que hacen los <Concept_Landmark>ríos</Concept_Landmark> en lo interior y se navegan con botes chatos, la una del <Concept_Landmark>río</Concept_Landmark> <Landmark>James</Landmark> se extiende hacia el N 5 millas, y la otra del <Concept_Landmark>río</Concept_Landmark> <Landmark>Yorck</Landmark> al Sur; de modo que solo hay una milla de distancia entre los dos desembarcaderos, y aquí está situada la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Williamsburg</Settlement>, que por medio de estos dos <Concept_Landmark>canales</Concept_Landmark> naturales domina la navegación de ambos <Concept_Landmark>ríos</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_18057§§§<zbr/>
-Un <Concept_Landmark>Puerto</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, a la parte del N enfrente de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>San Fernando</Landmark>. <zbr/>
-<zbr/>
-§§§id_18058§§§<zbr/>
-YOUANA, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> Son##lahue, es la última <Concept_Settlement>población</Concept_Settlement> de los <humanGroup type="social_group">Indios</humanGroup> de la <Concept_Group>nación</Concept_Group> <humanGroup type="indigenous_group">Chactaws</humanGroup>. <zbr/>
-<zbr/>
-§§§id_18059§§§<zbr/>
-YOUNG, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, en la <Concept_District>Parroquia</Concept_District> y <Concept_District>distrito</Concept_District> de <Settlement>Santo Tomás</Settlement>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
-<zbr/>
-§§§id_18060§§§<zbr/>
-YUANES, <Concept_Group>Nación bárbara de Indios</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de el <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>, habita al N de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Córdova</Settlement>, confina por este rumbo con la de los <humanGroup type="indigenous_group">Frentones</humanGroup>, a Levante con el <Concept_Landmark>río</Concept_Landmark> del <Landmark>Paraguay</Landmark>, al Poniente con el <Landmark>Salado</Landmark>, y al Mediodía con la <Concept_Group>nación</Concept_Group> de los <humanGroup type="indigenous_group">Abipones</humanGroup>; las noticias que se tienen de estos <humanGroup type="social_group">Indios</humanGroup> son muy escasas. <zbr/>
-<zbr/>
-§§§id_18061§§§<zbr/>
-YUBAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado en la cabecera del <Concept_Landmark>río</Concept_Landmark> <Landmark>Abenio</Landmark>. <zbr/>
-<zbr/>
-§§§id_18062§§§<zbr/>
-YUCA, <Concept_Settlement>Pueblo</Concept_Settlement> grande de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Velez</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, se goza en él uno de los mejores y más saludables temperamentos que se pueden apetecer, produce muchísimo trigo de la mejor calidad y <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0408@@@<zbr/>
-<zbr/>
-#más estimado, maíz, turmas y legumbres con abundancia; tiene un Convento de Religiosos de Sanio Domingo, <humanGroup type="social_group">sus vecinos</humanGroup> serán 700, y 60 <humanGroup type="social_group">Indios</humanGroup>, está una legua de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Luba</Settlement>, 10 al NE de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Velez</Settlement>, 20 al N de la <Concept_Settlement>Capital</Concept_Settlement> <Settlement>Santa Fe</Settlement> y 7 de <Territory>Tunja</Territory>. <zbr/>
-<zbr/>
-§§§id_18063§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> pequeño de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, nace muy cerca de la <Concept_Landmark>Costa</Concept_Landmark> del Sur, corre a este rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> entre la <Concept_Settlement>Capital</Concept_Settlement> y la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Cancedo</Landmark>. <zbr/>
-<zbr/>
-§§§id_18064§§§<zbr/>
-YUCAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>. <zbr/>
-<zbr/>
-§§§id_18065§§§<zbr/>
-YUCAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_18066§§§<zbr/>
-YUCATHAN, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory> en la <Territory>América Septentrional</Territory>, es una <Concept_Landmark>Península</Concept_Landmark> rodeada del <Concept_Landmark>mar</Concept_Landmark> por tres lados, por el de el Oriente la ciñe el <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>Guanajos</Landmark> o de <Landmark>Honduras</Landmark>, y tiene por esta parte 130 leguas hasta la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Cozumel</Landmark>, por el N o Septentrión ##la baña el <Concept_Landmark>mar</Concept_Landmark> desde el referido <Concept_Landmark>Golfo</Concept_Landmark> al <Concept_Landmark>seno</Concept_Landmark> <Landmark>Mexicano</Landmark>, corriendo por el paralelo de 20 gr. y 40 ms. hasta 21 gr. en que tendrá la <Concept_Landmark>Costa</Concept_Landmark> 76 leguas, por la parte del Occidente tiene el <Concept_Landmark>seno</Concept_Landmark> <Landmark>Mexicano</Landmark> desde la <Concept_Landmark>Punta</Concept_Landmark> delgada a <Settlement>Santa María de la Victoria</Settlement> 60 leguas, por el S confina con la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Vera Paz</Territory>, y por el SO con la de <Territory>Tabasco</Territory>: su longitud es de 120 leguas SO, NE, y su latitud 98 E O por lo más ancho, desde la <Concept_Landmark>punta</Concept_Landmark> desconocida a la que está enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Cozumel</Landmark>: descubrió este <Concept_Territory>País</Concept_Territory> <persName>Francisco Fernández de Córdova</persName> el año de 1517, y lo conquistó el Capitán <persName>Francisco de Montejo</persName> el de 1527; es de temperamento muy cálido y húmedo, el terreno por lo general pedregoso, pero fértil, no hay en todo él más <Concept_Landmark>río</Concept_Landmark> que el de <Landmark>Lagartos</Landmark>, que es muy caudaloso; pero se discurre que por debaxo de tierra corren muchos, como denotan unas cuevas o bocas de <Concept_Landmark>peña</Concept_Landmark> muy profundas que llaman allí zenotes, en que se ve abaxo correr el agua, y hay muchas de éstas; la tierra es llana, poblada de árboles muy <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0409@@@<zbr/>
-<zbr/>
-#espesos, abunda en miel, cera y algodón; de este hacen hilados y texidos, que tiñen de varios colores y tienen estimación en toda la <Territory>Nueva España</Territory>; produce también alguna grana, de cuyos frutos como del palo de tinte de Campeche y de la xarcia que labran mantiene mucho comercio. En sus <Concept_Landmark>bosques</Concept_Landmark> hay excelentes maderas, de las quales se han construido algunos navíos, una de ellas que llaman habin es tan dura que si no se barrena todo quanto ha de entrar el clavo, se tuerce este por fuerte que sea: hay muchas fieras, como leopardos y tigres, culebras e insectos venenosos, y una es##pecie de araña que llaman los <humanGroup type="social_group">Indios</humanGroup> Ham, porque al que muerde le hace la fuerza de los dolores, quando se queja, repetir esta palabra hasta que muere, sin haberse encontrado remedio que pueda curar al paciente quando le ha mordido: el ganado vacuno y ovejuno es escaso en esta <Concept_Territory>Provincia</Concept_Territory> por la falta de aguas y de pastos, pero abunda el de cerda, y lo mismo todas las frutas de <Concept_Territory>país</Concept_Territory> caliente; en las <Concept_Landmark>playas</Concept_Landmark> se encuentra mucha ámbar, y un vecino llamado <persName>Femando Landeras</persName> halló un pedazo que pesó siete arrobas. La <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mérida</Settlement>. <zbr/>
-<zbr/>
-___OBISPOS QUE HA HABIDO EN LA PROVINCIA de <Territory>Yucatán</Territory>.___ <zbr/>
-<zbr/>
-ßßß<zbr/>
-#1 Don Fr. <persName>Juan de San Francisco</persName>, primer Obispo de <Territory>Yucatán</Territory>, de quien tenemos muy poca noticia, más que la de haberle puesto en la serie la díptica que de sus Obispos formó aquella Santa Iglesia. <zbr/>
-2 Don Fr. <persName>Juan de la Puerta</persName>, el año de 1552 murió antes de consagrarse. <zbr/>
-3 Don Fr. <persName>Francisco de Toral</persName>, del Orden de San Francisco, natural de <Settlement>Ubeda</Settlement>, donde tomó el hábito; pasó a <Territory>Nueva España</Territory> llevado del zelo de la conversión de los <humanGroup type="social_group">Indios</humanGroup>, convirtió y bautizó muchos, aprendiendo con perfección las lenguas Mexicana y Polaca, fue nombrado Custodio para el Capítulo General que se celebró en <Settlement>Salamanca</Settlement> el año de 1553, volvió a <Settlement>México</Settlement> el si<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0410@@@<zbr/>
-#guiente con otros 34 Religiosos de su Orden, después fue electo Provincial, y antes de cumplir presentado para Obispo de <Territory>Yucatán</Territory>; y aunque lo resistió y vino a <Territory>España</Territory> para escusarse no se le admitió, y tomó posesión el año de 1562: asistió al primero y segundo Concilio Mexicano en 1555 y en 1565, visitó tres veces su <Concept_Territory>Obispado</Concept_Territory>, y por graves ocurrencias volvió a <Settlement>México</Settlement>, donde murió el año de 1571. <zbr/>
-4 Don Fr. <persName>Diego de Landa</persName>, natural de <Settlement>Cifuentes</Settlement> en la Alcarria, Religioso también del Orden de San Francisco, fue uno de los primeros que pasaron a <Territory>Yucatán</Territory>; y aprendiendo el idioma de los <humanGroup type="social_group">Indios</humanGroup> lo reduxo a gramática, trabajó con increíble zelo en su instrucción, destruyó muchos ídolos y persiguió a los hechiceros, de que irritados intentaron matarlo; pero empezando a predicarles con una Cruz en la mano se quedaron inmóbiles con las flechas asestadas, fue electo Provincial, y vino a <Territory>España</Territory> a graves negocios, lo nombraron Guardián del Convento de <Settlement>San Antonio de Cabrera</Settlement>, y de allí presentado para Obispo de <Territory>Yucatán</Territory>; el año de 1572 visitó toda su Diócesis y gobernó con sumo acierto, padeció grandes persecuciones por defender la inmunidad Eclesiástica, refieren de él muchos prodigios, y en una hambre que padeció la <Concept_Territory>Provincia</Concept_Territory>, siendo Guardián de <Settlement>Izmael</Settlement>, mantuvo con el maíz del Convento un gran número de <humanGroup type="social_group">Indios</humanGroup>, sin conocerse disminución en la troxe, murió lleno de virtudes y en opinión de santidad el año de 1579. <zbr/>
-5 Don Fr. <persName>Gregorio Montalvo</persName>, del Orden de Santo Domingo, profesó en <Settlement>Salamanca</Settlement> el año de 1550, fue Prior del Convento de <Settlement>Plasencia</Settlement>, después electo Obispo de <Territory>Nicaragua</Territory>, y promovido a este el año de 1580, donde se portó como verdadero padre y médico de almas de sus feligreses, celebró Sínodo, visitó el <Concept_Territory>Obispado</Concept_Territory> tres veces, y formó en él los primeros aranceles de derechos Parroquiales, asistió al tercero Concilio Mexicano en 1585, manifestando su gran literatura, fue promovido el año de 1587 al <Concept_Territory>Obispado</Concept_Territory> del <Territory>Cuzco</Territory> en el <Territory>Perú</Territory>. <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0411@@@<zbr/>
-#6 Don Fr. <persName>Juan Izquierdo</persName>, del Orden de San Francisco, natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Huelva</Territory> en el <Concept_Territory>Condado</Concept_Territory> de <Territory>Niebla</Territory>, tomó el hábito en <Settlement>Lima</Settlement>, donde profesó, y de allí pasó a la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guatemala</Territory>, fue Guardian diferentes veces, y electo Obispo de <Territory>Yucatán</Territory> el año de 1587, visitó tres veces el <Concept_Territory>Obispado</Concept_Territory>, acabó la hermosa fábrica de la Catedral el de 1598, y gobernó con suma rectitud y prudencia basta el año de 1602 en que murió. <zbr/>
-7 Don <persName>Diego Vázquez Mercado</persName>, siendo Dean de la Santa Iglesia da <Settlement>Mechoacan</Settlement> fue presentado para esta Mitra el año de 1603, tomó posesión el siguiente, fue vigilantísimo Pastor, visitó dos veces su Diócesis, y fue promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Manila</Territory> el año de 1608. <zbr/>
-8 Don Fr. <persName>Gonzalo de Salazar</persName>, natural de <Settlement>México</Settlement>, siendo Maestro en su Religión vino a <Territory>España</Territory> a negocios de su <Concept_Territory>Provincia</Concept_Territory>, y fue electo Obispo de esta Iglesia el año de 1608, de que tomó posesión el siguiente, visitó seis veces todo el <Concept_Territory>Obispado</Concept_Territory>, aprendió el idioma yucateco, enseñaba personalmente a los <humanGroup type="social_group">Indios</humanGroup> la doctrina cantándola con ellos, extirpó la idolatría sacando más de 20.000 ídolos, que hacía que pisasen los mismos <humanGroup type="social_group">Indios</humanGroup>, de que le dio gracias el Pontífice <persName>Paulo V</persName>: puso mucho cuidado en que la juventud se instruyese en la gramática, teología moral lengua yucateca, asistía con freqüencia a los Oficios Divinos, celebrándolos por sí en las principales festividades, y observantísimo en las obligaciones del rezo y de la misa, que no dexó de decir en 52 años de Sacerdote sino estando enfermo, aun teniendo 76 años ayunó los días de obligación, fue muy limosnero y caritativo, y en una grande hambre sustentó de sus rentas más de 4.000 pobres, era devotísimo de María Santísima, adornó su Iglesia de alhajas, ornamentos y vasos, y lleno de años y buenas obras murió el de 1636. <zbr/>
-9 Don <persName>Juan Alonso de Ocón</persName>, natural de <Settlement>Redál</Settlement> en la <Territory>Rioja</Territory>, Colegial en el Colegio Mayor de <Settlement>San Ildefonso</Settlement> <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0412@@@<zbr/>
-<zbr/>
-#de Alcalá, donde se graduó de Doctor en Teología, y fue Catedrático de Artes, Cura de la Parroquial de <Settlement>Elechosa</Settlement> en el <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Toledo</Territory>, y después de la <Concept_District>Parroquia</Concept_District> de Santa Cruz de <Settlement>Madrid</Settlement>, de donde salió electo para Obispo de esta Santa Iglesia el año de 1638, de que tomó posesión el siguiente; visitó todo su <Concept_District>distrito</Concept_District>, confirmando más de 68.000 almas, era rigoroso en el examen de los Eclesiásticos, promovió los estudios, y pasó promovido al <Concept_Territory>Obispado</Concept_Territory> del <Territory>Cuzco</Territory> en el <Territory>Perú</Territory> el año de 1642. <zbr/>
-10 Don <persName>Andrés Fernandez de Ipenza</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Arnedo</Territory> en la <Territory>Rioja</Territory>, Colegial Trilingüe de Alcalá, estudió allí Cánones, y recibió el grado de Doctor en la Universidad de <Territory>Avila</Territory>, pasó a <Settlement>México</Settlement> de familiar del Arzobispo Don <persName>Francisco Manso</persName>, quien le nombró Provisor de <humanGroup type="social_group">Indios</humanGroup>, Juez de Testamentos y Capellanías; quando el referido Arzobispo volvió a <Territory>España</Territory> promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Cartagena</Territory> lo dexó nombrado Gobernador del <Concept_Territory>Arzobispado</Concept_Territory>, y habiendo venido a <Settlement>Madrid</Settlement> lo hicieron Inquisidor de <Territory>Toledo</Territory>, y de allí Obispo de <Territory>Yucatán</Territory> el año de 1643 pero murió aquel mismo año antes de salir de <Territory>Toledo</Territory>. <zbr/>
-11 Don <persName>Marcos de Torres y Rueda</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Almazán</Settlement>, estudió en el Burgo de <Territory>Osma</Territory>, y se graduó de Doctor Teólogo y fue Catedrático de Prima, pasó al Colegio Mayor de <Settlement>Santa Cruz de Valladolid</Settlement>, donde substituyó las Cátedras de Escritura y Vísperas de Teología; salió a Canónigo Penitenciario de la Iglesia de <Settlement>Burgos</Settlement>, y Rector del Colegio de <Settlement>San Nicolás de aquella</Settlement> <Concept_Settlement>Ciudad</Concept_Settlement>, y electo Obispo de <Territory>Yucatán</Territory> el año de 1646: lo consagró en la <Settlement>Puebla de los Angeles</Settlement> el Señor <persName>Palafox</persName>, y tomó posesión el año siguiente; con motivo de las discordias entre el referido Venerable <persName>Palafox</persName> y el Virey, <persName>Conde de Salvatierra</persName>, fue nombrado Virey y Presidente de la Audiencia de <Settlement>México</Settlement>, y murió allí el año de 1649. <zbr/>
-12 Don Fr. <persName>Domingo de <Concept_Settlement>Villa</Concept_Settlement>-Escusa Ramírez de Arellano</persName>, del Orden de San Gerónimo, Colegial en el Monasterio de <Settlement> S. Lorenzo el Real</Settlement>, donde leyó Teolo<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0413@@@<zbr/>
-<zbr/>
-#gía Moral diez años, fue Visitador General de la Orden, y después General de ella, electo Obispo de <Territory>Chiapa</Territory>, cuya Iglesia gobernó diez años y pasó a esta de <Territory>Yucatán</Territory> el de 1651; lo recibieron con suma alegría por la fama de su virtud y caridad, era verdaderamente humilde y pobre de espíritu, amado por la afabilidad de su trato, sin que dexase de sobstener la autoridad de la dignidad, murió con general sentimiento el año de 1652. <zbr/>
-13 Don <persName>Lorenzo de Orta</persName> fue electo Obispo de esta Iglesia, pero murió inmediatamente. <zbr/>
-14 Don Fr. <persName>Luis de Cifuentes y Sotomayor</persName>, natural de <Settlement>Sevilla</Settlement>, tomó el hábito de Religioso de <Territory>Santo Domingo</Territory> en <Settlement>México</Settlement>, fue Catedrático de Santo Tomás en su Universidad, Prior de varios Conventos, y Provincial de su <Concept_Territory>Provincia</Concept_Territory>, electo Obispo de <Territory>Yucatán</Territory> en 1657, de que tomó posesión el de 1759: visitó por varias veces su Diócesis, fue zelosísimo del culto Divino; y para su mayor lucimiento dio a su Iglesia ricos ornamentos y alhajas de oro y plata, costeó la Capilla y Retablo del Santo Christo de Ichmul, que hizo traer de este <Concept_Settlement>Pueblo</Concept_Settlement> per haberse quemado la Iglesia y quanto habia en ella, reservándose solo la Imagen: murió el año de 1676. <zbr/>
-15 Don <persName>Juan de Escalante Turcios y Mendoza</persName>, obtuvo varias Prebendas en esta Santa Iglesia de <Territory>Yucatán</Territory>, donde fue Comisario de Cruzada, Provisor y Vicario General del <Concept_Territory>Obispado</Concept_Territory>, y siendo Dean fue electo Arzobispo de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory> el año de 1671, y el de 1676 promovido a <Territory>Yucatán</Territory>, visitó todo el <Concept_Territory>Obispado</Concept_Territory>, y al regreso de la Visita de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tabasco</Territory> murió en el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Uman</Settlement> el año de 1681. <zbr/>
-16 Don <persName>Juan Cano Sandoval</persName>, natural de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>México</Settlement>, Doctor en Sagrados Cánones por la Universidad, Rector de Escuelas, Catedrático substituto de Decreto, Canónigo Doctoral de la Iglesia de <Settlement>Mechoacán</Settlement>, y después Penitenciario de Maestre-Escuela de la Metropolitana de <Settlement>México</Settlement>; Provisor de <humanGroup type="social_group">Indios</humanGroup>, <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0414@@@<zbr/>
-#Juez de Testamentos y Capellanías, Provisor y Vicario General y Gobernador de aquel <Concept_Territory>Arzobispado</Concept_Territory>, Comisario del Tribunal de <Territory>Santa Cruzada</Territory>, electo Obispo de <Territory>Yucatán</Territory> el año de 1682 de que tomó posesión el siguiente; visitó su Diócesis, y gobernó con grande afabilidad, tan limosnero que llegó a quitarse la capa que llevaba puesta para dársela a un pobre que se la pedía, después de decir Misa todos los días oía de rodillas ocho o diez de Sacerdotes pobres que llamaba para que la dixesen en su Oratorio, murió el año de 1695. <zbr/>
-17 Don Fr. <persName>Antonio de Arriaga y Agüero</persName>, del Orden de San Agustín, siendo Rector del Colegio de Doña <persName>María de Aragón</persName> en <Settlement>Madrid</Settlement>, por su literatura y exemplar vida fue presentado para Obispo de esta Santa Iglesia, el año de 1696, pasó a consagrarse en la <Settlement>Puebla de los Angeles</Settlement>, y antes de llegar a su Iglesia murió en la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Carrion</Settlement> el año de 1698. <zbr/>
-18 Don Fr. Pedro de los Reyes <Concept_Landmark>Ríos</Concept_Landmark> de la <Settlement>Madrid</Settlement>, natural de <Settlement>Sevilla</Settlement>, Monge del Orden de San Benito, obtuvo en su Religión los empleos de Maestro, Predicador General, Doctor Teólogo, y Opositor a Cátedras en la Universidad de <Territory>Oviedo</Territory>, fue Difinidor y Abad de los Monasterios de San Isidro de Dueñas, San Claudio de León, y San Benito el Real de <Settlement>Sevilla</Settlement>, Predicador del Rey Don <persName>Carlos II</persName>, y electo Obispo de <Territory>Honduras</Territory>, promovido antes de embarcarse a este de <Territory>Yucatán</Territory> el año de 1700, visitó dos veces su Diócesis, y en su tiempo se acabó de conquistar la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Peten</Territory>, fue acérrimo defensor de la <Concept_Territory>jurisdición</Concept_Territory> Eclesiástica, y de la Dignidad Episcopal, murió el año de 1714. <zbr/>
-19 Don <persName>Juan Gómez de Parada</persName>, nació en <Settlement>Compostela</Settlement> del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guadalaxara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>, fue Colegial en el Real y más antiguo de <Settlement>San Ildefonso</Settlement>, y después en el Mayor de <Settlement>Santa María de Todos los Santos</Settlement> de <Settlement>México</Settlement>, en cuya Universidad recibió los grados menores de Filosofía y Teología, y habiendo pasado a <Territory>España</Territory> tuvo el de Doctor en la <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0415@@@<zbr/>
-<zbr/>
-#Universidad de <Territory>Salamanca</Territory>, donde leyó Filosofía tres años, fue Prebendado de la Metropolitana de <Territory>México</Territory>, y volviendo a <Territory>España</Territory> a graves negocios de ella lo presentó el Rey para Obispo de <Territory>Yucatán</Territory> el año de 1715 de que tomó posesión el siguiente: hecha la Visita General del <Concept_Territory>Obispado</Concept_Territory> celebró Sínodo Diocesano, en que trabajó con infatigable zelo para reforma de ambos Estados Eclesiástico y Secular, y para alivio de los <humanGroup type="social_group">Indios</humanGroup>, y su mejor instrucción, de quienes fue verdadero padre, formó por Orden Real nuevos aranceles modificando los que habia de sus antecesores, tuvo singular cuidado en la promoción de los Eclesiásticos, mantuvo las Religiosas en el hambre del año de 1726, y fue promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guatemala</Territory> el año de 1728. <zbr/>
-20 Don <persName>Juan Ignacio de Castoreña y Ursúa</persName>, natural de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Zacatecas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>, Colegial en el Real de San Ildefonso de <Territory>México</Territory>, Doctor en Sagrada Teología, incorporado en el que tenía por la Universidad de <Territory>Avila</Territory>, y en Leyes por la de <Territory>México</Territory>, Catedrático jubilado de Escritura, Rector y Visitador de su Real Capilla, Provisor de <humanGroup type="social_group">Indios</humanGroup> en aquel <Concept_Territory>Arzobispado</Concept_Territory>, y Comisario General de Cruzada en <Territory>Nueva España</Territory>, tuvo varias Prebendas en la Iglesia de <Territory>México</Territory>, y la Dignidad de Chantre, y presentado para este <Concept_Territory>Obispado</Concept_Territory> el año de 1729, manifestó en todo el tiempo de su Gobierno su literatura, virtud y zelo Pastoral, murió el año de 1733. <zbr/>
-21 Don <persName>Francisco Pablo Matos Coronado</persName>, natural de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Canarias</Settlement>, estudió Gramática y Filosofía en el Convento de <Settlement>Santo Domingo</Settlement>, cursó Cánones en la Universidad de <Territory>Sevilla</Territory>, de donde pasó a la de <Territory>Salamanca</Territory>, y recibió el grado de Doctor regentando las Cátedras de Instituta y de Cánones; tuvo varias Prebendas en la Catedral de <Settlement>Canarias</Settlement>, y siendo Maestre Escuela vino a la Corte a defender graves puntos sobre la inmunidad de su Iglesia, allí fue promovido al Arcedianato, y luego presentado para Obispo de <Territory>Yucatán</Territory> el año de 1734, tomó posesión el de 1736, <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0416@@@<zbr/>
-<zbr/>
-#visitó todo el <Concept_Territory>Obispado</Concept_Territory>: su gran literatura y general erudición le grangearon en <Settlement>Madrid</Settlement> y en <Settlement>México</Settlement> la mayor estimación; gobernó con gran prudencia y zelo del Estado Eclesiástico, y pasó promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> el año de 1741. <zbr/>
-22 Don Fr. <persName>Mateo de Zamora y Penagos</persName>, natural del <Territory>Nuevo Reyno de Granada</Territory>, tomó allí el Hábito de San Francisco, fue Doctor Teólogo por la Universidad de <Territory>Santa Fe</Territory>, Lector Jubilado, Ex-Custodio, Procurador General en las Cortes de <Settlement>Madrid</Settlement> y Roma, Calificador del Santo Oficio, y Padre de su <Concept_Territory>Provincia</Concept_Territory>, electo Obispo de <Territory>Yucatán</Territory> el año de 1741, de que tomó posesión el de 1743, visitó toda la Diócesis, y falleció en la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Valladolid</Settlement> el año de 1744. <zbr/>
-23 Don Fr. <persName>Francisco de San Buenaventura Texada Diez de Velasco</persName>, del Orden de San Francisco, natural de <Settlement>Sevilla</Settlement>, fue Lector de Teología, Guardian del Convento de Recolección de <Settlement>Nuestra Señora de Loreto</Settlement> de aquella <Concept_Settlement>Ciudad</Concept_Settlement>, Calificador del Santo Oficio, Auxiliar del Obispo de <Territory>Cuba</Territory> con el título de Tricali, presentado para este de <Territory>Yucatán</Territory> el año de 1746, visitó dos veces la Diócesis sin dexar <Concept_Settlement>Pueblo</Concept_Settlement> alguno, erigió el Colegio Tridentino, procuró el culto y adorno de la Iglesia reparando varias Iglesias Parroquiales, y en el Convento de <Settlement>San Pablo de la Breña</Settlement> de su <Concept_Territory>Provincia</Concept_Territory> de <Territory>Andalucía</Territory> construyó a su <Concept_Landmark>costa</Concept_Landmark> una casa para recogimiento de mugeres de mala vida; fue promovido con general sentimiento de sus feligreses a la Iglesia de <Settlement>Guadalaxara</Settlement> en la <Territory>Nueva Galicia</Territory> el año de 1752. <zbr/>
-24 Don <persName>Juan Joseph de Eguiara y Eguren</persName>, natural de <Settlement>México</Settlement>, estudió en aquella Universidad, donde tuvo el grado de Doctor en Teología, fue Catedrático de Filosofía, Vísperas y Prima de Teología en que se jubiló, Canónigo Magistral y Maestre Escuela de la Santa Iglesia Metropolitana, Consultor del Santo Oficio de la Inquisición, y Autor de varias obras, entre ellas el primer tomo de la Biblioteca Mexicana, fue electo Obispo de <Territory>Yucatán</Territory> el año de 1751, pero re<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0417@@@<zbr/>
-<zbr/>
-#nunció esta Dignidad con general sentimiento de los que lo deseaban por las noticias que tenían de su virtud y literatura. <zbr/>
-25 Don Fr. <persName>Ignacio Padilla y Estrada</persName>, natural de <Settlement>México</Settlement>, tomó el hábito de Religioso de San Agustín, fue Doctor en su Universidad, y en su Religión Catedrático de Filosofía y Teología, Rector y Regente de Estudios en el Colegio de <Settlement>San Pablo</Settlement>, Secretario de <Concept_Territory>Provincia</Concept_Territory>, Visitador de los Conventos de <Settlement>Guadalaxara</Settlement> y <Settlement>Havana</Settlement>, Maestro del número, y Procurador General de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Jesús</Territory> en las Cortes de <Territory>Madrid</Territory> y Roma, electo Arzobispo de <Territory>Santo Domingo</Territory> que gobernó hasta el año de 1752, en que fue promovido a esta Iglesia, fue zelosísimo defensor de la Dignidad, cercenó sus gastos para adornar la Iglesia de alhajas y ornamentos, y de una preciosa custodia de oro guarnecida de ricas piedras, hizo el retablo, socorrió con liberalidad al Convento de Monjas de la <Settlement>Concepción</Settlement>, y fue generalmente limosnero y caritativo, murió el año de 1760. <zbr/>
-26 Don Fr. <persName>Antonio Alcalde</persName>, del Orden de <Settlement>Santo Domingo</Settlement>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Zigales</Settlement> en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Valladolid</Territory>, fue Lector de Artes, Maestro de Estudiantes, y Lector de Teología 26 años, exercitándose en esto en varios Conventos de su Orden, no menos que en predicar el Evangelio, se graduó de Maestro, y lo nombraron Prior del Convento de <Settlement>Zamora</Settlement>, luego del de <Settlement>Valverde</Settlement>, en que estuvo 9 años, y de aquí a el de <Settlement>Segovia</Settlement> que no verificó por haberlo presentado el Rey para Obispo de <Territory>Yucatán</Territory> el año de 1761 que le precisaron a aceptar, se consagró en <Settlement>Cartagena de Indias</Settlement>, y tomó posesión el de 1763, fue promovido al de <Settlement>Guadalaxara</Settlement> en 1773. <zbr/>
-27 Don <persName>Diego Peredo</persName>. <zbr/>
-28 Don Fr. <persName>Juan Manuel de Vargas y Rivera</persName>, del Orden de Nuestra Señora de la Merced, natural de <Settlement>Lima</Settlement>, Comendador del Convento de <Territory>Panamá</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierrafirme</Territory>, vino a <Territory>España</Territory>, donde fue condecorado con el grado de Padre de <Concept_Territory>Provincia</Concept_Territory>, y pre<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0418@@@<zbr/>
-#sentado para el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Chiapa</Territory>, del qual pasó promovido a este de <Settlement>Yucatán</Settlement> el año de 1764, pero murió antes de tomar posesión. <zbr/>
-29 Don <persName>Antonio Caballero y Góngora</persName>, fue promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santa Fe</Territory> en el <Territory>Nuevo Reyno de Granada</Territory> el año de 1777. <zbr/>
-30 Don Fr. <persName>Luis de Pina y Mazo</persName>, del Orden de San Benito. <zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_18067§§§<zbr/>
-#YUCAY, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Urubamba</Territory> en el <Territory>Perú</Territory>, tiene un Convento de Religiosos Recoletos de San Francisco, está situado en un <Concept_Landmark>valle</Concept_Landmark> ameno, fértil y espacioso, de clima benigno y abundante de toda especie de frutos, que tiene el mismo nombre: en este <Concept_Settlement>Pueblo</Concept_Settlement> murió, después de una mansión de tres años haciendo la vida privada de un particular, el Príncipe <persName>Sayri Tupac</persName> <persName>Inca</persName>, llamado en el Bautismo Don Diego <persName>Inca</persName>, último Monarca del <Territory>Perú</Territory>, que renunció el Imperio y sus derechos en el Rey de <Territory>España</Territory>: era hijo de Manco <persName>Inca</persName>, y sobrino del Emperador Huáscar <persName>Inca</persName>. <zbr/>
-<zbr/>
-§§§id_18068§§§<zbr/>
-YUCUL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chancay</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Canchas</Settlement>. <zbr/>
-<zbr/>
-§§§id_18069§§§<zbr/>
-YUCUNDUCHE, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> de la Al##caldía mayor de <Territory>Nochiztlán</Territory> en <Territory>Nueva España</Territory>, tiene 75 familas de <humanGroup type="social_group">Indios</humanGroup> aplicados al cultivo y comercio del algodón y grana, está 2 leg. al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18070§§§<zbr/>
-YUECHI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 61 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 4 leguas al Sur de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18071§§§<zbr/>
-YUHUARI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre casi al N en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Omaguas</humanGroup>, y entra en aquel. <zbr/>
-<zbr/>
-§§§id_18072§§§<zbr/>
-YUY, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, corre del SE al NO, y entra en el <Landmark>Uruguay</Landmark> enfrente del <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones, llamado <Settlement>Santa María</Settlement>, a sus orillas martirizaron los <humanGroup type="social_group">Indios</humanGroup> a los PP. <persName>Roque González de Santa Cruz</persName>, <persName>Alonso Rodríguez</persName>, y <persName>Juan del Castillo</persName> de la extinguida Compañía el año de 1628. <zbr/>
-<zbr/>
-§§§id_18073§§§<zbr/>
-YUINEIMA, <Concept_Landmark>Río</Concept_Landmark> de la <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0419@@@<zbr/>
-<zbr/>
-#<Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre al E recogiendo las aguas de otros muchos, y entra por la vanda del O en el grande del <Landmark>Paraná</Landmark>. <zbr/>
-<zbr/>
-§§§id_18074§§§<zbr/>
-YUIPA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que el anterior, corre al NNO, y entra en el <Landmark>Uruguay</Landmark>, entre los de <Landmark>Aguas</Landmark> y de <Landmark>Bajú</Landmark>. <zbr/>
-<zbr/>
-§§§id_18075§§§<zbr/>
-YULUC, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Loxa</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_18076§§§<zbr/>
-YUMA, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las <Landmark>Lucayas</Landmark>, llamada también <Landmark>Exuma</Landmark>, descubierta por <persName>Christóval Colon</persName>, está al N de la de <Territory>Cuba</Territory> y al Sur de la de <Territory>San Salvador</Territory>, tiene 22 leguas de largo y 7 de ancho, habitada de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup>. <zbr/>
-<zbr/>
-§§§id_18077§§§<zbr/>
-YUMBA, Bahía de) en la <Concept_Landmark>Costa</Concept_Landmark> del Sur de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, entre la <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Saona</Landmark> y la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Espada</Landmark>. <zbr/>
-<zbr/>
-§§§id_18078§§§<zbr/>
-YUMBEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Itata</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, es fronterizo de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Araucanos</humanGroup>, y por eso tiene un fuerte para defender los límites, el qual sitiaron aquellos bárbaros el año de 1743; pero se vieron ##preciados a desistir con pérdida, de aquella empresa. <zbr/>
-<zbr/>
-§§§id_18079§§§<zbr/>
-YUMBO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
-<zbr/>
-§§§id_18080§§§<zbr/>
-YUME, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corte al S, y entra en el <Landmark>Marañon</Landmark>. <zbr/>
-<zbr/>
-§§§id_18081§§§<zbr/>
-YUMETO, <Concept_Landmark>Isla</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las <Landmark>Lucayas</Landmark>, descubierta por <persName>Christóval Colon</persName>, y situada debaxo del Trópico al N de la de <Territory>Cuba</Territory>, tiene 15 leguas de largo, y está habitada de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Caribes</humanGroup>. <zbr/>
-<zbr/>
-§§§id_18082§§§<zbr/>
-YUÑA, <Concept_Landmark>Río</Concept_Landmark> grande de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark> del centro de la <Concept_Landmark>Isla</Concept_Landmark>, corre al NNE, y cerca de la <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Cotuy</Settlement> tuerce su curso al SSE, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark> formando en su boca varias <Concept_Landmark>Islas</Concept_Landmark>, <zbr/>
-<zbr/>
-§§§id_18083§§§<zbr/>
-YUNDUZA, Santa Cruz de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en <Territory>Nueva España</Territory>, tiene 116 familias de <humanGroup type="social_group">Indios</humanGroup> que viven del cultivo de las sementeras de trigo, maíz y frixoles, es de temperamento frío, y dista 11 leguas entre Oriente y S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18084§§§<zbr/>
-YUNGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0420@@@<zbr/>
-<zbr/>
-#<Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>San Marcos</Settlement>. <zbr/>
-<zbr/>
-§§§id_18085§§§<zbr/>
-YUNGAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huailas</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, es grande y numeroso, tiene dos <Concept_District>Parroquias</Concept_District>, y a su inmediación en una <Concept_Landmark>quebrada</Concept_Landmark> se ven las ruinas de otro llamado <Landmark>Ancas</Landmark> que tenía cerca de 1500 habitantes que perecieron en una inundación repentina, por haberse desplomado un gran <Concept_Landmark>cerro</Concept_Landmark> de nieve con el terremoto que se experimentó allí el día 6 de Enero del año de 1725. <zbr/>
-<zbr/>
-§§§id_18086§§§<zbr/>
-YUNGAS, Raza de gentes que viven retiradas al NE de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory>, en las tierras que confinan por el SO con la de <Territory>Latacunga</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y hacia <Territory>Angamarca</Territory>, son <humanGroup type="social_group">Mestizos</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y otras mezclas; siembran y cultivan tabaco, algodón y cacao; están esparcidos e independientes de todo gobierno y sujeción: hay también entre ellos algunos <humanGroup type="social_group">Indios</humanGroup> de la antigua <Concept_Group>nación</Concept_Group> de los <humanGroup type="indigenous_group">Yungas</humanGroup>, de quienes han tomado el nombre, son medio Christianos, pero no tienen instrucción ##alguna ni Párroco que los asista; también les dan el nombre de Colorados. <zbr/>
-<zbr/>
-§§§id_18087§§§<zbr/>
-YUNGUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chancay</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Iguari</Settlement>. <zbr/>
-<zbr/>
-§§§id_18088§§§<zbr/>
-YUNGUYO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Omasuyos</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, situado en la <Concept_Landmark>Península</Concept_Landmark> de <Landmark>Copacavana</Landmark> de la gran <Concept_Landmark>laguna</Concept_Landmark> <Landmark>Titicaca</Landmark>. <zbr/>
-<zbr/>
-§§§id_18089§§§<zbr/>
-YUNJUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que los anteriores, situado al E de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Moquehua</Settlement>. <zbr/>
-<zbr/>
-§§§id_18090§§§<zbr/>
-YUNTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>, situado en el <Concept_Landmark>despoblado</Concept_Landmark> de las <Concept_Landmark>salinas</Concept_Landmark> al N del de <Landmark>Ambargasta</Landmark>. <zbr/>
-<zbr/>
-§§§id_18091§§§<zbr/>
-YUPAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Llapo</Settlement>. <zbr/>
-<zbr/>
-§§§id_18092§§§<zbr/>
-YUPANUR, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace en la <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Imataca</Landmark>, corre al S, y entra en el <Landmark>Cuyuni</Landmark> por la vanda del N. <zbr/>
-<zbr/>
-§§§id_18093§§§<zbr/>
-YUPURA, µµµvéase Caquetáµµµ. <zbr/>
-<zbr/>
-§§§id_18094§§§<zbr/>
-YUQUI, <Concept_Landmark>Río</Concept_Landmark> de la Pro<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0421@@@<zbr/>
-<zbr/>
-#vincia y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, es pequeño, y entra en el de este nombre casi enfrente del <Landmark>Yabebiri</Landmark> que viene del <Landmark>Chaco</Landmark>. <zbr/>
-<zbr/>
-§§§id_18095§§§<zbr/>
-YUQUIPA, Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_18096§§§<zbr/>
-YURA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Collahuas</Territory> en el <Territory>Perú</Territory>, anexo del <Concept_District>Curato</Concept_District> del de <Settlement>Llauta</Settlement>, tiene a distancia de una legua un <Concept_Landmark>cerro</Concept_Landmark> de piedra de cal que benefician en hornos, y llevan a vender a varias partes, especialmente a <Settlement>Arequipa</Settlement>, de donde dista 7 leguas. <zbr/>
-<zbr/>
-§§§id_18097§§§<zbr/>
-YURACARES, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Cruz de la Sierra</Territory> en el <Territory>Perú</Territory>, nace en la <Concept_Landmark>cordillera</Concept_Landmark> de varios <Concept_Landmark>arroyos</Concept_Landmark> que se juntan, corre al N, y entra en el <Landmark>Mamoré</Landmark> en el <Concept_Territory>país</Concept_Territory> de los <humanGroup type="social_group">Indios</humanGroup> de quien toma el nombre. <zbr/>
-<zbr/>
-§§§id_18098§§§<zbr/>
-YURANI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>, nace de una <Concept_Landmark>laguna</Concept_Landmark> que tiene en las <Concept_Landmark>montañas</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del E, corre N S, y entra en el <Landmark>Cuyuni</Landmark> poco antes de su salida al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_18099§§§<zbr/>
-YURAYACO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> Corregimien##to de <Territory>Chancay</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Canchas</Settlement>. <zbr/>
-<zbr/>
-§§§id_18100§§§<zbr/>
-YURI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o <Territory>Nueva Andalucía</Territory>, nace en la <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Maiguatida</Landmark>, corre al E, y entra en el de <Landmark>Arebato</Landmark>. <zbr/>
-<zbr/>
-§§§id_18101§§§<zbr/>
-YURIMA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pomabamba</Territory> en el <Territory>Perú</Territory>, corre al N, y torciendo luego el curso al E formando una S entra en el caudaloso <Landmark>Beni</Landmark>. <zbr/>
-<zbr/>
-§§§id_18102§§§<zbr/>
-YURIMAGUAS, <Concept_Group>Nación bárbara de Indios</Concept_Group> que habita los <Concept_Landmark>bosques</Concept_Landmark> al Mediodía del <Settlement>Marañon</Settlement>; en las Misiones de <Territory>Mainas</Territory> que tenían los Regulares de la Compañía hay un <Concept_Settlement>Pueblo</Concept_Settlement> de estos <humanGroup type="social_group">Indios</humanGroup> reducidos a la Religión Católica por aquellos Misioneros llamado <Settlement>Nuestra Señora de las Nieves de los Yurimaguas</Settlement>, está a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Guallaga</Landmark>. <zbr/>
-<zbr/>
-§§§id_18103§§§<zbr/>
-YURIMOS, <Concept_Group>Nación bárbara de Indios</Concept_Group> poco conocida que habita en las <Concept_Landmark>selvas</Concept_Landmark> al N del <Concept_Landmark>río</Concept_Landmark> <Landmark>Iza</Landmark> o <Landmark>Putumayu</Landmark>. <zbr/>
-<zbr/>
-§§§id_18104§§§<zbr/>
-YURIRAPUNDARO, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zelaya</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, tiene 485 familias de <humanGroup type="social_group">Indios</humanGroup> y un <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0422@@@<zbr/>
-<zbr/>
-#Convento de Religiosos de San Agustín, que es de las obras más suntuosas y magníficas de todo el <Concept_Territory>Reyno</Concept_Territory>, está 15 leguas al SO de su <Concept_Settlement>Capital</Concept_Settlement>, generalmente lo llaman solo Yurira para abreviar el nombre. <zbr/>
-<zbr/>
-§§§id_18105§§§<zbr/>
-YURMASICA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory> en el <Territory>Perú</Territory>. <zbr/>
-<zbr/>
-§§§id_18106§§§<zbr/>
-YURNA, <Concept_Territory>Territorio</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de mucha extensión que ocupaba antes la <Concept_Group>nación</Concept_Group> de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Aguas</humanGroup> en la orilla austral del <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, hoy no hay más que el nombre. <zbr/>
-<zbr/>
-§§§id_18107§§§<zbr/>
-YURU, Besni o Muría, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> según Mr. <persName>Bellin</persName>, corre casi O E, y entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>. <zbr/>
-<zbr/>
-§§§id_18108§§§<zbr/>
-YURUA, <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, cuyo origen no esta bien averiguado por correr en países de <Concept_Group>Indios infieles</Concept_Group> hasta entrar en el <Landmark>Marañon</Landmark>, el geógrafo Don <persName>Juan de la Cruz</persName> citando a Mr. <persName>Bowel</persName> dice que es el Amarumayu que llama Yurba, y no Yurua como el P. <persName>Manuel Rodríguez</persName> en su Historia del <Landmark>Marañon</Landmark>, que señala su nacimiento en las <Concept_Landmark>montañas</Concept_Landmark> de los <Landmark>Andes de Cuchoa</Landmark>, y dice que después de correr mu##chas leguas al N tuerce al E, y luego vuelve a tomar su primer curso, y en el <Concept_Territory>territorio</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Curianis</humanGroup> entra en el <Landmark>Marañon</Landmark>. <zbr/>
-<zbr/>
-§§§id_18109§§§<zbr/>
-Tiene el mismo nombre una <Concept_Landmark>Isla</Concept_Landmark> pequeña de la <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Brasil</Territory> delante de la de <Landmark>Marajo</Landmark>, entre las de <Landmark>Machiana</Landmark> y <Landmark>Alitatis</Landmark>. <zbr/>
-<zbr/>
-§§§id_18110§§§<zbr/>
-YURUANI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> que tienen los <humanGroup type="political_group">Holandeses</humanGroup>, uno de los que entran en el <Landmark>Caroni</Landmark> por la vanda del N. <zbr/>
-<zbr/>
-§§§id_18111§§§<zbr/>
-Otro <Concept_Landmark>río</Concept_Landmark> también pequeño hay en la misma <Concept_Territory>Provincia</Concept_Territory>, corre al O, y entra en el <Landmark>Caura</Landmark> más arriba del <Concept_Landmark>raudal</Concept_Landmark> de <Landmark>Chapara</Landmark>. <zbr/>
-<zbr/>
-§§§id_18112§§§<zbr/>
-YURUARIO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o <Territory>Nueva Andalucía</Territory>, nace de una <Concept_Landmark>laguna</Concept_Landmark> que hay en sus <Concept_Landmark>montañas</Concept_Landmark> a la parte del E, corre N S, y entra en el de <Landmark>Cuyuni</Landmark> poco antes de salir este al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_18113§§§<zbr/>
-Un <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la misma <Concept_Territory>Provincia</Concept_Territory> <Concept_Settlement>reducción</Concept_Settlement> de <humanGroup type="social_group">Indios</humanGroup> por los PP. Capuchinos, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> anterior. <zbr/>
-<zbr/>
-§§§id_18114§§§<zbr/>
-YURUBASI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace al N de la la<zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0423@@@<zbr/>
-<zbr/>
-#guna Cumapi y de un <Concept_Landmark>desagüe</Concept_Landmark> del <Concept_Landmark>brazo</Concept_Landmark> de esta, corre al E, y entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark> enfrente de uno de los <Concept_Landmark>brazos</Concept_Landmark> del de <Landmark>Parime</Landmark>. <zbr/>
-<zbr/>
-§§§id_18115§§§<zbr/>
-YURUBECHI o María, <Concept_Landmark>Río</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> que el anterior en el <Concept_District>distrito</Concept_District> que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, nace en el <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Orelludos</humanGroup>, corre al E con inclinación al SE muchas leguas, y entra muy caudaloso en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark> enfrente de la boca del de <Landmark>Cababury</Landmark>; Mr. <persName>de la Condamine</persName> lo llama Yurubesch, y el ex Jesuita <persName>Coleti Yurubesa</persName>, y dice que entra en el referido en 42 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_18116§§§<zbr/>
-YURUHA, <Concept_Landmark>Valle</Concept_Landmark> fértil y hermoso de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>. <zbr/>
-<zbr/>
-§§§id_18117§§§<zbr/>
-YURUPA, <Concept_Landmark>Río</Concept_Landmark> grande y muy caudaloso del <Territory>Nuevo Reyno de Granada</Territory>, es en sus principios un <Concept_Landmark>brazo</Concept_Landmark> del <Landmark>Caquetá</Landmark>, que aumentándose según va recogiendo las aguas de otros muchos llega tan formidable a entrar en el <Landmark>Marañon</Landmark>, que por muchos tiempos estuvo tenido por el <Landmark>Orinoco</Landmark>. <zbr/>
-<zbr/>
-§§§id_18118§§§<zbr/>
-YURUSNIES, <Concept_Group>Nación bárbara de Indios</Concept_Group> que habita al N del <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, ##unida siempre con las de los <humanGroup type="indigenous_group">Iquitos</humanGroup>, los <humanGroup type="indigenous_group">Zapatoas</humanGroup> y los <humanGroup type="indigenous_group">Abixiras</humanGroup> para hacer guerra a la de los <humanGroup type="indigenous_group">Chevelos</humanGroup>, es feroz aunque poco numerosa. <zbr/>
-<zbr/>
-§§§id_18119§§§<zbr/>
-YUTAI o Yetau, <Concept_Landmark>Río</Concept_Landmark> grande y caudalosísimo del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark> de la <Concept_Landmark>cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark> cerca del <Settlement>Cuzco</Settlement>, y entra en el <Landmark>Marañon</Landmark> por la parte del Sur en 3 gr. 1/2 de lat.; es muy nombrado por sus riquezas y por la multitud de <Concept_Group>naciones de Indios</Concept_Group> que habitan sus riberas, como <humanGroup type="indigenous_group">Tipunas</humanGroup>, <humanGroup type="indigenous_group">Guanatus</humanGroup>, <humanGroup type="indigenous_group">Ozuanas</humanGroup>, Momas, Naunas, <humanGroup type="indigenous_group">Conomomas</humanGroup>, <humanGroup type="indigenous_group">Marianas</humanGroup> y <humanGroup type="indigenous_group">Omaguas</humanGroup>, que son los más inmediatos al <Territory>Perú</Territory>, y traen pendientes de las orejas y narices grandes planchas de oro: ésta era según el P. <persName>Acuña</persName> la <Concept_Territory>Provincia</Concept_Territory> a cuyo descubrimiento salió <persName>Pedro de Ursúa</persName> de orden del Virey <persName>Marqués de Cañete</persName>, la qual no encontró por haber hecho su entrada por un <Concept_Landmark>brazo</Concept_Landmark> de este <Concept_Landmark>río</Concept_Landmark> que sale algunas leguas más abaxo, y quando desembocó en el de las <Landmark>Amazonas</Landmark> ya quedaban más arriba estas <Concept_Group>naciones de Indios</Concept_Group>, y le fue imposible volver a buscarlas por el ímpetu de <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0424@@@<zbr/>
-<zbr/>
-#las corrientes; según el geógrafo Don <persName>Juan de la Cruz</persName> llama Mr. De <persName>Lisle</persName> a este <Concept_Landmark>río</Concept_Landmark> <Landmark>Otapari</Landmark>, corre al E muchas leguas, y torciendo luego su curso al N entra en el <Landmark>Marañon</Landmark> por dos <Concept_Landmark>brazos</Concept_Landmark> distantes uno de otro que forman una <Concept_Landmark>Isla</Concept_Landmark> en medio. <zbr/>
-<zbr/>
-§§§id_18120§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Abenico</Landmark>. <zbr/>
-<zbr/>
-§§§id_18121§§§<zbr/>
-YUTI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Tebiquari</Landmark>. <zbr/>
-<zbr/>
-§§§id_18122§§§<zbr/>
-YWAPOY, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> en la parte que tienen los <humanGroup type="political_group">Holandeses</humanGroup>. <zbr/>
-<zbr/>
-§§§id_18123§§§<zbr/>
-##YWASEE, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Euphasee</Landmark>. <zbr/>
-<zbr/>
-§§§id_18124§§§<zbr/>
-YUYAPARI, µµµvéase Orinocoµµµ. <zbr/>
-<zbr/>
-§§§id_18125§§§<zbr/>
-YZA, <Concept_Territory>Territorio</Concept_Territory> o <Concept_Territory>país</Concept_Territory> dilatado de la <Concept_Group>nación de Indios</Concept_Group> <humanGroup type="indigenous_group">Moscas</humanGroup> o <humanGroup type="indigenous_group">Muiscas</humanGroup> en el <Territory>Nuevo Reyno de Granada</Territory>, a la parte de Levante de <Settlement>Bogotá</Settlement> y al SE de <Settlement>Tundama</Settlement>, lo descubrió, y entró pacíficamente en él <persName>Juan de S.</persName> <persName>Martín</persName> el año de 1537, tiene un <Concept_Settlement>Pueblo</Concept_Settlement> de su nombre. <zbr/>
-<zbr/>
-§§§id_18126§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>, µµµvéase Putumayuµµµ. <zbr/>
-<zbr/>
-§§§id_18127§§§<zbr/>
-YZQUANDE, µµµvéase Isquandéµµµ. <zbr/>
-<zbr/>
-§§§id_18128§§§<zbr/>
-#ZABALETAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, a la orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Buenaventura</Landmark>. <zbr/>
-<zbr/>
-§§§id_18129§§§<zbr/>
-ZACAN, Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Córdoba</Territory> en <Territory>Nueva España</Territory>, tiene 333 familias de <humanGroup type="social_group">Indios</humanGroup>, 5 de <humanGroup type="social_group">Españoles</humanGroup> y 4 de Mes##tizos, y está 4 leguas al ONO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18130§§§<zbr/>
-ZACANHUALIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la Cabeza departido de <Settlement>Atengo</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chilapa</Territory> en <Territory>Nueva España</Territory>, situado 6 leguas al O de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18131§§§<zbr/>
-ZACAPALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Autlán</Territory> en <Territory>Nueva España</Territory>, tiene 20 familias de <humanGroup type="social_group">Indios</humanGroup>, y está <zbr/>
-<zbr/>
-@@@Alcedo_vol_5-0425@@@<zbr/>
-<zbr/>
-#3 leguas entre Poniente y Sur de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18132§§§<zbr/>
-ZACAPO, Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> de <Settlement>Tirindaro</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado en un espacioso <Concept_Landmark>llano</Concept_Landmark> de templado temperamento, a su inmediación por la parte del N tiene un ojo de agua que forma un pequeño <Concept_Landmark>río</Concept_Landmark>, y corre por el Oriente a entrar en una <Concept_Landmark>ciénega</Concept_Landmark>; hay en él un Convento de Religiosos de San Francisco, su vecindario se compone de 80 familias de <humanGroup type="social_group">Indios</humanGroup> aplicados al cultivo de la tierra, inclusos los que habitan en cinco <Concept_Structure>ranchos</Concept_Structure> de su <Concept_District>distrito</Concept_District>, está 12 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18133§§§<zbr/>
-ZACAPUASTLA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Juan de los Llanos</Territory> en <Territory>Nueva España</Territory>, tiene 500 familias de <humanGroup type="social_group">Indios</humanGroup> y 40 de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, inclusos los de los <Concept_Settlement>barrios</Concept_Settlement> de su <Concept_District>distrito</Concept_District>, ocupados en el cultivo de la tierra, está 7 leguas al NO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_18134§§§<zbr/>
-ZACAPUATO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Settlement>Cabeza de partido</Concept_Settlement> de Cuzama##la y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Azuchitlán</Territory> en <Territory>Nueva España</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> que llaman de los <Landmark>Bejucos</Landmark>, cuyas aguas se disminuyen en el <Concept_Landmark>Estío</Concept_Landmark>; pero en el Invierno se hace tan caudaloso como arriesgado por lo rápido de su corriente y malos pasos; está media legua separado del camino real, es de temperamento cálido y seco, y por esto carece de frutos con que comercian; a su inmediación hay una <Concept_Structure>hacienda</Concept_Structure> grande en que sirven los <humanGroup type="social_group">vecinos</humanGroup> de operarios, y a distancia de 4 leguas un mineral de plata llamado Alva de Liste, que aunque ha tenido bastante decadencia se trabaja sin embargo de lo poco que rinde; cerca de él hay un ingenio de azúcar y algunos <Concept_Structure>ranchos</Concept_Structure> en que crían ganado mayor, que es de lo que hacen su trato: habitan en los sitios referidos y el <Concept_Settlement>Pueblo</Concept_Settlement> 14 familias de <humanGroup type="social_group">Españoles</humanGroup>, 6 de Mestitzos, 20 de <humanGroup type="social_group">Mulatos</humanGroup> y 34 de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
-<zbr/>
-§§§id_18135§§§<zbr/>
-ZACAPULA, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
-<zbr/>
-§§§id_18136§§§<zbr/>
-ZACATA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Asiento de Minas</Concept_Settlement> de Plata de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Juli</Settlement>, en <zbr/>
-<zbr/></xml>
+    <zbr/> #ne 89 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 2 leguas
+    al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18036§§§<zbr/> YOA, <Concept_Landmark>Laguna</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, se forma
+    de un <Concept_Landmark>desagüe</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark>
+    de la <Landmark>Madera</Landmark> a sus orillas, y entre los
+        <Concept_Landmark>ríos</Concept_Landmark> al N del de <Landmark>Paracevini</Landmark>. <zbr/>
+    <zbr/> §§§id_18037§§§<zbr/> YOBEGO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> de
+        <Settlement>Chixila</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Villalta</Territory> en <Territory>Nueva España</Territory>, tiene 10 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y está 11 1/2 leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18038§§§<zbr/> YOCALLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Porco</Territory> en el
+        <Territory>Perú</Territory>, a cuya entrada hay un puente de piedra sobre el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Cachimayo</Landmark>, que es de los mejores de todo el
+        <Concept_Territory>Reyno</Concept_Territory>, está 10 leguas de
+        <Settlement>Potosí</Settlement>. <zbr/>
+    <zbr/> §§§id_18039§§§<zbr/> YOCARBAYA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Larecaja</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Italaque</Settlement>. <zbr/>
+    <zbr/> §§§id_18040§§§<zbr/> YOCON, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> del de <Settlement>Cañar</Settlement>. <zbr/>
+    <zbr/> §§§id_18041§§§<zbr/> YOCOPO, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Ca##yena</Territory> en la
+        <Territory>Nueva Andalucía</Territory>, nace en las
+        <Concept_Landmark>montañas</Concept_Landmark> de ella, y sale al
+        <Concept_Landmark>mar</Concept_Landmark> al lado del
+        <Concept_Landmark>Cabo</Concept_Landmark> de <Landmark>Orange</Landmark>. <zbr/>
+    <zbr/> §§§id_18042§§§<zbr/> YOHI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o
+        <Territory>Nueva Andalucia</Territory>, se forma de la unión de los de
+        <Landmark>Tocome</Landmark> y <Landmark>Hichique</Landmark> formando la figura de una Y, en
+    cuyo tronco toma el nombre; entra en el <Landmark>Orinoco</Landmark> enfrente del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Alta gracia</Settlement>. <zbr/>
+    <zbr/> §§§id_18043§§§<zbr/> YOIBIDE, <Concept_Landmark>Monte</Concept_Landmark> muy alto de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Chiquitos</humanGroup> en el <Territory>Perú</Territory>,
+    tiene al S una <Concept_Landmark>laguna</Concept_Landmark> que produce mucha sal: en sus
+    inmediaciones padeció el martirio a manos de aquelos <Concept_Group>bárbaros</Concept_Group> el
+    Hermano <persName>Alberto Romero</persName> de la extinguida Compañía. <zbr/>
+    <zbr/> §§§id_18044§§§<zbr/> YOJOBI, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva
+        España</Territory>, es de temperamento. cálido, tiene 55 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 3 leguas y quarto al Poniente de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18045§§§<zbr/> YOLO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>jurisdición</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Octiupa</Territory> m en <Territory>Nueva
+        España</Territory>. <zbr/>
+    <zbr/> §§§id_18046§§§<zbr/> YOLOTEPEC, Santa María de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de
+        partido</Concept_Settlement> de la <Concept_Territory>Alcaldía <zbr/>
+        <zbr/> @@@Alcedo_vol_5-0402@@@<zbr/>
+        <zbr/> #mayor</Concept_Territory> de <Territory>Tepozcolula</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Oaxaca</Territory> en
+        <Territory>Nueva España</Territory>, tiene 254 familias de <humanGroup type="social_group"
+        >Indios</humanGroup>, inclusos los que habitan en los
+        <Concept_Settlement>barrios</Concept_Settlement> de su
+        <Concept_District>distrito</Concept_District> en que hay muchos
+        <Concept_Structure>ranchos</Concept_Structure> de labor donde cogen copiosas cosechas de
+    trigo y maíz, que es a lo que se dedican, es de temperamento cálido, y dista 19 leguas al S de
+    su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18047§§§<zbr/> YOLOXINISQUILA, San Pedro de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Teocuilco</Territory> en <Territory>Nueva
+        España</Territory>, tiene 224 familias de <humanGroup type="social_group"
+        >Indios</humanGroup> inclusos los que habitan en los
+        <Concept_Settlement>barrios</Concept_Settlement> de su
+        <Concept_District>distrito</Concept_District>, produce grana con abundancia, que es el único
+    fruto de su comercio, porque aunque la tierra es a propósito para qualquiera frutos están tan
+    cebados en el lucro que les dexa aquel que no cultivan más que las semillas necesarias para su
+    consumo. <zbr/>
+    <zbr/> §§§id_18048§§§<zbr/> YOEHUE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Quillota</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado en la
+        <Concept_Landmark>Costa</Concept_Landmark> cerca del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Imperial</Landmark>. <zbr/>
+    <zbr/> §§§id_18049§§§<zbr/> YOTAHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Cuquio</Territory> en <Territory>Nueva
+        España</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Ver##de</Landmark> distante 4 leguas al S de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18050§§§<zbr/> YOTALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Yamparaes</Territory> en
+    el <Territory>Perú</Territory> del <Concept_Territory>Arzobispado</Concept_Territory> de
+        <Territory>Charcas</Territory>. <zbr/>
+    <zbr/> §§§id_18051§§§<zbr/> YORCK, Nueva) <Concept_Territory>Provincia</Concept_Territory> de
+    los <Territory>Estados Unidos de la América Septentrional</Territory>, confina por el N con la
+    de la <Territory>Nueva Inglaterra</Territory>, por el O con la de <Territory>Nueva
+        Jersey</Territory>, por el Sur con el <Landmark>Occéano</Landmark>, y por el N con el
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Iroqueses</humanGroup>; tiene el nombre por haberla cedido
+        <persName>Carlos Segundo</persName>, Rey de <Territory>Inglaterra</Territory>, al
+        <persName>Duque de Yorck</persName>, que después ocupó aquel Trono: la descubrió el
+    Caballero <persName>Hudson</persName> que la vendió a los <humanGroup type="political_group"
+        >Holandeses</humanGroup> el año de 1608, estos empezaron a establecerse en ella en 1614, y
+    la dieron el nombre de <Territory>Nueva Netherland</Territory>, pero <persName>Samuel
+        Argal</persName>, Gobernador de la <Territory>Virginia</Territory>, los echó de allí poco
+    después: el año de 1664 envió el Rey de <Territory>Inglaterra</Territory> quatro Comisarios para
+    establecer los límites de aquella <Concept_Territory>Colonia</Concept_Territory>, y quitaron a
+    los <humanGroup type="political_group">Holandeses</humanGroup> la
+        <Concept_Settlement>Capital</Concept_Settlement> que se llamaba <Settlement>Nueva
+        Amsterdan</Settlement>, y le mudaron el nombre en el de Nueva Yorck; algún tiempo des<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0403@@@<zbr/>
+    <zbr/> #pués tomaron los <humanGroup type="political_group">Ingleses</humanGroup>, mandados por
+        <persName>Roberto Car</persName>, la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Orange</Settlement>, llamada ahora <Settlement>Albania</Settlement>, y luego el
+        <Concept_Structure>Fuerte</Concept_Structure> y
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Arasapha</Settlement>, y el
+        <Concept_Structure>Castillo</Concept_Structure> de la <Structure>Ware</Structure>, con que
+    quedaron dueños de toda la <Concept_Territory>Provincia</Concept_Territory> que tiene 300 millas
+    de largo y 150 de ancho, entre 40 y 45 grad. de lat. y entre 72 y 76 gr. de lat. del meridiano
+    de <Settlement>Londres</Settlement>: se divide en los
+        <Concept_Territory>Condados</Concept_Territory> de <Territory>Nueva Yorck</Territory>,
+        <Territory>Albania</Territory>, <Territory>Ulster</Territory>,
+        <Territory>Duquesa</Territory>, <Territory>Orange</Territory>,
+        <Territory>Westchester</Territory> y <Territory>Long island</Territory> o <Territory>Isla
+        Larga</Territory>; los de <Territory>Rey</Territory>, <Territory>Reyna</Territory>,
+        <Territory>Suffolck</Territory>, <Territory>Richmond</Territory> y <Territory>tierra de los
+        Estados</Territory>: el terreno es por lo general sumamente abundante, no solo en maíz, que
+    es el trigo de los naturales, sino en todos los frutos que se han llevado de
+        <Territory>Europa</Territory>, que producen tanto, y de tan excelente calidad que en pocas
+    partes del mundo tienen semejante, como cebada, trigo, avena, arroz y demás especies de granos;
+    cría muchísimo ganado, caballos, ovejas y cabras, todo género de aves, y particularmente
+    faisanes de varías especies muy hermosos, y solo producidos en este
+        <Concept_Territory>país</Concept_Territory>, mucha variedad de ##yervas y raices de las que
+    se cultivan en <Territory>Europa</Territory>, y allí se crían naturalmente frutas exquisitas,
+    entre las quales se estiman los melones, que son delicados: sus
+        <Concept_Landmark>bosques</Concept_Landmark> abundan de ricas maderas, como encinas, cedros,
+    caobas, sabinos, pinos, cipreses, sasafrás, y otras, tiene también muchísimas viñas de tres o
+    quatro especies, y todas diferentes de las de <Territory>Europa</Territory>; pero ya sea por
+    defecto del terreno o del clima en que se producen, o lo que es más probable por falta de
+    cultivo, nunca se ha podido hacer de ellas vino que sea de provecho; las maderas no son tampoco
+    tan buenas para la construcción de embarcaciones como las de la <Territory>Nueva
+        Inglaterra</Territory>, y de la <Territory>Nueva Escocia</Territory>: produce también mucho
+    lino y cáñamo, y de todos los frutos referidos hace un prodigioso comercio, porque su situación
+    es la más ventajosa para ello como que se halla en el centro de todas las demás
+        <Concept_Territory>Colonias</Concept_Territory>, y así las provee de trigo, arroz,
+    guisantes, maíz, manzanas, cebollas, tablas, caballos, carneros, manteca, quesos, ostras
+    escabechadas, carne <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0404@@@<zbr/>
+    <zbr/> #salada y tocino, y harina de que cada año extrae 80.000 barriles; en cambio de estas
+    produciones recibe aguardiente, ron, azúcar, melaza; también el
+        <Concept_Settlement>establecimiento</Concept_Settlement> de <Settlement>Oswego</Settlement>
+    le ha facilitado el comercio de pieles de toda especie a cambio de aguardiente, municiones,
+    lienzos y otras drogas: el comercio que hacían antes de la última guerra con la
+        <Territory>Inglaterra</Territory> era tan grande que se veían precisados a un continuo
+    trabajo para hacer sus remesas a los correspondientes que tenían, y a este fin sacaban algodón
+    de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Tomás</Territory>, y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory>, y Palo de
+    Campeche de la <Concept_Landmark>Bahía</Concept_Landmark> de este nombre; está reputado que la
+    exportación anual que llevaban de <Territory>Inglaterra</Territory> ascendía a 100.000 libras
+    esterlinas, y hubiera sido mayor si hubieran impedido el comercio clandestino. Riegan esta
+        <Concept_Territory>Provincia</Concept_Territory> los
+        <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Hudson</Landmark> o del <Landmark>Norte</Landmark>, <Landmark>Mohawk</Landmark> y
+        <Landmark>Sorrel</Landmark>; el año 1767 se unió con las demás
+        <Concept_Territory>Colonias</Concept_Territory> que tenían los <humanGroup
+        type="political_group">Ingleses</humanGroup> en aquella parte del mundo para establecer la
+    independencia y una república separada como lo consiguie##ron después de una obstinada guerra
+    contra su Metrópoli el de 1783. Contiene 250.000 habitantes, la mayor parte descendientes de los
+        <humanGroup type="political_group">Holandeses</humanGroup>, sus primeros pobladores; la
+        <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre. <zbr/>
+    <zbr/> §§§id_18052§§§<zbr/> Esta <Concept_Settlement>Ciudad</Concept_Settlement> fue fundada por
+    los <humanGroup type="political_group">Holandeses</humanGroup> el año de 1608 con el nombre de
+        <Settlement>Nueva Amsterdan</Settlement>: su situación es agradable y la más cómoda para el
+    comercio sobre una gran Bahia en la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Territory>Manahaton</Territory>; tiene 3.000 casas, una milla de largo y media de ancho:
+    las calles, aunque irregulares, están bien empedradas y limpias, y las casas son de ladrillo,
+    cubiertas de tejas encarnadas, y con alamedas de árboles delante de la entrada, el clima es el
+    más sano que se puede hallar; la parte del E y la del Sur son baxas, pero el resto de la
+        <Concept_Settlement>población</Concept_Settlement> está en terreno alto y seco, en ninguna
+    parte de la <Territory>América</Territory> hay una plaza tan provista de comestibles como esta:
+    a la parte del SO de la <Concept_Settlement>Ciudad</Concept_Settlement> está el
+        <Concept_Structure>Castillo</Concept_Structure>, que es un quadrado con quatro bastiones, y
+    dentro de él está la casa del Gobernador que es de tres altos a la extremidad <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0405@@@<zbr/>
+    <zbr/> #del Sur tenía una Capilla que la quemaron los <humanGroup type="social_group"
+        >Negros</humanGroup> quando se sublevaron el año de 1741, y lo mismo sucedió al resto del
+    edificio en 1744: más abaxo de las murallas de la Plaza, y cerca del agua hay una línea de
+    fortificación construida modernamente que defiende la entrada de la
+        <Concept_Landmark>Bahía</Concept_Landmark> y boca del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Hudson</Landmark>; esta obra es de piedra, y los merlones de caxones de cedro llenos
+    de tierra, y tiene 92 cañones; a poca distancia del
+        <Concept_Structure>Fuerte</Concept_Structure> está la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Noten</Landmark> que tendrá como 120
+    acres de tierra destinada por un acto de la asamblea como feudo del Gobernador. Los <humanGroup
+        type="political_group">Holandeses</humanGroup> tienen tres Iglesias, la una, que es la mejor
+    y más grande, se acabó el año de 1729; los <humanGroup type="political_group"
+        >Ingleses</humanGroup> otras tres, de las quales la de la Trinidad, que se construyó el año
+    de 1596, y se extendió el de 1737, tiene 148 pies de largo y 72 de ancho, pero no bastando para
+    todos, sin embargo de caber en ella 2.000 personas, se hizo otra con nombre de San Jorge en
+    1752. Los <humanGroup type="religious_group">Presbiterianos</humanGroup> tienen otra Casa de
+    Congregación hecha en 1718 que es magnífica: los <humanGroup type="political_group"
+        >Franceses</humanGroup> otra## muy pequeña: los <humanGroup type="religious_group"
+        >Luteranos</humanGroup>
+    <humanGroup type="political_group">Alemanes</humanGroup> otras dos: los <humanGroup
+        type="religious_group">Quacaros</humanGroup> otra: los <humanGroup type="religious_group"
+        >Moravios</humanGroup> otra: los <humanGroup type="religious_group">Anabatistas</humanGroup>
+    se juntan en una casa particular: y los <humanGroup type="religious_group">Judios</humanGroup>,
+    cuyo número es considerable, tienen también su Sinagoga. La Casa de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> es un edificio grande de ladrillo, con dos
+    altos, de figura oblonga con dos alas en los extremos que forman martillo, y está en el
+    encuentro de quatro calles, y tiene el frente a la que mira al SO, que es la más espaciosa de la
+        <Concept_Settlement>Ciudad</Concept_Settlement>; en el ala de la parte de Oriente está en el
+    segundo piso la Junta de la Asamblea, una amesala y el quarto del Abogado en la otra el
+    Ayuntamiento y la Librería; en el centro el Consejo Supremo; y en lo baxo la cárcel y calabozos:
+    la Librería consta de 1.000 volúmenes cedidos el año de 1728 por el Doctor
+        <persName>Millington</persName>, Rector de <Settlement>Newington</Settlement>, el de 1754 se
+    juntaron varios Caballeros y abrieron una subscripción para formar una Librería pública, y en
+    pocos días pusieron 600 libras esterlinas con que compraron 700 volúmenes escogidos: además del
+    edificio referido hay una casa <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0406@@@<zbr/>
+    <zbr/> #de corrección y otra de comercio, que tiene una gran sala sobre arcos de ladrillo,
+    destinada a los entretenimientos públicos, como bayles, conciertos de música y asambleas: tiene
+    esta <Concept_Settlement>Población</Concept_Settlement> la incomodidad de haber de traer el agua
+    para beber de bastante distancia, su comercio es tanto que en los años de 749 y 750 entraron en
+    su <Concept_Landmark>Puerto</Concept_Landmark> 232 embarcaciones de varias partes, los
+    habitantes pasan de 80.000, los más de ellos muy acaudalados; y la ha hecho tan floreciente la
+    libertad que tiene todo extrangero para establecerse allí, permitiéndose por ley la tolerancia
+    de todas las sectas: está 259 millas Inglesas de <Settlement>Boston</Settlement>. <zbr/>
+    <zbr/> §§§id_18053§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Territory>Condado</Concept_Territory> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en
+    los <Territory>Estados Unidos de la América</Territory>, que confina al S con la de
+        <Territory>Mariland</Territory>, al NO con el <Concept_Territory>Condado</Concept_Territory>
+    de <Territory>Cumberland</Territory>, de quien lo divide el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Susquehannah</Landmark>, y al NE por el <Concept_Territory>Condado</Concept_Territory>
+    de <Territory>Lancaster</Territory>: la <Concept_Settlement>Capital</Concept_Settlement> se
+    llama también así, es <Concept_Settlement>Ciudad</Concept_Settlement> muy comerciante, situada a
+    la orilla de un <Concept_Landmark>brazo</Concept_Landmark> del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Susquehannah</Landmark>, de quien dista 10 millas al O y 25 al SE de
+        <Settlement>Carlisle</Settlement>. <zbr/>
+    <zbr/> §§§id_18054§§§<zbr/> ##Otro <Concept_Territory>Condado</Concept_Territory> de la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Territory>Massachusets</Territory> en la
+        <Territory>Nueva Inglaterra</Territory> de los mismos Estados Unidos, a la qual está ahora
+    unido, aunque al principio fue distinto baxo el título de la
+        <Concept_Territory>Provincia</Concept_Territory>
+    <Territory>Main</Territory>; y la <Concept_Settlement>Capital</Concept_Settlement> de este
+    situada en la <Concept_Landmark>Costa</Concept_Landmark> del
+        <Concept_Landmark>mar</Concept_Landmark> cerca del <Concept_Landmark>río</Concept_Landmark>
+    de su nombre 16 millas al N de <Settlement>Porsmouth</Settlement>, 26 de
+        <Settlement>Salisbury</Settlement> y 70 de <Settlement>Boston</Settlement>. <zbr/>
+    <zbr/> §§§id_18055§§§<zbr/> Otro <Concept_Territory>Condado</Concept_Territory> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> al SE del
+    de <Territory>James</Territory>, entre el <Concept_Landmark>río</Concept_Landmark> de este
+    nombre y el de <Landmark>Yorck</Landmark>, contiene 60767 acres de tierra en tres
+        <Concept_District>Parroquias</Concept_District> nombradas <Settlement>Yorck</Settlement>,
+        <Settlement>Hampton</Settlement> y <Settlement>Nuevo Pokosow</Settlement>; esta última está
+    a la entrada o boca del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Yorck</Landmark>. <zbr/>
+    <zbr/> §§§id_18056§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> llamado
+    por los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Pamunky</humanGroup>, que conserva en el
+        <Concept_Landmark>brazo</Concept_Landmark> superior y en el
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>William</Territory>, es
+    navegable para navíos grandes 60 millas, y con embarcaciones menores, como balandras y
+    bergantines, otras 30; atravesando la <Concept_Landmark>lengua de tierra</Concept_Landmark> de
+        <Landmark>Pokosow</Landmark> se llega a su boca, tiene el mismo curso que el de
+        <Landmark>James</Landmark> por más de 100 millas, corriendo tan inmediato a él que en
+    algunos para<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0407@@@<zbr/>
+    <zbr/> #ges dista solo 5 millas uno de otro: siendo el terreno que media más poblado y bien
+    cultivado de <Concept_Structure>plantaciones</Concept_Structure>, por la comodidad de la
+    navegación de los dos <Concept_Landmark>ríos</Concept_Landmark>; 40 millas después de su origen
+    se divide en dos <Concept_Landmark>brazos</Concept_Landmark> navegables de embarcaciones
+    menores: en el terreno referido que hay entre los dos <Concept_Landmark>ríos</Concept_Landmark>
+    se coge el mejor tabaco de toda la <Concept_Territory>Provincia</Concept_Territory>, del qual
+    hacen ballotes tan apretados que suele pesar cada uno 1500 libras; tiene este pedazo de tierra
+    la comodidad de dos entradas que hacen los <Concept_Landmark>ríos</Concept_Landmark> en lo
+    interior y se navegan con botes chatos, la una del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>James</Landmark> se extiende hacia el N 5 millas, y la otra del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Yorck</Landmark> al Sur; de modo que solo hay una milla de distancia entre los dos
+    desembarcaderos, y aquí está situada la <Concept_Settlement>Ciudad</Concept_Settlement> de
+        <Settlement>Williamsburg</Settlement>, que por medio de estos dos
+        <Concept_Landmark>canales</Concept_Landmark> naturales domina la navegación de ambos
+        <Concept_Landmark>ríos</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_18057§§§<zbr/> Un <Concept_Landmark>Puerto</Concept_Landmark> en la
+        <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Estrecho</Concept_Landmark>
+    de <Landmark>Magallanes</Landmark>, a la parte del N enfrente de la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>San Fernando</Landmark>. <zbr/>
+    <zbr/> §§§id_18058§§§<zbr/> YOUANA, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de
+    la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>,
+    situado a la orilla del <Concept_Landmark>río</Concept_Landmark> Son##lahue, es la última
+        <Concept_Settlement>población</Concept_Settlement> de los <humanGroup type="social_group"
+        >Indios</humanGroup> de la <Concept_Group>nación</Concept_Group>
+    <humanGroup type="indigenous_group">Chactaws</humanGroup>. <zbr/>
+    <zbr/> §§§id_18059§§§<zbr/> YOUNG, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, en la
+        <Concept_District>Parroquia</Concept_District> y
+        <Concept_District>distrito</Concept_District> de <Settlement>Santo Tomás</Settlement>,
+    situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O. <zbr/>
+    <zbr/> §§§id_18060§§§<zbr/> YUANES, <Concept_Group>Nación bárbara de Indios</Concept_Group> de
+    la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de el <Territory>Tucumán</Territory> en el
+        <Territory>Perú</Territory>, habita al N de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Córdova</Settlement>, confina
+    por este rumbo con la de los <humanGroup type="indigenous_group">Frentones</humanGroup>, a
+    Levante con el <Concept_Landmark>río</Concept_Landmark> del <Landmark>Paraguay</Landmark>, al
+    Poniente con el <Landmark>Salado</Landmark>, y al Mediodía con la
+        <Concept_Group>nación</Concept_Group> de los <humanGroup type="indigenous_group"
+        >Abipones</humanGroup>; las noticias que se tienen de estos <humanGroup type="social_group"
+        >Indios</humanGroup> son muy escasas. <zbr/>
+    <zbr/> §§§id_18061§§§<zbr/> YUBAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado en la
+    cabecera del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Abenio</Landmark>. <zbr/>
+    <zbr/> §§§id_18062§§§<zbr/> YUCA, <Concept_Settlement>Pueblo</Concept_Settlement> grande de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Velez</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, se goza en él uno de los mejores y más
+    saludables temperamentos que se pueden apetecer, produce muchísimo trigo de la mejor calidad y <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0408@@@<zbr/>
+    <zbr/> #más estimado, maíz, turmas y legumbres con abundancia; tiene un Convento de Religiosos
+    de Sanio Domingo, <humanGroup type="social_group">sus vecinos</humanGroup> serán 700, y 60
+        <humanGroup type="social_group">Indios</humanGroup>, está una legua de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Luba</Settlement>, 10 al NE de
+    la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Velez</Settlement>, 20 al N de
+    la <Concept_Settlement>Capital</Concept_Settlement>
+    <Settlement>Santa Fe</Settlement> y 7 de <Territory>Tunja</Territory>. <zbr/>
+    <zbr/> §§§id_18063§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>
+    pequeño de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>,
+    nace muy cerca de la <Concept_Landmark>Costa</Concept_Landmark> del Sur, corre a este rumbo, y
+    sale al <Concept_Landmark>mar</Concept_Landmark> entre la
+        <Concept_Settlement>Capital</Concept_Settlement> y la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Cancedo</Landmark>. <zbr/>
+    <zbr/> §§§id_18064§§§<zbr/> YUCAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, situado a la orilla del
+        <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>. <zbr/>
+    <zbr/> §§§id_18065§§§<zbr/> YUCAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_18066§§§<zbr/> YUCATHAN, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory> en la
+        <Territory>América Septentrional</Territory>, es una
+        <Concept_Landmark>Península</Concept_Landmark> rodeada del
+        <Concept_Landmark>mar</Concept_Landmark> por tres lados, por el de el Oriente la ciñe el
+        <Concept_Landmark>Golfo</Concept_Landmark> de <Landmark>Guanajos</Landmark> o de
+        <Landmark>Honduras</Landmark>, y tiene por esta parte 130 leguas hasta la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Cozumel</Landmark>, por el N o
+    Septentrión ##la baña el <Concept_Landmark>mar</Concept_Landmark> desde el referido
+        <Concept_Landmark>Golfo</Concept_Landmark> al <Concept_Landmark>seno</Concept_Landmark>
+    <Landmark>Mexicano</Landmark>, corriendo por el paralelo de 20 gr. y 40 ms. hasta 21 gr. en que
+    tendrá la <Concept_Landmark>Costa</Concept_Landmark> 76 leguas, por la parte del Occidente tiene
+    el <Concept_Landmark>seno</Concept_Landmark>
+    <Landmark>Mexicano</Landmark> desde la <Concept_Landmark>Punta</Concept_Landmark> delgada a
+        <Settlement>Santa María de la Victoria</Settlement> 60 leguas, por el S confina con la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Vera Paz</Territory>, y por el SO con la de
+        <Territory>Tabasco</Territory>: su longitud es de 120 leguas SO, NE, y su latitud 98 E O por
+    lo más ancho, desde la <Concept_Landmark>punta</Concept_Landmark> desconocida a la que está
+    enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Cozumel</Landmark>:
+    descubrió este <Concept_Territory>País</Concept_Territory>
+    <persName>Francisco Fernández de Córdova</persName> el año de 1517, y lo conquistó el Capitán
+        <persName>Francisco de Montejo</persName> el de 1527; es de temperamento muy cálido y
+    húmedo, el terreno por lo general pedregoso, pero fértil, no hay en todo él más
+        <Concept_Landmark>río</Concept_Landmark> que el de <Landmark>Lagartos</Landmark>, que es muy
+    caudaloso; pero se discurre que por debaxo de tierra corren muchos, como denotan unas cuevas o
+    bocas de <Concept_Landmark>peña</Concept_Landmark> muy profundas que llaman allí zenotes, en que
+    se ve abaxo correr el agua, y hay muchas de éstas; la tierra es llana, poblada de árboles muy <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0409@@@<zbr/>
+    <zbr/> #espesos, abunda en miel, cera y algodón; de este hacen hilados y texidos, que tiñen de
+    varios colores y tienen estimación en toda la <Territory>Nueva España</Territory>; produce
+    también alguna grana, de cuyos frutos como del palo de tinte de Campeche y de la xarcia que
+    labran mantiene mucho comercio. En sus <Concept_Landmark>bosques</Concept_Landmark> hay
+    excelentes maderas, de las quales se han construido algunos navíos, una de ellas que llaman
+    habin es tan dura que si no se barrena todo quanto ha de entrar el clavo, se tuerce este por
+    fuerte que sea: hay muchas fieras, como leopardos y tigres, culebras e insectos venenosos, y una
+    es##pecie de araña que llaman los <humanGroup type="social_group">Indios</humanGroup> Ham,
+    porque al que muerde le hace la fuerza de los dolores, quando se queja, repetir esta palabra
+    hasta que muere, sin haberse encontrado remedio que pueda curar al paciente quando le ha
+    mordido: el ganado vacuno y ovejuno es escaso en esta
+        <Concept_Territory>Provincia</Concept_Territory> por la falta de aguas y de pastos, pero
+    abunda el de cerda, y lo mismo todas las frutas de <Concept_Territory>país</Concept_Territory>
+    caliente; en las <Concept_Landmark>playas</Concept_Landmark> se encuentra mucha ámbar, y un
+    vecino llamado <persName>Femando Landeras</persName> halló un pedazo que pesó siete arrobas. La
+        <Concept_Settlement>Capital</Concept_Settlement> es la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mérida</Settlement>. <zbr/>
+    <zbr/> ___OBISPOS QUE HA HABIDO EN LA PROVINCIA de <Territory>Yucatán</Territory>.___ <zbr/>
+    <zbr/> ßßß<zbr/> #1 Don Fr. <persName>Juan de San Francisco</persName>, primer Obispo de
+        <Territory>Yucatán</Territory>, de quien tenemos muy poca noticia, más que la de haberle
+    puesto en la serie la díptica que de sus Obispos formó aquella Santa Iglesia. <zbr/> 2 Don Fr.
+        <persName>Juan de la Puerta</persName>, el año de 1552 murió antes de consagrarse. <zbr/> 3
+    Don Fr. <persName>Francisco de Toral</persName>, del Orden de San Francisco, natural de
+        <Settlement>Ubeda</Settlement>, donde tomó el hábito; pasó a <Territory>Nueva
+        España</Territory> llevado del zelo de la conversión de los <humanGroup type="social_group"
+        >Indios</humanGroup>, convirtió y bautizó muchos, aprendiendo con perfección las lenguas
+    Mexicana y Polaca, fue nombrado Custodio para el Capítulo General que se celebró en
+        <Settlement>Salamanca</Settlement> el año de 1553, volvió a <Settlement>México</Settlement>
+    el si<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0410@@@<zbr/> #guiente con otros 34 Religiosos de su Orden, después fue
+    electo Provincial, y antes de cumplir presentado para Obispo de <Territory>Yucatán</Territory>;
+    y aunque lo resistió y vino a <Territory>España</Territory> para escusarse no se le admitió, y
+    tomó posesión el año de 1562: asistió al primero y segundo Concilio Mexicano en 1555 y en 1565,
+    visitó tres veces su <Concept_Territory>Obispado</Concept_Territory>, y por graves ocurrencias
+    volvió a <Settlement>México</Settlement>, donde murió el año de 1571. <zbr/> 4 Don Fr.
+        <persName>Diego de Landa</persName>, natural de <Settlement>Cifuentes</Settlement> en la
+        <Territory>Alcarria</Territory>, Religioso también del Orden de San Francisco, fue uno de
+    los primeros que pasaron a <Territory>Yucatán</Territory>; y aprendiendo el idioma de los
+        <humanGroup type="social_group">Indios</humanGroup> lo reduxo a gramática, trabajó con
+    increíble zelo en su instrucción, destruyó muchos ídolos y persiguió a los hechiceros, de que
+    irritados intentaron matarlo; pero empezando a predicarles con una Cruz en la mano se quedaron
+    inmóbiles con las flechas asestadas, fue electo Provincial, y vino a
+        <Territory>España</Territory> a graves negocios, lo nombraron Guardián del Convento de San
+    Antonio de Cabrera, y de allí presentado para Obispo de <Territory>Yucatán</Territory>; el año
+    de 1572 visitó toda su Diócesis y gobernó con sumo acierto, padeció grandes persecuciones por
+    defender la inmunidad Eclesiástica, refieren de él muchos prodigios, y en una hambre que padeció
+    la <Concept_Territory>Provincia</Concept_Territory>, siendo Guardián de Izmael, mantuvo con el
+    maíz del Convento un gran número de <humanGroup type="social_group">Indios</humanGroup>, sin
+    conocerse disminución en la troxe, murió lleno de virtudes y en opinión de santidad el año de
+    1579. <zbr/> 5 Don Fr. <persName>Gregorio Montalvo</persName>, del Orden de Santo Domingo,
+    profesó en <Settlement>Salamanca</Settlement> el año de 1550, fue Prior del Convento de
+        <Settlement>Plasencia</Settlement>, después electo Obispo de
+        <Territory>Nicaragua</Territory>, y promovido a este el año de 1580, donde se portó como
+    verdadero padre y médico de almas de sus feligreses, celebró Sínodo, visitó el
+        <Concept_Territory>Obispado</Concept_Territory> tres veces, y formó en él los primeros
+    aranceles de derechos Parroquiales, asistió al tercero Concilio Mexicano en 1585, manifestando
+    su gran literatura, fue promovido el año de 1587 al
+        <Concept_Territory>Obispado</Concept_Territory> del <Territory>Cuzco</Territory> en el
+        <Territory>Perú</Territory>. <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0411@@@<zbr/> #6 Don Fr. <persName>Juan Izquierdo</persName>, del Orden
+    de San Francisco, natural de la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Settlement>Huelva</Settlement> en el <Concept_Territory>Condado</Concept_Territory> de
+        <Territory>Niebla</Territory>, tomó el hábito en <Settlement>Lima</Settlement>, donde
+    profesó, y de allí pasó a la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Guatemala</Territory>, fue Guardian diferentes veces, y electo Obispo de
+        <Territory>Yucatán</Territory> el año de 1587, visitó tres veces el
+        <Concept_Territory>Obispado</Concept_Territory>, acabó la hermosa fábrica de la Catedral el
+    de 1598, y gobernó con suma rectitud y prudencia basta el año de 1602 en que murió. <zbr/> 7 Don
+        <persName>Diego Vázquez Mercado</persName>, siendo Dean de la Santa Iglesia da
+        <Territory>Mechoacan</Territory> fue presentado para esta Mitra el año de 1603, tomó
+    posesión el siguiente, fue vigilantísimo Pastor, visitó dos veces su Diócesis, y fue promovido
+    al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Manila</Territory> el año de
+    1608. <zbr/> 8 Don Fr. <persName>Gonzalo de Salazar</persName>, natural de
+        <Settlement>México</Settlement>, siendo Maestro en su Religión vino a
+        <Territory>España</Territory> a negocios de su
+        <Concept_Territory>Provincia</Concept_Territory>, y fue electo Obispo de esta Iglesia el año
+    de 1608, de que tomó posesión el siguiente, visitó seis veces todo el
+        <Concept_Territory>Obispado</Concept_Territory>, aprendió el idioma yucateco, enseñaba
+    personalmente a los <humanGroup type="social_group">Indios</humanGroup> la doctrina cantándola
+    con ellos, extirpó la idolatría sacando más de 20.000 ídolos, que hacía que pisasen los mismos
+        <humanGroup type="social_group">Indios</humanGroup>, de que le dio gracias el Pontífice
+        <persName>Paulo V</persName>: puso mucho cuidado en que la juventud se instruyese en la
+    gramática, teología moral lengua yucateca, asistía con freqüencia a los Oficios Divinos,
+    celebrándolos por sí en las principales festividades, y observantísimo en las obligaciones del
+    rezo y de la misa, que no dexó de decir en 52 años de Sacerdote sino estando enfermo, aun
+    teniendo 76 años ayunó los días de obligación, fue muy limosnero y caritativo, y en una grande
+    hambre sustentó de sus rentas más de 4.000 pobres, era devotísimo de María Santísima, adornó su
+    Iglesia de alhajas, ornamentos y vasos, y lleno de años y buenas obras murió el de 1636. <zbr/>
+    9 Don <persName>Juan Alonso de Ocón</persName>, natural de <Settlement>Redál</Settlement> en la
+        <Territory>Rioja</Territory>, Colegial en el Colegio Mayor de San Ildefonso <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0412@@@<zbr/>
+    <zbr/> #de <Settlement>Alcalá</Settlement>, donde se graduó de Doctor en Teología, y fue
+    Catedrático de Artes, Cura de la Parroquial de <Settlement>Elechosa</Settlement> en el
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Toledo</Territory>, y
+    después de la <Concept_District>Parroquia</Concept_District> de Santa Cruz de
+        <Settlement>Madrid</Settlement>, de donde salió electo para Obispo de esta Santa Iglesia el
+    año de 1638, de que tomó posesión el siguiente; visitó todo su
+        <Concept_District>distrito</Concept_District>, confirmando más de 68.000 almas, era rigoroso
+    en el examen de los Eclesiásticos, promovió los estudios, y pasó promovido al
+        <Concept_Territory>Obispado</Concept_Territory> del <Territory>Cuzco</Territory> en el
+        <Territory>Perú</Territory> el año de 1642. <zbr/> 10 Don <persName>Andrés Fernandez de
+        Ipenza</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Settlement>Arnedo</Settlement> en la <Territory>Rioja</Territory>, Colegial Trilingüe de
+        <Settlement>Alcalá</Settlement>, estudió allí Cánones, y recibió el grado de Doctor en la
+    Universidad de <Settlement>Avila</Settlement>, pasó a <Settlement>México</Settlement> de
+    familiar del Arzobispo Don <persName>Francisco Manso</persName>, quien le nombró Provisor de
+        <humanGroup type="social_group">Indios</humanGroup>, Juez de Testamentos y Capellanías;
+    quando el referido Arzobispo volvió a <Territory>España</Territory> promovido al
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Cartagena</Territory> lo dexó
+    nombrado Gobernador del <Concept_Territory>Arzobispado</Concept_Territory>, y habiendo venido a
+        <Settlement>Madrid</Settlement> lo hicieron Inquisidor de <Settlement>Toledo</Settlement>, y
+    de allí Obispo de <Territory>Yucatán</Territory> el año de 1643 pero murió aquel mismo año antes
+    de salir de <Settlement>Toledo</Settlement>. <zbr/> 11 Don <persName>Marcos de Torres y
+        Rueda</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Settlement>Almazán</Settlement>, estudió en el <Settlement>Burgo de Osma</Settlement>, y se
+    graduó de Doctor Teólogo y fue Catedrático de Prima, pasó al Colegio Mayor de Santa Cruz de
+        <Settlement>Valladolid</Settlement>, donde substituyó las Cátedras de Escritura y Vísperas
+    de Teología; salió a Canónigo Penitenciario de la Iglesia de <Settlement>Burgos</Settlement>, y
+    Rector del Colegio de San Nicolás de aquella <Concept_Settlement>Ciudad</Concept_Settlement>, y
+    electo Obispo de <Territory>Yucatán</Territory> el año de 1646: lo consagró en la
+        <Settlement>Puebla de los Angeles</Settlement> el Señor <persName>Palafox</persName>, y tomó
+    posesión el año siguiente; con motivo de las discordias entre el referido Venerable
+        <persName>Palafox</persName> y el Virey, Conde de Salvatierra, fue nombrado Virey y
+    Presidente de la Audiencia de <Territory>México</Territory>, y murió allí el año de 1649. <zbr/>
+    12 Don Fr. <persName>Domingo de Villa-Escusa Ramírez de Arellano</persName>, del Orden de San
+    Gerónimo, Colegial en el Monasterio de S. Lorenzo el Real, donde leyó Teolo<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0413@@@<zbr/>
+    <zbr/> #gía Moral diez años, fue Visitador General de la Orden, y después General de ella,
+    electo Obispo de <Territory>Chiapa</Territory>, cuya Iglesia gobernó diez años y pasó a esta de
+        <Territory>Yucatán</Territory> el de 1651; lo recibieron con suma alegría por la fama de su
+    virtud y caridad, era verdaderamente humilde y pobre de espíritu, amado por la afabilidad de su
+    trato, sin que dexase de sobstener la autoridad de la dignidad, murió con general sentimiento el
+    año de 1652. <zbr/> 13 Don <persName>Lorenzo de Orta</persName> fue electo Obispo de esta
+    Iglesia, pero murió inmediatamente. <zbr/> 14 Don Fr. <persName>Luis de Cifuentes y
+        Sotomayor</persName>, natural de <Settlement>Sevilla</Settlement>, tomó el hábito de
+    Religioso de Santo Domingo en <Settlement>México</Settlement>, fue Catedrático de Santo Tomás en
+    su Universidad, Prior de varios Conventos, y Provincial de su
+        <Concept_Territory>Provincia</Concept_Territory>, electo Obispo de
+        <Territory>Yucatán</Territory> en 1657, de que tomó posesión el de 1759: visitó por varias
+    veces su Diócesis, fue zelosísimo del culto Divino; y para su mayor lucimiento dio a su Iglesia
+    ricos ornamentos y alhajas de oro y plata, costeó la Capilla y Retablo del Santo Christo de
+    Ichmul, que hizo traer de este <Concept_Settlement>Pueblo</Concept_Settlement> per haberse
+    quemado la Iglesia y quanto habia en ella, reservándose solo la Imagen: murió el año de 1676.
+    <zbr/> 15 Don <persName>Juan de Escalante Turcios y Mendoza</persName>, obtuvo varias Prebendas
+    en esta Santa Iglesia de <Territory>Yucatán</Territory>, donde fue Comisario de Cruzada,
+    Provisor y Vicario General del <Concept_Territory>Obispado</Concept_Territory>, y siendo Dean
+    fue electo Arzobispo de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo
+        Domingo</Territory> el año de 1671, y el de 1676 promovido a <Territory>Yucatán</Territory>,
+    visitó todo el <Concept_Territory>Obispado</Concept_Territory>, y al regreso de la Visita de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tabasco</Territory> murió en
+    el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Uman</Settlement> el año de
+    1681. <zbr/> 16 Don <persName>Juan Cano Sandoval</persName>, natural de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>México</Settlement>, Doctor
+    en Sagrados Cánones por la Universidad, Rector de Escuelas, Catedrático substituto de Decreto,
+    Canónigo Doctoral de la Iglesia de <Territory>Mechoacán</Territory>, y después Penitenciario de
+    Maestre-Escuela de la Metropolitana de <Settlement>México</Settlement>; Provisor de <humanGroup
+        type="social_group">Indios</humanGroup>, <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0414@@@<zbr/> #Juez de Testamentos y Capellanías, Provisor y Vicario
+    General y Gobernador de aquel <Concept_Territory>Arzobispado</Concept_Territory>, Comisario del
+    Tribunal de Santa Cruzada, electo Obispo de <Territory>Yucatán</Territory> el año de 1682 de que
+    tomó posesión el siguiente; visitó su Diócesis, y gobernó con grande afabilidad, tan limosnero
+    que llegó a quitarse la capa que llevaba puesta para dársela a un pobre que se la pedía, después
+    de decir Misa todos los días oía de rodillas ocho o diez de Sacerdotes pobres que llamaba para
+    que la dixesen en su Oratorio, murió el año de 1695. <zbr/> 17 Don Fr. <persName>Antonio de
+        Arriaga y Agüero</persName>, del Orden de San Agustín, siendo Rector del Colegio de Doña
+        <persName>María de Aragón</persName> en <Settlement>Madrid</Settlement>, por su literatura y
+    exemplar vida fue presentado para Obispo de esta Santa Iglesia, el año de 1696, pasó a
+    consagrarse en la <Settlement>Puebla de los Angeles</Settlement>, y antes de llegar a su Iglesia
+    murió en la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Carrion</Settlement>
+    el año de 1698. <zbr/> 18 Don Fr. <persName>Pedro de los Reyes Ríos de la Madrid</persName>,
+    natural de <Settlement>Sevilla</Settlement>, Monge del Orden de San Benito, obtuvo en su
+    Religión los empleos de Maestro, Predicador General, Doctor Teólogo, y Opositor a Cátedras en la
+    Universidad de <Territory>Oviedo</Territory>, fue Difinidor y Abad de los Monasterios de San
+    Isidro de Dueñas, San Claudio de León, y San Benito el Real de <Settlement>Sevilla</Settlement>,
+    Predicador del Rey Don <persName>Carlos II</persName>, y electo Obispo de
+        <Territory>Honduras</Territory>, promovido antes de embarcarse a este de
+        <Territory>Yucatán</Territory> el año de 1700, visitó dos veces su Diócesis, y en su tiempo
+    se acabó de conquistar la <Concept_Territory>Provincia</Concept_Territory> del
+        <Territory>Peten</Territory>, fue acérrimo defensor de la
+        <Concept_Territory>jurisdición</Concept_Territory> Eclesiástica, y de la Dignidad Episcopal,
+    murió el año de 1714. <zbr/> 19 Don <persName>Juan Gómez de Parada</persName>, nació en
+        <Settlement>Compostela</Settlement> del <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Guadalaxara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Nueva Galicia</Territory>, fue Colegial en el Real y más antiguo de
+        <Settlement>San Ildefonso</Settlement>, y después en el Mayor de <Settlement>Santa María de
+        Todos los Santos</Settlement> de <Settlement>México</Settlement>, en cuya Universidad
+    recibió los grados menores de Filosofía y Teología, y habiendo pasado a
+        <Territory>España</Territory> tuvo el de Doctor en la <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0415@@@<zbr/>
+    <zbr/> #Universidad de <Settlement>Salamanca</Settlement>, donde leyó Filosofía tres años, fue
+    Prebendado de la Metropolitana de <Territory>México</Territory>, y volviendo a
+        <Territory>España</Territory> a graves negocios de ella lo presentó el Rey para Obispo de
+        <Territory>Yucatán</Territory> el año de 1715 de que tomó posesión el siguiente: hecha la
+    Visita General del <Concept_Territory>Obispado</Concept_Territory> celebró Sínodo Diocesano, en
+    que trabajó con infatigable zelo para reforma de ambos Estados Eclesiástico y Secular, y para
+    alivio de los <humanGroup type="social_group">Indios</humanGroup>, y su mejor instrucción, de
+    quienes fue verdadero padre, formó por Orden Real nuevos aranceles modificando los que habia de
+    sus antecesores, tuvo singular cuidado en la promoción de los Eclesiásticos, mantuvo las
+    Religiosas en el hambre del año de 1726, y fue promovido al
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guatemala</Territory> el año
+    de 1728. <zbr/> 20 Don <persName>Juan Ignacio de Castoreña y Ursúa</persName>, natural de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Zacatecas</Settlement> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory>,
+    Colegial en el Real de San Ildefonso de <Territory>México</Territory>, Doctor en Sagrada
+    Teología, incorporado en el que tenía por la Universidad de <Settlement>Avila</Settlement>, y en
+    Leyes por la de <Settlement>México</Settlement>, Catedrático jubilado de Escritura, Rector y
+    Visitador de su Real Capilla, Provisor de <humanGroup type="social_group">Indios</humanGroup> en
+    aquel <Concept_Territory>Arzobispado</Concept_Territory>, y Comisario General de Cruzada en
+        <Territory>Nueva España</Territory>, tuvo varias Prebendas en la Iglesia de
+        <Settlement>México</Settlement>, y la Dignidad de Chantre, y presentado para este
+        <Concept_Territory>Obispado</Concept_Territory> el año de 1729, manifestó en todo el tiempo
+    de su Gobierno su literatura, virtud y zelo Pastoral, murió el año de 1733. <zbr/> 21 Don
+        <persName>Francisco Pablo Matos Coronado</persName>, natural de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Canarias</Settlement>,
+    estudió Gramática y Filosofía en el Convento de Santo Domingo, cursó Cánones en la Universidad
+    de <Settlement>Sevilla</Settlement>, de donde pasó a la de <Settlement>Salamanca</Settlement>, y
+    recibió el grado de Doctor regentando las Cátedras de Instituta y de Cánones; tuvo varias
+    Prebendas en la Catedral de <Settlement>Canarias</Settlement>, y siendo Maestre Escuela vino a
+    la Corte a defender graves puntos sobre la inmunidad de su Iglesia, allí fue promovido al
+    Arcedianato, y luego presentado para Obispo de <Territory>Yucatán</Territory> el año de 1734,
+    tomó posesión el de 1736, <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0416@@@<zbr/>
+    <zbr/> #visitó todo el <Concept_Territory>Obispado</Concept_Territory>: su gran literatura y
+    general erudición le grangearon en <Settlement>Madrid</Settlement> y en
+        <Settlement>México</Settlement> la mayor estimación; gobernó con gran prudencia y zelo del
+    Estado Eclesiástico, y pasó promovido al <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Mechoacán</Territory> el año de 1741. <zbr/> 22 Don Fr. <persName>Mateo de Zamora
+        y Penagos</persName>, natural del <Territory>Nuevo Reyno de Granada</Territory>, tomó allí
+    el Hábito de San Francisco, fue Doctor Teólogo por la Universidad de <Settlement>Santa
+        Fe</Settlement>, Lector Jubilado, Ex-Custodio, Procurador General en las Cortes de
+        <Settlement>Madrid</Settlement> y <Settlement>Roma</Settlement>, Calificador del Santo
+    Oficio, y Padre de su <Concept_Territory>Provincia</Concept_Territory>, electo Obispo de
+        <Territory>Yucatán</Territory> el año de 1741, de que tomó posesión el de 1743, visitó toda
+    la Diócesis, y falleció en la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Settlement>Valladolid</Settlement> el año de 1744. <zbr/> 23 Don Fr. <persName>Francisco de
+        San Buenaventura Texada Diez de Velasco</persName>, del Orden de San Francisco, natural de
+        <Settlement>Sevilla</Settlement>, fue Lector de Teología, Guardian del Convento de
+    Recolección de Nuestra Señora de Loreto de aquella
+        <Concept_Settlement>Ciudad</Concept_Settlement>, Calificador del Santo Oficio, Auxiliar del
+    Obispo de <Territory>Cuba</Territory> con el título de Tricali, presentado para este de
+        <Territory>Yucatán</Territory> el año de 1746, visitó dos veces la Diócesis sin dexar
+        <Concept_Settlement>Pueblo</Concept_Settlement> alguno, erigió el Colegio Tridentino,
+    procuró el culto y adorno de la Iglesia reparando varias Iglesias Parroquiales, y en el Convento
+    de San Pablo de la Breña de su <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Andalucía</Territory> construyó a su <Concept_Landmark>costa</Concept_Landmark>
+    una casa para recogimiento de mugeres de mala vida; fue promovido con general sentimiento de sus
+    feligreses a la Iglesia de <Settlement>Guadalaxara</Settlement> en la <Territory>Nueva
+        Galicia</Territory> el año de 1752. <zbr/> 24 Don <persName>Juan Joseph de Eguiara y
+        Eguren</persName>, natural de <Settlement>México</Settlement>, estudió en aquella
+    Universidad, donde tuvo el grado de Doctor en Teología, fue Catedrático de Filosofía, Vísperas y
+    Prima de Teología en que se jubiló, Canónigo Magistral y Maestre Escuela de la Santa Iglesia
+    Metropolitana, Consultor del Santo Oficio de la Inquisición, y Autor de varias obras, entre
+    ellas el primer tomo de la Biblioteca Mexicana, fue electo Obispo de
+        <Territory>Yucatán</Territory> el año de 1751, pero re<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0417@@@<zbr/>
+    <zbr/> #nunció esta Dignidad con general sentimiento de los que lo deseaban por las noticias que
+    tenían de su virtud y literatura. <zbr/> 25 Don Fr. <persName>Ignacio Padilla y
+        Estrada</persName>, natural de <Settlement>México</Settlement>, tomó el hábito de Religioso
+    de San Agustín, fue Doctor en su Universidad, y en su Religión Catedrático de Filosofía y
+    Teología, Rector y Regente de Estudios en el Colegio de San Pablo, Secretario de
+        <Concept_Territory>Provincia</Concept_Territory>, Visitador de los Conventos de
+        <Settlement>Guadalaxara</Settlement> y <Settlement>Havana</Settlement>, Maestro del número,
+    y Procurador General de la Provincia de Jesús en las Cortes de <Settlement>Madrid</Settlement> y
+        <Settlement>Roma</Settlement>, electo Arzobispo de <Territory>Santo Domingo</Territory> que
+    gobernó hasta el año de 1752, en que fue promovido a esta Iglesia, fue zelosísimo defensor de la
+    Dignidad, cercenó sus gastos para adornar la Iglesia de alhajas y ornamentos, y de una preciosa
+    custodia de oro guarnecida de ricas piedras, hizo el retablo, socorrió con liberalidad al
+    Convento de Monjas de la Concepción, y fue generalmente limosnero y caritativo, murió el año de
+    1760. <zbr/> 26 Don Fr. <persName>Antonio Alcalde</persName>, del Orden de Santo Domingo,
+    natural de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Zigales</Settlement>
+    en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Valladolid</Territory>, fue
+    Lector de Artes, Maestro de Estudiantes, y Lector de Teología 26 años, exercitándose en esto en
+    varios Conventos de su Orden, no menos que en predicar el Evangelio, se graduó de Maestro, y lo
+    nombraron Prior del Convento de Zamora, luego del de Valverde, en que estuvo 9 años, y de aquí a
+    el de <Settlement>Segovia</Settlement> que no verificó por haberlo presentado el Rey para Obispo
+    de <Territory>Yucatán</Territory> el año de 1761 que le precisaron a aceptar, se consagró en
+        <Settlement>Cartagena de Indias</Settlement>, y tomó posesión el de 1763, fue promovido al
+    de <Territory>Guadalaxara</Territory> en 1773. <zbr/> 27 Don <persName>Diego Peredo</persName>.
+    <zbr/> 28 Don Fr. <persName>Juan Manuel de Vargas y Rivera</persName>, del Orden de Nuestra
+    Señora de la Merced, natural de <Settlement>Lima</Settlement>, Comendador del Convento de
+        <Settlement>Panamá</Settlement> en el <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Tierrafirme</Territory>, vino a <Territory>España</Territory>, donde fue
+    condecorado con el grado de Padre de <Concept_Territory>Provincia</Concept_Territory>, y pre<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0418@@@<zbr/> #sentado para el
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Chiapa</Territory>, del qual
+    pasó promovido a este de <Territory>Yucatán</Territory> el año de 1764, pero murió antes de
+    tomar posesión. <zbr/> 29 Don <persName>Antonio Caballero y Góngora</persName>, fue promovido al
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santa Fe</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory> el año de 1777. <zbr/> 30 Don Fr.
+        <persName>Luis de Pina y Mazo</persName>, del Orden de San Benito. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_18067§§§<zbr/> #YUCAY, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Urubamba</Territory> en el
+        <Territory>Perú</Territory>, tiene un Convento de Religiosos Recoletos de San Francisco,
+    está situado en un <Concept_Landmark>valle</Concept_Landmark> ameno, fértil y espacioso, de
+    clima benigno y abundante de toda especie de frutos, que tiene el mismo nombre: en este
+        <Concept_Settlement>Pueblo</Concept_Settlement> murió, después de una mansión de tres años
+    haciendo la vida privada de un particular, el Príncipe <persName>Sayri Tupac Inca</persName>,
+    llamado en el Bautismo Don <persName>Diego Inca</persName>, último Monarca del
+        <Territory>Perú</Territory>, que renunció el Imperio y sus derechos en el Rey de
+        <Territory>España</Territory>: era hijo de <persName>Manco Inca</persName>, y sobrino del
+    Emperador <persName>Huáscar Inca</persName>. <zbr/>
+    <zbr/> §§§id_18068§§§<zbr/> YUCUL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chancay</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Canchas</Settlement>. <zbr/>
+    <zbr/> §§§id_18069§§§<zbr/> YUCUNDUCHE, Santiago de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Al##caldía
+        mayor</Concept_Territory> de <Territory>Nochiztlán</Territory> en <Territory>Nueva
+        España</Territory>, tiene 75 familas de <humanGroup type="social_group">Indios</humanGroup>
+    aplicados al cultivo y comercio del algodón y grana, está 2 leg. al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18070§§§<zbr/> YUECHI, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva
+        España</Territory>, tiene 61 familias de <humanGroup type="social_group"
+    >Indios</humanGroup>, y está 4 leguas al Sur de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18071§§§<zbr/> YUHUARI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corre
+    casi al N en el <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Omaguas</humanGroup>, y entra en aquel. <zbr/>
+    <zbr/> §§§id_18072§§§<zbr/> YUY, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
+    corre del SE al NO, y entra en el <Landmark>Uruguay</Landmark> enfrente del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones, llamado <Settlement>Santa
+        María</Settlement>, a sus orillas martirizaron los <humanGroup type="social_group"
+        >Indios</humanGroup> a los PP. <persName>Roque González de Santa Cruz</persName>,
+        <persName>Alonso Rodríguez</persName>, y <persName>Juan del Castillo</persName> de la
+    extinguida Compañía el año de 1628. <zbr/>
+    <zbr/> §§§id_18073§§§<zbr/> YUINEIMA, <Concept_Landmark>Río</Concept_Landmark> de la <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0419@@@<zbr/>
+    <zbr/> #<Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre
+    al E recogiendo las aguas de otros muchos, y entra por la vanda del O en el grande del
+        <Landmark>Paraná</Landmark>. <zbr/>
+    <zbr/> §§§id_18074§§§<zbr/> YUIPA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> que el anterior, corre al NNO, y entra en el
+        <Landmark>Uruguay</Landmark>, entre los de <Landmark>Aguas</Landmark> y de
+        <Landmark>Bajú</Landmark>. <zbr/>
+    <zbr/> §§§id_18075§§§<zbr/> YULUC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Loxa</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_18076§§§<zbr/> YUMA, <Concept_Landmark>Isla</Concept_Landmark> de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las
+        <Landmark>Lucayas</Landmark>, llamada también <Landmark>Exuma</Landmark>, descubierta por
+        <persName>Christóval Colon</persName>, está al N de la de <Territory>Cuba</Territory> y al
+    Sur de la de <Landmark>San Salvador</Landmark>, tiene 22 leguas de largo y 7 de ancho, habitada
+    de <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Caribes</humanGroup>. <zbr/>
+    <zbr/> §§§id_18077§§§<zbr/> YUMBA, Bahía de) en la <Concept_Landmark>Costa</Concept_Landmark>
+    del Sur de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>,
+    entre la <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Saona</Landmark> y la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Espada</Landmark>. <zbr/>
+    <zbr/> §§§id_18078§§§<zbr/> YUMBEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Itata</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, es fronterizo
+    de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Araucanos</humanGroup>, y por eso tiene un
+        <Concept_Structure>fuerte</Concept_Structure> para defender los límites, el qual sitiaron
+    aquellos bárbaros el año de 1743; pero se vieron ##preciados a desistir con pérdida de aquella
+    empresa. <zbr/>
+    <zbr/> §§§id_18079§§§<zbr/> YUMBO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
+    <zbr/> §§§id_18080§§§<zbr/> YUME, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, corte al
+    S, y entra en el <Landmark>Marañon</Landmark>. <zbr/>
+    <zbr/> §§§id_18081§§§<zbr/> YUMETO, <Concept_Landmark>Isla</Concept_Landmark> de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, una de las
+        <Landmark>Lucayas</Landmark>, descubierta por <persName>Christóval Colon</persName>, y
+    situada debaxo del Trópico al N de la de <Territory>Cuba</Territory>, tiene 15 leguas de largo,
+    y está habitada de <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Caribes</humanGroup>. <zbr/>
+    <zbr/> §§§id_18082§§§<zbr/> YUÑA, <Concept_Landmark>Río</Concept_Landmark> grande de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, nace en
+    las <Concept_Landmark>montañas</Concept_Landmark> del centro de la
+        <Concept_Landmark>Isla</Concept_Landmark>, corre al NNE, y cerca de la
+        <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Cotuy</Settlement> tuerce su
+    curso al SSE, y sale al <Concept_Landmark>mar</Concept_Landmark> en la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark> formando en su
+    boca varias <Concept_Landmark>Islas</Concept_Landmark>, <zbr/>
+    <zbr/> §§§id_18083§§§<zbr/> YUNDUZA, Santa Cruz de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabeza de
+        partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Tepozcolula</Territory> en <Territory>Nueva España</Territory>, tiene 116
+    familias de <humanGroup type="social_group">Indios</humanGroup> que viven del cultivo de las
+    sementeras de trigo, maíz y frixoles, es de temperamento frío, y dista 11 leguas entre Oriente y
+    S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18084§§§<zbr/> YUNGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0420@@@<zbr/>
+    <zbr/> #<Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>San Marcos</Settlement>. <zbr/>
+    <zbr/> §§§id_18085§§§<zbr/> YUNGAI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Huailas</Territory> en el
+    mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, es grande y numeroso, tiene
+    dos Parroquias, y a su inmediación en una <Concept_Landmark>quebrada</Concept_Landmark> se ven
+    las ruinas de otro llamado <Settlement>Ancas</Settlement> que tenía cerca de 1500 habitantes que
+    perecieron en una inundación repentina, por haberse desplomado un gran
+        <Concept_Landmark>cerro</Concept_Landmark> de nieve con el terremoto que se experimentó allí
+    el día 6 de Enero del año de 1725. <zbr/>
+    <zbr/> §§§id_18086§§§<zbr/> YUNGAS, Raza de gentes que viven retiradas al NE de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory>, en las
+    tierras que confinan por el SO con la de <Territory>Latacunga</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, y hacia
+        <Territory>Angamarca</Territory>, son <humanGroup type="social_group">Mestizos</humanGroup>,
+        <humanGroup type="social_group">Mulatos</humanGroup> y otras mezclas; siembran y cultivan
+    tabaco, algodón y cacao; están esparcidos e independientes de todo gobierno y sujeción: hay
+    también entre ellos algunos <humanGroup type="social_group">Indios</humanGroup> de la antigua
+        <Concept_Group>nación</Concept_Group> de los <humanGroup type="indigenous_group"
+        >Yungas</humanGroup>, de quienes han tomado el nombre, son medio Christianos, pero no tienen
+    instrucción ##alguna ni Párroco que los asista; también les dan el nombre de <humanGroup
+        type="indigenous_group">Colorados</humanGroup>. <zbr/>
+    <zbr/> §§§id_18087§§§<zbr/> YUNGUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chancay</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Iguari</Settlement>. <zbr/>
+    <zbr/> §§§id_18088§§§<zbr/> YUNGUYO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Omasuyos</Territory> en
+    el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, situado en la
+        <Concept_Landmark>Península</Concept_Landmark> de <Landmark>Copacavana</Landmark> de la gran
+        <Concept_Landmark>laguna</Concept_Landmark>
+    <Landmark>Titicaca</Landmark>. <zbr/>
+    <zbr/> §§§id_18089§§§<zbr/> YUNJUI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el
+    mismo <Concept_Territory>Reyno</Concept_Territory> que los anteriores, situado al E de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Moquehua</Settlement>. <zbr/>
+    <zbr/> §§§id_18090§§§<zbr/> YUNTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
+        <Territory>Perú</Territory>, situado en el <Concept_Landmark>despoblado</Concept_Landmark>
+    de las <Concept_Landmark>salinas</Concept_Landmark> al N del de <Landmark>Ambargasta</Landmark>. <zbr/>
+    <zbr/> §§§id_18091§§§<zbr/> YUPAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Llapo</Settlement>. <zbr/>
+    <zbr/> §§§id_18092§§§<zbr/> YUPANUR, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace en la
+        <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Imataca</Landmark>, corre al S, y
+    entra en el <Landmark>Cuyuni</Landmark> por la vanda del N. <zbr/>
+    <zbr/> §§§id_18093§§§<zbr/> YUPURA, µµµvéase Caquetáµµµ. <zbr/>
+    <zbr/> §§§id_18094§§§<zbr/> YUQUI, <Concept_Landmark>Río</Concept_Landmark> de la Pro<zbr/>
+    <zbr/> @@@Alcedo_vol_5-0421@@@<zbr/>
+    <zbr/> #vincia y <Concept_Territory>Gobierno</Concept_Territory> del
+        <Territory>Paraguay</Territory>, es pequeño, y entra en el de este nombre casi enfrente del
+        <Landmark>Yabebiri</Landmark> que viene del <Territory>Chaco</Territory>. <zbr/>
+    <zbr/> §§§id_18095§§§<zbr/> YUQUIPA, Santa Ana de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Quixos y Macas</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_18096§§§<zbr/> YURA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Collahuas</Territory> en
+    el <Territory>Perú</Territory>, anexo del <Concept_District>Curato</Concept_District> del de
+        <Settlement>Llauta</Settlement>, tiene a distancia de una legua un
+        <Concept_Landmark>cerro</Concept_Landmark> de piedra de cal que benefician en hornos, y
+    llevan a vender a varias partes, especialmente a <Settlement>Arequipa</Settlement>, de donde
+    dista 7 leguas. <zbr/>
+    <zbr/> §§§id_18097§§§<zbr/> YURACARES, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Cruz de la
+        Sierra</Territory> en el <Territory>Perú</Territory>, nace en la
+        <Concept_Landmark>cordillera</Concept_Landmark> de varios
+        <Concept_Landmark>arroyos</Concept_Landmark> que se juntan, corre al N, y entra en el
+        <Landmark>Mamoré</Landmark> en el <Concept_Territory>país</Concept_Territory> de los
+        <humanGroup type="social_group">Indios</humanGroup> de quien toma el nombre. <zbr/>
+    <zbr/> §§§id_18098§§§<zbr/> YURANI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>, nace
+    de una <Concept_Landmark>laguna</Concept_Landmark> que tiene en las
+        <Concept_Landmark>montañas</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> del E, corre N S, y entra en el
+        <Landmark>Cuyuni</Landmark> poco antes de su salida al
+        <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_18099§§§<zbr/> YURAYACO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimien##to</Concept_Territory> de <Territory>Chancay</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Canchas</Settlement>. <zbr/>
+    <zbr/> §§§id_18100§§§<zbr/> YURI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o
+        <Territory>Nueva Andalucía</Territory>, nace en la
+        <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Maiguatida</Landmark>, corre al E,
+    y entra en el de <Landmark>Arebato</Landmark>. <zbr/>
+    <zbr/> §§§id_18101§§§<zbr/> YURIMA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pomabamba</Territory> en
+    el <Territory>Perú</Territory>, corre al N, y torciendo luego el curso al E formando una S entra
+    en el caudaloso <Landmark>Beni</Landmark>. <zbr/>
+    <zbr/> §§§id_18102§§§<zbr/> YURIMAGUAS, <Concept_Group>Nación bárbara de Indios</Concept_Group>
+    que habita los <Concept_Landmark>bosques</Concept_Landmark> al Mediodía del
+        <Settlement>Marañon</Settlement>; en las Misiones de <Territory>Mainas</Territory> que
+    tenían los Regulares de la Compañía hay un <Concept_Settlement>Pueblo</Concept_Settlement> de
+    estos <humanGroup type="social_group">Indios</humanGroup> reducidos a la Religión Católica por
+    aquellos Misioneros llamado <Settlement>Nuestra Señora de las Nieves de los
+        Yurimaguas</Settlement>, está a la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Guallaga</Landmark>. <zbr/>
+    <zbr/> §§§id_18103§§§<zbr/> YURIMOS, <Concept_Group>Nación bárbara de Indios</Concept_Group>
+    poco conocida que habita en las <Concept_Landmark>selvas</Concept_Landmark> al N del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Iza</Landmark> o <Landmark>Putumayu</Landmark>. <zbr/>
+    <zbr/> §§§id_18104§§§<zbr/> YURIRAPUNDARO, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Zelaya</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, tiene
+    485 familias de <humanGroup type="social_group">Indios</humanGroup> y un <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0422@@@<zbr/>
+    <zbr/> #Convento de Religiosos de San Agustín, que es de las obras más suntuosas y magníficas de
+    todo el <Concept_Territory>Reyno</Concept_Territory>, está 15 leguas al SO de su
+        <Concept_Settlement>Capital</Concept_Settlement>, generalmente lo llaman solo Yurira para
+    abreviar el nombre. <zbr/>
+    <zbr/> §§§id_18105§§§<zbr/> YURMASICA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory>
+    en el <Territory>Perú</Territory>. <zbr/>
+    <zbr/> §§§id_18106§§§<zbr/> YURNA, <Concept_Territory>Territorio</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de mucha extensión que ocupaba antes la
+        <Concept_Group>nación</Concept_Group> de <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Aguas</humanGroup> en la orilla austral del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, hoy no hay más que el nombre. <zbr/>
+    <zbr/> §§§id_18107§§§<zbr/> YURU, Besni o Muría, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> según Mr.
+        <persName>Bellin</persName>, corre casi O E, y entra en el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark>. <zbr/>
+    <zbr/> §§§id_18108§§§<zbr/> YURUA, <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso
+    del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, cuyo origen no
+    esta bien averiguado por correr en países de <Concept_Group>Indios infieles</Concept_Group>
+    hasta entrar en el <Landmark>Marañon</Landmark>, el geógrafo Don <persName>Juan de la
+        Cruz</persName> citando a Mr. <persName>Bowel</persName> dice que es el
+        <Landmark>Amarumayu</Landmark> que llama Yurba, y no Yurua como el P. <persName>Manuel
+        Rodríguez</persName> en su Historia del <Landmark>Marañon</Landmark>, que señala su
+    nacimiento en las <Concept_Landmark>montañas</Concept_Landmark> de los <Landmark>Andes de
+        Cuchoa</Landmark>, y dice que después de correr mu##chas leguas al N tuerce al E, y luego
+    vuelve a tomar su primer curso, y en el <Concept_Territory>territorio</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Curianis</humanGroup> entra en el
+        <Landmark>Marañon</Landmark>. <zbr/>
+    <zbr/> §§§id_18109§§§<zbr/> Tiene el mismo nombre una <Concept_Landmark>Isla</Concept_Landmark>
+    pequeña de la <Concept_Landmark>Costa</Concept_Landmark> del <Territory>Brasil</Territory>
+    delante de la de <Landmark>Marajo</Landmark>, entre las de <Landmark>Machiana</Landmark> y
+        <Landmark>Alitatis</Landmark>. <zbr/>
+    <zbr/> §§§id_18110§§§<zbr/> YURUANI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> que tienen
+    los <humanGroup type="political_group">Holandeses</humanGroup>, uno de los que entran en el
+        <Landmark>Caroni</Landmark> por la vanda del N. <zbr/>
+    <zbr/> §§§id_18111§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> también pequeño hay en
+    la misma <Concept_Territory>Provincia</Concept_Territory>, corre al O, y entra en el
+        <Landmark>Caura</Landmark> más arriba del <Concept_Landmark>raudal</Concept_Landmark> de
+        <Landmark>Chapara</Landmark>. <zbr/>
+    <zbr/> §§§id_18112§§§<zbr/> YURUARIO, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> o
+        <Territory>Nueva Andalucía</Territory>, nace de una
+        <Concept_Landmark>laguna</Concept_Landmark> que hay en sus
+        <Concept_Landmark>montañas</Concept_Landmark> a la parte del E, corre N S, y entra en el de
+        <Landmark>Cuyuni</Landmark> poco antes de salir este al
+        <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_18113§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre en la misma <Concept_Territory>Provincia</Concept_Territory>
+    <Concept_Settlement>reducción</Concept_Settlement> de <humanGroup type="social_group"
+        >Indios</humanGroup> por los PP. Capuchinos, situado a la orilla del
+        <Concept_Landmark>río</Concept_Landmark> anterior. <zbr/>
+    <zbr/> §§§id_18114§§§<zbr/> YURUBASI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, nace al
+    N de la <Concept_Landmark>la<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0423@@@<zbr/>
+        <zbr/> #guna</Concept_Landmark>
+    <Landmark>Cumapi</Landmark> y de un <Concept_Landmark>desagüe</Concept_Landmark> del
+        <Concept_Landmark>brazo</Concept_Landmark> de esta, corre al E, y entra en el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark> enfrente de uno de los <Concept_Landmark>brazos</Concept_Landmark>
+    del de <Landmark>Parime</Landmark>. <zbr/>
+    <zbr/> §§§id_18115§§§<zbr/> YURUBECHI o María, <Concept_Landmark>Río</Concept_Landmark> de la
+    misma <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> que el anterior en el
+        <Concept_District>distrito</Concept_District> que poseen los <humanGroup
+        type="political_group">Portugueses</humanGroup>, nace en el
+        <Concept_Territory>territorio</Concept_Territory> de los
+        <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Orelludos</humanGroup>, corre al E con inclinación al SE
+    muchas leguas, y entra muy caudaloso en el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark> enfrente de la boca del de <Landmark>Cababury</Landmark>; Mr. de la
+        <persName>Condamine</persName> lo llama Yurubesch, y el ex Jesuita
+        <persName>Coleti</persName> Yurubesa, y dice que entra en el referido en 42 min. de lat.
+    aust. <zbr/>
+    <zbr/> §§§id_18116§§§<zbr/> YURUHA, <Concept_Landmark>Valle</Concept_Landmark> fértil y hermoso
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>. <zbr/>
+    <zbr/> §§§id_18117§§§<zbr/> YURUPA, <Concept_Landmark>Río</Concept_Landmark> grande y muy
+    caudaloso del <Territory>Nuevo Reyno de Granada</Territory>, es en sus principios un
+        <Concept_Landmark>brazo</Concept_Landmark> del <Landmark>Caquetá</Landmark>, que
+    aumentándose según va recogiendo las aguas de otros muchos llega tan formidable a entrar en el
+        <Landmark>Marañon</Landmark>, que por muchos tiempos estuvo tenido por el
+        <Landmark>Orinoco</Landmark>. <zbr/>
+    <zbr/> §§§id_18118§§§<zbr/> YURUSNIES, <Concept_Group>Nación bárbara de Indios</Concept_Group>
+    que habita al N del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, ##unida siempre con las de los <humanGroup type="indigenous_group"
+        >Iquitos</humanGroup>, los <humanGroup type="indigenous_group">Zapatoas</humanGroup> y los
+        <humanGroup type="indigenous_group">Abixiras</humanGroup> para hacer guerra a la de los
+        <humanGroup type="indigenous_group">Chevelos</humanGroup>, es feroz aunque poco numerosa. <zbr/>
+    <zbr/> §§§id_18119§§§<zbr/> YUTAI o Yetau, <Concept_Landmark>Río</Concept_Landmark> grande y
+    caudalosísimo del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>,
+    nace en las <Concept_Landmark>montañas</Concept_Landmark> de la
+        <Concept_Landmark>cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark> cerca del
+        <Settlement>Cuzco</Settlement>, y entra en el <Landmark>Marañon</Landmark> por la parte del
+    Sur en 3 gr. 1/2 de lat.; es muy nombrado por sus riquezas y por la multitud de
+        <Concept_Group>naciones de Indios</Concept_Group> que habitan sus riberas, como <humanGroup
+        type="indigenous_group">Tipunas</humanGroup>, <humanGroup type="indigenous_group"
+        >Guanatus</humanGroup>, <humanGroup type="indigenous_group">Ozuanas</humanGroup>,
+        <humanGroup type="indigenous_group">Momas</humanGroup>, <humanGroup type="indigenous_group"
+        >Naunas</humanGroup>, <humanGroup type="indigenous_group">Conomomas</humanGroup>,
+        <humanGroup type="indigenous_group">Marianas</humanGroup> y <humanGroup
+        type="indigenous_group">Omaguas</humanGroup>, que son los más inmediatos al
+        <Territory>Perú</Territory>, y traen pendientes de las orejas y narices grandes planchas de
+    oro: ésta era según el P. <persName>Acuña</persName> la
+        <Concept_Territory>Provincia</Concept_Territory> a cuyo descubrimiento salió <persName>Pedro
+        de Ursúa</persName> de orden del Virey <persName>Marqués de Cañete</persName>, la qual no
+    encontró por haber hecho su entrada por un <Concept_Landmark>brazo</Concept_Landmark> de este
+        <Concept_Landmark>río</Concept_Landmark> que sale algunas leguas más abaxo, y quando
+    desembocó en el de las <Landmark>Amazonas</Landmark> ya quedaban más arriba estas
+        <Concept_Group>naciones de Indios</Concept_Group>, y le fue imposible volver a buscarlas por
+    el ímpetu de <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0424@@@<zbr/>
+    <zbr/> #las corrientes; según el geógrafo Don <persName>Juan de la Cruz</persName> llama Mr.
+        <persName>De Lisle</persName> a este <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Otapari</Landmark>, corre al E muchas leguas, y torciendo luego su curso al N entra en
+    el <Landmark>Marañon</Landmark> por dos <Concept_Landmark>brazos</Concept_Landmark> distantes
+    uno de otro que forman una <Concept_Landmark>Isla</Concept_Landmark> en medio. <zbr/>
+    <zbr/> §§§id_18120§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Abenico</Landmark>. <zbr/>
+    <zbr/> §§§id_18121§§§<zbr/> YUTI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, situado
+    a la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Tebiquari</Landmark>. <zbr/>
+    <zbr/> §§§id_18122§§§<zbr/> YWAPOY, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory> en la
+    parte que tienen los <humanGroup type="political_group">Holandeses</humanGroup>. <zbr/>
+    <zbr/> §§§id_18123§§§<zbr/> ##YWASEE, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
+    de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de la <Territory>Carolina
+        Septentrional</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Euphasee</Landmark>. <zbr/>
+    <zbr/> §§§id_18124§§§<zbr/> YUYAPARI, µµµvéase Orinocoµµµ. <zbr/>
+    <zbr/> §§§id_18125§§§<zbr/> YZA, <Concept_Territory>Territorio</Concept_Territory> o
+        <Concept_Territory>país</Concept_Territory> dilatado de la <Concept_Group>nación de
+        Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Moscas</humanGroup> o <humanGroup type="indigenous_group"
+        >Muiscas</humanGroup> en el <Territory>Nuevo Reyno de Granada</Territory>, a la parte de
+    Levante de <Settlement>Bogotá</Settlement> y al SE de <Settlement>Tundama</Settlement>, lo
+    descubrió, y entró pacíficamente en él Juan de S. Martín el año de 1537, tiene un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de su nombre. <zbr/>
+    <zbr/> §§§id_18126§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>,
+    µµµvéase Putumayuµµµ. <zbr/>
+    <zbr/> §§§id_18127§§§<zbr/> YZQUANDE, µµµvéase Isquandéµµµ. <zbr/>
+    <zbr/> §§§id_18128§§§<zbr/> #ZABALETAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
+    del <Landmark>Sur</Landmark>, a la orilla del <Concept_Landmark>río</Concept_Landmark> de
+        <Landmark>Buenaventura</Landmark>. <zbr/>
+    <zbr/> §§§id_18129§§§<zbr/> ZACAN, Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement>
+    y <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Córdoba</Territory> en <Territory>Nueva
+        España</Territory>, tiene 333 familias de <humanGroup type="social_group"
+        >Indios</humanGroup>, 5 de <humanGroup type="social_group">Españoles</humanGroup> y 4 de
+        <humanGroup type="social_group">Mes##tizos</humanGroup>, y está 4 leguas al ONO de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18130§§§<zbr/> ZACANHUALIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+    Cabeza departido de <Settlement>Atengo</Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Chilapa</Territory> en <Territory>Nueva
+        España</Territory>, situado 6 leguas al O de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18131§§§<zbr/> ZACAPALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Autlán</Territory> en <Territory>Nueva
+        España</Territory>, tiene 20 familias de <humanGroup type="social_group"
+    >Indios</humanGroup>, y está <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0425@@@<zbr/>
+    <zbr/> #3 leguas entre Poniente y Sur de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18132§§§<zbr/> ZACAPO, Santa Ana de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabeza de
+        partido</Concept_Settlement> de <Settlement>Tirindaro</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valladolid</Territory>
+    en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory>, situado
+    en un espacioso <Concept_Landmark>llano</Concept_Landmark> de templado temperamento, a su
+    inmediación por la parte del N tiene un ojo de agua que forma un pequeño
+        <Concept_Landmark>río</Concept_Landmark>, y corre por el Oriente a entrar en una
+        <Concept_Landmark>ciénega</Concept_Landmark>; hay en él un Convento de Religiosos de San
+    Francisco, su vecindario se compone de 80 familias de <humanGroup type="social_group"
+        >Indios</humanGroup> aplicados al cultivo de la tierra, inclusos los que habitan en cinco
+        <Concept_Structure>ranchos</Concept_Structure> de su
+        <Concept_District>distrito</Concept_District>, está 12 leguas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18133§§§<zbr/> ZACAPUASTLA, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>San Juan de los Llanos</Territory> en
+        <Territory>Nueva España</Territory>, tiene 500 familias de <humanGroup type="social_group"
+        >Indios</humanGroup> y 40 de <humanGroup type="social_group">Españoles</humanGroup>,
+        <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
+        >Mulatos</humanGroup>, inclusos los de los <Concept_Settlement>barrios</Concept_Settlement>
+    de su <Concept_District>distrito</Concept_District>, ocupados en el cultivo de la tierra, está 7
+    leguas al NO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_18134§§§<zbr/> ZACAPUATO, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o
+        <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Settlement>Cabeza de
+        partido</Concept_Settlement> de <Settlement>Cuzama##la</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Azuchitlán</Territory>
+    en <Territory>Nueva España</Territory>, situado a la orilla del
+        <Concept_Landmark>río</Concept_Landmark> que llaman de los <Landmark>Bejucos</Landmark>,
+    cuyas aguas se disminuyen en el <Concept_Landmark>Estío</Concept_Landmark>; pero en el Invierno
+    se hace tan caudaloso como arriesgado por lo rápido de su corriente y malos pasos; está media
+    legua separado del camino real, es de temperamento cálido y seco, y por esto carece de frutos
+    con que comercian; a su inmediación hay una <Concept_Structure>hacienda</Concept_Structure>
+    grande en que sirven los <humanGroup type="social_group">vecinos</humanGroup> de operarios, y a
+    distancia de 4 leguas un <Concept_Landmark>mineral</Concept_Landmark> de plata llamado
+        <Landmark>Alva de Liste</Landmark>, que aunque ha tenido bastante decadencia se trabaja sin
+    embargo de lo poco que rinde; cerca de él hay un <Concept_Structure>ingenio</Concept_Structure>
+    de azúcar y algunos <Concept_Structure>ranchos</Concept_Structure> en que crían ganado mayor,
+    que es de lo que hacen su trato: habitan en los sitios referidos y el
+        <Concept_Settlement>Pueblo</Concept_Settlement> 14 familias de <humanGroup
+        type="social_group">Españoles</humanGroup>, 6 de Mestitzos, 20 de <humanGroup
+        type="social_group">Mulatos</humanGroup> y 34 de <humanGroup type="social_group"
+        >Indios</humanGroup>. <zbr/>
+    <zbr/> §§§id_18135§§§<zbr/> ZACAPULA, <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>. <zbr/>
+    <zbr/> §§§id_18136§§§<zbr/> ZACATA, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Asiento de Minas</Concept_Settlement> de Plata de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Juli</Settlement>, en <zbr/>
+    <zbr/></xml>

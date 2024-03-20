@@ -92,8 +92,9 @@
  tiene un Convento de Religiosos de San Francisco; más de 150 familias de <humanGroup
   type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup>
  y <humanGroup type="social_group">Mulatos</humanGroup>, y 115 de <humanGroup type="social_group"
-  >Indios</humanGroup>: en su <Concept_District>distrito</Concept_District> hay, en un parage
- llamado <Landmark>Purua</Landmark>, una fuente de raras qualidades, siendo la más particular que
+  >Indios</humanGroup>: en su <Concept_District>distrito</Concept_District> hay, en un
+  <Concept_Landmark>parage</Concept_Landmark> llamado <Landmark>Purua</Landmark>, una
+  <Concept_Landmark>fuente</Concept_Landmark> de raras qualidades, siendo la más particular que
  todas las maderas se van al fondo, y sobre ellas se forman unas piedras de diferentes capas, que
  son como piedras bezoares de durísima consistencia, y también se cría en sus campiñas el díctamo
  real; está 5 leguas al SO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
@@ -453,9 +454,10 @@
   <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group"
   >Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, cuyas conveniencias
  han venido a mucha decadencia porque solo está ##corriente una
-  <Concept_Landmark>mina</Concept_Landmark> llamada <Landmark>Nuestra Señora del Carmen</Landmark>, y aunque
- no es dificultosa ni de mucho coste la labor de otras, no lo hacen por falta de proporciones de que
- carece el vecindario, y por esta razón se han dedicado al exercicio de arrieros: to<zbr/>
+  <Concept_Landmark>mina</Concept_Landmark> llamada <Landmark>Nuestra Señora del Carmen</Landmark>,
+ y aunque no es dificultosa ni de mucho coste la labor de otras, no lo hacen por falta de
+ proporciones de que carece el vecindario, y por esta razón se han dedicado al exercicio de
+ arrieros: to<zbr/>
  <zbr/> @@@Alcedo_vol_5-0459@@@<zbr/>
  <zbr/> #do el <Concept_Territory>territorio</Concept_Territory> está lleno de
   <Concept_Landmark>minas</Concept_Landmark> de oro, plata, cobre y plomo, también fabrican algunos
@@ -509,8 +511,8 @@
  aunque en tiempo de seca se disminuye nunca ha <zbr/>
  <zbr/> @@@Alcedo_vol_5-0460@@@<zbr/>
  <zbr/> #llegado a secarse, para cuyo caso tiene compuesta por donde vacia la de
-  <Territory>México</Territory> por la de <Landmark>San Christóval</Landmark> produce muchas semillas que en
- su cultivo y en el oficio ##de arrieros se emplea la mayor parte de sus naturales como en la
+  <Landmark>México</Landmark> por la de <Landmark>San Christóval</Landmark> produce muchas semillas
+ que en su cultivo y en el oficio ##de arrieros se emplea la mayor parte de sus naturales como en la
  fábrica, y saca de Pulque, consta su población de los
   <Concept_Settlement>Pueblos</Concept_Settlement> siguientes <zbr/>
  <zbr/> ßßß<zbr/> #<Settlement>Xitlaltepec</Settlement>. <zbr/>
@@ -690,8 +692,8 @@
  <Territory>Aimaraes</Territory>. <zbr/>
  <Territory>Andahuailas</Territory>. <zbr/>
  <Territory>Angaraes</Territory>. <zbr/>
- <Territory>Arequipa</Territory>. <zbr/>
- ###<Concept_Territory>Correg.tos</Concept_Territory><zbr/> ####<Territory>Arica</Territory>. <zbr/>
+ <Territory>Arequipa</Territory>. <zbr/> ###<Concept_Territory>Correg.tos</Concept_Territory><zbr/>
+  ####<Territory>Arica</Territory>. <zbr/>
  <Territory>Calca y Lares</Territory>. <zbr/>
  <Territory>Camaná</Territory>. <zbr/>
  <Territory>Canes y Canches</Territory>. <zbr/>
@@ -753,8 +755,8 @@
  <Territory>Paucarcolla</Territory>.<zbr/>
  <Territory>Pilaya y Paspaya</Territory>.<zbr/>
  <Territory>Pumabamba</Territory>.<zbr/>
- <Territory>Yamparaez</Territory>.<zbr/>
- ###<Concept_Territory>Correg.tos</Concept_Territory><zbr/> ####<Territory>Apolobamba</Territory>.<zbr/>
+ <Territory>Yamparaez</Territory>.<zbr/> ###<Concept_Territory>Correg.tos</Concept_Territory><zbr/>
+  ####<Territory>Apolobamba</Territory>.<zbr/>
  <Territory>Atacama</Territory>.<zbr/>
  <Territory>Asangaro</Territory>.<zbr/>
  <Territory>Carabaya</Territory>.<zbr/>
@@ -941,7 +943,7 @@
  <Territory>Tala</Territory>. <zbr/>
  <Territory>Tepic</Territory>. <zbr/>
  <Territory>Sentipac</Territory>. <zbr/> ###<Concept_Territory>Alcaldías
-  mayores</Concept_Territory><zbr/> ####<zbr/>
+ mayores</Concept_Territory><zbr/> ####<zbr/>
  <Territory>Tequepexpa</Territory>. <zbr/>
  <Territory>Tonalá</Territory>. <zbr/>
  <Territory>Ostotipaquillo</Territory>. <zbr/>
@@ -973,8 +975,8 @@
  <Territory>Fresnillo</Territory>. <zbr/>
  <Territory>Ibarra</Territory>. <zbr/>
  <Territory>Sierra de Pinos</Territory>. <zbr/>
- <Territory>Charcas</Territory>.<zbr/> #___<Concept_Territory>Cap.a Gen.l</Concept_Territory> de
- la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>___<zbr/>
+ <Territory>Charcas</Territory>.<zbr/> #___<Concept_Territory>Cap.a Gen.l</Concept_Territory> de la
+  <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>___<zbr/>
   #<Concept_Territory>Gobiernos</Concept_Territory><zbr/> ##<Territory>Cuba</Territory>.<zbr/>
  <Territory>Florida</Territory>.<zbr/>
  <Territory>Luisiana</Territory>. <zbr/>
