@@ -1,487 +1,1086 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_4-0376@@@<zbr/>
-<zbr/>
-#trada una espaciosa <Concept_Landmark>llanura</Concept_Landmark> llamada de <Landmark>Turu-bamba</Landmark>, que con propiedad debe ser Turu-pampa, que quiere decir <Concept_Landmark>llanura</Concept_Landmark> de lodo, y al N tiene otra con el nombre de Iña-quito, corrompido de Aña-quito, célebre por la batalla que en ella dió <persName>Gonzalo Pizarro</persName> contra las Tropas Reales que mandaba <persName>Blasco Nuñez Vela</persName>, primer Virrey del <Territory>Perú</Territory>, que perdió la vida allí: a Levante de <Settlement>Turubamba</Settlement>, y a la derecha de <Settlement>Chimba-calle</Settlement>, y izquierda del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Santa María Magdalena</Settlement>, hay un montezuelo llamado el Panecillo por su figura de cono truncado, semejante a un pan de azúcar, de cien toesas de altura, a cuyo pie por la parte de Poniente corren algunos arroyuelos de delicada agua, que unidos a otros que baxan de <Landmark>Pichinche</Landmark> forman el <Concept_Landmark>río</Concept_Landmark> <Landmark>Machangara</Landmark> que baña la <Concept_Settlement>Ciudad</Concept_Settlement> por el Mediodía: la plaza principal es grande, en una de sus fachadas está el Palacio del Presidente, en la opuesta la Casa de la <Concept_Settlement>Ciudad</Concept_Settlement>, en la tercera la Catedral, y en la quarta el Palacio Episcopal, y en medio hay una hermosa fuente; las casas son altas y de ##hermosa apariencia, y las Iglesias y Conventos los mejores de la <Territory>América</Territory>, especialmente la fachada del de San Francisco de excelente arquitectura, y no menos el Colegio que tenían los Regulares de la extinguida Compañía: tiene siete <Concept_District>Parroquias</Concept_District> de otros tantos <Concept_Settlement>barrios</Concept_Settlement> en que se divide la <Concept_Settlement>Ciudad</Concept_Settlement>, y son el Sagrario, Santa Bárbara, San Blas, San Sebastián, San Roque, <Settlement>San Marcos</Settlement> y Santa Prisca: dos Conventos de Religiosos de Santo Domingo, tres de San Francisco con el Colegio de San Buenaventura, dos de la Merced, uno de San Agustín, otro de PP. Beletmitas, y un Colegio y Noviciado de los expresados Regulares de la Compañía; cinco Monasterios de Religiosas que son dos de Carmelitas, uno de la Concepción, otro de Santa Clara, otro de Santa Catalina de Sena, y una Casa para mugeres retiradas que llaman el Beaterío con título de Santa Marta, baxo de la dirección de los PP. de la Merced: adornan esta <Concept_Settlement>Capital</Concept_Settlement> dos Universidades, la una de San Gregorio Magno, que era de los <humanGroup type="religious_group">Jesuítas</humanGroup>, y la más ilustre, fundada por Don <persName>Fe<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0377@@@<zbr/>
-<zbr/>
-#lipe II</persName> el año de 1586, y enriquecida con los mismos privilegios que la de <Settlement>Salamanca</Settlement> el de 1621; la otra de anto Tomás de Aquino de los <humanGroup type="religious_group">PP. Dominicos</humanGroup>: dos Colegios Reales, el uno de San Luis Rey de Francia, con título de Colegio Mayor concedido por Don <persName>Felipe V</persName>, y al mismo tiempo Seminario que fundó el Obispo Don <persName>Luis López de Solís</persName>, del Orden de San Agustín, el año de 1594, consignado a los Regulares de la Compañía que lo gobernaron hasta su expulsión: este Colegio ha producido muchos Arzobispos, Obispos y hombres ilustres por su literatura, hoy se gobierna por un Eclesiástico, y su Rector es un Canónigo de aquella Iglesia Catedral; el otro Colegio es de San Fernando Rey de España, baxo la dirección de los Religiosos de Santo Domingo: los PP. Franciscanos tienen el Colegio ya nombrado de San Buenaventura, y los Agustinos la Academia de San Fulgencio donde confieren grado de Doctor: dos Hospitales, uno para hombres y otro para mugeres, que es fundación del Señor <persName>Ochoa</persName>, y ambos están al ##cuidado de los PP. Betletmitas: el Tribunal de la <Concept_Territory>Real Audiencia</Concept_Territory> erigida el año de 1563, extinguida el de 1718, y restablecida el de 1739, y además de este hay los de las Rentas Reales, de Cruzada, y de la Santa Inquisición dependiente del de <Settlement>Lima</Settlement>: además de los templos dichos hay dos Capillas, una dentro de la <Concept_Settlement>Población</Concept_Settlement>, baxo de una espaciosa bóveda o arco de piedra de primorosa arquitectura, dedicada a la Reyna de los <Territory>Angeles</Territory> con este título; y la otra con el de la <Territory>Vera-Cruz</Territory> en el egido del <Concept_Landmark>llano</Concept_Landmark> de <Landmark>Añaquito</Landmark>, sepulcro y entierro del Virrey <persName>Blasco Nuñez Vela</persName>: en uno de los <Concept_Settlement>arrabales</Concept_Settlement> hay un fuerte y anchuroso puente para pasar el <Concept_Landmark>río</Concept_Landmark> <Landmark>Machangara</Landmark> de hermosa construcción, sin que conste los artífices que lo hicieron: es Cabeza de <Concept_Territory>Obispado</Concept_Territory> erigido el año de 1545, sufragáneo del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santa Fe</Territory>: en el de 1736 fueron enviados a esta <Concept_Settlement>Ciudad</Concept_Settlement> por la Acádemia da las Ciencias de <Settlement>París</Settlement> para hacer diferentes observaciones astronómicas y físicas los Señores Don <persName>Luis Godin</persName>, Don <persName>Pedro Bouguer</persName>, Don <persName>Carlos de la Con<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0378@@@<zbr/>
-<zbr/>
-#damine</persName> y otros, a quienes acompañaron los Tenientes de Navio Españoles Don <persName>Jorge Juan</persName> y Don <persName>Antonio de Ulloa</persName>; y habiendo concluido con acierto sus ##trabajos perpetuaron la memoria en una inscripción esculpida en alabastro, fixa en la pared de la Iglesia de los Regulares de la Compañía, que es la siguiente. <zbr/>
-#Observationibus Ludovici Godin, <persName>Petri Bouguer</persName>, <persName>Caroli Mariae de la Condamine</persName>, a Regia Parisiensi Scientiarum Academia, inventa sunt Quiti, Latitudo bujusce templi australis grad. 0. min. 13. sec. 18. Longitudo occidentalis ab observatorio Regio grad. 81. min. 22. Declinatio acus magneticae à borea ad Orientem, exeunte anno 1736, grad. 8. min. 45, anno 1742 grad. 8. min. 20. Inclinatio ejusdem infra Orizontem, parte boreali, conchae anno 1739 grad. 12. Quiti 1741 grad. 15. Altitudines supra libellam maris geometrice collectae in exapedis Parisiensibus spectabiliorum nive perenni hujus Provinciae montium, quorum plerique flammas evomuerunt: <Settlement>Cota-cache</Settlement> 2567, <Settlement>Cayambur</Settlement> 3028, Antisana 3016, <Settlement>Cotopaxi</Settlement> 2952, <Settlement>Tunguragua</Settlement> 2623, Sangay etiam nunc ardentis 2678, <Settlement>Chimboraso</Settlement> 3220, Ilinisa 2717, Soli Quitensis in foro majori 1462, Crucis in proximo Pichincha montis vertice conspicuae 2042 acutioris ac lapidei cacuminis, nive plerumque operti 2432 ut et nivis Infimae permanentis in montibus nivosis: media elevatio mercurii in barometro suspensi in Zona Tórrida, caque parum variabilis in ora marítima pollicum 28. linearum 0. Quiti poll. 20. lin. 0 1/4 in Pichinche ad crucem poll. 17. lin. 7 ad nivem poll. 16. lin. 0. spiritus vini qui in thermometro Reaumuriano à partibus 1000 incipiente gelu ad 1080 partes in aqua fervente intumescit: dilatatio, Quiti à partibus 1008 ad partes 1018 juxta <Concept_Landmark>mare</Concept_Landmark> à 1017 ad 1029 in fastigio Pichinche à 995 ad 1012. Soni velocitatis unius minuti secundi intervalo hexapedarum 175. Penduli simplicis equinoctialis, unius minuti secundi temporis medii, in altitudine Soli Quitensis Archetypus. <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0379@@@<zbr/>
-<zbr/>
-#''(Mensurae naturalis exemplar, utinam et universalis) AEqualis 5079/10000 Hexapedae, seu pedibus 3. pollicibns o. lineis 6. 83/100 major in proximae maris littore 27/100 lin. minar in apice Pichinche 16/100 lin. Refractio Astronomica Otizontalis sub AEquatore media, juxta <Concept_Landmark>mare</Concept_Landmark> 27. min. ad nivem in <Settlement>Chimboraso</Settlement> 19'51"; ex qua et aliis observatis, Quiti 22'50" Limborum inferiorum Solis in <Settlement>Tropicis</Settlement> Dec. 1736 et Junii 1737, distantia instrumento dodecapedalia mensurata grad. 47. min. 28. sec. 36. ex qua positis diametris Solis, min. 32. sec. 37. et 31'33." Refractione in 66. grad. altitudinis 0'15" Parallaxi vero 4'40" eruitur obliquitas Eclípticae, circa Equinoctium Martii 1737. grad. 23. min. 28. sec. 28. Stellae trium in Baltheo Orionis meditae (Bayero E) declinatio australis Julio 1737 grad. 1. min. 23. sec. 40. Ex arcu graduum plusquam trium reipsa dimenso gradus Meridiani, seu latitudinis primus, ad libellam maris reductus Hexap. 56650. Quorum memoriam ad Physices, Astronomiae, Geographiae, Nautice incrementa hoc marmore parieti Templi Collegii Maximi Quitensis Soc. Jesu affixo, hujus et posteri AEvi utilitati V.D.C. Spsissimi Observatores anno Christi M.DCC.XLII. ''<zbr/>
-<zbr/>
-#Don <persName>Carlos de la Condamine</persName> construyó también la Meridiana en la Terraza del Colegio de la Compañía, pero habiéndola hecho sobre ladrillos se perdió con el ##tiempo, y el año de 1766 se construyó otra sobre piedra en el mismo sitio que estaba, poniendo en la pared inmediata la siguiente inscripción esculpida en mármol. <zbr/>
-<zbr/>
-#''Ab Academicis Parisien. lateritio inaequali solo A. 1736. Superinducta linea Meridiana temporum injuria, Gnomone avulso, plane deleta, hanc stratis lapidibus incisam, Magnetica Acu 10. grad. ad Orientem declinante XII. Kal. Jan. 1763, Gnomone restituto, produxere, et Heliorologium quadrifons, 13. min. 17. sec. in boream inclinans, in hac Rectorali Area VIII. Kal. Majas 1766 Spirali columnae lapídea communi Studio AA. PP. (id est Academici Pichinchenses imposuere).'' <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0380@@@<zbr/>
-<zbr/>
-#Esta misma Academia Pichinchense proyectó y efectuó el bello paseo fuera de la <Concept_Settlement>Ciudad</Concept_Settlement> a la salida de <Settlement>Santa Prisia</Settlement> en la <Concept_Landmark>llanura</Concept_Landmark> ##de <Landmark>Añaquito</Landmark>, poniendo en la fachada interior de la puerta por donde se entra la siguiente inscripción en una lápida de mármol. <zbr/>
-<zbr/>
-#Idea del Señor Teniente Coronel Don <persName>Juan Antonio Zelaya</persName>, Presidente de la <Concept_Territory>Real Audiencia</Concept_Territory>, Gobernador y Comandante General de esta <Concept_Territory>Provincia</Concept_Territory> etc. Obra de los Señores Alcaldes Ordinarios Don <persName>Clemente Sánchez</persName>, Caballero del Orden de Santiago, <persName>Marqués de <Concept_Settlement>Villa</Concept_Settlement>-Orellana</persName>, Vizconde de <Settlement>Antisana</Settlement> etc., y Don <persName>Miguel de Olmedo</persName>, Comisario de Guerra etc. quienes a expensas propias ofrecen al público este recreo. Año 1767.<zbr/>
-<zbr/>
-#El vecindario de <Settlement>Quito</Settlement> se compone de 58.000 habitantes <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Criollos</humanGroup>, <humanGroup type="social_group">gente de color</humanGroup>, e <humanGroup type="social_group">Indios</humanGroup>; entre los primeros hay seis títulos de Marqués, uno de Conde, y muchos Caballeros de las Ordenes Militares y familias ilustres: los <humanGroup type="social_group">Criollos</humanGroup> son dóciles, humanos, corteses, liberales, amantes de los estrangeros, inclinados a la piedad, y de despierto ingenio y capacidad: los Indios son los más cultos del <Concept_Territory>Reyno</Concept_Territory>, sumamente hábiles en toda especie de artes y oficios, particularmente en la pintura y escultura. El temperamento es tan benigno que indiferentemente se viste todo el año ropa de seda y de lana sin incomodidad: abunda de toda especie de frutos exquisitos ##de que la proveen y abastecen las <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Settlement>Pueblos</Concept_Settlement> de su <Concept_Territory>jurisdicción</Concept_Territory>, de modo que la plaza está hecha un vergel de frutas, flores, aves, hortalizas, y quanto puede desear la imaginación para regalo de la vida, y todo muy barato; hacia en otro tiempo un lucroso comercio que hoy ha decaído mucho. En medio de las circunstancias referidas tiene el contraresto de ser muy propensa a tempestades y terremotos que han causado mucho daño, especialmente en el que experimentó el año de 1755: tiene un Cuerpo de Milicias establecido después del tumulto que movió la plebe el año de 1765: es patria de muchas personas ilustres en virtud, armas y letras, como son <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0380@@@<zbr/>
-<zbr/>
-#(Mensurae naturalis exemplar, utinam et universalis) AEqualis 5079/10000 Hexapeda, seu pedibus 3. pollicibns o. lineis 6. 83/100 major in próxima maris littore 27/100 minar in ápice Pichinche 16/100 Refractio Astronómica Otizontalit sub AEquatore media, juxta <Concept_Landmark>mare</Concept_Landmark> 27. min. ad nivem in <Settlement>Chimboraso</Settlement> 19 51''; ex qua et aliis observatis, Quiti 22' 50 Limborum inferiorum Solis in <Settlement>Tropicis</Settlement> Dec. 1736 ct Junii 1737, distantia instrumento dodecapedalia mensurata grad. 47. min. 28. sec. 36. ex qua positis diametris Solis, min. 32. sec. 37. etc. 31' 33." Refractione in 66. grad. altitudinis o 15" Parallaxi vero 4' 40" eruitur obliquitas Eclíptica, cerca Equinoctium Martii 1737. grad. 23. min. 28. sec. 28. Stellcc trium in Baltheo Orionis medite (Bayero E) declinatio australis Julio 1737 grad. 1. min. 23. sec. 40. Ex arcu graduum plusquam trium reipsa dimenso gradus Meridiani, seu latitudinis primus, ad libellam maris reductus Hexap. 56650. Quorum memoriam ad Physices, Astronomía, Geographia, Naatice incrementa hoc marmore parieti Templi Collegii Maximi Quitensis Soc. Jesu affixo, hujus ct posteri AEvi utilitati V.D.C. Spsissimi Observatores anno Christi M.DCC.XLII. Don <persName>Carlos de la Condamine</persName> construyó también la Meridiana en la Terraza del Colegio de la Compañía, pero habiéndola hecho sobre ladrillos se perdió con el tiempo, y el año de 1766 se construyó otra sobre piedra en el mismo sitio que estaba, poniendo en la pared inmediata la siguiente inscripción esculpida en mármol. Ab Academias Parisién, lateritio incequali solo A. 1736. Superinducta linea Meridiana temporum injuria, Gnomone avulso, plañe deleta, hanc stratis hpidibus incisam, Magnética Acu 10. grad. ad Orientetn declinante XII. Kal. Jan. 1763, Gnomone restituto, produxere, ct Heliorologium quadrifons, 13. min. 17. sec. in boream inclinans, in hac Rectorali Area VIH. Kal. Majas 1766 Spirali columna lapídea communi Studio AA, PP. (id est Academici Pichimchentcs imposuere). " <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0381@@@<zbr/>
-<zbr/>
-ßßß<zbr/>
-#La Venerable Madre Mariana de Jesús, Florez y Paredes, llamada la Azuzena de <Settlement>Quito</Settlement>, de cuya Canonización se trata. <zbr/>
-La Madre Sor Mariana de Jesús. <zbr/>
-Fr. <persName>Bernardo Bohorques</persName>, Religioso Mercenario, que murió con fama de santidad. <zbr/>
-Los PP. <persName>Pedro de Alcocer</persName> y <persName>Christóval de Cevallos</persName>, de la extinguida Compañía de Jesús, Varones Apostólicos y zelosos Misioneros en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Mainas</Territory>. <zbr/>
-Don Fr. <persName>Domingo Valderrama</persName>, Arzobispo de <Territory>Santo Domingo</Territory>. <zbr/>
-Don Fr. <persName>Luis de Armendariz</persName>, Monge Bernardo, Obispo de <Territory>Jaca</Territory>, Arzobispo de <Territory>Tarragona</Territory> y Virrey de <Territory>Cataluña</Territory>. <zbr/>
-Don Fr. <persName>Gaspar de Villaroel</persName>, del Orden de San Agustín, Obispo de <Territory>Santiago de Chile</Territory> y de <Territory>Arequipa</Territory>, célebre escritor. <zbr/>
-Don <persName>Juan Machado de Chaves</persName>, Obispo de <Territory>Popayán</Territory>, autor de la obra del perfecto Confesor. <zbr/>
-Don <persName>Vasco de Contreras Valverde</persName>, Comisario de Cruzada, sugeto de suma literatura. <zbr/>
-Fr. <persName>Joseph Maldonado</persName>, del Orden de San Francisco, Comisario General de su Orden, autor de muchas obras. <zbr/>
-Don <persName>Joseph de Peralta y Mendoza</persName>, Catedrático de <Settlement>Salamanca</Settlement>. <zbr/>
-Don <persName>Martín de Peralta</persName>, Oidor de <Settlement>Quito</Settlement> y de <Settlement>México</Settlement>, exemplo de Ministros por su integridad e inteligencia. <zbr/>
-Don <persName>Pedro Maldonado y Sotomayor</persName>, joven de tan sobresaliente instrucción en las Matemáticas y la Física que mereció que la Academia Real de las Ciencias de París y la Sociedad Real de <Settlement>Londres</Settlement> lo nombrasen individuo de estos Cuerpos; Gentilhombre de Cámara de S. M. y Gobernador de <Territory>Esmeraldas</Territory>, que murió en <Settlement>Londres</Settlement> en la flor de su edad. <zbr/>
-El Inca <persName>Atahuallpa</persName>, último Emperador del <Territory>Perú</Territory>. <zbr/>
-Don <persName>Lope de Armendariz</persName>, primer <persName>Marqués de Cadreita</persName>, General de Galeones, <zbr/>
-$$$<zbr/>
-<zbr/>
-#sin otros infinitos de que no permite hacer mención el artículo de un Diccionario; pero bastan para ilustrar a <Settlement>Quito</Settlement> que dista 304 leguas de <Settlement>Santa Fe</Settlement> <Concept_Settlement>Capital</Concept_Settlement> del <Territory>Nuevo Reyno de Grana<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0382@@@<zbr/>
-<zbr/>
-#da</Territory>, 200 de <Settlement>Lima</Settlement>, y 80 de las <Concept_Landmark>Costas</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>: está en 298 gr. 18 min. 45 seg. de long. del Meridiano de <Territory>Tenerife</Territory>, y en 13 min. de lat. <zbr/>
-<zbr/>
-___OBISPOS QUE HA HABIDO EN QUITO. ___<zbr/>
-<zbr/>
-ßßß<zbr/>
-#1 Don <persName>Garci Diaz Arias</persName>, primer Obispo electo el año de 1545, y consagrado en <Settlement>Lima</Settlement>, murió el de 1562: el Maestro <persName>Gil González Dávila</persName> dice que no llegó a consagrarse, y que su elección fue el año de 1550; pero en uno y otro está equivocado según consta del Archivo de aquella <Concept_Settlement>Ciudad</Concept_Settlement>. <zbr/>
-2 Don <persName>Pedro de la Peña</persName>, del Orden de Santo Domingo, natural de <Settlement>Covarrubias</Settlement> en el <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Burgos</Territory>, fue Colegial en el Colegio de <Settlement>San Gregorio de Valladolid</Settlement>, pasó a las <Territory>Indias</Territory> el año de 1550, fue Catedrático en la Universidad de <Territory>México</Territory>, zeloso Misionero en la conversión de los <humanGroup type="social_group">Indios</humanGroup>, presentado para Obispo de <Territory>Vera Paz</Territory>, de donde pasó promovido a <Settlement>Quito</Settlement> el año de 1563, asistió y presidió en el Concilio que se celebraba en <Settlement>Lima</Settlement> por muerte de Don Fr. <persName>Gerónimo de Loaisa</persName>, fundó el Convento de Religiosas de la Concepción, en su patria una obra pía para deudos y parientes, y en <Settlement>Lima</Settlement> una Capilla, murió en esta <Concept_Settlement>Ciudad</Concept_Settlement> durante el Concilio el año de 1588. <zbr/>
-3 Don Fr. <persName>Antonio de San Miguel y Solier</persName>, del Orden de San Francisco, Criollo del <Territory>Perú</Territory>, ilustre en santidad y méritos, y excelente Predicador, fue Provincial, se confesaba tres veces cada día, una para decir Misa, otra después, y la tercera al anochecer, el Rey Don <persName>Felipe II</persName> noticioso de su virtud le presentó para el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Chile</Territory>, y en esta calidad asistió al Concilio Provincial que celebró en <Settlement>Lima</Settlement> Don Fr. <persName>Gerónimo de Loaisa</persName>, pidió licencia para renunciar el <Concept_Territory>Obispado</Concept_Territory>, y en vez de concedérsela fue promovido al de <Settlement>Quito</Settlement> el año de 1590, murió en <Settlement>Riobamba</Settlement> tres jornadas antes de llegar a aquella <Concept_Settlement>Ciudad</Concept_Settlement> el de 1591. <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0383@@@<zbr/>
-<zbr/>
-#4 Don Fr. <persName>Luis López de Solís</persName>, del Orden de San Agustín, natural de <Settlement>Salamanca</Settlement>, pasó al <Territory>Perú</Territory> el año de 1546, se graduó de Maestro, y fue Catedrático de Vísperas y de Prima en la Universidad de <Territory>Lima</Territory>, Calificador del Santo Tribunal, Consultor del Virrey Don <persName>Francisco de Toledo</persName>, el Señor Don <persName>Felipe II</persName> le presentó para el <Concept_Territory>Obispado</Concept_Territory> del <Territory>Río de la Plata</Territory>, luego le trasladó al del <Landmark>Paraguay</Landmark>, y nombrado para el de la <Territory>Paz</Territory> pasó promovido a <Settlement>Quito</Settlement> el año de 1593, fundó tres <Concept_District>Parroquias</Concept_District> y otros tantos Conventos de Monjas en diferentes <Concept_Settlement>Pueblos</Concept_Settlement>, celebró dos Sínodos, consagró 203 Aras, confirmó en <Territory>Lima</Territory>, <Settlement>Truxillo</Settlement> y <Settlement>Quito</Settlement> 122.873 almas, en su Convento de <Territory>Lima</Territory> dotó la fiesta de San Agustín y le dio un cáliz de oro, visitó su <Concept_Territory>Obispado</Concept_Territory> dió muchas limosnas, y una de consideración al Convento de San Agustín de <Settlement>Salamanca</Settlement> para reparar el daño que había hecho un incendio, fue de opinión que no convenía que los Religiosos tuviesen los <Concept_District>Curatos</Concept_District>, pasó promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> el año de 1600, y murió antes de entrar en <Territory>Lima</Territory> con fama de santidad. <zbr/>
-5 Don Fr. <persName>Salvador de Ribera</persName>, del Orden de Santo Domingo, natural de <Territory>Lima</Territory>, hijo del célebre <persName>Nicolás de Ribera</persName>, que fue uno de los Conquistadores del <Territory>Perú</Territory> y Pobladores de <Territory>Lima</Territory>, donde fue tres veces Prior y edificó el magnífico Convento de su Orden, dos veces Provincial, Catedrático en la Universidad de aquella <Concept_Settlement>Capital</Concept_Settlement>, Calificador del Santo Oficio y sobresaliente Predicador, electo Obispo de <Territory>Quito</Territory> el año de 1607, murió el de 1612. <zbr/>
-6 Don <persName>Fernando Arias de Ugarte</persName>, de quien hemos tratado en la serie de los Arzobispos de <Territory>Santa Fe</Territory>, a que fue promovido el año de 1617. <zbr/>
-7 Don Fr. <persName>Alonso de Santillana</persName>, del Orden de Santo Domingo, natural de <Settlement>Sevilla</Settlement>, siendo novicio murió su hermano y quedó por heredero del Mayorazgo, y lo renunció prefiriendo seguir en la Religión, donde fue Presentado, Maestro y gran Predicador, Prior <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0384@@@<zbr/>
-<zbr/>
-#en los Conventos de su Orden de Alcaráz, Marchena y Almagro, Provincial de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Andalucía</Territory>, y electo Obispo de <Territory>Quito</Territory> el año de 1618; era sumamente limosnero, dio al Convento de <Settlement>San Pablo de Sevilla</Settlement> muchos quadros de Santos de la Orden que están encima de las sillas del Coro, muchos libros y ornamentos, y seis mil pesos para reedificar la Capilla en que están enterrados sus padres en el Colegio de <Settlement>San Salvador</Settlement>, y una Capellanía pagando ocho reales de limosna por cada Misa, murió el año de 1620. <zbr/>
-8 Don Fr. <persName>Francisco de Sotomayor</persName>, del Orden de San Francisco, natural de <Settlement>Santo Tomé</Settlement> en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Tuy</Territory>, fue Guardian de los Conventos de <Settlement>Monforte</Settlement> y <Settlement>Salamanca</Settlement>, Difinidor en el Capítulo General que se celebró en <Settlement>Roma</Settlement>, el Señor Don <persName>Felipe IV</persName> le presentó para el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Cartagena de Indias</Territory>, y trasladado al de <Territory>Quito</Territory> el año de 1623, dio a su Iglesia un frontal de plata que costó quatro mil ducados y a los pobres infinitas limosnas, pasó promovido al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> el año de 1628, y antes de llegar murió en <Settlement>Potosí</Settlement>, de donde se trasladó el cuerpo a su patria y <Concept_District>Parroquia</Concept_District> en que se bautizó, habiéndola dexado quatrocientos ducados de renta. <zbr/>
-9 Don Fr. <persName>Pedro de Oviedo</persName>, Monge de San Bernardo, de quien hemos hablado entre los Arzobispos de <Territory>Santo Domingo</Territory> y de <Territory>Charcas</Territory>. <zbr/>
-10 Don <persName>Agustín de Ugarte y Saravia</persName> pasó del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Arequipa</Territory>, gobernó quatro años, y murió el de 1650. <zbr/>
-11 Don <persName>Alonso de la <Concept_Landmark>Peña</Concept_Landmark> Montenegro</persName>, natural de la <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Padrón</Settlement> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Galicia</Territory>, estudió en la Universidad de <Territory>Santiago</Territory>, donde fue Catedrático de Artes y Colegial en el Colegio de su Universidad, después en el de San Bartolomé de <Settlement>Salamanca</Settlement>, Canónigo Magistral de Púlpito de la Iglesia de <Settlement>Mondoñedo</Settlement>, y luego de la Arzobispal de <Territory>Santiago</Territory>, el Señor Don <persName>Felipe IV</persName> le presentó para Obispo de <Territory>Quito</Territory> el año de 1652, y gobernó aquella Igle<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0385@@@<zbr/>
-<zbr/>
-#sia con sumo acierto veinte y seis años, escribiendo la célebre obra intitulada Itinerario para Párrocos de <humanGroup type="social_group">Indios</humanGroup>, que ha sido y será el norte de los Curas, murió el año de 1688. <zbr/>
-12 Don <persName>Sancho de Andrade y Figueroa</persName> pasó de Obispo de <Territory>Guamanga</Territory> a Obispo auxiliar del anterior por su avanzada edad, y después de su muerte tomó posesión el referido año, gobernando aquella Diócesis hasta el de 1702 en que murió. <zbr/>
-13 Don <persName>Diego Ladrón de Guevara</persName> pasó promovido también del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guamanga</Territory> a este de <Territory>Quito</Territory>, y destinado luego a Virrey de <Territory>Lima</Territory> el año de 1710, murió en <Settlement>México</Settlement> viniendo a <Territory>Europa</Territory> el de 1718. <zbr/>
-14 Don <persName>Luis Francisco Romero</persName> promovido de la Iglesia de <Territory>Santiago de Chile</Territory> en 1722, y de esta de <Territory>Quito</Territory> al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> el año de 1726. <zbr/>
-15 Don <persName>Juan Gómez de Frias</persName> pasó del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Popayán</Territory>, y murió el año de 1729. <zbr/>
-16 Don <persName>Juan de Escandan</persName> fue promovido de la Iglesia de la Imperial de <Territory>Chile</Territory>, y antes de entrar en <Territory>Quito</Territory> al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Lima</Territory> el año de 1732. <zbr/>
-17 Don <persName>Andrés de Paredes Polanco y Armendariz</persName>, natural de <Territory>Lima</Territory>, electo Obispo de la Imperial de <Territory>Chile</Territory>, y antes de tomar posesión promovido a <Territory>Quito</Territory> el año de 1731, murió en el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Sangolqui</Settlement> el de 1745. <zbr/>
-18 Don <persName>Juan Nieto Polo del Aguila</persName>, natural de <Territory>Popayán</Territory> pasó del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santa Marta</Territory> el año de 1749, murió el de 1759. <zbr/>
-19 Don <persName>Pedro Ponce y Carrasco</persName>, natural de <Settlement>Sevilla</Settlement>, Obispo in partibus de <Settlement>Adramite</Settlement>, y auxiliar de <Territory>Cuba</Territory>, electo de <Territory>Quito</Territory> el año de 1762, y tomó posesión el de 1764, murió el de 1770. <zbr/>
-20 Don <persName>Blas Sobrino y Minayo</persName> electo Obispo de <Territory>Cartagena de Indias</Territory>, y promovido a la Iglesia de <Territory>Quito</Territory> el año de 1776. <zbr/>
-21 Don <persName>Joseph Pérez Calama</persName>, natural de <Settlement>Salamanca</Settlement>, Dean, de la Santa Iglesia de <Settlement>Valladolid de Mechocán</Settlement>, electo Obispo de <Territory>Quito</Territory> este año de 1788.<zbr/>
-$$$<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0386@@@<zbr/>
-<zbr/>
-#___PRESIDENTES, GOBERNADORES y Comandantes Generales del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.___<zbr/>
-ßßß<zbr/>
-# 1 El Licenciado <persName>Cañaveral</persName>, primer Presidente Togado que consta en los documentos de aquel archivo, murió allí el año de 1586. <zbr/>
-2 El Doctor <persName>Miguel Barros de San Millán</persName> entró en 1588, fue separado de la Presidencia, y llamado a <Settlement>Lima</Settlement> por el Virrey del <Territory>Perú</Territory> el año de 1589. <zbr/>
-3 El Licenciado <persName>Marañon</persName> tomó posesión el año de 1592, murió el siguiente de 1593. <zbr/>
-4 El Licenciado <persName>Miguel de Ibarra</persName> en 1595, murió en 1597.<zbr/>
-5 El Licenciado <persName>Martín de Recalde</persName> pasó promovido de Oidor de <Settlement>Santa Fe</Settlement> a esta Presidencia. <zbr/>
-6 Don <persName>Antonio de Murga</persName> pasó de Oidor de <Settlement>México</Settlement>, y murió el año de 1603. <zbr/>
-7 El Licenciado <persName>Alonso Pérez de Salazar</persName>, salió promovido a Presidente de <Territory>Charcas</Territory>. <zbr/>
-8 El Licenciado <persName>Juan de Lizarazu</persName>, Caballero del Orden de Santiago, fue promovido de la Presidencia de <Territory>Charcas</Territory>, que estaba sirviendo, a esta de <Territory>Quito</Territory> el año de 1613, murió el de 1619. <zbr/>
-9 Don <persName>Martín de Arriola</persName>, Caballero del Orden de Alcántara, entró el año de 1623, murió el de 1626. <zbr/>
-10 Don <persName>Pedro Vázquez de Velasco</persName>, pasó promovido a la Presidencia de <Territory>Charcas</Territory>. <zbr/>
-11 Don <persName>Antonio Fernando de Heredia</persName>, Caballero del Orden de Santiago. <zbr/>
-12 Don <persName>Diego del Corro Carrascal</persName>, primer Inquisidor de <Territory>Cartagena de Indias</Territory>, murió allí. <zbr/>
-13 El Doctor Don <persName>Alonso de la <Concept_Landmark>Peña</Concept_Landmark> Montenegro</persName>, Obispo de aquella Diócesis, nombrado Presidente el año de 1658, que exerció hasta el de 1663. <zbr/>
-14 Don <persName>Lope Antonio de Munive</persName>, Caballero del Orden de Alcántara el año de 1664, murió el de 1670. 15 Don <persName>Mateo de Mata</persName>, de la misma Orden que el anterior, el año de 1672. <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0387@@@<zbr/>
-<zbr/>
-#16 Don <persName>Francisco López Dicastillo</persName>, Caballero del Orden de Calatrava, el año de 1688 hasta el de 1705. 17 Don <persName>Juan de Sosaya</persName>, del Orden de Santiago, el año de 1711, murió el de 1713. <zbr/>
-18 Don <persName>Santiago de Larraín</persName>, del Orden de Santiago, nombrado interinamente el año de 1715, confirmado por el Rey el de 1721, acabó la provisión de su tiempo el de 1726. <zbr/>
-19 Don <persName>Dionisio de Alcedo y Herrera</persName> entró en <Settlement>Quito</Settlement> el año de 1728, gobernó hasta el de 1736. <zbr/>
-20 Don <persName>Joseph de Araujo y Río</persName> tomó posesión el referido año hasta el de 1743. <zbr/>
-21 El Doctor Don <persName>Fernando Sánchez de Orellana</persName>, Marqués de Solanda, el año de 1745 hasta el de 1753. <zbr/>
-22 Don <persName>Juan Pio de Montufar y Fraso</persName>, Marqués de <Concept_Landmark>Selva</Concept_Landmark> Alegre, Caballero del Orden de Santiago y del Consejo de <Territory>Indias</Territory>, tomó posesión el dicho año, y murió el de 1761. <zbr/>
-23 Don <persName>Juan Antonio Zelaya y Vergara</persName>, Teniente Coronel de los Reales Exércitos, pasó del <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> el año de 1766, y gobernó hasta el de 1767. <zbr/>
-24 Don <persName>Joseph Angel Diguja y Quiñones</persName>, Coronel de los Reales Exércitos, pasó promovido del <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> el año de 1667 hasta el de 1777 que se suprimió la Presidencia, y entró en calidad de Regente. <zbr/>
-25 Don <persName>Joseph García de León y Pizarro</persName> hasta el año de 1783 que pasó promovido a Plaza del Consejo de <Territory>Indias</Territory>. <zbr/>
-26 Don <persName>Juan Joseph de Villaluenga y Marfil</persName> que como Regente gobierna desde el año de 1783.<zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_13864§§§<zbr/>
-#Tiene el mismo nombre de Quito un <Concept_Landmark>río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, nace de una <Concept_Landmark>laguna</Concept_Landmark> inmediata a otra de donde tiene su origen el de <Landmark>San Pablo</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> ##de <Territory>Novita</Territory>, y a poco espacio se unen ambos y forman el de <Landmark>Atrato</Landmark>.<zbr/>
-<zbr/>
-§§§id_13865§§§<zbr/>
-QUIVA, <Concept_Territory>Provincia</Concept_Territory> de la <Territory>California</Territory> en la <Territory>América Septentrional</Territory>, está muy poco poblada de <Concept_Group>Indios bárbaros</Concept_Group>, por lo qual está poco <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0388@@@<zbr/>
-<zbr/>
-#conocida, entre 30 y 35 gr. de lat. sept.<zbr/>
-<zbr/>
-§§§id_13866§§§<zbr/>
-QUIVIO, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Asiento de Minas</Concept_Settlement> de Plata de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chumbivilcas</Territory> en el <Territory>Perú</Territory>.<zbr/>
-<zbr/>
-§§§id_13867§§§<zbr/>
-QUIVIQUINTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acaponeta</Territory> en <Territory>Nueva España</Territory>, distante 8 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
-<zbr/>
-§§§id_13868§§§<zbr/>
-QUIVIRA, <Concept_Territory>Provincia</Concept_Territory> del <Territory>Nuevo México</Territory> en la <Territory>América Septentrional</Territory>, descubierta por <persName>Francisco Vázquez Coronado</persName>, natural de <Settlement>Salamanca</Settlement>, de orden del Virrey de <Territory>Nueva España</Territory> Don <persName>Antonio de Mendoza</persName>, el año de 1542, es <Concept_Territory>país</Concept_Territory> llano, sin árboles, piedras ni otra cosa; estaba muy poco poblado, y sus naturales andan desnudos cubriéndole las partes vergonzosas con cuero de que también hacen calzados, las mugeres hacen vanidad de tener el cabello muy largo, no tienen pan de ninguna especie para comer, y su principal alimento es la carne, que las más veces comen cruda porque no tienen leña ni para hacer fuego más que la boñiga de vaca, cuyo sebo también comen como lo sacan de la res, bebiendo la sangre caliente; andan vagando muchos juntos, y mudan freqüentemente de mansión como los aduares de los Moros, siguiendo el pasto de los bueyes que es su mayor y casi única riqueza: estos son del tamaño de los de <Territory>Europa</Territory>, aunque las astas son más cortas, tienen una gran joroba encima de la cruz, y de medio cuerpo adelante una lana muy larga, de modo que por la frente les cuelgan grandes guedejas y parece que son barbas, la cola es larga y peluda al extremo, son muy ligeros y feos a la vista, de ellos sacan estos <humanGroup type="social_group">Indios</humanGroup> su comida, bebida, vestido, calzado etc. de las pieles hacen sogas, de los huesos punzones, de los nervios y pelo hilo, de los cuernos, buches y vexigas vasos, de las boñigas lumbre, de las terneras odres para tener agua, y en fin quantas cosas necesitan para vivir: también hay en esta <Concept_Territory>Provincia</Concept_Territory> otros animales tan grandes como caballos que por tener cuernos y lana muy fina llaman allí carneros, y perros muy corpulentos y forzudos que lidian con un toro, y cargan dos arrobas de peso quando <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0389@@@<zbr/>
-<zbr/>
-#los llevan a caza o se mudan con el ganado a otro parage. Produce el <Concept_Territory>país</Concept_Territory> muchas frutas, como ciruelas, moras, nueces, melones y uvas: gobernaba allí quando llegaron los <humanGroup type="political_group">Españoles</humanGroup> el Cacique o Señor llamado <persName>Tatarrás</persName>, quedáronse con él, para establecerse y poblar, <persName>Andrés Docampo</persName>, Portugués, con Fr. <persName>Juan Padilla</persName>, del Orden de S. Francisco, y otro Religioso, y doce <humanGroup type="social_group">Indios</humanGroup> convertidos de <Territory>Mechoacán</Territory>; pero habiendo dado muerte los <humanGroup type="indigenous_group">Quivirenses</humanGroup> a aquellos escaparon los demás, quedando prisionero el Portugués, que a los diez meses pudo huir con el auxilio de dos perros, y llegó a <Settlement>México</Settlement> con el cabello y barbas muy crecidos, desde entonces no se ha vuelto a tratar de reducir los naturales de esta <Concept_Territory>Provincia</Concept_Territory> que está en 42 gr. de lat. sept. y es de clima templado, abundante en aguas.<zbr/>
-<zbr/>
-§§§id_13869§§§<zbr/>
-QUIXE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Querobamba</Settlement>.<zbr/>
-<zbr/>
-§§§id_13870§§§<zbr/>
-QUIXOS y Macas, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, confina por el N con la de <Territory>Pastos</Territory>, por ##el Sur con la de <Territory>Cuenca</Territory>, por el O con las de <Territory>Quito</Territory>, <Territory>Tacunga</Territory> y <Territory>Ambaro</Territory>, de quienes la divide la <Concept_Landmark>Cordillera</Concept_Landmark> de <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Cotopaxi</Landmark> y <Landmark>Cayamburu</Landmark>, y por el E con el <Concept_Territory>Gobierno</Concept_Territory> Misiones de <Territory>Mainas</Territory>; es <Concept_Territory>país</Concept_Territory> sumamente áspero, montuoso, quebrado y lleno de <Concept_Landmark>ríos</Concept_Landmark>, algunos muy caudalosos, y todos van a parar al <Landmark>Marañon</Landmark>, intransible si no es a pie, como iban los Misioneros que lo atravesaban a <Concept_Landmark>costa</Concept_Landmark> de inmensos trabajos y fatigas para entrar a la de <Territory>Mainas</Territory>; su temperamento es frío, produce mucho algodón y tabaco que tiene particular estimación en todo el <Territory>Perú</Territory>, a donde lo conducen por <Territory>Guayaquil</Territory> y <Territory>Piura</Territory>; el cultivo de estos frutos hace que se apliquen poco al del trigo, maíz y cebada, que siembran solo el preciso para su subsistencia, aunque el terreno es muy fértil en las <Concept_Landmark>llanuras</Concept_Landmark> y <Concept_Landmark>quebradas</Concept_Landmark>; tiene minerales de oro y de polvos azules, y una resina qué llaman allí estoraque, y es en realidad un menjui finísimo; produce gran cosecha de canela que si la beneficiaran sería tan buena como la de <Territory>Ceilan</Territory>, pero sin embargo tie<zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0390@@@<zbr/>
-<zbr/>
-#ne mucha estimación y consumo en las <Concept_Territory>Provincias</Concept_Territory> del <Territory>Perú</Territory>: descubrió este <Concept_Territory>país</Concept_Territory> <persName>Gonzalo Díaz de Pineda</persName> el año de 1536, enviado por <persName>Sebastián de Belalcazar</persName> desde <Settlement>Popayán</Settlement> a investigar la salida del <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>, y adquirir noticias de los países confinantes a él, con cuyas noticias entró a su conquista <persName>Gonzalo Pizarro</persName>, Gobernador de <Territory>Quito</Territory>, el año de 1539; pero el mal suceso y trabajos de esta jornada no permitió verificar sus ideas, y quedó inculto hasta el de 1559 que Don <persName>Andrés Hurtado</persName>, <persName>Marqués de Cañete</persName>, Virrey del <Territory>Perú</Territory>, envió a <persName>Gil Ramírez Dávalos</persName> a conquistarlo y poblarlo, como lo executó reduciendo a sus <humanGroup type="social_group">naturales</humanGroup>. Divídese hoy esta <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> en dos <Concept_District>partidos</Concept_District> que son el de <Territory>Quíxos</Territory> y el de <Landmark>Macas</Landmark>, que por el Oriente confina con el de <Territory>Mainas</Territory>, por el Sur con el de <Territory>Bracamoros</Territory> o <Territory>Yaguarsongo</Territory>, y por el Occidente con la <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>: en ambos <Concept_District>partidos</Concept_District> viven sus naturales en continuo sobresalto y cuidado defendiendo sus casas y <Concept_Structure>chacras</Concept_Structure> de las freqüentes invasiones que hacen los <humanGroup type="social_group">Indios</humanGroup> ##infieles que los rodean por todas partes, de modo que cada <Concept_Settlement>Población</Concept_Settlement> está amenazada de los que habitan los campos y parages de su inmediación, y son numerosas <Concept_Group>naciones</Concept_Group>; y siempre que aquellos <humanGroup type="social_group">vecinos</humanGroup> hostigados de sus correrías toman las armas contra ellos solo consiguen la ventaja de entrar en sus <Concept_Territory>territorios</Concept_Territory> y apresar algunos volviendo sin otro fruto, porque siendo aquellos gentiles gente de ninguna estabilidad, y que vive aun separada de las costumbres racionales, ni tienen asiento determinado en parte alguna, ni formalidad de <Concept_Settlement>Población</Concept_Settlement>: así reduciendo su mayor pérdida a retirarse algo quando los nuestros los persiguen, luego que se ven fuera de este peligro vuelven a recuperar el <Concept_Territory>país</Concept_Territory> acercándose con lentitud a las <Concept_Settlement>Poblaciones</Concept_Settlement>, y quando ha mediado algún tiempo y consideran descuidados a sus vecindarios los acometen repentinamente para robar quanto encuentran que es su principal objeto. Este peligro a que siempre han estado expuestas aquellas <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Settlement>Pueblos</Concept_Settlement> ha sido la principal causa, además de la del Clima, para que se <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0391@@@<zbr/>
-<zbr/>
-#hallen en tanta decadencia, y no se aumente su Pobla##ción que consta de las <Concept_Settlement>Ciudades</Concept_Settlement> y <Concept_Settlement>Pueblos</Concept_Settlement> siguientes. <zbr/>
-<zbr/>
-___En el <Concept_District>partido</Concept_District> de <Settlement>Quixos</Settlement>.___<zbr/>
-<zbr/>
-ßßß<zbr/>
-# CIUDADES. <zbr/>
-<Settlement>Baeza</Settlement> <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<Settlement>Archidona</Settlement>. <zbr/>
-<Settlement>Avila</Settlement>. <zbr/>
-##PUEBLOS. <zbr/>
-<Settlement>La Concepción</Settlement>. <zbr/>
-<Settlement>Loreto</Settlement>. <zbr/>
-###<Settlement>San Salvador</Settlement>. <zbr/>
-<Settlement>Cota Piñi</Settlement>. <zbr/>
-<Settlement>Santa Rosa</Settlement>.<zbr/>
-$$$<zbr/>
-<zbr/>
-#A que se agregan los <Concept_Settlement>Pueblos</Concept_Settlement> de las Misiones de <Settlement>Sucumbios</Settlement> que fundaron los Regulares de la extingui##da Compañía, y aunque el siglo pasado eran diez están hoy reducidos a cinco. <zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>San Diego de los Palmares</Settlement>. <zbr/>
-<Settlement>San Francisco de los Curiquaxes</Settlement>. <zbr/>
-##<Settlement>San Pedro de Alcántara de la Coca</Settlement> o <Settlement>Nariguera</Settlement>. <zbr/>
-###<Settlement>San Joseph de los Abucees</Settlement>.<zbr/>
-<Settlement>San Christóval de los Yaguages</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-___En el <Concept_District>partido</Concept_District> de <Settlement>Macas</Settlement>.___<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Macas</Settlement> <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<Settlement>S. Miguel de Narvaez</Settlement>.<zbr/>
-<Settlement>Barahonas</Settlement>.<zbr/>
-##<Settlement>Yuquipa</Settlement>. <zbr/>
-<Settlement>Juan López</Settlement>.<zbr/>
-<Settlement>Zuña</Settlement>.<zbr/>
-###<Settlement>Pairá</Settlement>.  <zbr/>
-<Settlement>Copueno</Settlement>.  <zbr/>
-<Settlement>Aguayos</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_13871§§§<zbr/>
-#Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> pequeño de esta <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que entra en el de <Landmark>Coca</Landmark>.<zbr/>
-<zbr/>
-§§§id_13872§§§<zbr/>
-QUIZIAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera de partido</Concept_Settlement> de <Settlement>Atlistac</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tlapa</Territory> en <Territory>Nueva España</Territory>, tiene 32 familias de <humanGroup type="social_group">Indios</humanGroup>, es de temperamento frío y húmedo, y su comercio solo se reduce a maíz, porque la suma pobreza en que viven ##no les permite otra cosa, está 3 leguas al O del de <Settlement>Cuapala</Settlement>.<zbr/>
-<zbr/>
-§§§id_13873§§§<zbr/>
-QUIZU, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Canta</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Arahuay</Settlement>.<zbr/>
-<zbr/>
-§§§id_13874§§§<zbr/>
-QULHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_District>partido</Concept_District> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Mexilcaltzinco</Territory> en <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0392@@@<zbr/>
-<zbr/>
-#<Territory>Nueva España</Territory>, tiene 234 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 3 leguas al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
-<zbr/>
-§§§id_13875§§§<zbr/>
-QUOHAN, <Concept_Landmark>Valle</Concept_Landmark> grande, fértil y hermoso de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, llamado así por el nombre del ##Cacique que gobernaba en él quando llegaron los <humanGroup type="political_group">Españoles</humanGroup>.<zbr/>
-<zbr/>
-§§§id_13876§§§<zbr/>
-QUORURUPA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Puerto Seguro</Territory> en el <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark> entre la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Abre Ojos</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>Goerce</Landmark>.<zbr/>
-<zbr/>
-§§§id_13877§§§<zbr/>
-#RABEL, <Concept_Landmark>Punta</Concept_Landmark> de Juan) <Concept_Landmark>Cabo</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Española</Territory> o de <Territory>Santo Domingo</Territory> en la <Concept_Landmark>Costa</Concept_Landmark> del S, entre la de <Landmark>San Nicolás</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> del <Landmark>Agua</Landmark>.<zbr/>
-<zbr/>
-§§§id_13878§§§<zbr/>
-RABIJUNCO, Punta de) <Concept_Landmark>extremidad</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del O y del S de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Inagua</Landmark>.<zbr/>
-<zbr/>
-§§§id_13879§§§<zbr/>
-RABINAL, S. Pablo de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Vera Paz</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado en un hermoso y dilatado <Concept_Landmark>valle</Concept_Landmark> que llaman de <Landmark>San Nicolás</Landmark>, a orilla de un <Concept_Landmark>río</Concept_Landmark> que lo fertiliza y hace abundante de pescado, es de temperamento cálido con moderación, muy abundante de frutos y frutas delicadas, como de ganados, aves y caza, particularmente de cañas dulces; y aun##que es escaso de trigo no se echa menos, así porque casi todos están acostumbrados al pan de maíz, como por la facilidad que tienen de conducirlo en dos días de <Settlement>Suchitepeque</Settlement> donde abunda: la fertilidad de este <Concept_Settlement>Pueblo</Concept_Settlement> y su frondosidad lo hacían antes <Concept_District>Curato</Concept_District> muy apetecido de los Religiosos del Orden de Santo Domingo a que pertenecía hasta que el Rey mandó en toda la <Territory>América</Territory> que fuesen Clérigos: tiene de vecindario 1800 <humanGroup type="social_group">Indios</humanGroup>, y son anexos a él los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Salania</Settlement> y el <Settlement>Chol</Settlement>.<zbr/>
-<zbr/>
-§§§id_13880§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>monte</Concept_Landmark> cerca del <Concept_Settlement>Pueblo</Concept_Settlement> anterior de quién le toma este.<zbr/>
-<zbr/>
-§§§id_13881§§§<zbr/>
-RABO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0393@@@<zbr/>
-<zbr/>
-#<Territory>Buenos Ayres</Territory>, corre al N, y entra en el <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>.<zbr/>
-<zbr/>
-§§§id_13882§§§<zbr/>
-RACAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, es todo de <humanGroup type="social_group">Indios</humanGroup>, abunda de hermosos pastos, y dista 4 leguas al NO de su <Concept_Settlement>Capital</Concept_Settlement>, y 2 al N del de <Settlement>Sayausi</Settlement>: está en 2 gr. 52 min. de lat. aust.<zbr/>
-<zbr/>
-§§§id_13883§§§<zbr/>
-RACAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Reyes</Settlement>.<zbr/>
-<zbr/>
-§§§id_13884§§§<zbr/>
-RACINE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory>, corre al S entre los de <Landmark>Sioux</Landmark> y <Concept_Landmark>Río</Concept_Landmark> grande, y torciendo luego su curso al O entra en el <Landmark>Misouri</Landmark>.<zbr/>
-<zbr/>
-§§§id_13885§§§<zbr/>
-RACLLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de <Settlement>Caxacay</Settlement>.<zbr/>
-<zbr/>
-§§§id_13886§§§<zbr/>
-RACOON, <Concept_Landmark>Río</Concept_Landmark> pequeño del <Concept_Territory>Condado</Concept_Territory> de <Territory>Salem</Territory> en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva Jersey</Territory>, corre al O, y entra en el <Landmark>Delaware</Landmark>.<zbr/>
-<zbr/>
-§§§id_13887§§§<zbr/>
-Tienen el mismo nombre unas <Concept_Landmark>Islas</Concept_Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Carolina Meridional</Territory>, junto al <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Carteret</Landmark>.<zbr/>
-<zbr/>
-§§§id_13888§§§<zbr/>
-RADA, Ensenada de) en la <Concept_Landmark>Costa</Concept_Landmark> de la Provin##cia y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, formada delante de la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>fuerte</Landmark> por la punta de piedra y la de <Landmark>Manzanillo</Landmark>.<zbr/>
-<zbr/>
-§§§id_13889§§§<zbr/>
-RADE, Grand) <Concept_Landmark>Ensenada</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóval</Landmark>, una de las Antilles, la mayor que hay en toda ella, y donde fondean las embarcaciones, está en la <Concept_Landmark>Costa</Concept_Landmark> del SO en la parte que poseían los <humanGroup type="political_group">Ingleses</humanGroup> antes que la cedieran a los <humanGroup type="political_group">Franceses</humanGroup>, defendida por un buen <Concept_Structure>castillo</Concept_Structure> llamado el <Concept_Structure>Fuerte</Concept_Structure> Carlos de figura quadrada, a cuya inmediación por la espalda hay unas <Concept_Landmark>minas</Concept_Landmark> de plata que se trabajaron en otro tiempo.<zbr/>
-<zbr/>
-§§§id_13890§§§<zbr/>
-RADGON, Estrecho de) en la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre el de <Landmark>Smith</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Taureaux</Landmark> o de <Landmark>Toros</Landmark>.<zbr/>
-<zbr/>
-§§§id_13891§§§<zbr/>
-RADNOR, <Concept_Settlement>Ciudad</Concept_Settlement> pequeña del <Concept_Territory>Condado</Concept_Territory> de <Territory>Filadelfia</Territory> en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory>, está hermosamente construida en una situación fértil y amena, tiene 80 familias de vecindario, y se llamó al principio Amstel por los <humanGroup type="political_group">Holandeses</humanGroup> que fueron los que empezaron su fundación.<zbr/>
-<zbr/>
-§§§id_13892§§§<zbr/>
-S. RAFAEL, <Concept_Settlement>Pueblo</Concept_Settlement> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0394@@@<zbr/>
-<zbr/>
-#la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Chiquitos</humanGroup> en el <Territory>Perú</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Capivari</Landmark>, es <Concept_Settlement>reducción</Concept_Settlement> de las Misiones que tuvieron allí los Regulares de la extinguida Compañía.<zbr/>
-<zbr/>
-§§§id_13893§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>California</Territory>, situado en la orilla de la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Golfo</Concept_Landmark>, cerca de la <Concept_Landmark>Bahía</Concept_Landmark> de los <Landmark>Angeles</Landmark>.<zbr/>
-<zbr/>
-§§§id_13894§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de un <Concept_Landmark>río</Concept_Landmark>, y al S de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Nirua</Settlement>.<zbr/>
-<zbr/>
-§§§id_13895§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory> en la <Territory>América Septentrional</Territory>, situado cerca de un <Concept_Landmark>río</Concept_Landmark> entre los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>San Marcelo</Settlement> y la <Settlement>Merced</Settlement>.<zbr/>
-<zbr/>
-§§§id_13896§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, que era antes <Concept_District>Curato</Concept_District> de los Religiosos de Santo Domingo.<zbr/>
-<zbr/>
-§§§id_13897§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Puchacay</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Bíobío</Landmark>, enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Santa Juana</Landmark>, y en que hay construido un fuerte por los <humanGroup type="political_group">Españoles</humanGroup> para defender el paso de aquel <Concept_Landmark>río</Concept_Landmark> a los <humanGroup type="indigenous_group">Araucanos</humanGroup>.<zbr/>
-<zbr/>
-§§§id_13898§§§<zbr/>
-##Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado 25 leguas de la <Concept_Settlement>Capital</Concept_Settlement>, y 10 de la <Concept_Settlement>Ciudad</Concept_Settlement> de los <Settlement>Remedios</Settlement>.<zbr/>
-<zbr/>
-§§§id_13899§§§<zbr/>
-Un <Concept_Landmark>cabo</Concept_Landmark> o <Concept_Landmark>punta de tierra</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Concept_Landmark>Isla</Concept_Landmark> <Territory>Española</Territory> o de <Territory>Santo Domingo</Territory>, que es una de las que forman la gran <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, y está 27 leguas de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>S. Juan de Puertorico</Territory>.<zbr/>
-<zbr/>
-§§§id_13900§§§<zbr/>
-RAGE, Cabo de) en la <Concept_Landmark>Costa</Concept_Landmark> del Sur de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory>, entre el <Landmark>Vieu Port</Landmark> o <Landmark>Viejo Puerto</Landmark> y el de <Landmark>Tangrer</Landmark>.<zbr/>
-<zbr/>
-§§§id_13901§§§<zbr/>
-Otro <Concept_Landmark>cabo</Concept_Landmark> o <Concept_Landmark>punta de tierra</Concept_Landmark> hay de este nombre en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Landmark>Costa</Concept_Landmark> distinto del anterior, entre el <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Heve</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Mirligueche</Landmark>.<zbr/>
-<zbr/>
-§§§id_13902§§§<zbr/>
-RAGGED, Punta de) en la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, entre la de <Landmark>Deebles</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Baker</Landmark>.<zbr/>
-<zbr/>
-§§§id_13903§§§<zbr/>
-Tienen el mismo nombre unas <Concept_Landmark>Islas</Concept_Landmark> situadas cerca de la <Concept_Landmark>Costa</Concept_Landmark> del S de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory>, son cinco todas pequeñas, y están entre la <Landmark>Havre vert</Landmark> o <Landmark>Abra verde</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> del <Landmark>Ours</Landmark> o del <Landmark>Oso</Landmark>.<zbr/>
-<zbr/>
-§§§id_13904§§§<zbr/>
-S. RAIMUNDO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0395@@@<zbr/>
-<zbr/>
-#las <humanGroup type="indigenous_group">Amazonas</humanGroup> en la parte que poseen los <humanGroup type="political_group">Portugueses</humanGroup>, <Concept_Settlement>reducción</Concept_Settlement> de <Concept_Group>Indios infieles</Concept_Group> de las Misiones que tienen allí los Religiosos Carmelitas Descalzos de aquella <Concept_Group>nación</Concept_Group>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Maruruvaca</Landmark>.<zbr/>
-<zbr/>
-§§§id_13905§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre, con el aditamento de las Casillas, en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guatemala</Territory>, es anexo del <Concept_District>Curato</Concept_District> del de <Settlement>San Juan de Sacatepeque</Settlement>, tiene más de 800 <humanGroup type="social_group">Indios</humanGroup> que hablan el idioma <humanGroup type="indigenous_group">Kachiquel</humanGroup>, fue <Concept_District>Curato</Concept_District> de los Religiosos del Orden de Santo Domingo.<zbr/>
-<zbr/>
-§§§id_13906§§§<zbr/>
-RAINES, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el <Concept_District>distrito</Concept_District> de la <Concept_District>Parroquia</Concept_District> de <Settlement>San Felipe</Settlement>.<zbr/>
-<zbr/>
-§§§id_13907§§§<zbr/>
-RAINHAM, <Concept_Settlement>Ciudad</Concept_Settlement> del <Concept_Territory>Condado</Concept_Territory> de <Territory>Bristol</Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Settlement>Plimouth</Settlement> en la <Concept_Territory>Provincia</Concept_Territory> de la <Territory>Nueva Inglaterra</Territory>, situada en una <Concept_Landmark>Isla</Concept_Landmark> a la orilla del <Concept_Landmark>río</Concept_Landmark> de su nombre, 3 millas al N de <Settlement>Taunton</Settlement> y 25 al Sur de <Settlement>Bostón</Settlement>.<zbr/>
-<zbr/>
-§§§id_13908§§§<zbr/>
-RAIS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en los <Territory>Estados Unidos de la América</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Jumata</Landmark>.<zbr/>
-<zbr/>
-§§§id_13909§§§<zbr/>
-RAISIN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, corre al O entre los de ##<Landmark>Barbue</Landmark> y grand Riviere o <Concept_Landmark>Río</Concept_Landmark> grande, y entra en el <Concept_Landmark>lago</Concept_Landmark> <Landmark>Michigan</Landmark>.<zbr/>
-<zbr/>
-§§§id_13910§§§<zbr/>
-RAJAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Ticllos</Settlement>.<zbr/>
-<zbr/>
-§§§id_13911§§§<zbr/>
-RALEMO, <Concept_Landmark>Río</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> en el <Concept_Territory>territorio</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> <Settlement>Imperial</Settlement> al N baxa de la <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>, y cerca de su nacimiento tiene el nombre de Coypó, corre a Poniente, y sale al <Concept_Landmark>mar</Concept_Landmark> <Landmark>Pacífico</Landmark> o del <Landmark>Sur</Landmark> en 38 gr. 9 min. de lat. aust.<zbr/>
-<zbr/>
-§§§id_13912§§§<zbr/>
-RAMADA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, la fundó el Capitán <persName>Luis de Manjarres</persName> el año de 1545 en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Upár</Landmark>, a la falda de la <Concept_Landmark>Sierra</Concept_Landmark> <Landmark>Nevada</Landmark> y orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Enea</Landmark>, dándole el nombre de Nueva Salamanca en obsequio de la de <Territory>Castilla</Territory> que era su patria, el qual perdió por haber venido a tanta decadencia que apenas permanecen ruinas, reducida hoy a un miserable <Concept_Settlement>Pueblo de Indios</Concept_Settlement>, sin embargo de abundar de <Concept_Landmark>minas</Concept_Landmark> de muy buen cobre y de canteras de piedra, como por su mucho tráfico, <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0396@@@<zbr/>
-<zbr/>
-#pues es paso preciso para subir de <Settlement>Cartagena</Settlement> al <Territory>Nuevo Reyno</Territory>, está 30 leguas al E de <Settlement>Santa Marta</Settlement> en la <Concept_Territory>jurisdicción</Concept_Territory> y <Concept_District>distrito</Concept_District> de la <Concept_Settlement>Ciudad</Concept_Settlement> de los <Territory>Reyes</Territory> en 308 gr. 55 min. de long. y 11 gr. 10 min. de lat. bor.<zbr/>
-<zbr/>
-§§§id_13913§§§<zbr/>
-Tiene el mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chichas y Tarija</Territory> en el <Territory>Perú</Territory>, situado en una altura escabrosa cuya subida es de mucho riesgo, está 8 leguas del de <Settlement>Cotagaita</Settlement>.<zbr/>
-<zbr/>
-§§§id_13914§§§<zbr/>
-RAMADILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Copiapó</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado cerca de la <Concept_Settlement>Capital</Concept_Settlement>, y a la falda de un <Concept_Landmark>cerro</Concept_Landmark> o <Concept_Landmark>monte</Concept_Landmark> célebre llamado el <Landmark>Bramador</Landmark>.<zbr/>
-<zbr/>
-§§§id_13915§§§<zbr/>
-RAMALLOS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, corre al NNE, y entra en el <Landmark>Paraná</Landmark>, entre el de la <Landmark>Matanza</Landmark> y el de en medio.<zbr/>
-<zbr/>
-§§§id_13916§§§<zbr/>
-RAMAUS, <Concept_Landmark>Islotes</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> del Sur de la de <Territory>Terranova</Territory>, situadas delante de la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Vieillard</Landmark>.<zbr/>
-<zbr/>
-§§§id_13917§§§<zbr/>
-RAME, <Concept_Landmark>isla</Concept_Landmark> del <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> y <Territory>América Septentrional</Territory>, una de las que llaman de la ##<Landmark>Madelaine</Landmark> los <humanGroup type="political_group">Franceses</humanGroup>, situada al NE de la de <Territory>Entree</Territory>.<zbr/>
-<zbr/>
-§§§id_13918§§§<zbr/>
-RAMIERS, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la de la <Territory>Martinica</Territory>, a la entrada del <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Cul de Sac Royal</Landmark>.<zbr/>
-<zbr/>
-§§§id_13919§§§<zbr/>
-RAMIQUIRI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, produce trigo, maíz y demás frutos de este clima, era donde tenían los Zipas o Reyes de <Territory>Tunja</Territory> sus adoratorios y baños, y en que estaba la opulencia de Bayanique, hoy tendrá 300 <humanGroup type="social_group">vecinos</humanGroup> y 50 <humanGroup type="social_group">Indios</humanGroup>; cerca de él hay una gran cueva en que daban adoración los Indios a un páxaro adornado de plumas de varios colores y a otros diferentes ídolos, en cuya idolatría permanecieron muchos años después de la conquista, hasta que una India Católica descubrió aquel sitio oculto a Fr. <persName>Diego Mancera</persName>, Religioso del Orden de Santo Domingo, el año de 1590, logrando convertir a aquellos infieles, y quemar los abominables instrumentos de su ceguedad.<zbr/>
-<zbr/>
-§§§id_13920§§§<zbr/>
-RAMIREZ, <Concept_Landmark>Isla</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0397@@@<zbr/>
-<zbr/>
-#Austral, situada al NO del <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Horn</Landmark>, llamada así porque la descubrió <persName>Diego Ramírez</persName> el año de 1621, dista 16 leguas de la <Concept_Landmark>Costa</Concept_Landmark> <Landmark>Magallánica</Landmark>, está inculta y desierta en 55 gr. 57 min. de lat. aust.<zbr/>
-<zbr/>
-§§§id_13921§§§<zbr/>
-RAMI-YACU, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, corre al NNO, y entra en el de <Landmark>Yana</Landmark> cerca de su origen.<zbr/>
-<zbr/>
-§§§id_13922§§§<zbr/>
-S. RAMON, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañía en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>.<zbr/>
-<zbr/>
-§§§id_13923§§§<zbr/>
-RAMOS, <Concept_Landmark>Río</Concept_Landmark> del <Territory>Nuevo Reyno de León</Territory> en la <Territory>América Septentrional</Territory>, corre al E.<zbr/>
-<zbr/>
-§§§id_13924§§§<zbr/>
-RANAS, <Concept_Landmark>Baxo</Concept_Landmark> de <Concept_Landmark>peñas</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> que se compone de seis <Concept_Landmark>Islotes</Concept_Landmark>, y está entre la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Morante</Landmark> de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Jamayca</Landmark> y la Cabeza del O de la de <Territory>Santo Domingo</Territory> en 299 gr. de long. y 17 de lat.<zbr/>
-<zbr/>
-§§§id_13925§§§<zbr/>
-RANCAGUA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada entre los dos caudalosos <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>Maipo</Landmark> al N y de <Landmark>Cachapual</Landmark> al S, confina con la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Santiago</Territory> mediando el primero y con la ##de <Territory>Colchagua</Territory> mediando el segundo; aquel la divide de la de <Territory>Melipilla</Territory>, y por el Poniente se extiende hasta la <Concept_Landmark>Costa</Concept_Landmark>, y tiene de largo 13 leguas N S y 40 de ancho E O; riéganla los <Concept_Landmark>ríos</Concept_Landmark> <Landmark>Maypo</Landmark>, <Landmark>Codegua</Landmark>, <Landmark>Cochalan</Landmark> y <Landmark>Cachapoal</Landmark>, sin otros menores que la hacen muy fértil, deliciosa y abundante de frutos, y de pescados que igualmente cogen en dos <Concept_Landmark>lagunas</Concept_Landmark> que tiene en su <Concept_District>distrito</Concept_District> muy grandes: está poco poblada, y las gentes que hay en ella, y llegaran a 12.000 de todos sexos y edades, viven dispersas en <Concept_Structure>haciendas</Concept_Structure> de campo: tiene minerales de oro de muy buena calidad, y en las <Concept_Landmark>montañas</Concept_Landmark> de la parte de Levante una de cristal de roca, y unos baños medicinales no lexos de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Santiago</Territory> célebres por los beneficios que en muchas enfermedades han producido sus aguas.<zbr/>
-<zbr/>
-§§§id_13926§§§<zbr/>
-La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre, aunque también se llama Santa Cruz de Triana.<zbr/>
-<zbr/>
-§§§id_13927§§§<zbr/>
-RANCAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Pasco</Settlement>.<zbr/>
-<zbr/>
-§§§id_13928§§§<zbr/>
-RANCHERIA, <Concept_Settlement>Pueblo</Concept_Settlement> <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0398@@@<zbr/>
-<zbr/>
-#de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en el <Territory>Nuevo Reyno de Granada</Territory> y <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Ziparas</humanGroup>, fundado por <persName>Nicolás de Fedreman</persName> el año de 1535, está cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Maracaibo</Landmark>, distante 36 leguas de donde estuvo al principio, entonces fue <Concept_Settlement>Población</Concept_Settlement> grande y de mucho comercio, pero hoy está reducido a mucha miseria y cortedad.<zbr/>
-<zbr/>
-§§§id_13929§§§<zbr/>
-RANCHERIAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>.<zbr/>
-<zbr/>
-§§§id_13930§§§<zbr/>
-Tienen el mismo nombre unos <Concept_Landmark>Islotes</Concept_Landmark> pequeños de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, situados cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory> al O de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Mercalo</Landmark>.<zbr/>
-<zbr/>
-§§§id_13931§§§<zbr/>
-RANCHO, Viejo) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la <Landmark>Calidonia</Landmark>.<zbr/>
-<zbr/>
-§§§id_13932§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> y <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> de la <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Salta</Territory>.<zbr/>
-<zbr/>
-§§§id_13933§§§<zbr/>
-##RANCHOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory>, y de la <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Córdoba</Territory>, está situado a la falda de la <Concept_Landmark>montaña</Concept_Landmark> nevada, entre los <Concept_Landmark>ríos</Concept_Landmark> segundo y tercero.<zbr/>
-<zbr/>
-§§§id_13934§§§<zbr/>
-Tiene el mismo nombre otro <Concept_Settlement>Pueblo</Concept_Settlement> con la advocación de San Miguel en la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Settlement>Real de Minas</Concept_Settlement> de <Settlement>Temascaltepec</Settlement> en <Territory>Nueva España</Territory>, situado en la cumbre de un <Concept_Landmark>monte</Concept_Landmark> que lo hace de temperamento frío, tiene 58 familias de <humanGroup type="social_group">Indios</humanGroup> que viven de la siembra de trigo, maíz, habas y cebada y de cortar maderas, está 6 leguas al N de su <Concept_Settlement>Cabecera</Concept_Settlement>.<zbr/>
-<zbr/>
-§§§id_13935§§§<zbr/>
-Otro con la advocación de San Mateo en la misma <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> que el antecedente tiene 57 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 6 leguas al Oriente de su <Concept_Settlement>Cabecera</Concept_Settlement>.<zbr/>
-<zbr/>
-§§§id_13936§§§<zbr/>
-RANOUS, <Concept_Landmark>Rocas</Concept_Landmark> o <Concept_Landmark>baxos</Concept_Landmark> de <Concept_Landmark>peñas</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> del O de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre el <Concept_Landmark>Cabo</Concept_Landmark> <Landmark>Butard</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> <Landmark>Crou</Landmark>.<zbr/>
-<zbr/>
-§§§id_13937§§§<zbr/>
-RANQUELCAHUE, <Concept_Settlement>Pueblo de Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Puchacay</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0399@@@<zbr/>
-<zbr/>
-#<Territory>Chile</Territory>, situado en la Cabecera del <Concept_Landmark>río</Concept_Landmark> <Landmark>Heuda</Landmark>.<zbr/>
-<zbr/>
-§§§id_13938§§§<zbr/>
-RANQUEN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Rancagua</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Maule</Landmark>.<zbr/>
-<zbr/>
-§§§id_13939§§§<zbr/>
-RANS, Río de los) en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de los <Territory>Ilheos</Territory> y <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>, corre al NNO, y entra en el grande de <Landmark>San Francisco</Landmark>, en el <Concept_Settlement>Pueblo</Concept_Settlement> o <Concept_Settlement>Aldea</Concept_Settlement> de <Settlement>Parateca</Settlement>.<zbr/>
-<zbr/>
-§§§id_13940§§§<zbr/>
-RAPAHANOCK, <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> en la <Territory>América Septentrional</Territory>, nace en un terreno baxo y pantanoso al pie de las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Apalache</Landmark>, y después de correr más de 130 millas, anchísimo, profundo y navegable, desemboca al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Chesapeack</Landmark> en 37 gr. 35 min. de lat. sept.<zbr/>
-<zbr/>
-§§§id_13941§§§<zbr/>
-Tiene este nombre un <Concept_Territory>Condado</Concept_Territory> de la misma <Concept_Territory>Provincia</Concept_Territory> que el <Concept_Landmark>río</Concept_Landmark> anterior, llamado antes <Concept_Territory>Condado</Concept_Territory> de <Territory>Essex</Territory>, está en la orilla de él, y contiene 140.920 acres de tierra y tres <Concept_District>Parroquias</Concept_District>, se halla en él parte de un gran <Concept_Landmark>pantano</Concept_Landmark> llamado Dragonswamp que tiene 60 millas, cubierto de malezas y ##cambrones que lo hacen asilo seguro de las fieras y casi impenetrable a los habitantes; la parte meridional de este <Concept_Territory>Condado</Concept_Territory> la riega un <Concept_Landmark>río</Concept_Landmark> grande y navegable llamado <Landmark>Matapayne</Landmark>, que es un <Concept_Landmark>brazo</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark> <Landmark>Yorck</Landmark>.<zbr/>
-<zbr/>
-§§§id_13942§§§<zbr/>
-RAPANULAHUE, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_District>partido</Concept_District> de <Settlement>Toltén baxo</Settlement> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Quillém</Landmark>.<zbr/>
-<zbr/>
-§§§id_13943§§§<zbr/>
-RAPAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Churin</Settlement>.<zbr/>
-<zbr/>
-§§§id_13944§§§<zbr/>
-RAPAYAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Uco</Settlement>.<zbr/>
-<zbr/>
-§§§id_13945§§§<zbr/>
-RAPEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Colchagua</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, tiene cinco Viceparroquias en su <Concept_District>distrito</Concept_District> y un Convento de Religiosos Agustinos en un parage llamado la <Landmark>Estrella</Landmark>, cerca de él y en medio de una <Concept_Landmark>llanura</Concept_Landmark> se levanta una <Concept_Landmark>colina</Concept_Landmark>, y hacia la mitad de ella hay una cueva cuya puerta tiene como dos varas de ancho y poco más de alto, dentro hay un salón irregular de 15 varas de largo <zbr/>
-<zbr/>
-@@@Alcedo_vol_4-0400@@@<zbr/>
-<zbr/>
-#y 3 a 4 de ancho, del medio de la bóveda caen gotas de agua que cesa de destilar en los calores fuertes, las quales se recogen en una corta lagunilla que hay en el pavimento; toda esta cueva de piedra parece obra de la naturaleza, porque no hay memoria ni destino para qué se hubiese hecho artificialmente: en los parages húmedos del <Concept_Territory>territorio</Concept_Territory> de este <Concept_Settlement>Pueblo</Concept_Settlement> se cría una especie de junco de tres quartas de alto, cuyo corazón es blanco y esponjoso, y sirve en lugar de pávilo para hacer velas de sebo que dan muy poco humo, pero se quiebran fácilmente.<zbr/>
-<zbr/>
-§§§id_13946§§§<zbr/>
-Tiene el mismo nombre una <Concept_Landmark>laguna</Concept_Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> que el <Concept_Settlement>Pueblo</Concept_Settlement> anterior, se forma de las aguas del <Concept_Landmark>mar</Concept_Landmark> que entra dos leguas tierra adentro, hay en ella muchos peces de que se abastece la <Concept_District>comarca</Concept_District>, sirviendo de estanque común: quando se seca la boca por donde entra el agua, que ordinariamente es por el mes de Enero, se quaja el agua que queda dentro, y forma con el calor del sol una costra de dos y de tres palmos de ##grueso de sal muy blanca y de buen gusto, pero este beneficio no se logra todos los años.<zbr/>
-<zbr/>
-§§§id_13947§§§<zbr/>
-Un <Concept_Landmark>río</Concept_Landmark> caudaloso de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory>,µµµvéase Cachapoalµµµ.<zbr/>
-<zbr/>
-§§§id_13948§§§<zbr/>
-Unos <Concept_Landmark>baxos de peña</Concept_Landmark>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory>, a la entrada o boca del <Concept_Landmark>río</Concept_Landmark> de su nombre.<zbr/>
-<zbr/>
-§§§id_13949§§§<zbr/>
-RAPI, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamanga</Territory> en el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Anco</Settlement>.<zbr/>
-<zbr/>
-§§§id_13950§§§<zbr/>
-RAPIDE, Plate) Caída del <Concept_Landmark>río</Concept_Landmark> <Landmark>Catarakuy</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Iroqueses</humanGroup>, entre el fuerte de la <Landmark>Galete</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Mont-real</Landmark>.<zbr/>
-<zbr/>
-§§§id_13951§§§<zbr/>
-RAPOSO, <Concept_Territory>Provincia</Concept_Territory> del <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory>, o <Concept_District>partido</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de esta <Concept_Territory>Provincia</Concept_Territory> en el <Territory>Nuevo Reyno de Granada</Territory> que antes pertenecía a la de <Territory>Popayán</Territory>, es toda de <Concept_Landmark>bosques</Concept_Landmark>, inculta y desierta, y solo habitada en la parte del N de algunos <Concept_Group>Indios bárbaros</Concept_Group>, tiene muy buenas <Concept_Landmark>minas</Concept_Landmark> de oro de que se trabajan algunas, y es de clima cálido y húmedo, como parte del <Territory>Chocó</Territory> le conviene quanto se ha dicho de él,µµµvéase este artículoµµµ.<zbr/>
-<zbr/>
-§§§id_13952§§§ <zbr/>
-<zbr/></xml>
+    <zbr/> #trada una espaciosa <Concept_Landmark>llanura</Concept_Landmark> llamada de
+        <Landmark>Turu-bamba</Landmark>, que con propiedad debe ser Turu-pampa, que quiere decir
+        <Concept_Landmark>llanura</Concept_Landmark> de lodo, y al N tiene otra con el nombre de
+        <Landmark>Iña-quito</Landmark>, corrompido de Aña-quito, célebre por la batalla que en ella
+    dió <persName>Gonzalo Pizarro</persName> contra las Tropas Reales que mandaba <persName>Blasco
+        Nuñez Vela</persName>, primer Virrey del <Territory>Perú</Territory>, que perdió la vida
+    allí: a Levante de <Settlement>Turubamba</Settlement>, y a la derecha de
+        <Settlement>Chimba-calle</Settlement>, y izquierda del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Santa María
+        Magdalena</Settlement>, hay un <Concept_Landmark>montezuelo</Concept_Landmark> llamado el
+        <Landmark>Panecillo</Landmark> por su figura de cono truncado, semejante a un pan de azúcar,
+    de cien toesas de altura, a cuyo pie por la parte de Poniente corren algunos arroyuelos de
+    delicada agua, que unidos a otros que baxan de <Landmark>Pichinche</Landmark> forman el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Machangara</Landmark> que baña la <Concept_Settlement>Ciudad</Concept_Settlement> por
+    el Mediodía: la plaza principal es grande, en una de sus fachadas está el Palacio del
+    Presidente, en la opuesta la Casa de la <Concept_Settlement>Ciudad</Concept_Settlement>, en la
+    tercera la Catedral, y en la quarta el Palacio Episcopal, y en medio hay una hermosa fuente; las
+    casas son altas y de ##hermosa apariencia, y las Iglesias y Conventos los mejores de la
+        <Territory>América</Territory>, especialmente la fachada del de San Francisco de excelente
+    arquitectura, y no menos el Colegio que tenían los Regulares de la extinguida Compañía: tiene
+    siete <Concept_District>Parroquias</Concept_District> de otros tantos
+        <Concept_Settlement>barrios</Concept_Settlement> en que se divide la
+        <Concept_Settlement>Ciudad</Concept_Settlement>, y son el Sagrario, Santa Bárbara, San Blas,
+    San Sebastián, San Roque, San Marcos y Santa Prisca: dos Conventos de Religiosos de Santo
+    Domingo, tres de San Francisco con el Colegio de San Buenaventura, dos de la Merced, uno de San
+    Agustín, otro de PP. Beletmitas, y un Colegio y Noviciado de los expresados Regulares de la
+    Compañía; cinco Monasterios de Religiosas que son dos de Carmelitas, uno de la Concepción, otro
+    de Santa Clara, otro de Santa Catalina de Sena, y una Casa para mugeres retiradas que llaman el
+    Beaterío con título de Santa Marta, baxo de la dirección de los PP. de la Merced: adornan esta
+        <Concept_Settlement>Capital</Concept_Settlement> dos Universidades, la una de San Gregorio
+    Magno, que era de los <humanGroup type="religious_group">Jesuítas</humanGroup>, y la más
+    ilustre, fundada por Don <persName>Fe<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0377@@@<zbr/>
+        <zbr/> #lipe II</persName> el año de 1586, y enriquecida con los mismos privilegios que la
+    de <Settlement>Salamanca</Settlement> el de 1621; la otra de anto Tomás de Aquino de los PP.
+        <humanGroup type="religious_group">Dominicos</humanGroup>: dos Colegios Reales, el uno de
+    San Luis Rey de Francia, con título de Colegio Mayor concedido por Don <persName>Felipe
+        V</persName>, y al mismo tiempo Seminario que fundó el Obispo Don <persName>Luis López de
+        Solís</persName>, del Orden de San Agustín, el año de 1594, consignado a los Regulares de la
+    Compañía que lo gobernaron hasta su expulsión: este Colegio ha producido muchos Arzobispos,
+    Obispos y hombres ilustres por su literatura, hoy se gobierna por un Eclesiástico, y su Rector
+    es un Canónigo de aquella Iglesia Catedral; el otro Colegio es de San Fernando Rey de España,
+    baxo la dirección de los Religiosos de Santo Domingo: los PP. Franciscanos tienen el Colegio ya
+    nombrado de San Buenaventura, y los Agustinos la Academia de San Fulgencio donde confieren grado
+    de Doctor: dos Hospitales, uno para hombres y otro para mugeres, que es fundación del Señor
+        <persName>Ochoa</persName>, y ambos están al ##cuidado de los PP. Betletmitas: el Tribunal
+    de la <Concept_Territory>Real Audiencia</Concept_Territory> erigida el año de 1563, extinguida
+    el de 1718, y restablecida el de 1739, y además de este hay los de las Rentas Reales, de
+    Cruzada, y de la Santa Inquisición dependiente del de <Settlement>Lima</Settlement>: además de
+    los templos dichos hay dos Capillas, una dentro de la
+        <Concept_Settlement>Población</Concept_Settlement>, baxo de una espaciosa bóveda o arco de
+    piedra de primorosa arquitectura, dedicada a la Reyna de los Angeles con este título; y la otra
+    con el de la Vera-Cruz en el egido del <Concept_Landmark>llano</Concept_Landmark> de
+        <Landmark>Añaquito</Landmark>, sepulcro y entierro del Virrey <persName>Blasco Nuñez
+        Vela</persName>: en uno de los <Concept_Settlement>arrabales</Concept_Settlement> hay un
+    fuerte y anchuroso puente para pasar el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Machangara</Landmark> de hermosa construcción, sin que conste los artífices que lo
+    hicieron: es Cabeza de <Concept_Territory>Obispado</Concept_Territory> erigido el año de 1545,
+    sufragáneo del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santa
+        Fe</Territory>: en el de 1736 fueron enviados a esta
+        <Concept_Settlement>Ciudad</Concept_Settlement> por la Acádemia da las Ciencias de
+        <Settlement>París</Settlement> para hacer diferentes observaciones astronómicas y físicas
+    los Señores Don <persName>Luis Godin</persName>, Don <persName>Pedro Bouguer</persName>, Don
+        <persName>Carlos de la Con<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0378@@@<zbr/>
+        <zbr/> #damine</persName> y otros, a quienes acompañaron los Tenientes de Navio Españoles
+    Don <persName>Jorge Juan</persName> y Don <persName>Antonio de Ulloa</persName>; y habiendo
+    concluido con acierto sus ##trabajos perpetuaron la memoria en una inscripción esculpida en
+    alabastro, fixa en la pared de la Iglesia de los Regulares de la Compañía, que es la siguiente.
+    <zbr/> #Observationibus Ludovici Godin, Petri Bouguer, Caroli Mariae de la Condamine, a Regia
+    Parisiensi Scientiarum Academia, inventa sunt Quiti, Latitudo bujusce templi australis grad. 0.
+    min. 13. sec. 18. Longitudo occidentalis ab observatorio Regio grad. 81. min. 22. Declinatio
+    acus magneticae à borea ad Orientem, exeunte anno 1736, grad. 8. min. 45, anno 1742 grad. 8.
+    min. 20. Inclinatio ejusdem infra Orizontem, parte boreali, conchae anno 1739 grad. 12. Quiti
+    1741 grad. 15. Altitudines supra libellam maris geometrice collectae in exapedis Parisiensibus
+    spectabiliorum nive perenni hujus Provinciae montium, quorum plerique flammas evomuerunt:
+    Cota-cache 2567, Cayambur 3028, Antisana 3016, Cotopaxi 2952, Tunguragua 2623, Sangay etiam nunc
+    ardentis 2678, Chimboraso 3220, Ilinisa 2717, Soli Quitensis in foro majori 1462, Crucis in
+    proximo Pichincha montis vertice conspicuae 2042 acutioris ac lapidei cacuminis, nive plerumque
+    operti 2432 ut et nivis Infimae permanentis in montibus nivosis: media elevatio mercurii in
+    barometro suspensi in Zona Tórrida, caque parum variabilis in ora marítima pollicum 28. linearum
+    0. Quiti poll. 20. lin. 0 1/4 in Pichinche ad crucem poll. 17. lin. 7 ad nivem poll. 16. lin. 0.
+    spiritus vini qui in thermometro Reaumuriano à partibus 1000 incipiente gelu ad 1080 partes in
+    aqua fervente intumescit: dilatatio, Quiti à partibus 1008 ad partes 1018 juxta mare à 1017 ad
+    1029 in fastigio Pichinche à 995 ad 1012. Soni velocitatis unius minuti secundi intervalo
+    hexapedarum 175. Penduli simplicis equinoctialis, unius minuti secundi temporis medii, in
+    altitudine Soli Quitensis Archetypus. <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0379@@@<zbr/>
+    <zbr/> #''(Mensurae naturalis exemplar, utinam et universalis) AEqualis 5079/10000 Hexapedae,
+    seu pedibus 3. pollicibns o. lineis 6. 83/100 major in proximae maris littore 27/100 lin. minar
+    in apice Pichinche 16/100 lin. Refractio Astronomica Otizontalis sub AEquatore media, juxta mare
+    27. min. ad nivem in Chimboraso 19'51"; ex qua et aliis observatis, Quiti 22'50" Limborum
+    inferiorum Solis in Tropicis Dec. 1736 et Junii 1737, distantia instrumento dodecapedalia
+    mensurata grad. 47. min. 28. sec. 36. ex qua positis diametris Solis, min. 32. sec. 37. et
+    31'33." Refractione in 66. grad. altitudinis 0'15" Parallaxi vero 4'40" eruitur obliquitas
+    Eclípticae, circa Equinoctium Martii 1737. grad. 23. min. 28. sec. 28. Stellae trium in Baltheo
+    Orionis meditae (Bayero E) declinatio australis Julio 1737 grad. 1. min. 23. sec. 40. Ex arcu
+    graduum plusquam trium reipsa dimenso gradus Meridiani, seu latitudinis primus, ad libellam
+    maris reductus Hexap. 56650. Quorum memoriam ad Physices, Astronomiae, Geographiae, Nautice
+    incrementa hoc marmore parieti Templi Collegii Maximi Quitensis Soc. Jesu affixo, hujus et
+    posteri AEvi utilitati V.D.C. Spsissimi Observatores anno Christi M.DCC.XLII. ''<zbr/>
+    <zbr/> #Don <persName>Carlos de la Condamine</persName> construyó también la Meridiana en la
+    Terraza del Colegio de la Compañía, pero habiéndola hecho sobre ladrillos se perdió con el
+    ##tiempo, y el año de 1766 se construyó otra sobre piedra en el mismo sitio que estaba, poniendo
+    en la pared inmediata la siguiente inscripción esculpida en mármol. <zbr/>
+    <zbr/> #''Ab Academicis Parisien. lateritio inaequali solo A. 1736. Superinducta linea Meridiana
+    temporum injuria, Gnomone avulso, plane deleta, hanc stratis lapidibus incisam, Magnetica Acu
+    10. grad. ad Orientem declinante XII. Kal. Jan. 1763, Gnomone restituto, produxere, et
+    Heliorologium quadrifons, 13. min. 17. sec. in boream inclinans, in hac Rectorali Area VIII.
+    Kal. Majas 1766 Spirali columnae lapídea communi Studio AA. PP. (id est Academici Pichinchenses
+    imposuere).'' <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0380@@@<zbr/>
+    <zbr/> #Esta misma Academia Pichinchense proyectó y efectuó el bello paseo fuera de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> a la salida de Santa Prisca en la
+        <Concept_Landmark>llanura</Concept_Landmark> ##de <Landmark>Añaquito</Landmark>, poniendo en
+    la fachada interior de la puerta por donde se entra la siguiente inscripción en una lápida de
+    mármol. <zbr/>
+    <zbr/> #Idea del Señor Teniente Coronel Don <persName>Juan Antonio Zelaya</persName>, Presidente
+    de la <Concept_Territory>Real Audiencia</Concept_Territory>, Gobernador y Comandante General de
+    esta <Concept_Territory>Provincia</Concept_Territory> etc. Obra de los Señores Alcaldes
+    Ordinarios Don <persName>Clemente Sánchez</persName>, Caballero del Orden de Santiago, Marqués
+    de Villa-Orellana, Vizconde de Antisana etc., y Don <persName>Miguel de Olmedo</persName>,
+    Comisario de Guerra etc. quienes a expensas propias ofrecen al público este recreo. Año 1767.<zbr/>
+    <zbr/> #El vecindario de <Settlement>Quito</Settlement> se compone de 58.000 habitantes
+        <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group"
+        >Criollos</humanGroup>, <humanGroup type="social_group">gente de color</humanGroup>, e
+        <humanGroup type="social_group">Indios</humanGroup>; entre los primeros hay seis títulos de
+    Marqués, uno de Conde, y muchos Caballeros de las Ordenes Militares y familias ilustres: los
+        <humanGroup type="social_group">Criollos</humanGroup> son dóciles, humanos, corteses,
+    liberales, amantes de los estrangeros, inclinados a la piedad, y de despierto ingenio y
+    capacidad: los Indios son los más cultos del <Concept_Territory>Reyno</Concept_Territory>,
+    sumamente hábiles en toda especie de artes y oficios, particularmente en la pintura y escultura.
+    El temperamento es tan benigno que indiferentemente se viste todo el año ropa de seda y de lana
+    sin incomodidad: abunda de toda especie de frutos exquisitos ##de que la proveen y abastecen las
+        <Concept_Settlement>Ciudades</Concept_Settlement> y
+        <Concept_Settlement>Pueblos</Concept_Settlement> de su
+        <Concept_Territory>jurisdicción</Concept_Territory>, de modo que la plaza está hecha un
+    vergel de frutas, flores, aves, hortalizas, y quanto puede desear la imaginación para regalo de
+    la vida, y todo muy barato; hacia en otro tiempo un lucroso comercio que hoy ha decaído mucho.
+    En medio de las circunstancias referidas tiene el contraresto de ser muy propensa a tempestades
+    y terremotos que han causado mucho daño, especialmente en el que experimentó el año de 1755:
+    tiene un Cuerpo de Milicias establecido después del tumulto que movió la plebe el año de 1765:
+    es patria de muchas personas ilustres en virtud, armas y letras, como son <zbr/><zbr/> @@@Alcedo_vol_4-0381@@@<zbr/>
+    <zbr/> ßßß<zbr/> #La Venerable Madre Mariana de Jesús, Florez y Paredes, llamada la Azuzena de
+        <Settlement>Quito</Settlement>, de cuya Canonización se trata. <zbr/> La Madre Sor Mariana
+    de Jesús. <zbr/> Fr. <persName>Bernardo Bohorques</persName>, Religioso Mercenario, que murió
+    con fama de santidad. <zbr/> Los PP. <persName>Pedro de Alcocer</persName> y
+        <persName>Christóval de Cevallos</persName>, de la extinguida Compañía de Jesús, Varones
+    Apostólicos y zelosos Misioneros en la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Mainas</Territory>. <zbr/> Don Fr. <persName>Domingo Valderrama</persName>,
+    Arzobispo de <Territory>Santo Domingo</Territory>. <zbr/> Don Fr. <persName>Luis de
+        Armendariz</persName>, Monge Bernardo, Obispo de <Territory>Jaca</Territory>, Arzobispo de
+        <Territory>Tarragona</Territory> y Virrey de <Territory>Cataluña</Territory>. <zbr/> Don Fr.
+        <persName>Gaspar de Villaroel</persName>, del Orden de San Agustín, Obispo de
+        <Territory>Santiago de Chile</Territory> y de <Territory>Arequipa</Territory>, célebre
+    escritor. <zbr/> Don <persName>Juan Machado de Chaves</persName>, Obispo de
+        <Territory>Popayán</Territory>, autor de la obra del perfecto Confesor. <zbr/> Don
+        <persName>Vasco de Contreras Valverde</persName>, Comisario de Cruzada, sugeto de suma
+    literatura. <zbr/> Fr. <persName>Joseph Maldonado</persName>, del Orden de San Francisco,
+    Comisario General de su Orden, autor de muchas obras. <zbr/> Don <persName>Joseph de Peralta y
+        Mendoza</persName>, Catedrático de <Settlement>Salamanca</Settlement>. <zbr/> Don
+        <persName>Martín de Peralta</persName>, Oidor de <Territory>Quito</Territory> y de
+        <Territory>México</Territory>, exemplo de Ministros por su integridad e inteligencia. <zbr/>
+    Don <persName>Pedro Maldonado y Sotomayor</persName>, joven de tan sobresaliente instrucción en
+    las Matemáticas y la Física que mereció que la Academia Real de las Ciencias de
+        <Settlement>París</Settlement> y la Sociedad Real de <Settlement>Londres</Settlement> lo
+    nombrasen individuo de estos Cuerpos; Gentilhombre de Cámara de S. M. y Gobernador de
+        <Territory>Esmeraldas</Territory>, que murió en <Settlement>Londres</Settlement> en la flor
+    de su edad. <zbr/> El Inca <persName>Atahuallpa</persName>, último Emperador del
+        <Territory>Perú</Territory>. <zbr/> Don <persName>Lope de Armendariz</persName>, primer
+    Marqués de Cadreita, General de Galeones, <zbr/> $$$<zbr/>
+    <zbr/> #sin otros infinitos de que no permite hacer mención el artículo de un Diccionario; pero
+    bastan para ilustrar a <Settlement>Quito</Settlement> que dista 304 leguas de <Settlement>Santa
+        Fe</Settlement>
+    <Concept_Settlement>Capital</Concept_Settlement> del <Territory>Nuevo Reyno de Grana<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0382@@@<zbr/>
+        <zbr/> #da</Territory>, 200 de <Settlement>Lima</Settlement>, y 80 de las
+        <Concept_Landmark>Costas</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark> del
+        <Landmark>Sur</Landmark>: está en 298 gr. 18 min. 45 seg. de long. del Meridiano de
+        <Territory>Tenerife</Territory>, y en 13 min. de lat. <zbr/>
+    <zbr/> ___OBISPOS QUE HA HABIDO EN QUITO. ___<zbr/>
+    <zbr/> ßßß<zbr/> #1 Don <persName>Garci Diaz Arias</persName>, primer Obispo electo el año de
+    1545, y consagrado en <Settlement>Lima</Settlement>, murió el de 1562: el Maestro <persName>Gil
+        González Dávila</persName> dice que no llegó a consagrarse, y que su elección fue el año de
+    1550; pero en uno y otro está equivocado según consta del Archivo de aquella
+        <Concept_Settlement>Ciudad</Concept_Settlement>. <zbr/> 2 Don <persName>Pedro de la
+        Peña</persName>, del Orden de Santo Domingo, natural de <Settlement>Covarrubias</Settlement>
+    en el <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Burgos</Territory>, fue
+    Colegial en el Colegio de <Settlement>San Gregorio de Valladolid</Settlement>, pasó a las
+        <Territory>Indias</Territory> el año de 1550, fue Catedrático en la Universidad de
+        <Settlement>México</Settlement>, zeloso Misionero en la conversión de los <humanGroup
+        type="social_group">Indios</humanGroup>, presentado para Obispo de <Territory>Vera
+        Paz</Territory>, de donde pasó promovido a <Settlement>Quito</Settlement> el año de 1563,
+    asistió y presidió en el Concilio que se celebraba en <Settlement>Lima</Settlement> por muerte
+    de Don Fr. <persName>Gerónimo de Loaisa</persName>, fundó el Convento de Religiosas de la
+    Concepción, en su patria una obra pía para deudos y parientes, y en
+        <Settlement>Lima</Settlement> una Capilla, murió en esta
+        <Concept_Settlement>Ciudad</Concept_Settlement> durante el Concilio el año de 1588. <zbr/> 3
+    Don Fr. <persName>Antonio de San Miguel y Solier</persName>, del Orden de San Francisco, Criollo
+    del <Territory>Perú</Territory>, ilustre en santidad y méritos, y excelente Predicador, fue
+    Provincial, se confesaba tres veces cada día, una para decir Misa, otra después, y la tercera al
+    anochecer, el Rey Don <persName>Felipe II</persName> noticioso de su virtud le presentó para el
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Chile</Territory>, y en esta
+    calidad asistió al Concilio Provincial que celebró en <Settlement>Lima</Settlement> Don Fr.
+        <persName>Gerónimo de Loaisa</persName>, pidió licencia para renunciar el
+        <Concept_Territory>Obispado</Concept_Territory>, y en vez de concedérsela fue promovido al
+    de <Territory>Quito</Territory> el año de 1590, murió en <Settlement>Riobamba</Settlement> tres
+    jornadas antes de llegar a aquella <Concept_Settlement>Ciudad</Concept_Settlement> el de 1591. <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0383@@@<zbr/>
+    <zbr/> #4 Don Fr. <persName>Luis López de Solís</persName>, del Orden de San Agustín, natural de
+        <Settlement>Salamanca</Settlement>, pasó al <Territory>Perú</Territory> el año de 1546, se
+    graduó de Maestro, y fue Catedrático de Vísperas y de Prima en la Universidad de
+        <Settlement>Lima</Settlement>, Calificador del Santo Tribunal, Consultor del Virrey Don
+        <persName>Francisco de Toledo</persName>, el Señor Don <persName>Felipe II</persName> le
+    presentó para el <Concept_Territory>Obispado</Concept_Territory> del <Territory>Río de la
+        Plata</Territory>, luego le trasladó al del <Landmark>Paraguay</Landmark>, y nombrado para
+    el de la <Territory>Paz</Territory> pasó promovido a <Territory>Quito</Territory> el año de
+    1593, fundó tres <Concept_District>Parroquias</Concept_District> y otros tantos Conventos de
+    Monjas en diferentes <Concept_Settlement>Pueblos</Concept_Settlement>, celebró dos Sínodos,
+    consagró 203 Aras, confirmó en <Settlement>Lima</Settlement>, <Settlement>Truxillo</Settlement>
+    y <Settlement>Quito</Settlement> 122.873 almas, en su Convento de <Territory>Lima</Territory>
+    dotó la fiesta de San Agustín y le dio un cáliz de oro, visitó su
+        <Concept_Territory>Obispado</Concept_Territory> dió muchas limosnas, y una de consideración
+    al Convento de San Agustín de <Settlement>Salamanca</Settlement> para reparar el daño que había
+    hecho un incendio, fue de opinión que no convenía que los Religiosos tuviesen los
+        <Concept_District>Curatos</Concept_District>, pasó promovido al
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> el año
+    de 1600, y murió antes de entrar en <Territory>Lima</Territory> con fama de santidad. <zbr/> 5
+    Don Fr. <persName>Salvador de Ribera</persName>, del Orden de Santo Domingo, natural de
+        <Settlement>Lima</Settlement>, hijo del célebre <persName>Nicolás de Ribera</persName>, que
+    fue uno de los Conquistadores del <Territory>Perú</Territory> y Pobladores de
+        <Settlement>Lima</Settlement>, donde fue tres veces Prior y edificó el magnífico Convento de
+    su Orden, dos veces Provincial, Catedrático en la Universidad de aquella
+        <Concept_Settlement>Capital</Concept_Settlement>, Calificador del Santo Oficio y
+    sobresaliente Predicador, electo Obispo de <Territory>Quito</Territory> el año de 1607, murió el
+    de 1612. <zbr/> 6 Don <persName>Fernando Arias de Ugarte</persName>, de quien hemos tratado en
+    la serie de los Arzobispos de <Territory>Santa Fe</Territory>, a que fue promovido el año de
+    1617. <zbr/> 7 Don Fr. <persName>Alonso de Santillana</persName>, del Orden de Santo Domingo,
+    natural de <Settlement>Sevilla</Settlement>, siendo novicio murió su hermano y quedó por
+    heredero del Mayorazgo, y lo renunció prefiriendo seguir en la Religión, donde fue Presentado,
+    Maestro y gran Predicador, Prior <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0384@@@<zbr/>
+    <zbr/> #en los Conventos de su Orden de Alcaráz, Marchena y Almagro, Provincial de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Andalucía</Territory>, y
+    electo Obispo de <Territory>Quito</Territory> el año de 1618; era sumamente limosnero, dio al
+    Convento de San Pablo de <Settlement>Sevilla</Settlement> muchos quadros de Santos de la Orden
+    que están encima de las sillas del Coro, muchos libros y ornamentos, y seis mil pesos para
+    reedificar la Capilla en que están enterrados sus padres en el Colegio de San Salvador, y una
+    Capellanía pagando ocho reales de limosna por cada Misa, murió el año de 1620. <zbr/> 8 Don Fr.
+        <persName>Francisco de Sotomayor</persName>, del Orden de San Francisco, natural de
+        <Settlement>Santo Tomé</Settlement> en el <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Tuy</Territory>, fue Guardian de los Conventos de Monforte y Salamanca, Difinidor
+    en el Capítulo General que se celebró en <Settlement>Roma</Settlement>, el Señor Don
+        <persName>Felipe IV</persName> le presentó para el
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Cartagena de
+        Indias</Territory>, y trasladado al de <Territory>Quito</Territory> el año de 1623, dio a su
+    Iglesia un frontal de plata que costó quatro mil ducados y a los pobres infinitas limosnas, pasó
+    promovido al <Concept_Territory>Arzobispado</Concept_Territory> de
+        <Territory>Charcas</Territory> el año de 1628, y antes de llegar murió en
+        <Settlement>Potosí</Settlement>, de donde se trasladó el cuerpo a su patria y
+        <Concept_District>Parroquia</Concept_District> en que se bautizó, habiéndola dexado
+    quatrocientos ducados de renta. <zbr/> 9 Don Fr. <persName>Pedro de Oviedo</persName>, Monge de
+    San Bernardo, de quien hemos hablado entre los Arzobispos de <Territory>Santo
+        Domingo</Territory> y de <Territory>Charcas</Territory>. <zbr/> 10 Don <persName>Agustín de
+        Ugarte y Saravia</persName> pasó del <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Arequipa</Territory>, gobernó quatro años, y murió el de 1650. <zbr/> 11 Don
+        <persName>Alonso de la <Concept_Landmark>Peña</Concept_Landmark> Montenegro</persName>,
+    natural de la <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Padrón</Settlement>
+    en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Galicia</Territory>, estudió en
+    la Universidad de <Settlement>Santiago</Settlement>, donde fue Catedrático de Artes y Colegial
+    en el Colegio de su Universidad, después en el de San Bartolomé de
+        <Settlement>Salamanca</Settlement>, Canónigo Magistral de Púlpito de la Iglesia de
+        <Settlement>Mondoñedo</Settlement>, y luego de la Arzobispal de
+        <Settlement>Santiago</Settlement>, el Señor Don <persName>Felipe IV</persName> le presentó
+    para Obispo de <Territory>Quito</Territory> el año de 1652, y gobernó aquella Igle<zbr/>
+    <zbr/> @@@Alcedo_vol_4-0385@@@<zbr/>
+    <zbr/> #sia con sumo acierto veinte y seis años, escribiendo la célebre obra intitulada
+    Itinerario para Párrocos de <humanGroup type="social_group">Indios</humanGroup>, que ha sido y
+    será el norte de los Curas, murió el año de 1688. <zbr/> 12 Don <persName>Sancho de Andrade y
+        Figueroa</persName> pasó de Obispo de <Territory>Guamanga</Territory> a Obispo auxiliar del
+    anterior por su avanzada edad, y después de su muerte tomó posesión el referido año, gobernando
+    aquella Diócesis hasta el de 1702 en que murió. <zbr/> 13 Don <persName>Diego Ladrón de
+        Guevara</persName> pasó promovido también del
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guamanga</Territory> a este de
+        <Territory>Quito</Territory>, y destinado luego a Virrey de <Territory>Lima</Territory> el
+    año de 1710, murió en <Settlement>México</Settlement> viniendo a <Territory>Europa</Territory>
+    el de 1718. <zbr/> 14 Don <persName>Luis Francisco Romero</persName> promovido de la Iglesia de
+        <Territory>Santiago de Chile</Territory> en 1722, y de esta de <Territory>Quito</Territory>
+    al <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory> el año
+    de 1726. <zbr/> 15 Don <persName>Juan Gómez de Frias</persName> pasó del
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Popayán</Territory>, y murió
+    el año de 1729. <zbr/> 16 Don <persName>Juan de Escandan</persName> fue promovido de la Iglesia
+    de la <Territory>Imperial de Chile</Territory>, y antes de entrar en
+        <Territory>Quito</Territory> al <Concept_Territory>Arzobispado</Concept_Territory> de
+        <Territory>Lima</Territory> el año de 1732. <zbr/> 17 Don <persName>Andrés de Paredes
+        Polanco y Armendariz</persName>, natural de <Territory>Lima</Territory>, electo Obispo de la
+        <Territory>Imperial de Chile</Territory>, y antes de tomar posesión promovido a
+        <Territory>Quito</Territory> el año de 1731, murió en el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Sangolqui</Settlement> el de
+    1745. <zbr/> 18 Don <persName>Juan Nieto Polo del Aguila</persName>, natural de
+        <Territory>Popayán</Territory> pasó del <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Santa Marta</Territory> el año de 1749, murió el de 1759. <zbr/> 19 Don
+        <persName>Pedro Ponce y Carrasco</persName>, natural de <Settlement>Sevilla</Settlement>,
+    Obispo in partibus de Adramite, y auxiliar de <Territory>Cuba</Territory>, electo de
+        <Territory>Quito</Territory> el año de 1762, y tomó posesión el de 1764, murió el de 1770.
+    <zbr/> 20 Don <persName>Blas Sobrino y Minayo</persName> electo Obispo de <Territory>Cartagena
+        de Indias</Territory>, y promovido a la Iglesia de <Territory>Quito</Territory> el año de
+    1776. <zbr/> 21 Don <persName>Joseph Pérez Calama</persName>, natural de
+        <Settlement>Salamanca</Settlement>, Dean, de la Santa Iglesia de <Settlement>Valladolid de
+        Mechocán</Settlement>, electo Obispo de <Territory>Quito</Territory> este año de 1788.<zbr/> $$$<zbr/>
+    <zbr/> @@@Alcedo_vol_4-0386@@@<zbr/>
+    <zbr/> #___PRESIDENTES, GOBERNADORES y Comandantes Generales del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.___<zbr/>
+    ßßß<zbr/> # 1 El Licenciado <persName>Cañaveral</persName>, primer Presidente Togado que consta
+    en los documentos de aquel archivo, murió allí el año de 1586. <zbr/> 2 El Doctor
+        <persName>Miguel Barros de San Millán</persName> entró en 1588, fue separado de la
+    Presidencia, y llamado a <Settlement>Lima</Settlement> por el Virrey del
+        <Territory>Perú</Territory> el año de 1589. <zbr/> 3 El Licenciado
+        <persName>Marañon</persName> tomó posesión el año de 1592, murió el siguiente de 1593.
+    <zbr/> 4 El Licenciado <persName>Miguel de Ibarra</persName> en 1595, murió en 1597.<zbr/> 5 El
+    Licenciado <persName>Martín de Recalde</persName> pasó promovido de Oidor de <Territory>Santa
+        Fe</Territory> a esta Presidencia. <zbr/> 6 Don <persName>Antonio de Murga</persName> pasó
+    de Oidor de <Territory>México</Territory>, y murió el año de 1603. <zbr/> 7 El Licenciado
+        <persName>Alonso Pérez de Salazar</persName>, salió promovido a Presidente de
+        <Territory>Charcas</Territory>. <zbr/> 8 El Licenciado <persName>Juan de
+    Lizarazu</persName>, Caballero del Orden de Santiago, fue promovido de la Presidencia de
+        <Territory>Charcas</Territory>, que estaba sirviendo, a esta de <Territory>Quito</Territory>
+    el año de 1613, murió el de 1619. <zbr/> 9 Don <persName>Martín de Arriola</persName>, Caballero
+    del Orden de Alcántara, entró el año de 1623, murió el de 1626. <zbr/> 10 Don <persName>Pedro
+        Vázquez de Velasco</persName>, pasó promovido a la Presidencia de
+        <Territory>Charcas</Territory>. <zbr/> 11 Don <persName>Antonio Fernando de
+        Heredia</persName>, Caballero del Orden de Santiago. <zbr/> 12 Don <persName>Diego del Corro
+        Carrascal</persName>, primer Inquisidor de <Settlement>Cartagena de Indias</Settlement>,
+    murió allí. <zbr/> 13 El Doctor Don <persName>Alonso de la Peña Montenegro</persName>, Obispo de
+    aquella Diócesis, nombrado Presidente el año de 1658, que exerció hasta el de 1663. <zbr/> 14
+    Don <persName>Lope Antonio de Munive</persName>, Caballero del Orden de Alcántara el año de
+    1664, murió el de 1670. 15 Don <persName>Mateo de Mata</persName>, de la misma Orden que el
+    anterior, el año de 1672. <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0387@@@<zbr/>
+    <zbr/> #16 Don <persName>Francisco López Dicastillo</persName>, Caballero del Orden de
+    Calatrava, el año de 1688 hasta el de 1705. 17 Don <persName>Juan de Sosaya</persName>, del
+    Orden de Santiago, el año de 1711, murió el de 1713. <zbr/> 18 Don <persName>Santiago de
+        Larraín</persName>, del Orden de Santiago, nombrado interinamente el año de 1715, confirmado
+    por el Rey el de 1721, acabó la provisión de su tiempo el de 1726. <zbr/> 19 Don
+        <persName>Dionisio de Alcedo y Herrera</persName> entró en <Settlement>Quito</Settlement> el
+    año de 1728, gobernó hasta el de 1736. <zbr/> 20 Don <persName>Joseph de Araujo y Río</persName>
+    tomó posesión el referido año hasta el de 1743. <zbr/> 21 El Doctor Don <persName>Fernando
+        Sánchez de Orellana</persName>, Marqués de Solanda, el año de 1745 hasta el de 1753. <zbr/>
+    22 Don <persName>Juan Pio de Montufar y Fraso</persName>, Marqués de
+        <Concept_Landmark>Selva</Concept_Landmark> Alegre, Caballero del Orden de Santiago y del
+    Consejo de Indias, tomó posesión el dicho año, y murió el de 1761. <zbr/> 23 Don <persName>Juan
+        Antonio Zelaya y Vergara</persName>, Teniente Coronel de los Reales Exércitos, pasó del
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> el año
+    de 1766, y gobernó hasta el de 1767. <zbr/> 24 Don <persName>Joseph Angel Diguja y
+        Quiñones</persName>, Coronel de los Reales Exércitos, pasó promovido del
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> el año de
+    1667 hasta el de 1777 que se suprimió la Presidencia, y entró en calidad de Regente. <zbr/> 25
+    Don <persName>Joseph García de León y Pizarro</persName> hasta el año de 1783 que pasó promovido
+    a Plaza del Consejo de Indias. <zbr/> 26 Don <persName>Juan Joseph de Villaluenga y
+        Marfil</persName> que como Regente gobierna desde el año de 1783.<zbr/> $$$<zbr/>
+    <zbr/> §§§id_13864§§§<zbr/> #Tiene el mismo nombre de Quito un
+        <Concept_Landmark>río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, nace de una
+        <Concept_Landmark>laguna</Concept_Landmark> inmediata a otra de donde tiene su origen el de
+        <Landmark>San Pablo</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> ##de
+        <Territory>Novita</Territory>, y a poco espacio se unen ambos y forman el de
+        <Landmark>Atrato</Landmark>.<zbr/>
+    <zbr/> §§§id_13865§§§<zbr/> QUIVA, <Concept_Territory>Provincia</Concept_Territory> de la
+        <Territory>California</Territory> en la <Territory>América Septentrional</Territory>, está
+    muy poco poblada de <Concept_Group>Indios bárbaros</Concept_Group>, por lo qual está poco <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0388@@@<zbr/>
+    <zbr/> #conocida, entre 30 y 35 gr. de lat. sept.<zbr/>
+    <zbr/> §§§id_13866§§§<zbr/> QUIVIO, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Asiento de Minas</Concept_Settlement> de Plata de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chumbivilcas</Territory>
+    en el <Territory>Perú</Territory>.<zbr/>
+    <zbr/> §§§id_13867§§§<zbr/> QUIVIQUINTA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Acaponeta</Territory> en <Territory>Nueva
+        España</Territory>, distante 8 leguas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
+    <zbr/> §§§id_13868§§§<zbr/> QUIVIRA, <Concept_Territory>Provincia</Concept_Territory> del
+        <Territory>Nuevo México</Territory> en la <Territory>América Septentrional</Territory>,
+    descubierta por <persName>Francisco Vázquez Coronado</persName>, natural de
+        <Settlement>Salamanca</Settlement>, de orden del Virrey de <Territory>Nueva
+        España</Territory> Don <persName>Antonio de Mendoza</persName>, el año de 1542, es
+        <Concept_Territory>país</Concept_Territory> llano, sin árboles, piedras ni otra cosa; estaba
+    muy poco poblado, y sus naturales andan desnudos cubriéndole las partes vergonzosas con cuero de
+    que también hacen calzados, las mugeres hacen vanidad de tener el cabello muy largo, no tienen
+    pan de ninguna especie para comer, y su principal alimento es la carne, que las más veces comen
+    cruda porque no tienen leña ni para hacer fuego más que la boñiga de vaca, cuyo sebo también
+    comen como lo sacan de la res, bebiendo la sangre caliente; andan vagando muchos juntos, y mudan
+    freqüentemente de mansión como los aduares de los Moros, siguiendo el pasto de los bueyes que es
+    su mayor y casi única riqueza: estos son del tamaño de los de <Territory>Europa</Territory>,
+    aunque las astas son más cortas, tienen una gran joroba encima de la cruz, y de medio cuerpo
+    adelante una lana muy larga, de modo que por la frente les cuelgan grandes guedejas y parece que
+    son barbas, la cola es larga y peluda al extremo, son muy ligeros y feos a la vista, de ellos
+    sacan estos <humanGroup type="social_group">Indios</humanGroup> su comida, bebida, vestido,
+    calzado etc. de las pieles hacen sogas, de los huesos punzones, de los nervios y pelo hilo, de
+    los cuernos, buches y vexigas vasos, de las boñigas lumbre, de las terneras odres para tener
+    agua, y en fin quantas cosas necesitan para vivir: también hay en esta
+        <Concept_Territory>Provincia</Concept_Territory> otros animales tan grandes como caballos
+    que por tener cuernos y lana muy fina llaman allí carneros, y perros muy corpulentos y forzudos
+    que lidian con un toro, y cargan dos arrobas de peso quando <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0389@@@<zbr/>
+    <zbr/> #los llevan a caza o se mudan con el ganado a otro parage. Produce el
+        <Concept_Territory>país</Concept_Territory> muchas frutas, como ciruelas, moras, nueces,
+    melones y uvas: gobernaba allí quando llegaron los <humanGroup type="political_group"
+        >Españoles</humanGroup> el Cacique o Señor llamado <persName>Tatarrás</persName>, quedáronse
+    con él, para establecerse y poblar, <persName>Andrés Docampo</persName>, Portugués, con Fr.
+        <persName>Juan Padilla</persName>, del Orden de S. Francisco, y otro Religioso, y doce
+        <humanGroup type="social_group">Indios</humanGroup> convertidos de
+        <Territory>Mechoacán</Territory>; pero habiendo dado muerte los <humanGroup
+        type="indigenous_group">Quivirenses</humanGroup> a aquellos escaparon los demás, quedando
+    prisionero el Portugués, que a los diez meses pudo huir con el auxilio de dos perros, y llegó a
+        <Settlement>México</Settlement> con el cabello y barbas muy crecidos, desde entonces no se
+    ha vuelto a tratar de reducir los naturales de esta
+        <Concept_Territory>Provincia</Concept_Territory> que está en 42 gr. de lat. sept. y es de
+    clima templado, abundante en aguas.<zbr/>
+    <zbr/> §§§id_13869§§§<zbr/> QUIXE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Lucanas</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Querobamba</Settlement>.<zbr/>
+    <zbr/> §§§id_13870§§§<zbr/> QUIXOS y Macas, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, confina por el
+    N con la de <Territory>Pastos</Territory>, por ##el Sur con la de <Territory>Cuenca</Territory>,
+    por el O con las de <Territory>Quito</Territory>, <Territory>Tacunga</Territory> y
+        <Territory>Ambato</Territory>, de quienes la divide la
+        <Concept_Landmark>Cordillera</Concept_Landmark> de
+        <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Cotopaxi</Landmark> y
+        <Landmark>Cayamburu</Landmark>, y por el E con el
+        <Concept_Territory>Gobierno</Concept_Territory> Misiones de <Territory>Mainas</Territory>;
+    es <Concept_Territory>país</Concept_Territory> sumamente áspero, montuoso, quebrado y lleno de
+        <Concept_Landmark>ríos</Concept_Landmark>, algunos muy caudalosos, y todos van a parar al
+        <Landmark>Marañon</Landmark>, intransible si no es a pie, como iban los Misioneros que lo
+    atravesaban a <Concept_Landmark>costa</Concept_Landmark> de inmensos trabajos y fatigas para
+    entrar a la de <Territory>Mainas</Territory>; su temperamento es frío, produce mucho algodón y
+    tabaco que tiene particular estimación en todo el <Territory>Perú</Territory>, a donde lo
+    conducen por <Settlement>Guayaquil</Settlement> y <Settlement>Piura</Settlement>; el cultivo de
+    estos frutos hace que se apliquen poco al del trigo, maíz y cebada, que siembran solo el preciso
+    para su subsistencia, aunque el terreno es muy fértil en las
+        <Concept_Landmark>llanuras</Concept_Landmark> y
+        <Concept_Landmark>quebradas</Concept_Landmark>; tiene minerales de oro y de polvos azules, y
+    una resina qué llaman allí estoraque, y es en realidad un menjui finísimo; produce gran cosecha
+    de canela que si la beneficiaran sería tan buena como la de <Territory>Ceilan</Territory>, pero
+    sin embargo tie<zbr/>
+    <zbr/> @@@Alcedo_vol_4-0390@@@<zbr/>
+    <zbr/> #ne mucha estimación y consumo en las <Concept_Territory>Provincias</Concept_Territory>
+    del <Territory>Perú</Territory>: descubrió este <Concept_Territory>país</Concept_Territory>
+    <persName>Gonzalo Díaz de Pineda</persName> el año de 1536, enviado por <persName>Sebastián de
+        Belalcazar</persName> desde <Settlement>Popayán</Settlement> a investigar la salida del
+        <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>, y
+    adquirir noticias de los países confinantes a él, con cuyas noticias entró a su conquista
+        <persName>Gonzalo Pizarro</persName>, Gobernador de <Territory>Quito</Territory>, el año de
+    1539; pero el mal suceso y trabajos de esta jornada no permitió verificar sus ideas, y quedó
+    inculto hasta el de 1559 que Don <persName>Andrés Hurtado</persName>, <persName>Marqués de
+        Cañete</persName>, Virrey del <Territory>Perú</Territory>, envió a <persName>Gil Ramírez
+        Dávalos</persName> a conquistarlo y poblarlo, como lo executó reduciendo a sus <humanGroup
+        type="social_group">naturales</humanGroup>. Divídese hoy esta
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> en dos
+        <Concept_District>partidos</Concept_District> que son el de <Territory>Quíxos</Territory> y
+    el de <Territory>Macas</Territory>, que por el Oriente confina con el de
+        <Territory>Mainas</Territory>, por el Sur con el de <Territory>Bracamoros</Territory> o
+        <Territory>Yaguarsongo</Territory>, y por el Occidente con la
+        <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>: en ambos
+        <Concept_District>partidos</Concept_District> viven sus naturales en continuo sobresalto y
+    cuidado defendiendo sus casas y <Concept_Structure>chacras</Concept_Structure> de las freqüentes
+    invasiones que hacen los <humanGroup type="social_group">Indios</humanGroup> ##infieles que los
+    rodean por todas partes, de modo que cada <Concept_Settlement>Población</Concept_Settlement>
+    está amenazada de los que habitan los campos y parages de su inmediación, y son numerosas
+        <Concept_Group>naciones</Concept_Group>; y siempre que aquellos <humanGroup
+        type="social_group">vecinos</humanGroup> hostigados de sus correrías toman las armas contra
+    ellos solo consiguen la ventaja de entrar en sus
+        <Concept_Territory>territorios</Concept_Territory> y apresar algunos volviendo sin otro
+    fruto, porque siendo aquellos gentiles gente de ninguna estabilidad, y que vive aun separada de
+    las costumbres racionales, ni tienen asiento determinado en parte alguna, ni formalidad de
+        <Concept_Settlement>Población</Concept_Settlement>: así reduciendo su mayor pérdida a
+    retirarse algo quando los nuestros los persiguen, luego que se ven fuera de este peligro vuelven
+    a recuperar el <Concept_Territory>país</Concept_Territory> acercándose con lentitud a las
+        <Concept_Settlement>Poblaciones</Concept_Settlement>, y quando ha mediado algún tiempo y
+    consideran descuidados a sus vecindarios los acometen repentinamente para robar quanto
+    encuentran que es su principal objeto. Este peligro a que siempre han estado expuestas aquellas
+        <Concept_Settlement>Ciudades</Concept_Settlement> y
+        <Concept_Settlement>Pueblos</Concept_Settlement> ha sido la principal causa, además de la
+    del Clima, para que se <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0391@@@<zbr/>
+    <zbr/> #hallen en tanta decadencia, y no se aumente su Pobla##ción que consta de las
+        <Concept_Settlement>Ciudades</Concept_Settlement> y
+        <Concept_Settlement>Pueblos</Concept_Settlement> siguientes. <zbr/>
+    <zbr/> ___En el <Concept_District>partido</Concept_District> de <Territory>Quixos</Territory>.___<zbr/>
+    <zbr/> ßßß<zbr/> # CIUDADES. <zbr/>
+    <Settlement>Baeza</Settlement>
+    <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <Settlement>Archidona</Settlement>. <zbr/>
+    <Settlement>Avila</Settlement>. <zbr/> ##PUEBLOS. <zbr/>
+    <Settlement>La Concepción</Settlement>. <zbr/>
+    <Settlement>Loreto</Settlement>. <zbr/> ###<Settlement>San Salvador</Settlement>. <zbr/>
+    <Settlement>Cota Piñi</Settlement>. <zbr/>
+    <Settlement>Santa Rosa</Settlement>.<zbr/> $$$<zbr/>
+    <zbr/> #A que se agregan los <Concept_Settlement>Pueblos</Concept_Settlement> de las Misiones de
+        <Settlement>Sucumbios</Settlement> que fundaron los Regulares de la extingui##da Compañía, y
+    aunque el siglo pasado eran diez están hoy reducidos a cinco. <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>San Diego de los Palmares</Settlement>. <zbr/>
+    <Settlement>San Francisco de los Curiquaxes</Settlement>. <zbr/> ##<Settlement>San Pedro de
+        Alcántara de la Coca</Settlement> o <Settlement>Nariguera</Settlement>. <zbr/>
+        ###<Settlement>San Joseph de los Abucees</Settlement>.<zbr/>
+    <Settlement>San Christóval de los Yaguages</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> ___En el <Concept_District>partido</Concept_District> de <Territory>Macas</Territory>.___<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Macas</Settlement>
+    <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <Settlement>S. Miguel de Narvaez</Settlement>.<zbr/>
+    <Settlement>Barahonas</Settlement>.<zbr/> ##<Settlement>Yuquipa</Settlement>. <zbr/>
+    <Settlement>Juan López</Settlement>.<zbr/>
+    <Settlement>Zuña</Settlement>.<zbr/> ###<Settlement>Pairá</Settlement>. <zbr/>
+    <Settlement>Copueno</Settlement>. <zbr/>
+    <Settlement>Aguayos</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_13871§§§<zbr/> #Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>
+    pequeño de esta <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> que entra en el de <Landmark>Coca</Landmark>.<zbr/>
+    <zbr/> §§§id_13872§§§<zbr/> QUIZIAPA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
+        <Settlement>Atlistac</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Tlapa</Territory> en <Territory>Nueva España</Territory>, tiene 32 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, es de temperamento frío y húmedo, y su
+    comercio solo se reduce a maíz, porque la suma pobreza en que viven ##no les permite otra cosa,
+    está 3 leguas al O del de <Settlement>Cuapala</Settlement>.<zbr/>
+    <zbr/> §§§id_13873§§§<zbr/> QUIZU, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Canta</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Arahuay</Settlement>.<zbr/>
+    <zbr/> §§§id_13874§§§<zbr/> QULHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_District>partido</Concept_District> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Mexilcaltzinco</Territory> en <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0392@@@<zbr/>
+    <zbr/> #<Territory>Nueva España</Territory>, tiene 234 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 3 leguas al Poniente de su
+        <Concept_Settlement>Capital</Concept_Settlement>.<zbr/>
+    <zbr/> §§§id_13875§§§<zbr/> QUOHAN, <Concept_Landmark>Valle</Concept_Landmark> grande, fértil y
+    hermoso de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>,
+    llamado así por el nombre del ##Cacique que gobernaba en él quando llegaron los <humanGroup
+        type="political_group">Españoles</humanGroup>.<zbr/>
+    <zbr/> §§§id_13876§§§<zbr/> QUORURUPA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Puerto Seguro</Territory> en
+    el <Territory>Brasil</Territory>, nace cerca de la <Concept_Landmark>Costa</Concept_Landmark>,
+    corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark> entre la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Abre Ojos</Landmark> y la
+        <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>Goerce</Landmark>.<zbr/>
+    <zbr/> §§§id_13877§§§<zbr/> #RABEL, <Concept_Landmark>Punta</Concept_Landmark> de Juan)
+        <Concept_Landmark>Cabo</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
+    <Territory>Española</Territory> o de <Territory>Santo Domingo</Territory> en la
+        <Concept_Landmark>Costa</Concept_Landmark> del S, entre la de <Landmark>San
+        Nicolás</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> del
+        <Landmark>Agua</Landmark>.<zbr/>
+    <zbr/> §§§id_13878§§§<zbr/> RABIJUNCO, Punta de) <Concept_Landmark>extremidad</Concept_Landmark>
+    de la <Concept_Landmark>Costa</Concept_Landmark> del O y del S de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Inagua</Landmark>.<zbr/>
+    <zbr/> §§§id_13879§§§<zbr/> RABINAL, S. Pablo de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Vera Paz</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado en
+    un hermoso y dilatado <Concept_Landmark>valle</Concept_Landmark> que llaman de <Landmark>San
+        Nicolás</Landmark>, a orilla de un <Concept_Landmark>río</Concept_Landmark> que lo fertiliza
+    y hace abundante de pescado, es de temperamento cálido con moderación, muy abundante de frutos y
+    frutas delicadas, como de ganados, aves y caza, particularmente de cañas dulces; y aun##que es
+    escaso de trigo no se echa menos, así porque casi todos están acostumbrados al pan de maíz, como
+    por la facilidad que tienen de conducirlo en dos días de <Settlement>Suchitepeque</Settlement>
+    donde abunda: la fertilidad de este <Concept_Settlement>Pueblo</Concept_Settlement> y su
+    frondosidad lo hacían antes <Concept_District>Curato</Concept_District> muy apetecido de los
+    Religiosos del Orden de Santo Domingo a que pertenecía hasta que el Rey mandó en toda la
+        <Territory>América</Territory> que fuesen Clérigos: tiene de vecindario 1800 <humanGroup
+        type="social_group">Indios</humanGroup>, y son anexos a él los
+        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Salania</Settlement> y el
+        <Settlement>Chol</Settlement>.<zbr/>
+    <zbr/> §§§id_13880§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>monte</Concept_Landmark>
+    cerca del <Concept_Settlement>Pueblo</Concept_Settlement> anterior de quién le toma este.<zbr/>
+    <zbr/> §§§id_13881§§§<zbr/> RABO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0393@@@<zbr/>
+    <zbr/> #<Territory>Buenos Ayres</Territory>, corre al N, y entra en el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark>.<zbr/>
+    <zbr/> §§§id_13882§§§<zbr/> RACAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, es todo de
+        <humanGroup type="social_group">Indios</humanGroup>, abunda de hermosos pastos, y dista 4
+    leguas al NO de su <Concept_Settlement>Capital</Concept_Settlement>, y 2 al N del de
+        <Settlement>Sayausi</Settlement>: está en 2 gr. 52 min. de lat. aust.<zbr/>
+    <zbr/> §§§id_13883§§§<zbr/> RACAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Reyes</Settlement>.<zbr/>
+    <zbr/> §§§id_13884§§§<zbr/> RACINE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la
+        <Territory>América Septentrional</Territory>, corre al S entre los de
+        <Landmark>Sioux</Landmark> y <Concept_Landmark>Río</Concept_Landmark> grande, y torciendo
+    luego su curso al O entra en el <Landmark>Misouri</Landmark>.<zbr/>
+    <zbr/> §§§id_13885§§§<zbr/> RACLLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Caxacay</Settlement>.<zbr/>
+    <zbr/> §§§id_13886§§§<zbr/> RACOON, <Concept_Landmark>Río</Concept_Landmark> pequeño del
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>Salem</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Nueva Jersey</Territory>,
+    corre al O, y entra en el <Landmark>Delaware</Landmark>.<zbr/>
+    <zbr/> §§§id_13887§§§<zbr/> Tienen el mismo nombre unas
+        <Concept_Landmark>Islas</Concept_Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Carolina Meridional</Territory>,
+    junto al <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Carteret</Landmark>.<zbr/>
+    <zbr/> §§§id_13888§§§<zbr/> RADA, Ensenada de) en la <Concept_Landmark>Costa</Concept_Landmark>
+    de la Provin##cia y <Concept_Territory>Gobierno</Concept_Territory> de
+        <Territory>Cartagena</Territory>, formada delante de la
+        <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>fuerte</Landmark> por la <Concept_Landmark>punta</Concept_Landmark> de
+        <Landmark>piedra</Landmark> y la de <Landmark>Manzanillo</Landmark>.<zbr/>
+    <zbr/> §§§id_13889§§§<zbr/> RADE, Grand) <Concept_Landmark>Ensenada</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>Isla</Concept_Landmark>
+    de <Landmark>San Christóval</Landmark>, una de las <Landmark>Antilles</Landmark>, la mayor que
+    hay en toda ella, y donde fondean las embarcaciones, está en la
+        <Concept_Landmark>Costa</Concept_Landmark> del SO en la parte que poseían los <humanGroup
+        type="political_group">Ingleses</humanGroup> antes que la cedieran a los <humanGroup
+        type="political_group">Franceses</humanGroup>, defendida por un buen
+        <Concept_Structure>castillo</Concept_Structure> llamado el
+        <Concept_Structure>Fuerte</Concept_Structure> Carlos de figura quadrada, a cuya inmediación
+    por la espalda hay unas <Concept_Landmark>minas</Concept_Landmark> de plata que se trabajaron en
+    otro tiempo.<zbr/>
+    <zbr/> §§§id_13890§§§<zbr/> RADGON, Estrecho de) en la
+        <Concept_Landmark>Costa</Concept_Landmark> del E de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre el de
+        <Landmark>Smith</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Taureaux</Landmark> o de <Landmark>Toros</Landmark>.<zbr/>
+    <zbr/> §§§id_13891§§§<zbr/> RADNOR, <Concept_Settlement>Ciudad</Concept_Settlement> pequeña del
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>Filadelfia</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory>, está
+    hermosamente construida en una situación fértil y amena, tiene 80 familias de vecindario, y se
+    llamó al principio Amstel por los <humanGroup type="political_group">Holandeses</humanGroup> que
+    fueron los que empezaron su fundación.<zbr/>
+    <zbr/> §§§id_13892§§§<zbr/> S. RAFAEL, <Concept_Settlement>Pueblo</Concept_Settlement> de <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0394@@@<zbr/>
+    <zbr/> #la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Chiquitos</humanGroup> en el <Territory>Perú</Territory>,
+    situado a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Capivari</Landmark>, es <Concept_Settlement>reducción</Concept_Settlement> de las
+    Misiones que tuvieron allí los Regulares de la extinguida Compañía.<zbr/>
+    <zbr/> §§§id_13893§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>California</Territory>, situado en la orilla de la
+        <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>Golfo</Concept_Landmark>,
+    cerca de la <Concept_Landmark>Bahía</Concept_Landmark> de los <Landmark>Angeles</Landmark>.<zbr/>
+    <zbr/> §§§id_13894§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, situado cerca de un
+        <Concept_Landmark>río</Concept_Landmark>, y al S de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Nirua</Settlement>.<zbr/>
+    <zbr/> §§§id_13895§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory> en la
+        <Territory>América Septentrional</Territory>, situado cerca de un
+        <Concept_Landmark>río</Concept_Landmark> entre los
+        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>San Marcelo</Settlement> y
+    la <Settlement>Merced</Settlement>.<zbr/>
+    <zbr/> §§§id_13896§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, que era
+    antes <Concept_District>Curato</Concept_District> de los Religiosos de Santo Domingo.<zbr/>
+    <zbr/> §§§id_13897§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Puchacay</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Bíobío</Landmark>, enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Landmark>Santa Juana</Landmark>, y en que hay construido un fuerte por los <humanGroup
+        type="political_group">Españoles</humanGroup> para defender el paso de aquel
+        <Concept_Landmark>río</Concept_Landmark> a los <humanGroup type="indigenous_group"
+        >Araucanos</humanGroup>.<zbr/>
+    <zbr/> §§§id_13898§§§<zbr/> ##Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado
+    25 leguas de la <Concept_Settlement>Capital</Concept_Settlement>, y 10 de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de los <Settlement>Remedios</Settlement>.<zbr/>
+    <zbr/> §§§id_13899§§§<zbr/> Un <Concept_Landmark>cabo</Concept_Landmark> o
+        <Concept_Landmark>punta de tierra</Concept_Landmark> en la
+        <Concept_Landmark>Costa</Concept_Landmark> del E de la
+        <Concept_Landmark>Isla</Concept_Landmark>
+    <Territory>Española</Territory> o de <Territory>Santo Domingo</Territory>, que es una de las que
+    forman la gran <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, y está
+    27 leguas de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>S. Juan de
+        Puertorico</Territory>.<zbr/>
+    <zbr/> §§§id_13900§§§<zbr/> RAGE, Cabo de) en la <Concept_Landmark>Costa</Concept_Landmark> del
+    Sur de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory>, entre el
+        <Landmark>Vieu Port</Landmark> o <Landmark>Viejo</Landmark>
+    <Concept_Landmark>Puerto</Concept_Landmark> y el de <Landmark>Tangrer</Landmark>.<zbr/>
+    <zbr/> §§§id_13901§§§<zbr/> Otro <Concept_Landmark>cabo</Concept_Landmark> o
+        <Concept_Landmark>punta de tierra</Concept_Landmark> hay de este nombre en la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Landmark>Costa</Concept_Landmark> distinto del anterior, entre el
+        <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Heve</Landmark> y la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Mirligueche</Landmark>.<zbr/>
+    <zbr/> §§§id_13902§§§<zbr/> RAGGED, Punta de) en la <Concept_Landmark>Costa</Concept_Landmark>
+    del E de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>, entre
+    la de <Landmark>Deebles</Landmark> y la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Baker</Landmark>.<zbr/>
+    <zbr/> §§§id_13903§§§<zbr/> Tienen el mismo nombre unas
+        <Concept_Landmark>Islas</Concept_Landmark> situadas cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> del S de la <Territory>Nueva Escocia</Territory>
+    o <Territory>Acadia</Territory>, son cinco todas pequeñas, y están entre la <Landmark>Havre
+        vert</Landmark> o <Concept_Landmark>Abra</Concept_Landmark>
+    <Landmark>verde</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> del
+        <Landmark>Ours</Landmark> o del <Landmark>Oso</Landmark>.<zbr/>
+    <zbr/> §§§id_13904§§§<zbr/> S. RAIMUNDO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0395@@@<zbr/>
+    <zbr/> #las <humanGroup type="indigenous_group">Amazonas</humanGroup> en la parte que poseen los
+        <humanGroup type="political_group">Portugueses</humanGroup>,
+        <Concept_Settlement>reducción</Concept_Settlement> de <Concept_Group>Indios
+        infieles</Concept_Group> de las Misiones que tienen allí los Religiosos Carmelitas Descalzos
+    de aquella <Concept_Group>nación</Concept_Group>, situado a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Maruruvaca</Landmark>.<zbr/>
+    <zbr/> §§§id_13905§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre, con el aditamento de las Casillas, en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guatemala</Territory>, es
+    anexo del <Concept_District>Curato</Concept_District> del de <Settlement>San Juan de
+        Sacatepeque</Settlement>, tiene más de 800 <humanGroup type="social_group"
+        >Indios</humanGroup> que hablan el idioma Kachiquel, fue
+        <Concept_District>Curato</Concept_District> de los Religiosos del Orden de Santo Domingo.<zbr/>
+    <zbr/> §§§id_13906§§§<zbr/> RAINES, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el
+        <Concept_District>distrito</Concept_District> de la
+        <Concept_District>Parroquia</Concept_District> de <Settlement>San Felipe</Settlement>.<zbr/>
+    <zbr/> §§§id_13907§§§<zbr/> RAINHAM, <Concept_Settlement>Ciudad</Concept_Settlement> del
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>Bristol</Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Plimouth</Territory> en la
+        <Concept_Territory>Provincia</Concept_Territory> de la <Territory>Nueva
+        Inglaterra</Territory>, situada en una <Concept_Landmark>Isla</Concept_Landmark> a la orilla
+    del <Concept_Landmark>río</Concept_Landmark> de su nombre, 3 millas al N de
+        <Settlement>Taunton</Settlement> y 25 al Sur de <Settlement>Bostón</Settlement>.<zbr/>
+    <zbr/> §§§id_13908§§§<zbr/> RAIS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en
+    los <Territory>Estados Unidos de la América</Territory>, situado a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Jumata</Landmark>.<zbr/>
+    <zbr/> §§§id_13909§§§<zbr/> RAISIN, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, corre al O entre los
+    de ##<Landmark>Barbue</Landmark> y <Landmark>grand Riviere</Landmark> o
+        <Concept_Landmark>Río</Concept_Landmark>
+    <Landmark>grande</Landmark>, y entra en el <Concept_Landmark>lago</Concept_Landmark>
+    <Landmark>Michigan</Landmark>.<zbr/>
+    <zbr/> §§§id_13910§§§<zbr/> RAJAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Ticllos</Settlement>.<zbr/>
+    <zbr/> §§§id_13911§§§<zbr/> RALEMO, <Concept_Landmark>Río</Concept_Landmark> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory> en el
+        <Concept_Territory>territorio</Concept_Territory> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement>
+    <Settlement>Imperial</Settlement> al N baxa de la
+        <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>, y cerca
+    de su nacimiento tiene el nombre de Coypó, corre a Poniente, y sale al
+        <Concept_Landmark>mar</Concept_Landmark>
+    <Landmark>Pacífico</Landmark> o del <Landmark>Sur</Landmark> en 38 gr. 9 min. de lat. aust.<zbr/>
+    <zbr/> §§§id_13912§§§<zbr/> RAMADA, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, la fundó el Capitán <persName>Luis de
+        Manjarres</persName> el año de 1545 en el <Concept_Landmark>valle</Concept_Landmark> de
+        <Landmark>Upár</Landmark>, a la falda de la <Concept_Landmark>Sierra</Concept_Landmark>
+    <Landmark>Nevada</Landmark> y orilla del <Concept_Landmark>río</Concept_Landmark> de la
+        <Landmark>Enea</Landmark>, dándole el nombre de <Settlement>Nueva Salamanca</Settlement> en
+    obsequio de la de <Territory>Castilla</Territory> que era su patria, el qual perdió por haber
+    venido a tanta decadencia que apenas permanecen ruinas, reducida hoy a un miserable
+        <Concept_Settlement>Pueblo de Indios</Concept_Settlement>, sin embargo de abundar de
+        <Concept_Landmark>minas</Concept_Landmark> de muy buen cobre y de canteras de piedra, como
+    por su mucho tráfico, <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0396@@@<zbr/>
+    <zbr/> #pues es paso preciso para subir de <Settlement>Cartagena</Settlement> al
+        <Territory>Nuevo Reyno</Territory>, está 30 leguas al E de <Settlement>Santa
+        Marta</Settlement> en la <Concept_Territory>jurisdicción</Concept_Territory> y
+        <Concept_District>distrito</Concept_District> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de los <Territory>Reyes</Territory> en 308
+    gr. 55 min. de long. y 11 gr. 10 min. de lat. bor.<zbr/>
+    <zbr/> §§§id_13913§§§<zbr/> Tiene el mismo nombre otro
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chichas y
+        Tarija</Territory> en el <Territory>Perú</Territory>, situado en una altura escabrosa cuya
+    subida es de mucho riesgo, está 8 leguas del de <Settlement>Cotagaita</Settlement>.<zbr/>
+    <zbr/> §§§id_13914§§§<zbr/> RAMADILLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Copiapó</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado cerca
+    de la <Concept_Settlement>Capital</Concept_Settlement>, y a la falda de un
+        <Concept_Landmark>cerro</Concept_Landmark> o <Concept_Landmark>monte</Concept_Landmark>
+    célebre llamado el <Landmark>Bramador</Landmark>.<zbr/>
+    <zbr/> §§§id_13915§§§<zbr/> RAMALLOS, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
+    corre al NNE, y entra en el <Landmark>Paraná</Landmark>, entre el de la
+        <Landmark>Matanza</Landmark> y el de en medio.<zbr/>
+    <zbr/> §§§id_13916§§§<zbr/> RAMAUS, <Concept_Landmark>Islotes</Concept_Landmark> de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> del Sur de la de
+    <Territory>Terranova</Territory>, situadas delante de la
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Vieillard</Landmark>.<zbr/>
+    <zbr/> §§§id_13917§§§<zbr/> RAME, <Concept_Landmark>isla</Concept_Landmark> del
+        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> en la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> y <Territory>América
+        Septentrional</Territory>, una de las que llaman de la ##<Landmark>Madelaine</Landmark> los
+        <humanGroup type="political_group">Franceses</humanGroup>, situada al NE de la de
+        <Landmark>Entree</Landmark>.<zbr/>
+    <zbr/> §§§id_13918§§§<zbr/> RAMIERS, <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la de la <Territory>Martinica</Territory>, a
+    la entrada del <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Cul de Sac
+        Royal</Landmark>.<zbr/>
+    <zbr/> §§§id_13919§§§<zbr/> RAMIQUIRI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, produce trigo, maíz
+    y demás frutos de este clima, era donde tenían los Zipas o Reyes de <Territory>Tunja</Territory>
+    sus adoratorios y baños, y en que estaba la opulencia de Bayanique, hoy tendrá 300 <humanGroup
+        type="social_group">vecinos</humanGroup> y 50 <humanGroup type="social_group"
+        >Indios</humanGroup>; cerca de él hay una gran cueva en que daban adoración los Indios a un
+    páxaro adornado de plumas de varios colores y a otros diferentes ídolos, en cuya idolatría
+    permanecieron muchos años después de la conquista, hasta que una India Católica descubrió aquel
+    sitio oculto a Fr. <persName>Diego Mancera</persName>, Religioso del Orden de Santo Domingo, el
+    año de 1590, logrando convertir a aquellos infieles, y quemar los abominables instrumentos de su ceguedad.<zbr/>
+    <zbr/> §§§id_13920§§§<zbr/> RAMIREZ, <Concept_Landmark>Isla</Concept_Landmark> del
+        <Concept_Landmark>mar</Concept_Landmark>
+    <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0397@@@<zbr/>
+    <zbr/> #<Landmark>Austral</Landmark>, situada al NO del
+        <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Horn</Landmark>, llamada así porque
+    la descubrió <persName>Diego Ramírez</persName> el año de 1621, dista 16 leguas de la
+        <Concept_Landmark>Costa</Concept_Landmark>
+    <Landmark>Magallánica</Landmark>, está inculta y desierta en 55 gr. 57 min. de lat. aust.<zbr/>
+    <zbr/> §§§id_13921§§§<zbr/> RAMI-YACU, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, corre al NNO,
+    y entra en el de <Landmark>Yana</Landmark> cerca de su origen.<zbr/>
+    <zbr/> §§§id_13922§§§<zbr/> S. RAMON, <Concept_Settlement>Pueblo</Concept_Settlement> de las
+    Misiones que tenían los Regulares de la Compañía en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>.<zbr/>
+    <zbr/> §§§id_13923§§§<zbr/> RAMOS, <Concept_Landmark>Río</Concept_Landmark> del <Territory>Nuevo
+        Reyno de León</Territory> en la <Territory>América Septentrional</Territory>, corre al E.<zbr/>
+    <zbr/> §§§id_13924§§§<zbr/> RANAS, <Concept_Landmark>Baxo</Concept_Landmark> de
+        <Concept_Landmark>peñas</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
+    del <Landmark>N</Landmark> que se compone de seis <Concept_Landmark>Islotes</Concept_Landmark>,
+    y está entre la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Morante</Landmark> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Jamayca</Landmark> y la Cabeza del O
+    de la de <Territory>Santo Domingo</Territory> en 299 gr. de long. y 17 de lat.<zbr/>
+    <zbr/> §§§id_13925§§§<zbr/> RANCAGUA, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada entre
+    los dos caudalosos <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>Maipo</Landmark> al N
+    y de <Landmark>Cachapual</Landmark> al S, confina con la
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Santiago</Territory>
+    mediando el primero y con la ##de <Territory>Colchagua</Territory> mediando el segundo; aquel la
+    divide de la de <Territory>Melipilla</Territory>, y por el Poniente se extiende hasta la
+        <Concept_Landmark>Costa</Concept_Landmark>, y tiene de largo 13 leguas N S y 40 de ancho E
+    O; riéganla los <Concept_Landmark>ríos</Concept_Landmark>
+    <Landmark>Maypo</Landmark>, <Landmark>Codegua</Landmark>, <Landmark>Cochalan</Landmark> y
+        <Landmark>Cachapoal</Landmark>, sin otros menores que la hacen muy fértil, deliciosa y
+    abundante de frutos, y de pescados que igualmente cogen en dos
+        <Concept_Landmark>lagunas</Concept_Landmark> que tiene en su
+        <Concept_District>distrito</Concept_District> muy grandes: está poco poblada, y las gentes
+    que hay en ella, y llegaran a 12.000 de todos sexos y edades, viven dispersas en
+        <Concept_Structure>haciendas</Concept_Structure> de campo: tiene minerales de oro de muy
+    buena calidad, y en las <Concept_Landmark>montañas</Concept_Landmark> de la parte de Levante una
+    de cristal de roca, y unos baños medicinales no lexos de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Santiago</Territory> célebres
+    por los beneficios que en muchas enfermedades han producido sus aguas.<zbr/>
+    <zbr/> §§§id_13926§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo
+    nombre, aunque también se llama Santa Cruz de Triana.<zbr/>
+    <zbr/> §§§id_13927§§§<zbr/> RANCAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tarma</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Pasco</Settlement>.<zbr/>
+    <zbr/> §§§id_13928§§§<zbr/> RANCHERIA, <Concept_Settlement>Pueblo</Concept_Settlement>
+    <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0398@@@<zbr/>
+    <zbr/> #de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory> y <Concept_Territory>país</Concept_Territory>
+    de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Ziparas</humanGroup>, fundado por <persName>Nicolás de
+        Fedreman</persName> el año de 1535, está cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>laguna</Concept_Landmark>
+    de <Landmark>Maracaibo</Landmark>, distante 36 leguas de donde estuvo al principio, entonces fue
+        <Concept_Settlement>Población</Concept_Settlement> grande y de mucho comercio, pero hoy está
+    reducido a mucha miseria y cortedad.<zbr/>
+    <zbr/> §§§id_13929§§§<zbr/> RANCHERIAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado
+    en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>
+    del <Landmark>N</Landmark>.<zbr/>
+    <zbr/> §§§id_13930§§§<zbr/> Tienen el mismo nombre unos
+        <Concept_Landmark>Islotes</Concept_Landmark> pequeños de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, situados cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory> al O de
+    la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Mercalo</Landmark>.<zbr/>
+    <zbr/> §§§id_13931§§§<zbr/> RANCHO, Viejo) <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, situado
+    en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>
+    del <Landmark>N</Landmark> cerca de la <Landmark>Calidonia</Landmark>.<zbr/>
+    <zbr/> §§§id_13932§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
+    nombre en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> de la
+        <Concept_Territory>jurisdicción</Concept_Territory> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Salta</Territory>.<zbr/>
+    <zbr/> §§§id_13933§§§<zbr/> ##RANCHOS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
+        <Territory>Perú</Territory>, y de la <Concept_Territory>jurisdicción</Concept_Territory> de
+    la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Córdoba</Territory>, está
+    situado a la falda de la <Concept_Landmark>montaña</Concept_Landmark> nevada, entre los
+        <Concept_Landmark>ríos</Concept_Landmark> segundo y tercero.<zbr/>
+    <zbr/> §§§id_13934§§§<zbr/> Tiene el mismo nombre otro
+        <Concept_Settlement>Pueblo</Concept_Settlement> con la advocación de San Miguel en la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Settlement>Real de
+        Minas</Concept_Settlement> de <Settlement>Temascaltepec</Settlement> en <Territory>Nueva
+        España</Territory>, situado en la cumbre de un <Concept_Landmark>monte</Concept_Landmark>
+    que lo hace de temperamento frío, tiene 58 familias de <humanGroup type="social_group"
+        >Indios</humanGroup> que viven de la siembra de trigo, maíz, habas y cebada y de cortar
+    maderas, está 6 leguas al N de su <Concept_Settlement>Cabecera</Concept_Settlement>.<zbr/>
+    <zbr/> §§§id_13935§§§<zbr/> Otro con la advocación de San Mateo en la misma
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> que el antecedente tiene 57 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 6 leguas al Oriente de su
+        <Concept_Settlement>Cabecera</Concept_Settlement>.<zbr/>
+    <zbr/> §§§id_13936§§§<zbr/> RANOUS, <Concept_Landmark>Rocas</Concept_Landmark> o
+        <Concept_Landmark>baxos</Concept_Landmark> de <Concept_Landmark>peñas</Concept_Landmark> de
+    la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> del O de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre el
+        <Concept_Landmark>Cabo</Concept_Landmark>
+    <Landmark>Butard</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark>
+    <Landmark>Crou</Landmark>.<zbr/>
+    <zbr/> §§§id_13937§§§<zbr/> RANQUELCAHUE, <Concept_Settlement>Pueblo de
+        Indios</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Puchacay</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0399@@@<zbr/>
+    <zbr/> #<Territory>Chile</Territory>, situado en la Cabecera del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Heuda</Landmark>.<zbr/>
+    <zbr/> §§§id_13938§§§<zbr/> RANQUEN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Rancagua</Territory> en
+    el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, situado a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Maule</Landmark>.<zbr/>
+    <zbr/> §§§id_13939§§§<zbr/> RANS, Río de los) en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de los <Territory>Ilheos</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, nace cerca
+    de la <Concept_Landmark>Costa</Concept_Landmark>, corre al NNO, y entra en el grande de
+        <Landmark>San Francisco</Landmark>, en el <Concept_Settlement>Pueblo</Concept_Settlement> o
+        <Concept_Settlement>Aldea</Concept_Settlement> de <Settlement>Parateca</Settlement>.<zbr/>
+    <zbr/> §§§id_13940§§§<zbr/> RAPAHANOCK, <Concept_Landmark>Río</Concept_Landmark> grande y
+    caudaloso de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory> en la
+        <Territory>América Septentrional</Territory>, nace en un terreno baxo y pantanoso al pie de
+    las <Concept_Landmark>montañas</Concept_Landmark> de <Landmark>Apalache</Landmark>, y después de
+    correr más de 130 millas, anchísimo, profundo y navegable, desemboca al
+        <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>Chesapeack</Landmark> en 37 gr. 35 min. de lat. sept.<zbr/>
+    <zbr/> §§§id_13941§§§<zbr/> Tiene este nombre un <Concept_Territory>Condado</Concept_Territory>
+    de la misma <Concept_Territory>Provincia</Concept_Territory> que el
+        <Concept_Landmark>río</Concept_Landmark> anterior, llamado antes
+        <Concept_Territory>Condado</Concept_Territory> de <Territory>Essex</Territory>, está en la
+    orilla de él, y contiene 140.920 acres de tierra y tres
+        <Concept_District>Parroquias</Concept_District>, se halla en él parte de un gran
+        <Concept_Landmark>pantano</Concept_Landmark> llamado Dragonswamp que tiene 60 millas,
+    cubierto de malezas y ##cambrones que lo hacen asilo seguro de las fieras y casi impenetrable a
+    los habitantes; la parte meridional de este <Concept_Territory>Condado</Concept_Territory> la
+    riega un <Concept_Landmark>río</Concept_Landmark> grande y navegable llamado
+        <Landmark>Matapayne</Landmark>, que es un <Concept_Landmark>brazo</Concept_Landmark> del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Yorck</Landmark>.<zbr/>
+    <zbr/> §§§id_13942§§§<zbr/> RAPANULAHUE, <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_District>partido</Concept_District> de <Settlement>Toltén baxo</Settlement> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Quillém</Landmark>.<zbr/>
+    <zbr/> §§§id_13943§§§<zbr/> RAPAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxatambo</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Churin</Settlement>.<zbr/>
+    <zbr/> §§§id_13944§§§<zbr/> RAPAYAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Conchucos</Territory> en
+    el mismo <Concept_Territory>Reyno</Concept_Territory> que el anterior, anexo al
+        <Concept_District>Curato</Concept_District> del de <Settlement>Uco</Settlement>.<zbr/>
+    <zbr/> §§§id_13945§§§<zbr/> RAPEL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Colchagua</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, tiene cinco
+    Viceparroquias en su <Concept_District>distrito</Concept_District> y un Convento de Religiosos
+    Agustinos en un <Concept_Landmark>parage</Concept_Landmark> llamado la
+        <Landmark>Estrella</Landmark>, cerca de él y en medio de una
+        <Concept_Landmark>llanura</Concept_Landmark> se levanta una
+        <Concept_Landmark>colina</Concept_Landmark>, y hacia la mitad de ella hay una cueva cuya
+    puerta tiene como dos varas de ancho y poco más de alto, dentro hay un salón irregular de 15
+    varas de largo <zbr/>
+    <zbr/> @@@Alcedo_vol_4-0400@@@<zbr/>
+    <zbr/> #y 3 a 4 de ancho, del medio de la bóveda caen gotas de agua que cesa de destilar en los
+    calores fuertes, las quales se recogen en una corta lagunilla que hay en el pavimento; toda esta
+    cueva de piedra parece obra de la naturaleza, porque no hay memoria ni destino para qué se
+    hubiese hecho artificialmente: en los parages húmedos del
+        <Concept_Territory>territorio</Concept_Territory> de este
+        <Concept_Settlement>Pueblo</Concept_Settlement> se cría una especie de junco de tres quartas
+    de alto, cuyo corazón es blanco y esponjoso, y sirve en lugar de pávilo para hacer velas de sebo
+    que dan muy poco humo, pero se quiebran fácilmente.<zbr/>
+    <zbr/> §§§id_13946§§§<zbr/> Tiene el mismo nombre una
+        <Concept_Landmark>laguna</Concept_Landmark> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> que el
+        <Concept_Settlement>Pueblo</Concept_Settlement> anterior, se forma de las aguas del
+        <Concept_Landmark>mar</Concept_Landmark> que entra dos leguas tierra adentro, hay en ella
+    muchos peces de que se abastece la <Concept_District>comarca</Concept_District>, sirviendo de
+    estanque común: quando se seca la boca por donde entra el agua, que ordinariamente es por el mes
+    de Enero, se quaja el agua que queda dentro, y forma con el calor del sol una costra de dos y de
+    tres palmos de ##grueso de sal muy blanca y de buen gusto, pero este beneficio no se logra todos
+    los años.<zbr/>
+    <zbr/> §§§id_13947§§§<zbr/> Un <Concept_Landmark>río</Concept_Landmark> caudaloso de la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory>,µµµvéase Cachapoalµµµ.<zbr/>
+    <zbr/> §§§id_13948§§§<zbr/> Unos <Concept_Landmark>baxos de peña</Concept_Landmark>, cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory>, a la entrada o boca del
+        <Concept_Landmark>río</Concept_Landmark> de su nombre.<zbr/>
+    <zbr/> §§§id_13949§§§<zbr/> RAPI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamanga</Territory> en
+    el <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> del de
+        <Settlement>Anco</Settlement>.<zbr/>
+    <zbr/> §§§id_13950§§§<zbr/> RAPIDE, Plate) Caída del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Catarakuy</Landmark> en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Iroqueses</humanGroup>, entre el fuerte de la
+        <Landmark>Galete</Landmark> y la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Landmark>Mont-real</Landmark>.<zbr/>
+    <zbr/> §§§id_13951§§§<zbr/> RAPOSO, <Concept_Territory>Provincia</Concept_Territory> del
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory>, o
+        <Concept_District>partido</Concept_District> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de esta
+        <Concept_Territory>Provincia</Concept_Territory> en el <Territory>Nuevo Reyno de
+        Granada</Territory> que antes pertenecía a la de <Territory>Popayán</Territory>, es toda de
+        <Concept_Landmark>bosques</Concept_Landmark>, inculta y desierta, y solo habitada en la
+    parte del N de algunos <Concept_Group>Indios bárbaros</Concept_Group>, tiene muy buenas
+        <Concept_Landmark>minas</Concept_Landmark> de oro de que se trabajan algunas, y es de clima
+    cálido y húmedo, como parte del <Territory>Chocó</Territory> le conviene quanto se ha dicho de
+    él,µµµvéase este artículoµµµ.<zbr/>
+    <zbr/> §§§id_13952§§§ <zbr/>
+    <zbr/></xml>
