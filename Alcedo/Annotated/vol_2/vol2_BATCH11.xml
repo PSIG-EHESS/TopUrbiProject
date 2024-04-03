@@ -1,573 +1,1228 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_2-0251@@@<zbr/>
-<zbr/>
-#año de 1755 contenia 9.624 <humanGroup type="social_group">Colonos blancos</humanGroup>, y 41.000 <humanGroup type="social_group">esclavos</humanGroup>, 334 ingenios de azúcar, 15 <Concept_Structure>plantaciones</Concept_Structure> de añil, 46.840 arboles de cacao, 11.700 plantas de tabaco, 2.257.725 de café, y 12.748.447 de algodón, 4.946 caballos, 2.924 mulas, 125 asnos, 13.716 bueyes y vacas, 11.162 carneros, ovejas y cabras, y 2.455 cerdos; y en otro estado del año de 1767 constan muy aumentados estos artículos, de modo que se computa hoy su producto a 46 millones de libras de azúcar, 21 de café, 320.000 de algodón, y 8.000 de cacao en cada año. <zbr/>
-<zbr/>
-§§§id_06630§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Territory>Nueva España</Territory> en el <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>México</Territory>, situado en un <Concept_Landmark>cerro</Concept_Landmark> de terreno arido y estéril, celebre por el magnífico Templo y <Concept_Structure>Santuario</Concept_Structure> de nuestra Señora de Guadalupe, que se apareció el año de 1531 al Indio <persName>Mexicano Juan Diego</persName> pintada en el lienzo de un ayate o manta; es de primorosa arquitectura, y dotada de mucha riqueza a <Concept_Landmark>costa</Concept_Landmark> de la singular devoción que le tiene todo el <Concept_Territory>Reyno</Concept_Territory>: el vecindario de este <Concept_Settlement>Pueblo</Concept_Settlement> ##se compone de 60 familias de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, y 110 de <humanGroup type="social_group">Indios</humanGroup>: esta una legua de <Territory>México</Territory>, cuya distancia es de una calzada de piedra que tiene una vara de alto, y a trechos hay en ella colocadas unas piramides de mármol en que se ven esculpidos los Misterios del Rosario adornados con las efigies de varios Santos, y en tres arcos estan las estatuas de los Reyes <persName>Felipe IV</persName> y <persName>Carlos II</persName>, en cuyo tiempo se construyó; a la salida para <Territory>México</Territory> tiene un puente que toma el mismo, nombre. <zbr/>
-<zbr/>
-§§§id_06631§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el <Territory>Perú</Territory>, y del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Truxillo</Territory>, esta situado en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Pacasmayo</Landmark>, y es anexo del <Concept_District>Curato</Concept_District> de <Settlement>Chepén</Settlement>, en su Iglesia se venera una milagrosa Imagen de la Virgen con esta advocación, copia de la que hay en Estremadura, y llevó, colocó y dotó de grandes rentas el Capitán Don <persName>Francisco Perez Lezcano</persName>, cediendo para fabrica de la Iglesia y Convento todo su caudal y repartimiento, que era grande, en acción de gracias de haberle librado esta Imagen, a quien profe<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0252@@@<zbr/>
-<zbr/>
-#saba singular devoción, de una muerte afrentosa: celebran su fiesta el día 8 de Diciembre, a que concurrían antes más de 6.000 personas de aquella <Concept_District>comarca</Concept_District>, pero hoy se ha entibiado mucho la devoción. <zbr/>
-<zbr/>
-§§§id_06632§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
-<zbr/>
-§§§id_06633§§§<zbr/>
-Otro de las Misiones que tenían los Regulares de la Compañia en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> estaba a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, entre los de <Landmark>Yavari</Landmark> y <Landmark>Casiquin</Landmark>, junto a una <Concept_Landmark>laguna</Concept_Landmark>, pero hoy esta destruido. <zbr/>
-<zbr/>
-§§§id_06634§§§<zbr/>
-Otro de las Misiones que tenían los mismos Regulares de la Compañia en la <Territory>California</Territory>, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark>, enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Asuncion</Landmark>. <zbr/>
-<zbr/>
-§§§id_06635§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory> en <Territory>Nueva España</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Mayo</Landmark>, entre los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Cedros</Settlement> y <Settlement>Canamoa</Settlement>. <zbr/>
-<zbr/>
-§§§id_06636§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Pernambuco</Territory> en el <Territory>Brasil</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> a la boca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Fermoso</Landmark>. <zbr/>
-<zbr/>
-§§§id_06637§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> de ##<Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, distinto de otro del mismo nombre, esta a la orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Conchos</Landmark>. <zbr/>
-<zbr/>
-§§§id_06638§§§<zbr/>
-Otro de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Luis de Potosí</Territory> y <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> en <Territory>Nueva España</Territory> tiene 28 familias de <humanGroup type="social_group">Indios</humanGroup>, y un Templo magnífico dedicado a la Virgen con esta advocación, y es uno de los más antiguos del <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
-<zbr/>
-§§§id_06639§§§<zbr/>
-Otro de las Misiones que tienen los Religiosos de San Francisco en la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, situado a distancia de 10 leguas, entre S y SE del <Concept_Settlement>Real de Minas</Concept_Settlement> de <Settlement>Chiguagua</Settlement>. <zbr/>
-<zbr/>
-§§§id_06640§§§<zbr/>
-Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Tlapacoya</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de quatro <Concept_Settlement>Villas</Concept_Settlement> en <Territory>Nueva España</Territory> tiene 26 familias de <humanGroup type="social_group">Indios</humanGroup> que se ocupan en el cultivo de la grana, semillas, frutas, y cortar madera con que comercian: esta 2 leguas entre Poniente y N de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_06641§§§<zbr/>
-Otro de la <Concept_Landmark>Isla</Concept_Landmark> de este nombre en que tienen un buen <Concept_Structure>castillo</Concept_Structure> los <humanGroup type="political_group">Franceses</humanGroup>, situado en la Cabeza del S. <zbr/>
-<zbr/>
-§§§id_06642§§§<zbr/>
-Otro de las Misiones que <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0253@@@<zbr/>
-<zbr/>
-#tenían los Regulares de la Compañia en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>. <zbr/>
-<zbr/>
-§§§id_06643§§§<zbr/>
-Otro de las Misiones que tienen los Religiosos de San Francisco de <Territory>Nueva España</Territory> en el <Territory>Nuevo México</Territory>, y tiene el aditamento del Paso. <zbr/>
-<zbr/>
-§§§id_06644§§§<zbr/>
-Otro de las mismas Misiones, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Juntas</Landmark> en el propio <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
-<zbr/>
-§§§id_06645§§§<zbr/>
-Un <Concept_Landmark>Río</Concept_Landmark> de <Territory>Nueva España</Territory> que nace en las <Concept_Landmark>montañas</Concept_Landmark> o serranias al Poniente de <Settlement>México</Settlement> sigue su curso al E, y entra en la <Concept_Landmark>laguna</Concept_Landmark> de aquella <Concept_Settlement>Capital</Concept_Settlement>, a cuya entrada tiene un puente con el mismo nombre. <zbr/>
-<zbr/>
-§§§id_06646§§§<zbr/>
-Otro de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Texas</Territory> en <Territory>Nueva España</Territory> que sale al <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>Seno</Concept_Landmark> <Landmark>Mexicano</Landmark> y <Concept_Landmark>Bahía</Concept_Landmark> o <Concept_Landmark>lago</Concept_Landmark> de <Landmark>San Joseph</Landmark>. <zbr/>
-<zbr/>
-§§§id_06647§§§<zbr/>
-GUADIANA, µµµvéase Durangoµµµ. <zbr/>
-<zbr/>
-§§§id_06648§§§<zbr/>
-GUADIANILLA o San German el Nuevo) <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>San Juan de Puerto-rico</Territory>, tiene un Convento de Religiosos de Santo Domingo, y esta 33 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_06649§§§<zbr/>
-GUADUAS, <Concept_Settlement>Pueblo</Concept_Settlement> ##de la <Concept_Territory>jurisdicción</Concept_Territory> de la <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Honda</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, fue al principio un Convento de Religiosos Franciscos Recoletos de San Pedro de Alcántara, que estando situado en el camino de <Territory>Honda</Territory> a <Settlement>Santa Fe</Settlement>, que es de tanto trafico, se fueron estableciendo allí algunos <humanGroup type="social_group">vecinos</humanGroup> que hoy pasan de 300; es uno de los temperamentos más benignos que hay en todo el <Concept_Territory>Reyno</Concept_Territory>, de terreno fértil y abundante en muchos frutos: esta 16 leguas al SO, 1/4 al S de <Settlement>Santa Fe</Settlement>, y 7 al mismo rumbo de <Territory>Honda</Territory>. <zbr/>
-<zbr/>
-§§§id_06650§§§<zbr/>
-GUAHIUAS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de los <Territory>Llanos</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, nace en el <Concept_Territory>país</Concept_Territory> de los <humanGroup type="social_group">Indios</humanGroup> de este nombre, corre al N, y entra en el de <Landmark>Meta</Landmark>. <zbr/>
-<zbr/>
-§§§id_06651§§§<zbr/>
-GUAIBAI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> del <Territory>Gairá</Territory> en el <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre casi al N, y entra en el de <Landmark>Ibay</Landmark>. <zbr/>
-<zbr/>
-§§§id_06652§§§<zbr/>
-GUAIBARE, <Concept_Landmark>Río</Concept_Landmark> caudaloso del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> que entra en el <Landmark>Marañon</Landmark>. <zbr/>
-<zbr/>
-§§§id_06653§§§<zbr/>
-GUAIBAS, <Concept_Group>Nación barbara</Concept_Group> del <Territory>Nuevo Reyno de Granada</Territory> al Levante de <Settlement>Santa Fe</Settlement>, en la <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0254@@@<zbr/>
-<zbr/>
-#entrada de los <Concept_Landmark>Llanos</Concept_Landmark> de <Landmark>Cazanare</Landmark> y <Landmark>Meta</Landmark>, son vagamundos y muy astutos para hurtar; pero de genio pacifico, dociles y aliados de los <humanGroup type="indigenous_group">Chiricoas</humanGroup>, con los quales fueron derrotados el año de 1669 en la batalla de <Landmark>Guayapegé</Landmark> por los <humanGroup type="indigenous_group">Achaguas</humanGroup>: se empezaron a reducir a la Fe el año de 1650, y el de 1664 se unieron muchos, en <Concept_Settlement>Población</Concept_Settlement>; pero el de 1668 se huyeron a los <Concept_Landmark>bosques</Concept_Landmark>, y poco tiempo después lograron los Misioneros que volviesen al <Concept_Settlement>Pueblo</Concept_Settlement>, que dista 7 leguas del de <Settlement>Pauto</Settlement>. <zbr/>
-<zbr/>
-§§§id_06654§§§<zbr/>
-GUAICAMA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucuman</Territory> en el <Territory>Peru</Territory>, situado en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Catamarca</Landmark>. <zbr/>
-<zbr/>
-§§§id_06655§§§<zbr/>
-GUAICURES o Guascurues) <Concept_Group>Nación barbara</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory> al Levante de la <Settlement>Concepcion</Settlement>, son feroces, inconstantes, traydores, y enemigos irreconciliables de los <humanGroup type="social_group">Europeos</humanGroup>, y sin embargo los Misioneros Regulares de la extinguida Compañia reduxeron algunos a la Fe, y a vida civil en <Concept_Settlement>Población</Concept_Settlement>; han causado siempre muchos daños con sus corre##rias y sorpresas destruyendo las <Concept_Settlement>Poblaciones</Concept_Settlement>, especialmente en las cercanías de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Santa Fe</Settlement>. <zbr/>
-<zbr/>
-§§§id_06656§§§<zbr/>
-GUAICAVAR, <Concept_Settlement>Pueblo</Concept_Settlement> del <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory> y <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark>, poco distante de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. <zbr/>
-<zbr/>
-§§§id_06657§§§<zbr/>
-GUAIGUASCOCHA, <Concept_Landmark>Laguna</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamachuco</Territory> en el <Territory>Perú</Territory>, de donde nace el <Concept_Landmark>río</Concept_Landmark> de <Landmark>Moche</Landmark>. <zbr/>
-<zbr/>
-§§§id_06658§§§<zbr/>
-GUAIGUAZA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>, al E de <Settlement>Puerto Cabello</Settlement>. <zbr/>
-<zbr/>
-§§§id_06659§§§<zbr/>
-GUAIHACOA, <Concept_Settlement>Pueblo</Concept_Settlement> de la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> que el anterior, situado cerca de la <Concept_Landmark>Costa</Concept_Landmark> del E, 1/4 al N de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. <zbr/>
-<zbr/>
-§§§id_06660§§§<zbr/>
-GUAILAS, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>, confina por el N, NE, y E con la de <Territory>Conchucos</Territory>, por el SE y S con la de <Territory>Caxatambo</Territory>, y por el O con la de <Territory>Santa</Territory>: tiene de largo 45 leguas N S, y 16 por lo mas ancho; el temperamento del medio de la <Concept_Territory>Provincia</Concept_Territory> es por la mayor parte benigno, y a uno y otro lado frío, particular<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0255@@@<zbr/>
-<zbr/>
-#mente a la parte del E, que es por donde corre la <Concept_Landmark>cordillera</Concept_Landmark>: riéganla algunos <Concept_Landmark>riachuelos</Concept_Landmark> o <Concept_Landmark>arroyos</Concept_Landmark> que juntos hacen un <Concept_Landmark>río</Concept_Landmark> considerable, que corriendo al N, y recibiendo al fin de la <Concept_Territory>Provincia</Concept_Territory> algunas aguas de la de <Territory>Conchucos</Territory> vuelve al O, y entra en el <Concept_Landmark>mar</Concept_Landmark> con el nombre de <Landmark>Santa Fe</Landmark>: esta <Concept_Territory>Provincia</Concept_Territory> es bastante pingue, y provee de trigo y semillas a otras, labra mucha azúcar que convertida en conservas llevan a las de <Territory>Guanuco</Territory> y <Territory>Tarma</Territory>, y a <Territory>Lima</Territory>: como sus temperamentos son varios, lo son también sus producciones ya de sierra, ya de <Concept_Landmark>valles</Concept_Landmark>, siendo lo más particular que todo el año hay cosechas de trigo, pues ##quando en una parte se siembra en otra se siega; lo mismo sucede con las frutas, que son muchas y varias: abunda de ganados, de cuya lana fabrican ropa de la tierra en los <Concept_Structure>obrages</Concept_Structure> que tiene: ha sido siempre rica en <Concept_Landmark>minas</Concept_Landmark>, como lo demuestran los vestigios de más de 30 <Concept_Structure>molinos</Concept_Structure> de moler metales de oro y plata, y todavia se sacan algunos; tiene un <Concept_Landmark>cerro</Concept_Landmark> de piedra imán, y minerales de alumbre y alcaparrosa en un parage que llaman <Landmark>Yuramarca</Landmark>: su repartimiento era de 140.000 pesos, pagando 1.120 al año de alcavala: la Población consta de 30 <Concept_Settlement>Pueblos</Concept_Settlement>, y la <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Huaraz</Settlement>; los otros son <zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Requai</Settlement>. <zbr/>
-<Settlement>Olleros</Settlement>. <zbr/>
-<Settlement>Marca</Settlement>. <zbr/>
-<Settlement>Ichoca</Settlement>. <zbr/>
-<Settlement>Pampai</Settlement>. <zbr/>
-<Settlement>Huambo</Settlement>.<zbr/>
-<Settlement>Carhuaz</Settlement>. <zbr/>
-<Settlement>Yungai</Settlement>.<zbr/>
-<Settlement>Caraz</Settlement>.<zbr/>
-<Settlement>Huailas</Settlement>.<zbr/>
-##<Settlement>Macate</Settlement>.<zbr/>
-<Settlement>Lacramarca</Settlement>.<zbr/>
-<Settlement>Aija</Settlement>.<zbr/>
-<Settlement>Hicayán</Settlement>.<zbr/>
-<Settlement>Sudcha</Settlement>.<zbr/>
-<Settlement>Coris</Settlement>.<zbr/>
-<Settlement>Huacllán</Settlement><zbr/>
-<Settlement>Cotaparazo</Settlement>.<zbr/>
-<Settlement>Tanacochas</Settlement>.<zbr/>
-<Settlement>Cochapeti</Settlement>. <zbr/>
-###<Settlement>Malvas</Settlement>.<zbr/>
-<Settlement>Hallancahuambo</Settlement>.<zbr/>
-<Settlement>Colchahuanca</Settlement>.<zbr/>
-<Settlement>Pararin</Settlement>.<zbr/>
-<Settlement>Pampas</Settlement>.<zbr/>
-<Settlement>Pira</Settlement>.<zbr/>
-<Settlement>Llacllin</Settlement>.<zbr/>
-<Settlement>Caxamarquilla</Settlement>.<zbr/>
-<Settlement>Huallón</Settlement>.<zbr/>
-<Settlement>Huanchay</Settlement>. <zbr/>
-$$$<zbr/>
-<zbr/>
-§§§id_06661§§§<zbr/>
-#GUAIMAMA, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayana</Territory> o <Territory>Nueva Andalu##cía</Territory>, nace en el <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Parecas</humanGroup>, corre serpenteando, y entra en el de <Landmark>Itari</Landmark>. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0256@@@<zbr/>
-<zbr/>
-§§§id_06662§§§<zbr/>
-#GUAIMI, <Concept_Territory>Provincia</Concept_Territory> antigua y <Concept_Group>Nación de Indios</Concept_Group> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, hoy parte de la de <Territory>Veragua</Territory>, esta en la <Concept_Landmark>Cordillera</Concept_Landmark>, es de terreno fragosísimo, y de temperamento humedo por las continuas lluvias de casi todo el año: riéganla infinitos <Concept_Landmark>ríos</Concept_Landmark>, algunos muy caudalosos, produce frutas y legumbres sin cultivo, alguno como yucas, patatas, auyamas, otoes y ñames, algun maíz, y de grano muy menudo, pero abundancia de pixibaes, que era el alimento común de sus <humanGroup type="social_group">naturales</humanGroup>, el jugo del árbol les servia de vino, y la madera que es muy solida para dardos y flechas: en los <Concept_Landmark>montes</Concept_Landmark> hay leones, tigres, zorros, venados, pericos ligeros, monos de tres especies, blancos, colorados y negros, zaynos, ardillas, pavas, perdices de dos especies, papagayos, periquitos, negritos y otras aves, muchas culebras venenosas: los <humanGroup type="social_group">Indios</humanGroup> de esta <Concept_Territory>Provincia</Concept_Territory> adoraban un <Concept_Landmark>cerro</Concept_Landmark> que hay en ella llamado <Landmark>Nubu</Landmark>, andaban desnudos hombres y mugeres, los reduxo a la Fe el año de 1624 el P. Fr. <persName>Adrián de ##Ufeldre</persName>, del Orden de Santo Domingo; pero hoy se han extinguido, y solo hay un <Concept_Settlement>Pueblo</Concept_Settlement> pequeño. <zbr/>
-<zbr/>
-§§§id_06663§§§<zbr/>
-GUAIMOCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Miguel</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado a la orilla del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, al E del de <Landmark>Sonsonate</Landmark>. <zbr/>
-<zbr/>
-§§§id_06664§§§<zbr/>
-GUAIMORETO, <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Honduras</Territory>, entre el <Concept_Landmark>cabo</Concept_Landmark> de este nombre y el <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Castilla</Landmark>. <zbr/>
-<zbr/>
-§§§id_06665§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark>, junto al <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Codera</Landmark>. <zbr/>
-<zbr/>
-§§§id_06666§§§<zbr/>
-GUAINAMOTA, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepic</Territory> en <Territory>Nueva España</Territory>, tiene 90 familias de <humanGroup type="social_group">Indios</humanGroup> que cultivan en los <Concept_Structure>ranchos</Concept_Structure> de su <Concept_District>distrito</Concept_District> muchos arboles frutales, esta 10 leguas al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_06667§§§<zbr/>
-GUAINAPUTINA, <Concept_Landmark>Volcán</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, situado en la cumbre de un <Concept_Landmark>monte</Concept_Landmark> muy elevado cerca de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Arequipa</Settlement>, ha rebentado varias veces, y particularmente el año de 1600 en que hizo grande estrago. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0257@@@<zbr/>
-<zbr/>
-§§§id_06668§§§<zbr/>
-#GUAINARIMA, <Concept_Territory>Territorio</Concept_Territory> grande del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, distante 12 leguas a Poniente del <Settlement>Cuzco</Settlement>, celebre por haberse hecho en el la división y repartición de los <humanGroup type="social_group">Indios</humanGroup> tributarios por el Licenciado <persName>Pedro de la Gasea</persName>, y Don Fr. <persName>Geronimo de Loaisa</persName>, Arzobispo de <Territory>Lima</Territory>, que Juego se publicó en la <Concept_Settlement>Ciudad</Concept_Settlement> del <Settlement>Cuzco</Settlement> el día 24 de Agosto de 1548. <zbr/>
-<zbr/>
-§§§id_06669§§§<zbr/>
-GUAINI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace en la <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Imataca</Landmark>, corre al N, y sale al <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del E, al lado de la punta y <Concept_Landmark>río</Concept_Landmark> de <Landmark>Barima</Landmark>. <zbr/>
-<zbr/>
-§§§id_06670§§§<zbr/>
-GUAIPANACUAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>. <zbr/>
-<zbr/>
-§§§id_06671§§§<zbr/>
-GUAIQUE, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, nace al N del <Concept_Landmark>valle</Concept_Landmark> del <Landmark>Tucuyo</Landmark>, corre a aquel rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> al O de la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Hicacos</Landmark>. <zbr/>
-<zbr/>
-§§§id_06672§§§<zbr/>
-GUAIQUIRIES, <Concept_Group>Nación barbara de Indios</Concept_Group> en las inmediaciones del <Concept_Landmark>río</Concept_Landmark> <Landmark>Orinoco</Landmark> al Sur, y cerca del nacimiento del <Landmark>Caura</Landmark>, es muy numerosa, y habita entre los <humanGroup type="indigenous_group">Caribes</humanGroup> mediterra##neos, se empezaron a reducir a la Fe por los Regulares de la extinguida Compañia el año de 1732.<zbr/>
-<zbr/>
-§§§id_06673§§§<zbr/>
-GUAIQUIRARO, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, corre al O, y entra en el de l a <Landmark>Plata</Landmark>. <zbr/>
-<zbr/>
-§§§id_06674§§§<zbr/>
-GUAIRA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, fundado por el Gobernador de ella Don <persName>Diego Osorio</persName> el año de 1588, tiene un celebre <Concept_Landmark>Puerto</Concept_Landmark> defendido por un <Concept_Structure>castillo</Concept_Structure>, y muy frequentado de toda especie de embarcaciones por donde se hace todo trafico y comercio de aquella <Concept_Territory>Provincia</Concept_Territory>; el año de 1739 lo atacaron tres navios de linea <humanGroup type="political_group">Ingleses</humanGroup>, pero se retiraron con mucha perdida sin poder entrar por la vigorosa defensa que hizo, dexandose una ancla la Capitana, que se conserva allí por trofeo; y el de 1743 lo envistió con 17 embarcaciones el Almirante <persName>Inglés Carlos Knowlles</persName>, que se vio precisado a desistir del empeño con mucho quebranto. <zbr/>
-<zbr/>
-§§§id_06675§§§<zbr/>
-GUAIRA, <Concept_Territory>Provincia</Concept_Territory> del <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory> descubierta el año de 1550, confina por el N con las <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0258@@@<zbr/>
-<zbr/>
-#tierras desconocidas del <Territory>Brasil</Territory>, por Levante con la <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> del mismo <Concept_Territory>Reyno</Concept_Territory>, y por el Mediodía y Poniente con el <Landmark>Paraguay</Landmark>, dividiéndolas el <Concept_Landmark>río</Concept_Landmark> <Landmark>Paraná</Landmark>: tiene de largo 147 leguas de Oriente a Poniente, y de ancho 132 N S: el terreno es humedo, el clima desigual, y el ayre mal sano; pero fértil en legumbres, raices, maíz y otras plantas que piden poco cultivo: abunda mucho de tigres, vívoras, culebras y caimanes en los <Concept_Landmark>bosques</Concept_Landmark>, y de toda especie de animales: produce muchas granadillas y datiles amargos, cedros, pinos y sabinos, en cuyos huecos se puede coger mucha miel y cera: este <Concept_Territory>país</Concept_Territory> está regado de muchos <Concept_Landmark>ríos</Concept_Landmark>, y los más considerables son el <Landmark>Parapane</Landmark> que recoge las aguas de otros más pequeños, el <Landmark>Tibajirá</Landmark>, <Landmark>Itahua</Landmark>, <Landmark>Guatay</Landmark> y <Landmark>Paraná</Landmark>, cuyas orillas y <Concept_Landmark>bosques</Concept_Landmark> estan pobladas de paxaros de infinitas especies: hállanse aquí unas piedras encerradas en una especie de costra muy dura de figura oval en bastante profundidad de la tierra, dicen que quando llegan a su perfección re##bienta la costra haciendo el mismo ruido que una bomba, y descubre una piedra transparente y de mucho brillo que por lo común es encarnada, aunque las hay verdes y de color de violeta, estan cortadas naturalmente de un modo tan vario y singular que nadie quiere creer que sea obra de la naturaleza, pero son lo mismo que las piedras de <Territory>Francia</Territory>: los <humanGroup type="political_group">Españoles</humanGroup> creyeron al principio que eran esmeraldas, amatistas y carbunclos, pero luego se desengañaron: hay en este <Concept_Territory>país</Concept_Territory> muchos árboles que destilan gomas balsámicas: las correrías que han hecho en el los <humanGroup type="indigenous_group">Mamelucos</humanGroup> o <humanGroup type="political_group">Paulistas</humanGroup> del <Territory>Brasil</Territory> obligaron a los <humanGroup type="political_group">Españoles</humanGroup> a abandonarlo quando destruyeron a <Settlement>Villa Rica</Settlement> y <Settlement>Ciudad Real</Settlement> que habian fundado: se cría una fruta que llaman guembe, que es de figura oblonga, puntiaguda por los extremos, llena de unos pequeños granos amarillos muy dulces si se chupan, pero quando se mascan llenan la boca de un jugo de insoportable acritud; la planta que lo produce es una especie de bejuco que se pe<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0259@@@<zbr/>
-<zbr/>
-#ga a los árboles, y sube a mucha altura, y dicen que si la semilla cae sobre alguna corteza podrida hecha raices que profundizan hasta la tierra, y producen plantas de la misma especie: de los datiles que hemos dicho hacen vino, y una bebida que es muy nutritiva; las palmas que los producen, y se hallan en todas partes, son de gran recurso para los viageros quando tienen falta de víveres, porque su medula es de grande alimento, y muy sana: los javalíes tienen el ombligo en el lomo, y se ha observado que es menester cortarselo quando lo matan, porque si no corrompe toda la carne: la miel es de excelente calidad, pero la cera nunca se ha podido blanquear: los PP. <persName>Manuel de Ortega</persName> y <persName>Tomas Filds</persName> de la extinguida Compañia entraron el año de 1588 a predicar a estos <humanGroup type="social_group">Indios</humanGroup>, donde establecieron unas florecientes Misiones bien gobernadas de muchos <Concept_Settlement>Pueblos</Concept_Settlement>, que el año de 1767 se entregaron a los Clérigos. La <Concept_Settlement>Capital</Concept_Settlement> es el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>nuestra Señora de Loreto</Settlement>. <zbr/>
-<zbr/>
-§§§id_06676§§§<zbr/>
-Tiene el mismo nombre ##un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el <Territory>Perú</Territory> de la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Xuxuy</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Laquiaza</Landmark>. <zbr/>
-<zbr/>
-§§§id_06677§§§<zbr/>
-GUAIRAICAC, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> en la parte de la <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group">Holandeses</humanGroup>, nace en la extremidad de la <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Rinocote</Landmark>, corre al O, y entra en la Cabecera del <Landmark>Caroni</Landmark>. <zbr/>
-<zbr/>
-§§§id_06678§§§<zbr/>
-GUAIRE, <Concept_Landmark>Río</Concept_Landmark> pequeño del <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory> y <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>, nace en la <Concept_Landmark>sierra</Concept_Landmark>, y corre al N hasta salir al <Concept_Landmark>mar</Concept_Landmark> delante de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>, algunos Geografos le llaman Guairi, y ponen su curso al E haciéndole desembocar en el <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Codera</Landmark>. <zbr/>
-<zbr/>
-§§§id_06679§§§<zbr/>
-GUAIRIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Trinidad</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> interior de ella que mira al O, y forma el <Concept_Landmark>golfo</Concept_Landmark> <Landmark>Triste</Landmark>. <zbr/>
-<zbr/>
-§§§id_06680§§§<zbr/>
-GUAITACASIOS, <Concept_Group>Nación barbara</Concept_Group> del <Territory>Brasil</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de los <Territory>Ilheos</Territory> habita en los <Concept_Landmark>bosques</Concept_Landmark>, y en los <Concept_Landmark>montes</Concept_Landmark> a la parte de Poniente, es cruel y feroz; pero solo se sabe que son enemigos implacables de los <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0260@@@<zbr/>
-<zbr/>
-#<humanGroup type="political_group">Portugueses</humanGroup>, que nunca han podido internarse en su <Concept_Territory>país</Concept_Territory>. <zbr/>
-<zbr/>
-§§§id_06681§§§<zbr/>
-GUAITECA, <Concept_Landmark>Isla</Concept_Landmark> desierta de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> cerca de la <Concept_Landmark>Costa</Concept_Landmark> de <Settlement>Chiloé</Settlement> al Mediodía, esta llena de arboles silvestres, y en sus <Concept_Landmark>Playas</Concept_Landmark> se encuentra bellísimo marisco, y muchos lobos marinos: esta en 41 gr. 38 min. de lat. austr. <zbr/>
-<zbr/>
-§§§id_06682§§§<zbr/>
-GUAITO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre al N, y entra en el de <Landmark>Mbotetei</Landmark>. <zbr/>
-<zbr/>
-§§§id_06683§§§<zbr/>
-GUAJARA, <Concept_Landmark>Volcán</Concept_Landmark> de ayre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> en el <Concept_District>distrito</Concept_District> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxuy</Territory>, sale siempre tan impetuoso que trastorna y derriba las gentes y caballerias. <zbr/>
-<zbr/>
-§§§id_06684§§§<zbr/>
-GUAJIARA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Perú</Territory> en el <Territory>Brasil</Territory>, corre al N, y entra en el <Landmark>Marañon</Landmark>. <zbr/>
-<zbr/>
-§§§id_06685§§§<zbr/>
-GUAJICO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Coxcatlán</Settlement> y <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Valles</Territory> en <Territory>Nueva España</Territory>, es anexo al <Concept_District>Curato</Concept_District> de <Settlement>Tampolon</Settlement>, y muy reducida, pues solo tiene quince familias de <humanGroup type="social_group">Indios</humanGroup> <humanGroup type="indigenous_group">Mexicanos</humanGroup> que cuidan del paso del <Concept_Landmark>río</Concept_Landmark> del <Concept_Landmark>Desague</Concept_Landmark> de <Landmark>México</Landmark>, que ##dista 4 leguas de el, y llaman el Paso de la <Landmark>Canoa</Landmark>, y siembra de algunos granos y semillas para su subsistencia: esta 19 leguas al S de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_06686§§§<zbr/>
-GUAJIROS, <Concept_Group>Nación barbara</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, en las inmediaciones de <Settlement>Pamplona</Settlement> y <Settlement>Mérida</Settlement>, habitan en el <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Boronata</Settlement> dependientes de un Cacique que nombra el Rey desde que se sublevaron, son belicosos y valientes, y de los que dieron más que hacer a los conquistadores, era entonces tan numerosa esta <Concept_Group>Nación</Concept_Group> que pasaban de 70.000, pero hoy apenas llegan a 20.000; se emplean en sacar perlas del <Concept_Landmark>río</Concept_Landmark> del <Landmark>Hacha</Landmark>, y en hacer delicados texidos de algodón; andan a caballo, y tienen muchos de los que llaman aguilillas por su velocidad en andar; tienen mucho comercio con los <humanGroup type="political_group">Ingleses</humanGroup> y <humanGroup type="political_group">Holandeses</humanGroup> que los proveen de géneros, de <humanGroup type="social_group">esclavos</humanGroup>, y de armas de fuego y municiones que manejan con mucha destreza; se diferencian de los demás <humanGroup type="social_group">Indios</humanGroup>, así en que son laboriosos y comerciantes que <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0261@@@<zbr/>
-<zbr/>
-#los hace ricos, como en su modo de vestir; las mugeres llevan una manta cosida a modo de basquiña, y los hombres una camiseta corta y una manta terciada al hombro, y unos calzones hasta media pierna; mascan continuamente la yerva hayo, que en el <Territory>Perú</Territory> llaman coca, que les da vigor y fuerza, y llevan consigo siempre una mochila; son graves y pausados en el andar, y llevan delante la muger cargada con sus hijos, la leña y géneros que llevan para vender: quando tienen guerra con otra <Concept_Group>Nación</Concept_Group> marchan todos a caballo, y así que estan al frente de los enemigos les cortan las piernas para que todos queden a pie, y ninguno pueda huir: trabajo mucho para reducir estos barbaros ala Religión Católica el Sr. <persName>Monroy</persName>, Obispo de <Territory>Santa Marta</Territory>, pero con poco fruto; siguieron su zelo Don <persName>Juan Nieto del Aguila</persName> y Don <persName>Joseph Xavier Arauz</persName> sus succesores, que también adelantaron poco: el año de 1749 mandó destinar el Rey quatro Religiosos de la extinguida Compañia para esta conquista espiritual que no se ##verificó, porque poco después mandó S. M. que pasasen a ella los Religiosos Capuchinos que estaban en las <Concept_Settlement>reducciones</Concept_Settlement> de los <humanGroup type="indigenous_group">Chimilas</humanGroup>, y son los que estan encargados hoy, empleando inútilmente sus afanes; en cuya vista propuso no ha muchos años su Cacique Don <persName>Cecilio</persName>, ayudado de un Caballero Andaluz, en esta Corte la conquista de los <Landmark>Guajiros</Landmark>, y remitido el proyecto al Virrey de <Territory>Santa Fe</Territory> fue aprobado, pero tampoco se executó, pues parece que hay causa superior que impide su reducción. <zbr/>
-<zbr/>
-§§§id_06687§§§<zbr/>
-GUAJOMULCO, San Buenaventura de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuernavaca</Territory> en <Territory>Nueva España</Territory>, situado en la eminencia de una <Concept_Landmark>montaña</Concept_Landmark> tres leguas de su <Concept_Settlement>Capital</Concept_Settlement>, tiene 80 familias de <humanGroup type="social_group">Indios</humanGroup>, <zbr/>
-<zbr/>
-§§§id_06688§§§<zbr/>
-GUAJOYA, San Pablo de) <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de la Compañia en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Napo</Landmark>, <zbr/>
-<zbr/>
-§§§id_06689§§§<zbr/>
-GUAJUAPA, <Concept_Territory>Alcaldía mayor</Concept_Territory> y <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Nueva España</Territory> en el Obis<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0262@@@<zbr/>
-<zbr/>
-#pado de la <Settlement>Puebla de los Angeles</Settlement>, llámase también Misteca baxa, esta dividida en dos <Concept_District>partidos</Concept_District> que son este y el de <Settlement>Tonalá</Settlement>, es de temperamento caliente y humedo, abundante de ganado cabrío, de cuyas pieles y sebo que se saca de las matanzas hace su principal comercio, como de algunas semillas y grana, y de hacer petates o esteras de junco que trabajan con primor, ##y tienen estimación en otras <Concept_Territory>jurisdicciones</Concept_Territory>, la de esta contiene muchas <Concept_Structure>haciendas</Concept_Structure> y <Concept_Structure>ranchos</Concept_Structure> de labor en que siembran y cogen suficiente cantidad de trigo, maíz y otras legumbres, frutas, y ganado mayor; consta el <Concept_District>partido</Concept_District> de 12 <Concept_Settlement>Pueblos</Concept_Settlement> principales, y el de <Settlement>Tonalá</Settlement> su agregado de otros 15, situados a proporcionada distancia, todos de <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Mexicanos</humanGroup> y <humanGroup type="indigenous_group">Mistecos</humanGroup>, que son<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>San Pedro de Tequisistepec</Settlement>.<zbr/>
-<Settlement>Chametla</Settlement>.<zbr/>
-<Settlement>Mistepec</Settlement>.<zbr/>
-<Settlement>Guanapa</Settlement>.<zbr/>
-<Settlement>Zuchitlapilco</Settlement>.<zbr/>
-<Settlement>Xuchitepec</Settlement>.<zbr/>
-<Settlement>Guejolotitlan</Settlement>.<zbr/>
-<Settlement>Tuctla</Settlement>.<zbr/>
-##<Settlement>Xuzistlahuaca</Settlement>.<zbr/>
-<Settlement>Xuchitepec</Settlement>.<zbr/>
-<Settlement>Tezuatlán</Settlement>.<zbr/>
-<Settlement>Tonalá</Settlement>.<zbr/>
-<Settlement>Tlapanalá</Settlement>.<zbr/>
-<Settlement>Atoyaque</Settlement>.<zbr/>
-<Settlement>Tlapalzingo</Settlement>.<zbr/>
-<Settlement>Zalacayoapán</Settlement>.<zbr/>
-<Settlement>Aeiquaya</Settlement>.<zbr/>
-###<Settlement>Caleguala</Settlement>.<zbr/>
-<Settlement>San Geronimo</Settlement>.<zbr/>
-<Settlement>Guastepec</Settlement>.<zbr/>
-<Settlement>Aguatlan</Settlement>.<zbr/>
-<Settlement>Zacatepec</Settlement>.<zbr/>
-<Settlement>Incuyachi</Settlement>.<zbr/>
-<Settlement>Huelotitlán</Settlement>.<zbr/>
-<Settlement>Tlachichilco</Settlement>.<zbr/>
-<Settlement>Igualtepec</Settlement>.<zbr/>
-$$$<zbr/>
-<zbr/>
-#La <Concept_Settlement>Capital</Concept_Settlement> es el <Concept_Settlement>Pueblo</Concept_Settlement> de su nombre, goza del mismo temperamento, y su vecindario se compone de 300 familias de <humanGroup type="social_group">Indios</humanGroup>, y otras tantas de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, tiene un Convento de Religiosos de Santo Domingo a quienes pertenecía el <Concept_District>Curato</Concept_District> antes, dista 50 leguas al SE de <Settlement>México</Settlement>, y esta en 275 gr. 8 min. de long. y 18 gr. 50 min. de lat. <zbr/>
-<zbr/>
-§§§id_06690§§§<zbr/>
-##GUAJUCO, <Concept_Landmark>Valle</Concept_Landmark> de Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de partido</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Nuevo Reyno de León</Territory> en <Territory>Nueva España</Territory>, situado entre dos <Concept_Landmark>cerros</Concept_Landmark> que forman un espacioso <Concept_Landmark>valle</Concept_Landmark> ameno y divertido por los muchos árboles que lo pueblan; su <Concept_District>distrito</Concept_District> es muy abundante de semillas, y de ellas no solo abastece la <Concept_Territory>jurisdicción</Concept_Territory>, sino otras, también produ<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0263@@@<zbr/>
-<zbr/>
-#ce mucha caña dulce de que fabrican azúcar y miel: esta 9 leguas al S, 1/4 al SO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-<zbr/>
-§§§id_06691§§§<zbr/>
-GUALACEO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la orilla de un <Concept_Landmark>río</Concept_Landmark> pequeño del mismo nombre, esta 4 leguas al Poniente de su <Concept_Settlement>Capital</Concept_Settlement>, en 2 gr. 35 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_06692§§§<zbr/>
-GUALBERTO, Sierras de San Juan) <Concept_Landmark>Cordillera</Concept_Landmark> de <Concept_Landmark>montañas</Concept_Landmark> muy altas del <Territory>Nuevo México</Territory>, corren al E en 33 gr. de altura hasta encontrar la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Grande</Landmark>, <Landmark>Colorado</Landmark> o del <Landmark>Norte</Landmark>, cerca de su salida al <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>California</Landmark> o <Concept_Landmark>mar</Concept_Landmark> <Landmark>Roxo de Cortés</Landmark>. <zbr/>
-<zbr/>
-§§§id_06693§§§<zbr/>
-GUALCAS, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Piura</Territory> en el <Territory>Perú</Territory>, corre al O paralelo al de <Landmark>Saurá</Landmark>, y entra en el de <Landmark>Piurá</Landmark>. <zbr/>
-<zbr/>
-§§§id_06694§§§<zbr/>
-GUALEA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, es de clima caliente y humedo, situado entre dos <Concept_Landmark>ríos</Concept_Landmark>, y en medio de un espeso <Concept_Landmark>bosque</Concept_Landmark>, cerca del camino antiguo que iba de <Territory>Quito</Territory> al <Concept_Landmark>Puerto</Concept_Landmark> llamado del Embarcadero en ##el <Concept_Landmark>río</Concept_Landmark> de <Territory>Esmeraldas</Territory>; los platanos que se crían en su <Concept_District>distrito</Concept_District> pasan por los de más delicado gusto de toda la <Territory>América</Territory>: esta en 7 min. y 3 seg. de lat. bor. <zbr/>
-<zbr/>
-§§§id_06695§§§<zbr/>
-GUALEGUAS, San Nicolas de las) <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los Religiosos de San Francisco en el <Territory>Nuevo Reyno de León de la América Septentrional</Territory>, distante 5 leguas al N de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Cerralvo</Settlement>. <zbr/>
-<zbr/>
-§§§id_06696§§§<zbr/>
-GUALEGUAI, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, nace entre los de <Landmark>Paraná</Landmark> y <Landmark>Uruguay</Landmark>, corre al S muchas leguas, luego tuerce su curso al E, y entra en el ultimo por dos bocas formando una <Concept_Landmark>Isla</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_06697§§§<zbr/>
-GUALI, <Concept_Landmark>Río</Concept_Landmark> rapido de la <Concept_Territory>Provincia</Concept_Territory> de los <Territory>Marquetones</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, nace en las <Concept_Landmark>montañas</Concept_Landmark> de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mariquita</Settlement>, corre al E pasando por la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Honda</Settlement>, y luego entra en el grande de la <Landmark>Magdalena</Landmark>; en todos los <Concept_Settlement>Pueblos</Concept_Settlement> que hay situados a sus orillas se padece la epidemia de cotos o tumores en la garganta, y se atribuyen a sus aguas por las partículas de minerales que tienen, pues los que no las <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0264@@@<zbr/>
-<zbr/>
-#beben estan libres de esta enfermedad: su boca se halla en 6 gr. 49 min. de lat. bor. <zbr/>
-<zbr/>
-§§§id_06698§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>, situado cerca del nacimiento del <Concept_Landmark>río</Concept_Landmark> anterior de quien le toma. <zbr/>
-<zbr/>
-§§§id_06699§§§<zbr/>
-GUALLAGA, <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guanuco</Territory> en el <Territory>Perú</Territory>, se forma del de <Landmark>Pilco-mayu</Landmark> que nace del <Concept_Landmark>lago</Concept_Landmark> de <Landmark>Bombón</Landmark> en la de <Territory>Tarma</Territory>, y del de <Landmark>Visacaca</Landmark> que tiene su origen en las <Concept_Landmark>montañas</Concept_Landmark> de la de <Landmark>Guamalies</Landmark>; estos dos <Concept_Landmark>ríos</Concept_Landmark> unidos pasan cerca de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>León de Guanuco</Settlement> haciendo su curso al N, y forman el de <Landmark>Guallaga</Landmark>, que recoge luego las aguas de los de <Landmark>Paloyacu</Landmark>, <Landmark>Santa María</Landmark>, <Landmark>Tacumi</Landmark>, <Landmark>Arapi</Landmark>, <Landmark>Aguanos</Landmark>, <Landmark>Apena</Landmark>, y de la <Concept_Landmark>laguna</Concept_Landmark> <Landmark>Turatini</Landmark>; a la boca de el, y en una de sus orillas, habitan las dos numerosas <Concept_Group>Naciones de Indios</Concept_Group> <humanGroup type="indigenous_group">Aguanos</humanGroup> y <humanGroup type="indigenous_group">Barbudos</humanGroup>, llamados así porque tienen barbas, distinguiéndose en esto de todos los demás de la <Territory>América</Territory>; son de color muy obscuro a causa de ##andar siempre desnudos a la inclemencia; sus mugeres que asisten en <Concept_Settlement>rancherías</Concept_Settlement> son blancas y rubias, ocupaban antes más de 150 leguas de terreno: este <Concept_Landmark>río</Concept_Landmark>, que fue por donde baxo el tirano <persName>Lope de Aguirre</persName>, entra luego en el <Landmark>Marañon</Landmark> por la parte austral, su boca esta 30 leguas del <Landmark>Pongo</Landmark> o <Concept_Landmark>angostura</Concept_Landmark>, en 5 gr. 2 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_06700§§§<zbr/>
-GUALMATA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Pastos</Territory> en el <Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory> de la Presidencia del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_06701§§§<zbr/>
-GUALPI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Atacames</Territory> o <Territory>Esmeraldas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, entra en el de <Landmark>Mira</Landmark> poco antes de salir este al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_06702§§§<zbr/>
-GUAMA, <Concept_Landmark>Río</Concept_Landmark> rapido del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> al N de <Settlement>Lima</Settlement> en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Cercado</Territory>, baña y fertiliza una dilatada <Concept_Landmark>llanura</Concept_Landmark> a quien da el nombre, es muy peligroso el badearlo, sale al <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> formando una pequeña <Concept_Landmark>Bahía</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_06703§§§<zbr/>
-Tiene el mismo nombre un <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Ya<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0265@@@<zbr/>
-<zbr/>
-#raqui</Landmark> en su <Concept_Settlement>Cabecera</Concept_Settlement>, al E de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Barquisimeto</Settlement>, entre esta y la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Felipe</Settlement>. <zbr/>
-<zbr/>
-§§§id_06704§§§<zbr/>
-Otro <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory> en la <Concept_Landmark>Costa</Concept_Landmark> del Sur. <zbr/>
-<zbr/>
-§§§id_06705§§§<zbr/>
-Otro <Concept_Landmark>río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> en el <Territory>Brasil</Territory> corre al E, y entra en el <Concept_Landmark>brazo</Concept_Landmark> de las <Landmark>Amazonas</Landmark> que forma la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Marajo</Landmark>, cerca de su salida al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
-<zbr/>
-§§§id_06706§§§<zbr/>
-GUAMACHUCO, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>, confina por el E con la de <Territory>Caxamarquilla</Territory>, por el NE con la de <Territory>Chachapoyas</Territory>, mediando el <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, por el N con la de <Territory>Caxamarca</Territory>, por el NO y O con la de <Territory>Truxillo</Territory>, y por el S con la de <Territory>Conchucos</Territory>: tiene de largo 30 leguas E O, y 10 de ancho; se separó de la de <Territory>Caxamarca</Territory>, y se hizo <Concept_Territory>Corregimiento</Concept_Territory> el año de 1759, siendo Virrey el <persName>Conde de Superunda</persName>: no es escasa de frutos, como maíz, trigo, cebada, papas, y frutos de sierra y <Concept_Landmark>valles</Concept_Landmark> por tener algunos de buen temperamento, aunque por lo general es fria, en lo que se diferencia de la de <Territory>Caxamarca</Territory>, siendo en todo lo demás muy semejantes en produc##ciones y comercio: críase en ella todo género de ganados, especialmente carneros, de cuya lana se fabrica mucha ropa de la tierra en los grandes <Concept_Structure>obrages</Concept_Structure> que tiene: hállanse <Concept_Landmark>minas</Concept_Landmark> de oro y plata, de las quales se trabajan algunas como las del <Concept_Landmark>cerro</Concept_Landmark> de <Landmark>Algamarca</Landmark>, del de <Landmark>San Joseph de Achocomas</Landmark>, del Real de Carangas, y otras de oro, aunque pocas: en el <Concept_Landmark>cerro</Concept_Landmark> de <Landmark>Aupillan</Landmark> hay una beta de hierro, y en otras partes de azufre y de piedra imán: riegan esta <Concept_Territory>Provincia</Concept_Territory> algunos <Concept_Landmark>ríos</Concept_Landmark>, y el más considerable es el de <Landmark>Tablachaca</Landmark>, que nace en las vecindades de un <Concept_Landmark>cerro</Concept_Landmark> alto y nevado que esta al SE, al fin de la <Concept_Territory>Provincia</Concept_Territory> que llaman <Territory>Pelagatos</Territory>; este <Concept_Landmark>río</Concept_Landmark> recibe los de <Territory>Angasmarca</Territory> y <Territory>Guachaca</Territory>, y corriendo al O por los confines de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Conchucos</Territory> hace caudaloso al grande de <Landmark>Santa</Landmark> donde desagua; el otro de consideración que hay es el que llaman de <Landmark>Guamachuco</Landmark>, y nace de una <Concept_Landmark>laguna</Concept_Landmark> inmediata al <Concept_Settlement>Pueblo</Concept_Settlement>, y siguiendo su curso al N recibe otros menores, y se incorpora con el de las <Landmark>Crizne</Landmark><zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0266@@@<zbr/>
-<zbr/>
-#de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Caxamarca</Territory> que entra en el <Landmark>Marañon</Landmark> corriendo al E, como el de <Settlement>Chusgon</Settlement>, <Settlement>Santisbamba</Settlement>, <Settlement>Iracapampa</Settlement> y otros: tiene pocos <Concept_Settlement>Pueblos</Concept_Settlement>, pero muchas <Concept_Structure>haciendas</Concept_Structure> bien pobladas de gente, y con es##pecialidad de <Concept_Structure>obrages</Concept_Structure> y <Concept_Structure>estancias</Concept_Structure> que por la mayor parte tienen Iglesia: los habitantes llegan a 11.000; su repartimiento era corto: la <Concept_Settlement>Capital</Concept_Settlement> es el <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, situado en un parage muy frío, los demás son<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Sinsicapa</Settlement>:<zbr/>
-<Settlement>Otusco</Settlement>:<zbr/>
-<Settlement>Estancias</Settlement>:<zbr/>
-##<Settlement>Usquil</Settlement>:<zbr/>
-<Settlement>Lucma</Settlement>:<zbr/>
-<Settlement>Malin</Settlement>:<zbr/>
-###<Settlement>Huancai</Settlement>:<zbr/>
-<Settlement>Santiago de Chuco</Settlement>:<zbr/>
-<Settlement>Haxabamba</Settlement>:<zbr/>
-$$$<zbr/>
-<zbr/>
-#que contiene 28 Iglesias dispersas, dividido en quatro <Concept_District>partidos</Concept_District> de <Settlement>Mollepata</Settlement>, <Settlement>Jurubamba</Settlement>, <Settlement>Marcabal</Settlement>, <Settlement>Chuquisongo</Settlement>. <zbr/>
-<zbr/>
-§§§id_06707§§§<zbr/>
-GUAMAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el <Concept_District>partido</Concept_District> de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Mompox</Settlement>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>. <zbr/>
-<zbr/>
-§§§id_06708§§§<zbr/>
-Tiene el mismo nombre una <Concept_Landmark>punta de tierra</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del S de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, enfrente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Pinos</Landmark>. <zbr/>
-<zbr/>
-§§§id_06709§§§<zbr/>
-GUAMALIES, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>, confina por el N con la de <Territory>Pataz</Territory>, por el E con la <Concept_Landmark>montaña</Concept_Landmark> de los <Concept_Group>Indios infieles</Concept_Group>, por el SE con la de <Territory>Guanuco</Territory>, por el S con la de <Territory>Tarma</Territory>, por el SO con la de <Territory>Caxatambo</Territory>, y por el NO y O con la de <Territory>##Conchucos</Territory>: tiene de largo 82 leguas N S, 30 de ancho E O, y se estrecha a 12 por otras partes: esta <Concept_Territory>Provincia</Concept_Territory> no es más que un <Concept_Landmark>valle</Concept_Landmark> dilatado por el centro del qual corre el <Concept_Landmark>río</Concept_Landmark> <Landmark>Marañon</Landmark>, que nace a 6 leguas del termino austral de ella en la <Concept_Landmark>laguna</Concept_Landmark> <Landmark>Lauricocha</Landmark> de la de <Territory>Tarma</Territory>, aumentan su caudal otros varios, y <Concept_Landmark>arroyos</Concept_Landmark> que le entran por uno y otro lado, y entre ellos algunos muy caudalosos: el temperamento es frío hacia la parte del Sur, y en lo restante por lo común benigno; y aun al N en el <Concept_District>Curato</Concept_District> de <Settlement>Huacaibamba</Settlement> se hallan algunas <Concept_Structure>estancias</Concept_Structure> de tan intenso calor todo el año, que se atribuye a esta causa el que sus habitantes sean de color muy diverso del que <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0267@@@<zbr/>
-<zbr/>
-#tienen los de las demás <Concept_Territory>Provincias</Concept_Territory>, y por eso los llaman <humanGroup type="social_group">Zambos</humanGroup>; cogese abundancia de semillas y frutas; cría mucho ganado, de cuyas lanas fabrican porción considerable de ropa de la tierra que es su principal comercio; produce alguna coca, y pocos años hace se descubrieron algunas <Concept_Landmark>minas</Concept_Landmark> de plata que prometen mucha riqueza, y asimismo otra de azogue en el <Concept_Landmark>cerro</Concept_Landmark> llamado <Landmark>Chonta</Landmark>: hay fuentes de agua caliente cerca de los <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Aguamira</Settlement> y <Settlement>Baños</Settlement>; en la inmediación de este se ven los vestigios de un camino de piedra hecho a mano, que también se reconoce en otras <Concept_Territory>Provincias</Concept_Territory>, como en las contiguas de <Territory>Conchucos</Territory>, <Territory>Tarma</Territory> y otras, cuya dirección es de <Settlement>Caxamarca</Settlement> ha##cía el Sur por donde iban los Incas, y dicen que llegaba hasta <Settlement>Quito</Settlement>, dando muestras todavía de ser obra suntuosa, y no lexos de este sitio se descubren monumentos de la antigüedad, como un palacio para tomar baños, que son de piedras tan ajustadas entre sí, que apenas se percibe la union, las ruinas de un templo y de una <Concept_Structure>fortaleza</Concept_Structure> en la cumbre de un <Concept_Landmark>cerro</Concept_Landmark> cortado por la parte que le baña el <Landmark>Marañon</Landmark>, y otro <Concept_Structure>castillo</Concept_Structure> más distante: en esta <Concept_Territory>Provincia</Concept_Territory> se halla la piedra AEtites o del aguila, y excelentes maderas para fabricas, entre las quales abunda más el cedro, y se cortan en la <Concept_Landmark>montaña</Concept_Landmark> a la parte del E: las <Concept_Settlement>Poblaciones</Concept_Settlement> de su <Concept_Territory>jurisdicción</Concept_Territory> son<zbr/>
-<zbr/>
-ßßß<zbr/>
-#<Settlement>Baños</Settlement>.<zbr/>
-<Settlement>Rondos</Settlement>.<zbr/>
-<Settlement>Cosma</Settlement>.<zbr/>
-<Settlement>Chupan</Settlement>.<zbr/>
-<Settlement>Quipai</Settlement>.<zbr/>
-<Settlement>Chuquis</Settlement>.<zbr/>
-<Settlement>Jesus</Settlement>.<zbr/>
-<Settlement>Xivin</Settlement>.<zbr/>
-<Settlement>Huanerin</Settlement>.<zbr/>
-<Settlement>Choras</Settlement>.<zbr/>
-<Settlement>Pachas</Settlement>.<zbr/>
-##<Settlement>Sillapata</Settlement>.<zbr/>
-<Settlement>Llamas</Settlement>.<zbr/>
-<Settlement>Aguamira</Settlement>.<zbr/>
-<Settlement>Coascahuac</Settlement>.<zbr/>
-<Settlement>Chavinillas</Settlement>.<zbr/>
-<Settlement>Llacta</Settlement>.<zbr/>
-<Settlement>Puños</Settlement>.<zbr/>
-<Settlement>Miraflores</Settlement>.<zbr/>
-<Settlement>Zinga</Settlement>.<zbr/>
-<Settlement>Punchao</Settlement>.<zbr/>
-<Settlement>Pariarca</Settlement>.<zbr/>
-###<Settlement>Tantamayo</Settlement>.<zbr/>
-<Settlement>Hacas</Settlement>.<zbr/>
-<Settlement>Xipán</Settlement>.<zbr/>
-<Settlement>Chipao</Settlement>.<zbr/>
-<Settlement>Monzón</Settlement>.<zbr/>
-<Settlement>Huaicabamba</Settlement>.<zbr/>
-<Settlement>Rundabamba</Settlement>.<zbr/>
-<Settlement>Huariganche</Settlement>.<zbr/>
-<Settlement>Huacaracucho</Settlement>.<zbr/>
-<Settlement>Llanos</Settlement>.<zbr/>
-<Settlement>Querin</Settlement>.$$$<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0268@@@<zbr/>
-<zbr/>
-§§§id_06710§§§<zbr/>
-#GUAMAN, Santiago de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en el <Territory>Perú</Territory>, situado en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Chimo</Landmark>, fue antiguamente numeroso, pero hoy esta reducido a muy corto número de <humanGroup type="social_group">Indios</humanGroup>, que viven de cultivar algunas mieses y hortalizas para llevar a vender a la <Concept_Settlement>Ciudad</Concept_Settlement> de donde dista media legua al SE, tiene una hermosa alameda, y una buena Iglesia que quedó casi arruinada por un terremoto el año de 1759, y no se ha reedificado, en ella se venera con particular devoción de sus <humanGroup type="social_group">vecinos</humanGroup> una efigie de la humildad y paciencia de Jesu Christo. <zbr/>
-<zbr/>
-§§§id_06711§§§<zbr/>
-GUAMANGA, <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, confina por el N y NE con la de <Territory>Guanta</Territory>, por el S con la de <Territory>Vilcas Huaman</Territory>, y por el O con la de <Territory>Castro Virreyna</Territory>, es de tan limitada <Concept_Territory>jurisdicción</Concept_Territory> que solo tiene dos <Concept_Settlement>Pueblos</Concept_Settlement> después que le separaron otras: su sitúacion es en un terreno alto, y de temperamento frío: abunda de excelentes pastos que crían muchísimo ganado, cuyas lanas son muy finas y estimadas en ##todo el <Territory>Perú</Territory>: se coge en ella mucho trigo, que crece más en la parte baxa: la conquistó y unió al Imperio el Inca <persName>Viracocha</persName> VIII Emperador. <zbr/>
-<zbr/>
-§§§id_06712§§§<zbr/>
-La <Concept_Settlement>Capital</Concept_Settlement> es la <Concept_Settlement>Ciudad</Concept_Settlement> del mismo nombre, fundada por <persName>Francisco Pizarro</persName> el año de 1539 en un dilatado y ameno <Concept_Landmark>llano</Concept_Landmark> que riega y fertiliza un <Concept_Landmark>río</Concept_Landmark> pequeño que nace en las <Concept_Landmark>montañas</Concept_Landmark>; tiene también los nombres de San Juan de la Victoria, en memoria de haberse retirado Manco Inca de una sangrienta batalla quando tenía casi vencidos a los <humanGroup type="political_group">Españoles</humanGroup>, y San Juan de la Frontera; pero nadie la llama si no Guamanga: es de temperamento tan benigno que no incomoda el frío ni fastidia el calor, porque siempre reyna en ella una continua primavera: no hay en todo el <Territory>Perú</Territory> <Concept_Settlement>Población</Concept_Settlement> que la compita en edificios, que son de piedra, muy hermosos y cómodos, con jardines y huertas que sirven de recreo y utilidad; las plazas grandes y quadradas, y las entradas de la <Concept_Settlement>Ciudad</Concept_Settlement> alegres y hermosas por las arboledas que hay en ellas; tiene dos Par<zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0269@@@<zbr/>
-<zbr/>
-#roquias con quatro <Concept_District>Curatos</Concept_District>, un Colegio Seminario Real con título de San Christoval que goza privilegios de Universidad, Conventos de Religiosos de Santo Domingo, San Francisco, San Agustín, la Merced, San Juan de Dios, y Colegio que fue de los Regulares de la Compañia; dos Monasterios de Monjas, uno de Santa Clara y otro de Carmelitas; tres Hospicios, llamados de San Francisco de Paula, de San Agustín y de Agonizantes, llamado de la Buena Muerte; y un <Concept_District>Curato</Concept_District> titulado de Santa María Magdalena, que es de <humanGroup type="social_group">Indios</humanGroup> que viven en diferentes <Concept_Settlement>barrios</Concept_Settlement> de la <Concept_Settlement>Ciudad</Concept_Settlement>: es muy abundante en granos, frutos y ganados, de cuyas pieles fabrican suelas, baquetas y cordovanes con que hace un gran comercio: en su <Concept_Territory>territorio</Concept_Territory> hay una fuente que congelada su agua se convierte en una piedra muy blanca y transparente, de que labran vidrieras, figuras y muebles para adornos: también tiene <Concept_Landmark>minas</Concept_Landmark> de plata, oro y piedra imán, pero se trabajan pocas: es ca##beza de <Concept_Territory>Obispado</Concept_Territory> erigido por <persName>Paulo V</persName> el año de 1609 sufragáneo de <Settlement>Lima</Settlement>: comprehende 8 <Concept_Territory>Provincias</Concept_Territory>, que son <Territory>Guanta</Territory>, <Settlement>Vilcas Huaman</Settlement>, <Territory>Andaguailas</Territory>, <Territory>Guancabelica</Territory>, <Territory>Angaraes</Territory>, <Territory>Castro Virreyna</Territory>, <Territory>Parinacocha</Territory> y <Territory>Lucanas</Territory>: sus naturales son corteses, liberales y capaces así para las ciencias como para el manejo de sus negocios: hay muchas familias nobles y ricas, y no pocas descendientes de los primeros conquistadores: es patria del Ilustrísimo Señor Don <persName>Manuel Gerónimo de Romaní</persName>, Canonigo de esta Santa Iglesia, Obispo de <Territory>Panamá</Territory> y del <Territory>Cuzo</Territory>; del <persName>Marqués de Valdelirios</persName>, actual Consejero, y Camarista, del Real y Supremo Consejo de Indias; y de Doña <persName>María Teresa Cruzategui y Munive</persName>, Marquesa de Feria, Dama de singular talento y erudición con que se distingue, poseyendo la latinidad, filosofía, letras humanas, y diferentes idiomas: esta 70 leguas al SE de <Settlement>Lima</Settlement>, 79 del <Settlement>Cuzco</Settlement> y 80 de <Settlement>Pisco</Settlement>, long. 306 gr. 40 min. lat. aust. 12 gr. 54 min. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0270@@@<zbr/>
-<zbr/>
-#___OBISPOS QUE HA HABIDO EN GUAMANGA: <zbr/>
-<zbr/>
-#1 Don Fr. <persName>Agustín de Carvajal</persName>, del Orden de San Agustín, natural de <Settlement>Cáceres</Settlement> en <Territory>Estremadura</Territory>, Prior de su Convento en <Settlement>Valladolid</Settlement>, Asistente general de la Orden, fue promovido de la Iglesia de <Settlement>Panamá</Settlement> a esta el año de 1611, gobernó hasta el de 1620, que murió.<zbr/>
-2 Don <persName>Francisco Verdugo</persName>, natural de <Settlement>Carmona</Settlement> en <Territory>Andalucía</Territory>, Colegial en el Colegio de Maese Rodrigo de <Territory>Sevilla</Territory>, Catedrático de Canones y Leyes, Abogado de la Inquisición de <Territory>Sevilla</Territory> y Fiscal de la de <Territory>Murcia</Territory>, luego Inquisidor de <Settlement>Lima</Settlement>, electo Obispo de <Territory>Guamanga</Territory> el año de 1623, fue modelo de Prelados limosneros y justos, visitó cinco veces su <Concept_Territory>Obispado</Concept_Territory>, y murió el año de 1636 promovido a Arzobispo de <Territory>Santa Fe</Territory>.<zbr/>
-3 Don Fr. <persName>Gabriel de Zarate</persName>, del Orden de Santo Domingo, natural de <Settlement>Lima</Settlement>, fue Prior en quatro Conventos de su Religión, dos veces Provincial, Calificador del Santo Oficio, presentado para este <Concept_Territory>Obispado</Concept_Territory> el mismo año de 1636, murió el siguiente.<zbr/>
-4 Don Fr. <persName>Antonio Conderina</persName>, del Orden de San Agustín, natural de <Settlement>Bilbao</Settlement>, fue promovido del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santa Marta</Territory> a este el año de 1645; pero a su llegada se dementó, y, nombraron a<zbr/>
-5 Don <persName>Antonio de Castro del Castillo</persName>, que no admitió.<zbr/>
-6 Don <persName>Andrés García de Zurita</persName>, natural de <Territory>Sevilla</Territory>, Colegial y Rector en el Colegio Real de <Settlement>San Felipe y San Marcos</Settlement> de la Universidad de <Settlement>Lima</Settlement>, Cura en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory>, Canonigo, y luego Dean de la Santa Iglesia de <Settlement>Lima</Settlement>, Coadjutor del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guamanga</Territory> y Obispo, de donde pasó promovido al de <Settlement>Truxillo</Settlement> en 1650.<zbr/>
-7 Don <persName>Francisco Godoy</persName>, Canonigo de las Iglesias de <Territory>Buenos Ayres</Territory> y <Settlement>Arequipa</Settlement>, y Dean de esta, Catedrático de Artes, electo Obispo de <Territory>Guamanga</Territory> el mismo año de 1650. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0271@@@<zbr/>
-#8 Don Fr. <persName>Cipriano de Medina</persName>, del Orden de Santo Domingo, natural de <Settlement>Lima</Settlement>, Catedrático de Artes, Difinidor y Procurador general, electo Obispo de <Territory>Guamanga</Territory>, cuya Catedral concluyó, y saliendo a hacer la visita murió aquel mismo día.<zbr/>
-9 Don <persName>Vasco de Contreras</persName>, natural de <Settlement>Lima</Settlement>, Colegial del Colegio de <Settlement>San Martín</Settlement>, y de su Universidad, Tesorero de aquella Santa Iglesia, Obispo de <Territory>Popayán</Territory>, de donde pasó promovido a esta.<zbr/>
-10 Don <persName>Sancho Pardo de Andrade y Figueroa</persName> pasó promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory> el año de 1688.<zbr/>
-11 Don <persName>Diego Ladron de Guevara</persName> pasó de la Santa Iglesia de <Territory>Panamá</Territory> el año de 1699, fue promovido a la de <Territory>Guamanga</Territory>, y de esta a la de <Territory>Quito</Territory> el de 1703.<zbr/>
-12 Don <persName>Diego Deza y Ulloa</persName>, natural de <Settlement>México</Settlement>, murió el año de 1719.<zbr/>
-13 Don Fr. <persName>Alfonso Roldan</persName>, del Orden de San Basilio, natural de <Settlement>Villarobledo</Settlement> en la <Settlement>Mancha</Settlement>, Maestro en Sagrada Teología, Examinador Sinodal del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Toledo</Territory>, Calificador del Santo Tribunal de la Inquisición, Abad de su Colegio de <Settlement>Alcalá</Settlement> y del Monasterio de <Settlement>Madrid</Settlement>, Difinidor, Provincial y Vicario general de las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Castilla</Territory> y <Territory>Andalucía</Territory>, presentado para Obispo de <Territory>Guamanga</Territory> el año de 1723, gobernó con singular integridad y entereza 17 años su Iglesia; y aunque renunció la mitra por su abanzada edad, y cansado de sufrir persecuciones, no se le admitió, y murió el año de 1740.<zbr/>
-14 Don Fr. <persName>Francisco Galeano</persName>, del Orden de la Merced, natural de <Settlement>Lima</Settlement>, Catedrático de Prima de Escritura en la Universidad de <Territory>San Marcos</Territory>, Obispo auxiliar de aquella <Concept_Settlement>Capital</Concept_Settlement> con el título de Rosaliense, y promovido a <Territory>Guamanga</Territory> el año de 1741, murió el de 1743.<zbr/>
-15 Don <persName>Miguel Bernardo de la Fuente Roja</persName>, natural de <Settlement>Lima</Settlement>, promovido de la Iglesia de <Settlement>Santa Cruz de la Sierra</Settlement> el año de 1744, murió antes de tomar posesión. <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0272@@@<zbr/>
-#16 Don <persName>Francisco Gutierrez</persName> electo el año de 1745, murió el de 1749.<zbr/>
-17 Don <persName>Felipe Manrique de Lara</persName>, natural de <Settlement>Lima</Settlement>, de la ilustre familia de los Marqueses de este apellido, Dean de aquella Santa Iglesia Metropolitana, electo Obispo de <Territory>Panamá</Territory>, que renunció, y luego de <Settlement>Guamanga</Settlement> el año de 1750, murió el de 1765.<zbr/>
-18 Don Fr. <persName>Joseph Luis de Lila</persName>, del Orden de San Agustín, natural de <Territory>Panamá</Territory>, electo en 1766, murió en 1769.<zbr/>
-19 Don <persName>Miguel Moreno y Ollo</persName>, natural de <Territory>Panamá</Territory>, Dean de su Santa Iglesia y Obispo, de donde pasó promovido a esta de <Settlement>Guamanga</Settlement> el año de 1771, murió el de 1782.<zbr/>
-20 Don <persName>Francisco Lopez</persName>, Abad de Motril, fue electo Obispo de <Territory>Guamanga</Territory> el año de 1782.___<zbr/>
-<zbr/>
-§§§id_06713§§§<zbr/>
-#GUAMANI, <Concept_Landmark>Cordillera</Concept_Landmark> de <Concept_Landmark>montañas</Concept_Landmark> muy altas cubiertas siempre de nieve, que se une a la grande de los <Territory>Andes</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_06714§§§<zbr/>
-GUAMANTANGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Canta</Territory> en el <Territory>Perú</Territory>, es pequeño, pero celebre por las continuas romerias que hacen de muchas partes a visitar el <Concept_Structure>Santuario</Concept_Structure> de una efigie de Christo que se venera en su Iglesia, cuya fiesta celebran el día de Pentecostes concurriendo inmenso gentío de las demás <Concept_Territory>Provincias</Concept_Territory>. <zbr/>
-<zbr/>
-§§§id_06715§§§<zbr/>
-GUAMANTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tlaxcala</Territory> en Nue##va España, tiene más de 100 familias de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, que se ocupan en hacer frenos, estrivos, y otras varias curiosidades de fierro con tanto primor, que tienen singular estimación en todo el <Concept_Territory>Reyno</Concept_Territory>, y es de lo que hacen su comercio; tiene un Convento de Religiosos de San Francisco. <zbr/>
-<zbr/>
-§§§id_06716§§§<zbr/>
-GUAMANZANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en el <Territory>Perú</Territory>, situado cerca del <Concept_Landmark>río</Concept_Landmark> <Landmark>Morin</Landmark> y del <Concept_Landmark>cerro</Concept_Landmark> de <Landmark>Pelagatos</Landmark>. <zbr/>
-<zbr/>
-§§§id_06717§§§<zbr/>
-GUAMARA, <Concept_Landmark>Río</Concept_Landmark> caudaloso de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el <Territory>Brasil</Territory>, corre muchas leguas <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0273@@@<zbr/>
-<zbr/>
-#al NNE, y sale al <Concept_Landmark>mar</Concept_Landmark> junto a la <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Colta</Landmark>. <zbr/>
-<zbr/>
-§§§id_06718§§§<zbr/>
-GUAMARO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Magdalena</Landmark>. <zbr/>
-<zbr/>
-§§§id_06719§§§<zbr/>
-GUAMARU, <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los PP. Carmelitas de <Territory>Portugal</Territory> en el <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, situado a la orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Negro</Landmark>. <zbr/>
-<zbr/>
-§§§id_06720§§§<zbr/>
-GUAMAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
-<zbr/>
-§§§id_06721§§§<zbr/>
-Otro hay del mismo hombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory> en <Territory>Nueva España</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>California</Landmark>. <zbr/>
-<zbr/>
-§§§id_06722§§§<zbr/>
-GUAMAZAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_06723§§§<zbr/>
-GUAMBA, <Concept_Territory>Provincia</Concept_Territory> antigua y muy fértil en el <Concept_Territory>territorio</Concept_Territory> de la de <Territory>Popayán</Territory> del <Territory>Nuevo Reyno de Granada</Territory>, la descubrió <persName>Sebastián de Benalcazar</persName> el año de 1536, sus naturales eran feroces y comedores de carne humana. <zbr/>
-<zbr/>
-§§§id_06724§§§<zbr/>
-GUAMBACHO, <Concept_Landmark>Puerto</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> ##<Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Santa</Territory> en el <Territory>Perú</Territory>. <zbr/>
-<zbr/>
-§§§id_06725§§§<zbr/>
-GUAMBIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
-<zbr/>
-§§§id_06726§§§<zbr/>
-GUAMBOS, <Concept_Landmark>Río</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory> en el <Territory>Perú</Territory>, nace en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Tlayabamba</Landmark>, corre inclinandose al SSE, y entra en el de <Landmark>Moyobamba</Landmark>. <zbr/>
-<zbr/>
-§§§id_06727§§§<zbr/>
-GUAMES, San Diego de) <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pastos</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Laguna</Landmark>. <zbr/>
-<zbr/>
-§§§id_06728§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de la propia <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory>, corre al E muchas leguas recogiendo las aguas de otros y del <Concept_Landmark>lago</Concept_Landmark> de <Landmark>Mocoa</Landmark> para entrar muy caudaloso en el <Landmark>Putu-mayu</Landmark>; tiene un puente de bejucos muy primoroso. <zbr/>
-<zbr/>
-§§§id_06729§§§<zbr/>
-Otro <Concept_Landmark>río</Concept_Landmark> hay de este nombre en la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tacunga</Territory> y del propio <Concept_Territory>Reyno</Concept_Territory>, nace cerca del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Pillaro</Settlement>, corre al E, y unido con otros entra en el <Landmark>Curaray</Landmark> en el <Concept_Territory>país</Concept_Territory> de los <Territory>Canelos</Territory>. <zbr/>
-<zbr/>
-§§§id_06730§§§<zbr/>
-GUAMINI, <Concept_Landmark>Monte</Concept_Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0274@@@<zbr/>
-<zbr/>
-#<Territory>Buenos Ayres</Territory>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de los <Landmark>Patagones</Landmark> <zbr/>
-<zbr/>
-§§§id_06731§§§<zbr/>
-GUAMO, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Ibague</Territory> en el <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> del <Territory>Nuevo Reyno de Granada</Territory>, anexo al <Concept_District>Curato</Concept_District> del de <Settlement>Cuello</Settlement>, es de temperamento calido, abundante y fértil en frutos de su clima, tiene 400 <humanGroup type="social_group">vecinos</humanGroup>, <zbr/>
-<zbr/>
-§§§id_06732§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> pequeño de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory>, nace al N de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mérida</Settlement>, entre esta y la Gran <Concept_Landmark>Laguna</Concept_Landmark>, corre a aquel rumbo, y desagua en ella.<zbr/>
-<zbr/>
-§§§id_06733§§§<zbr/>
-GUAMOCO, <Concept_Settlement>Ciudad</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, rica y abundante de <Concept_Landmark>minas</Concept_Landmark> de plata de la mejor ley, situada a orilla del <Concept_Landmark>río</Concept_Landmark> <Landmark>Alara</Landmark>, en medio de unas dilatadas <Concept_Landmark>sierras</Concept_Landmark> que le dieron el nombre, muy abundantes de lavaderos de oro en las muchas <Concept_Landmark>quebradas</Concept_Landmark> que hay, llamados <Landmark>San Francisco</Landmark>, <Landmark>Bijagua</Landmark>, <Landmark>Platanar</Landmark>, <Landmark>Ariza</Landmark>, <Landmark>Trinidad</Landmark>, <Landmark>San Pedro</Landmark>, la <Landmark>Cruz</Landmark>, <Landmark>Tupe</Landmark>, <Landmark>Espolon de Sabalo</Landmark>, <Landmark>Ambulama</Landmark>, <Landmark>Saltillo</Landmark>, <Landmark>Encarnación</Landmark>, <Landmark>Santa Margarita</Landmark>, <Landmark>Santa Isabel</Landmark>, <Landmark>San Lorenzo</Landmark>, <Landmark>Cultura</Landmark>, <Landmark>Caceri gran##de</Landmark>, <Landmark>Cacerito</Landmark> y otros muchos que han producido infinito oro, y hicieron a esta <Concept_Settlement>Ciudad</Concept_Settlement> populosa, célebre, y de mucho comercio; pero después la decadencia de las <Concept_Landmark>minas</Concept_Landmark> la ha reducido a tan miserable estado, que es un <Concept_Settlement>Pueblo</Concept_Settlement> muy corto, lleno de ruinas de lo que fue. <zbr/>
-<zbr/>
-§§§id_06734§§§<zbr/>
-GUAMOS, <Concept_Group>Nación barbara</Concept_Group> de las <Concept_Landmark>Llanuras</Concept_Landmark> del <Landmark>Orinoco</Landmark> al N y al Levante del <Concept_Landmark>río</Concept_Landmark> <Landmark>Apure</Landmark>, cerca del qual vive entre los <Concept_Landmark>bosques</Concept_Landmark>, al Mediodía confina con la de los <humanGroup type="indigenous_group">Paes</humanGroup>, y a Levante con la de los <humanGroup type="indigenous_group">Palenques</humanGroup>, son muchos y muy valerosos. <zbr/>
-<zbr/>
-§§§id_06735§§§<zbr/>
-GUAMOTE, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Riobamba</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
-<zbr/>
-§§§id_06736§§§<zbr/>
-GUANABACOA, <Concept_Settlement>Villa</Concept_Settlement> de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>. <zbr/>
-<zbr/>
-§§§id_06737§§§<zbr/>
-GUANABO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, cerca de la <Concept_Landmark>Costa</Concept_Landmark> de la cabeza del E, sale al <Concept_Landmark>mar</Concept_Landmark> en la boca de la gran <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, junto al <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>San Rafael</Landmark>. <zbr/>
-<zbr/>
-§§§id_06738§§§<zbr/>
-GUANACACHE, <Concept_Landmark>Laguna</Concept_Landmark> grande del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, a Levante de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Juan de la Frontera</Settlement>, entran en ella <zbr/>
-<zbr/>
-@@@Alcedo_vol_2-0275@@@<zbr/>
-<zbr/>
-#los <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>Santiago</Landmark>, <Landmark>Mendoza</Landmark> y <Landmark>Turuyán</Landmark>, que desagua allí por la parte Meridional, tiene quasi 12 leguas de largo del N al S, no tiene <Concept_Landmark>desague</Concept_Landmark> alguno que se conozca, y se cree que sea por algunos conductos subterráneo; pues aunque no faltan opiniones que de el sale por la parte del SO el <Concept_Landmark>río</Concept_Landmark> del <Landmark>Desaguadero</Landmark>, que se cree que desemboca en el <Concept_Landmark>mar</Concept_Landmark> <Landmark>Magallánico</Landmark>, no esta comprobado: se halla en 32 gr 34 min. de lat. aust. <zbr/>
-<zbr/>
-§§§id_06739§§§<zbr/>
-GUANACAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, situado en los confines del de <Settlement>Quito</Settlement> el año de 1620 por los Regulares de la Compañia, que entraron a reducir a sus naturales los <Concept_Group>Indios</Concept_Group> <humanGroup type="indigenous_group">Paeces</humanGroup>. <zbr/>
-<zbr/>
-§§§id_06740§§§<zbr/>
-Tiene el mismo nombre un <Concept_Landmark>paramo</Concept_Landmark> o <Concept_Landmark>monte</Concept_Landmark> muy alto cubierto siempre de nieve en la misma <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Reyno</Concept_Territory> que el <Concept_Settlement>Pueblo</Concept_Settlement> anterior; a cuya falda esta situado, es paso preciso del camino para baxar del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, en cuyo transito se han helado muchos caminantes por el excesivo frio que hace. <zbr/>
-<zbr/>
-§§§id_06741§§§<zbr/>
-GUANACATI, <Concept_Landmark>Río</Concept_Landmark> de ##la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Panamá</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, a Levante del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Chepo</Settlement>, sus orillas son muy fértiles y amenas por las bellas <Concept_Structure>haciendas</Concept_Structure> y huertas que tiene, sale al <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> a Poniente del que se llama <Landmark>Chemina</Landmark>, y a Levante del de <Settlement>Pacora</Settlement>, en 8 gr. 53 min. de lat. bor. <zbr/>
-<zbr/>
-§§§id_06742§§§<zbr/>
-GUANACEVI, <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de Minas</Concept_Settlement> de Plata de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tepeguana</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Nasas</Landmark>, distante 25 leguas al NNO de la <Concept_Settlement>Capital</Concept_Settlement> <Settlement>Guadiana</Settlement>. <zbr/>
-<zbr/>
-§§§id_06743§§§<zbr/>
-GUANACOCHA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuyo</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Mendoza</Landmark>. <zbr/>
-<zbr/>
-§§§id_06744§§§<zbr/>
-GUANAGUANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, situado en lo interior de la Serrania, uno de las Misiones que tienen en aquella <Concept_Territory>Provincia</Concept_Territory> los PP. Capuchinos <humanGroup type="political_group">Aragoneses</humanGroup>. <zbr/>
-<zbr/>
-§§§id_06745§§§<zbr/>
-GUANAHANI, o San Salvador) que los <humanGroup type="political_group">Ingleses</humanGroup> llaman Cot Island, es una de las <Territory>Bahamas</Territory> en el <Landmark>Occéano</Landmark>, y la primera tierra de la <Territory>América</Territory> que descu<zbr/>
-<zbr/></xml>
+    <zbr/> #año de 1755 contenia 9.624 <humanGroup type="social_group">Colonos blancos</humanGroup>,
+    y 41.000 <humanGroup type="social_group">esclavos</humanGroup>, 334 ingenios de azúcar, 15
+        <Concept_Structure>plantaciones</Concept_Structure> de añil, 46.840 arboles de cacao, 11.700
+    plantas de tabaco, 2.257.725 de café, y 12.748.447 de algodón, 4.946 caballos, 2.924 mulas, 125
+    asnos, 13.716 bueyes y vacas, 11.162 carneros, ovejas y cabras, y 2.455 cerdos; y en otro estado
+    del año de 1767 constan muy aumentados estos artículos, de modo que se computa hoy su producto a
+    46 millones de libras de azúcar, 21 de café, 320.000 de algodón, y 8.000 de cacao en cada año. <zbr/>
+    <zbr/> §§§id_06630§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la <Territory>Nueva España</Territory> en
+    el <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>México</Territory>,
+    situado en un <Concept_Landmark>cerro</Concept_Landmark> de terreno arido y estéril, celebre por
+    el magnífico Templo y <Concept_Structure>Santuario</Concept_Structure> de <Structure>nuestra
+        Señora de Guadalupe</Structure>, que se apareció el año de 1531 al Indio Mexicano
+        <persName>Juan Diego</persName> pintada en el lienzo de un ayate o manta; es de primorosa
+    arquitectura, y dotada de mucha riqueza a <Concept_Landmark>costa</Concept_Landmark> de la
+    singular devoción que le tiene todo el <Concept_Territory>Reyno</Concept_Territory>: el
+    vecindario de este <Concept_Settlement>Pueblo</Concept_Settlement> ##se compone de 60 familias
+    de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
+        >Mestizos</humanGroup>, y 110 de <humanGroup type="social_group">Indios</humanGroup>: esta
+    una legua de <Territory>México</Territory>, cuya distancia es de una calzada de piedra que tiene
+    una vara de alto, y a trechos hay en ella colocadas unas piramides de mármol en que se ven
+    esculpidos los Misterios del Rosario adornados con las efigies de varios Santos, y en tres arcos
+    estan las estatuas de los Reyes <persName>Felipe IV</persName> y <persName>Carlos II</persName>,
+    en cuyo tiempo se construyó; a la salida para <Territory>México</Territory> tiene un puente que
+    toma el mismo, nombre. <zbr/>
+    <zbr/> §§§id_06631§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Saña</Territory> en el
+        <Territory>Perú</Territory>, y del <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Truxillo</Territory>, esta situado en el
+        <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Pacasmayo</Landmark>, y es anexo del
+        <Concept_District>Curato</Concept_District> de <Settlement>Chepén</Settlement>, en su
+    Iglesia se venera una milagrosa Imagen de la Virgen con esta advocación, copia de la que hay en
+    Estremadura, y llevó, colocó y dotó de grandes rentas el Capitán Don <persName>Francisco Perez
+        Lezcano</persName>, cediendo para fabrica de la Iglesia y Convento todo su caudal y
+    repartimiento, que era grande, en acción de gracias de haberle librado esta Imagen, a quien profe<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0252@@@<zbr/>
+    <zbr/> #saba singular devoción, de una muerte afrentosa: celebran su fiesta el día 8 de
+    Diciembre, a que concurrían antes más de 6.000 personas de aquella
+        <Concept_District>comarca</Concept_District>, pero hoy se ha entibiado mucho la devoción. <zbr/>
+    <zbr/> §§§id_06632§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
+    <zbr/> §§§id_06633§§§<zbr/> Otro de las Misiones que tenían los Regulares de la Compañia en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> estaba a la
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, entre los de <Landmark>Yavari</Landmark> y
+        <Landmark>Casiquin</Landmark>, junto a una <Concept_Landmark>laguna</Concept_Landmark>, pero
+    hoy esta destruido. <zbr/>
+    <zbr/> §§§id_06634§§§<zbr/> Otro de las Misiones que tenían los mismos Regulares de la Compañia
+    en la <Territory>California</Territory>, situado cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark>, enfrente de la
+        <Concept_Landmark>Isla</Concept_Landmark> de la <Landmark>Asuncion</Landmark>. <zbr/>
+    <zbr/> §§§id_06635§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory> en
+        <Territory>Nueva España</Territory>, situado a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Mayo</Landmark>, entre los <Concept_Settlement>Pueblos</Concept_Settlement> de
+        <Settlement>Cedros</Settlement> y <Settlement>Canamoa</Settlement>. <zbr/>
+    <zbr/> §§§id_06636§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Pernambuco</Territory> en el
+        <Territory>Brasil</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark> a la
+    boca del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Fermoso</Landmark>. <zbr/>
+    <zbr/> §§§id_06637§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> de
+        ##<Territory>Taraumara</Territory> y <Concept_Territory>Reyno</Concept_Territory> de la
+        <Territory>Nueva Vizcaya</Territory>, distinto de otro del mismo nombre, esta a la orilla
+    del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Conchos</Landmark>. <zbr/>
+    <zbr/> §§§id_06638§§§<zbr/> Otro de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>San Luis de Potosí</Territory> y <Concept_Territory>Obispado</Concept_Territory>
+    de <Territory>Mechoacán</Territory> en <Territory>Nueva España</Territory> tiene 28 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y un Templo magnífico dedicado a la
+    Virgen con esta advocación, y es uno de los más antiguos del
+        <Concept_Territory>Reyno</Concept_Territory>. <zbr/>
+    <zbr/> §§§id_06639§§§<zbr/> Otro de las Misiones que tienen los Religiosos de San Francisco en
+    la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>,
+    situado a distancia de 10 leguas, entre S y SE del <Concept_Settlement>Real de
+        Minas</Concept_Settlement> de <Settlement>Chiguagua</Settlement>. <zbr/>
+    <zbr/> §§§id_06640§§§<zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> de
+        <Settlement>Tlapacoya</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
+    de quatro <Concept_Settlement>Villas</Concept_Settlement> en <Territory>Nueva España</Territory>
+    tiene 26 familias de <humanGroup type="social_group">Indios</humanGroup> que se ocupan en el
+    cultivo de la grana, semillas, frutas, y cortar madera con que comercian: esta 2 leguas entre
+    Poniente y N de su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_06641§§§<zbr/> Otro de la <Concept_Landmark>Isla</Concept_Landmark> de este nombre
+    en que tienen un buen <Concept_Structure>castillo</Concept_Structure> los <humanGroup
+        type="political_group">Franceses</humanGroup>, situado en la Cabeza del S. <zbr/>
+    <zbr/> §§§id_06642§§§<zbr/> Otro de las Misiones que <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0253@@@<zbr/>
+    <zbr/> #tenían los Regulares de la Compañia en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cinaloa</Territory>. <zbr/>
+    <zbr/> §§§id_06643§§§<zbr/> Otro de las Misiones que tienen los Religiosos de San Francisco de
+        <Territory>Nueva España</Territory> en el <Territory>Nuevo México</Territory>, y tiene el
+    aditamento del Paso. <zbr/>
+    <zbr/> §§§id_06644§§§<zbr/> Otro de las mismas Misiones, situado a orilla del
+        <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Juntas</Landmark> en el propio
+        <Concept_Territory>Reyno</Concept_Territory> que el anterior. <zbr/>
+    <zbr/> §§§id_06645§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de <Territory>Nueva
+        España</Territory> que nace en las <Concept_Landmark>montañas</Concept_Landmark> o serranias
+    al Poniente de <Settlement>México</Settlement> sigue su curso al E, y entra en la
+        <Concept_Landmark>laguna</Concept_Landmark> de aquella
+        <Concept_Settlement>Capital</Concept_Settlement>, a cuya entrada tiene un puente con el
+    mismo nombre. <zbr/>
+    <zbr/> §§§id_06646§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Texas</Territory> en
+        <Territory>Nueva España</Territory> que sale al <Concept_Landmark>mar</Concept_Landmark> en
+    el <Concept_Landmark>Seno</Concept_Landmark>
+    <Landmark>Mexicano</Landmark> y <Concept_Landmark>Bahía</Concept_Landmark> o
+        <Concept_Landmark>lago</Concept_Landmark> de <Landmark>San Joseph</Landmark>. <zbr/>
+    <zbr/> §§§id_06647§§§<zbr/> GUADIANA, µµµvéase Durangoµµµ. <zbr/>
+    <zbr/> §§§id_06648§§§<zbr/> GUADIANILLA o San German el Nuevo)
+        <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory>
+    de <Territory>San Juan de Puerto-rico</Territory>, tiene un Convento de Religiosos de Santo
+    Domingo, y esta 33 leguas de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_06649§§§<zbr/> GUADUAS, <Concept_Settlement>Pueblo</Concept_Settlement> ##de la
+        <Concept_Territory>jurisdicción</Concept_Territory> de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Honda</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, fue al principio un Convento de Religiosos
+    Franciscos Recoletos de San Pedro de Alcántara, que estando situado en el camino de
+        <Settlement>Honda</Settlement> a <Settlement>Santa Fe</Settlement>, que es de tanto trafico,
+    se fueron estableciendo allí algunos <humanGroup type="social_group">vecinos</humanGroup> que
+    hoy pasan de 300; es uno de los temperamentos más benignos que hay en todo el
+        <Concept_Territory>Reyno</Concept_Territory>, de terreno fértil y abundante en muchos
+    frutos: esta 16 leguas al SO, 1/4 al S de <Settlement>Santa Fe</Settlement>, y 7 al mismo rumbo
+    de <Territory>Honda</Territory>. <zbr/>
+    <zbr/> §§§id_06650§§§<zbr/> GUAHIUAS, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de los <Territory>Llanos</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, nace en el
+        <Concept_Territory>país</Concept_Territory> de los <humanGroup type="social_group"
+        >Indios</humanGroup> de este nombre, corre al N, y entra en el de <Landmark>Meta</Landmark>. <zbr/>
+    <zbr/> §§§id_06651§§§<zbr/> GUAIBAI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> del <Territory>Gairá</Territory> en el
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre
+    casi al N, y entra en el de <Landmark>Ibay</Landmark>. <zbr/>
+    <zbr/> §§§id_06652§§§<zbr/> GUAIBARE, <Concept_Landmark>Río</Concept_Landmark> caudaloso del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> que entra en el
+        <Landmark>Marañon</Landmark>. <zbr/>
+    <zbr/> §§§id_06653§§§<zbr/> GUAIBAS, <Concept_Group>Nación barbara</Concept_Group> del
+        <Territory>Nuevo Reyno de Granada</Territory> al Levante de <Settlement>Santa
+        Fe</Settlement>, en la <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0254@@@<zbr/>
+    <zbr/> #entrada de los <Concept_Landmark>Llanos</Concept_Landmark> de
+        <Landmark>Cazanare</Landmark> y <Landmark>Meta</Landmark>, son vagamundos y muy astutos para
+    hurtar; pero de genio pacifico, dociles y aliados de los <humanGroup type="indigenous_group"
+        >Chiricoas</humanGroup>, con los quales fueron derrotados el año de 1669 en la batalla de
+        <Landmark>Guayapegé</Landmark> por los <humanGroup type="indigenous_group"
+        >Achaguas</humanGroup>: se empezaron a reducir a la Fe el año de 1650, y el de 1664 se
+    unieron muchos, en <Concept_Settlement>Población</Concept_Settlement>; pero el de 1668 se
+    huyeron a los <Concept_Landmark>bosques</Concept_Landmark>, y poco tiempo después lograron los
+    Misioneros que volviesen al <Concept_Settlement>Pueblo</Concept_Settlement>, que dista 7 leguas
+    del de <Settlement>Pauto</Settlement>. <zbr/>
+    <zbr/> §§§id_06654§§§<zbr/> GUAICAMA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucuman</Territory> en el
+        <Territory>Peru</Territory>, situado en el <Concept_Landmark>valle</Concept_Landmark> de
+        <Landmark>Catamarca</Landmark>. <zbr/>
+    <zbr/> §§§id_06655§§§<zbr/> GUAICURES o Guascurues) <Concept_Group>Nación
+        barbara</Concept_Group> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory> al
+    Levante de la <Settlement>Concepcion</Settlement>, son feroces, inconstantes, traydores, y
+    enemigos irreconciliables de los <humanGroup type="social_group">Europeos</humanGroup>, y sin
+    embargo los Misioneros Regulares de la extinguida Compañia reduxeron algunos a la Fe, y a vida
+    civil en <Concept_Settlement>Población</Concept_Settlement>; han causado siempre muchos daños
+    con sus corre##rias y sorpresas destruyendo las
+        <Concept_Settlement>Poblaciones</Concept_Settlement>, especialmente en las cercanías de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Santa Fe</Settlement>. <zbr/>
+    <zbr/> §§§id_06656§§§<zbr/> GUAICAVAR, <Concept_Settlement>Pueblo</Concept_Settlement> del
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory> y
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>,
+    situado en la <Concept_Landmark>Costa</Concept_Landmark>, poco distante de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. <zbr/>
+    <zbr/> §§§id_06657§§§<zbr/> GUAIGUASCOCHA, <Concept_Landmark>Laguna</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guamachuco</Territory> en
+    el <Territory>Perú</Territory>, de donde nace el <Concept_Landmark>río</Concept_Landmark> de
+        <Landmark>Moche</Landmark>. <zbr/>
+    <zbr/> §§§id_06658§§§<zbr/> GUAIGUAZA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
+    en la <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>,
+    al E de <Settlement>Puerto Cabello</Settlement>. <zbr/>
+    <zbr/> §§§id_06659§§§<zbr/> GUAIHACOA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+    misma <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> que el anterior, situado cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> del E, 1/4 al N de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>. <zbr/>
+    <zbr/> §§§id_06660§§§<zbr/> GUAILAS, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>,
+    confina por el N, NE, y E con la de <Territory>Conchucos</Territory>, por el SE y S con la de
+        <Territory>Caxatambo</Territory>, y por el O con la de <Territory>Santa</Territory>: tiene
+    de largo 45 leguas N S, y 16 por lo mas ancho; el temperamento del medio de la
+        <Concept_Territory>Provincia</Concept_Territory> es por la mayor parte benigno, y a uno y
+    otro lado frío, particular<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0255@@@<zbr/>
+    <zbr/> #mente a la parte del E, que es por donde corre la
+        <Concept_Landmark>cordillera</Concept_Landmark>: riéganla algunos
+        <Concept_Landmark>riachuelos</Concept_Landmark> o
+        <Concept_Landmark>arroyos</Concept_Landmark> que juntos hacen un
+        <Concept_Landmark>río</Concept_Landmark> considerable, que corriendo al N, y recibiendo al
+    fin de la <Concept_Territory>Provincia</Concept_Territory> algunas aguas de la de
+        <Territory>Conchucos</Territory> vuelve al O, y entra en el
+        <Concept_Landmark>mar</Concept_Landmark> con el nombre de <Landmark>Santa Fe</Landmark>:
+    esta <Concept_Territory>Provincia</Concept_Territory> es bastante pingue, y provee de trigo y
+    semillas a otras, labra mucha azúcar que convertida en conservas llevan a las de
+        <Territory>Guanuco</Territory> y <Territory>Tarma</Territory>, y a
+        <Settlement>Lima</Settlement>: como sus temperamentos son varios, lo son también sus
+    producciones ya de sierra, ya de <Concept_Landmark>valles</Concept_Landmark>, siendo lo más
+    particular que todo el año hay cosechas de trigo, pues ##quando en una parte se siembra en otra
+    se siega; lo mismo sucede con las frutas, que son muchas y varias: abunda de ganados, de cuya
+    lana fabrican ropa de la tierra en los <Concept_Structure>obrages</Concept_Structure> que tiene:
+    ha sido siempre rica en <Concept_Landmark>minas</Concept_Landmark>, como lo demuestran los
+    vestigios de más de 30 <Concept_Structure>molinos</Concept_Structure> de moler metales de oro y
+    plata, y todavia se sacan algunos; tiene un <Concept_Landmark>cerro</Concept_Landmark> de piedra
+    imán, y minerales de alumbre y alcaparrosa en un <Concept_Landmark>parage</Concept_Landmark> que
+    llaman <Landmark>Yuramarca</Landmark>: su repartimiento era de 140.000 pesos, pagando 1.120 al
+    año de alcavala: la Población consta de 30 <Concept_Settlement>Pueblos</Concept_Settlement>, y
+    la <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Huaraz</Settlement>; los
+    otros son <zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Requai</Settlement>. <zbr/>
+    <Settlement>Olleros</Settlement>. <zbr/>
+    <Settlement>Marca</Settlement>. <zbr/>
+    <Settlement>Ichoca</Settlement>. <zbr/>
+    <Settlement>Pampai</Settlement>. <zbr/>
+    <Settlement>Huambo</Settlement>.<zbr/>
+    <Settlement>Carhuaz</Settlement>. <zbr/>
+    <Settlement>Yungai</Settlement>.<zbr/>
+    <Settlement>Caraz</Settlement>.<zbr/>
+    <Settlement>Huailas</Settlement>.<zbr/> ##<Settlement>Macate</Settlement>.<zbr/>
+    <Settlement>Lacramarca</Settlement>.<zbr/>
+    <Settlement>Aija</Settlement>.<zbr/>
+    <Settlement>Hicayán</Settlement>.<zbr/>
+    <Settlement>Sudcha</Settlement>.<zbr/>
+    <Settlement>Coris</Settlement>.<zbr/>
+    <Settlement>Huacllán</Settlement><zbr/>
+    <Settlement>Cotaparazo</Settlement>.<zbr/>
+    <Settlement>Tanacochas</Settlement>.<zbr/>
+    <Settlement>Cochapeti</Settlement>. <zbr/> ###<Settlement>Malvas</Settlement>.<zbr/>
+    <Settlement>Hallancahuambo</Settlement>.<zbr/>
+    <Settlement>Colchahuanca</Settlement>.<zbr/>
+    <Settlement>Pararin</Settlement>.<zbr/>
+    <Settlement>Pampas</Settlement>.<zbr/>
+    <Settlement>Pira</Settlement>.<zbr/>
+    <Settlement>Llacllin</Settlement>.<zbr/>
+    <Settlement>Caxamarquilla</Settlement>.<zbr/>
+    <Settlement>Huallón</Settlement>.<zbr/>
+    <Settlement>Huanchay</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> §§§id_06661§§§<zbr/> #GUAIMAMA, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayana</Territory> o
+        <Territory>Nueva Andalu##cía</Territory>, nace en el
+        <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Parecas</humanGroup>, corre serpenteando, y entra en el de
+        <Landmark>Itari</Landmark>. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0256@@@<zbr/>
+    <zbr/> §§§id_06662§§§<zbr/> #GUAIMI, <Concept_Territory>Provincia</Concept_Territory> antigua y
+        <Concept_Group>Nación de Indios</Concept_Group> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, hoy
+    parte de la de <Territory>Veragua</Territory>, esta en la
+        <Concept_Landmark>Cordillera</Concept_Landmark>, es de terreno fragosísimo, y de
+    temperamento humedo por las continuas lluvias de casi todo el año: riéganla infinitos
+        <Concept_Landmark>ríos</Concept_Landmark>, algunos muy caudalosos, produce frutas y
+    legumbres sin cultivo, alguno como yucas, patatas, auyamas, otoes y ñames, algun maíz, y de
+    grano muy menudo, pero abundancia de pixibaes, que era el alimento común de sus <humanGroup
+        type="social_group">naturales</humanGroup>, el jugo del árbol les servia de vino, y la
+    madera que es muy solida para dardos y flechas: en los
+        <Concept_Landmark>montes</Concept_Landmark> hay leones, tigres, zorros, venados, pericos
+    ligeros, monos de tres especies, blancos, colorados y negros, zaynos, ardillas, pavas, perdices
+    de dos especies, papagayos, periquitos, negritos y otras aves, muchas culebras venenosas: los
+        <humanGroup type="social_group">Indios</humanGroup> de esta
+        <Concept_Territory>Provincia</Concept_Territory> adoraban un
+        <Concept_Landmark>cerro</Concept_Landmark> que hay en ella llamado
+    <Landmark>Nubu</Landmark>, andaban desnudos hombres y mugeres, los reduxo a la Fe el año de 1624
+    el P. Fr. <persName>Adrián de ##Ufeldre</persName>, del Orden de Santo Domingo; pero hoy se han
+    extinguido, y solo hay un <Concept_Settlement>Pueblo</Concept_Settlement> pequeño. <zbr/>
+    <zbr/> §§§id_06663§§§<zbr/> GUAIMOCO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>San Miguel</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, situado a
+    la orilla del <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, al E del de
+        <Settlement>Sonsonate</Settlement>. <zbr/>
+    <zbr/> §§§id_06664§§§<zbr/> GUAIMORETO, <Concept_Landmark>Puerto</Concept_Landmark> de la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Honduras</Territory>, entre el
+        <Concept_Landmark>cabo</Concept_Landmark> de este nombre y el
+        <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Castilla</Landmark>. <zbr/>
+    <zbr/> §§§id_06665§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situado en
+    la <Concept_Landmark>Costa</Concept_Landmark>, junto al
+        <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Codera</Landmark>. <zbr/>
+    <zbr/> §§§id_06666§§§<zbr/> GUAINAMOTA, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Cabecera</Concept_Settlement> de la <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Tepic</Territory> en <Territory>Nueva
+        España</Territory>, tiene 90 familias de <humanGroup type="social_group">Indios</humanGroup>
+    que cultivan en los <Concept_Structure>ranchos</Concept_Structure> de su
+        <Concept_District>distrito</Concept_District> muchos arboles frutales, esta 10 leguas al
+    Poniente de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_06667§§§<zbr/> GUAINAPUTINA, <Concept_Landmark>Volcán</Concept_Landmark> del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, situado en la
+    cumbre de un <Concept_Landmark>monte</Concept_Landmark> muy elevado cerca de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Arequipa</Settlement>, ha
+    rebentado varias veces, y particularmente el año de 1600 en que hizo grande estrago. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0257@@@<zbr/>
+    <zbr/> §§§id_06668§§§<zbr/> #GUAINARIMA, <Concept_Territory>Territorio</Concept_Territory>
+    grande del <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>,
+    distante 12 leguas a Poniente del <Settlement>Cuzco</Settlement>, celebre por haberse hecho en
+    el la división y repartición de los <humanGroup type="social_group">Indios</humanGroup>
+    tributarios por el Licenciado <persName>Pedro de la Gasca</persName>, y Don Fr.
+        <persName>Geronimo de Loaisa</persName>, Arzobispo de <Territory>Lima</Territory>, que luego
+    se publicó en la <Concept_Settlement>Ciudad</Concept_Settlement> del
+        <Settlement>Cuzco</Settlement> el día 24 de Agosto de 1548. <zbr/>
+    <zbr/> §§§id_06669§§§<zbr/> GUAINI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, nace en la
+        <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Imataca</Landmark>, corre al N, y
+    sale al <Concept_Landmark>mar</Concept_Landmark> en la
+        <Concept_Landmark>Costa</Concept_Landmark> del E, al lado de la punta y
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Barima</Landmark>. <zbr/>
+    <zbr/> §§§id_06670§§§<zbr/> GUAIPANACUAR, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>. <zbr/>
+    <zbr/> §§§id_06671§§§<zbr/> GUAIQUE, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, nace al
+    N del <Concept_Landmark>valle</Concept_Landmark> del <Landmark>Tucuyo</Landmark>, corre a aquel
+    rumbo, y sale al <Concept_Landmark>mar</Concept_Landmark> al O de la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Hicacos</Landmark>. <zbr/>
+    <zbr/> §§§id_06672§§§<zbr/> GUAIQUIRIES, <Concept_Group>Nación barbara de Indios</Concept_Group>
+    en las inmediaciones del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Orinoco</Landmark> al Sur, y cerca del nacimiento del <Landmark>Caura</Landmark>, es
+    muy numerosa, y habita entre los <humanGroup type="indigenous_group">Caribes</humanGroup>
+    mediterra##neos, se empezaron a reducir a la Fe por los Regulares de la extinguida Compañia el
+    año de 1732.<zbr/>
+    <zbr/> §§§id_06673§§§<zbr/> GUAIQUIRARO, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
+    corre al O, y entra en el de la <Landmark>Plata</Landmark>. <zbr/>
+    <zbr/> §§§id_06674§§§<zbr/> GUAIRA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, fundado
+    por el Gobernador de ella Don <persName>Diego Osorio</persName> el año de 1588, tiene un celebre
+        <Concept_Landmark>Puerto</Concept_Landmark> defendido por un
+        <Concept_Structure>castillo</Concept_Structure>, y muy frequentado de toda especie de
+    embarcaciones por donde se hace todo trafico y comercio de aquella
+        <Concept_Territory>Provincia</Concept_Territory>; el año de 1739 lo atacaron tres navíos de
+    línea <humanGroup type="political_group">Ingleses</humanGroup>, pero se retiraron con mucha
+    perdida sin poder entrar por la vigorosa defensa que hizo, dexandose una ancla la Capitana, que
+    se conserva allí por trofeo; y el de 1743 lo envistió con 17 embarcaciones el Almirante Inglés
+        <persName>Carlos Knowlles</persName>, que se vio precisado a desistir del empeño con mucho
+    quebranto. <zbr/>
+    <zbr/> §§§id_06675§§§<zbr/> GUAIRA, <Concept_Territory>Provincia</Concept_Territory> del
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>
+    descubierta el año de 1550, confina por el N con las <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0258@@@<zbr/>
+    <zbr/> #tierras desconocidas del <Territory>Brasil</Territory>, por Levante con la
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> del
+    mismo <Concept_Territory>Reyno</Concept_Territory>, y por el Mediodía y Poniente con el
+        <Territory>Paraguay</Territory>, dividiéndolas el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Paraná</Landmark>: tiene de largo 147 leguas de Oriente a Poniente, y de ancho 132 N
+    S: el terreno es humedo, el clima desigual, y el ayre mal sano; pero fértil en legumbres,
+    raices, maíz y otras plantas que piden poco cultivo: abunda mucho de tigres, vívoras, culebras y
+    caimanes en los <Concept_Landmark>bosques</Concept_Landmark>, y de toda especie de animales:
+    produce muchas granadillas y datiles amargos, cedros, pinos y sabinos, en cuyos huecos se puede
+    coger mucha miel y cera: este <Concept_Territory>país</Concept_Territory> está regado de muchos
+        <Concept_Landmark>ríos</Concept_Landmark>, y los más considerables son el
+        <Landmark>Parapane</Landmark> que recoge las aguas de otros más pequeños, el
+        <Landmark>Tibajirá</Landmark>, <Landmark>Itahua</Landmark>, <Landmark>Guatay</Landmark> y
+        <Landmark>Paraná</Landmark>, cuyas orillas y <Concept_Landmark>bosques</Concept_Landmark>
+    estan pobladas de paxaros de infinitas especies: hállanse aquí unas piedras encerradas en una
+    especie de costra muy dura de figura oval en bastante profundidad de la tierra, dicen que quando
+    llegan a su perfección re##bienta la costra haciendo el mismo ruido que una bomba, y descubre
+    una piedra transparente y de mucho brillo que por lo común es encarnada, aunque las hay verdes y
+    de color de violeta, estan cortadas naturalmente de un modo tan vario y singular que nadie
+    quiere creer que sea obra de la naturaleza, pero son lo mismo que las piedras de
+        <Territory>Francia</Territory>: los <humanGroup type="political_group"
+        >Españoles</humanGroup> creyeron al principio que eran esmeraldas, amatistas y carbunclos,
+    pero luego se desengañaron: hay en este <Concept_Territory>país</Concept_Territory> muchos
+    árboles que destilan gomas balsámicas: las correrías que han hecho en el los <humanGroup
+        type="indigenous_group">Mamelucos</humanGroup> o <humanGroup type="indigenous_group"
+        >Paulistas</humanGroup> del <Territory>Brasil</Territory> obligaron a los <humanGroup
+        type="political_group">Españoles</humanGroup> a abandonarlo quando destruyeron a
+        <Settlement>Villa Rica</Settlement> y <Settlement>Ciudad Real</Settlement> que habian
+    fundado: se cría una fruta que llaman guembe, que es de figura oblonga, puntiaguda por los
+    extremos, llena de unos pequeños granos amarillos muy dulces si se chupan, pero quando se mascan
+    llenan la boca de un jugo de insoportable acritud; la planta que lo produce es una especie de
+    bejuco que se pe<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0259@@@<zbr/>
+    <zbr/> #ga a los árboles, y sube a mucha altura, y dicen que si la semilla cae sobre alguna
+    corteza podrida hecha raices que profundizan hasta la tierra, y producen plantas de la misma
+    especie: de los datiles que hemos dicho hacen vino, y una bebida que es muy nutritiva; las
+    palmas que los producen, y se hallan en todas partes, son de gran recurso para los viageros
+    quando tienen falta de víveres, porque su medula es de grande alimento, y muy sana: los javalíes
+    tienen el ombligo en el lomo, y se ha observado que es menester cortarselo quando lo matan,
+    porque si no corrompe toda la carne: la miel es de excelente calidad, pero la cera nunca se ha
+    podido blanquear: los PP. <persName>Manuel de Ortega</persName> y <persName>Tomas
+        Filds</persName> de la extinguida Compañia entraron el año de 1588 a predicar a estos
+        <humanGroup type="social_group">Indios</humanGroup>, donde establecieron unas florecientes
+    Misiones bien gobernadas de muchos <Concept_Settlement>Pueblos</Concept_Settlement>, que el año
+    de 1767 se entregaron a los Clérigos. La <Concept_Settlement>Capital</Concept_Settlement> es el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>nuestra Señora de
+        Loreto</Settlement>. <zbr/>
+    <zbr/> §§§id_06676§§§<zbr/> Tiene el mismo nombre ##un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> en el
+        <Territory>Perú</Territory> de la <Concept_Territory>jurisdicción</Concept_Territory> de
+        <Territory>Xuxuy</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Laquiaza</Landmark>. <zbr/>
+    <zbr/> §§§id_06677§§§<zbr/> GUAIRAICAC, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Surinam</Territory> en la parte
+    de la <Territory>Guayana</Territory> que poseen los <humanGroup type="political_group"
+        >Holandeses</humanGroup>, nace en la extremidad de la
+        <Concept_Landmark>sierra</Concept_Landmark> de <Landmark>Rinocote</Landmark>, corre al O, y
+    entra en la Cabecera del <Landmark>Caroni</Landmark>. <zbr/>
+    <zbr/> §§§id_06678§§§<zbr/> GUAIRE, <Concept_Landmark>Río</Concept_Landmark> pequeño del
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory> y
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Venezuela</Territory>, nace
+    en la <Concept_Landmark>sierra</Concept_Landmark>, y corre al N hasta salir al
+        <Concept_Landmark>mar</Concept_Landmark> delante de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Coro</Settlement>, algunos
+    Geografos le llaman Guairi, y ponen su curso al E haciéndole desembocar en el
+        <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Codera</Landmark>. <zbr/>
+    <zbr/> §§§id_06679§§§<zbr/> GUAIRIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory>
+    de la <Territory>Trinidad</Territory>, situado en la <Concept_Landmark>Costa</Concept_Landmark>
+    interior de ella que mira al O, y forma el <Concept_Landmark>golfo</Concept_Landmark>
+    <Landmark>Triste</Landmark>. <zbr/>
+    <zbr/> §§§id_06680§§§<zbr/> GUAITACASIOS, <Concept_Group>Nación barbara</Concept_Group> del
+        <Territory>Brasil</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de los <Territory>Ilheos</Territory> habita
+    en los <Concept_Landmark>bosques</Concept_Landmark>, y en los
+        <Concept_Landmark>montes</Concept_Landmark> a la parte de Poniente, es cruel y feroz; pero
+    solo se sabe que son enemigos implacables de los <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0260@@@<zbr/>
+    <zbr/> #<humanGroup type="political_group">Portugueses</humanGroup>, que nunca han podido
+    internarse en su <Concept_Territory>país</Concept_Territory>. <zbr/>
+    <zbr/> §§§id_06681§§§<zbr/> GUAITECA, <Concept_Landmark>Isla</Concept_Landmark> desierta de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de <Territory>Chiloé</Territory> al Mediodía,
+    está llena de arboles silvestres, y en sus <Concept_Landmark>Playas</Concept_Landmark> se
+    encuentra bellísimo marisco, y muchos lobos marinos: esta en 41 gr. 38 min. de lat. austr. <zbr/>
+    <zbr/> §§§id_06682§§§<zbr/> GUAITO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, corre
+    al N, y entra en el de <Landmark>Mbotetei</Landmark>. <zbr/>
+    <zbr/> §§§id_06683§§§<zbr/> GUAJARA, <Concept_Landmark>Volcán</Concept_Landmark> de ayre en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Tucumán</Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> en el
+        <Concept_District>distrito</Concept_District> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Xuxuy</Territory>, sale
+    siempre tan impetuoso que trastorna y derriba las gentes y caballerias. <zbr/>
+    <zbr/> §§§id_06684§§§<zbr/> GUAJIARA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Perú</Territory> en el
+        <Territory>Brasil</Territory>, corre al N, y entra en el <Landmark>Marañon</Landmark>. <zbr/>
+    <zbr/> §§§id_06685§§§<zbr/> GUAJICO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> de <Settlement>Coxcatlán</Settlement> y
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Valles</Territory> en <Territory>Nueva
+        España</Territory>, es anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Tampolon</Settlement>, y muy reducida, pues solo tiene quince familias de
+        <humanGroup type="social_group">Indios</humanGroup>
+    <humanGroup type="indigenous_group">Mexicanos</humanGroup> que cuidan del paso del
+        <Concept_Landmark>río</Concept_Landmark> del <Concept_Landmark>Desague</Concept_Landmark> de
+        <Landmark>México</Landmark>, que ##dista 4 leguas de el, y llaman el
+        <Concept_Landmark>Paso</Concept_Landmark> de la <Landmark>Canoa</Landmark>, y siembra de
+    algunos granos y semillas para su subsistencia: esta 19 leguas al S de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_06686§§§<zbr/> GUAJIROS, <Concept_Group>Nación bárbara</Concept_Group> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, en las inmediaciones de
+        <Settlement>Pamplona</Settlement> y <Settlement>Mérida</Settlement>, habitan en el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Boronata</Settlement>
+    dependientes de un Cacique que nombra el Rey desde que se sublevaron, son belicosos y valientes,
+    y de los que dieron más que hacer a los conquistadores, era entonces tan numerosa esta
+        <Concept_Group>Nación</Concept_Group> que pasaban de 70.000, pero hoy apenas llegan a
+    20.000; se emplean en sacar perlas del <Concept_Landmark>río</Concept_Landmark> del
+        <Landmark>Hacha</Landmark>, y en hacer delicados texidos de algodón; andan a caballo, y
+    tienen muchos de los que llaman aguilillas por su velocidad en andar; tienen mucho comercio con
+    los <humanGroup type="political_group">Ingleses</humanGroup> y <humanGroup
+        type="political_group">Holandeses</humanGroup> que los proveen de géneros, de <humanGroup
+        type="social_group">esclavos</humanGroup>, y de armas de fuego y municiones que manejan con
+    mucha destreza; se diferencian de los demás <humanGroup type="social_group">Indios</humanGroup>,
+    así en que son laboriosos y comerciantes que <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0261@@@<zbr/>
+    <zbr/> #los hace ricos, como en su modo de vestir; las mugeres llevan una manta cosida a modo de
+    basquiña, y los hombres una camiseta corta y una manta terciada al hombro, y unos calzones hasta
+    media pierna; mascan continuamente la yerva hayo, que en el <Territory>Perú</Territory> llaman
+    coca, que les da vigor y fuerza, y llevan consigo siempre una mochila; son graves y pausados en
+    el andar, y llevan delante la muger cargada con sus hijos, la leña y géneros que llevan para
+    vender: quando tienen guerra con otra <Concept_Group>Nación</Concept_Group> marchan todos a
+    caballo, y así que estan al frente de los enemigos les cortan las piernas para que todos queden
+    a pie, y ninguno pueda huir: trabajo mucho para reducir estos barbaros ala Religión Católica el
+    Sr. <persName>Monroy</persName>, Obispo de <Territory>Santa Marta</Territory>, pero con poco
+    fruto; siguieron su zelo Don <persName>Juan Nieto del Aguila</persName> y Don <persName>Joseph
+        Xavier Arauz</persName> sus succesores, que también adelantaron poco: el año de 1749 mandó
+    destinar el Rey quatro Religiosos de la extinguida Compañia para esta conquista espiritual que
+    no se ##verificó, porque poco después mandó S. M. que pasasen a ella los Religiosos Capuchinos
+    que estaban en las <Concept_Settlement>reducciones</Concept_Settlement> de los <humanGroup
+        type="indigenous_group">Chimilas</humanGroup>, y son los que estan encargados hoy, empleando
+    inútilmente sus afanes; en cuya vista propuso no ha muchos años su Cacique Don
+        <persName>Cecilio</persName>, ayudado de un Caballero Andaluz, en esta Corte la conquista de
+    los <humanGroup type="indigenous_group">Guajiros</humanGroup>, y remitido el proyecto al Virrey
+    de <Territory>Santa Fe</Territory> fue aprobado, pero tampoco se executó, pues parece que hay
+    causa superior que impide su reducción. <zbr/>
+    <zbr/> §§§id_06687§§§<zbr/> GUAJOMULCO, San Buenaventura de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Cuernavaca</Territory> en <Territory>Nueva
+        España</Territory>, situado en la eminencia de una
+        <Concept_Landmark>montaña</Concept_Landmark> tres leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement>, tiene 80 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, <zbr/>
+    <zbr/> §§§id_06688§§§<zbr/> GUAJOYA, San Pablo de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tenían los Regulares de
+    la Compañia en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Napo</Landmark>, <zbr/>
+    <zbr/> §§§id_06689§§§<zbr/> GUAJUAPA, <Concept_Territory>Alcaldía mayor</Concept_Territory> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Nueva España</Territory>
+    en el <Concept_Territory>Obis<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0262@@@<zbr/>
+        <zbr/> #pado</Concept_Territory> de la <Settlement>Puebla de los Angeles</Settlement>,
+    llámase también Misteca baxa, esta dividida en dos <Concept_District>partidos</Concept_District>
+    que son este y el de <Territory>Tonalá</Territory>, es de temperamento caliente y humedo,
+    abundante de ganado cabrío, de cuyas pieles y sebo que se saca de las matanzas hace su principal
+    comercio, como de algunas semillas y grana, y de hacer petates o esteras de junco que trabajan
+    con primor, ##y tienen estimación en otras
+    <Concept_Territory>jurisdicciones</Concept_Territory>, la de esta contiene muchas
+        <Concept_Structure>haciendas</Concept_Structure> y
+        <Concept_Structure>ranchos</Concept_Structure> de labor en que siembran y cogen suficiente
+    cantidad de trigo, maíz y otras legumbres, frutas, y ganado mayor; consta el
+        <Concept_District>partido</Concept_District> de 12
+        <Concept_Settlement>Pueblos</Concept_Settlement> principales, y el de
+        <Territory>Tonalá</Territory> su agregado de otros 15, situados a proporcionada distancia,
+    todos de <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Mexicanos</humanGroup> y <humanGroup type="indigenous_group"
+        >Mistecos</humanGroup>, que son<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>San Pedro de Tequisistepec</Settlement>.<zbr/>
+    <Settlement>Chametla</Settlement>.<zbr/>
+    <Settlement>Mistepec</Settlement>.<zbr/>
+    <Settlement>Guanapa</Settlement>.<zbr/>
+    <Settlement>Zuchitlapilco</Settlement>.<zbr/>
+    <Settlement>Xuchitepec</Settlement>.<zbr/>
+    <Settlement>Guejolotitlan</Settlement>.<zbr/>
+    <Settlement>Tuctla</Settlement>.<zbr/> ##<Settlement>Xuzistlahuaca</Settlement>.<zbr/>
+    <Settlement>Xuchitepec</Settlement>.<zbr/>
+    <Settlement>Tezuatlán</Settlement>.<zbr/>
+    <Settlement>Tonalá</Settlement>.<zbr/>
+    <Settlement>Tlapanalá</Settlement>.<zbr/>
+    <Settlement>Atoyaque</Settlement>.<zbr/>
+    <Settlement>Tlapalzingo</Settlement>.<zbr/>
+    <Settlement>Zalacayoapán</Settlement>.<zbr/>
+    <Settlement>Aeiquaya</Settlement>.<zbr/> ###<Settlement>Caleguala</Settlement>.<zbr/>
+    <Settlement>San Geronimo</Settlement>.<zbr/>
+    <Settlement>Guastepec</Settlement>.<zbr/>
+    <Settlement>Aguatlan</Settlement>.<zbr/>
+    <Settlement>Zacatepec</Settlement>.<zbr/>
+    <Settlement>Incuyachi</Settlement>.<zbr/>
+    <Settlement>Huelotitlán</Settlement>.<zbr/>
+    <Settlement>Tlachichilco</Settlement>.<zbr/>
+    <Settlement>Igualtepec</Settlement>.<zbr/> $$$<zbr/>
+    <zbr/> #La <Concept_Settlement>Capital</Concept_Settlement> es el
+        <Concept_Settlement>Pueblo</Concept_Settlement> de su nombre, goza del mismo temperamento, y
+    su vecindario se compone de 300 familias de <humanGroup type="social_group">Indios</humanGroup>,
+    y otras tantas de <humanGroup type="social_group">Españoles</humanGroup>, <humanGroup
+        type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group"
+        >Mulatos</humanGroup>, tiene un Convento de Religiosos de Santo Domingo a quienes pertenecía
+    el <Concept_District>Curato</Concept_District> antes, dista 50 leguas al SE de
+        <Settlement>México</Settlement>, y esta en 275 gr. 8 min. de long. y 18 gr. 50 min. de lat. <zbr/>
+    <zbr/> §§§id_06690§§§<zbr/> ##GUAJUCO, <Concept_Landmark>Valle</Concept_Landmark> de Santiago
+    de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
+        partido</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Nuevo Reyno de
+        León</Territory> en <Territory>Nueva España</Territory>, situado entre dos
+        <Concept_Landmark>cerros</Concept_Landmark> que forman un espacioso
+        <Concept_Landmark>valle</Concept_Landmark> ameno y divertido por los muchos árboles que lo
+    pueblan; su <Concept_District>distrito</Concept_District> es muy abundante de semillas, y de
+    ellas no solo abastece la <Concept_Territory>jurisdicción</Concept_Territory>, sino otras,
+    también produ<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0263@@@<zbr/>
+    <zbr/> #ce mucha caña dulce de que fabrican azúcar y miel: esta 9 leguas al S, 1/4 al SO de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_06691§§§<zbr/> GUALACEO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a la
+    orilla de un <Concept_Landmark>río</Concept_Landmark> pequeño del mismo nombre, esta 4 leguas al
+    Poniente de su <Concept_Settlement>Capital</Concept_Settlement>, en 2 gr. 35 min. de lat. aust. <zbr/>
+    <zbr/> §§§id_06692§§§<zbr/> GUALBERTO, Sierras de San Juan)
+        <Concept_Landmark>Cordillera</Concept_Landmark> de
+        <Concept_Landmark>montañas</Concept_Landmark> muy altas del <Territory>Nuevo
+        México</Territory>, corren al E en 33 gr. de altura hasta encontrar la orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Grande</Landmark>, <Landmark>Colorado</Landmark> o del <Landmark>Norte</Landmark>,
+    cerca de su salida al <Concept_Landmark>mar</Concept_Landmark> en el
+        <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>California</Landmark> o
+        <Concept_Landmark>mar</Concept_Landmark>
+    <Landmark>Roxo de Cortés</Landmark>. <zbr/>
+    <zbr/> §§§id_06693§§§<zbr/> GUALCAS, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Piura</Territory> en el
+        <Territory>Perú</Territory>, corre al O paralelo al de <Landmark>Saurá</Landmark>, y entra
+    en el de <Landmark>Piura</Landmark>. <zbr/>
+    <zbr/> §§§id_06694§§§<zbr/> GUALEA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, es de clima
+    caliente y humedo, situado entre dos <Concept_Landmark>ríos</Concept_Landmark>, y en medio de un
+    espeso <Concept_Landmark>bosque</Concept_Landmark>, cerca del camino antiguo que iba de
+        <Territory>Quito</Territory> al <Concept_Landmark>Puerto</Concept_Landmark> llamado del
+        <Landmark>Embarcadero</Landmark> en ##el <Concept_Landmark>río</Concept_Landmark> de
+        <Territory>Esmeraldas</Territory>; los platanos que se crían en su
+        <Concept_District>distrito</Concept_District> pasan por los de más delicado gusto de toda la
+        <Territory>América</Territory>: esta en 7 min. y 3 seg. de lat. bor. <zbr/>
+    <zbr/> §§§id_06695§§§<zbr/> GUALEGUAS, San Nicolas de las)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de las Misiones que tienen los Religiosos de
+    San Francisco en el <Territory>Nuevo Reyno de León</Territory> de la <Territory>América
+        Septentrional</Territory>, distante 5 leguas al N de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Cerralvo</Settlement>. <zbr/>
+    <zbr/> §§§id_06696§§§<zbr/> GUALEGUAI, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>, nace
+    entre los de <Landmark>Paraná</Landmark> y <Landmark>Uruguay</Landmark>, corre al S muchas
+    leguas, luego tuerce su curso al E, y entra en el ultimo por dos bocas formando una
+        <Concept_Landmark>Isla</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_06697§§§<zbr/> GUALI, <Concept_Landmark>Río</Concept_Landmark> rapido de la
+        <Concept_Territory>Provincia</Concept_Territory> de los <Territory>Marquetones</Territory>
+    en el <Territory>Nuevo Reyno de Granada</Territory>, nace en las
+        <Concept_Landmark>montañas</Concept_Landmark> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mariquita</Settlement>, corre
+    al E pasando por la <Concept_Settlement>Villa</Concept_Settlement> de
+        <Settlement>Honda</Settlement>, y luego entra en el grande de la
+        <Landmark>Magdalena</Landmark>; en todos los
+        <Concept_Settlement>Pueblos</Concept_Settlement> que hay situados a sus orillas se padece la
+    epidemia de cotos o tumores en la garganta, y se atribuyen a sus aguas por las partículas de
+    minerales que tienen, pues los que no las <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0264@@@<zbr/>
+    <zbr/> #beben están libres de esta enfermedad: su boca se halla en 6 gr. 49 min. de lat. bor. <zbr/>
+    <zbr/> §§§id_06698§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> en el
+    mismo <Concept_Territory>Reyno</Concept_Territory>, situado cerca del nacimiento del
+        <Concept_Landmark>río</Concept_Landmark> anterior de quien le toma. <zbr/>
+    <zbr/> §§§id_06699§§§<zbr/> GUALLAGA, <Concept_Landmark>Río</Concept_Landmark> grande y
+    caudaloso de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Guanuco</Territory> en el
+        <Territory>Perú</Territory>, se forma del de <Landmark>Pilco-mayu</Landmark> que nace del
+        <Concept_Landmark>lago</Concept_Landmark> de <Landmark>Bombón</Landmark> en la de
+        <Territory>Tarma</Territory>, y del de <Landmark>Visacaca</Landmark> que tiene su origen en
+    las <Concept_Landmark>montañas</Concept_Landmark> de la de <Territory>Guamalies</Territory>;
+    estos dos <Concept_Landmark>ríos</Concept_Landmark> unidos pasan cerca de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>León de Guanuco</Settlement>
+    haciendo su curso al N, y forman el de <Landmark>Guallaga</Landmark>, que recoge luego las aguas
+    de los de <Landmark>Paloyacu</Landmark>, <Landmark>Santa María</Landmark>,
+        <Landmark>Tacumi</Landmark>, <Landmark>Arapi</Landmark>, <Landmark>Aguanos</Landmark>,
+        <Landmark>Apena</Landmark>, y de la <Concept_Landmark>laguna</Concept_Landmark>
+    <Landmark>Turatini</Landmark>; a la boca de el, y en una de sus orillas, habitan las dos
+    numerosas <Concept_Group>Naciones de Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Aguanos</humanGroup> y <humanGroup type="indigenous_group"
+        >Barbudos</humanGroup>, llamados así porque tienen barbas, distinguiéndose en esto de todos
+    los demás de la <Territory>América</Territory>; son de color muy obscuro a causa de ##andar
+    siempre desnudos a la inclemencia; sus mugeres que asisten en
+        <Concept_Settlement>rancherías</Concept_Settlement> son blancas y rubias, ocupaban antes más
+    de 150 leguas de terreno: este <Concept_Landmark>río</Concept_Landmark>, que fue por donde baxo
+    el tirano <persName>Lope de Aguirre</persName>, entra luego en el <Landmark>Marañon</Landmark>
+    por la parte austral, su boca esta 30 leguas del <Landmark>Pongo</Landmark> o
+        <Landmark>angostura</Landmark>, en 5 gr. 2 min. de lat. aust. <zbr/>
+    <zbr/> §§§id_06700§§§<zbr/> GUALMATA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Pastos</Territory> en el
+        <Concept_District>distrito</Concept_District> y
+        <Concept_Territory>jurisdicción</Concept_Territory> de la Presidencia del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_06701§§§<zbr/> GUALPI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Atacames</Territory> o
+        <Territory>Esmeraldas</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Quito</Territory>, entra en el de <Landmark>Mira</Landmark> poco antes de salir
+    este al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_06702§§§<zbr/> GUAMA, <Concept_Landmark>Río</Concept_Landmark> rapido del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory> al N de
+        <Settlement>Lima</Settlement> en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Cercado</Territory>,
+    baña y fertiliza una dilatada <Concept_Landmark>llanura</Concept_Landmark> a quien da el nombre,
+    es muy peligroso el badearlo, sale al <Concept_Landmark>mar</Concept_Landmark> del
+        <Landmark>Sur</Landmark> formando una pequeña <Concept_Landmark>Bahía</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_06703§§§<zbr/> Tiene el mismo nombre un
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory>, situado
+    a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Ya<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0265@@@<zbr/>
+        <zbr/> #raqui</Landmark> en su <Concept_Settlement>Cabecera</Concept_Settlement>, al E de la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Barquisimeto</Settlement>,
+    entre esta y la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San
+        Felipe</Settlement>. <zbr/>
+    <zbr/> §§§id_06704§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory> en la
+        <Concept_Landmark>Costa</Concept_Landmark> del Sur. <zbr/>
+    <zbr/> §§§id_06705§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Pará</Territory> en el
+        <Territory>Brasil</Territory> corre al E, y entra en el
+        <Concept_Landmark>brazo</Concept_Landmark> de las <Landmark>Amazonas</Landmark> que forma la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Marajo</Landmark>, cerca de su salida
+    al <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+    <zbr/> §§§id_06706§§§<zbr/> GUAMACHUCO, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>,
+    confina por el E con la de <Territory>Caxamarquilla</Territory>, por el NE con la de
+        <Territory>Chachapoyas</Territory>, mediando el <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, por el N con la de <Territory>Caxamarca</Territory>, por el NO y O
+    con la de <Territory>Truxillo</Territory>, y por el S con la de
+    <Territory>Conchucos</Territory>: tiene de largo 30 leguas E O, y 10 de ancho; se separó de la
+    de <Territory>Caxamarca</Territory>, y se hizo
+        <Concept_Territory>Corregimiento</Concept_Territory> el año de 1759, siendo Virrey el
+        <persName>Conde de Superunda</persName>: no es escasa de frutos, como maíz, trigo, cebada,
+    papas, y frutos de sierra y <Concept_Landmark>valles</Concept_Landmark> por tener algunos de
+    buen temperamento, aunque por lo general es fria, en lo que se diferencia de la de
+        <Territory>Caxamarca</Territory>, siendo en todo lo demás muy semejantes en produc##ciones y
+    comercio: críase en ella todo género de ganados, especialmente carneros, de cuya lana se fabrica
+    mucha ropa de la tierra en los grandes <Concept_Structure>obrages</Concept_Structure> que tiene:
+    hállanse <Concept_Landmark>minas</Concept_Landmark> de oro y plata, de las quales se trabajan
+    algunas como las del <Concept_Landmark>cerro</Concept_Landmark> de
+        <Landmark>Algamarca</Landmark>, del de <Landmark>San Joseph de Achocomas</Landmark>, del
+    Real de Carangas, y otras de oro, aunque pocas: en el <Concept_Landmark>cerro</Concept_Landmark>
+    de <Landmark>Aupillan</Landmark> hay una beta de hierro, y en otras partes de azufre y de piedra
+    imán: riegan esta <Concept_Territory>Provincia</Concept_Territory> algunos
+        <Concept_Landmark>ríos</Concept_Landmark>, y el más considerable es el de
+        <Landmark>Tablachaca</Landmark>, que nace en las vecindades de un
+        <Concept_Landmark>cerro</Concept_Landmark> alto y nevado que esta al SE, al fin de la
+        <Concept_Territory>Provincia</Concept_Territory> que llaman
+    <Territory>Pelagatos</Territory>; este <Concept_Landmark>río</Concept_Landmark> recibe los de
+        <Landmark>Angasmarca</Landmark> y <Landmark>Guachaca</Landmark>, y corriendo al O por los
+    confines de la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Conchucos</Territory> hace caudaloso al grande de <Landmark>Santa</Landmark>
+    donde desagua; el otro de consideración que hay es el que llaman de
+        <Landmark>Guamachuco</Landmark>, y nace de una <Concept_Landmark>laguna</Concept_Landmark>
+    inmediata al <Concept_Settlement>Pueblo</Concept_Settlement>, y siguiendo su curso al N recibe
+    otros menores, y se incorpora con el de las <Landmark>Crizne</Landmark><zbr/>
+    <zbr/> @@@Alcedo_vol_2-0266@@@<zbr/>
+    <zbr/> #de la <Concept_Territory>Provincia</Concept_Territory> de
+        <Territory>Caxamarca</Territory> que entra en el <Landmark>Marañon</Landmark> corriendo al
+    E, como el de <Landmark>Chusgon</Landmark>, <Landmark>Santisbamba</Landmark>,
+        <Landmark>Iracapampa</Landmark> y otros: tiene pocos
+        <Concept_Settlement>Pueblos</Concept_Settlement>, pero muchas
+        <Concept_Structure>haciendas</Concept_Structure> bien pobladas de gente, y con
+    es##pecialidad de <Concept_Structure>obrages</Concept_Structure> y
+        <Concept_Structure>estancias</Concept_Structure> que por la mayor parte tienen Iglesia: los
+    habitantes llegan a 11.000; su repartimiento era corto: la
+        <Concept_Settlement>Capital</Concept_Settlement> es el
+        <Concept_Settlement>Pueblo</Concept_Settlement> del mismo nombre, situado en un parage muy
+    frío, los demás son<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Sinsicapa</Settlement>:<zbr/>
+    <Settlement>Otusco</Settlement>:<zbr/>
+    <Settlement>Estancias</Settlement>:<zbr/> ##<Settlement>Usquil</Settlement>:<zbr/>
+    <Settlement>Lucma</Settlement>:<zbr/>
+    <Settlement>Malin</Settlement>:<zbr/> ###<Settlement>Huancai</Settlement>:<zbr/>
+    <Settlement>Santiago de Chuco</Settlement>:<zbr/>
+    <Settlement>Haxabamba</Settlement>:<zbr/> $$$<zbr/>
+    <zbr/> #que contiene 28 Iglesias dispersas, dividido en quatro
+        <Concept_District>partidos</Concept_District> de <Settlement>Mollepata</Settlement>,
+        <Settlement>Jurubamba</Settlement>, <Settlement>Marcabal</Settlement>,
+        <Settlement>Chuquisongo</Settlement>. <zbr/>
+    <zbr/> §§§id_06707§§§<zbr/> GUAMAL, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el
+        <Concept_District>partido</Concept_District> de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Mompox</Settlement>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark> grande de la <Landmark>Magdalena</Landmark>. <zbr/>
+    <zbr/> §§§id_06708§§§<zbr/> Tiene el mismo nombre una <Concept_Landmark>punta de
+        tierra</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del S de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>, enfrente de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Pinos</Landmark>. <zbr/>
+    <zbr/> §§§id_06709§§§<zbr/> GUAMALIES, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del <Territory>Perú</Territory>,
+    confina por el N con la de <Territory>Pataz</Territory>, por el E con la
+        <Concept_Landmark>montaña</Concept_Landmark> de los <Concept_Group>Indios
+        infieles</Concept_Group>, por el SE con la de <Territory>Guanuco</Territory>, por el S con
+    la de <Territory>Tarma</Territory>, por el SO con la de <Territory>Caxatambo</Territory>, y por
+    el NO y O con la de ##<Territory>Conchucos</Territory>: tiene de largo 82 leguas N S, 30 de
+    ancho E O, y se estrecha a 12 por otras partes: esta
+        <Concept_Territory>Provincia</Concept_Territory> no es más que un
+        <Concept_Landmark>valle</Concept_Landmark> dilatado por el centro del qual corre el
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Marañon</Landmark>, que nace a 6 leguas del termino austral de ella en la
+        <Concept_Landmark>laguna</Concept_Landmark>
+    <Landmark>Lauricocha</Landmark> de la de <Territory>Tarma</Territory>, aumentan su caudal otros
+    varios, y <Concept_Landmark>arroyos</Concept_Landmark> que le entran por uno y otro lado, y
+    entre ellos algunos muy caudalosos: el temperamento es frío hacia la parte del Sur, y en lo
+    restante por lo común benigno; y aun al N en el <Concept_District>Curato</Concept_District> de
+        <Settlement>Huacaibamba</Settlement> se hallan algunas
+        <Concept_Structure>estancias</Concept_Structure> de tan intenso calor todo el año, que se
+    atribuye a esta causa el que sus habitantes sean de color muy diverso del que <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0267@@@<zbr/>
+    <zbr/> #tienen los de las demás <Concept_Territory>Provincias</Concept_Territory>, y por eso los
+    llaman <humanGroup type="social_group">Zambos</humanGroup>; cogese abundancia de semillas y
+    frutas; cría mucho ganado, de cuyas lanas fabrican porción considerable de ropa de la tierra que
+    es su principal comercio; produce alguna coca, y pocos años hace se descubrieron algunas
+        <Concept_Landmark>minas</Concept_Landmark> de plata que prometen mucha riqueza, y asimismo
+    otra de azogue en el <Concept_Landmark>cerro</Concept_Landmark> llamado
+        <Landmark>Chonta</Landmark>: hay fuentes de agua caliente cerca de los
+        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Aguamira</Settlement> y
+        <Settlement>Baños</Settlement>; en la inmediación de este se ven los vestigios de un camino
+    de piedra hecho a mano, que también se reconoce en otras
+        <Concept_Territory>Provincias</Concept_Territory>, como en las contiguas de
+        <Territory>Conchucos</Territory>, <Territory>Tarma</Territory> y otras, cuya dirección es de
+        <Settlement>Caxamarca</Settlement> ha##cia el Sur por donde iban los Incas, y dicen que
+    llegaba hasta <Settlement>Quito</Settlement>, dando muestras todavía de ser obra suntuosa, y no
+    lexos de este sitio se descubren monumentos de la antigüedad, como un palacio para tomar baños,
+    que son de piedras tan ajustadas entre sí, que apenas se percibe la union, las ruinas de un
+    templo y de una <Concept_Structure>fortaleza</Concept_Structure> en la cumbre de un
+        <Concept_Landmark>cerro</Concept_Landmark> cortado por la parte que le baña el
+        <Landmark>Marañon</Landmark>, y otro <Concept_Structure>castillo</Concept_Structure> más
+    distante: en esta <Concept_Territory>Provincia</Concept_Territory> se halla la piedra AEtites o
+    del aguila, y excelentes maderas para fabricas, entre las quales abunda más el cedro, y se
+    cortan en la <Concept_Landmark>montaña</Concept_Landmark> a la parte del E: las
+        <Concept_Settlement>Poblaciones</Concept_Settlement> de su
+        <Concept_Territory>jurisdicción</Concept_Territory> son<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>Baños</Settlement>.<zbr/>
+    <Settlement>Rondos</Settlement>.<zbr/>
+    <Settlement>Cosma</Settlement>.<zbr/>
+    <Settlement>Chupan</Settlement>.<zbr/>
+    <Settlement>Quipai</Settlement>.<zbr/>
+    <Settlement>Chuquis</Settlement>.<zbr/>
+    <Settlement>Jesus</Settlement>.<zbr/>
+    <Settlement>Xivin</Settlement>.<zbr/>
+    <Settlement>Huanerin</Settlement>.<zbr/>
+    <Settlement>Choras</Settlement>.<zbr/>
+    <Settlement>Pachas</Settlement>.<zbr/> ##<Settlement>Sillapata</Settlement>.<zbr/>
+    <Settlement>Llamas</Settlement>.<zbr/>
+    <Settlement>Aguamira</Settlement>.<zbr/>
+    <Settlement>Coascahuac</Settlement>.<zbr/>
+    <Settlement>Chavinillas</Settlement>.<zbr/>
+    <Settlement>Llacta</Settlement>.<zbr/>
+    <Settlement>Puños</Settlement>.<zbr/>
+    <Settlement>Miraflores</Settlement>.<zbr/>
+    <Settlement>Zinga</Settlement>.<zbr/>
+    <Settlement>Punchao</Settlement>.<zbr/>
+    <Settlement>Pariarca</Settlement>.<zbr/> ###<Settlement>Tantamayo</Settlement>.<zbr/>
+    <Settlement>Hacas</Settlement>.<zbr/>
+    <Settlement>Xipán</Settlement>.<zbr/>
+    <Settlement>Chipao</Settlement>.<zbr/>
+    <Settlement>Monzón</Settlement>.<zbr/>
+    <Settlement>Huaicabamba</Settlement>.<zbr/>
+    <Settlement>Rundabamba</Settlement>.<zbr/>
+    <Settlement>Huariganche</Settlement>.<zbr/>
+    <Settlement>Huacaracucho</Settlement>.<zbr/>
+    <Settlement>Llanos</Settlement>.<zbr/>
+    <Settlement>Querin</Settlement>.$$$<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0268@@@<zbr/>
+    <zbr/> §§§id_06710§§§<zbr/> #GUAMAN, Santiago de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en
+    el <Territory>Perú</Territory>, situado en el <Concept_Landmark>valle</Concept_Landmark> de
+        <Landmark>Chimo</Landmark>, fue antiguamente numeroso, pero hoy esta reducido a muy corto
+    número de <humanGroup type="social_group">Indios</humanGroup>, que viven de cultivar algunas
+    mieses y hortalizas para llevar a vender a la <Concept_Settlement>Ciudad</Concept_Settlement> de
+    donde dista media legua al SE, tiene una hermosa alameda, y una buena Iglesia que quedó casi
+    arruinada por un terremoto el año de 1759, y no se ha reedificado, en ella se venera con
+    particular devoción de sus <humanGroup type="social_group">vecinos</humanGroup> una efigie de la
+    humildad y paciencia de Jesu Christo. <zbr/>
+    <zbr/> §§§id_06711§§§<zbr/> GUAMANGA, <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> del
+        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, confina por el
+    N y NE con la de <Territory>Guanta</Territory>, por el S con la de <Territory>Vilcas
+        Huaman</Territory>, y por el O con la de <Territory>Castro Virreyna</Territory>, es de tan
+    limitada <Concept_Territory>jurisdicción</Concept_Territory> que solo tiene dos
+        <Concept_Settlement>Pueblos</Concept_Settlement> después que le separaron otras: su
+    sitúacion es en un terreno alto, y de temperamento frío: abunda de excelentes pastos que crían
+    muchísimo ganado, cuyas lanas son muy finas y estimadas en ##todo el
+    <Territory>Perú</Territory>: se coge en ella mucho trigo, que crece más en la parte baxa: la
+    conquistó y unió al Imperio el Inca <persName>Viracocha</persName> VIII Emperador. <zbr/>
+    <zbr/> §§§id_06712§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> es la
+        <Concept_Settlement>Ciudad</Concept_Settlement> del mismo nombre, fundada por
+        <persName>Francisco Pizarro</persName> el año de 1539 en un dilatado y ameno
+        <Concept_Landmark>llano</Concept_Landmark> que riega y fertiliza un
+        <Concept_Landmark>río</Concept_Landmark> pequeño que nace en las
+        <Concept_Landmark>montañas</Concept_Landmark>; tiene también los nombres de San Juan de la
+    Victoria, en memoria de haberse retirado <persName>Manco Inca</persName> de una sangrienta
+    batalla quando tenía casi vencidos a los <humanGroup type="political_group"
+        >Españoles</humanGroup>, y San Juan de la Frontera; pero nadie la llama si no Guamanga: es
+    de temperamento tan benigno que no incomoda el frío ni fastidia el calor, porque siempre reyna
+    en ella una continua primavera: no hay en todo el <Territory>Perú</Territory>
+    <Concept_Settlement>Población</Concept_Settlement> que la compita en edificios, que son de
+    piedra, muy hermosos y cómodos, con jardines y huertas que sirven de recreo y utilidad; las
+    plazas grandes y quadradas, y las entradas de la <Concept_Settlement>Ciudad</Concept_Settlement>
+    alegres y hermosas por las arboledas que hay en ellas; tiene dos Par<zbr/>
+    <zbr/> @@@Alcedo_vol_2-0269@@@<zbr/>
+    <zbr/> #roquias con quatro Curatos, un Colegio Seminario Real con título de San Christoval que
+    goza privilegios de Universidad, Conventos de Religiosos de Santo Domingo, San Francisco, San
+    Agustín, la Merced, San Juan de Dios, y Colegio que fue de los Regulares de la Compañia; dos
+    Monasterios de Monjas, uno de Santa Clara y otro de Carmelitas; tres Hospicios, llamados de San
+    Francisco de Paula, de San Agustín y de Agonizantes, llamado de la Buena Muerte; y un Curato
+    titulado de Santa María Magdalena, que es de <humanGroup type="social_group">Indios</humanGroup>
+    que viven en diferentes <Concept_Settlement>barrios</Concept_Settlement> de la
+        <Concept_Settlement>Ciudad</Concept_Settlement>: es muy abundante en granos, frutos y
+    ganados, de cuyas pieles fabrican suelas, baquetas y cordovanes con que hace un gran comercio:
+    en su <Concept_Territory>territorio</Concept_Territory> hay una fuente que congelada su agua se
+    convierte en una piedra muy blanca y transparente, de que labran vidrieras, figuras y muebles
+    para adornos: también tiene <Concept_Landmark>minas</Concept_Landmark> de plata, oro y piedra
+    imán, pero se trabajan pocas: es ca##beza de <Concept_Territory>Obispado</Concept_Territory>
+    erigido por <persName>Paulo V</persName> el año de 1609 sufragáneo de
+        <Settlement>Lima</Settlement>: comprehende 8
+        <Concept_Territory>Provincias</Concept_Territory>, que son <Territory>Guanta</Territory>,
+        <Territory>Vilcas Huaman</Territory>, <Territory>Andaguailas</Territory>,
+        <Territory>Guancabelica</Territory>, <Territory>Angaraes</Territory>, <Territory>Castro
+        Virreyna</Territory>, <Territory>Parinacocha</Territory> y <Territory>Lucanas</Territory>:
+    sus naturales son corteses, liberales y capaces así para las ciencias como para el manejo de sus
+    negocios: hay muchas familias nobles y ricas, y no pocas descendientes de los primeros
+    conquistadores: es patria del Ilustrísimo Señor Don <persName>Manuel Gerónimo de
+        Romaní</persName>, Canonigo de esta Santa Iglesia, Obispo de <Territory>Panamá</Territory> y
+    del <Territory>Cuzo</Territory>; del <persName>Marqués de Valdelirios</persName>, actual
+    Consejero, y Camarista, del Real y Supremo Consejo de Indias; y de Doña <persName>María Teresa
+        Cruzategui y Munive</persName>, Marquesa de Feria, Dama de singular talento y erudición con
+    que se distingue, poseyendo la latinidad, filosofía, letras humanas, y diferentes idiomas: esta
+    70 leguas al SE de <Settlement>Lima</Settlement>, 79 del <Settlement>Cuzco</Settlement> y 80 de
+        <Settlement>Pisco</Settlement>, long. 306 gr. 40 min. lat. aust. 12 gr. 54 min. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0270@@@<zbr/>
+    <zbr/> #___OBISPOS QUE HA HABIDO EN GUAMANGA: <zbr/>
+    <zbr/> #1 Don Fr. <persName>Agustín de Carvajal</persName>, del Orden de San Agustín, natural de
+        <Settlement>Cáceres</Settlement> en <Territory>Estremadura</Territory>, Prior de su Convento
+    en <Settlement>Valladolid</Settlement>, Asistente general de la Orden, fue promovido de la
+    Iglesia de <Settlement>Panamá</Settlement> a esta el año de 1611, gobernó hasta el de 1620, que
+    murió.<zbr/> 2 Don <persName>Francisco Verdugo</persName>, natural de
+        <Settlement>Carmona</Settlement> en <Territory>Andalucía</Territory>, Colegial en el Colegio
+    de Maese Rodrigo de <Settlement>Sevilla</Settlement>, Catedrático de Canones y Leyes, Abogado de
+    la Inquisición de <Settlement>Sevilla</Settlement> y Fiscal de la de
+        <Settlement>Murcia</Settlement>, luego Inquisidor de <Settlement>Lima</Settlement>, electo
+    Obispo de <Territory>Guamanga</Territory> el año de 1623, fue modelo de Prelados limosneros y
+    justos, visitó cinco veces su <Concept_Territory>Obispado</Concept_Territory>, y murió el año de
+    1636 promovido a Arzobispo de <Territory>Santa Fe</Territory>.<zbr/> 3 Don Fr. <persName>Gabriel
+        de Zarate</persName>, del Orden de Santo Domingo, natural de <Settlement>Lima</Settlement>,
+    fue Prior en quatro Conventos de su Religión, dos veces Provincial, Calificador del Santo
+    Oficio, presentado para este <Concept_Territory>Obispado</Concept_Territory> el mismo año de
+    1636, murió el siguiente.<zbr/> 4 Don Fr. <persName>Antonio Conderina</persName>, del Orden de
+    San Agustín, natural de <Settlement>Bilbao</Settlement>, fue promovido del
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santa Marta</Territory> a este
+    el año de 1645; pero a su llegada se dementó, y, nombraron a<zbr/> 5 Don <persName>Antonio de
+        Castro del Castillo</persName>, que no admitió.<zbr/> 6 Don <persName>Andrés García de
+        Zurita</persName>, natural de <Settlement>Sevilla</Settlement>, Colegial y Rector en el
+    Colegio Real de San Felipe y San Marcos de la Universidad de <Settlement>Lima</Settlement>, Cura
+    en el <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory>, Canonigo,
+    y luego Dean de la Santa Iglesia de <Settlement>Lima</Settlement>, Coadjutor del
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guamanga</Territory> y Obispo,
+    de donde pasó promovido al de <Territory>Truxillo</Territory> en 1650.<zbr/> 7 Don
+        <persName>Francisco Godoy</persName>, Canonigo de las Iglesias de <Settlement>Buenos
+        Ayres</Settlement> y <Settlement>Arequipa</Settlement>, y Dean de esta, Catedrático de
+    Artes, electo Obispo de <Territory>Guamanga</Territory> el mismo año de 1650. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0271@@@<zbr/> #8 Don Fr. <persName>Cipriano de Medina</persName>, del
+    Orden de Santo Domingo, natural de <Settlement>Lima</Settlement>, Catedrático de Artes,
+    Difinidor y Procurador general, electo Obispo de <Territory>Guamanga</Territory>, cuya Catedral
+    concluyó, y saliendo a hacer la visita murió aquel mismo día.<zbr/> 9 Don <persName>Vasco de
+        Contreras</persName>, natural de <Settlement>Lima</Settlement>, Colegial del Colegio de San
+    Martín, y de su Universidad, Tesorero de aquella Santa Iglesia, Obispo de
+        <Territory>Popayán</Territory>, de donde pasó promovido a esta.<zbr/> 10 Don
+        <persName>Sancho Pardo de Andrade y Figueroa</persName> pasó promovido al
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Quito</Territory> el año de
+    1688.<zbr/> 11 Don <persName>Diego Ladron de Guevara</persName> pasó de la Santa Iglesia de
+        <Territory>Panamá</Territory> el año de 1699, fue promovido a la de
+        <Territory>Guamanga</Territory>, y de esta a la de <Territory>Quito</Territory> el de
+    1703.<zbr/> 12 Don <persName>Diego Deza y Ulloa</persName>, natural de
+        <Settlement>México</Settlement>, murió el año de 1719.<zbr/> 13 Don Fr. <persName>Alfonso
+        Roldan</persName>, del Orden de San Basilio, natural de
+        <Settlement>Villarobledo</Settlement> en la <Territory>Mancha</Territory>, Maestro en
+    Sagrada Teología, Examinador Sinodal del <Concept_Territory>Arzobispado</Concept_Territory> de
+        <Territory>Toledo</Territory>, Calificador del Santo Tribunal de la Inquisición, Abad de su
+    Colegio de <Settlement>Alcalá</Settlement> y del Monasterio de <Settlement>Madrid</Settlement>,
+    Difinidor, Provincial y Vicario general de las <Concept_Territory>Provincias</Concept_Territory>
+    de <Territory>Castilla</Territory> y <Territory>Andalucía</Territory>, presentado para Obispo de
+        <Territory>Guamanga</Territory> el año de 1723, gobernó con singular integridad y entereza
+    17 años su Iglesia; y aunque renunció la mitra por su abanzada edad, y cansado de sufrir
+    persecuciones, no se le admitió, y murió el año de 1740.<zbr/> 14 Don Fr. <persName>Francisco
+        Galeano</persName>, del Orden de la Merced, natural de <Settlement>Lima</Settlement>,
+    Catedrático de Prima de Escritura en la Universidad de <Territory>San Marcos</Territory>, Obispo
+    auxiliar de aquella <Concept_Settlement>Capital</Concept_Settlement> con el título de
+    Rosaliense, y promovido a <Territory>Guamanga</Territory> el año de 1741, murió el de
+    1743.<zbr/> 15 Don <persName>Miguel Bernardo de la Fuente Roja</persName>, natural de
+        <Settlement>Lima</Settlement>, promovido de la Iglesia de <Territory>Santa Cruz de la
+        Sierra</Territory> el año de 1744, murió antes de tomar posesión. <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0272@@@<zbr/> #16 Don <persName>Francisco Gutierrez</persName> electo el
+    año de 1745, murió el de 1749.<zbr/> 17 Don <persName>Felipe Manrique de Lara</persName>,
+    natural de <Settlement>Lima</Settlement>, de la ilustre familia de los Marqueses de este
+    apellido, Dean de aquella Santa Iglesia Metropolitana, electo Obispo de
+        <Territory>Panamá</Territory>, que renunció, y luego de <Territory>Guamanga</Territory> el
+    año de 1750, murió el de 1765.<zbr/> 18 Don Fr. <persName>Joseph Luis de Lila</persName>, del
+    Orden de San Agustín, natural de <Territory>Panamá</Territory>, electo en 1766, murió en
+    1769.<zbr/> 19 Don <persName>Miguel Moreno y Ollo</persName>, natural de
+        <Territory>Panamá</Territory>, Dean de su Santa Iglesia y Obispo, de donde pasó promovido a
+    esta de <Territory>Guamanga</Territory> el año de 1771, murió el de 1782.<zbr/> 20 Don
+        <persName>Francisco Lopez</persName>, Abad de Motril, fue electo Obispo de
+        <Territory>Guamanga</Territory> el año de 1782.___<zbr/>
+    <zbr/> §§§id_06713§§§<zbr/> #GUAMANI, <Concept_Landmark>Cordillera</Concept_Landmark> de
+        <Concept_Landmark>montañas</Concept_Landmark> muy altas cubiertas siempre de nieve, que se
+    une a la grande de los <Landmark>Andes</Landmark> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_06714§§§<zbr/> GUAMANTANGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Canta</Territory> en el
+        <Territory>Perú</Territory>, es pequeño, pero celebre por las continuas romerias que hacen
+    de muchas partes a visitar el <Concept_Structure>Santuario</Concept_Structure> de una efigie de
+    Christo que se venera en su Iglesia, cuya fiesta celebran el día de Pentecostes concurriendo
+    inmenso gentío de las demás <Concept_Territory>Provincias</Concept_Territory>. <zbr/>
+    <zbr/> §§§id_06715§§§<zbr/> GUAMANTLA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
+        mayor</Concept_Territory> de <Territory>Tlaxcala</Territory> en <Territory>Nue##va
+        España</Territory>, tiene más de 100 familias de <humanGroup type="social_group"
+        >Españoles</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> y <humanGroup
+        type="social_group">Mestizos</humanGroup>, que se ocupan en hacer frenos, estrivos, y otras
+    varias curiosidades de fierro con tanto primor, que tienen singular estimación en todo el
+        <Concept_Territory>Reyno</Concept_Territory>, y es de lo que hacen su comercio; tiene un
+    Convento de Religiosos de San Francisco. <zbr/>
+    <zbr/> §§§id_06716§§§<zbr/> GUAMANZANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Truxillo</Territory> en
+    el <Territory>Perú</Territory>, situado cerca del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Morin</Landmark> y del <Concept_Landmark>cerro</Concept_Landmark> de
+        <Landmark>Pelagatos</Landmark>. <zbr/>
+    <zbr/> §§§id_06717§§§<zbr/> GUAMARA, <Concept_Landmark>Río</Concept_Landmark> caudaloso de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory> en el
+        <Territory>Brasil</Territory>, corre muchas leguas <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0273@@@<zbr/>
+    <zbr/> #al NNE, y sale al <Concept_Landmark>mar</Concept_Landmark> junto a la
+        <Concept_Landmark>punta</Concept_Landmark> de <Landmark>Colta</Landmark>. <zbr/>
+    <zbr/> §§§id_06718§§§<zbr/> GUAMARO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, situado
+    a la orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Magdalena</Landmark>. <zbr/>
+    <zbr/> §§§id_06719§§§<zbr/> GUAMARU, <Concept_Settlement>Pueblo</Concept_Settlement> de las
+    Misiones que tienen los PP. Carmelitas de <Territory>Portugal</Territory> en el
+        <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory>, situado
+    a la orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Negro</Landmark>. <zbr/>
+    <zbr/> §§§id_06720§§§<zbr/> GUAMAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
+    <zbr/> §§§id_06721§§§<zbr/> Otro hay del mismo hombre en la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Sonora</Territory> en
+        <Territory>Nueva España</Territory>, situado en la
+        <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>golfo</Concept_Landmark> de
+        <Landmark>California</Landmark>. <zbr/>
+    <zbr/> §§§id_06722§§§<zbr/> GUAMAZAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_06723§§§<zbr/> GUAMBA, <Concept_Territory>Provincia</Concept_Territory> antigua y
+    muy fértil en el <Concept_Territory>territorio</Concept_Territory> de la de
+        <Territory>Popayán</Territory> del <Territory>Nuevo Reyno de Granada</Territory>, la
+    descubrió <persName>Sebastián de Benalcazar</persName> el año de 1536, sus naturales eran
+    feroces y comedores de carne humana. <zbr/>
+    <zbr/> §§§id_06724§§§<zbr/> GUAMBACHO, <Concept_Landmark>Puerto</Concept_Landmark> de la
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la
+        <Concept_Landmark>Costa</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        ##<Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Santa</Territory> en el
+        <Territory>Perú</Territory>. <zbr/>
+    <zbr/> §§§id_06725§§§<zbr/> GUAMBIA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
+    <zbr/> §§§id_06726§§§<zbr/> GUAMBOS, <Concept_Landmark>Río</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chachapoyas</Territory>
+    en el <Territory>Perú</Territory>, nace en el <Concept_Landmark>valle</Concept_Landmark> de
+        <Landmark>Tlayabamba</Landmark>, corre inclinandose al SSE, y entra en el de
+        <Landmark>Moyobamba</Landmark>. <zbr/>
+    <zbr/> §§§id_06727§§§<zbr/> GUAMES, San Diego de)
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Pastos</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Laguna</Landmark>. <zbr/>
+    <zbr/> §§§id_06728§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark> de
+    la propia <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory>, corre al E muchas leguas recogiendo
+    las aguas de otros y del <Concept_Landmark>lago</Concept_Landmark> de <Landmark>Mocoa</Landmark>
+    para entrar muy caudaloso en el <Landmark>Putu-mayu</Landmark>; tiene un puente de bejucos muy
+    primoroso. <zbr/>
+    <zbr/> §§§id_06729§§§<zbr/> Otro <Concept_Landmark>río</Concept_Landmark> hay de este nombre en
+    la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Tacunga</Territory> y del
+    propio <Concept_Territory>Reyno</Concept_Territory>, nace cerca del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Pillaro</Settlement>, corre
+    al E, y unido con otros entra en el <Landmark>Curaray</Landmark> en el
+        <Concept_Territory>país</Concept_Territory> de los <Territory>Canelos</Territory>. <zbr/>
+    <zbr/> §§§id_06730§§§<zbr/> GUAMINI, <Concept_Landmark>Monte</Concept_Landmark> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0274@@@<zbr/>
+    <zbr/> #<Territory>Buenos Ayres</Territory>, cerca de la
+        <Concept_Landmark>Costa</Concept_Landmark> de los <Landmark>Patagones</Landmark>
+    <zbr/>
+    <zbr/> §§§id_06731§§§<zbr/> GUAMO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>jurisdicción</Concept_Territory> de <Territory>Ibague</Territory> en el
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mariquita</Territory> del
+        <Territory>Nuevo Reyno de Granada</Territory>, anexo al
+        <Concept_District>Curato</Concept_District> del de <Settlement>Cuello</Settlement>, es de
+    temperamento calido, abundante y fértil en frutos de su clima, tiene 400 <humanGroup
+        type="social_group">vecinos</humanGroup>. <zbr/>
+    <zbr/> §§§id_06732§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>río</Concept_Landmark>
+    pequeño de la <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory>, nace al
+    N de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Mérida</Settlement>,
+    entre esta y la Gran <Concept_Landmark>Laguna</Concept_Landmark>, corre a aquel rumbo, y desagua
+    en ella.<zbr/>
+    <zbr/> §§§id_06733§§§<zbr/> GUAMOCO, <Concept_Settlement>Ciudad</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Antioquia</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, rica y abundante de
+        <Concept_Landmark>minas</Concept_Landmark> de plata de la mejor ley, situada a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Alara</Landmark>, en medio de unas dilatadas
+        <Concept_Landmark>sierras</Concept_Landmark> que le dieron el nombre, muy abundantes de
+    lavaderos de oro en las muchas <Concept_Landmark>quebradas</Concept_Landmark> que hay, llamados
+        <Landmark>San Francisco</Landmark>, <Landmark>Bijagua</Landmark>,
+        <Landmark>Platanar</Landmark>, <Landmark>Ariza</Landmark>, <Landmark>Trinidad</Landmark>,
+        <Landmark>San Pedro</Landmark>, la <Landmark>Cruz</Landmark>, <Landmark>Tupe</Landmark>,
+        <Landmark>Espolon de Sabalo</Landmark>, <Landmark>Ambulama</Landmark>,
+        <Landmark>Saltillo</Landmark>, <Landmark>Encarnación</Landmark>, <Landmark>Santa
+        Margarita</Landmark>, <Landmark>Santa Isabel</Landmark>, <Landmark>San Lorenzo</Landmark>,
+        <Landmark>Cultura</Landmark>, <Landmark>Caceri gran##de</Landmark>,
+        <Landmark>Cacerito</Landmark> y otros muchos que han producido infinito oro, y hicieron a
+    esta <Concept_Settlement>Ciudad</Concept_Settlement> populosa, célebre, y de mucho comercio;
+    pero después la decadencia de las <Concept_Landmark>minas</Concept_Landmark> la ha reducido a
+    tan miserable estado, que es un <Concept_Settlement>Pueblo</Concept_Settlement> muy corto, lleno
+    de ruinas de lo que fue. <zbr/>
+    <zbr/> §§§id_06734§§§<zbr/> GUAMOS, <Concept_Group>Nación barbara</Concept_Group> de las
+        <Concept_Landmark>Llanuras</Concept_Landmark> del <Landmark>Orinoco</Landmark> al N y al
+    Levante del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Apure</Landmark>, cerca del qual vive entre los
+        <Concept_Landmark>bosques</Concept_Landmark>, al Mediodía confina con la de los <humanGroup
+        type="indigenous_group">Paes</humanGroup>, y a Levante con la de los <humanGroup
+        type="indigenous_group">Palenques</humanGroup>, son muchos y muy valerosos. <zbr/>
+    <zbr/> §§§id_06735§§§<zbr/> GUAMOTE, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Riobamba</Territory> en
+    el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>. <zbr/>
+    <zbr/> §§§id_06736§§§<zbr/> GUANABACOA, <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Cuba</Territory>. <zbr/>
+    <zbr/> §§§id_06737§§§<zbr/> GUANABO, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, cerca de
+    la <Concept_Landmark>Costa</Concept_Landmark> de la cabeza del E, sale al
+        <Concept_Landmark>mar</Concept_Landmark> en la boca de la gran
+        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark>, junto al
+        <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>San Rafael</Landmark>. <zbr/>
+    <zbr/> §§§id_06738§§§<zbr/> GUANACACHE, <Concept_Landmark>Laguna</Concept_Landmark> grande del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, a Levante de
+    la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Juan de la
+        Frontera</Settlement>, entran en ella <zbr/>
+    <zbr/> @@@Alcedo_vol_2-0275@@@<zbr/>
+    <zbr/> #los <Concept_Landmark>ríos</Concept_Landmark> de <Landmark>Santiago</Landmark>,
+        <Landmark>Mendoza</Landmark> y <Landmark>Turuyán</Landmark>, que desagua allí por la parte
+    Meridional, tiene quasi 12 leguas de largo del N al S, no tiene
+        <Concept_Landmark>desague</Concept_Landmark> alguno que se conozca, y se cree que sea por
+    algunos conductos subterráneo; pues aunque no faltan opiniones que de el sale por la parte del
+    SO el <Concept_Landmark>río</Concept_Landmark> del <Landmark>Desaguadero</Landmark>, que se cree
+    que desemboca en el <Concept_Landmark>mar</Concept_Landmark>
+    <Landmark>Magallánico</Landmark>, no esta comprobado: se halla en 32 gr 34 min. de lat. aust. <zbr/>
+    <zbr/> §§§id_06739§§§<zbr/> GUANACAS, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Popayán</Territory> en el
+        <Territory>Nuevo Reyno de Granada</Territory>, situado en los confines del de
+        <Settlement>Quito</Settlement> el año de 1620 por los Regulares de la Compañia, que entraron
+    a reducir a sus naturales los <Concept_Group>Indios</Concept_Group>
+    <humanGroup type="indigenous_group">Paeces</humanGroup>. <zbr/>
+    <zbr/> §§§id_06740§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>paramo</Concept_Landmark>
+    o <Concept_Landmark>monte</Concept_Landmark> muy alto cubierto siempre de nieve en la misma
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> que el
+        <Concept_Settlement>Pueblo</Concept_Settlement> anterior; a cuya falda esta situado, es paso
+    preciso del camino para baxar del <Concept_Territory>Reyno</Concept_Territory> de
+        <Territory>Quito</Territory>, en cuyo transito se han helado muchos caminantes por el
+    excesivo frio que hace. <zbr/>
+    <zbr/> §§§id_06741§§§<zbr/> GUANACATI, <Concept_Landmark>Río</Concept_Landmark> de ##la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Panamá</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, a
+    Levante del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Chepo</Settlement>,
+    sus orillas son muy fértiles y amenas por las bellas
+        <Concept_Structure>haciendas</Concept_Structure> y huertas que tiene, sale al
+        <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark> a Poniente del que se
+    llama <Settlement>Chemina</Settlement>, y a Levante del de <Settlement>Pacora</Settlement>, en 8
+    gr. 53 min. de lat. bor. <zbr/>
+    <zbr/> §§§id_06742§§§<zbr/> GUANACEVI, <Concept_Settlement>Pueblo</Concept_Settlement> y
+        <Concept_Settlement>Real de Minas</Concept_Settlement> de Plata de la
+        <Concept_Territory>Provincia</Concept_Territory> de <Territory>Tepeguana</Territory> y
+        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>,
+    situado a orilla del <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Nasas</Landmark>,
+    distante 25 leguas al NNO de la <Concept_Settlement>Capital</Concept_Settlement>
+    <Settlement>Guadiana</Settlement>. <zbr/>
+    <zbr/> §§§id_06743§§§<zbr/> GUANACOCHA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuyo</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a
+    orilla del <Concept_Landmark>río</Concept_Landmark> de <Landmark>Mendoza</Landmark>. <zbr/>
+    <zbr/> §§§id_06744§§§<zbr/> GUANAGUANA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Territory>Provincia</Concept_Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory> en el
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, situado
+    en lo interior de la Serrania, uno de las Misiones que tienen en aquella
+        <Concept_Territory>Provincia</Concept_Territory> los PP. Capuchinos <humanGroup
+        type="political_group">Aragoneses</humanGroup>. <zbr/>
+    <zbr/> §§§id_06745§§§<zbr/> GUANAHANI, o San Salvador) que los <humanGroup
+        type="political_group">Ingleses</humanGroup> llaman Cot Island, es una de las
+        <Territory>Bahamas</Territory> en el <Landmark>Occéano</Landmark>, y la primera tierra de la
+        <Territory>América</Territory> que descu<zbr/>
+    <zbr/></xml>
