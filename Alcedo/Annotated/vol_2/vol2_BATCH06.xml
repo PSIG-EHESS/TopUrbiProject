@@ -5,72 +5,67 @@
     convina con otro amigo que tenía que el primero que muriese habia de venir a decir al otro el
     estado en que se hallase, y que estando en la plaza de <Settlement>Valladolid</Settlement> con
     otros Caballeros le llamó el amigo que habia muerto en <Territory>Flandes</Territory>, admirados
-    todos de verle hablar solo, desde cuyo suceso perdió el color, y entró
-        <Concept_Group>Religioso</Concept_Group> en el
-        <Concept_Structure>Convento</Concept_Structure> de <humanGroup>San Francisco</humanGroup> de
+    todos de verle hablar solo, desde cuyo suceso perdió el color, y entró Religioso en el
+        <Concept_Structure>Convento</Concept_Structure> de <humanGroup type="religious_group">San Francisco</humanGroup> de
     aquella <Concept_Settlement>Ciudad</Concept_Settlement>, fue Comisario general de los
         <Concept_Territory>Reynos</Concept_Territory> del <Territory>Perú</Territory> que visitó
     hasta <Territory>Chile</Territory>, desempeñada la visita con satisfacción de todos, fue
     presentado para Obispo de <Territory>Cartagena</Territory>, y antes de embarcarse promovido al
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santa Fe</Territory>, de
     que tomó posesión el año de 1573 fundó el <Concept_Structure>Colegio</Concept_Structure>
-    Seminario de <Settlement>San Luis</Settlement>, convocó un Concilio Provincial, que no tuvo
-    efecto por no haber podido venir Don Fr. <persName>Agustín de Coruña</persName>, Obispo de
-        <Territory>Popayán</Territory>, y lleno de virtudes y de años, pues pasaba de 80, y
-    perseguido de disgustos, murió el año de 1590.<zbr/> 4 Don <persName>Alonso López de
-        Avila</persName>, Racionero de la <Concept_Structure>Iglesia</Concept_Structure> de
-        <Settlement>Córdoba</Settlement>, Inquisidor de esta
-        <Concept_Settlement>Ciudad</Concept_Settlement>, Arzobispo de <Territory>Santo
-        Domingo</Territory> promovido a <Territory>Santa Fe</Territory>, murió antes de salir el año
-    de 1591.<zbr/> 5 Don <persName>Bartolomé Martínez Menacho</persName>, natural de la
-        <Concept_Settlement>Villa</Concept_Settlement> de la <Settlement>Torre</Settlement>,
-        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Badajoz</Territory>, Capellán
-    del <Concept_Structure>Colegio</Concept_Structure> de Santa María de
-        <Settlement>Sevilla</Settlement>, Arcediano de <Settlement>Lima</Settlement>, Obispo de
-        <Territory>Panamá</Territory> promovido a este
+    Seminario de San Luis, convocó un Concilio Provincial, que no tuvo efecto por no haber podido
+    venir Don Fr. <persName>Agustín de Coruña</persName>, Obispo de <Territory>Popayán</Territory>,
+    y lleno de virtudes y de años, pues pasaba de 80, y perseguido de disgustos, murió el año de
+    1590.<zbr/> 4 Don <persName>Alonso López de Avila</persName>, Racionero de la
+        <Concept_Structure>Iglesia</Concept_Structure> de <Settlement>Córdoba</Settlement>,
+    Inquisidor de esta <Concept_Settlement>Ciudad</Concept_Settlement>, Arzobispo de
+        <Territory>Santo Domingo</Territory> promovido a <Territory>Santa Fe</Territory>, murió
+    antes de salir el año de 1591.<zbr/> 5 Don <persName>Bartolomé Martínez Menacho</persName>,
+    natural de la <Concept_Settlement>Villa</Concept_Settlement> de la
+        <Settlement>Torre</Settlement>, <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>Badajoz</Territory>, Capellán del <Concept_Structure>Colegio</Concept_Structure>
+    de Santa María de <Settlement>Sevilla</Settlement>, Arcediano de <Settlement>Lima</Settlement>,
+    Obispo de <Territory>Panamá</Territory> promovido a este
         <Concept_Territory>Arzobispado</Concept_Territory> el año de 1593, murió antes de llegar en
         <Territory>Cartagena</Territory> el de 1594.<zbr/> 6 Don Fr. <persName>Andrés
-        Caso</persName>, <Concept_Group>Religioso</Concept_Group> del Orden de <humanGroup>Santo
-        Domingo</humanGroup>, Prior del <Concept_Structure>Convento</Concept_Structure> de
-        <Settlement>Atocha</Settlement> en <Settlement>Madrid</Settlement>, electo Arzobispo de
-        <Territory>Santa Fe</Territory>, y antes de salir promovido al
-        <Concept_Territory>Obispado</Concept_Territory> de <Territory>León</Territory> en
-        <Territory>España</Territory>.<zbr/> 7 Don <persName>Bartolomé Lobo Guerrero</persName>,
-    natural de <Settlement>Ronda</Settlement> en <Territory>Andalucia</Territory>, Colegial de Maese
-    Rodrigo en <Settlement>Sevilla</Settlement>, Catedrático de Prima, Fiscal de la Inquisición de
-        <Territory>México</Territory>, electo Arzobispo de <Territory>Santa Fe</Territory> el año <zbr/>
+        Caso</persName>, Religioso del <humanGroup type="religious_group">Orden de Santo Domingo</humanGroup>, Prior del
+        <Concept_Structure>Convento</Concept_Structure> de <Structure>Atocha</Structure> en
+        <Settlement>Madrid</Settlement>, electo Arzobispo de <Territory>Santa Fe</Territory>, y
+    antes de salir promovido al <Concept_Territory>Obispado</Concept_Territory> de
+        <Territory>León</Territory> en <Territory>España</Territory>.<zbr/> 7 Don
+        <persName>Bartolomé Lobo Guerrero</persName>, natural de <Settlement>Ronda</Settlement> en
+        <Territory>Andalucia</Territory>, Colegial de Maese Rodrigo en
+        <Settlement>Sevilla</Settlement>, Catedrático de Prima, Fiscal de la Inquisición de
+        <Settlement>México</Settlement>, electo Arzobispo de <Territory>Santa Fe</Territory> el año <zbr/>
     <zbr/> @@@Alcedo_vol_2-0127@@@<zbr/>
     <zbr/> #de 1599, después de nueve de Sede vacante fue promovido a el
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Lima</Territory> en el de
-    1608.<zbr/> 8 Don Fr. <persName>Juan de Castro</persName>, del Orden de <humanGroup>San
+    1608.<zbr/> 8 Don Fr. <persName>Juan de Castro</persName>, del <humanGroup type="religious_group">Orden de San
         Agustín</humanGroup>, natural de <Settlement>Toledo</Settlement>, electo Arzobispo de
         <Territory>Santa Fe</Territory>, pero no pasó por quedarse en
         <Settlement>Madrid</Settlement> con título de Predicador del Rey, murió el año de
     1611.<zbr/> 9 Don <persName>Pedro Ordoñez Florez</persName>, natural de
         <Settlement>Brozas</Settlement> en <Territory>Estremadura</Territory>, Freyle del Orden de
     Alcántara, Rector de su Colegio de <Settlement>Salamanca</Settlement>, Inquisidor de
-        <Territory>Lima</Territory>, presentado para Arzobispo de <Territory>Santa Fe</Territory> el
-    año de 1609, tomó posesión el de 1613, y murió el de 1614.<zbr/> 10 Don <persName>Fernando Arias
-        de Ugarte</persName>, natural de <Settlement>Santa Fe</Settlement>, varon incomparable de
-    quien se hace larga mención en los Obispos de <Territory>Quito</Territory>, de donde paso
+        <Settlement>Lima</Settlement>, presentado para Arzobispo de <Territory>Santa Fe</Territory>
+    el año de 1609, tomó posesión el de 1613, y murió el de 1614.<zbr/> 10 Don <persName>Fernando
+        Arias de Ugarte</persName>, natural de <Settlement>Santa Fe</Settlement>, varon incomparable
+    de quien se hace larga mención en los Obispos de <Territory>Quito</Territory>, de donde paso
     promovido al <Concept_Territory>Arzobispado</Concept_Territory> de esta Metropolitana su Patria
     el año de 1616, y de aquí a la de <Territory>Charcas</Territory> el de 1626.<zbr/> 11 Don
         <persName>Julián de Cortazar</persName>, natural de <Settlement>Durango</Settlement> en
         <Territory>Vizcaya</Territory>, fue Colegial de Sancti-Spiritus en la
-        <Concept_Structure>Universidad</Concept_Structure> de <Territory>Oñate</Territory>, y
+        <Concept_Structure>Universidad</Concept_Structure> de <Settlement>Oñate</Settlement>, y
     Catedrático de Vísperas, después Colegial en el <Concept_Structure>Colegio</Concept_Structure>
     de <Settlement>Santa Cruz de Valladolid</Settlement>, Canónigo Magistral de Santo Domingo de la
     Calzada, y Obispo del <Territory>Tucumán</Territory>, de donde pasó promovido a esta
     Metropolitana el año de 1627, murió el de 1630.<zbr/> 12 Don <persName>Bernardino de
         Almansa</persName>, natural de <Territory>Lima</Territory>, estudió en su
         <Concept_Structure>Universidad</Concept_Structure>, y se graduó de Doctor en Cánones, su
-    Arzobispo <persName>Santo Toribio</persName> lo hizo Cura de
-        <Concept_Group>Indios</Concept_Group> en los
+    Arzobispo <persName>Santo Toribio</persName> lo hizo Cura de Indios en los
         <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Guadalchili</Settlement> y
-        <Settlement>Pachacama</Settlement>, y luego de la
-        <Concept_District>Parroquia</Concept_District> de <Settlement>San Sebastián de
-        aquella</Settlement>
-    <Concept_Settlement>Capital</Concept_Settlement>, Tesorero de la Iglesia de
+        <Settlement>Pachacama</Settlement>, y luego de la Parroquia de San Sebastián de aquella
+        <Concept_Settlement>Capital</Concept_Settlement>, Tesorero de la Iglesia de
         <Settlement>Cartagena</Settlement>, y Vicario general de su
         <Concept_Territory>Obispado</Concept_Territory> en que empezó a acreditar su sabiduría, pues
     en una sentencia que dio, y fue a <Settlement>Roma</Settlement>, dixo su Santidad muy gran
@@ -79,43 +74,38 @@
     vino a <Territory>España</Territory>, y fundó en <Settlement>Madrid</Settlement> el
         <Concept_Structure>Convento</Concept_Structure> de Jesús, <zbr/>
     <zbr/> @@@Alcedo_vol_2-0128@@@<zbr/>
-    <zbr/> #María y Joseph de <Concept_Group>Religiosas</Concept_Group>
-    <humanGroup>Franciscas</humanGroup> que llaman del Caballero de Gracia, fue hecho Inquisidor de
-        <Territory>Logroño</Territory>, y luego de <Settlement>Toledo</Settlement>, y Arzobispo de
-        <Territory>Santo Domingo</Territory>, y estando para embarcarse en
-        <Settlement>Cádiz</Settlement> promovido a esta Metropolitana el año de 1630, fue el primer
-    Arzobispo que en la <Territory>América</Territory> recibió el palio, y murió el de 1633, y se
-    conduxo su cadaver al <Concept_Structure>Convento</Concept_Structure> referido de su fundación
-    en <Settlement>Madrid</Settlement>.<zbr/> 13 Don Fr. <persName>Christóval de Torres</persName>,
-        <Concept_Group>Religioso</Concept_Group>
-    <humanGroup>Dominico</humanGroup>, natural de <Settlement>Burgos</Settlement>, donde estudió y
-    leyó Artes, fue Maestro, Presentado y Prior en diferentes
-        <Concept_Structure>Conventos</Concept_Structure> de su Orden, y por los créditos de su
-    sabiduría elegido para compañero de Don Fr. <persName>Diego Mardones</persName>, Obispo de
+    <zbr/> #María y Joseph de <humanGroup type="religious_group">Religiosas Franciscas</humanGroup> que llaman del
+    Caballero de Gracia, fue hecho Inquisidor de <Settlement>Logroño</Settlement>, y luego de
+        <Settlement>Toledo</Settlement>, y Arzobispo de <Territory>Santo Domingo</Territory>, y
+    estando para embarcarse en <Settlement>Cádiz</Settlement> promovido a esta Metropolitana el año
+    de 1630, fue el primer Arzobispo que en la <Territory>América</Territory> recibió el palio, y
+    murió el de 1633, y se conduxo su cadaver al <Concept_Structure>Convento</Concept_Structure>
+    referido de su fundación en <Settlement>Madrid</Settlement>.<zbr/> 13 Don Fr.
+        <persName>Christóval de Torres</persName>, Religioso Dominico, natural de
+        <Settlement>Burgos</Settlement>, donde estudió y leyó Artes, fue Maestro, Presentado y Prior
+    en diferentes <Concept_Structure>Conventos</Concept_Structure> de su Orden, y por los créditos
+    de su sabiduría elegido para compañero de Don Fr. <persName>Diego Mardones</persName>, Obispo de
         <Territory>Córdoba</Territory>, y por el <persName>Duque de Lerma</persName>, su Confesor,
     Predicador del Rey <persName>Felipe IV</persName>, y electo Arzobispo de <Territory>Santa
-        Fe</Territory> el año de 1635, gobernó esta <Concept_Structure>Iglesia</Concept_Structure>
-    19 años, y murió el de 1654.<zbr/> 14 Don <persName>Diego del
-            <Concept_Structure>Castillo</Concept_Structure> y Artiga</persName>, natural de
-        <Territory>Tudela</Territory> en el <Concept_Territory>Reyno</Concept_Territory> de
-        <Territory>Navarra</Territory>, estudió en <Settlement>Alcalá</Settlement>, fue Colegial en
-        <Settlement>Málaga</Settlement>, y en su <Concept_Structure>Universidad</Concept_Structure>
-    Catedrático de Prima de Artes, y substituto de la de Teología, Doctor y Canónigo Magistral de la
-        <Concept_Structure>Iglesia</Concept_Structure> de <Settlement>Avila</Settlement>, Autor de
-    la excelente obra de Ornatu et vestibus Aronis, fue electo Obispo de
-        <Territory>Cartagena</Territory>, que no admitió, y sí después el de
+        Fe</Territory> el año de 1635, gobernó esta Iglesia 19 años, y murió el de 1654.<zbr/> 14
+    Don <persName>Diego del Castillo y Artiga</persName>, natural de <Settlement>Tudela</Settlement>
+    en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Navarra</Territory>, estudió en
+        <Settlement>Alcalá</Settlement>, fue Colegial en <Settlement>Málaga</Settlement>, y en su
+        <Concept_Structure>Universidad</Concept_Structure> Catedrático de Prima de Artes, y
+    substituto de la de Teología, Doctor y Canónigo Magistral de la Iglesia de
+        <Settlement>Avila</Settlement>, Autor de la excelente obra de Ornatu et vestibus Aronis, fue
+    electo Obispo de <Territory>Cartagena</Territory>, que no admitió, y sí después el de
         <Territory>Truxillo</Territory> en el <Territory>Perú</Territory>, de donde pasó promovido a
-    esta Metropolitana de <Settlement>Santa Fe</Settlement> el año de 1655, y antes de embarcarse
+    esta Metropolitana de <Territory>Santa Fe</Territory> el año de 1655, y antes de embarcarse
     promovido a Obispo de <Territory>Oviedo</Territory>.<zbr/> 15 Don Fr. <persName>Juan de
-        Arguinao</persName>, natural de <Settlement>Lima</Settlement>, del Orden de
-        <Settlement>Santo Domingo</Settlement>, Obispo de <Territory>Santa Cruz de la
-        Sierra</Territory>, de donde pasó promovido a este
-        <Concept_Territory>Arzobispado</Concept_Territory> el año de 1661.<zbr/> 16 Don
-        <persName>Antonio Sanz Lozano</persName> pasó del
+        Arguinao</persName>, natural de <Settlement>Lima</Settlement>, del <humanGroup type="religious_group">Orden de
+        Santo Domingo</humanGroup>, Obispo de <Territory>Santa Cruz de la Sierra</Territory>, de
+    donde pasó promovido a este <Concept_Territory>Arzobispado</Concept_Territory> el año de
+    1661.<zbr/> 16 Don <persName>Antonio Sanz Lozano</persName> pasó del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Cartagena</Territory>, fundó
-    dos Becas en cada Colegio y Capellanías de <Settlement>Coro</Settlement>. <zbr/> 17 Don Fr.
-        <persName>Ignacio de Urbina</persName>, del <humanGroup>Orden de San Gerónimo</humanGroup>,
-    promovido al <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Puebla de los
+    dos Becas en cada Colegio y Capellanías de Coro. <zbr/> 17 Don Fr. <persName>Ignacio de
+        Urbina</persName>, del <humanGroup type="religious_group">Orden de San Gerónimo</humanGroup>, promovido al
+        <Concept_Territory>Obispado</Concept_Territory> de la <Territory>Puebla de los
         Angeles</Territory>, y al <Concept_Territory>Virreynato</Concept_Territory> de
         <Territory>Nueva España</Territory> el año de 1700, murió antes de salir en
         <Settlement>Santa Fe</Settlement>. <zbr/>
@@ -123,23 +113,23 @@
     <zbr/> #18 Don <persName>Francisco Cosio y Otero</persName>, Inquisidor de
         <Territory>Murcia</Territory>, y después de Corte, uno de los Jueces de la ruidosa causa de
     Fr. <persName>Froylan Diaz</persName>, Confesor del Rey <persName>Carlos II</persName>, tuvo
-    grandes créditos de insigne Letrado, electo Arzobispo el año de 1703, consagró la
-        <Concept_Structure>Iglesia</Concept_Structure> del Santuario de nuestra Señora de
-        <Settlement>Chiquinquirá</Settlement>, fundó y dotó la célebre
-        <Concept_Structure>Capilla</Concept_Structure> de Santo Toribio de Llebana en las
-        <Concept_Landmark>montañas</Concept_Landmark>, enviando el dibuxo sacado por el Sagrario de
-    la <Concept_Structure>Catedral</Concept_Structure> de <Settlement>Santa Fe</Settlement>, de
-    donde también fue Presidente interino.<zbr/> 19 Don <persName>Francisco del Rincón</persName>,
-    sugeto de consumada política, pasó promovido del <Concept_Territory>Obispado</Concept_Territory>
-    de <Territory>Caracas</Territory> el año de 1716, fue nombrado Presidente de la Audiencia y
-    Capitán general del <Concept_Territory>Reyno</Concept_Territory>, desempeñando con sumo acierto
-    los cargos eclesiásticos y políticos.<zbr/> 20 Don <persName>Antonio Claudio Alvarez de
-        Quiñones</persName> pasó del <Concept_Territory>Arzobispado</Concept_Territory> de
-        <Territory>Santo Domingo</Territory> el año de 1724.<zbr/> 21 Don Fr. <persName>Juan
-        Galavis</persName>, del <humanGroup>Orden de los Canónigos</humanGroup>; Reglares
-    Premostratenses, pasó del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santo
-        Domingo</Territory> el año de 1737.<zbr/> 22 Don Fr. <persName>Diego Fermín de
-        Vergara</persName>, del <humanGroup>Orden de San Agustín</humanGroup>, pasó promovido del
+    grandes créditos de insigne Letrado, electo Arzobispo el año de 1703, consagró la Iglesia del
+        <Concept_Structure>Santuario</Concept_Structure> de <Structure>nuestra Señora de
+        Chiquinquirá</Structure>, fundó y dotó la célebre
+        <Concept_Structure>Capilla</Concept_Structure> de Santo Toribio de Llebana en las montañas,
+    enviando el dibuxo sacado por el Sagrario de la <Concept_Structure>Catedral</Concept_Structure>
+    de <Settlement>Santa Fe</Settlement>, de donde también fue Presidente interino.<zbr/> 19 Don
+        <persName>Francisco del Rincón</persName>, sugeto de consumada política, pasó promovido del
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Caracas</Territory> el año de
+    1716, fue nombrado Presidente de la Audiencia y Capitán general del
+        <Concept_Territory>Reyno</Concept_Territory>, desempeñando con sumo acierto los cargos
+    eclesiásticos y políticos.<zbr/> 20 Don <persName>Antonio Claudio Alvarez de Quiñones</persName>
+    pasó del <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santo
+        Domingo</Territory> el año de 1724.<zbr/> 21 Don Fr. <persName>Juan Galavis</persName>, del
+        <humanGroup type="religious_group">Orden de los Canónigos Reglares Premostratenses</humanGroup>, pasó del
+        <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Santo Domingo</Territory>
+    el año de 1737.<zbr/> 22 Don Fr. <persName>Diego Fermín de Vergara</persName>, del
+        <humanGroup type="religious_group">Orden de San Agustín</humanGroup>, pasó promovido del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Popayán</Territory> el año de
     1740, murió el de 1744.<zbr/> 23 Don <persName>Pedro Azua Iturgoyen Peruano</persName>, Obispo
     de la <Territory>Concepción de Chile</Territory>, donde hizo Sinodales que se aprobaron por el
@@ -150,15 +140,15 @@
     donde había estudiado y sido Cura de una de sus <Concept_District>Parroquias</Concept_District>,
     y Canónigo de aquella Sta. Iglesia, pasó de Obispo de <Territory>Sta. Marta</Territory> el año
     de 1754, murió el de 1764.<zbr/> 25 Don <persName>Manuel de Sosa y Betancur</persName> pasó
-    promovido de la Iglesia de <Settlement>Cartagena</Settlement>, pero ya había muerto el de 1765.
-    26 Don <persName>Francisco Antonio de la Riva Mazo</persName>, electo <zbr/>
+    promovido de la Iglesia de <Territory>Cartagena</Territory>, pero ya había muerto el de 1765. 26
+    Don <persName>Francisco Antonio de la Riva Mazo</persName>, electo <zbr/>
     <zbr/> @@@Alcedo_vol_2-0130@@@<zbr/>
     <zbr/> #Arzobispo de <Territory>Santa Fe</Territory>, siendo Canónigo Doctoral de
         <Settlement>Coria</Settlement> el año de 1766, murió a los ocho meses de su llegada. 27 Don
     Fr. <persName>Lucas Joseph Ramírez Galán</persName>, del Orden de San Francisco, electo
     Arzobispo de <Territory>Santa Fe</Territory> siendo Obispo de <Territory>Tuy</Territory> el año
     de 1770, y antes de embarcarse murió.<zbr/> 28 Don Fr. <persName>Agustín Manuel Camacho y
-        Roxas</persName>, del <humanGroup>Orden de Santo Domingo</humanGroup>, natural de
+        Roxas</persName>, del <humanGroup type="religious_group">Orden de Santo Domingo</humanGroup>, natural de
         <Settlement>Tunja</Settlement> en el <Territory>Nuevo Reyno de Granada</Territory>, pasó
     promovido del <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santa
         Marta</Territory> a esta Iglesia Metropolitana el año de 1771, donde luego que entró convocó
@@ -193,20 +183,18 @@
     <zbr/> #se conducen a <Territory>Buenos Ayres</Territory> en carretas, pues aunque pudieran
     subir por el <Concept_Landmark>río</Concept_Landmark> se tomó este
         <Concept_District>partido</Concept_District> por evitar los contravandos: ha sido arruinada
-    varias veces por los <Concept_Group>Indios</Concept_Group>
-    <Concept_Group>infieles</Concept_Group> del <Territory>Chaco</Territory>, en cuyo
+    varias veces por los <Concept_Group>Indios infieles</Concept_Group> del <Territory>Chaco</Territory>, en cuyo
         <Concept_District>distrito</Concept_District> esta, y para evitar la repetición de esta
     desgracia mantiene un Cuerpo de Milicias a caballo que llaman Blandengues, para cuya
     subsistencia paga cada carreta que pasa 9 pesos y 3 rs. si es de los
         <Concept_Group>vecinos</Concept_Group> de la
     <Concept_Settlement>Ciudad</Concept_Settlement>, y 28 si es de afuera: tiene además de la
         <Concept_Structure>Iglesia</Concept_Structure> Parroquial tres
-        <Concept_Structure>Conventos</Concept_Structure> de
-        <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San Francisco</humanGroup>,
-        <humanGroup>Santo Domingo</humanGroup> y la <humanGroup>Merced</humanGroup>, y un
-        <Concept_Structure>Colegio</Concept_Structure> que fue de los
-        <Concept_Group>Regulares</Concept_Group> de la <humanGroup>Compañía</humanGroup>: está 90
-    leguas al NO de la Trinidad de <Territory>Buenos Ayres</Territory>. <zbr/>
+        <Concept_Structure>Conventos</Concept_Structure> de <humanGroup type="religious_group">Religiosos de San
+        Francisco</humanGroup>, <humanGroup type="religious_group">Santo Domingo</humanGroup> y la
+        <humanGroup type="religious_group">Merced</humanGroup>, y un <Concept_Structure>Colegio</Concept_Structure> que fue
+    de los <humanGroup type="religious_group">Regulares de la Compañía</humanGroup>: está 90 leguas al NO de la
+        <Settlement>Trinidad de Buenos Ayres</Settlement>. <zbr/>
     <zbr/> §§§id_05961§§§<zbr/> Otra <Concept_Settlement>Ciudad</Concept_Settlement>, con el
     aditamento de Antioquia, <Concept_Settlement>Capital</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -226,37 +214,35 @@
     <Landmark>Grande del N</Landmark>, entre los <Concept_Settlement>Pueblos</Concept_Settlement> de
         <Settlement>Pecos</Settlement> y <Settlement>Galiste</Settlement>, donde hay un
         <Concept_Settlement>presidio</Concept_Settlement> guarnecido de Tropa para defender la
-    frontera de los <Concept_Group>Indios</Concept_Group>
-    <Concept_Group>infieles</Concept_Group>. <zbr/>
+    frontera de los <Concept_Group>Indios infieles</Concept_Group>. <zbr/>
     <zbr/> §§§id_05963§§§<zbr/> Una <Concept_Settlement>Villa Capital</Concept_Settlement> de la la
     de <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guanajuato</Territory> en
         <Territory>Nueva España</Territory>, en una <Concept_Landmark>cañada</Concept_Landmark> que
     rodean diferentes <Concept_Landmark>cerros</Concept_Landmark> por uno y otro lado, los edificios
     son muy hermosos, aunque las calles no muy arregladas por el mal orden de su fundación: tiene
-    tres <Concept_Structure>Conventos</Concept_Structure>, uno de
-        <Concept_Group>Religiosos</Concept_Group>
-    <humanGroup>Franciscos Descalzos de San Pedro de Alcántara</humanGroup>, otro que es
+    tres <Concept_Structure>Conventos</Concept_Structure>, uno de <humanGroup type="religious_group">Religiosos Franciscos
+        Descalzos de San Pedro de Alcántara</humanGroup>, otro que es
         <Concept_Structure>Hospital</Concept_Structure> de los <humanGroup type="religious_group"
         >Padres Betletmitas</humanGroup>, y <Concept_Structure>Colegio</Concept_Structure> que fue
-    de los <Concept_Group>Regulares</Concept_Group> de la <humanGroup>Compañía</humanGroup>: la
-        <Concept_Structure>Iglesia</Concept_Structure> Parroquial es grande, hermosa y rica, y en
-    ella se venera con gran<zbr/>
+    de los <humanGroup type="religious_group">Regulares de la Compañía</humanGroup>: la Iglesia Parroquial es grande,
+    hermosa y rica, y en ella se venera con gran<zbr/>
     <zbr/> @@@Alcedo_vol_2-0132@@@<zbr/>
     <zbr/> #devoción una Imagen, muy milagrosa de nuestra Señora que llaman de Guanajuato, y conduxo
     de <Territory>Europa</Territory> desde la <Concept_Settlement>Ciudad</Concept_Settlement> de
         <Settlement>Granada</Settlement> un devoto: tiene dos ayudas de
         <Concept_District>Parroquia</Concept_District>, y cinco Hermitas: el vecindario es grande y
     lucido por lo que mira a <humanGroup type="social_group">Españoles</humanGroup>, y de las demás
-    gentes como <Concept_Group>Mestizos</Concept_Group>, <Concept_Group>Mulatos</Concept_Group> etc.
+    gentes como <humanGroup type="social_group">Mestizos</humanGroup>, <humanGroup type="social_group">Mulatos</humanGroup> etc.
     pasan de 5.000 familias, de las quales se compone un Regimiento de Caballería de seis Compañías
     y Oficiales correspondientes, y otras dos de Infantería: el comercio principal que hace es el
     del oro y plata de sus <Concept_Landmark>minas</Concept_Landmark>, a que se agrega el de las
     ropas y efectos de Castilla en más de 80 tiendas, sin otras 40 que hay de géneros del
         <Concept_Territory>país</Concept_Territory>: tiene una magnífica calzada de piedra que va
     desde el <Concept_Structure>Hospital</Concept_Structure> de los
-        <Concept_Group>Indios</Concept_Group> al <Concept_Structure>Santuario</Concept_Structure> de
-    nuestra Señora de Guadalupe, obra útilisima para el tráfico de los mineros: esta 60 leguas al
-    ONO de <Settlement>México</Settlement>, en 274 gr. 22 min. de long. y 22 gr. 4 min. de lat. <zbr/>
+        <humanGroup type="social_group">Indios</humanGroup> al <Concept_Structure>Santuario</Concept_Structure> de
+        <Structure>nuestra Señora de Guadalupe</Structure>, obra útilisima para el tráfico de los
+    mineros: esta 60 leguas al ONO de <Settlement>México</Settlement>, en 274 gr. 22 min. de long. y
+    22 gr. 4 min. de lat. <zbr/>
     <zbr/> §§§id_05964§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> con el aditamento
     de la <Concept_Landmark>Laguna</Concept_Landmark> de la Cabecera de
         <Settlement>Cocupao</Settlement> y ##<Concept_Territory>Alcaldía mayor</Concept_Territory>
@@ -265,7 +251,7 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>, situado
     cerca de la <Concept_Landmark>Laguna</Concept_Landmark>, a la falda de un
         <Concept_Landmark>cerro</Concept_Landmark> que cae a su frente, es muy ameno, y tiene 120
-    familias de <Concept_Group>Indios</Concept_Group>, que se emplean en fabricar bateas, y pintar
+    familias de <humanGroup type="social_group">Indios</humanGroup>, que se emplean en fabricar bateas, y pintar
     caxas y escritorios con mucho primor: dista un quarto de legua de su
         <Concept_Settlement>Cabecera</Concept_Settlement> al Poniente. <zbr/>
     <zbr/> §§§id_05965§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> con el
@@ -275,14 +261,14 @@
         <Concept_Territory>Obispado</Concept_Territory>, esta en medio de una
         <Concept_Landmark>llanura</Concept_Landmark> que hay inmediata a el
         <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>grande</Landmark>, tiene 74 familias de <Concept_Group>Indios</Concept_Group>, y dista
+    <Landmark>grande</Landmark>, tiene 74 familias de <humanGroup type="social_group">Indios</humanGroup>, y dista
     28 leguas al O de la <Concept_Settlement>Capital</Concept_Settlement>
     <Settlement>Pasquaro</Settlement>. <zbr/>
     <zbr/> §§§id_05966§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> de las
-        <Concept_Settlement>Misiones</Concept_Settlement> que tienen los
-        <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San Francisco</humanGroup> en el
-        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Galicia</Territory>,
-    distante 7 leguas al E del de la <Settlement>Junta de los Ríos</Settlement>. <zbr/>
+        <Concept_Settlement>Misiones</Concept_Settlement> que tienen los <humanGroup type="religious_group">Religiosos de
+        San Francisco</humanGroup> en el <Concept_Territory>Reyno</Concept_Territory> de la
+        <Territory>Nueva Galicia</Territory>, distante 7 leguas al E del de la <Settlement>Junta de
+        los Ríos</Settlement>. <zbr/>
     <zbr/> §§§id_05967§§§<zbr/> Otro de la <Concept_Settlement>Cabecera</Concept_Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepatitlán</Territory>
     en el <Concept_Territory>Reyno</Concept_Territory> y
@@ -290,8 +276,8 @@
     esta 8 leguas al SO de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_05968§§§<zbr/> Otro de las <Concept_Settlement>Misiones</Concept_Settlement> que <zbr/>
     <zbr/> @@@Alcedo_vol_2-0133@@@<zbr/>
-    <zbr/> #tenían los <Concept_Group>Regulares</Concept_Group> de la
-        <humanGroup>Compañía</humanGroup> en la <Concept_Territory>Provincia</Concept_Territory> y
+    <zbr/> #tenían los <humanGroup type="religious_group">Regulares de la Compañía</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, situado
     al pie de unas <Concept_Landmark>montañas</Concept_Landmark>, entre los
         <Concept_Landmark>ríos</Concept_Landmark>
@@ -305,7 +291,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>, por los
         <Concept_Group>Indios infieles</Concept_Group>, estuvo a la orilla del
         <Concept_Landmark>río</Concept_Landmark>
-    <Territory>Paraguay</Territory>, al NNO del <Concept_Settlement>Pueblo</Concept_Settlement> de
+    <Landmark>Paraguay</Landmark>, al NNO del <Concept_Settlement>Pueblo</Concept_Settlement> de
         <Settlement>Itatin</Settlement>. <zbr/>
     <zbr/> §§§id_05971§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> con el nombre
     de baxada de Santa Fe en la <Concept_Territory>Provincia</Concept_Territory> y
@@ -337,9 +323,8 @@
         <Concept_Landmark>valle</Concept_Landmark> cerca del Lugar del nombre de la
         <Concept_Territory>Provincia</Concept_Territory> que antes era la
         <Concept_Settlement>Capital</Concept_Settlement>, tiene dos
-        <Concept_Structure>Conventos</Concept_Structure> de
-        <Concept_Group>Religiosos</Concept_Group>, uno de <humanGroup>Santo Domingo</humanGroup>, y
-    el otro de la <humanGroup>Merced</humanGroup>: en su
+        <Concept_Structure>Conventos</Concept_Structure> de Religiosos, uno de <humanGroup type="religious_group">Santo
+        Domingo</humanGroup>, y el otro de la <humanGroup type="religious_group">Merced</humanGroup>: en su
         <Concept_District>distrito</Concept_District> hay algunas
         <Concept_Landmark>minas</Concept_Landmark> de oro y cobre, pero apenas dan para costear sus
     labores. <zbr/>
@@ -356,18 +341,17 @@
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva España</Territory>, tiene
     500 familias de <humanGroup type="social_group">Españoles</humanGroup>,
-        <Concept_Group>Mestizos</Concept_Group> y <Concept_Group>Mulatos</Concept_Group>, <zbr/>
+        <humanGroup type="social_group">Mestizos</humanGroup> y <humanGroup type="social_group">Mulatos</humanGroup>, <zbr/>
     <zbr/> @@@Alcedo_vol_2-0134@@@<zbr/>
-    <zbr/> #y un <Concept_Structure>Convento</Concept_Structure> de
-        <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San Francisco</humanGroup>, esta 20
-    leguas de su <Concept_Settlement>Capital</Concept_Settlement>, y 70 de
-        <Settlement>México</Settlement>. <zbr/>
+    <zbr/> #y un <Concept_Structure>Convento</Concept_Structure> de <humanGroup type="religious_group">Religiosos de San
+        Francisco</humanGroup>, esta 20 leguas de su
+        <Concept_Settlement>Capital</Concept_Settlement>, y 70 de <Settlement>México</Settlement>. <zbr/>
     <zbr/> §§§id_05978§§§<zbr/> Otra <Concept_Settlement>Villa</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Sonora</Territory> en
         <Territory>Nueva España</Territory>, está en el <Concept_Territory>país</Concept_Territory>
-    de los <Concept_Group>Indios</Concept_Group>
-    <humanGroup type="indigenous_group">Comaricopas</humanGroup>, áaorilla del
+    de los <humanGroup type="social_group">Indios</humanGroup>
+    <humanGroup type="indigenous_group">Comaricopas</humanGroup>, a orilla del
         <Concept_Landmark>río</Concept_Landmark> grande de <Landmark>Gila</Landmark>. <zbr/>
     <zbr/> §§§id_05979§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de
@@ -375,20 +359,20 @@
     de <Territory>Maravatio</Territory> en el <Concept_Territory>Obispado</Concept_Territory> de
         <Territory>Mechoacán</Territory> y <Concept_Territory>Reyno</Concept_Territory> de
         <Territory>Nueva España</Territory>, tiene 392 familias de
-        <Concept_Group>Indios</Concept_Group>, incluyendo las de dos
+        <humanGroup type="social_group">Indios</humanGroup>, incluyendo las de dos
         <Concept_Settlement>Pueblecitos</Concept_Settlement> pequeños que hay en su inmediación,
     esta 2 leguas al N de su <Concept_Settlement>Cabecera</Concept_Settlement>, <zbr/>
     <zbr/> §§§id_05980§§§<zbr/> Otro de la <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de <Settlement>Amatepec</Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Zultepec</Territory> en
     el mismo <Concept_Territory>Reyno</Concept_Territory>, es de temperamento caliente y húmedo,
-    tiene 30 familias de <Concept_Group>Indios</Concept_Group> que se mantienen de criar ganado
+    tiene 30 familias de <humanGroup type="social_group">Indios</humanGroup> que se mantienen de criar ganado
     mayor, sembrar maíz y algunas frutas, esta 4 leguas al Poniente de su
         <Concept_Settlement>Cabecera</Concept_Settlement>, <zbr/>
     <zbr/> §§§id_05981§§§<zbr/> Otro que es <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Metepec</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>,
-    tiene 1.752 familias de <Concept_Group>Indios</Concept_Group>, y está 10 leguas al ONO de su
+    tiene 1.752 familias de <humanGroup type="social_group">Indios</humanGroup>, y está 10 leguas al ONO de su
         <Concept_Settlement>Capital</Concept_Settlement>, es Cabeza de
         <Concept_District>Cura##to</Concept_District> a que están anexos otros muchos
         <Concept_Settlement>Pueblos</Concept_Settlement>. <zbr/>
@@ -407,7 +391,7 @@
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, en su
         <Concept_District>distrito</Concept_District> tiene dos
         <Concept_Structure>haciendas</Concept_Structure> muy pingues llamadas
-        <Settlement>Milin</Settlement> y <Settlement>Silipulo</Settlement>. <zbr/>
+        <Structure>Milin</Structure> y <Structure>Silipulo</Structure>. <zbr/>
     <zbr/> §§§id_05985§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Jaen de Bracamoros</Territory>
     en el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>.<zbr/>
@@ -422,18 +406,18 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana</Territory>,
     situada a la orilla del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Negro</Landmark>, enfrente de la de <Landmark>San Carlos</Landmark> a la opuesta. <zbr/>
+    <Landmark>Negro</Landmark>, enfrente de la de <Structure>San Carlos</Structure> a la opuesta. <zbr/>
     <zbr/> §§§id_05988§§§<zbr/> Un <Concept_Landmark>brazo</Concept_Landmark> del
         <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Gamalotal</Landmark> llamado el caño de <zbr/>
+    <Landmark>Gamalotal</Landmark> llamado el <Concept_Landmark>caño</Concept_Landmark> de <zbr/>
     <zbr/> @@@Alcedo_vol_2-0135@@@<zbr/>
-    <zbr/> #San Felipe, que sale antes de entrar en el de la <Landmark>Portuguesa</Landmark>, y
-    corre casi al N hasta el <Concept_Landmark>monte</Concept_Landmark> de
-        <Landmark>Tacazuruma</Landmark>. <zbr/>
+    <zbr/> #<Landmark>San Felipe</Landmark>, que sale antes de entrar en el de la
+        <Landmark>Portuguesa</Landmark>, y corre casi al N hasta el
+        <Concept_Landmark>monte</Concept_Landmark> de <Landmark>Tacazuruma</Landmark>. <zbr/>
     <zbr/> §§§id_05989§§§<zbr/> S. FELIX, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, uno de las
-    Misiones que tienen a su cargo los <humanGroup>PP. Capuchinos</humanGroup>
+    Misiones que tienen a su cargo los <humanGroup type="religious_group">PP. Capuchinos</humanGroup>
     <humanGroup type="political_group">Aragoneses</humanGroup>, situado cerca del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Guarapiche</Landmark>. <zbr/>
@@ -487,7 +471,7 @@
         <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva
         España</Territory>, fundada el año de 1748 por Don <persName>Joseph de Escandon</persName>,
-    Conde de <Territory>Sierra Gorda</Territory>, y Coronel de Milicias de la
+    Conde de Sierra Gorda, y Coronel de Milicias de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Queretaro</Settlement>, que
     hizo obligación de pacificar y poblar este <Concept_Territory>territorio</Concept_Territory> con
     el Rey <persName>Fernando VI</persName>, en cuyo obsequio le dio el nombre, es pequeña, las
@@ -498,14 +482,13 @@
         Capital</Concept_Settlement> de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Colchagua</Territory> en
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, fundada el año
-    de 1741 por Don <persName>Joseph Manso</persName>, <persName>Conde de Superunda</persName>,
-    Presidente de aquel <Concept_Territory>Reyno</Concept_Territory>, que le dio el nombre en
-    memoria del Príncipe de Asturias, que después reynó con el de <persName>Fernando VI</persName>:
-    tiene seis Vice-Parroquias, y un <Concept_Structure>Convento</Concept_Structure> de
-        <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San Francisco</humanGroup>, que fue
-    antes <Concept_Structure>Colegio</Concept_Structure> de los
-        <Concept_Group>Regulares</Concept_Group> de la <humanGroup>Compañía</humanGroup>: esta
-    situada a orilla del <Concept_Landmark>río</Concept_Landmark>
+    de 1741 por Don <persName>Joseph Manso</persName>, Conde de Superunda, Presidente de aquel
+        <Concept_Territory>Reyno</Concept_Territory>, que le dio el nombre en memoria del Príncipe
+    de Asturias, que después reynó con el de <persName>Fernando VI</persName>: tiene seis
+    Vice-Parroquias, y un <Concept_Structure>Convento</Concept_Structure> de <humanGroup type="religious_group">Religiosos
+        de San Francisco</humanGroup>, que fue antes <Concept_Structure>Colegio</Concept_Structure>
+    de los <humanGroup type="religious_group">Regulares de la Compañía</humanGroup>: esta situada a orilla del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Tinguiririca</Landmark>. <zbr/>
     <zbr/> §§§id_06001§§§<zbr/> Otra <Concept_Settlement>Villa</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -538,11 +521,11 @@
     <zbr/> §§§id_06005§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situado a
     orilla de un <Concept_Landmark>río</Concept_Landmark> pequeño, entre las
-        <Concept_Settlement>Ciudades</Concept_Settlement> de <Territory>Cumaná</Territory> y
+        <Concept_Settlement>Ciudades</Concept_Settlement> de <Settlement>Cumaná</Settlement> y
         <Settlement>Cumanagoto</Settlement>. <zbr/>
     <zbr/> §§§id_06006§§§<zbr/> Otro de las <Concept_Settlement>Misiones</Concept_Settlement> que
-    tenían los <Concept_Group>Regulares</Concept_Group> de la <humanGroup>Compañía</humanGroup> en
-    la <Concept_Territory>Provincia</Concept_Territory> y
+    tenían los <humanGroup type="religious_group">Regulares de la Compañía</humanGroup> en la
+        <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>, situado a
     orilla del <Concept_Landmark>río</Concept_Landmark>
@@ -651,8 +634,8 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory> en la
         <Territory>América Septentrional</Territory>, confina por el NE con el de
         <Territory>Buck</Territory>, por el SE con <Territory>Jersey</Territory>, por el SO con el
-    de <Territory>Chester</Territory>, y por NO con el de Berk: toma el nombre de la
-        <Concept_Settlement>Capital</Concept_Settlement> de toda la
+    de <Territory>Chester</Territory>, y por NO con el de <Territory>Berk</Territory>: toma el
+    nombre de la <Concept_Settlement>Capital</Concept_Settlement> de toda la
         <Concept_Territory>Provincia</Concept_Territory>. Esta esta en la situación más hermosa y
     agradable que se puede discurrir, en una <Concept_Landmark>lengua de tierra</Concept_Landmark>
     sobre el confluente de los dos <Concept_Landmark>ríos</Concept_Landmark>
@@ -695,7 +678,7 @@
         type="political_group">Holandeses</humanGroup> de ocho a nueve mil carros, tirado de quatro
     caballos cada uno, para el transporte de las producciones de sus
         <Concept_Structure>haciendas</Concept_Structure> al mercado de
-        <Territory>Filadelfia</Territory>, en cuyo <Concept_Landmark>Puerto</Concept_Landmark>
+        <Settlement>Filadelfia</Settlement>, en cuyo <Concept_Landmark>Puerto</Concept_Landmark>
     entraron el año de 1749 303 embarcaciones, y salieron 291. Tiene una aduana como en los demás
         <Concept_Landmark>Puertos</Concept_Landmark>, aunque el comercio que hace de fuera no merece
     particular atención. Tiene dos Iglesias de la <humanGroup type="religious_group">Religión
@@ -720,9 +703,9 @@
         >Latinos</humanGroup>, con sus más acreditados Comentadores, y las mejores producciones de
     las lenguas modernas, dádiva que dexó por su muerte la <zbr/>
     <zbr/> @@@Alcedo_vol_2-0140@@@<zbr/>
-    <zbr/> #generosidad del sabio Ciudadano Logan el año de 1752. Tiene un Colegio donde se estudian
-    todas las ciencias, y debe su origen el año de 1749 al mismo ilustre fundador de la Biblioteca,
-    que también lo es de una Academia de Ciencias. Esta
+    <zbr/> #generosidad del sabio Ciudadano <persName>Logan</persName> el año de 1752. Tiene un
+    Colegio donde se estudian todas las ciencias, y debe su origen el año de 1749 al mismo ilustre
+    fundador de la Biblioteca, que también lo es de una Academia de Ciencias. Esta
         <Concept_Settlement>Ciudad</Concept_Settlement> se ha hecho celebre además de lo que
     llevamos referido por haberse establecido en ella el año de 1774 el congreso de las trece
         <Concept_Territory>Colonias</Concept_Territory> Americanas, que formaron cuerpo para
@@ -746,17 +729,16 @@
     <zbr/> §§§id_06027§§§<zbr/> FILIPOLIS, <Concept_Settlement>Ciudad</Concept_Settlement> del
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, fundada
     por el Almirante <persName>Pedro Sarmiento de Gam##boa</persName> el año de 1584, y no el de
-    1582 como dice el Ex- <humanGroup>Jesuita</humanGroup>
-    <persName>Coleti</persName>, ni el de 1584 según Mr. <persName>de la Martiniere</persName>, le
+    1582 como dice el Ex- <humanGroup type="religious_group">Jesuita</humanGroup>
+    <persName>Coleti</persName>, ni el de 1584 según Mr. de la <persName>Martiniere</persName>, le
     dio este nombre su fundador en obsequio del Rey <persName>Felipe II</persName>, estaba situada
     en la parte más angosta del <Concept_Landmark>estrecho</Concept_Landmark> con un buen
         <Concept_Landmark>Puerto</Concept_Landmark>, y en la
         <Concept_Landmark>Costa</Concept_Landmark> Septentrional, con quatro baluartes y alguna
-    artillería; pero duró poco, porque el año de 1587 pasando el Pirata
-        <humanGroup>Inglés</humanGroup>
-    <persName>Tomás Candish</persName> la encontró despoblada habiendo muerto de hambre sus
-    habitantes, por lo qual se llamó después <Concept_Landmark>Puerto</Concept_Landmark> de la
-    hambre: esta en 53 gr. 17 min. de lat. aust. <zbr/>
+    artillería; pero duró poco, porque el año de 1587 pasando el Pirata Inglés <persName>Tomás
+        Candish</persName> la encontró despoblada habiendo muerto de hambre sus habitantes, por lo
+    qual se llamó después <Concept_Landmark>Puerto</Concept_Landmark> de la hambre: esta en 53 gr.
+    17 min. de lat. aust. <zbr/>
     <zbr/> §§§id_06028§§§<zbr/> FILLES, Les) <Concept_Landmark>Islotes</Concept_Landmark> de la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la
@@ -764,8 +746,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana
         Francesa</Territory>, frente de la <Concept_Landmark>Isla</Concept_Landmark> de
         <Landmark>Cayena</Landmark>. <zbr/>
-    <zbr/> §§§id_06029§§§<zbr/> FIMAYOS, <Concept_Group>Nación</Concept_Group>
-    <Concept_Group>bárbara</Concept_Group> del <Territory>Perú</Territory>, descendientes de los
+    <zbr/> §§§id_06029§§§<zbr/> FIMAYOS, <Concept_Group>Nación bárbara</Concept_Group> del <Territory>Perú</Territory>, descendientes de los
         <humanGroup type="indigenous_group">Panataguas</humanGroup>, esta poco conocida. <zbr/>
     <zbr/> §§§id_06030§§§<zbr/> FINISTERRA, Cabo de) o <Concept_Landmark>punta</Concept_Landmark> en
     la <Concept_Landmark>Costa</Concept_Landmark> del Sur del
@@ -773,9 +754,9 @@
     mira al E de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Luis el
     Grande</Landmark>. <zbr/>
     <zbr/> §§§id_06031§§§<zbr/> FINNEY, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el dis<zbr/>
-    <zbr/> @@@Alcedo_vol_2-0141@@@<zbr/>
-    <zbr/> #trito de la <Concept_District>Parroquia</Concept_District> de
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory> en el <Concept_District>dis<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0141@@@<zbr/>
+        <zbr/> #trito</Concept_District> de la <Concept_District>Parroquia</Concept_District> de
         <Settlement>Santiago</Settlement>, cerca de la <Concept_Landmark>Costa</Concept_Landmark>
     del O. <zbr/>
     <zbr/> §§§id_06032§§§<zbr/> FIRABITOBA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -786,8 +767,8 @@
         <Concept_Landmark>río</Concept_Landmark>, de cuyas crecientes padece repetidas inundaciones,
     es de temperamento frío con moderación, abundante en trigo, maíz y papas; cría muchísimo ganado
     vacuno y ovejuno, y de sus lanas fabrica mucha ropa: tiene más de 200
-        <Concept_Group>vecinos</Concept_Group> y 100 <Concept_Group>Indios</Concept_Group>: esta 6
-    leguas de <Territory>Tunja</Territory>, entre N y NE, muy inmediato al
+        <Concept_Group>vecinos</Concept_Group> y 100 <humanGroup type="social_group">Indios</humanGroup>: está 6
+    leguas de <Settlement>Tunja</Settlement>, entre N y NE, muy inmediato al
         <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Sogamoso</Settlement>. <zbr/>
     <zbr/> §§§id_06033§§§<zbr/> FIRME, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -824,8 +805,9 @@
     pequeña de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark>, en la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Colonia</Concept_Territory> de Nueva Jersey, entre las de <Landmark>Cold
-        Spring</Landmark> y de Seven mil o siete mil. <zbr/>
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Jersey</Territory>, entre
+    las de <Landmark>Cold Spring</Landmark> y de <Landmark>Seven mil</Landmark> o <Landmark>siete
+        mil</Landmark>. <zbr/>
     <zbr/> §§§id_06040§§§<zbr/> FLAMBOROUGH, Cabo de) <Concept_Landmark>Punta de
         tierra</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del E de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, a la entrada
@@ -898,11 +880,12 @@
         <Landmark>Rosieres</Landmark>. <zbr/>
     <zbr/> §§§id_06053§§§<zbr/> FLORES, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Bue</Territory><zbr/>
-    <zbr/> @@@Alcedo_vol_2-0143@@@<zbr/>
-    <zbr/> #nos Ayres, nace de una <Concept_Landmark>laguna</Concept_Landmark> que llaman de
-        <Landmark>Lobos</Landmark>, corre al E, y sale al <Concept_Landmark>mar</Concept_Landmark>
-    en la <Concept_Landmark>Costa</Concept_Landmark> de los <Landmark>Patagones</Landmark>. <zbr/>
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Bue<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0143@@@<zbr/>
+        <zbr/> #nos Ayres</Territory>, nace de una <Concept_Landmark>laguna</Concept_Landmark> que
+    llaman de <Landmark>Lobos</Landmark>, corre al E, y sale al
+        <Concept_Landmark>mar</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de
+    los <Landmark>Patagones</Landmark>. <zbr/>
     <zbr/> §§§id_06054§§§<zbr/> Tiene el mismo nombre otro <Concept_Landmark>río</Concept_Landmark>
     de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Texas</Territory> en
@@ -961,9 +944,8 @@
     adornan: hay dos especies de cochinilla, y es muy común la planta de que se hace el añil, y en
     los muchos <Concept_Landmark>lagos</Concept_Landmark> que tiene riquísima sal,
         <Concept_Landmark>minas</Concept_Landmark> de carbón de tierra, de azogue, y de oropimente:
-    estaba poblado de infinitas <Concept_Group>Naciones</Concept_Group> de
-        <Concept_Group>Indios</Concept_Group> guerreros y valerosos, que han dado mucho que hacer a
-    las <Concept_Group>Naciones</Concept_Group> Europeas, hoy algunas de las más civilizadas se
+    estaba poblado de infinitas <Concept_Group>Naciones de Indios</Concept_Group> guerreros y valerosos, que han dado mucho que hacer a
+    las <Concept_Group>Naciones Europeas</Concept_Group>, hoy algunas de las más civilizadas se
     visten de una especie de lino blanquísimo hecho de la corteza interior de un árbol que es de
     mucha duración, y de que hacen hilo y cuerdas. El año de 1536 entró a conquistar este
         <Concept_Territory>país</Concept_Territory>
@@ -974,11 +956,10 @@
         Ayllon</persName>, <persName>Pámfilo de Narvaez</persName>, <persName>Francisco Vazquez
         Coronado</persName>, Don <zbr/>
     <zbr/> @@@Alcedo_vol_2-0145@@@<zbr/>
-    <zbr/>
-    <persName>#Tristán de Luna y Arellano</persName>, y el Adelantado <persName>Pedro Menendez de
-        Aviles</persName> el año de 1564, pero todos con poco efecto. Después que los <humanGroup
-        type="political_group">Franceses</humanGroup> se establecieron en la parte que llamaron
-        <Territory>Nueva Francia</Territory> o <Territory>Canada</Territory>, y en la
+    <zbr/> #<persName>Tristán de Luna y Arellano</persName>, y el Adelantado <persName>Pedro
+        Menendez de Aviles</persName> el año de 1564, pero todos con poco efecto. Después que los
+        <humanGroup type="political_group">Franceses</humanGroup> se establecieron en la parte que
+    llamaron <Territory>Nueva Francia</Territory> o <Territory>Canada</Territory>, y en la
         <Territory>Luisiana</Territory>, y los <humanGroup type="political_group"
         >Ingleses</humanGroup> en la <Territory>Carolina</Territory>, fueron unos y otros
     estableciendo diferentes <Concept_Territory>Provincias</Concept_Territory> o
@@ -996,7 +977,7 @@
     SO con la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Group>Nación</Concept_Group> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Apalaches</humanGroup>, aunque los <humanGroup
-        type="social_group">Españoles</humanGroup>, hi##cieron varias
+        type="political_group">Españoles</humanGroup>, hi##cieron varias
         <Concept_Settlement>Poblaciones</Concept_Settlement> solo subsisten las de
         <Settlement>Panzacola</Settlement>, y de <Settlement>San Agústin</Settlement>, que es la
         <Concept_Settlement>Capital</Concept_Settlement>, siendo este
@@ -1005,8 +986,8 @@
         type="political_group">Ingleses</humanGroup>, los <humanGroup type="political_group"
         >Franceses</humanGroup>, y los <Concept_Group>Naturales</Concept_Group>; lo cedieron los
     primeros a los <humanGroup type="political_group">Ingleses</humanGroup> el año de 1762 por la
-    paz de <Settlement>Versalles</Settlement>, y le poseyeron dividiéndolo en
-        <Territory>Florida</Territory> Oriental y Occidental: la primera comprehendia la
+    paz de <Settlement>Versalles</Settlement>, y le poseyeron dividiéndolo en <Territory>Florida
+        Oriental</Territory> y <Territory>Occidental</Territory>: la primera comprehendia la
         <Concept_Landmark>Península</Concept_Landmark> Española, confinaba al N con la
         <Territory>Georgia</Territory>, y al O con el <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Apalachicola</Landmark>: la segunda se extendía de este
@@ -1033,18 +1014,17 @@
         <Territory>Florida</Territory>, donde entró con un lucido exército el año de 1538, y después
     de muchos trabajos murió allí el de 1542.<zbr/> 4 Don <persName>Tristán de Luna y
         Arellano</persName>, por nombramiento del Virrey de <Territory>Nueva España</Territory> Don
-        <persName>Luis de Velasco</persName>, a quien habia encargado el Emperador la conquista de
+        <persName>Luis de Velasco</persName>, a quien había encargado el Emperador la conquista de
     la <Territory>Florida</Territory>, salió de <Settlement>México</Settlement> el año de 1559, y se
     retiró el de 1561, habiendo perdido la mayor parte de su gente sin adelantar más que los
     otros.<zbr/> 5 <persName>Pedro Menendez de Aviles</persName>, natural de la
         <Concept_Settlement>Villa</Concept_Settlement> de este nombre en
-        <Settlement>Asturias</Settlement>, Comendador de <Settlement>Sta. Cruz de la
-        Zarza</Settlement> en la Orden de Santiago, Gobernador, Capitán general, Conquistador y
-    Adelantado perpetuo de la <Territory>Florida</Territory> para el y sus herederos, Capitán
-    general de la Armada de la guardia de Indias fundador de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement> S. Agustín</Settlement> y de
-    otros <Concept_Settlement>Pueblecillos</Concept_Settlement>, volvió a
-        <Territory>España</Territory> el año de 1572.<zbr/> 6 <persName>Pedro Menendez
+        <Settlement>Asturias</Settlement>, Comendador de Sta. Cruz de la Zarza en la Orden de
+    Santiago, Gobernador, Capitán general, Conquistador y Adelantado perpetuo de la
+        <Territory>Florida</Territory> para el y sus herederos, Capitán general de la Armada de la
+    guardia de Indias fundador de la <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>
+        S. Agustín</Settlement> y de otros <Concept_Settlement>Pueblecillos</Concept_Settlement>,
+    volvió a <Territory>España</Territory> el año de 1572.<zbr/> 6 <persName>Pedro Menendez
         Marqués</persName>, nombrado Gobernador de la <Territory>Florida</Territory> por su tio el
     Adelantado en virtud de la capitulación que habia hecho con el Rey, gobernó poco tiempo por
     haberlo muerto los <Concept_Group>Indios</Concept_Group> el año de 1574.<zbr/> 7
@@ -1064,9 +1044,9 @@
         <persName>Francisco de la Guerra</persName>.<zbr/> 14 Don <persName>Laureano de Torres y
         Ayala</persName>, que fue el que hizo la muralla de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>San Agustín</Settlement>,
-    entró a el gobierno el año de 1693.<zbr/> 15 Don <persName>Joseph de Zuñiga</persName> y la
-    Cerda, que perfeccionó el <Concept_Structure>castillo</Concept_Structure> y defendió la
-        <Concept_Settlement>Ciudad</Concept_Settlement> invadida por los <humanGroup
+    entró a el gobierno el año de 1693.<zbr/> 15 Don <persName>Joseph de Zuñiga y la
+        Cerda</persName>, que perfeccionó el <Concept_Structure>castillo</Concept_Structure> y
+    defendió la <Concept_Settlement>Ciudad</Concept_Settlement> invadida por los <humanGroup
         type="political_group">Ingleses</humanGroup>, gobernó con credito hasta el año de
     1708.<zbr/> 16 Don <persName>Francisco de Corcóles Martínez</persName>.<zbr/> 17 Don
         <persName>Juan de Ayala</persName>, Sargento mayor de la Plaza de <Settlement>San
@@ -1087,8 +1067,8 @@
     Gobernador porque <zbr/>
     <zbr/> @@@Alcedo_vol_2-0148@@@<zbr/>
     <zbr/> #el año siguiente cedió la Corte aquel <Concept_Territory>país</Concept_Territory> al Rey
-    de <Territory>Inglaterra</Territory> en la paz de <Territory>Versalles</Territory>, y aunque,
-    después lo recobró en la de <Territory>París</Territory> el de 1783, quedó este gobierno baxo
+    de <Territory>Inglaterra</Territory> en la paz de <Settlement>Versalles</Settlement>, y aunque,
+    después lo recobró en la de <Settlement>París</Settlement> el de 1783, quedó este gobierno baxo
     del mando del Comandante general de la <Territory>Luisiana</Territory>.$$$<zbr/>
     <zbr/> §§§id_06056§§§<zbr/> #FLORIDO, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -1107,7 +1087,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento templado, y como tal
     produce con abundancia todos los frutos de tierra caliente y fria, pero padece la misma pensión
     que otros inmediatos a el de culebras venenosas que llaman tayas, tiene más de 200
-        <Concept_Group>vecinos</Concept_Group> y 150 Indios, está en el camino extraviado que se
+        <Concept_Group>vecinos</Concept_Group> y 150 <humanGroup type="social_group">Indios</humanGroup>, está en el camino extraviado que se
     dirige a <Settlement>San Martín de los Llanos</Settlement>, dis##tante 10 leguas al SO de
         <Settlement>Santa Fe</Settlement>. <zbr/>
     <zbr/> §§§id_06060§§§<zbr/> FOND-PLAT, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -1146,11 +1126,10 @@
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, esta entre el
         <Concept_Landmark>Puerto</Concept_Landmark> de la <Landmark>Posesión</Landmark> y la
         <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San Miguel</Settlement>. <zbr/>
-    <zbr/> §§§id_06066§§§<zbr/> FONTAINE, Ance de la), o
-        <Concept_Landmark>ensenada</Concept_Landmark> de la Fuente en la
+    <zbr/> §§§id_06066§§§<zbr/> FONTAINE, Ance de la), o ensenada de la Fuente en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóval</Landmark>, una de las
-    Antillas en la <Concept_Landmark>Costa</Concept_Landmark> del NO, entre la de
-        <Landmark>Caret</Landmark> y el <Concept_Landmark>cabo</Concept_Landmark>
+        <Landmark>Antillas</Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> del NO, entre
+    la de <Landmark>Caret</Landmark> y el <Concept_Landmark>cabo</Concept_Landmark>
     <Landmark>Enragé</Landmark>, en el quartel que tenían los <humanGroup type="political_group"
         >Franceses</humanGroup> antes que les cedieran la <Concept_Landmark>Isla</Concept_Landmark>
     los <humanGroup type="political_group">Ingleses</humanGroup>. <zbr/>
@@ -1164,7 +1143,7 @@
     <zbr/> §§§id_06068§§§<zbr/> FONTENAC, <Concept_Structure>Fuerte</Concept_Structure> de los
         <humanGroup type="political_group">Franceses</humanGroup> en el
         <Concept_Territory>país</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
-    <humanGroup type="indigenous_group">IroquesesSeptentrionales</humanGroup>, construido a orilla
+    <humanGroup type="indigenous_group">Iroqueses Septentrionales</humanGroup>, construido a orilla
     del <Concept_Landmark>lago</Concept_Landmark>
     <Landmark>Ontario</Landmark> y boca del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Catarakui</Landmark>. <zbr/>
@@ -1173,11 +1152,11 @@
         <Territory>Nuevo Reyno de Granada</Territory>, situado en un hermoso
         <Concept_Landmark>llano</Concept_Landmark> de temperamento frío, abundante en ##frutos y
     semillas de tierra de este clima, y especialmente de cebollas, de que hace su principal
-    comercio, fue <Concept_District>doctrina</Concept_District> de los
-        <Concept_Group>Regulares</Concept_Group> de la extinguida <humanGroup>Compañía</humanGroup>,
-    tiene 100 <Concept_Group>vecinos</Concept_Group>
-    <Concept_Group>blancos</Concept_Group> y algunos más <Concept_Group>Indios</Concept_Group>, esta
-    una legua al O de <Settlement>Santa Fe</Settlement>. <zbr/>
+    comercio, fue <Concept_District>doctrina</Concept_District> de los <humanGroup type="religious_group">Regulares de la
+        extinguida Compañía</humanGroup>, tiene 100 <Concept_Group>vecinos</Concept_Group>
+    <humanGroup type="social_group">blancos</humanGroup> y algunos más
+        <humanGroup type="social_group">Indios</humanGroup>, esta una legua al O de <Settlement>Santa
+        Fe</Settlement>. <zbr/>
     <zbr/> §§§id_06070§§§<zbr/> FORANDOY, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Maracaibo</Territory>, nace al
@@ -1189,8 +1168,7 @@
     pequeño de la <Concept_Landmark>Costa</Concept_Landmark> del N en la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, y parte
     que tienen los <humanGroup type="political_group">Franceses</humanGroup> entre el
-        <Concept_Landmark>río</Concept_Landmark> de la
-            <Landmark><Concept_Landmark>Ensenada</Concept_Landmark></Landmark> hallada y el
+        <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Ensenada</Landmark> hallada y el
         <Concept_Landmark>Islote</Concept_Landmark> de <Landmark>Miraguana</Landmark>. <zbr/>
     <zbr/> §§§id_06072§§§<zbr/> Tiene el mismo nombre con el aditamento del O
         <Concept_Landmark>Puerto</Concept_Landmark> pequeño de la
@@ -1205,9 +1183,10 @@
     <zbr/> #de lat., en el viage que hizo a <Territory>Groenlandia</Territory>, donde navegando por
     medio del hielo en aquellos <Concept_Landmark>mares</Concept_Landmark> septentrionales llegó a
     un parage que llamó <Concept_Landmark>estrecho</Concept_Landmark> de la <Landmark>Condesa de
-        Warwick</Landmark> en que quiso construir un fuerte; pero habiendo perdido mucha parte de la
-    madera que sacó de <Territory>Inglaterra</Territory> se volvió cargado de una especie de arena
-    luciente en que pensó encontrar oro. µµµVéase Groenlandia.µµµ <zbr/>
+        Warwick</Landmark> en que quiso construir un <Concept_Structure>fuerte</Concept_Structure>;
+    pero habiendo perdido mucha parte de la madera que sacó de <Territory>Inglaterra</Territory> se
+    volvió cargado de una especie de arena luciente en que pensó encontrar oro. µµµVéase
+    Groenlandia.µµµ <zbr/>
     <zbr/> §§§id_06074§§§<zbr/> FORELAND, Punta de) en la <Concept_Landmark>Costa</Concept_Landmark>
     del O de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Terranova</Territory>, entre
     el <Concept_Landmark>cabo</Concept_Landmark>
@@ -1220,8 +1199,9 @@
     de <Territory>Guadalupe</Territory> que sale al <Concept_Landmark>mar</Concept_Landmark> al SE. <zbr/>
     <zbr/> §§§id_06077§§§<zbr/> Tiene el mismo nombre Un <Concept_Landmark>río</Concept_Landmark> de
     esta <Concept_Landmark>Isla</Concept_Landmark> que corre al NO, y sale al
-        <Concept_Landmark>mar</Concept_Landmark> entre el fuerte de <Landmark>San Pedro</Landmark> y
-    la <Landmark>Grand Ance</Landmark>. <zbr/>
+        <Concept_Landmark>mar</Concept_Landmark> entre el
+        <Concept_Structure>fuerte</Concept_Structure> de <Structure>San Pedro</Structure> y la
+        <Structure>Grand Ance</Structure>. <zbr/>
     <zbr/> §§§id_06078§§§<zbr/> FORTALEZA, La) <Concept_Settlement>Ciudad</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>País</Concept_Territory>; de las <Territory>Amazonas</Territory> en la
