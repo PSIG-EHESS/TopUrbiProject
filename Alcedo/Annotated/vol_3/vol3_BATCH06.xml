@@ -12,11 +12,11 @@
     se junta con el <Landmark>Teno</Landmark>, y divide la
         <Concept_Territory>jurisdicción</Concept_Territory> de la de
         <Territory>Colchagua</Territory>, y después de su unión se llama
-        <Territory>Mataquito</Territory>. También hay un mineral de brea, que es una especie de lodo
-    betuminoso que aunque lo benefician a fuego y agua caliente siempre le queda mucha tierra, por
-    lo qual se usa poco hasta que se encuentre modo mejor de henificarlo: por algunos parages de
-    esta <Concept_Territory>Provincia</Concept_Territory> se pasa la
-        <Concept_Landmark>Cordillera</Concept_Landmark> por el Oriente, traficando al##gunos
+        <Landmark>Mataquito</Landmark>. También hay un <Concept_Landmark>mineral</Concept_Landmark>
+    de brea, que es una especie de lodo betuminoso que aunque lo benefician a fuego y agua caliente
+    siempre le queda mucha tierra, por lo qual se usa poco hasta que se encuentre modo mejor de
+    henificarlo: por algunos parages de esta <Concept_Territory>Provincia</Concept_Territory> se
+    pasa la <Concept_Landmark>Cordillera</Concept_Landmark> por el Oriente, traficando al##gunos
     arrieros a conducir sal, que se cría muy blanca en pedazos pequeños en unas
         <Concept_Landmark>lagunas</Concept_Landmark>: los habitantes llegan a 12000; y la
         <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Talca</Settlement>. <zbr/>
@@ -35,10 +35,10 @@
     en 34 gr. 11 min. de lat. aust.; en cuyos términos le tiene la
         <Concept_Territory>jurisdicción</Concept_Territory> y
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Santiago</Territory>: los
-        <humanGroup type="social_group">Indios</humanGroup> llamaban a este parage Promocaces, que
-    en su idioma significa lugar de bayles y alegrías, para denotar la delicia de este terreno:
-    antes de su salida al <Concept_Landmark>mar</Concept_Landmark> tiene un célebre astillero, y
-    donde se explaya y hace un tablazo <zbr/>
+        <Concept_Group>Indios</Concept_Group> llamaban a este parage Promocaces, que en su idioma
+    significa lugar de bayles y alegrías, para denotar la delicia de este terreno: antes de su
+    salida al <Concept_Landmark>mar</Concept_Landmark> tiene un célebre astillero, y donde se
+    explaya y hace un tablazo <zbr/>
     <zbr/> @@@Alcedo_vol_3-0127@@@<zbr/>
     <zbr/> #muy ancho: mantiene el Rey una barca para el paso de los que transitan, y cerca de ella
     hay un Convento de Religiosos Agustinos, que sirve de
@@ -80,7 +80,7 @@
     <zbr/> §§§id_10011§§§<zbr/> MAURI Quartel de) <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_District>Parroquia</Concept_District> de los <humanGroup type="political_group"
         >Franceses</humanGroup> en la <Concept_Landmark>Isla</Concept_Landmark> de
-        <Territory>Cayena</Territory>, situado en la parte Oriental de ella a la entrada del
+        <Landmark>Cayena</Landmark>, situado en la parte Oriental de ella a la entrada del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Ocuya</Landmark>. <zbr/>
     <zbr/> §§§id_10012§§§<zbr/> MAURICE, <Concept_Landmark>Río</Concept_Landmark> de la
@@ -148,7 +148,7 @@
     uno de los que forman la entrada de la <Concept_Landmark>Bahía</Concept_Landmark> de
         <Landmark>Delaware</Landmark>. <zbr/>
     <zbr/> §§§id_10022§§§<zbr/> MAYA Santa Ana de) <Concept_Settlement>Pueblo</Concept_Settlement>
-    de la Cabezera de <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía
+    de la <Concept_Settlement>Cabezera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Cuiceo</Territory> en <Territory>Nueva
         España</Territory>; tiene 12 familias de <humanGroup type="social_group"
         >Españoles</humanGroup> y <humanGroup type="social_group">Mestizos</humanGroup>, y 32 de
@@ -168,18 +168,19 @@
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark> una de las
         <Landmark>Lucayas</Landmark> que descubrió <persName>Cristoval Colon</persName> en su pri<zbr/>
     <zbr/> @@@Alcedo_vol_3-0129@@@<zbr/>
-    <zbr/> #mer viage, situada al N de la <Settlement>Española</Settlement> o de <Territory>Santo
+    <zbr/> #mer viage, situada al N de la <Territory>Española</Territory> o de <Territory>Santo
         Domingo</Territory>: tiene 7 leguas de largo, y está habitada de
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Caribes</humanGroup> pescadores: en 305 gr. de long. y 22
     gr. 25 min. de lat. <zbr/>
     <zbr/> §§§id_10026§§§<zbr/> MAYAGUES, <Concept_Landmark>Río</Concept_Landmark> de la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Portorrico</Landmark>: nace de una
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Portorrico</Territory>: nace de una
         <Concept_Landmark>montaña</Concept_Landmark> en el centro de ella; corre al O y sale al
         <Concept_Landmark>mar</Concept_Landmark> entre el de <Landmark>Guanajive</Landmark> y la
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Añasco</Landmark>. <zbr/>
     <zbr/> §§§id_10027§§§<zbr/> MAYANALA Santa María de)
-        <Concept_Settlement>Pueblo</Concept_Settlement> de la Cabezera de
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabezera</Concept_Settlement> de
         <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Iguala</Territory> en <Territory>Nueva
         España</Territory>, tiene 51 familias de <humanGroup type="social_group"
@@ -289,44 +290,44 @@
         <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Baracoa</Settlement> y la
         <Concept_Landmark>Punta</Concept_Landmark> de <Landmark>Maisi</Landmark>. <zbr/>
     <zbr/> §§§id_10044§§§<zbr/> MAZAHUACAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-    Cabezera de <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía
+        <Concept_Settlement>Cabezera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zochícoatlán</Territory> en <Territory>Nueva
         España</Territory>; tiene 16 familias <zbr/>
     <zbr/> @@@Alcedo_vol_3-0131@@@<zbr/>
     <zbr/> #de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>
     <zbr/> §§§id_10045§§§<zbr/> MAZAPIL, <Concept_Settlement>Real de Minas</Concept_Settlement> de
-    Plata y <Concept_Settlement>Pueblo</Concept_Settlement> Cabezera de
-        <Concept_District>Partido</Concept_District> y
-        <Concept_Territory>jurisdicción</Concept_Territory> del
+    Plata y <Concept_Settlement>Pueblo <Concept_Settlement>Cabezera</Concept_Settlement> de
+        Partido</Concept_Settlement> y <Concept_Territory>jurisdicción</Concept_Territory> del
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guadalajara</Territory> en
-        <Territory>Nueva España</Territory> que sirve de limites y división del
+        <Territory>Nueva España</Territory> que sirve de límites y división del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva Galicia</Territory> con el
     de <Territory>Nueva Vizcaya</Territory>, quedando las tierras de éste a la parte del N: ha sido
     siempre abundante de <Concept_Landmark>minas</Concept_Landmark> de muy buena ley, que se han
     trabajado con grande utilidad a los principios por <humanGroup type="social_group"
-        >esclavos</humanGroup>, por lo indómito y feroz de aquellos <humanGroup type="social_group"
-        >Indios</humanGroup>; pero después que se han domesticado hacen este trabajo como el de las
-        <Concept_Structure>haciendas</Concept_Structure> de labor, de que está circumbalado el
-        <Concept_Territory>territorio</Concept_Territory> y: tiene de vecindario más de 40 familias
-    de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
-        >Mestizos</humanGroup>, y muchas más de <humanGroup type="social_group"
-    >Mulatos</humanGroup>, con crecido numero de <humanGroup type="social_group">Indios</humanGroup>
-    que también se dedican a criar mucho ganado de toda especie: dista 100 leguas al NNE de
-        <Settlement>Guadalajara</Settlement>, y está en 270 gr. 4 min. de long. y en 24 gr. 50 min.
-    de lat. <zbr/>
+        >esclavos</humanGroup>, por lo indómito y feroz de aquellos <Concept_Group
+        type="social_group">Indios</Concept_Group>; pero después que se han domesticado hacen este
+    trabajo como el de las <Concept_Structure>haciendas</Concept_Structure> de labor, de que está
+    circumbalado el <Concept_Territory>territorio</Concept_Territory> y: tiene de vecindario más de
+    40 familias de <humanGroup type="social_group">Españoles</humanGroup> y <humanGroup
+        type="social_group">Mestizos</humanGroup>, y muchas más de <humanGroup type="social_group"
+        >Mulatos</humanGroup>, con crecido número de <humanGroup type="social_group"
+        >Indios</humanGroup> que también se dedican a criar mucho ganado de toda especie: dista 100
+    leguas al NNE de <Settlement>Guadalajara</Settlement>, y está en 270 gr. 4 min. de long. y en 24
+    gr. 50 min. de lat. <zbr/>
     <zbr/> §§§id_10046§§§<zbr/> MAZARONI, Mazarumi o Ataparán)
-        <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso de la Pro##vincia de
-        <Territory>Guayana</Territory> y <Concept_Territory>Gobierno</Concept_Territory> de
-        <Territory>Cumaná</Territory>: nace en lo interior de ella, y corre casi del S al N hasta
-    entrar en el de <Landmark>Esquivo</Landmark> ya cerca de su salida al
-        <Concept_Landmark>mar</Concept_Landmark>. Los <humanGroup type="political_group"
-        >Holandeses</humanGroup> protegidos de los <humanGroup type="indigenous_group"
-        >Caribes</humanGroup> suben por él a pillar los <humanGroup type="social_group"
-        >Indios</humanGroup> de la <Concept_Territory>Provincia</Concept_Territory>, que hacen
-        <humanGroup type="social_group">esclavos</humanGroup> para trabajar sus
-        <Concept_Structure>haciendas</Concept_Structure>, valiéndose de todos quantos medios les
-    sugiere la codicia y la tirania para cautivar a aquellos infelices, a cuyo fin tienen amistad
-    con los <humanGroup type="indigenous_group">Caribes</humanGroup> gente guerrera y feroz. <zbr/>
+        <Concept_Landmark>Río</Concept_Landmark> grande y caudaloso de la
+        <Concept_Territory>Pro##vincia</Concept_Territory> de <Territory>Guayana</Territory> y
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>: nace en lo
+    interior de ella, y corre casi del S al N hasta entrar en el de <Landmark>Esquivo</Landmark> ya
+    cerca de su salida al <Concept_Landmark>mar</Concept_Landmark>. Los <humanGroup
+        type="political_group">Holandeses</humanGroup> protegidos de los <humanGroup
+        type="indigenous_group">Caribes</humanGroup> suben por él a pillar los <humanGroup
+        type="social_group">Indios</humanGroup> de la
+        <Concept_Territory>Provincia</Concept_Territory>, que hacen <humanGroup type="social_group"
+        >esclavos</humanGroup> para trabajar sus <Concept_Structure>haciendas</Concept_Structure>,
+    valiéndose de todos quantos medios les sugiere la codicia y la tiranía para cautivar a aquellos
+    infelices, a cuyo fin tienen amistad con los <humanGroup type="indigenous_group"
+        >Caribes</humanGroup> gente guerrera y feroz. <zbr/>
     <zbr/> §§§id_10047§§§<zbr/> MAZATAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Copala</Territory> en <Territory>Nueva
@@ -337,61 +338,61 @@
     invadido varias veces por los enemigos: es de temperamento, cálido, abundante de maíz y
     frixoles, y sobre todo de pescado, que cogen con abundancia en el caudaloso
         <Concept_Landmark>Río</Concept_Landmark> de su nombre, a cuya inmediación está situado.<zbr/>
-    <zbr/> §§§id_10048§§§<zbr/> MAZATEPAN S, <Concept_Landmark>Mar</Concept_Landmark>
-    <zbr/>
+    <zbr/> §§§id_10048§§§<zbr/> MAZATEPAN S. Mar <zbr/>
     <zbr/> @@@Alcedo_vol_3-0132@@@<zbr/>
-    <zbr/> #tin de) <Concept_Settlement>Pueblo</Concept_Settlement> y Cabezera de
-        <Concept_District>Partido</Concept_District> de la <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Tehuacan</Territory> en <Territory>Nueva
-        España</Territory>: tiene 150 familias de <humanGroup type="social_group"
-        >Indios</humanGroup>, y está 16 leguas al E quarta al NE de su
-        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> #tín de) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabezera
+        de Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory>
+    de <Territory>Tehuacan</Territory> en <Territory>Nueva España</Territory>: tiene 150 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, y está 16 leguas al E quarta al NE de
+    su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_10049§§§<zbr/> MAZATEPEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-    Cabezera de <Concept_District>Partido</Concept_District> de <Settlement>Huitepec</Settlement> y
-        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Cuernavaca</Territory>
-    en <Territory>Nueva España</Territory>, está situado en la cumbre de un
-        <Concept_Landmark>cerro</Concept_Landmark>, tan estéril y falto de agua que es preciso
-    subirla en hombros desde los <Concept_Landmark>ríos</Concept_Landmark> inmediatos; pero a su
-    falda tiene una vega que es la más frondosa que hay en toda su
+        <Concept_Settlement>Cabezera de Partido</Concept_Settlement> de
+        <Settlement>Huitepec</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Cuernavaca</Territory> en <Territory>Nueva España</Territory>, está situado en la
+    cumbre de un <Concept_Landmark>cerro</Concept_Landmark>, tan estéril y falto de agua que es
+    preciso subirla en hombros desde los <Concept_Landmark>ríos</Concept_Landmark> inmediatos; pero
+    a su falda tiene una vega que es la más frondosa que hay en toda su
         <Concept_Territory>jurisdicción</Concept_Territory>, en que se dan muchas frutas y cañas
     dulces, de que fabrican porción de azúcar: tiene un Convento de Religiosos de San Francisco, 57
     familias de <humanGroup type="social_group">Indios</humanGroup>, y 27 de <humanGroup
         type="social_group">Españoles</humanGroup> y <humanGroup type="social_group"
         >Mestizos</humanGroup>. <zbr/>
     <zbr/> §§§id_10050§§§<zbr/> MAZATLAN San Juan de)
-        <Concept_Settlement>Pueblo</Concept_Settlement> y Cabezera de
-        <Concept_District>Partido</Concept_District> de la <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Nexapa</Territory> en <Territory>Nueva
-        España</Territory>: tiene 111 familias de <humanGroup type="social_group"
-        >Indios</humanGroup> que comercian en algodón, crias de ganado, frutas y cortes de madera:
-    está 25 leguas al N de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+        <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabezera de
+        Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Nexapa</Territory> en <Territory>Nueva España</Territory>: tiene 111 familias de
+        <humanGroup type="social_group">Indios</humanGroup> que comercian en algodón, crias de
+    ganado, frutas y cortes de madera: está 25 leguas al N de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_10051§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
-    nombre en la Cabezera de <Settlement>Zapótlán</Settlement> y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Tepic</Territory> en el mismo
-        <Concept_Territory>Reyno</Concept_Territory>; tiene 34 familias de <humanGroup
-        type="social_group">Indios</humanGroup> que tratan en semillas y algodón, y está poco más de
-    13 leguas entre Oriente y Sur de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-    <zbr/> §§§id_10052§§§<zbr/> Otro de la Cabezera y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de la <Territory>Purificación</Territory> en el mismo
-        <Concept_Territory>Reyno</Concept_Territory>, situado en la
+    nombre en la <Concept_Settlement>Cabezera</Concept_Settlement> de
+        <Settlement>Zapótlán</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Tepic</Territory> en el mismo <Concept_Territory>Reyno</Concept_Territory>; tiene
+    34 familias de <humanGroup type="social_group">Indios</humanGroup> que tratan en semillas y
+    algodón, y está poco más de 13 leguas entre Oriente y Sur de su
+        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    <zbr/> §§§id_10052§§§<zbr/> Otro de la <Concept_Settlement>Cabezera</Concept_Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de la
+        <Territory>Purificación</Territory> en el mismo
+    <Concept_Territory>Reyno</Concept_Territory>, situado en la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
     del <Landmark>Sur</Landmark>, cuyos <humanGroup type="social_group">vecinos</humanGroup> se
     ocupan en ser <Concept_Structure>vigías</Concept_Structure> de las embarcaciones que se
     descubren para dar avisos a los Alcaldes mayores; está 6 leguas al <Landmark>Sur</Landmark> de
     su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
-    <zbr/> §§§id_10053§§§<zbr/> Otro de la Cabezera y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Compostela</Territory> en el
-        <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Galicia</Territory>. <zbr/>
-    <zbr/> §§§id_10054§§§<zbr/> Otro de la Cabezera de <Concept_District>Partido</Concept_District>
-    de <Settlement>Tuzcacuesco</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
-    de <Territory>Amola</Territory> en <Territory>Nueva España</Territory>; es de temperamento
-    caliente, situado entre dos <Concept_Landmark>lomas</Concept_Landmark> a orilla de un
+    <zbr/> §§§id_10053§§§<zbr/> Otro de la <Concept_Settlement>Cabezera</Concept_Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Compostela</Territory>
+    en el <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Galicia</Territory>. <zbr/>
+    <zbr/> §§§id_10054§§§<zbr/> Otro de la <Concept_Settlement>Cabezera de
+        Partido</Concept_Settlement> de <Settlement>Tuzcacuesco</Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Amola</Territory> en
+        <Territory>Nueva España</Territory>; es de temperamento caliente, situado entre dos
+        <Concept_Landmark>lomas</Concept_Landmark> a orilla de un
         <Concept_Landmark>arroyo</Concept_Landmark>, con cuyas aguas riegan y cultivan las huertas
         <humanGroup type="social_group">sus vecinos</humanGroup>, que son 70 familias de <humanGroup
         type="social_group">Indios</humanGroup>, y está 4 leguas a Poniente de su Cabezera. <zbr/>
     <zbr/> §§§id_10055§§§<zbr/> MAZIBA, <Concept_Settlement>Pueblo</Concept_Settlement> grande de
-        <humanGroup type="social_group">Indios</humanGroup> de la
-        <Concept_Group>Nación</Concept_Group>
+        <Concept_Group>Indios</Concept_Group> de la <Concept_Group>Nación</Concept_Group>
     <zbr/>
     <zbr/> @@@Alcedo_vol_3-0133@@@<zbr/>
     <zbr/> #<humanGroup type="indigenous_group">Saliva</humanGroup> en los
@@ -419,9 +420,9 @@
         <Concept_Landmark>cabo</Concept_Landmark> de <Landmark>Chichibacoa</Landmark> en 305 gr. 30
     min. de long; y en 11 gr. 30 min. de lat. <zbr/>
     <zbr/> §§§id_10059§§§<zbr/> MAZTITLAN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-    Cabezera de <Concept_District>Partido</Concept_District> de <Settlement>Ixtác</Settlement> y
-        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>San Juan de los
-        Llanos</Territory> en <Territory>Nueva España</Territory>. <zbr/>
+        <Concept_Settlement>Cabezera de Partido</Concept_Settlement> de
+        <Settlement>Ixtác</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>San Juan de los Llanos</Territory> en <Territory>Nueva España</Territory>. <zbr/>
     <zbr/> §§§id_10060§§§<zbr/> MABOAPIARI, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> del <Territory>Rey</Territory> en el
@@ -431,8 +432,8 @@
     <zbr/> §§§id_10061§§§<zbr/> MBOCAE, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>; corre
-    al S, y entra en el <Landmark>Paraná</Landmark> cerca de la Misión de
-        <Settlement>Itapua</Settlement>. <zbr/>
+    al S, y entra en el <Landmark>Paraná</Landmark> cerca de la
+        <Concept_Settlement>Misión</Concept_Settlement> de <Settlement>Itapua</Settlement>. <zbr/>
     <zbr/> §§§id_10062§§§<zbr/> MBOCARIRAI, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de <Territory>San Vicente</Territory> en el
@@ -455,8 +456,9 @@
     <zbr/> §§§id_10065§§§<zbr/> MBOTETEI, <Concept_Landmark>Río</Concept_Landmark> caudaloso y
     grande de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Paraguay</Territory>; corre
-    al O y entra en el de el <Territory>Paraguay</Territory> en el parage que llaman el
-        <Landmark>Paso</Landmark>, según Don <persName>Juan de Cruz</persName>; corre al NNO. <zbr/>
+    al O y entra en el de el <Territory>Paraguay</Territory> en el
+        <Concept_Landmark>parage</Concept_Landmark> que llaman el <Landmark>Paso</Landmark>, según
+    Don <persName>Juan de Cruz</persName>; corre al NNO. <zbr/>
     <zbr/> §§§id_10066§§§<zbr/> MBUTUI, <Concept_Landmark>Río</Concept_Landmark> de la misma
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> que el anterior: corre al O s y entra en el
@@ -506,7 +508,7 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Sicasica</Territory> en
     el <Territory>Perú</Territory>. <zbr/>
     <zbr/> §§§id_10075§§§<zbr/> MECAPALA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-    Cabezera de <Concept_District>Partido</Concept_District> y <Concept_Territory>Alcaldía
+        <Concept_Settlement>Cabezera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zochicoatlán</Territory> en <Territory>Nueva
         España</Territory>; tiene 46 familias de <humanGroup type="social_group"
     >Indios</humanGroup>, y está 4 leguas al Poniente de su
@@ -539,7 +541,8 @@
     87 familias de <humanGroup type="social_group">Indios</humanGroup>, y dista de la
         <Concept_Settlement>Capital</Concept_Settlement> 31 leguas. <zbr/>
     <zbr/> §§§id_10078a§§§<zbr/> Tiene el mismo nombre otro
-        <Concept_Settlement>Pueblo</Concept_Settlement> de la Cabezera de
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabezera</Concept_Settlement> de
         <Concept_District>Partido</Concept_District> de <Settlement>Xaltocán</Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Tepic</Territory> en el
     mismo <Concept_Territory>Reyno</Concept_Territory>; tiene 15 familias de <humanGroup
@@ -605,13 +608,13 @@
         <Concept_Landmark>minas</Concept_Landmark> de oro, plata, cobre y estaño, y el año de 1725
     se descubrió una de plata tan abundante que llamaron de <Landmark>Morcillo</Landmark>, y produxo
     infinito metal, pero se cegó con una <Concept_Landmark>montaña</Concept_Landmark> que se
-    desplomó, de modo que no se ha podido volver a encontrar. Sus <humanGroup type="social_group"
-        >naturales</humanGroup>, antes de la conquista por los <humanGroup type="political_group"
-        >Españoles</humanGroup> eran belicosísimos, robustos, hermosos y los más diestros tiradores
-    de flecha, y nunca pudieron los Emperadores <humanGroup type="indigenous_group"
-        >Mexicanos</humanGroup> sujetarlos al yugo de su Imperio: está dividida en 25
-        <Concept_Territory>jurisdicciones</Concept_Territory> y <Concept_Territory>Alcaldías
-        mayores</Concept_Territory> que son las siguientes, y la
+    desplomó, de modo que no se ha podido volver a encontrar. Sus
+        <Concept_Group>naturales</Concept_Group>, antes de la conquista por los <humanGroup
+        type="political_group">Españoles</humanGroup> eran belicosísimos, robustos, hermosos y los
+    más diestros tiradores de flecha, y nunca pudieron los Emperadores <humanGroup
+        type="indigenous_group">Mexicanos</humanGroup> sujetarlos al yugo de su Imperio: está
+    dividida en 25 <Concept_Territory>jurisdicciones</Concept_Territory> y
+        <Concept_Territory>Alcaldías mayores</Concept_Territory> que son las siguientes, y la
         <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>Valladolid</Settlement>.<zbr/>
     <zbr/> ßßß<zbr/> #<Territory>Pasquaro</Territory>.<zbr/>
     <Territory>Chaco</Territory>.<zbr/> ##<Territory>Zelaya</Territory>.<zbr/>
@@ -658,7 +661,7 @@
     <zbr/> 3. Don <persName>Antonio Ruiz de Morales y Molina</persName>, natural de
         <Settlement>Córdoba</Settlement>, Caballero del Orden de Santiago, Dignidad de Chantre de su
     Santa Iglesia, presentado para Obispo de <Territory>Mechoacán</Territory> el año de 1557 fue
-    promovido a la <Settlement>Puebla de los Angeles</Settlement> el de 1563.<zbr/>
+    promovido a la <Territory>Puebla de los Angeles</Territory> el de 1563.<zbr/>
     <zbr/> 4. Don Fr. <persName>Alonso de la Vera Cruz</persName>, del Orden de San Agustín,
     presentado por la Magestad de <persName>Felipe II</persName>. para este
         <Concept_Territory>Obispado</Concept_Territory>, que renunció con pode<zbr/>
@@ -684,8 +687,8 @@
     Carmelitas Descalzos, y murió el año de 1596.<zbr/>
     <zbr/> 7. Don Fr. <persName>Domingo de Ulloa</persName>, del mismo Orden qué el anterior,
     descendiente de la ilustre casa de los Marqueses de la Mota, tomó el habito en el Convento de
-    Nuestra Señora de la <Concept_Landmark>Peña</Concept_Landmark> de Francia fue Colegial en el
-    Colegio de San Gregorio de Valladolid, y su Rector, Prior de varios Conventos, Vicario General
+    Nuestra Señora de la Peña de Francia fue Colegial en el Colegio de San Gregorio de
+        <Settlement>Valladolid</Settlement>, y su Rector, Prior de varios Conventos, Vicario General
     de la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Castilla</Territory>,
     presentado para Obispo de <Territory>Nicaragua</Territory>, promovido a la Iglesia de
         <Territory>Popayán</Territory>, y luego a esta de <Territory>Mechoacán</Territory> el año de
@@ -865,16 +868,16 @@
     <zbr/> §§§id_10085§§§<zbr/> MEDAÑO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory> en el
-        <Territory>Perú</Territory>, situado a la Cabezera del
-        <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Conchas</Landmark> al S de la
+        <Territory>Perú</Territory>, situado a la <Concept_Settlement>Cabezera</Concept_Settlement>
+    del <Concept_Landmark>río</Concept_Landmark> de las <Landmark>Conchas</Landmark> al S de la
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_10086§§§<zbr/> MEDELLIN, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Territory>jurisdicción</Concept_Territory> Go##bierno de
-        <Territory>Veracruz</Territory> en la <Territory>Nueva España</Territory>, fundado por
-        <persName>Hernán Cortés</persName>, que le dio el nombre en obsequio de su Patria en
-        <Territory>Estremadura</Territory>; es de temperamento cálido, tiene a dos leguas de
-    distancia el <Concept_Landmark>río</Concept_Landmark> que llaman de
-    <Landmark>Enmedio</Landmark>, donde termina por aquella parte su
+        <Concept_Territory>jurisdicción</Concept_Territory> y
+        <Concept_Territory>Go##bierno</Concept_Territory> de <Territory>Veracruz</Territory> en la
+        <Territory>Nueva España</Territory>, fundado por <persName>Hernán Cortés</persName>, que le
+    dio el nombre en obsequio de su Patria en <Territory>Estremadura</Territory>; es de temperamento
+    cálido, tiene a dos leguas de distancia el <Concept_Landmark>río</Concept_Landmark> que llaman
+    de <Landmark>Enmedio</Landmark>, donde termina por aquella parte su
         <Concept_Territory>jurisdiccion</Concept_Territory>; está 3 leguas al NO de la
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/> §§§id_10087§§§<zbr/> Tiene el mismo nombre un <Concept_Landmark>Río</Concept_Landmark> de
@@ -902,8 +905,9 @@
     <Landmark>Charles</Landmark>. <zbr/>
     <zbr/> §§§id_10090§§§<zbr/> MEDFORD, <Concept_Settlement>Ciudad</Concept_Settlement> del
         <Concept_Territory>Condado</Concept_Territory> de <Territory>Midlesex</Territory> en la
-        <Concept_Landmark>Bahía</Concept_Landmark> de <Territory>Massachusets</Territory>, situada
-    cerca de la Cabezera del <Concept_Landmark>río</Concept_Landmark>
+        <Territory>Bahía de Massachusets</Territory>, situada cerca de la
+        <Concept_Settlement>Cabezera</Concept_Settlement> del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Mistic</Landmark>, casi 7 millas distante al SO de <Settlement>Cambridge</Settlement>
     y 9 al S de <Settlement>Wilmington</Settlement>. <zbr/>
     <zbr/> §§§id_10091§§§<zbr/> MEDINA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -1021,7 +1025,8 @@
         <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Logroño</Settlement>. <zbr/>
     <zbr/> §§§id_10107§§§<zbr/> MELIRUPU, <Concept_Settlement>Pueblo de Indios</Concept_Settlement>
     del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la
-    Cabezera del <Concept_Landmark>río</Concept_Landmark>
+        <Concept_Settlement>Cabezera</Concept_Settlement> del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Cauchupil</Landmark>. <zbr/>
     <zbr/> §§§id_10108§§§<zbr/> MELLAQUI, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>: corre al S entre el
@@ -1235,7 +1240,8 @@
         <Landmark>Sur</Landmark>, enfrente de la <Concept_Landmark>Isleta</Concept_Landmark> llamada
         <Concept_Landmark>Farallón</Concept_Landmark> de <Landmark>Guararé</Landmark>. <zbr/>
     <zbr/> §§§id_10132§§§<zbr/> MENZAPA, San Francisco de)
-        <Concept_Settlement>Pueblo</Concept_Settlement> de la Cabezera de
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Settlement>Cabezera</Concept_Settlement> de
         <Concept_District>Partido</Concept_District> de <Settlement>Tenantitían</Settlement> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Acayuca</Territory> en
         <Territory>Nueva España</Territory>, tiene 73 familias de <humanGroup type="social_group"
@@ -1279,7 +1285,8 @@
     <Landmark>Tinguiririca</Landmark> y el <Concept_Landmark>estero</Concept_Landmark> de
         <Landmark>Chimbarongo</Landmark>, es del
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory>, y está
-    en la Cabezera del <Concept_Landmark>río</Concept_Landmark>
+    en la <Concept_Settlement>Cabezera</Concept_Settlement> del
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Rapél</Landmark>. <zbr/>
     <zbr/> §§§id_10138§§§<zbr/> MERCEDES, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
