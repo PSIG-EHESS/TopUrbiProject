@@ -366,11 +366,12 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, célebre por la circunstancia de haber si##do
-    Cura Doctrinero en él San Luis Beltrán, que reduxo a sus naturales a la Fe Católica, y quedó
-    desde entonces el <Concept_District>Curato</Concept_District> al cuidado de los Religiosos del
-    Orden de Predicadores, hasta que el Obispo Don <persName>Luis Ronquillo de Córdoba</persName> la
-    adjudicó a los Clérigos, sobre que hubo un pleyto muy disputado, y se mandó por el Rey que
-    volviese a aquellos Religiosos. <zbr/>
+    Cura Doctrinero en él <persName>San Luis Beltrán</persName>, que reduxo a sus naturales a la Fe
+    Católica, y quedó desde entonces el <Concept_District>Curato</Concept_District> al cuidado de
+    los <humanGroup type="religious_group">Religiosos del Orden de Predicadores</humanGroup>, hasta
+    que el Obispo Don <persName>Luis Ronquillo de Córdoba</persName> la adjudicó a los Clérigos,
+    sobre que hubo un pleyto muy disputado, y se mandó por el Rey que volviese a aquellos
+    Religiosos. <zbr/>
     <zbr/> §§§id_16850§§§<zbr/> TUBARES, <Concept_Settlement>Pueblo</Concept_Settlement> de las
     Misiones que tenían los Regulares de la Compañía en la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -527,9 +528,9 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Chichas</Territory> confina
     con las dilatadas regiones <zbr/>
     <zbr/> @@@Alcedo_vol_5-0213@@@<zbr/>
-    <zbr/> #del Chaco Gualambá, <Concept_Territory>país</Concept_Territory> inculto y montuoso
-    habitado por diferentes <Concept_Group>naciones bárbaras</Concept_Group>: se extiende el
-        <Landmark>Tucumán</Landmark> desde 22 gr. a 33 1/2, y tiene de largo desde el
+    <zbr/> #del <Territory>Chaco Gualambá</Territory>, <Concept_Territory>país</Concept_Territory>
+    inculto y montuoso habitado por diferentes <Concept_Group>naciones bárbaras</Concept_Group>: se
+    extiende el <Territory>Tucumán</Territory> desde 22 gr. a 33 1/2, y tiene de largo desde el
         <Concept_Landmark>arroyo</Concept_Landmark> de <Landmark>Quiaca</Landmark>, que la divide de
     la de <Territory>Chichas</Territory>, hasta <Settlement>Melinque</Settlement> hacia
         <Territory>Buenos Ayres</Territory> casi 370 leguas que se caminan en carretas, y de ancho
@@ -555,11 +556,11 @@
     tuvo efecto la conquista, y después de algunos sucesos se volvieron al
         <Territory>Perú</Territory>, a tiempo que el Maestre de Campo <persName>Francisco de
         Carbajal</persName> acababa de desbaratar a <persName>Diego de Centeno</persName> en la
-    batalla de <Landmark>Pocona</Landmark>, y hizo lo mismo con ellos. Después que <persName>Pedro
-        de la Gasca</persName> venció a <persName>Gonzalo Pizarro</persName> en
+    batalla de <Settlement>Pocona</Settlement>, y hizo lo mismo con ellos. Después que
+        <persName>Pedro de la Gasca</persName> venció a <persName>Gonzalo Pizarro</persName> en
         <Settlement>Xaquixahuana</Settlement> el año de 1548 dio la conquista del
-        <Landmark>Tucumán</Landmark> a <persName>Juan Núñez de Prado</persName>, que con poco más de
-    80 hombres la empezó el de 1550, fundando cerca de la sierra una
+        <Territory>Tucumán</Territory> a <persName>Juan Núñez de Prado</persName>, que con poco más
+    de 80 hombres la empezó el de 1550, fundando cerca de la sierra una
         <Concept_Settlement>Ciudad</Concept_Settlement> que llamó del
     <Settlement>Barco</Settlement>, en obsequio de <persName>Gasca</persName> que era del
         <Concept_Settlement>Pueblo</Concept_Settlement> de este nombre, cerca de
@@ -579,17 +580,17 @@
         <Concept_Territory>Provincia</Concept_Territory> sujeta al
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>: empadronó y
     reduxo <persName>Aguirre</persName> 47.000 <humanGroup type="indigenous_group"
-        >Juries</humanGroup> y Toconotes, en <Settlement>Santiago</Settlement>,
-        <Concept_Landmark>río</Concept_Landmark>
+        >Juries</humanGroup> y <humanGroup type="indigenous_group">Toconotes</humanGroup>, en
+        <Settlement>Santiago</Settlement>, <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Salado</Landmark> y la <Concept_Landmark>Sierra</Concept_Landmark>, repartiéndolos en
     cinqüenta y seis encomiendas; y <persName>Juan de Zurita</persName>, que le sucedió en el
     gobierno, fundó en el <Concept_Landmark>valle</Concept_Landmark> de
         <Landmark>Calchaqui</Landmark> una <Concept_Settlement>Ciudad</Concept_Settlement>, y otra
     en el <Concept_Landmark>valle</Concept_Landmark> de <Landmark>Conando</Landmark>, 80 leguas al
     SSE, que llamó <Settlement>Londres</Settlement> por obsequio a la Reyna <persName>María de
-        Inglaterra</persName>, que habia casado con <persName>Felipe II</persName>, las quales
-    arruinaron después los <humanGroup type="social_group">Indios</humanGroup> en tiempo del
-    Gobernador <persName>Castañeda</persName>. El temperamento de esta
+        Inglaterra</persName>, que había casado con <persName>Felipe II</persName>, las quales
+    arruinaron después los <Concept_Group>Indios</Concept_Group> en tiempo del Gobernador
+        <persName>Castañeda</persName>. El temperamento de esta
         <Concept_Territory>Provincia</Concept_Territory> es caliente, al paso que se aparta de la
     Zona Tórrida, y se observa que los parages que distan menos de la equinoccial son más fríos,
     porque se va levantando el terreno hasta encontrar la
@@ -648,8 +649,8 @@
     otras de cobre, y hacia los términos que dividen esta
         <Concept_Territory>Provincia</Concept_Territory> de la de <Territory>Atacama</Territory>
     están los de oro de <Landmark>Incahuasi</Landmark> y de <Landmark>Olaros</Landmark>, y en la
-    Puna de la <Concept_Territory>jurisdicción</Concept_Territory> de <Landmark>Xuxuy</Landmark>,
-    donde acu<zbr/>
+        <Landmark>Puna</Landmark> de la <Concept_Territory>jurisdicción</Concept_Territory> de
+        <Territory>Xuxuy</Territory>, donde acu<zbr/>
     <zbr/> @@@Alcedo_vol_5-0216@@@<zbr/>
     <zbr/> #den a trabajar algunos indios de los <Concept_Settlement>Pueblos</Concept_Settlement> de
         <Settlement>Casivinco</Settlement> y <Settlement>Cochinoca</Settlement>, pertenecientes a la
@@ -660,7 +661,7 @@
         <Landmark>Pamariña</Landmark> del <Concept_District>distrito</Concept_District> de
         <Territory>Rioxa</Territory>, que no se trabajan por falta de gente. El comercio principal
     de esta <Concept_Territory>Provincia</Concept_Territory> es el de mulas que conducen de las
-        <Concept_Territory>jurisdicciones</Concept_Territory> de <Landmark>Córdoba</Landmark>,
+        <Concept_Territory>jurisdicciones</Concept_Territory> de <Territory>Córdoba</Territory>,
         <Territory>Santa Fe</Territory> y <Territory>Buenos Ayres</Territory>, compradas a 2, 3 o 4
     pesos, que pasan la invernada en las inmediaciones de <Settlement>Salta</Settlement> para
     engordarlas y fortalecerlas, donde venden cada año de 30 hasta 50.000 de las que son útiles,
@@ -692,16 +693,17 @@
     antemurales algunos <Concept_Settlement>presidios</Concept_Settlement> y
         <Concept_Structure>fortalezas</Concept_Structure> en los parages más expuestos a sus
     invasiones en que se ocupa mucha gente: los que hay al presente son <zbr/>
-    <zbr/> ßßß<zbr/> #<Settlement>Río Negro</Settlement>. <zbr/>
-    <Settlement>Ledesma</Settlement>. <zbr/>
-    <Settlement>Santa Bárbara</Settlement>. <zbr/>
-    <Settlement>El Piquete</Settlement>. <zbr/>
-    <Settlement>San Fernando</Settlement>. <zbr/> ##<Settlement>Piquete segundo</Settlement>.<zbr/>
-    <Settlement>Tunillar</Settlement>. <zbr/>
-    <Settlement>San Luis de los Pitos</Settlement>. <zbr/>
-    <Settlement>Estancia del Rey</Settlement>. <zbr/> ###<Settlement>Balbuena</Settlement>. <zbr/>
-    <Settlement>San Estevan de Miraflores</Settlement>. <zbr/>
-    <Settlement>El Sauce</Settlement>. <zbr/> El fuerte del <Settlement>Tio</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> ßßß<zbr/> #<Structure>Río Negro</Structure>. <zbr/>
+    <Structure>Ledesma</Structure>. <zbr/>
+    <Structure>Santa Bárbara</Structure>. <zbr/>
+    <Structure>El Piquete</Structure>. <zbr/>
+    <Structure>San Fernando</Structure>. <zbr/> ##<Structure>Piquete segundo</Structure>.<zbr/>
+    <Structure>Tunillar</Structure>. <zbr/>
+    <Structure>San Luis de los Pitos</Structure>. <zbr/>
+    <Structure>Estancia del Rey</Structure>. <zbr/> ###<Structure>Balbuena</Structure>. <zbr/>
+    <Structure>San Estevan de Miraflores</Structure>. <zbr/>
+    <Structure>El Sauce</Structure>. <zbr/> El <Concept_Structure>fuerte</Concept_Structure> del
+        <Structure>Tio</Structure>. <zbr/> $$$<zbr/>
     <zbr/> #Los Religiosos de la extinguida Compañía establecieron unas Misiones en que fundaron
     varios <Concept_Settlement>Pueblos</Concept_Settlement> en que tenían 24.000 almas reducidos a
     vida sociable, y que han servido en las entradas que han hecho al <Territory>Chaco</Territory>
@@ -743,7 +745,7 @@
     las carretas: está 600 leguas de <Settlement>Lima</Settlement>, 160 al S de la
         <Settlement>Plata</Settlement>, en 313 gr. 48 min. de long. y en 27 gr. 50 min. de lat. Las
     demás <Concept_Settlement>Poblaciones</Concept_Settlement> son las siguientes. <zbr/>
-    <zbr/> ßßß<zbr/> #CIUDADES. <zbr/>
+    <zbr/> ßßß<zbr/> #___<Concept_Settlement>CIUDADES</Concept_Settlement>___. <zbr/>
     <Settlement>Córdoba</Settlement>. <zbr/>
     <Settlement>Rioxa</Settlement>. <zbr/>
     <Settlement>San Salvador</Settlement>. <zbr/>
@@ -753,13 +755,13 @@
     <Settlement>Salta</Settlement>. <zbr/>
     <Settlement>Balbuena</Settlement>. <zbr/>
     <Settlement>Talavera</Settlement>. <zbr/>
-    <Settlement>Tarija</Settlement>. <zbr/> PUEBLOS. <zbr/>
-    <Concept_Landmark>Río</Concept_Landmark> de <Settlement>Córdoba</Settlement>. <zbr/>
+    <Settlement>Tarija</Settlement>. <zbr/> ___<Concept_Settlement>PUEBLOS</Concept_Settlement>___. <zbr/>
+    <Settlement>Río de Córdoba</Settlement>. <zbr/>
     <Settlement>Altaboyano</Settlement>. <zbr/> ##<Settlement>Saldán</Settlement>. <zbr/>
     <Settlement>Lagunilla</Settlement>. <zbr/>
-    <Concept_Landmark>Río</Concept_Landmark> segundo. <zbr/>
-    <Concept_Landmark>Río</Concept_Landmark> tercero. <zbr/>
-    <Concept_Landmark>Río</Concept_Landmark> quarto. <zbr/>
+    <Settlement>Río segundo</Settlement>. <zbr/>
+    <Settlement>Río tercero</Settlement>. <zbr/>
+    <Settlement>Río quarto</Settlement>. <zbr/>
     <Settlement>Samampa</Settlement>. <zbr/>
     <Settlement>Tulumba</Settlement>. <zbr/>
     <Settlement>Ischilin</Settlement>. <zbr/>
@@ -782,12 +784,11 @@
     <Settlement>Calchaqui</Settlement>. <zbr/>
     <Settlement>Atapsi</Settlement>. <zbr/>
     <Settlement>Cafayate</Settlement>. <zbr/>
-    <zbr/> @@@Alcedo_vol_5-0219@@@<zbr/> #Pulares grande. <zbr/>
+    <zbr/> @@@Alcedo_vol_5-0219@@@<zbr/> #<Settlement>Pulares grande</Settlement>. <zbr/>
     <Settlement>Laratachi</Settlement>. <zbr/> ##<Settlement>Poyogasta</Settlement>. <zbr/>
     <Settlement>Bombolán</Settlement>. <zbr/> ###<Settlement>Quilme</Settlement>. <zbr/>
-    <Settlement>Sicha</Settlement>. <zbr/> $$$<zbr/>
-    <zbr/> #___<Concept_Settlement>Pueblos</Concept_Settlement> de Misiones___<zbr/>
-    <zbr/> ßßß<zbr/> #<Settlement>S. Francisco de Pampas</Settlement>. <zbr/>
+    <Settlement>Sicha</Settlement>. <zbr/> #___<Concept_Settlement>Pueblos</Concept_Settlement> de
+    Misiones___<zbr/> #<Settlement>S. Francisco de Pampas</Settlement>. <zbr/>
     <Settlement>Concepción de Abipones</Settlement>. <zbr/>
     <Settlement>San Ignacio de Tobas</Settlement>. <zbr/>
     <Settlement>Saldán</Settlement>. <zbr/> ##<Settlement>S. Estevan de Miraflores</Settlement>. <zbr/>
@@ -797,48 +798,47 @@
     <Settlement>Nuestra Señora de Pilar de Mecapillo</Settlement>. <zbr/>
     <Settlement>S. Joseph de Petacas</Settlement>. <zbr/> $$$<zbr/>
     <zbr/> #___OBISPOS QUE HA HABIDO EN TUCUMAN.___ <zbr/>
-    <zbr/> ßßß<zbr/> #1 Don Fr. <persName>Gerónimo de <Concept_Settlement>Villa</Concept_Settlement>
-        Carrillo</persName>, del Orden de San Francisco, Comisario General de las
-        <Concept_Territory>Provincias</Concept_Territory> del <Territory>Perú</Territory>, primer
-    Obispo de la iglesia del <Settlement>Tucumán</Settlement> nombrado el año de 1570, pero no
-    admitió. <zbr/> 2 Don Fr. <persName>Gerónimo de Albornoz</persName>, del mismo Orden que el
-    anterior, y también Comisario General, fue nombrado por renuncia de aquel el mismo año de 1570.
-    <zbr/> 3 Don Fr. <persName>Francisco de Victoria</persName>, del Orden de Santo Domingo,
-    Portugués de nación, Maestro y Presentado en su Religión, electo por sus virtudes y literatura
-    el año de 1576, llamó a los Regulares de la Compañía para encargarles la conversión de los
-        <humanGroup type="social_group">Indios</humanGroup>, y entraron cinco del
-        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory> y quatro del
-        <Territory>Perú</Territory>, con que logró reducir al gremio de la Iglesia muchos millares
-    de infieles; pasó con licencia a <Territory>España</Territory>, y murió en su Convento de
-        <Settlement>Atocha</Settlement> en <Settlement>Madrid</Settlement> el año de 1592. <zbr/> 4
-    Don Fr. <persName>Fernando Trexo de Sanabria</persName>, del Orden de San Francisco, natural de
+    <zbr/> ßßß<zbr/> #1 Don Fr. <persName>Gerónimo de Villa Carrillo</persName>, del Orden de San
+    Francisco, Comisario General de las <Concept_Territory>Provincias</Concept_Territory> del
+        <Territory>Perú</Territory>, primer Obispo de la iglesia del <Territory>Tucumán</Territory>
+    nombrado el año de 1570, pero no admitió. <zbr/> 2 Don Fr. <persName>Gerónimo de
+        Albornoz</persName>, del mismo Orden que el anterior, y también Comisario General, fue
+    nombrado por renuncia de aquel el mismo año de 1570. <zbr/> 3 Don Fr. <persName>Francisco de
+        Victoria</persName>, del Orden de Santo Domingo, Portugués de nación, Maestro y Presentado
+    en su Religión, electo por sus virtudes y literatura el año de 1576, llamó a los Regulares de la
+    Compañía para encargarles la conversión de los <humanGroup type="social_group"
+        >Indios</humanGroup>, y entraron cinco del <Concept_Territory>Reyno</Concept_Territory> del
+        <Territory>Brasil</Territory> y quatro del <Territory>Perú</Territory>, con que logró
+    reducir al gremio de la Iglesia muchos millares de infieles; pasó con licencia a
+        <Territory>España</Territory>, y murió en su <Concept_Structure>Convento</Concept_Structure>
+    de <Structure>Atocha</Structure> en <Settlement>Madrid</Settlement> el año de 1592. <zbr/> 4 Don
+    Fr. <persName>Fernando Trexo de Sanabria</persName>, del Orden de San Francisco, natural de
         <Settlement>Lima</Settlement>, célebre Predicador en <Settlement>Potosí</Settlement>, electo
     Provincial, y el primer criollo que tuvo esta Dignidad, nombrado para Obispo del
-        <Settlement>Tucumán</Settlement> el año de 1592, se consagró en
-        <Settlement>Quito</Settlement>, y murió en su Iglesia el de 1614. <zbr/> 5 Don Fr.
-        <persName>Tomás de Torres</persName>, del Orden de Santo Do<zbr/>
-    <zbr/> @@@Alcedo_vol_5-0220@@@<zbr/>
-    <zbr/> #mingo, natural de <Settlement>Madrid</Settlement>, Colegial en su Colegio de
-        <Settlement>San Gregorio de Valladolid</Settlement>, Presentado y Maestro, después de haber
-    leido muchos años Teología en sus Conventos hizo lo mismo con grande aplauso en el de
+        <Territory>Tucumán</Territory> el año de 1592, se consagró en
+    <Settlement>Quito</Settlement>, y murió en su Iglesia el de 1614. <zbr/> 5 Don Fr.
+        <persName>Tomás de Torres</persName>, del <humanGroup type="religious_group">Orden de Santo Do<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0220@@@<zbr/>
+        <zbr/> #mingo</humanGroup>, natural de <Settlement>Madrid</Settlement>, Colegial en su
+    Colegio de San Gregorio de <Settlement>Valladolid</Settlement>, Presentado y Maestro, después de
+    haber leido muchos años Teología en sus Conventos hizo lo mismo con grande aplauso en el de
         <Settlement>Lovayna</Settlement> otros ocho, volvió a <Territory>España</Territory>, y fue
-    Prior en los Conventos de <Settlement>Atocha</Settlement> y <Settlement>Zamora</Settlement>, el
+    Prior en los Conventos de <Structure>Atocha</Structure> y <Settlement>Zamora</Settlement>, el
     Señor Don <persName>Felipe III</persName> le presentó para Obispo del
         <Territory>Paraguay</Territory>, y de esta Iglesia pasó promovido a la del
-        <Settlement>Tucumán</Settlement> el año de 1626, murió en
-        <Settlement>Chuquisaca</Settlement> de un frenesí pasando a <Settlement>Lima</Settlement> al
-    Concilio que se celebraba. <zbr/> 6 Don Fr. <persName>Melchor de Maldonado y
-    Saavedra</persName>, del Orden de San Agustín, natural de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> del <Settlement>Río del Hacha</Settlement>
-    en el <Territory>Nuevo Reyno de Granada</Territory>, pasó a <Territory>España</Territory>, tomó
-    el hábito en <Settlement>Sevilla</Settlement>, estudió en <Settlement>Salamanca</Settlement>, y
-    fue presentado para Obispo del <Settlement>Tucumán</Settlement> el año de 1632; se dedicó con el
-    mayor esmero a la conversión de los <Concept_Group>Indios infieles</Concept_Group>, sobre que
-    escribió con mucho zelo a su Santidad y al Rey; gobernó con grande aplauso y acierto su Iglesia
-    treinta años, y murió el de 1662. <zbr/> 7 Don Fr. <persName>Nicolás de Ulloa</persName>, del
-    Orden de San Agustín, natural de <Settlement>Lima</Settlement>, estudió en su Colegio de esta
+        <Territory>Tucumán</Territory> el año de 1626, murió en <Settlement>Chuquisaca</Settlement>
+    de un frenesí pasando a <Settlement>Lima</Settlement> al Concilio que se celebraba. <zbr/> 6 Don
+    Fr. <persName>Melchor de Maldonado y Saavedra</persName>, del Orden de San Agustín, natural de
+    la <Concept_Settlement>Ciudad</Concept_Settlement> del <Settlement>Río del Hacha</Settlement> en
+    el <Territory>Nuevo Reyno de Granada</Territory>, pasó a <Territory>España</Territory>, tomó el
+    hábito en <Settlement>Sevilla</Settlement>, estudió en <Settlement>Salamanca</Settlement>, y fue
+    presentado para Obispo del <Territory>Tucumán</Territory> el año de 1632; se dedicó con el mayor
+    esmero a la conversión de los <Concept_Group>Indios infieles</Concept_Group>, sobre que escribió
+    con mucho zelo a su Santidad y al Rey; gobernó con grande aplauso y acierto su Iglesia treinta
+    años, y murió el de 1662. <zbr/> 7 Don Fr. <persName>Nicolás de Ulloa</persName>, del Orden de
+    San Agustín, natural de <Settlement>Lima</Settlement>, estudió en su Colegio de esta
         <Concept_Settlement>Ciudad</Concept_Settlement>, fue Provincial, y fundador del Colegio y
-    Universidad Agustiniana, electo Obispo del <Settlement>Tucumán</Settlement> el año de 1603,
+    Universidad Agustiniana, electo Obispo del <Territory>Tucumán</Territory> el año de 1603,
     gobernó su Iglesia con grande acierto y desvelo por la conversión de los indios infieles,
     estimando el de los Regulares Misioneros de la Compañía, y lleno de virtudes murió el año de
     1682. <zbr/> 8 Don <persName>Francisco de Borja</persName> fue electo Obispo de esta Iglesia el
@@ -846,38 +846,36 @@
     Don Fr. <persName>Alonso Pacheco</persName>, del Orden de San Agustín, natural de
         <Settlement>Lima</Settlement>, Provincial en su
         <Concept_Territory>Provincia</Concept_Territory>, fundador del Colegio y Universidad
-    Pontificia Agustiniana, electo Obispo del <Settlement>Tucumán</Settlement>. <zbr/> 10 Don Fr.
+    Pontificia Agustiniana, electo Obispo del <Territory>Tucumán</Territory>. <zbr/> 10 Don Fr.
         <persName>Manuel de Mercadillo</persName>, de quien no tenemos más noticia que la que da el
     P. <persName>Pedro Lozano</persName> en su Historia del <Territory>Chaco</Territory>, y dice que
-    era Obispo del <Settlement>Tucumán</Settlement> el año de 1710. <zbr/>
+    era Obispo del <Territory>Tucumán</Territory> el año de 1710. <zbr/>
     <zbr/> @@@Alcedo_vol_5-0221@@@<zbr/>
     <zbr/> #11 Don <persName>Juan de Laiseca Alvarado</persName>, electo Obispo de esta Iglesia el
     año de 1711, promovido de ella a la de <Territory>Popayán</Territory> antes de tomar posesión, y
     por su vacante presentado. <zbr/> 12 Don <persName>Alonso del Pozo y Silva</persName>, Deán de
     la Iglesia de la <Settlement>Concepción de Chile</Settlement> su patria, Colegial del
-    Convictorio de <Settlement>San Francisco Xavier de esta</Settlement>
-    <Concept_Settlement>Ciudad</Concept_Settlement>, Cura Rector, Canónigo Magistral, Arcediano, y
-    últimamente Deán en su Iglesia, presentado para Obispo del <Territory>Tucumán</Territory> el
-    referido año de 1711, donde vivió con los créditos de limosnero y virtuoso, fue promovido al de
-        <Territory>Santiago</Territory> de <Territory>Chile</Territory> el de 1723. <zbr/> 13 Don
-        <persName>Juan de Sarricolea y Olea</persName>, natural de la
+    Convictorio de San Francisco Xavier de esta <Concept_Settlement>Ciudad</Concept_Settlement>,
+    Cura Rector, Canónigo Magistral, Arcediano, y últimamente Deán en su Iglesia, presentado para
+    Obispo del <Territory>Tucumán</Territory> el referido año de 1711, donde vivió con los créditos
+    de limosnero y virtuoso, fue promovido al de <Territory>Santiago de Chile</Territory> el de
+    1723. <zbr/> 13 Don <persName>Juan de Sarricolea y Olea</persName>, natural de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>León de Guanuco</Settlement>
     en el <Territory>Perú</Territory>, de tan adelantado talento que a la edad de once años defendió
     Conclusiones públicas de Gramática y Retórica en <Settlement>Lima</Settlement>, y de Colegial en
-    el Real Colegio de <Settlement>San Martín</Settlement>; en la Universidad de <Territory>San
-        Marcos</Territory> se graduó de Doctor en Teología, obtuvo tres
-        <Concept_District>Curatos</Concept_District> por oposición, fue Examinador Sinodal del
-        <Concept_Territory>Arzobispado</Concept_Territory>, Calificador del Santo Oficio, y en el
+    el Real Colegio de San Martín; en la Universidad de San Marcos se graduó de Doctor en Teología,
+    obtuvo tres <Concept_District>Curatos</Concept_District> por oposición, fue Examinador Sinodal
+    del <Concept_Territory>Arzobispado</Concept_Territory>, Calificador del Santo Oficio, y en el
     concurso a la Penitenciaria de aquella Metropolitana le promovió el Rey sin ir propuesto; hizo
     varias oposiciones a Cátedras, y ganó las de Nona y Prima en aquella Universidad; fue nombrado
     Obispo del <Territory>Tucumán</Territory> el año de 1724, y promovido a
         <Territory>Santiago</Territory> en <Territory>Chile</Territory> el de 1730. <zbr/> 14 Don
-        <persName>Joseph García Gutiérrez de Cevallos</persName>, Caballero del Orden de
-        <Territory>Santiago</Territory>, Colegial en el Colegio del Rey de Salamanca, que se hallaba
-    de Inquisidor en <Settlement>Lima</Settlement>, fue presentado para Obispo del
-        <Territory>Tucumán</Territory> el año de 1730, y de esta Iglesia promovido a Arzobispo de la
-    Metropolitana de <Settlement>Lima</Settlement> el de 1742. <zbr/> 15 Don <persName>Fernando de
-        la Sota</persName>, nombrado Obispo del <Territory>Tucumán</Territory> el mismo año de 1742,
+        <persName>Joseph García Gutiérrez de Cevallos</persName>, Caballero del Orden de Santiago,
+    Colegial en el Colegio del Rey de Salamanca, que se hallaba de Inquisidor en
+        <Settlement>Lima</Settlement>, fue presentado para Obispo del <Territory>Tucumán</Territory>
+    el año de 1730, y de esta Iglesia promovido a Arzobispo de la Metropolitana de
+        <Territory>Lima</Territory> el de 1742. <zbr/> 15 Don <persName>Fernando de la
+        Sota</persName>, nombrado Obispo del <Territory>Tucumán</Territory> el mismo año de 1742,
     murió a los dos años el de 1744. <zbr/> 16 Don <persName>Pedro de Argandoña</persName>, electo
     el año de 1745, promovido al <Concept_Territory>Arzobispado</Concept_Territory> de
         <Territory>Charcas</Territory> el de 1761. <zbr/> 17 Don <persName>Manuel de Abad y
@@ -886,38 +884,36 @@
     1770. <zbr/>
     <zbr/> @@@Alcedo_vol_5-0222@@@<zbr/>
     <zbr/> #18 Don <persName>Juan Manuel de Moscoso y Peralta</persName>, natural de
-        <Settlement>Arequipa</Settlement>, Colegial en el Real de <Settlement>San
-        Marcos</Settlement>, se ordenó a título de Cura de la
-        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Moquehua</Settlement>, fue
-    Provisor y Vicario General de aquel <Concept_Territory>Obispado</Concept_Territory>, Visitador
-    General en él, Comisario y Juez Apostólico de la Santa Cruzada y de la Inquisición, Calificador
-    de ella, Examinador Sinodal, Canónigo Magistral de la Iglesia de su patria, y luego Tesorero,
-    Maestre Escuela y Arcediano, y con retención de ella nombrado Obispo auxiliar con el título de
-    Tricomi, fue promovido al <Concept_Territory>Obispado</Concept_Territory> del
+        <Settlement>Arequipa</Settlement>, Colegial en el Real de San Marcos, se ordenó a título de
+    Cura de la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Moquehua</Settlement>,
+    fue Provisor y Vicario General de aquel <Concept_Territory>Obispado</Concept_Territory>,
+    Visitador General en él, Comisario y Juez Apostólico de la Santa Cruzada y de la Inquisición,
+    Calificador de ella, Examinador Sinodal, Canónigo Magistral de la Iglesia de su patria, y luego
+    Tesorero, Maestre Escuela y Arcediano, y con retención de ella nombrado Obispo auxiliar con el
+    título de Tricomi, fue promovido al <Concept_Territory>Obispado</Concept_Territory> del
         <Territory>Tucumán</Territory> el referido año de 1770, asistió como sufragáneo al Concilio
-    de la <Territory>Plata</Territory>, y pasó promovido al <Settlement>Cuzco</Settlement> el año de
+    de la <Settlement>Plata</Settlement>, y pasó promovido al <Territory>Cuzco</Territory> el año de
     1778. <zbr/> 19 Don Fr. <persName>Joseph Antonio de San Alberto</persName>, del Orden de
     Carmelitas Descalzos, presentado para Obispo del <Territory>Tucumán</Territory> el mismo año de
     1778, y promovido al <Concept_Territory>Arzobispado</Concept_Territory> de
         <Territory>Charcas</Territory> el de 1784. <zbr/> 20 Don <persName>Angel Mariano Moscoso
         Pérez y Oblitas</persName>, natural de <Settlement>Arequipa</Settlement>, estudió en el
-    Colegio Real de <Settlement>San Bernardo</Settlement> de la
-        <Concept_Settlement>Ciudad</Concept_Settlement> del <Settlement>Cuzco</Settlement> Filosofía
-    y Teología, en cuyas facultades se graduó de Doctor, pasó a <Settlement>Santa Cruz de la
-        Sierra</Settlement> de Secretario del Obispo Don <persName>Fernando Oblitas</persName>,
-    donde se ordenó, y fue destinado al <Concept_District>Curato</Concept_District> de
-        <Settlement>Tarata</Settlement>, que sirvió más de 22 años; edificó de nuevo su Iglesia
-    Parroquial, fabricó otra en el lugar llamado el Paredón, emprendió la conquista y reducción de
-    los <Concept_Group>Indios</Concept_Group>
+    Colegio Real de San Bernardo de la <Concept_Settlement>Ciudad</Concept_Settlement> del
+        <Settlement>Cuzco</Settlement> Filosofía y Teología, en cuyas facultades se graduó de
+    Doctor, pasó a <Settlement>Santa Cruz de la Sierra</Settlement> de Secretario del Obispo Don
+        <persName>Fernando Oblitas</persName>, donde se ordenó, y fue destinado al
+        <Concept_District>Curato</Concept_District> de <Settlement>Tarata</Settlement>, que sirvió
+    más de 22 años; edificó de nuevo su Iglesia Parroquial, fabricó otra en el lugar llamado el
+    Paredón, emprendió la conquista y reducción de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Juracarees</humanGroup>, de quienes formó dos
         <Concept_Settlement>Pueblos</Concept_Settlement> abriendo camino de comunicación a ellos;
     concurrió con el mayor zelo con su persona, gentes, armas y socorros al Exército Real formado
     para restablecer la tranquilidad de aquellas <Concept_Territory>Provincias</Concept_Territory>
     en la sublevación del rebelde <persName>Tupamaro</persName>, cuyos distinguidos servicios hizo
     presente la <Concept_Territory>Real Audiencia</Concept_Territory> Cabildo Secular de
-        <Territory>Charcas</Territory> a S. M., que mandó por dos Reales Ordenes a la Consejo y
+        <Settlement>Charcas</Settlement> a S. M., que mandó por dos Reales Ordenes a la Consejo y
     Cámara de Indias le consultasen para las Prebendas de la Iglesia de
-        <Territory>Charcas</Territory>, y en el año de 1784 fue presentado para este
+        <Settlement>Charcas</Settlement>, y en el año de 1784 fue presentado para este
         <Concept_Territory>Obispado</Concept_Territory>, donde está gobernando con el mayor acierto
     y aceptación.<zbr/> $$$<zbr/>
     <zbr/> §§§id_16873§§§ <zbr/>
@@ -1039,8 +1035,8 @@
         <Concept_Settlement>Ciudad</Concept_Settlement> de este nombre en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Navarra</Territory> que era su
     patria, estaba a la orilla del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Zarbi</Landmark>; pero a poco tiempo de su fundación la destruyeron los <humanGroup
-        type="social_group">Indios</humanGroup>, sin que después se haya pensado en reedificarla,
+    <Landmark>Zarbi</Landmark>; pero a poco tiempo de su fundación la destruyeron los
+        <Concept_Group>Indios</Concept_Group>, sin que después se haya pensado en reedificarla,
     quedando solo las ruinas. <zbr/>
     <zbr/> @@@Alcedo_vol_5-0225@@@<zbr/>
     <zbr/> §§§id_16889§§§<zbr/> #TUESDAI, µµµvéase Santa Mónicaµµµ. <zbr/>
@@ -1066,18 +1062,18 @@
         <Concept_Territory>país</Concept_Territory> de las <Territory>Amazonas</Territory> y parte
     de la <Territory>Guayana</Territory> que tienen los <humanGroup type="political_group"
         >Portugueses</humanGroup>, nace en el <Concept_Territory>territorio</Concept_Territory> de
-    los <humanGroup type="social_group">Indios</humanGroup> de esta
-        <Concept_Group>nación</Concept_Group>, corre al SSE, y entra en el
-        <Landmark>Marañon</Landmark>, entre el de <Landmark>Irari</Landmark> y el de
-        <Landmark>Igarape</Landmark>. <zbr/>
+    los <Concept_Group>Indios</Concept_Group> de esta <Concept_Group>nación</Concept_Group>, corre
+    al SSE, y entra en el <Landmark>Marañon</Landmark>, entre el de <Landmark>Irari</Landmark> y el
+    de <Landmark>Igarape</Landmark>. <zbr/>
     <zbr/> §§§id_16894§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
     nombre en la misma <Concept_Territory>Provincia</Concept_Territory>, situado a la orilla del
         <Concept_Landmark>río</Concept_Landmark> anterior, cerca de la
         <Concept_Landmark>boca</Concept_Landmark> del <Landmark>Marañon</Landmark>. <zbr/>
     <zbr/> §§§id_16895§§§<zbr/> TUI, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de Venezue##la y <Territory>Nuevo Reyno de
-        Granada</Territory>, nace en la <Concept_Landmark>serranía</Concept_Landmark> de su
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezue##la</Territory> y
+        <Territory>Nuevo Reyno de Granada</Territory>, nace en la
+        <Concept_Landmark>serranía</Concept_Landmark> de su
         <Concept_Landmark>Costa</Concept_Landmark>, y corre al NE hasta salir al
         <Concept_Landmark>mar</Concept_Landmark>, cerca de la
         <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Tacarigua</Landmark>. <zbr/>
@@ -1098,8 +1094,8 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Moxos</Territory> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory>; cría mucho
-    pescado de varios géneros y excelente calidad que cogen los <humanGroup type="social_group"
-        >Indios</humanGroup> con abundancia. <zbr/>
+    pescado de varios géneros y excelente calidad que cogen los
+        <Concept_Group>Indios</Concept_Group> con abundancia. <zbr/>
     <zbr/> §§§id_16898§§§<zbr/> TUIGH, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Barbada</Territory>. <zbr/>
     <zbr/> §§§id_16899§§§<zbr/> TUINAITA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
