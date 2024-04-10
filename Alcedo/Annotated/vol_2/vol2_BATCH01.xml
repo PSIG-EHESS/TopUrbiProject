@@ -24,7 +24,7 @@
         <Landmark>Cudaja</Landmark>. <zbr/>
     <zbr/> §§§id_05357§§§ <zbr/> DACARRON, <Concept_Landmark>Bahía</Concept_Landmark> grande y
     cómoda de las <Concept_Landmark>Islas</Concept_Landmark>
-    <Landmark>Maluinas</Landmark> o de <Landmark>Falkland</Landmark>, a la parte del O de la
+    <Territory>Maluinas</Territory> o de <Territory>Falkland</Territory>, a la parte del O de la
     principal, donde poblaron los <humanGroup type="political_group">Franceses</humanGroup> el
         <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Structure>Castillo</Concept_Structure> de <Settlement>S. Luis</Settlement> el año
@@ -87,7 +87,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Darién</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, nace en
     las <Concept_Landmark>sierras</Concept_Landmark> o <Concept_Landmark>montañas</Concept_Landmark>
-    de <Landmark>Abide</Landmark> de la de <Territory>Antioquia</Territory>, corre hacia él N, y
+    de <Landmark>Abide</Landmark> de la de <Territory>Antioquia</Territory>, corre hacia el N, y
     volviendo al O sale al <Concept_Landmark>mar</Concept_Landmark> entre el
         <Concept_Landmark>Puerto</Concept_Landmark> de los <Landmark>Arboletes</Landmark> y el
         <Concept_Landmark>Cerro</Concept_Landmark> del <Landmark>Aguila</Landmark>. <zbr/>
@@ -227,7 +227,7 @@
     excitado el deseo de establecerse en ella los <humanGroup type="political_group"
         >Ingleses</humanGroup> y <humanGroup type="political_group">Franceses</humanGroup>: aquellos
     lo executaron el año de 1699 en el <Concept_Landmark>Puer##to</Concept_Landmark> de la
-        <Settlement>Calidonia</Settlement>, de donde fueron echados por los <humanGroup
+        <Landmark>Calidonia</Landmark>, de donde fueron echados por los <humanGroup
         type="political_group">Españoles</humanGroup>; y los otros empezaron a establecerse el de
     1740, dando principio a las <Concept_Structure>plantaciones</Concept_Structure> de tabaco; pero
     el de 1754 fueron pasados a cuchillo por los <humanGroup type="social_group">Indios</humanGroup>
@@ -245,10 +245,10 @@
     del <Concept_Territory>Reyno</Concept_Territory>, siendo <zbr/>
     <zbr/> @@@Alcedo_vol_2-0006@@@ <zbr/>
     <zbr/> #condición precisa que se reduxesen a
-        <Concept_Settlement>Poblaciones</Concept_Settlement> y admitiesen
-        <Concept_Group>Misioneros</Concept_Group> que los instruyesen en la Religión Católica, a
-    cuyo efecto envió el Virrey de <Territory>Santa Fé</Territory>, que era entonces D.
-        <persName>Sebastián de Eslaba</persName>, dos <Concept_Group>Jesuítas</Concept_Group> de la
+        <Concept_Settlement>Poblaciones</Concept_Settlement> y admitiesen Misioneros que los
+    instruyesen en la Religión Católica, a cuyo efecto envió el Virrey de <Territory>Santa
+        Fé</Territory>, que era entonces D. <persName>Sebastián de Eslaba</persName>, dos
+        <humanGroup type="religious_group">Jesuítas</humanGroup> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Cartagena</Territory> por la
     vanda del N, que fueron los Padres <persName>Salvador Grande</persName> y <persName>Pedro
         Fabro</persName>; y por la del Sur, el Presidente de Panamia, a los Padres <persName>Matías
@@ -377,7 +377,7 @@
         <Concept_Landmark>estrecho</Concept_Landmark> que tiene el mismo nombre. <zbr/>
     <zbr/> §§§id_05393§§§ <zbr/> DAVID, S. Joseph de)
         <Concept_Settlement>Pueblo</Concept_Settlement> del
-        <Concept_District>Partido</Concept_District> de <Settlement>Chiriqui</Settlement> en la
+        <Concept_District>Partido</Concept_District> de <Territory>Chiriqui</Territory> en la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>: fue en
@@ -443,8 +443,8 @@
         <Concept_Landmark>bosques</Concept_Landmark> inmediatos hay una increíble abundancia de
     páxaros de mil especies diferentes: los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Urribaes</humanGroup> que habitan estos
-        <Concept_Landmark>bosques</Concept_Landmark> son <humanGroup>Caribes</humanGroup> y feroces,
-    andan enteramente desnudos hom <zbr/>
+        <Concept_Landmark>bosques</Concept_Landmark> son <Concept_Group>Caribes</Concept_Group> y
+    feroces, andan enteramente desnudos hom <zbr/>
     <zbr/> @@@Alcedo_vol_2-0010@@@ <zbr/>
     <zbr/> #bres y mugeres; estas tienen por gala la disolución, y se entregan a qualquiera hombre
     sin reparar en tiempo ni lugar: está la boca de este <Concept_Landmark>río</Concept_Landmark> en
@@ -539,13 +539,12 @@
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, en medio de
     la <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Seara</Territory>, está
     contigua a la de <Territory>Petaguay</Territory>, y ambas están pobladas de
-        <Concept_Group>Indios</Concept_Group>
-    <Concept_Group>Salvages</Concept_Group>, y de algunos <humanGroup type="political_group"
-        >Portugueses</humanGroup> refugiados allí por delitos; abunda mucho de cañas dulces y palo
-    de <Territory>Brasil</Territory>; el clima, aunque muy cálido, es sano: los <humanGroup
-        type="political_group">Portugueses</humanGroup> no han podido sujetarla a su dominio después
-    de muchas tentativas en que han perdido gran número ##de gente, y desde el año de 1689
-    desistieron del empeño. <zbr/>
+        <Concept_Group>Indios Salvages</Concept_Group>, y de algunos <humanGroup
+        type="political_group">Portugueses</humanGroup> refugiados allí por delitos; abunda mucho de
+    cañas dulces y palo de <Territory>Brasil</Territory>; el clima, aunque muy cálido, es sano: los
+        <humanGroup type="political_group">Portugueses</humanGroup> no han podido sujetarla a su
+    dominio después de muchas tentativas en que han perdido gran número ##de gente, y desde el año
+    de 1689 desistieron del empeño. <zbr/>
     <zbr/> §§§id_05416§§§ <zbr/> DELEC, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
@@ -647,11 +646,12 @@
     derechos por la posesión que gozan: los frutos que dan estas
         <Concept_Structure>haciendas</Concept_Structure> son azúcar, café y algodón que envian a
         <Territory>Europa</Territory>, baxo de las mismas formalidades que los de la
-        <Concept_Territory>Colonia</Concept_Territory> de <Landmark>Esquivo</Landmark>, y anualmente
-    llegan dos navios cargados por cuenta y riesgo de la Compañía en que remiten aquellos sus frutos
-    pagando a esta el flete, que también compra los de aquellos que no quieren arriesgarlo de su
-    cuenta, y lo mismo hacen en las demás <Concept_Territory>Colonias</Concept_Territory>, por lo
-    qual hay en esta un continuo tráfico de embarcaciones menores. <zbr/>
+        <Concept_Territory>Colonia</Concept_Territory> de <Territory>Esquivo</Territory>, y
+    anualmente llegan dos navios cargados por cuenta y riesgo de la Compañía en que remiten aquellos
+    sus frutos pagando a esta el flete, que también compra los de aquellos que no quieren
+    arriesgarlo de su cuenta, y lo mismo hacen en las demás
+        <Concept_Territory>Colonias</Concept_Territory>, por lo qual hay en esta un continuo tráfico
+    de embarcaciones menores. <zbr/>
     <zbr/> §§§id_05424§§§ <zbr/> DEMEVENI, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>País</Concept_Territory> de las <Territory>Amazonas</Territory> en la
@@ -711,7 +711,7 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Pensilvania</Territory>,
     situada a la boca del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Schuillquill</Landmark> y orilla del <Landmark>Delaware</Landmark>, entre las de
-        <Landmark>Chester</Landmark> y <Landmark>Filadelfia</Landmark>. <zbr/>
+        <Territory>Chester</Territory> y <Territory>Filadelfia</Territory>. <zbr/>
     <zbr/> §§§id_05430§§§ <zbr/> Tiene el mismo nombre un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Connecticut</Territory>, una
@@ -808,7 +808,7 @@
     nombre por el deseo que tenían de reconocer tierra, tiene quatro leguas de largo y dos de ancho,
     y está rodeada de <Concept_Landmark>escollos</Concept_Landmark> y
         <Concept_Landmark>peñas</Concept_Landmark>: la parte que mira al N es más baxa que la del
-    Mediodia: tiene muchos <Concept_Landmark>montes</Concept_Landmark> o <Concept_Landmark>medaños
+    Mediodia: tiene muchos <Concept_Landmark>montes</Concept_Landmark> o <Concept_Landmark>médanos
         de arena</Concept_Landmark>, y vista de alguna distancia representa la figura de una galera:
     es de terreno fértil y bien cultivado, y de clima sano: abunda mucho de Higuanas, y de una
     especie de páxaros que llaman fragatas: el P. <persName>Labat</persName> dice que hay en ella
@@ -817,8 +817,8 @@
     tomaron los <humanGroup type="political_group">Ingleses</humanGroup>, que la restituyeron <zbr/>
     <zbr/> @@@Alcedo_vol_2-0017@@@ <zbr/>
     <zbr/> #el siguiente a los <humanGroup type="political_group">Franceses</humanGroup> por la paz
-    de París, y desde entonces la poseen: está 7 leguas de la de <Territory>Marigalante</Territory>,
-    y quatro de la <Settlement>Guadalupe</Settlement>, en 16 gr. 22 min. de lat. bor. <zbr/>
+    de París, y desde entonces la poseen: está 7 leguas de la de <Landmark>Marigalante</Landmark>, y
+    quatro de la <Territory>Guadalupe</Territory>, en 16 gr. 22 min. de lat. bor. <zbr/>
     <zbr/> §§§id_05444§§§ <zbr/> DESEADO, <Concept_Landmark>Puerto</Concept_Landmark> grande y
     cómodo del <Concept_Landmark>mar</Concept_Landmark>
     <Landmark>Magallánico</Landmark> en la <Concept_Landmark>Costa</Concept_Landmark> de los
@@ -834,7 +834,7 @@
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del O de la de
     <Territory>Puerto-rico</Territory>, enfrente de la <Concept_Landmark>punta</Concept_Landmark> de
-        <Landmark>Calvachi</Landmark>, y de la espada de <Landmark>Santo Domingo</Landmark>: los
+        <Landmark>Calvachi</Landmark>, y de la <Landmark>espada de Santo Domingo</Landmark>: los
         <humanGroup type="political_group">Franceses</humanGroup> la llaman de
         <Landmark>Zacheo</Landmark>: está distante 6 leguas de la primera, en 305 gr. de long. y 18
     gr. 10 min. de lat. <zbr/>
@@ -871,7 +871,7 @@
     del <Landmark>S</Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Nicaragua</Territory>, y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>, entre la
-    de <Territory>S. Juan</Territory> y el <Concept_Landmark>Puerto</Concept_Landmark> de la
+    de <Landmark>S. Juan</Landmark> y el <Concept_Landmark>Puerto</Concept_Landmark> de la
         <Landmark>Posesión</Landmark>. <zbr/>
     <zbr/> §§§id_05455§§§ <zbr/> DESPARRAMADERO, <Concept_Landmark>Brazo</Concept_Landmark> del
         <Concept_Landmark>Río</Concept_Landmark>
@@ -1001,8 +1001,8 @@
     <zbr/> §§§id_05478§§§ <zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_District>Parroquia</Concept_District> de la misma
         <Concept_Landmark>Isla</Concept_Landmark>, que es
-        <Concept_District>Curato</Concept_District> de los <humanGroup type="political_group">Padres
-        Capuchinos Franceses</humanGroup>, situado cerca de la
+        <Concept_District>Curato</Concept_District> de los Padres Capuchinos <humanGroup
+        type="political_group">Franceses</humanGroup>, situado cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del O, a orilla de tres
         <Concept_Landmark>riachuelos</Concept_Landmark> que salen, al
         <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
@@ -1063,7 +1063,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> situado
     a orilla de la <Concept_Landmark>laguna</Concept_Landmark>
     <Landmark>Tacarigua</Landmark>, a la parte del N, entre la
-        <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Nirúa</Territory> y el
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Nirúa</Settlement> y el
         <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Guazara</Settlement>. <zbr/>
     <zbr/> §§§id_05490§§§ <zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, situado a
@@ -1075,7 +1075,7 @@
     <zbr/> §§§id_05491§§§ <zbr/> Unos <Concept_Landmark>cayos</Concept_Landmark> o
         <Concept_Landmark>baxos</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark>
     de la <Territory>Florida</Territory>, entre el <Concept_Settlement>presidio</Concept_Settlement>
-    de <Territory>Panzacola</Territory> y el <Concept_Landmark>río</Concept_Landmark>
+    de <Settlement>Panzacola</Settlement> y el <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Misisipi</Landmark>, en que se perdió el año de 1696 una fragata del Rey, que mandaba
     Don <persName>Andrés de Arriola</persName>. <zbr/>
     <zbr/> §§§id_05492§§§ <zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
@@ -1342,7 +1342,7 @@
     especialmente las de <Landmark>Cibóo</Landmark> de las primeras, y de una se sacó un grano o
     pepita de oro que pesaba tres mil y seiscientos castellanos, y se perdió en la desgraciada flota
     que naufragó; el año de 1645 se descubrió una <Concept_Landmark>mina</Concept_Landmark> muy
-    abundante de azogue. Quando se establecieron los <humanGroup>Es##pañoles</humanGroup> estaba tan
+    abundante de azogue. Quando se establecieron los <humanGroup type="political_group">Es##pañoles</humanGroup> estaba tan
     poblada de <humanGroup type="social_group">Indios</humanGroup> que el Obispo de
         <Territory>Chiapa</Territory>, Fr. <persName>Bartolomé de las Casas</persName>, dice ( si su
     cálculo no es exagerado) que tenía más de tres millones, cuyos trabajadores ayudados de los

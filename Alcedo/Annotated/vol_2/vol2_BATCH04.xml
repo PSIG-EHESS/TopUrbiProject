@@ -38,7 +38,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
     del <Landmark>Sur</Landmark>, confina ##con la de <Territory>Popayán</Territory> por el
         <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Usmál</Settlement>, que es la
-    linea divisoria que por el S la separa del <Concept_District>distrito</Concept_District> de
+    línea divisoria que por el S la separa del <Concept_District>distrito</Concept_District> de
         <Territory>Guayaquil</Territory>, por el O con las de <Territory>Quito</Territory> y
         <Territory>Ibarra</Territory>: tiene 56 leguas de largo, goza de diferentes temperamentos, y
     es muy fértil y abundante de toda especie de frutos, siendo los principales de que hace comercio
@@ -118,7 +118,7 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chichas y
         Tarija</Territory> en el <Territory>Perú</Territory>, y del
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory>, anexo
-    al <Concept_District>Curato</Concept_District> del de  <Territory>S. Pablo</Territory> en la de
+    al <Concept_District>Curato</Concept_District> del de <Settlement>S. Pablo</Settlement> en la de
         <Territory>Lipes</Territory>. <zbr/>
     <zbr/> §§§id_05790§§§<zbr/> ESPADA, Punta de) en la Cabeza y
         <Concept_Landmark>Costa</Concept_Landmark> del E de la
@@ -143,11 +143,11 @@
         Lorenzo</Landmark> o <Territory>Canada</Territory> en la
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, hasta la
         <Concept_Territory>Provincia</Concept_Territory> de los <Territory>Apaches</Territory> en la
-        <Concept_Landmark>Costa</Concept_Landmark> de la del <Territory>Sur</Territory>, 1300; y por
+        <Concept_Landmark>Costa</Concept_Landmark> de la del <Landmark>Sur</Landmark>, 1300; y por
     la parte que más se estrecha y forma el <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark>, que es la distancia del
         <Concept_Landmark>Puerto</Concept_Landmark> de <Settlement>Vera Cruz</Settlement> al de
-    Navidad en la <Concept_Landmark>mar</Concept_Landmark> del <Territory>Sur</Territory>, hay 280
+    Navidad en la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>, hay 280
     leguas, formando la tierra en su figura el <Concept_Landmark>Seno</Concept_Landmark> o
         <Concept_Landmark>Golfo</Concept_Landmark> llamado de <Landmark>Campeche</Landmark>, desde
     el <Concept_Landmark>cabo</Concept_Landmark> de la <Landmark>Florida</Landmark> hasta el de
@@ -163,14 +163,14 @@
     <persName>Francisco Fernandez de Córdoba</persName> por la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Yucatán</Territory> el año de
     1515, y lo conquistó, agregándolo a los dominios del Rey de España, el famoso <persName>Hernán
-        Cortés</persName>, <Concept_Landmark>Mar</Concept_Landmark><zbr/>
+        Cortés</persName>, Mar<zbr/>
     <zbr/> @@@Alcedo_vol_2-0079@@@<zbr/>
-    <zbr/> #qués del <Concept_Landmark>Valle</Concept_Landmark>, natural de
-        <Settlement>Medellin</Settlement> en Estremadura, el de 1521: gobiérnase todo él por un
-    Virrey que es Capitán general, cuyo Gobierno se extiende más que ningún Monarca, y en su
+    <zbr/> #qués del Valle, natural de <Settlement>Medellin</Settlement> en
+        <Territory>Estremadura</Territory>, el de 1521: gobiérnase todo él por un Virrey que es
+    Capitán general, cuyo Gobierno se extiende más que ningún Monarca, y en su
         <Concept_District>distrito</Concept_District> tiene un
         <Concept_Territory>Arzobispado</Concept_Territory>, y como sufraganeos de su Metropolitana
-    nueve Obispos, que son <Settlement>Puebla de los Angeles</Settlement>,
+    nueve Obispos, que son <Territory>Puebla de los Angeles</Territory>,
         <Territory>Oaxaca</Territory>, <Territory>Durango</Territory>,
         <Territory>Guatemala</Territory>, <Territory>Mechoacán</Territory>,
         <Territory>Antequera</Territory>, <Territory>Guadalaxara</Territory>,
@@ -290,15 +290,16 @@
     <Territory>Tlaxcala</Territory>.<zbr/>
     <Territory>Tabasco</Territory>.<zbr/> ###<Territory>Tuxtla</Territory>.<zbr/>
     <Territory>Tlapa</Territory>.<zbr/>
-    <Territory>Villalta</Territory>.<zbr/> Villa de <Territory>Xalapa</Territory><zbr/> Villa de
-        <Territory>León</Territory>.<zbr/>
+    <Territory>Villalta</Territory>.<zbr/>
+    <Territory>Villa de Xalapa</Territory><zbr/>
+    <Territory>Villa de León</Territory>.<zbr/>
     <Territory>Valladolid</Territory>.<zbr/>
     <Territory>Villa de Valles</Territory>.<zbr/>
     <Territory>Vera Cruz</Territory>.<zbr/>
     <Territory>Xiquilpan</Territory>.<zbr/>
     <Territory>Xuchimilco</Territory>.<zbr/>
     <Territory>Xicayán</Territory>.<zbr/>
-    <Territory>Xalapa</Territory> de la Feria.<zbr/>
+    <Territory>Xalapa de la Feria</Territory>.<zbr/>
     <Territory>Yahualicá</Territory><zbr/>
     <Territory>Zacualpán</Territory>.<zbr/>
     <Territory>Zapotlán</Territory>.<zbr/>
@@ -311,10 +312,8 @@
     <Territory>Zimatlán</Territory>.<zbr/> $$$ <zbr/> #todas las quales están repartidas en 235
         <Concept_District>Curatos</Concept_District>, y 23
         <Concept_Settlement>Misiones</Concept_Settlement>, muchas de las quales o la mayor parte
-    fundaron y establecieron los <Concept_Group>Regulares</Concept_Group> de la extinguida
-        <humanGroup>Compañía</humanGroup>, y hoy estan a cargo de los
-        <Concept_Group>Religiosos</Concept_Group> de <humanGroup>San Francisco</humanGroup> y de
-        <humanGroup>Santo Domingo</humanGroup>: riegan este
+    fundaron y establecieron los Regulares de la extinguida Compañía, y hoy estan a cargo de los
+    Religiosos de San Francisco y de Santo Domingo: riegan este
         <Concept_Territory>Reyno</Concept_Territory> muchos
         <Concept_Landmark>ríos</Concept_Landmark> muy caudalosos, y otros infinitos menores, nacidos
     de innumerables fuentes: pro##duce frutos de casi todas las regiones del mundo, como trigo,
@@ -349,14 +348,14 @@
     mucho que hacer al valor de los <humanGroup type="political_group">Españoles</humanGroup> en su
     conquista, y aun todavía hay muchas <Concept_Group>Naciones</Concept_Group> y dilatadas
         <Concept_Territory>Provincias</Concept_Territory> que no se han podido reducir, entre
-    quienes viven muchos <Concept_Group>Misioneros Apostólicos</Concept_Group> que cada día van
-    reduciendo a muchos, y extendiendo la Religión a <Concept_Landmark>costa</Concept_Landmark> de
-    inmensos trabajos y fatigas en que han perdido la vida muchos: <zbr/>
+    quienes viven muchos Misioneros Apostólicos que cada día van reduciendo a muchos, y extendiendo
+    la Religión a <Concept_Landmark>costa</Concept_Landmark> de inmensos trabajos y fatigas en que
+    han perdido la vida muchos: <zbr/>
     <zbr/> @@@Alcedo_vol_2-0082@@@<zbr/>
     <zbr/> #este <Concept_Territory>Reyno</Concept_Territory>, a quien los <humanGroup
         type="political_group">Españoles</humanGroup> dieron el nombre de Nueva España por la
     semejanza que hallaron con su <Concept_Territory>país</Concept_Territory> nativo, goza como
-    aquel de diferentes climas frios, calientes y templados: ha padecido varias pestes en que han
+    aquel de diferentes climas fríos, calientes y templados: ha padecido varias pestes en que han
     perecido millares de <Concept_Group>Indios</Concept_Group>, particularmente la del año de 1545
     en que murieron 8000, y en la que experimentó el año de 1756, ##que duró hasta la mitad del
     siguiente, más de dos millones, sin las frequentes epidemias de viruelas que han hecho siempre
@@ -368,21 +367,22 @@
         <Concept_Settlement>Capital</Concept_Settlement> es <Settlement>México</Settlement>.<zbr/>
     <zbr/> ___SERIE DE LOS VIRREYES CAPITANES generales de <Territory>Nueva España</Territory>___.<zbr/>
     <zbr/> ßßß#1 Don <persName>Fernando Cortés</persName>, <persName>Marqués del Valle</persName>,
-    natural de <Settlement>Medellin</Settlement> en Estre madura, fue el primer Gobernador y
-    Justicia mayor de este dilatado Imperio, que conquistó desde el año de 1521 hasta el de 1526 en
-    que fue nombrado para residenciarle Don <persName>Luis Ponce de León</persName>, Corregidor de
-        <Territory>Toledo</Territory>, y por haber muerto a pocos días de su llegada recayó en el
-    Licenciado <persName>Marcos de Aguilar</persName>, que a los dos meses tuvo la misma suerte, y
-    substituyó la residencia en el Tesorero <persName>Alonso de Estrada</persName>, gobernando en
-    compañia del <persName>Marqués del Valle</persName> hasta el año de 1528 que se estableció la
-        <Concept_Territory>Real Audiencia</Concept_Territory>.<zbr/> 2 <persName>Nuño de
-        Guzman</persName>, Gobernador de <Territory>Panuco</Territory>, primer Presidente, gobernó
-    hasta el año de 1530.<zbr/> 3 Don <persName>Sebastián Ramírez de Fuenleal</persName>, Obispo de
-        <Territory>Santo Domingo</Territory>, segundo Presidente nombrado por el singular crédito
-    que tenía de virtud, prudencia y <Concept_Territory>gobierno</Concept_Territory>, se le puede
-    llamar con razón fundador de todo lo bueno que hay en la <Territory>Nueva España</Territory>,
-    mereciendo singulares elogios de todos los autores, y de quien conserva aquel
-        <Concept_Territory>Reyno</Concept_Territory> ilustre me<zbr/>
+    natural de <Settlement>Medellin</Settlement> en <Territory>Estremadura</Territory>, fue el
+    primer Gobernador y Justicia mayor de este dilatado Imperio, que conquistó desde el año de 1521
+    hasta el de 1526 en que fue nombrado para residenciarle Don <persName>Luis Ponce de
+        León</persName>, Corregidor de <Territory>Toledo</Territory>, y por haber muerto a pocos
+    días de su llegada recayó en el Licenciado <persName>Marcos de Aguilar</persName>, que a los dos
+    meses tuvo la misma suerte, y substituyó la residencia en el Tesorero <persName>Alonso de
+        Estrada</persName>, gobernando en compañia del <persName>Marqués del Valle</persName> hasta
+    el año de 1528 que se estableció la <Concept_Territory>Real Audiencia</Concept_Territory>.<zbr/>
+    2 <persName>Nuño de Guzman</persName>, Gobernador de <Territory>Panuco</Territory>, primer
+    Presidente, gobernó hasta el año de 1530.<zbr/> 3 Don <persName>Sebastián Ramírez de
+        Fuenleal</persName>, Obispo de <Territory>Santo Domingo</Territory>, segundo Presidente
+    nombrado por el singular crédito que tenía de virtud, prudencia y
+        <Concept_Territory>gobierno</Concept_Territory>, se le puede llamar con razón fundador de
+    todo lo bueno que hay en la <Territory>Nueva España</Territory>, mereciendo singulares elogios
+    de todos los autores, y de quien conserva aquel <Concept_Territory>Reyno</Concept_Territory>
+    ilustre me<zbr/>
     <zbr/> @@@Alcedo_vol_2-0083@@@<zbr/>
     <zbr/> #moria, conduxo el agua al <Concept_Settlement>barrio</Concept_Settlement> de
         <Settlement>Tlateluco</Settlement>, llamado hoy de <Settlement>Santiago</Settlement>, hizo
@@ -421,9 +421,9 @@
     albarradon por haberse inundado la <Concept_Settlement>Ciudad</Concept_Settlement> en una lluvia
     extraordinaria, en su tiempo llegó por Visitador del
         <Concept_Territory>Reyno</Concept_Territory> el Licenciado <persName>Valderrama</persName>,
-    murió el año de 1564.<zbr/> 6 Don <persName>Gastón de Peralta</persName>, <persName>Marqués de
-        Falces</persName>, entró el año de 1566, fue muy estimado por sus prendas y virtud, libertó
-    al <persName>Marqués del Valle</persName> y a su her<zbr/>
+    murió el año de 1564.<zbr/> 6 Don <persName>Gastón de Peralta</persName>, Marqués de Falces,
+    entró el año de 1566, fue muy estimado por sus prendas y virtud, libertó al <persName>Marqués
+        del Valle</persName> y a su her<zbr/>
     <zbr/> @@@Alcedo_vol_2-0084@@@<zbr/>
     <zbr/> #mano Don Luis de las causas que les habían formado, por lo qual se le llamó a la Corte,
     enviando Pesquisidores que acrisolaron su manejo, duró su gobierno hasta 1568.<zbr/> 7 Don
@@ -435,13 +435,12 @@
         type="indigenous_group">Chichimecas</humanGroup>, y después de haber gobernado con acierto y
     zelo fue promovido al <Concept_Territory>Virreynato</Concept_Territory> del
         <Territory>Perú</Territory> el año de 1576.<zbr/> 8 Don <persName>Lorenzo Suarez de
-        Mendoza</persName>, <persName>Conde de Coruña</persName>, gran Soldado, de genio discreto y
-    afable, gobernó tres años desde 1580 hasta 1583 en que murió, depositaron su cuerpo en la
-    Iglesia de <Settlement> S. Francisco</Settlement>, y después trasladaron sus huesos a
-        <Territory>España</Territory>.<zbr/> 9 Don <persName>Pedro Moya de Contreras</persName>,
-    Arzobispo de <Territory>México</Territory>, nombrado Visitador de la Audiencia, y luego Virrey
-    el año de 1584, gobernó con singular justificación y acierto el de 1585.<zbr/> 10 Don
-        <persName>Alvaro Manrique de Zúñiga</persName>, Marqués de
+        Mendoza</persName>, Conde de Coruña, gran Soldado, de genio discreto y afable, gobernó tres
+    años desde 1580 hasta 1583 en que murió, depositaron su cuerpo en la Iglesia de  S. Francisco, y
+    después trasladaron sus huesos a <Territory>España</Territory>.<zbr/> 9 Don <persName>Pedro Moya
+        de Contreras</persName>, Arzobispo de <Territory>México</Territory>, nombrado Visitador de
+    la Audiencia, y luego Virrey el año de 1584, gobernó con singular justificación y acierto el de
+    1585.<zbr/> 10 Don <persName>Alvaro Manrique de Zúñiga</persName>, Marqués de
         <Concept_Settlement>Villa</Concept_Settlement> Manrique, hermano del <persName>Duque de
         Bexar</persName>, entró en <Settlement>México</Settlement> el referido año, tuvo
     competencias con la <Concept_Territory>Audiencia</Concept_Territory> de
@@ -454,11 +453,10 @@
     Caballero del Orden de Santiago, fue discreto, prudente y zeloso en su gobierno, estableció los
         <Concept_Structure>obrages</Concept_Structure> de sayales y paños, hizo varios decretos en
     favor de los <Concept_Group>Indios</Concept_Group>, y pasó promovido a Virrey del
-        <Territory>Perú</Territory> el año de 1595.<zbr/> 12 Don <persName>Gaspar de
-        Zúñiga</persName>, <persName>Acevedo y Fonseca</persName>, Conde de Monterrey, entró en
-        <Settlement>México</Settlement> el referido año, fue exemplo de virtud y justificación,
-    reduxo por medio de <persName>Juan de Oñate</persName> el nuevo <Settlement>México</Settlement>,
-    envió al <zbr/>
+        <Territory>Perú</Territory> el año de 1595.<zbr/> 12 Don <persName>Gaspar de Zúñiga, Acevedo
+        y Fonseca</persName>, Conde de Monterrey, entró en <Settlement>México</Settlement> el
+    referido año, fue exemplo de virtud y justificación, reduxo por medio de <persName>Juan de
+        Oñate</persName> el <Territory>nuevo México</Territory>, envió al <zbr/>
     <zbr/> @@@Alcedo_vol_2-0085@@@<zbr/>
     <zbr/> #descubrimiento de las <Territory>Californias</Territory> al Capitán <persName>Juan
         Vizcaíno</persName>, intentó doblar el <Concept_Landmark>Cabo</Concept_Landmark>
@@ -466,16 +464,15 @@
         <Concept_Landmark>Puerto</Concept_Landmark> de <Landmark>Monterrey</Landmark>, sosegó la
     sublevación de los <Concept_Group>Indios</Concept_Group> de <Territory>Topia</Territory>, y pasó
     promovido al <Concept_Territory>Virreynato</Concept_Territory> del <Territory>Perú</Territory>
-    el año de 1602.<zbr/> 13 Don <persName>Juan de Mendoza y Luna</persName>, <persName>Marqués de
-            <Concept_Landmark>Montes</Concept_Landmark> Claros</persName>, entró en
-        <Settlement>México</Settlement> el año de 1603, y habiéndose inundado el siguiente la
-        <Concept_Settlement>Ciudad</Concept_Settlement> mandó construir las calzadas de nuestra
-    Señora de Guadalupe y San Christóval, reparó la de San Antonio Abad y el albarradon, hizo
-    limpiar las acequias, empedrar las calles, y principió el aqueducto sobre pillares y arcos, fue
-    promovido al <Concept_Territory>Virreynato</Concept_Territory> del <Territory>Perú</Territory>
-    el año de 1607.<zbr/> 14 Don <persName>Luis de Velasco</persName>, <persName>Marqués de
-        Salinas</persName>, segunda vez tomó el baston el citado año, empezó la fabrica del real
-        <Concept_Landmark>desague</Concept_Landmark> de la
+    el año de 1602.<zbr/> 13 Don <persName>Juan de Mendoza y Luna</persName>, Marqués de Montes
+    Claros, entró en <Settlement>México</Settlement> el año de 1603, y habiéndose inundado el
+    siguiente la <Concept_Settlement>Ciudad</Concept_Settlement> mandó construir las calzadas de
+    nuestra Señora de Guadalupe y San Christóval, reparó la de San Antonio Abad y el albarradon,
+    hizo limpiar las acequias, empedrar las calles, y principió el aqueducto sobre pillares y arcos,
+    fue promovido al <Concept_Territory>Virreynato</Concept_Territory> del
+        <Territory>Perú</Territory> el año de 1607.<zbr/> 14 Don <persName>Luis de
+        Velasco</persName>, Marqués de Salinas, segunda vez tomó el baston el citado año, empezó la
+    fabrica del real <Concept_Landmark>desague</Concept_Landmark> de la
         <Concept_Landmark>laguna</Concept_Landmark>, en su tiempo sucedió la sublevacion de los
         <Concept_Group>Negros</Concept_Group> en <Settlement>Mexico</Settlement> que logró castigar,
     y el año de 1611 fue nombrado Presidente del Real y Supremo Consejo de Indias. <zbr/> 15 Don Fr.
@@ -484,39 +481,36 @@
     meses, en cuyo intermedio hubo un fuerte terremoto que arruinó muchos edificios, por su muerte
     quedó gobernando la Audiencia, y su Oidor más antiguo Don <persName>Pedro Otalora</persName>,
     Ministro de estimable memoria por su virtud y ciencia, hasta el año de 1612 que llegó.<zbr/> 16
-    Don <persName>Diego Fernandez de Córdoba</persName>, <persName>Marqués de
-    Guadalcazar</persName>, Caballero ilustre de <Settlement>Cordoba</Settlement>, de especial
-    talento y manejo, hizo obras públicas muy útiles, y perfeccionó los arcos por donde viene el
-    agua de Santa Fe, pasó promovido al <Concept_Territory>Virreynato</Concept_Territory> del
-        <Territory>Perú</Territory> en 1621, quedando encargada la Audiencia del Gobierno.<zbr/> 17
-    Don <persName>Diego Carrillo de Mendoza y Pimentel</persName>, <persName>Marqués de
-        Gelves</persName>, <persName>Conde de Priego</persName>, entró el año de 1621, tuvo ruidosas
+    Don <persName>Diego Fernandez de Córdoba</persName>, Marqués de Guadalcazar, Caballero ilustre
+    de <Settlement>Cordoba</Settlement>, de especial talento y manejo, hizo obras públicas muy
+    útiles, y perfeccionó los arcos por donde viene el agua de Santa Fe, pasó promovido al
+        <Concept_Territory>Virreynato</Concept_Territory> del <Territory>Perú</Territory> en 1621,
+    quedando encargada la Audiencia del Gobierno.<zbr/> 17 Don <persName>Diego Carrillo de Mendoza y
+        Pimentel</persName>, Marqués de Gelves, Conde de Priego, entró el año de 1621, tuvo ruidosas
     competencias con el Arzo<zbr/>
     <zbr/> @@@Alcedo_vol_2-0086@@@<zbr/>
     <zbr/> #bispo Don <persName>Juan Perez de la Serna</persName>, a que siguió el motin del año de
     1624 en que los sublevados quemaron la carcel poniendo en libertad los reos: la Audiencia se
     abrogó el Gobierno durante 10 meses.<zbr/> 18 Don <persName>Rodrigo Pacheco y Osorio</persName>,
-        <persName>Marqués de Cerralvo</persName>, entró en <Settlement>México</Settlement> el año de
-    1624, y experimentó el de 1629 la terrible inundación que padeció la
-        <Concept_Settlement>Ciudad</Concept_Settlement>, y duró dos años, repitiéndose en los de
-    1631 y 1634, a cuyo remedio acudió con el mayor esmero, hizo la calzada de San Christóval con
-    las compuertas que hoy tiene, para impedir la comunicación de la
-        <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Tezcuco</Landmark> con las demás, y
-    gobernó hasta el año de 1635 que llegó el succesor.<zbr/> 19 Don <persName>Lope Diaz de
-        Armendariz</persName>, <persName>Marqués de Cadereita</persName>, que habia sido varias
-    veces General de Galeones, entró el referido año, y su gobierno fue pacífico y justo, reparó las
-    ruinas de las inundaciones anteriores, continuó el <Concept_Landmark>desague</Concept_Landmark>
-    de <Settlement>Huehuetoca</Settlement>, y estableció la Armada de Barlovento, y terminó el
-    gobierno el año de 1640.<zbr/> 20 Don <persName>Diego López Pacheco</persName>,
-        <persName>Marqués de Villena</persName>, Duque de Escalona, entró el referido año, padeció
-    muchas inquietudes, trabajos y disensiones, volvió a <Territory>España</Territory> el de 1642, y
-    para satisfacción se le mandó volver al <Concept_Territory>Virreynato</Concept_Territory>, y
-    rehusándolo se le dió el de Sicilia.<zbr/> 21 Don <persName>Juan de Palafox y
-    Mendoza</persName>, de la casa de los Marqueses de Ariza, Obispo de la <Territory>Puebla de los
-        Angeles</Territory>, tomó posesión del gobierno el año de 1642, y lo exerció con el acierto
-    que es notorio, y comprueba la carta instrucción que escribió a su succesor el mismo año.<zbr/>
-    22 Don <persName>García Sarmiento y Sotomayor</persName>, <persName>Conde de
-        Salvatierra</persName>, <persName>Marqués del Sobroso</persName>, entró el citado año, fue
+    Marqués de Cerralvo, entró en <Settlement>México</Settlement> el año de 1624, y experimentó el
+    de 1629 la terrible inundación que padeció la <Concept_Settlement>Ciudad</Concept_Settlement>, y
+    duró dos años, repitiéndose en los de 1631 y 1634, a cuyo remedio acudió con el mayor esmero,
+    hizo la calzada de San Christóval con las compuertas que hoy tiene, para impedir la comunicación
+    de la <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Tezcuco</Landmark> con las demás,
+    y gobernó hasta el año de 1635 que llegó el succesor.<zbr/> 19 Don <persName>Lope Diaz de
+        Armendariz</persName>, Marqués de Cadereita, que habia sido varias veces General de
+    Galeones, entró el referido año, y su gobierno fue pacífico y justo, reparó las ruinas de las
+    inundaciones anteriores, continuó el <Concept_Landmark>desague</Concept_Landmark> de
+        <Settlement>Huehuetoca</Settlement>, y estableció la Armada de Barlovento, y terminó el
+    gobierno el año de 1640.<zbr/> 20 Don <persName>Diego López Pacheco</persName>, Marqués de
+    Villena, Duque de Escalona, entró el referido año, padeció muchas inquietudes, trabajos y
+    disensiones, volvió a <Territory>España</Territory> el de 1642, y para satisfacción se le mandó
+    volver al <Concept_Territory>Virreynato</Concept_Territory>, y rehusándolo se le dió el de
+    Sicilia.<zbr/> 21 Don <persName>Juan de Palafox y Mendoza</persName>, de la casa de los
+    Marqueses de Ariza, Obispo de la <Territory>Puebla de los Angeles</Territory>, tomó posesión del
+    gobierno el año de 1642, y lo exerció con el acierto que es notorio, y comprueba la carta
+    instrucción que escribió a su succesor el mismo año.<zbr/> 22 Don <persName>García Sarmiento y
+        Sotomayor</persName>, Conde de Salvatierra, Marqués del Sobroso, entró el citado año, fue
     piadoso, devoto y zeloso del bien público y servicio del Rey, costeó la mayor parte del
     tabernáculo de plata que tiene nuestra Señora de Guadalupe, y fue promovido al
         <Concept_Territory>Virreynato</Concept_Territory> del <Territory>Perú</Territory> en 1648. <zbr/>
@@ -532,14 +526,13 @@
     salteadores de caminos, mandó quemar algunos sodomitas, y hizo voto con todos los Tribunales de
     defender el Misterio de la Purísima Concepción, y en su tiempo se concluyó la Iglesia Catedral,
     fue promovido a Virrey de <Territory>Sicilia</Territory> el año de 1660.<zbr/> 26 Don
-        <persName>Juan de Leiba y de la Cerda</persName>, <persName>Conde de Baños</persName>, entró
-    el mismo año, y después de 4 años de un gobierno apacible volvió a
-    <Territory>España</Territory>, y habiendo enviudado entró Religioso en los Carmelitas Descalzos
-    de <Settlement>Madrid</Settlement>.<zbr/> 27 Don <persName>Diego Osorio Escobar y
-        Llamas</persName>, Obispo de la <Territory>Puebla de los Angeles</Territory>, y Arzobispo
-    electo de <Territory>México</Territory>, gobernó desde el año de 1664 hasta fin del mismo.<zbr/>
-    28 Don <persName>Antonio Sebastián de Toledo</persName>, <persName>Marqués de
-    Mancera</persName>, sugeto de consumada política, en cuyo tiempo rebentó el volcan de
+        <persName>Juan de Leiba y de la Cerda</persName>, Conde de Baños, entró el mismo año, y
+    después de 4 años de un gobierno apacible volvió a <Territory>España</Territory>, y habiendo
+    enviudado entró Religioso en los Carmelitas Descalzos de <Settlement>Madrid</Settlement>.<zbr/>
+    27 Don <persName>Diego Osorio Escobar y Llamas</persName>, Obispo de la <Territory>Puebla de los
+        Angeles</Territory>, y Arzobispo electo de <Territory>México</Territory>, gobernó desde el
+    año de 1664 hasta fin del mismo.<zbr/> 28 Don <persName>Antonio Sebastián de Toledo</persName>,
+    Marqués de Mancera, sugeto de consumada política, en cuyo tiempo rebentó el volcan de
         <Settlement>México</Settlement>, y estuvo arrojando cenizas 4 días, volvió a
         <Territory>España</Territory> el año de 1673.<zbr/> 29 Don <persName>Pedro Nuño Colon de
         Portugal y Castro</persName>, Duque de Veragua, entró en <Settlement>México</Settlement> el
@@ -550,49 +543,47 @@
     renunció el <Concept_Territory>Virreynato</Concept_Territory> el año de 1680. <zbr/>
     <zbr/> @@@Alcedo_vol_2-0088@@@<zbr/>
     <zbr/> #31 Don <persName>Tomás Antonio Manrique de la Cerda y Aragon</persName>, Conde de
-    Paredes, Marqués de la <Concept_Landmark>Laguna</Concept_Landmark>, entró a el gobierno el dicho
-    año de 1680, dio las más activas providencias para socorrer a la <Settlement>Vera
-        Cruz</Settlement> atacada por <persName>Nicolás Agramon</persName> y <persName>Lorenzo
-        Jacome</persName>, sin poder evitar que la saqueasen y robasen, mandó prender y ahorcar a
-    Don <persName>Antonio Benavides</persName>, Marqués de San Vicente, a quien llamaban el Tapado,
-    por fingirse Visitador del <Concept_Territory>Reyno</Concept_Territory>, gobernó hasta
-    1686.<zbr/> 32 Don <persName>Melchor Portocarrero Laso de la Vega</persName>, Conde de la
-    Monclova, Comendador de Zarza en la Orden de Alcántara, llamado
-        <Concept_Landmark>Brazo</Concept_Landmark> de plata porque traía de este metal el derecho
-    que había perdido en una batalla, entró en <Settlement>México</Settlement> el mismo año de 1686,
-    gobernó con suma rectitud, conduxo el agua a San Juan de la Penitencia, y pasó promovido al
+    Paredes, Marqués de la Laguna, entró a el gobierno el dicho año de 1680, dio las más activas
+    providencias para socorrer a la <Settlement>Vera Cruz</Settlement> atacada por <persName>Nicolás
+        Agramon</persName> y <persName>Lorenzo Jacome</persName>, sin poder evitar que la saqueasen
+    y robasen, mandó prender y ahorcar a Don <persName>Antonio Benavides</persName>, Marqués de San
+    Vicente, a quien llamaban el <persName>Tapado</persName>, por fingirse Visitador del
+        <Concept_Territory>Reyno</Concept_Territory>, gobernó hasta 1686.<zbr/> 32 Don
+        <persName>Melchor Portocarrero Laso de la Vega</persName>, Conde de la Monclova, Comendador
+    de Zarza en la Orden de Alcántara, llamado <Concept_Landmark>Brazo</Concept_Landmark> de plata
+    porque traía de este metal el derecho que había perdido en una batalla, entró en
+        <Settlement>México</Settlement> el mismo año de 1686, gobernó con suma rectitud, conduxo el
+    agua a San Juan de la Penitencia, y pasó promovido al
         <Concept_Territory>Virreynato</Concept_Territory> del <Territory>Perú</Territory> el año de
-    1688.<zbr/> 33 Don <persName>Gaspar de la Cerda</persName>, <persName>Sandoval</persName>,
-        <persName>Silva y Mendoza</persName>, Conde de Galve, entró dicho año, en su tiempo se
-    amotinaron los <Concept_Group>Indios</Concept_Group> por falta de maíz, quemaron el Palacio y
-    casas de Cabildo, para cuyo sosiego hizo muchas justicias, prohibió la bebida pulque, a la
-    escasez de granos siguió la peste y tres terremotos, con estas calamidades acabó su gobierno, y
-    volvió a <Territory>España</Territory>.<zbr/> 34 Don <persName>Juan de Ortega
-        Montañés</persName>, Obispo de <Territory>Mechoacán</Territory>, se entregó del gobierno el
-    año de 1696 hasta que llegó el mismo año el propietario.<zbr/> 35 Don <persName>Joseph Sarmiento
-        y Valladares</persName>, Conde de Motezuma y de Tula, tomó posesión el mismo año, y gobernó
-    con crédito hasta el de 1701.<zbr/> 36 Don <persName>Juan de Ortega Montañés</persName>, ya
-    Arzobispo de <Territory>México</Territory>, volvió a tomar el mando segunda vez hasta el año
-    siguiente que llegó.<zbr/> 37 Don <persName>Francisco Fernandez de la Cueva
-    Henriquez</persName>, <persName>Duque de Alburquerque</persName>, <persName>Marqués de
-        Cuellar</persName>, el año de 1702 recibió el Cordón del Toisón de oro de mano del
-    Inquisidor Decano Don <persName>Francisco Deza</persName>, <zbr/>
+    1688.<zbr/> 33 Don <persName>Gaspar de la Cerda, Sandoval, Silva y Mendoza</persName>, Conde de
+    Galve, entró dicho año, en su tiempo se amotinaron los <Concept_Group>Indios</Concept_Group> por
+    falta de maíz, quemaron el Palacio y casas de Cabildo, para cuyo sosiego hizo muchas justicias,
+    prohibió la bebida pulque, a la escasez de granos siguió la peste y tres terremotos, con estas
+    calamidades acabó su gobierno, y volvió a <Territory>España</Territory>.<zbr/> 34 Don
+        <persName>Juan de Ortega Montañés</persName>, Obispo de <Territory>Mechoacán</Territory>, se
+    entregó del gobierno el año de 1696 hasta que llegó el mismo año el propietario.<zbr/> 35 Don
+        <persName>Joseph Sarmiento y Valladares</persName>, Conde de Motezuma y de Tula, tomó
+    posesión el mismo año, y gobernó con crédito hasta el de 1701.<zbr/> 36 Don <persName>Juan de
+        Ortega Montañés</persName>, ya Arzobispo de <Territory>México</Territory>, volvió a tomar el
+    mando segunda vez hasta el año siguiente que llegó.<zbr/> 37 Don <persName>Francisco Fernandez
+        de la Cueva Henriquez</persName>, Duque de Alburquerque, Marqués de Cuellar, el año de 1702
+    recibió el Cordón del Toisón de oro de mano del Inquisidor Decano Don <persName>Francisco
+        Deza</persName>, <zbr/>
     <zbr/> @@@Alcedo_vol_2-0089@@@<zbr/>
     <zbr/> #dedicó el gran Templo de nuestra Señora de Guadalupe, y volvió a
         <Territory>España</Territory> el año de 1710.<zbr/> 38 Don <persName>Fernando de Lancaster
-        Noroña y Silva</persName>, <persName>Duque de Linares</persName>, <persName>Marqués de
-        Valdefuentes</persName>, se manifestó en su gobierno amable, liberal y caritativo en las
-    epidemias que en su tiempo padeció el <Concept_Territory>Reyno</Concept_Territory>, y en un
-    fuerte terremoto que se experimentó, acabó su gobierno el año de 1716, y antes de restituirse a
-        <Territory>España</Territory> murió el siguiente.<zbr/> 39 Don <persName>Baltasar de Zúñiga
-        Guzman</persName>, Sotomayor y Mendoza, Duque de Arion, Marqués de Valero, fundó el
-        <Concept_Structure>Convento</Concept_Structure> de Corpus Christi, recibió de Visitador de
-    la Audiencia a Don <persName>Francisco Garzaron</persName>, Inquisidor de
-        <Settlement>México</Settlement>, fue destinado el año de 1722 a la Presidencia del Consejo
-    de Indias.<zbr/> 40 Don <persName>Juan de Acuña</persName>, Marqués de Casafuerte, Caballero del
-    Orden de Santiago, Comendador de Adelfa en la de <Territory>Alcántara</Territory>, natural de
-        <Settlement>Lima</Settlement>, General de la Artillería, sugeto de relevante mérito en 59
-    años de servicios, acreditado de talento, prudencia, desinterés y constancia, por lo qual
+        Noroña y Silva</persName>, Duque de Linares, Marqués de Valdefuentes, se manifestó en su
+    gobierno amable, liberal y caritativo en las epidemias que en su tiempo padeció el
+        <Concept_Territory>Reyno</Concept_Territory>, y en un fuerte terremoto que se experimentó,
+    acabó su gobierno el año de 1716, y antes de restituirse a <Territory>España</Territory> murió
+    el siguiente.<zbr/> 39 Don <persName>Baltasar de Zúñiga Guzman</persName>, Sotomayor y Mendoza,
+    Duque de Arion, Marqués de Valero, fundó el <Concept_Structure>Convento</Concept_Structure> de
+    Corpus Christi, recibió de Visitador de la Audiencia a Don <persName>Francisco
+        Garzaron</persName>, Inquisidor de <Settlement>México</Settlement>, fue destinado el año de
+    1722 a la Presidencia del Consejo de Indias.<zbr/> 40 Don <persName>Juan de Acuña</persName>,
+    Marqués de Casafuerte, Caballero del Orden de Santiago, Comendador de Adelfa en la de Alcántara,
+    natural de <Settlement>Lima</Settlement>, General de la Artillería, sugeto de relevante mérito
+    en 59 años de servicios, acreditado de talento, prudencia, desinterés y constancia, por lo qual
     mereció el renombre de gran Gobernador, hizo los suntuosos edificios de la aduana y casa de
     moneda, visitó los <Concept_Settlement>presidios</Concept_Settlement> internos, dexó dotada la
     comida de los pobres de la carcel dos veces a la semana, el dote de una huérfana cada año para
@@ -615,13 +606,13 @@
         <Territory>Havana</Territory> el año de 1746, aumentó considerablemente las rentas Reales, y
     volvió a <Territory>España</Territory> el año de 1755, recompensando el Rey su distinguido
     mérito con el grado de Capitán general de Exército.<zbr/> 45 Don <persName>Agustín de Ahumada y
-        Villalon</persName>, <persName>Marqués de las Amarillas</persName>, Caballero del Orden de
-    Santiago, Teniente general de los Reales Exércitos, y Teniente Coronel del Regimiento de
-    Guardias Españolas, Gobernador de la Plaza de Barcelona, gobernó 5 años, hasta el de 1760 que
-    murió, y quedó encargada la Audiencia con su Decano Don <persName>Francisco Chavarri</persName>
-    hasta que llegó.<zbr/> 46 Don <persName>Francisco Cagigal de la Vega</persName>, Caballero del
-    Orden de Santiago, Teniente general de los Reales Exércitos, pasó del
-        <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Havana</Territory>, y
+        Villalon</persName>, Marqués de las Amarillas, Caballero del Orden de Santiago, Teniente
+    general de los Reales Exércitos, y Teniente Coronel del Regimiento de Guardias Españolas,
+    Gobernador de la Plaza de <Settlement>Barcelona</Settlement>, gobernó 5 años, hasta el de 1760
+    que murió, y quedó encargada la Audiencia con su Decano Don <persName>Francisco
+        Chavarri</persName> hasta que llegó.<zbr/> 46 Don <persName>Francisco Cagigal de la
+        Vega</persName>, Caballero del Orden de Santiago, Teniente general de los Reales Exércitos,
+    pasó del <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Havana</Territory>, y
     exerció el <Concept_Territory>Virreynato</Concept_Territory> interinamente hasta que llegó el
     propietario el mismo año, y dio principio a la composición de la plaza mayor.<zbr/> 47 Don
         <persName>Joaquin de Montserrat</persName>, Marqués de Cruillas, Comendador de Veniarres y
@@ -634,14 +625,14 @@
         Francisco de Croix</persName>, Marqués de Croix, natural de <Settlement>Lila</Settlement> en
         <Territory>Flandes</Territory>, Caballero del Orden <zbr/>
     <zbr/> @@@Alcedo_vol_2-0091@@@<zbr/>
-    <zbr/> #de Santiago, Comendador de Molinos y <Concept_Landmark>Laguna</Concept_Landmark> Rota en
-    la de <Territory>Calatrava</Territory>, Capitán general de los Reales Exercitos, y de
-    distinguido mérito en los Cuerpos de Guirdias Walonas, de Guardias de Corps, y en las
-    Comandancias generales de <Territory>Ceulita</Territory>, <Territory>Andalucía</Territory> y
-        <Territory>Galicia</Territory>, entró al <Concept_Territory>Virreynato</Concept_Territory>
-    el año de 1766, y volvió a <Territory>España</Territory> el de 1772.<zbr/> 49 Don
-        <persName>Antonio María Bucareli</persName>, Baylío del Orden de San Juan, Teniente general
-    de los Reales Exercitos, natural de <Settlement>Sevilla</Settlement>, pasó de Gobernador de la
+    <zbr/> #de Santiago, Comendador de Molinos y Laguna Rota en la de Calatrava, Capitán general de
+    los Reales Exercitos, y de distinguido mérito en los Cuerpos de Guirdias Walonas, de Guardias de
+    Corps, y en las Comandancias generales de <Territory>Ceulita</Territory>,
+        <Territory>Andalucía</Territory> y <Territory>Galicia</Territory>, entró al
+        <Concept_Territory>Virreynato</Concept_Territory> el año de 1766, y volvió a
+        <Territory>España</Territory> el de 1772.<zbr/> 49 Don <persName>Antonio María
+        Bucareli</persName>, Baylío del Orden de San Juan, Teniente general de los Reales Exercitos,
+    natural de <Settlement>Sevilla</Settlement>, pasó de Gobernador de la
         <Territory>Havana</Territory> a este <Concept_Territory>Virreynato</Concept_Territory>, que
     sirvió con tanto acierto, integridad y justificación, que ha perpetuado su memoria en aquel
         <Concept_Territory>Reyno</Concept_Territory>, donde murió el año de 1779<zbr/> 50 Don
@@ -690,13 +681,12 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de los <Territory>Ilheos</Territory> en el
         <Territory>Brasil</Territory>, situada a la boca o entrada del
-        <Concept_Landmark>río</Concept_Landmark> de <Territory>Ilheos</Territory>, cerca de la
+        <Concept_Landmark>río</Concept_Landmark> de <Landmark>Ilheos</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark>. <zbr/>
     <zbr/> §§§id_05798§§§<zbr/> Una <Concept_Settlement>Ciudad</Concept_Settlement> que hubo en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Chaco</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>, que arruinaron
-    enteramente los <Concept_Group>Indios</Concept_Group>
-    <Concept_Group>infieles</Concept_Group>. <zbr/>
+    enteramente los <Concept_Group>Indios infieles</Concept_Group>. <zbr/>
     <zbr/> §§§id_05799§§§<zbr/> Un <Concept_Landmark>canal</Concept_Landmark> o
         <Concept_Landmark>angostura</Concept_Landmark> del
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>, el primero
@@ -733,17 +723,18 @@
     destruyeron los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Jiraras</humanGroup> quando se rebelaron el año de 1679. <zbr/>
     <zbr/> §§§id_05806§§§<zbr/> ESPIRITU-CAJA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
-        <Concept_Territory>Provincia</Concept_Territory> Cor<zbr/>
-    <zbr/> @@@Alcedo_vol_2-0093@@@<zbr/>
-    <zbr/> #regimiento de <Territory>Angaraes</Territory> en el <Territory>Perú</Territory>, anexo
-    al <Concept_District>Curato</Concept_District> de <Settlement>Acobamba</Settlement>. <zbr/>
+        <Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>Cor<zbr/>
+        <zbr/> @@@Alcedo_vol_2-0093@@@<zbr/>
+        <zbr/> #regimiento</Concept_Territory> de <Territory>Angaraes</Territory> en el
+        <Territory>Perú</Territory>, anexo al <Concept_District>Curato</Concept_District> de
+        <Settlement>Acobamba</Settlement>. <zbr/>
     <zbr/> §§§id_05807§§§<zbr/> ESPIRITU-SANTO, <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> del
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, una de las
     catorce que le componen, confina por el O con la de <Territory>Puerto Seguro</Territory>, por el
-    E con la del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Geneiro</Landmark>, por el S con las <Concept_Landmark>montañas</Concept_Landmark> y
-        <Concept_Group>Naciones</Concept_Group> de <Concept_Group>Indios</Concept_Group>
+    E con la del <Territory>río Geneiro</Territory>, por el S con las
+        <Concept_Landmark>montañas</Concept_Landmark> y <Concept_Group>Naciones</Concept_Group> de
+        <Concept_Group>Indios</Concept_Group>
     <Concept_Group>Infieles</Concept_Group>, que se interna muy poco, por el N con el
         <Concept_Landmark>mar</Concept_Landmark>, en cuya <Concept_Landmark>Costa</Concept_Landmark>
     tiene 50 leguas de largo, estuvo habitada de los <Concept_Group>Indios</Concept_Group>
@@ -788,7 +779,7 @@
     forman las corrientes sobre aquella <Concept_Landmark>Costa</Concept_Landmark> la agolpan allí:
     su situación es tan ventajosa que si se fortificara, defendería toda la
         <Concept_Territory>Provincia</Concept_Territory>, y facilitaría; el comercio con la
-        <Territory>Vera Cruz</Territory>: los <humanGroup type="political_group"
+        <Settlement>Vera Cruz</Settlement>: los <humanGroup type="political_group"
         >Franceses</humanGroup> mandados por <persName>Roberto de la Sala</persName> se apoderaron
     de ella el año de 1685; poniendole por nombre <Landmark>San Luis</Landmark>, y establecieron en
     ella guarnición francesa, cuya noticia obligó al <persName>Conde de la Monclova</persName>, que
@@ -804,9 +795,8 @@
     más de 40 leguas tierra adentro, no puede servir de defensa a la
         <Concept_Landmark>Bahía</Concept_Landmark> ni a la
         <Concept_Landmark>Costa</Concept_Landmark>, y si solo para contener las incursiones de los
-        <Concept_Group>Indios</Concept_Group>
-    <Concept_Group>infieles</Concept_Group>: esta en 277 gr. 15 min. de long. y en 29 gr. 10 min. de
-    lat. <zbr/>
+        <Concept_Group>Indios infieles</Concept_Group>: esta en 277 gr. 15 min. de long. y en 29 gr.
+    10 min. de lat. <zbr/>
     <zbr/> §§§id_05810§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Cuenca</Territory> en el
@@ -843,8 +833,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Yucatán</Territory>, al S de
-    la de la <Territory>Ascensión</Territory>, enfrente del
-        <Concept_Landmark>baxo</Concept_Landmark>
+    la de la <Landmark>Ascensión</Landmark>, enfrente del <Concept_Landmark>baxo</Concept_Landmark>
     <Landmark>Quitasueños</Landmark>. <zbr/>
     <zbr/> §§§id_05817§§§<zbr/> Un <Concept_Landmark>cabo</Concept_Landmark> o
         <Concept_Landmark>punta de tierra</Concept_Landmark> en la
@@ -881,8 +870,7 @@
         <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en el
         <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>San Lorenzo</Landmark>, entre la
         <Concept_Landmark>ensenada</Concept_Landmark> del <Landmark>Grand Etang</Landmark> o
-        <Concept_Landmark>Estanque</Concept_Landmark>
-    <Landmark>Grande</Landmark>, y la <Concept_Landmark>Isla</Concept_Landmark> de
+        <Landmark>Estanque Grande</Landmark>, y la <Concept_Landmark>Isla</Concept_Landmark> de
         <Landmark>Buenaventura</Landmark>. <zbr/>
     <zbr/> §§§id_05824§§§<zbr/> S. SPRIT o Espíritu Santo, <Concept_Landmark>Isla</Concept_Landmark>
     pequeña cerca de la <Concept_Landmark>Costa</Concept_Landmark> del S de la
@@ -904,17 +892,19 @@
         Minas</Concept_Settlement> de Plata de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Chucuito</Territory> en el
         <Territory>Perú</Territory>, situado en la <Concept_Landmark>Cordillera</Concept_Landmark>,
-    por lo qual es de temperamento muy frío, tiene uno de los minerales más ricos de todo el
+    por lo qual es de temperamento muy frío, tiene uno de los
+        <Concept_Landmark>minerales</Concept_Landmark> más ricos de todo el
         <Concept_Territory>Reyno</Concept_Territory>, que antiguamente dió inmensas riquezas, y hoy
     seria lo mis<zbr/>
     <zbr/> @@@Alcedo_vol_2-0096@@@<zbr/>
     <zbr/> #mo si hubiera gentes y ánimo para empeñarse en sus labores, y aseguran que solo de las
     personas que trabajaban en aquel mineral le tocaban al Obispo cada año 14.000 pesos de la quarta
     funeral; y en prueba de ello basta decir que un vecino ya muy acaudalado queriéndose retirar de
-    este trabajo arrendó a otro su <Concept_Landmark>mina</Concept_Landmark> llamada la fragua, una
-    de las 36 que hay amojonadas allí, en 1.040 pesos al día; sin embargo de lo dicho se saca de
-    estas <Concept_Landmark>minas</Concept_Landmark> mucha plata, pues lavan a 10, a 12 y a 20
-    marcos por caxon, y si desaguaran algunas darían a 120, y aun hasta 500. <zbr/>
+    este trabajo arrendó a otro su <Concept_Landmark>mina</Concept_Landmark> llamada la
+        <Landmark>fragua</Landmark>, una de las 36 que hay amojonadas allí, en 1.040 pesos al día;
+    sin embargo de lo dicho se saca de estas <Concept_Landmark>minas</Concept_Landmark> mucha plata,
+    pues lavan a 10, a 12 y a 20 marcos por caxon, y si desaguaran algunas darían a 120, y aun hasta
+    500. <zbr/>
     <zbr/> §§§id_05828§§§<zbr/> ESQUIMAUX, <Concept_Group>Nación</Concept_Group>
     <Concept_Group>barbara</Concept_Group> y feroz de la <Territory>America
         Septentrional</Territory>, que habita en la parte más oriental de ella, a la otra vanda del
@@ -961,7 +951,8 @@
     reciben de los <humanGroup type="social_group">Europeos</humanGroup>: en el Verano viven en
     cabañas descubiertas al ayre, y en Invierno en cavernas subterráneas: los <humanGroup
         type="political_group">Franceses</humanGroup> han hecho en diferentes ocasiones algunos
-    fuertes y <Concept_Settlement>Pueblos</Concept_Settlement> en sus fronteras, como son
+        <Concept_Structure>fuertes</Concept_Structure> y
+        <Concept_Settlement>Pueblos</Concept_Settlement> en sus fronteras, como son
         <Settlement>Cartier</Settlement>, <Settlement>San Nicolás</Settlement>,
         <Settlement>Chichequedéc</Settlement>, <Settlement>Puerto Nuevo</Settlement>,
         <Settlement>Portobelo</Settlement> etc... con esperanza de civilizarlos y establecer
@@ -974,7 +965,7 @@
     cinco o seis mil <humanGroup type="indigenous_group">Esquimaux</humanGroup>: son tan temibles en
     la <Concept_Landmark>mar</Concept_Landmark> como en tierra, pues con sus canoas, de que hay
     algunas capaces de 30 y de 40 hombres, impiden la pesca del bacalao, de modo que los <humanGroup
-        type="indigenous_group">Maloinos</humanGroup> del N y los <humanGroup type="social_group"
+        type="indigenous_group">Maloinos</humanGroup> del N y los <humanGroup type="political_group"
         >Españoles</humanGroup> de <Settlement>Puerto Chova</Settlement> se ven precisados a armar
     algunas barcas para proteger a sus pescadores, no hacen más que cruzar en
         <Territory>Terranova</Territory> y en el <Concept_Landmark>estrecho</Concept_Landmark> de
