@@ -2,8 +2,8 @@
 <xml>@@@Alcedo_vol_4-0026@@@<zbr/>
     <zbr/> #llos <Concept_Landmark>bosques</Concept_Landmark> a infestar las
         <Concept_Territory>Provincias</Concept_Territory> confinantes, para cuya defensa hay allí un
-    fuerte, llamado <Structure>San Joseph</Structure>, guarnecido de <humanGroup
-        type="political_group">Españoles</humanGroup>.<zbr/>
+        <Concept_Structure>fuerte</Concept_Structure>, llamado <Structure>San Joseph</Structure>,
+    guarnecido de <humanGroup type="political_group">Españoles</humanGroup>.<zbr/>
     <zbr/> §§§id_12103§§§<zbr/> PALORA, <Concept_Landmark>Río</Concept_Landmark> rápido de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Macas</Territory> en el
@@ -153,7 +153,7 @@
     crían muchísimos toros, caballos y mulas, descendientes de los primeros que se llevaron de
         <Territory>España</Territory> al tiempo de la conquista: hay muchas tropas de ellos
     montaraces que al pasar corriendo de unos parages a otros suelen atropellar a los caminantes, y
-    aun las carretas que van de <Territory>Buenos Ayres</Territory> a
+    aun las carretas que van de <Settlement>Buenos Ayres</Settlement> a
         <Settlement>Mendoza</Settlement> en el <Concept_Territory>Reyno</Concept_Territory> de
         <Territory>Chile</Territory>; algunas veces yendo a beber a un
         <Concept_Landmark>río</Concept_Landmark> de los muchos que riegan estas
@@ -247,12 +247,11 @@
     un Hospital, y Monasterio de Religiosas de Santa Clara que padeció mucho como toda la
         <Concept_Settlement>Ciudad</Concept_Settlement> en un terremoto que experimentó el año de
     1644: su <Concept_Territory>jurisdicción</Concept_Territory> se extiende hacia
-        <Territory>Tunja</Territory> 24 leguas, por la parte de <Settlement>Jirón</Settlement> más,
-    y hacia el Oriente y la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San
-        Christóval</Settlement> lo mismo: tiene además del Gobernador un Corregidor de <humanGroup
-        type="social_group">Indios</humanGroup>, y un Alcalde mayor de
-        <Concept_Landmark>Minas</Concept_Landmark>; ha sido patria de Fr. <persName>Francisco
-        Vivar</persName>, del Orden de San Francisco, asombro de ciencia y de virtud desde sus pri<zbr/>
+        <Settlement>Tunja</Settlement> 24 leguas, por la parte de <Settlement>Jirón</Settlement>
+    más, y hacia el Oriente y la <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>San
+        Christóval</Settlement> lo mismo: tiene además del Gobernador un Corregidor de Indios, y un
+    Alcalde mayor de Minas; ha sido patria de Fr. <persName>Francisco Vivar</persName>, del Orden de
+    San Francisco, asombro de ciencia y de virtud desde sus pri<zbr/>
     <zbr/> @@@Alcedo_vol_4-0031@@@<zbr/>
     <zbr/> #meros años: está 60 leguas al NE de <Settlement>Santa Fe</Settlement>, a Levante de
         <Settlement>Velez</Settlement>, a Poniente de <Settlement>Truxilio</Settlement>, y al
@@ -314,9 +313,10 @@
         <Concept_Landmark>istmo</Concept_Landmark> a quien da el nombre, y la divide de la del
         <Territory>Norte</Territory>, al pie de un elevado
         <Concept_Landmark>monte</Concept_Landmark> llamado el <Landmark>Ancón</Landmark>, la fundó
-        <persName>Pedrarias Dávila</persName> el año de 1518 en el parage que hoy se llama
-        <Landmark>Panamá la vieja</Landmark>, que saqueó y quemó el año de 1670 el Pirata Inglés
-        <persName>Juan Morgan</persName>, por cuya razón <zbr/>
+        <persName>Pedrarias Dávila</persName> el año de 1518 en el
+        <Concept_Landmark>parage</Concept_Landmark> que hoy se llama <Landmark>Panamá la
+        vieja</Landmark>, que saqueó y quemó el año de 1670 el Pirata Inglés <persName>Juan
+        Morgan</persName>, por cuya razón <zbr/>
     <zbr/> @@@Alcedo_vol_4-0032@@@<zbr/>
     <zbr/> #la trasladó a distancia de una legua el año siguiente el Sargento General de Batalla Don
         <persName>Antonio Fernandez de Córdoba</persName>, y dio principio a su fortificación Don
@@ -339,7 +339,7 @@
     extinguió el de 1752, quedando un Gobernador Militar y Teniente de Rey: hoy está reducida esta
         <Concept_Settlement>Ciudad</Concept_Settlement> opulenta a una miserable
         <Concept_Settlement>población</Concept_Settlement> arruinada por la falta de comercio desde
-    que se extinguieron los galeones que iban a <Settlement>Tierra-Firme</Settlement>, y por los
+    que se extinguieron los galeones que iban a <Territory>Tierra-Firme</Territory>, y por los
     incendios que ha padecido en los años de 1737 y 1756, a que ha estado expuesta siempre por ser
     sus edificios de madera primorosamente labrados, a excepción de algunos como la Catedral que es
     de piedra y de magnífica arquitectura: el temperamento de esta
@@ -369,7 +369,7 @@
     ellas una estrella que denotaba el polo ártico, y en la orla del escudo castillos y leones: es
     patria del P. <persName>Agustín Hurtado</persName>, de la extinguida Compañía, muerto en el
         <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement>Gayes</Settlement> de las
-    Misiones de <Settlement>Mainas</Settlement> a manos de los <humanGroup type="social_group"
+    Misiones de <Territory>Mainas</Territory> a manos de los <humanGroup type="social_group"
         >Indios</humanGroup> predicándoles la Fe el año de 1688, y del P. <persName>Ignacio de
         Cáceres</persName> su compañero: está en 82 gr. 5 min. 14 seg. de long. occid. y en 8 gr. 57
     min. 48 seg. de lat. sept. <zbr/>
@@ -399,7 +399,7 @@
         <Territory>Panamá</Territory> el año de 1530 renunció el
         <Concept_Territory>Obispado</Concept_Territory> el año de 1537, y murió en su patria el año
     de 1551.<zbr/> 6 Don Fr. <persName>Vicente de Peraza</persName>, del Orden de Santo Domingo,
-    Colegial en el Colegio de <Settlement>San Gregorio de Valladolid</Settlement>, de quien no
+    Colegial en el Colegio de San Gregorio de <Settlement>Valladolid</Settlement>, de quien no
     tenemos más noticia que la que da <persName>Gil González Dávila</persName>, y sacó de Fr.
         <persName>Alonso Fernandez</persName>, que dice era Obispo el año de 1540. <zbr/> 7 Don Fr.
         <persName>Pablo de Torres</persName>, del Orden de Santo Domingo, y no de San Gerónimo, como
@@ -419,11 +419,11 @@
     <zbr/> #Iglesia de <Settlement>Lima</Settlement>, el año de 1587, fue el primero que hizo la
     Visita, y pasando promovido a <Territory>Santa Fe</Territory> en 1593 murió en
         <Settlement>Cartagena</Settlement>. <zbr/> 12 Don <persName>Pedro Duque de
-    Ribera</persName>, Colegial del Colegio de <Settlement>Santa María de Jesús de
-        Sevilla</Settlement>, y Dean de la Iglesia de <Settlement>Santo Domingo</Settlement>, electo
-    Obispo de <Territory>Panamá</Territory> el año de 1594, murió también en
-        <Settlement>Cartagena</Settlement> estando para embarcarse a tomar posesión. <zbr/> 13 Don
-        <persName>Antonio Calderón</persName>, Dean de la Santa Iglesia de <Territory>Santa
+    Ribera</persName>, Colegial del Colegio de Santa María de Jesús de
+        <Settlement>Sevilla</Settlement>, y Dean de la Iglesia de <Settlement>Santo
+        Domingo</Settlement>, electo Obispo de <Territory>Panamá</Territory> el año de 1594, murió
+    también en <Settlement>Cartagena</Settlement> estando para embarcarse a tomar posesión. <zbr/>
+    13 Don <persName>Antonio Calderón</persName>, Dean de la Santa Iglesia de <Territory>Santa
         Fe</Territory>, Obispo de <Territory>Puerto-rico</Territory>, promovido a la Iglesia de
         <Territory>Panamá</Territory> el año de 1599, fundó en ella una Misa de la Virgen todos los
     Sábados, y otra de la Pasión de Christo los Viernes, fue promovido al
@@ -434,21 +434,20 @@
     fue electo Obispo de <Territory>Panamá</Territory>, donde tomó posesión el año de 1608, consagró
     las campanas de su Iglesia, fundó el Colegio de San Agustín con seis Colegiales según el
     Concilio Tridentino para servicio de la Catedral, fue promovido al
-        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Gua manga</Territory> el año
-    de 1612. <zbr/> 15 Don Fr. <persName>Francisco de la Cámara</persName>, del Orden de
+        <Concept_Territory>Obispado</Concept_Territory> de <Territory>Guamanga</Territory> el año de
+    1612. <zbr/> 15 Don Fr. <persName>Francisco de la Cámara</persName>, del Orden de
         <Settlement>Santo Domingo</Settlement>, pasó a la <Territory>América</Territory> de
     Visitador de las <Concept_Territory>Provincias</Concept_Territory> de
         <Territory>Quito</Territory> y <Territory>Chile</Territory>, y concluida la Visita fue
-    presentado para Obispo de <Territory>Panamá</Territory>, deque tomó posesión en 1614, celebró el
-    primer Sínodo que se tuvo en aquella Iglesia el de 1620, dotó renta para dos Colegiales más en
-    el Colegio de <Settlement>San Agustín</Settlement> y 300 pesos fuertes para que en el Colegio de
-    los Regulares de la Compañía se leyesen casos de conciencia, dio 4.000 pesos para la fábrica de
-    la Catedral que empezó, dotó asimismo dos Capellanes de <Settlement>Coro</Settlement>, y murió
-    el año de 1624. <zbr/> 16 Don Fr. <persName>Christóval Martínez de Salas</persName>, Canónigo
-    Premonstratense, natural de <Settlement>Medini del Campo</Settlement>, Difinidor de su Orden,
-    Abad del Convento de <Settlement>Sego</Settlement><zbr/>
-    <zbr/> @@@Alcedo_vol_4-0036@@@<zbr/>
-    <zbr/> #via, Rector del Colegio de <Settlement>Santa Susana</Settlement> en
+    presentado para Obispo de <Territory>Panamá</Territory>, de que tomó posesión en 1614, celebró
+    el primer Sínodo que se tuvo en aquella Iglesia el de 1620, dotó renta para dos Colegiales más
+    en el Colegio de San Agustín y 300 pesos fuertes para que en el Colegio de los Regulares de la
+    Compañía se leyesen casos de conciencia, dio 4.000 pesos para la fábrica de la Catedral que
+    empezó, dotó asimismo dos Capellanes de Coro, y murió el año de 1624. <zbr/> 16 Don Fr.
+        <persName>Christóval Martínez de Salas</persName>, Canónigo Premonstratense, natural de
+        <Settlement>Medina del Campo</Settlement>, Difinidor de su Orden, Abad del Convento de <Settlement>Sego<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0036@@@<zbr/>
+        <zbr/> #via</Settlement>, Rector del Colegio de Santa Susana en
         <Settlement>Salamanca</Settlement>, y Visitador General de su Orden, presentado por el Rey
     Don <persName>Felipe IV</persName> para el <Concept_Territory>Obispado</Concept_Territory> de
         <Territory>Panamá</Territory> el año de 1625, era muy religioso, pacífico y asistente al
@@ -458,10 +457,10 @@
     de <Settlement>Arroyo del Puerco</Settlement> en el
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Coria</Territory>, estudió
     Artes y Teología en <Settlement>Salamanca</Settlement>, fue Vicario y Predicador del Convento de
-        <Settlement>Nuestra Señora de las Virtudes</Settlement>, Procurador General de su Orden en
-    la Corte, Ministro de los Conventos de <Settlement>Toledo</Settlement>, <Territory>Fuente
-        Santa</Territory>, <Settlement>Alcalá</Settlement> y Talavera, Comisario y Visitador de las
-        <Concept_Territory>Provincias</Concept_Territory> de <Territory>Aragón</Territory>,
+    Nuestra Señora de las Virtudes, Procurador General de su Orden en la Corte, Ministro de los
+    Conventos de <Settlement>Toledo</Settlement>, <Settlement>Fuente Santa</Settlement>,
+        <Settlement>Alcalá</Settlement> y <Settlement>Talavera</Settlement>, Comisario y Visitador
+    de las <Concept_Territory>Provincias</Concept_Territory> de <Territory>Aragón</Territory>,
         <Territory>Cataluña</Territory> y <Territory>Valencia</Territory>, Provincial y Vicario
     General en la de <Territory>Castilla</Territory>, electo Obispo de <Territory>Panamá</Territory>
     el año de 1640, entró a tomar posesión el de 1643, en su tiempo se quemó la
@@ -483,17 +482,17 @@
     promovido al <Concept_Territory>Obispado</Concept_Territory> de <Territory>Truxillo</Territory>
     el año de 1677, habiendo exercido in<zbr/>
     <zbr/> @@@Alcedo_vol_4-0037@@@<zbr/>
-    <zbr/> #terinamente la Presidencia y <Concept_Territory>Capitanía</Concept_Territory> General
-    por orden del Rey. <zbr/> 22 Don <persName>Lucas Fernandez de Piedrahita</persName>, natural de
-        <Territory>Santa Fe</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>,
-    Racionero y Canónigo de esta Santa Iglesia, Tesorero Maestre-Escuela y Chantre en ella, Obispo
-    de <Territory>Santa Marta</Territory>, promovido a <Settlement>Panamá</Settlement> el año de
-    1682 murió el de 1688. <zbr/> 23 Don <persName>Diego Ladrón de Guevara</persName>, Colegial
-    mayor en el Real de <Settlement>Alcalá</Settlement>, Canónigo de las Catedrales de
+    <zbr/> #terinamente la Presidencia y Capitanía General por orden del Rey. <zbr/> 22 Don
+        <persName>Lucas Fernandez de Piedrahita</persName>, natural de <Territory>Santa
+        Fe</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, Racionero y Canónigo de
+    esta Santa Iglesia, Tesorero Maestre-Escuela y Chantre en ella, Obispo de <Territory>Santa
+        Marta</Territory>, promovido a <Territory>Panamá</Territory> el año de 1682 murió el de
+    1688. <zbr/> 23 Don <persName>Diego Ladrón de Guevara</persName>, Colegial mayor en el Real de
+        <Settlement>Alcalá</Settlement>, Canónigo de las Catedrales de
         <Settlement>Sigüenza</Settlement> y <Settlement>Málaga</Settlement> por oposición,
     presentado para el <Concept_Territory>Obispado</Concept_Territory> de
         <Settlement>Panamá</Settlement> el año de 1689, y promovido al de
-        <Settlement>Guamanga</Settlement> el de 1699 fue Presidente interino. <zbr/> 24 Don Fr.
+        <Territory>Guamanga</Territory> el de 1699 fue Presidente interino. <zbr/> 24 Don Fr.
         <persName>Juan de Arguelles</persName>, del Orden de S. Agustín, natural de
         <Settlement>Lima</Settlement>, Religioso muy justificado, electo Obispo de
         <Territory>Panamá</Territory> el año de 1699, hizo un informe al Rey dando cuenta de los
@@ -505,7 +504,7 @@
         <Territory>Zacatecas</Territory> en <Territory>Nueva España</Territory>, donde fue Lector de
     Teología y Guardian dos veces de su Convento, volvió a <Territory>España</Territory> de
     Procurador General, y fue electo Obispo de <Territory>Panamá</Territory>, y después promovido a
-    la Iglesia de <Settlement>Oaxaca</Settlement>, y antes de tomar posesión a la de
+    la Iglesia de <Territory>Oaxaca</Territory>, y antes de tomar posesión a la de
         <Territory>Guadalaxara</Territory>.<zbr/> 26 Don Fr. <persName>Juan Joseph de Llamas y
         Rivas</persName>, del Orden del Carmen Calzado, natural de <Settlement>Murcia</Settlement>,
     Provincial de su Orden en la <Concept_Territory>Provincia</Concept_Territory> de
@@ -514,14 +513,14 @@
         <Concept_Territory>Reyno</Concept_Territory> el año de 1716. <zbr/> 27 Don Fr.
         <persName>Bernardo Serrada</persName>, del Orden de Nuestra Señora del Carmen Calzado,
     Provincial en su Religión, electo Obispo de <Territory>Panamá</Territory> el año de 1720, fue
-    promovido al <Settlement>Cuzco</Settlement> el de 1725. <zbr/> 28 Don <persName>Agustín
+    promovido al <Territory>Cuzco</Territory> el de 1725. <zbr/> 28 Don <persName>Agustín
         Rodriguez</persName>, Cura de <Settlement>Hortaleza</Settlement> en el
         <Concept_Territory>Obispado</Concept_Territory> de <Territory>Toledo</Territory>, electo el
-    referido año de 1725 promovido a la <Settlement>Paz</Settlement> el de 1731. <zbr/>
+    referido año de 1725 promovido a la <Territory>Paz</Territory> el de 1731. <zbr/>
     <zbr/> @@@Alcedo_vol_4-0038@@@<zbr/>
     <zbr/> #29 Don <persName>Pedro Morcillo</persName> pasó de Obispo auxiliar de
         <Settlement>Lima</Settlement> a <Territory>Panamá</Territory> el año de 1732, murió el de
-    1741. <zbr/> 30 Don Fr. <persName>Diego de Salinas</persName>, y Cabrera, del Orden de San
+    1741. <zbr/> 30 Don Fr. <persName>Diego de Salinas, y Cabrera</persName>, del Orden de San
     Agustín, electo el mismo año, renunció, y no quiso admitir. <zbr/> 31 Don <persName>Juan de
         Castañeda</persName>, Arcediano de la Santa Iglesia Catedral del
         <Settlement>Cuzco</Settlement>, entró de Obispo en <Territory>Panamá</Territory> el año de
@@ -530,15 +529,15 @@
         <Territory>Panamá</Territory> el año de 1750, renunció. <zbr/> 33 Don <persName>Francisco
         Xavier de Luna y Victoria</persName>, natural de la mhma
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Panamá</Territory>, insigne
-    limosnero y bienhechor, fundador de la Universidad de <Territory>San Xavier</Territory> en el
-    Colegio de los Regulares de la Compañía, presentado para Obispo de su patria el año de 1751,
-    promovido a <Settlement>Truxillo</Settlement> en el <Territory>Perú</Territory> el de 1759.
-    <zbr/> 34 Don <persName>Manuel de Romani y Carrillo</persName>, natural de
+    limosnero y bienhechor, fundador de la Universidad de San Xavier en el Colegio de los Regulares
+    de la Compañía, presentado para Obispo de su patria el año de 1751, promovido a
+        <Territory>Truxillo</Territory> en el <Territory>Perú</Territory> el de 1759. <zbr/> 34 Don
+        <persName>Manuel de Romani y Carrillo</persName>, natural de
         <Settlement>Guamanga</Settlement>, electo, el año de 1759, promovido al
-        <Settlement>Cuzco</Settlement> el de 1763. <zbr/> 35 Don <persName>Miguel Moreno y
+        <Territory>Cuzco</Territory> el de 1763. <zbr/> 35 Don <persName>Miguel Moreno y
         Olio</persName>, natural de <Territory>Panamá</Territory>, Canónigo de su Santa Iglesia,
     Comisario del Tribunal de Inquisición de <Territory>Cartagena</Territory>, electo Obispo el año
-    de 1763, promovido a <Settlement>Guamanga</Settlement> el de 1770. <zbr/> 36 Don Fr.
+    de 1763, promovido a <Territory>Guamanga</Territory> el de 1770. <zbr/> 36 Don Fr.
         <persName>Francisco de los Ríos</persName>, del Orden de San Francisco, electo el referido
     año Obispo de <Territory>Panamá</Territory>, murió el de 1777. <zbr/> 37 Don <persName>Joseph
         Antonio Umeres de Miranda</persName>, Inquisidor del Santo Tribunal de la Fe en
@@ -553,8 +552,8 @@
     <zbr/> @@@Alcedo_vol_4-0039@@@<zbr/>
     <zbr/> #bargo de las grandes cosas que hizo obscureció su gloria el haber mandado cortar la
     cabeza por pasiones a <persName>Vasco Nuñez de Balboa</persName> en el
-        <Territory>Darién</Territory>, y a Francisco Fernandez de <Settlement>Córdoba</Settlement>
-    en <Territory>Nicaragua</Territory>, gobernó hasta el año de 1526 que llegó su succesor. <zbr/>
+        <Territory>Darién</Territory>, y a <persName>Francisco Fernandez de Córdoba</persName> en
+        <Territory>Nicaragua</Territory>, gobernó hasta el año de 1526 que llegó su succesor. <zbr/>
     2 Don <persName>Pedro de los Ríos</persName>, natural de <Settlement>Córdoba</Settlement>,
     nombrado por las quexas y clamores contra el anterior, por muerte del Licenciado <persName>Lope
         de Sosa</persName>, también de <Settlement>Córdoba</Settlement>, que fue nombrado primero, y
@@ -580,7 +579,7 @@
         <Settlement>Sevilla</Settlement>, que con título de Corregidor de
         <Territory>Panamá</Territory> fue nombrado por el Rey para gobernarla, en cuyo tiempo
     sucedieron las tragedias y robos que hizo <persName>Hernando Bachicao</persName>, Capitán de
-        <persName>Gonzalo Pizarro</persName>, para cuyo remedio le nombro la Audiencia y el Cabildo
+        <persName>Gonzalo Pizarro</persName>, para cuyo remedio le nombró la Audiencia y el Cabildo
     Capitán General. <zbr/>
     <zbr/> @@@Alcedo_vol_4-0040@@@<zbr/>
     <zbr/> #7 El Licenciado Don <persName>Pedro Ramirez de Quiñones</persName>, primer Presidente
@@ -601,21 +600,21 @@
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory>, y Plaza
     de Armas la <Concept_Settlement>Ciudad</Concept_Settlement> de <Territory>Panamá</Territory> su
         <Concept_Settlement>Capital</Concept_Settlement>, murió el año de 1594. <zbr/> 11 Don
-        <persName>Juan del <Concept_Settlement>Barrio</Concept_Settlement> Sepulveda</persName>,
-    Oidor Decano de la <Concept_Territory>Real Audiencia</Concept_Territory>, quedó encargado
-    interinamente del gobierno por muerte del anterior, y lo estaba exerciendo quando llegó.<zbr/>
-    12 Don <persName>Alonso de Sotomayor y Andia</persName>, Marqués de Valparaíso, Comendador de
-    Villamayor en la Orden de Santiago, natural de <Settlement>Truxillo</Settlement> en
-        <Territory>Estremadura</Territory>, Oficial de grandes créditos en
-        <Territory>Flandes</Territory> y en <Territory>Chile</Territory>, donde había gobernado con
-    sumo acierto y gloria de las armas del Rey, se bailaba en <Territory>Lima</Territory> para
-    restituirse a <Territory>Europa</Territory> quando le nombró Presidente de
-        <Territory>Panamá</Territory> el Virrey <persName>Marqués de Cañete</persName>, para
-    defender el <Concept_Territory>Reyno</Concept_Territory> de un Armamento Inglés que se temía ser
-    para allí, como sucedió, logrando con tan acertada elección su defensa, y la derrota total de
-    los enemigos, gobernó hasta el año de 1596 que pasó a <Territory>España</Territory>. <zbr/> 13
-    El referido <persName>Juan del <Concept_Settlement>Barrio</Concept_Settlement>
-        Sepulveda</persName>, Oidor Decano de la Audiencia, volvió a encargarse del go<zbr/>
+        <persName>Juan del Barrio Sepulveda</persName>, Oidor Decano de la <Concept_Territory>Real
+        Audiencia</Concept_Territory>, quedó encargado interinamente del gobierno por muerte del
+    anterior, y lo estaba exerciendo quando llegó.<zbr/> 12 Don <persName>Alonso de Sotomayor y
+        Andia</persName>, Marqués de Valparaíso, Comendador de Villamayor en la Orden de Santiago,
+    natural de <Settlement>Truxillo</Settlement> en <Territory>Estremadura</Territory>, Oficial de
+    grandes créditos en <Territory>Flandes</Territory> y en <Territory>Chile</Territory>, donde
+    había gobernado con sumo acierto y gloria de las armas del Rey, se bailaba en
+        <Territory>Lima</Territory> para restituirse a <Territory>Europa</Territory> quando le
+    nombró Presidente de <Territory>Panamá</Territory> el Virrey <persName>Marqués de
+        Cañete</persName>, para defender el <Concept_Territory>Reyno</Concept_Territory> de un
+    Armamento Inglés que se temía ser para allí, como sucedió, logrando con tan acertada elección su
+    defensa, y la derrota total de los enemigos, gobernó hasta el año de 1596 que pasó a
+        <Territory>España</Territory>. <zbr/> 13 El referido <persName>Juan del
+            <Concept_Settlement>Barrio</Concept_Settlement> Sepulveda</persName>, Oidor Decano de la
+    Audiencia, volvió a encargarse del go<zbr/>
     <zbr/> @@@Alcedo_vol_4-0041@@@<zbr/>
     <zbr/> #bierno interinamente hasta el año de 1601 que volvió <zbr/> 14 El mismo Don
         <persName>Alonso de Sotomayor</persName>, nombrado por el Rey en consideración de su
@@ -634,54 +633,52 @@
         <persName>Alvaro de Quiñones Osorio</persName>, Caballero del Orden de Santiago, Marqués de
     Lorenzana, gobernó hasta el año de 1632 que pasó promovido a la Presidencia de
         <Territory>Guatemala</Territory>. <zbr/> 18 Don <persName>Sebastián Hurtado de
-        Corcuera</persName> pasó promovido de la Presidencia y
-        <Concept_Territory>Capitanía</Concept_Territory> General de las
+        Corcuera</persName> pasó promovido de la <Concept_Territory>Presidencia</Concept_Territory>
+    y <Concept_Territory>Capitanía General</Concept_Territory> de las
         <Concept_Landmark>Islas</Concept_Landmark>
     <Territory>Filipinas</Territory> el año de 1634, habiendo tenido la de
         <Territory>Panamá</Territory> solo dos años.<zbr/> 19 Don <persName>Enrique Enriquez de
         Sotomayor</persName> pasó promovido del gobierno de <Territory>Puerto-rico</Territory> a
-    esta Presidencia que exerció hasta el año de 1638 en que murió, con tanto sentimiento por sus
-    grandes qualidades que se escribió una Oración en su elogio, que después se imprimió en esta
-    Corte. <zbr/> 20 Don <persName>Iñigo de la Mota Sarmiento</persName>, Caballero del Orden de
-    Santiago, Gentil-Hombre de Cámara del Archiduque Alberto, y del Consejo Supremo y Junta de
-    Guerra, pasó promovido del gobierno de <Territory>Puerto-rico</Territory> como su antecesor el
-    año de 1639, y murió en <Settlement>Portobelo</Settlement> asistiendo al despacho de la Armada
-    de <Territory>Galeones</Territory> del cargo del General Don <persName>Francisco Diaz
-        Pimienta</persName> el año de 1642. <zbr/> 21 Don <persName>Juan de Vega Bazán</persName>,
-    General que habia sido <zbr/>
+    esta <Concept_Territory>Presidencia</Concept_Territory> que exerció hasta el año de 1638 en que
+    murió, con tanto sentimiento por sus grandes qualidades que se escribió una Oración en su
+    elogio, que después se imprimió en esta Corte. <zbr/> 20 Don <persName>Iñigo de la Mota
+        Sarmiento</persName>, Caballero del Orden de Santiago, Gentil-Hombre de Cámara del
+    Archiduque Alberto, y del Consejo Supremo y Junta de Guerra, pasó promovido del gobierno de
+        <Territory>Puerto-rico</Territory> como su antecesor el año de 1639, y murió en
+        <Settlement>Portobelo</Settlement> asistiendo al despacho de la Armada de Galeones del cargo
+    del General Don <persName>Francisco Diaz Pimienta</persName> el año de 1642. <zbr/> 21 Don
+        <persName>Juan de Vega Bazán</persName>, General que habia sido <zbr/>
     <zbr/> @@@Alcedo_vol_4-0042@@@<zbr/>
-    <zbr/> #de <Territory>Galeones</Territory>, nombrado Presidente, Gobernador y Comandante General
-    del <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory> por
+    <zbr/> #de Galeones, nombrado Presidente, Gobernador y Comandante General del
+        <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory> por
     muerte del anterior el año de 1643. <zbr/> 22 Don <persName>Juan de Bitribeante y
         Navarra</persName>, Caballero del Orden de Calatrava, murió en
-        <Settlement>Portobelo</Settlement> asistiendo al despacho de la Armada de
-        <Territory>Galeones</Territory> del cargo del General Don <persName>Juan de
-        Echavarri</persName> el año de 1651, como consta de la lápida de mármol que puso en su
-    sepultura en la Iglesia Parroquial de <Settlement>Portobelo</Settlement> su Gobernador y íntimo
-    amigo Don <persName>Bernardo de Texada</persName>. 23 Don <persName>Fernando de la Riva
-        Agüero</persName>, Caballero del Orden de Santiago, Maestre de Campo, Gobernador de
-        <Territory>Cartagena de Indias</Territory> quando fue nombrado Presidente de
-        <Territory>Panamá</Territory>, murió también en <Settlement>Portobelo</Settlement>
-    asistiendo al despacho de la Armada de <Territory>Galeones</Territory> del <persName>Marqués de
-        Villarubia</persName> el año de 1663. <zbr/> 24 Don <persName>Juan Pérez de
-        Guzmán</persName>, Caballero del Orden de Santiago, Maestre de Campo, Gobernador de
+        <Settlement>Portobelo</Settlement> asistiendo al despacho de la Armada de Galeones del cargo
+    del General Don <persName>Juan de Echavarri</persName> el año de 1651, como consta de la lápida
+    de mármol que puso en su sepultura en la Iglesia Parroquial de
+        <Settlement>Portobelo</Settlement> su Gobernador y íntimo amigo Don <persName>Bernardo de
+        Texada</persName>. 23 Don <persName>Fernando de la Riva Agüero</persName>, Caballero del
+    Orden de Santiago, Maestre de Campo, Gobernador de <Territory>Cartagena de Indias</Territory>
+    quando fue nombrado Presidente de <Territory>Panamá</Territory>, murió también en
+        <Settlement>Portobelo</Settlement> asistiendo al despacho de la Armada de Galeones del
+        <persName>Marqués de Villarubia</persName> el año de 1663. <zbr/> 24 Don <persName>Juan
+        Pérez de Guzmán</persName>, Caballero del Orden de Santiago, Maestre de Campo, Gobernador de
         <Territory>Cartagena</Territory>, después de haber seguido los empleos de la Milicia en la
-    Armada de la carrera de <Territory>Indias</Territory>, y sido Gobernador de
-        <Territory>Antioquia</Territory> y de <Territory>Puerto-rico</Territory>, fue promovido a
-    esta Presidencia por muerte del anterior el año de 1665, pasó a recuperar la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Santa Catalina</Landmark> que habia
-    tomado el Pirata Inglés <persName>Juan Morgau</persName>, y sin embargo fue suspendido del
-    empleo por el Virrey del <Territory>Perú</Territory>, <persName>Conde de Lemos</persName>, en
-    virtud de varios cargos que le hacia Don <persName>Bernardo Trillo de Figueróa</persName>, Oidor
-    Decano de aquella Audiencia. <zbr/> 25 Don <persName>Agustín de Bracamonte</persName> nombrado
-    interinamente por el Virrey del <Territory>Perú</Territory> para la separación de Don
-        <persName>Juan Pérez</persName>, y pesquisa de los cargos que se le hacían. <zbr/> 26 El
-    mismo Don <persName>Juan Pérez</persName>, reintegrado en sus empleos por no haberse justificado
-    nada de lo que se le acomulaba, tuvo la desgracia de que en su tiempo sucediese la ruina y
-    pérdida de aquella <Concept_Settlement>Ciudad</Concept_Settlement> tomada por el Pirata Inglés
-    el año de 1670, por lo qual fue depuesto segunda vez por el mismo Virrey <persName>Conde de
-        Lemos</persName>, que lo hizo conducir preso a <Settlement>Lima</Settlement>, dando cuenta
-    al Rey. <zbr/>
+    Armada de la carrera de Indias, y sido Gobernador de <Territory>Antioquia</Territory> y de
+        <Territory>Puerto-rico</Territory>, fue promovido a esta Presidencia por muerte del anterior
+    el año de 1665, pasó a recuperar la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Santa
+        Catalina</Landmark> que habia tomado el Pirata Inglés <persName>Juan Morgan</persName>, y
+    sin embargo fue suspendido del empleo por el Virrey del <Territory>Perú</Territory>,
+        <persName>Conde de Lemos</persName>, en virtud de varios cargos que le hacia Don
+        <persName>Bernardo Trillo de Figueróa</persName>, Oidor Decano de aquella Audiencia. <zbr/>
+    25 Don <persName>Agustín de Bracamonte</persName> nombrado interinamente por el Virrey del
+        <Territory>Perú</Territory> para la separación de Don <persName>Juan Pérez</persName>, y
+    pesquisa de los cargos que se le hacían. <zbr/> 26 El mismo Don <persName>Juan Pérez</persName>,
+    reintegrado en sus empleos por no haberse justificado nada de lo que se le acomulaba, tuvo la
+    desgracia de que en su tiempo sucediese la ruina y pérdida de aquella
+        <Concept_Settlement>Ciudad</Concept_Settlement> tomada por el Pirata Inglés el año de 1670,
+    por lo qual fue depuesto segunda vez por el mismo Virrey <persName>Conde de Lemos</persName>,
+    que lo hizo conducir preso a <Settlement>Lima</Settlement>, dando cuenta al Rey. <zbr/>
     <zbr/> @@@Alcedo_vol_4-0043@@@<zbr/>
     <zbr/> #27 Don <persName>Antonio Fernandez de Córdoba</persName>, Caballero del Orden de
     Santiago, nombrado por el Rey luego que se supo la desgracia de <Territory>Panamá</Territory>,
@@ -706,16 +703,16 @@
     pliego secreto y cerrado en el Archivo del Acuerdo de la <Concept_Territory>Real
         Audiencia</Concept_Territory> para que no recayese el gobierno en ninguno de sus Ministros;
     y aunque el acierto se confirmó con sus virtudes, duró muy poco porque al año siguiente de 1682
-    llegó el propietario. <zbr/> 31 Don <persName>Pedro Ponte y Llerena</persName>, <persName>Conde
-        del Palmar</persName>, que fue en los Galeones del Marqués del Bao, y tomó posesión, siendo
-    el único Presidente que ha cumplido el tiempo de los ocho años de la provisión del empleo, sin
-    embargo de los cargos con que lo capitularon los Ministros de aquella Audiencia. <zbr/>
+    llegó el propietario. <zbr/> 31 Don <persName>Pedro Ponte y Llerena</persName>, Conde del
+    Palmar, que fue en los Galeones del Marqués del Bao, y tomó posesión, siendo el único Presidente
+    que ha cumplido el tiempo de los ocho años de la provisión del empleo, sin embargo de los cargos
+    con que lo capitularon los Ministros de aquella Audiencia. <zbr/>
     <zbr/> @@@Alcedo_vol_4-0044@@@<zbr/>
-    <zbr/> #32 Don <persName>Pedro Joseph Guzmán</persName>, Dávalos, Ponce de León,
-        <persName>Santillan y Mesía</persName>, <persName>Marqués de la Mina</persName>, natural de
-        <Settlement>Sevilla</Settlement>, General de la Artillería, que en premio de sus
-    distinguidos servicios en <Concept_Landmark>mar</Concept_Landmark> y tierra fue nombrado
-    Presidente de <Territory>Panamá</Territory> y Comandante General del
+    <zbr/> #32 Don <persName>Pedro Joseph Guzmán, Dávalos, Ponce de León, Santillan y
+        Mesía</persName>, Marqués de la Mina, natural de <Settlement>Sevilla</Settlement>, General
+    de la Artillería, que en premio de sus distinguidos servicios en
+        <Concept_Landmark>mar</Concept_Landmark> y tierra fue nombrado Presidente de
+        <Territory>Panamá</Territory> y Comandante General del
         <Concept_Territory>Reyno</Concept_Territory>, de que tomó posesión el año de 1690, y gobernó
     cinco años, hasta el de 1695 que fue separado por comisión que se dio al Obispo para justificar
     los cargos que tres Ministros de aquella Audiencia le hicieron, en cuya execucion se procedió
@@ -724,18 +721,17 @@
     permitirle comunicación por más de quatro años. <zbr/> 33 El Dr. Don <persName>Diego Ladrón de
         Guevara</persName>, Obispo de aquella Santa Iglesia, encargado del gobierno de orden del Rey
     hasta la llegada del propietario que fue <zbr/> 34 Don <persName>Pedro Luís Henriquez de
-        Guzmán</persName>, <persName>Conde de Canillas</persName>, Caballero del Orden de Calatrava,
-    Corregidor de <Territory>Potosí</Territory>, tomó posesión el año de 1696 hasta el de 1699, que
-    por los clamores de aquel vecindario, y quexas de las violencias que siguió executando con el
+        Guzmán</persName>, Conde de Canillas, Caballero del Orden de Calatrava, Corregidor de
+        <Territory>Potosí</Territory>, tomó posesión el año de 1696 hasta el de 1699, que por los
+    clamores de aquel vecindario, y quexas de las violencias que siguió executando con el
         <persName>Marqués de la Mina</persName>, se le nombró succesor a <zbr/> 35 Don
-        <persName>Joseph Antonio de la Rocha y Carranza</persName>, <persName>Marqués de
-            <Concept_Settlement>Villa</Concept_Settlement>-Rocha</persName>, Caballero del Orden de
-    Calatrava, General de la Artillería, que entró a la posesión de la Presidencia el año de 1699;
-    pero a los seis meses recibió una Cédula Real para que entregase el gobierno al mismo <zbr/> 36
-    Don <persName>Pedro Luis Henriquez de Guzmán</persName>, <persName>Conde de Canillas</persName>,
-    en inteligencia de las grandes cosas que informó falsamente habia hecho para la defensa del
-        <Concept_Territory>Reyno</Concept_Territory>, y por el recelo del establecimiento que habían
-    hecho los <humanGroup type="political_group">Escoceses</humanGroup> en el
+        <persName>Joseph Antonio de la Rocha y Carranza</persName>, Marqués de Villa-Rocha,
+    Caballero del Orden de Calatrava, General de la Artillería, que entró a la posesión de la
+    Presidencia el año de 1699; pero a los seis meses recibió una Cédula Real para que entregase el
+    gobierno al mismo <zbr/> 36 Don <persName>Pedro Luis Henriquez de Guzmán</persName>, Conde de
+    Canillas, en inteligencia de las grandes cosas que informó falsamente habia hecho para la
+    defensa del <Concept_Territory>Reyno</Concept_Territory>, y por el recelo del establecimiento
+    que habían hecho los <humanGroup type="political_group">Escoceses</humanGroup> en el
         <Territory>Darién</Territory>, a cuyo desalojo se le mandaba pasar, como al Gobernador de
         <Territory>Cartagena</Territory> Don <persName>Juan Diaz Pimienta</persName>, que fue el que
     lo executó; y sin embargo con el aviso anticipado que envió el Conde del suceso, sin decir quien
@@ -745,20 +741,19 @@
     pudo lograr, pues murió a muy poco tiempo de recibir la noticia el mismo año de 1699 <zbr/> 37
     Don <persName>Fernando Dávila Bravo de Laguna</persName>, Caballero del Orden de Santiago,
     Sargento General de Batalla, natural de <Settlement>Lima</Settlement>, entró el año de 1702, y
-    gobernó hasta el de 1707 que murió. <zbr/> 38 Don <persName>Juan Eustaquio Vicentelo</persName>,
-        <persName>Tello</persName>, <persName>Toledo</persName> y <persName>Leca</persName>, Marqués
-    de Brenes, Caballero del Orden de Santiago, natural de <Settlement>Sevilla</Settlement>,
-    nombrado interinamente quando murió el anterior por el <persName>Marqués de
-        Casteldos-rius</persName>, Virrey del <Territory>Perú</Territory>, que se hallaba en
-        <Settlement>Panamá</Settlement> de tránsito para su destino, solo gobernó algo más de cinco
-    meses por haber entrado <zbr/> 39 El ya referido <persName>Marqués de
-            <Concept_Settlement>Villa</Concept_Settlement>-Rocha</persName>, que tuvo Real despacho
-    para verificar la provisión de su empleo y no fue de más larga duración, pues a pocos días se
-    recibió otra Real Cédula separándole del empleo por diferentes cargos que le habían hecho
-    cometida a la Audiencia, que sin embargo de la cláusula condicional se abrogó la Presidencia el
-    Decano <zbr/> 40 Don <persName>Fernando de Haro Monterroso</persName>, y la exerció seis meses,
-    hasta el año de 1709 que el Virrey del <Territory>Perú</Territory> envío otro Ministro de la
-    Audiencia de <Settlement>Lima</Settlement>, para procesarle por los excesos que habia cometido,
+    gobernó hasta el de 1707 que murió. <zbr/> 38 Don <persName>Juan Eustaquio Vicentelo, Tello,
+        Toledo y Leca</persName>, Marqués de Brenes, Caballero del Orden de Santiago, natural de
+        <Settlement>Sevilla</Settlement>, nombrado interinamente quando murió el anterior por el
+        <persName>Marqués de Casteldos-rius</persName>, Virrey del <Territory>Perú</Territory>, que
+    se hallaba en <Settlement>Panamá</Settlement> de tránsito para su destino, solo gobernó algo más
+    de cinco meses por haber entrado <zbr/> 39 El ya referido <persName>Marqués de
+        Villa-Rocha</persName>, que tuvo Real despacho para verificar la provisión de su empleo y no
+    fue de más larga duración, pues a pocos días se recibió otra Real Cédula separándole del empleo
+    por diferentes cargos que le habían hecho cometida a la Audiencia, que sin embargo de la
+    cláusula condicional se abrogó la Presidencia el Decano <zbr/> 40 Don <persName>Fernando de Haro
+        Monterroso</persName>, y la exerció seis meses, hasta el año de 1709 que el Virrey del
+        <Territory>Perú</Territory> envío otro Ministro de la Audiencia de
+        <Settlement>Lima</Settlement>, para procesarle por los excesos que habia cometido,
     remitiéndolo preso en Partida de Registro a <Territory>España</Territory> v murió en la Cárcel
     de Corte de <Settlement>Madrid</Settlement>. <zbr/> 41 Don <persName>Juan Baptista de Orueta y
         Irusta</persName>, Alcalde del Crimen de la <Concept_Territory>Real
@@ -774,22 +769,22 @@
     <zbr/> @@@Alcedo_vol_4-0046@@@<zbr/>
     <zbr/> #entró a tomar posesión luego que la recibió a principio del año de 1710, y gobernó hasta
     mitad del siguiente de 1711 que llegaron dos succesores al mismo tiempo: <zbr/> 43 Uno el
-    mencionado ya dos veces <persName>Marqués de <Concept_Settlement>Villa</Concept_Settlement>
-        Rocha</persName>, restituido la tercera a título de honor en desagravio del exceso con que
-    se habia procedido en su segunda separación por el tiempo que tardase en llegar el propietario
-    nombrado por S. M., y fue tan corto que solo se contó por horas, pues habiendo venido a la
-        <Concept_Settlement>Capital</Concept_Settlement> desde el fuerte de
-        <Settlement>Chepo</Settlement>, donde se hallaba preso, tomó posesión, y el mismo día entró
-    a las cinco de la tarde <zbr/> 44 Don <persName>Joseph Hurtado de Amezaga</persName>, Mariscal
-    de Campo de los Reales Exércitos, que tomó posesión el referido año de 1711, y gobernó hasta el
-    de 1716 que fue depuesto de orden del Rey, cometiendo su separación al Obispo de aquella
-    Iglesia, y extinguiendo al mismo tiempo el Tribunal de la Audiencia. <zbr/> 45 Don Fr.
-        <persName>Juan Joseph de Llamas y Rivas</persName>, del Orden de Nuestra Señora del Carmen,
-    Obispo de <Territory>Panamá</Territory>, que por la comisión referida quedó encargado del
-    gobierno desde el citado año de 1716 hasta el de 1718 en que llegó <zbr/> 46 Don
-        <persName>Gerónimo Vadillo</persName>, Brigadier de los Reales Exércitos, promovido del
-    gobierno de <Territory>Cartagena</Territory> que estaba exerciendo, con el nuevo establecimiento
-    de cinco años de provisión en los <Concept_Territory>Gobiernos</Concept_Territory> que no hay
+    mencionado ya dos veces <persName>Marqués de Villa Rocha</persName>, restituido la tercera a
+    título de honor en desagravio del exceso con que se habia procedido en su segunda separación por
+    el tiempo que tardase en llegar el propietario nombrado por S. M., y fue tan corto que solo se
+    contó por horas, pues habiendo venido a la <Concept_Settlement>Capital</Concept_Settlement>
+    desde el <Concept_Structure>fuerte</Concept_Structure> de <Structure>Chepo</Structure>, donde se
+    hallaba preso, tomó posesión, y el mismo día entró a las cinco de la tarde <zbr/> 44 Don
+        <persName>Joseph Hurtado de Amezaga</persName>, Mariscal de Campo de los Reales Exércitos,
+    que tomó posesión el referido año de 1711, y gobernó hasta el de 1716 que fue depuesto de orden
+    del Rey, cometiendo su separación al Obispo de aquella Iglesia, y extinguiendo al mismo tiempo
+    el Tribunal de la Audiencia. <zbr/> 45 Don Fr. <persName>Juan Joseph de Llamas y
+        Rivas</persName>, del Orden de Nuestra Señora del Carmen, Obispo de
+        <Territory>Panamá</Territory>, que por la comisión referida quedó encargado del gobierno
+    desde el citado año de 1716 hasta el de 1718 en que llegó <zbr/> 46 Don <persName>Gerónimo
+        Vadillo</persName>, Brigadier de los Reales Exércitos, promovido del gobierno de
+        <Territory>Cartagena</Territory> que estaba exerciendo, con el nuevo establecimiento de
+    cinco años de provisión en los <Concept_Territory>Gobiernos</Concept_Territory> que no hay
     Audiencia, y cumplió el de 1723. <zbr/> 47 Don <persName>Gaspar Pérez Buelta</persName>, Oidor
     que habia sido de la extinguida Audiencia, que habiendo mandado el Rey volverla a restablecer el
     mismo año de 1723, gobernó interinamente como Decano tres meses y medio, hasta que se embarcó
@@ -805,12 +800,12 @@
         <Concept_Structure>Plaza</Concept_Structure> de <Settlement>Cádiz</Settlement> a esta
     Presidencia en los galeones del Teniente General <persName>Marqués Grillo</persName>, y tomó
     posesión el año de 1724, gobernó hasta el de 1730 en que fue depuesto, y preso en el
-        <Concept_Structure>castillo</Concept_Structure> de <Settlement>Chepo</Settlement>, y luego
+        <Concept_Structure>castillo</Concept_Structure> de <Structure>Chepo</Structure>, y luego
     remitido en Partida de Registro a la Casa de la Contratación, en la fragata de guerra la
     Ginovesa, que se perdió sobre el <Concept_Landmark>baxo</Concept_Landmark> de la
         <Landmark>Vívora</Landmark>, donde se ahogó. <zbr/> 50 Don <persName>Juan Joseph de
-        Andia</persName>, Vivero y Velasco, <persName>Marqués de Villahermosa</persName>, Mariscal
-    de Campo, que se hallaba sirviendo el <Concept_Territory>Gobierno</Concept_Territory> de
+        Andia</persName>, Vivero y Velasco, Marqués de Villahermosa, Mariscal de Campo, que se
+    hallaba sirviendo el <Concept_Territory>Gobierno</Concept_Territory> de
         <Territory>Cartagena</Territory>, fue promovido a la Presidencia de
         <Territory>Panamá</Territory>, con la comisión de deponer a su antecesor, el referido año de
     1730; y habiendo solicitado licencia para restituirse a <Territory>España</Territory> se la
@@ -827,11 +822,9 @@
         <Settlement>Portobelo</Settlement> y <Concept_Structure>castillo</Concept_Structure> de
         <Settlement>Chagre</Settlement>, murió en <Territory>Panamá</Territory> el año de 1744
     estando disponiendo su viage para <Territory>España</Territory>. <zbr/> 52 Don
-        <persName>Dionisio de Alcedo y Herrera</persName>, que habia servido la
-        <Concept_District>distrito</Concept_District> y
-        <Concept_District>distrito</Concept_District> y Presidencia de <Territory>Quito</Territory>
-    y Comandancia General de este <Concept_Territory>Reyno</Concept_Territory>, se hallaba en la
-    Corte quando <zbr/>
+        <persName>Dionisio de Alcedo y Herrera</persName>, que habia servido la Presidencia de
+        <Territory>Quito</Territory> y Comandancia General de este
+        <Concept_Territory>Reyno</Concept_Territory>, se hallaba en la Corte quando <zbr/>
     <zbr/> @@@Alcedo_vol_4-0048@@@<zbr/>
     <zbr/> #fue nombrado por el Rey para pasar a servir esta de <Territory>Panamá</Territory>, y
     encargarse de la defensa del de <Territory>Tierra Firme</Territory>, objeto de los <humanGroup
@@ -923,7 +916,7 @@
     mismo <Concept_Settlement>Pueblo</Concept_Settlement> porque se tenían por hermanos; adoraban
     solo a la Luna; y aunque no eran muchos respecto a otras
     <Concept_Group>naciones</Concept_Group>, los temían tanto las demás, que los Zipas de
-        <Settlement>Bogotá</Settlement> tenían <Concept_Settlement>presidio</Concept_Settlement> de
+        <Territory>Bogotá</Territory> tenían <Concept_Settlement>presidio</Concept_Settlement> de
     ellos ##para su resguardo en los <Concept_Settlement>Pueblos</Concept_Settlement> que confinaban
     con su <Concept_Territory>jurisdicción</Concept_Territory>; usaban por armas arcos, flechas y
     mazas de madera muy pesada: hoy han quedado pocos, retirados en los

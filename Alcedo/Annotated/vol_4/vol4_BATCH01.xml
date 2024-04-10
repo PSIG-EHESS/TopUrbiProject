@@ -1,7 +1,8 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_4-titular@@@<zbr/>
-    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS INDIAS OCCIDENTALES <zbr/> O
-    AMERICA: <zbr/> ES A SABER: <zbr/> DE LOS REYNOS DEL <Territory>Perú</Territory>, <zbr/>
+    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS <Territory>INDIAS
+        OCCIDENTALE</Territory>S <zbr/> O <Territory>AMERICA</Territory>: <zbr/> ES A SABER: <zbr/>
+    DE LOS <Concept_Territory>REYNOS</Concept_Territory> DEL <Territory>Perú</Territory>, <zbr/>
     <Territory>Nueva España</Territory>, <Territory>Tierra-Firme</Territory>,
         <Territory>Chile</Territory>, <zbr/> y <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
     CON LA DESCRIPCION de sus <Concept_Territory>Provincias</Concept_Territory>,
@@ -25,7 +26,8 @@
     Historia.<zbr/> TOMO IV. <zbr/> CON LICENCIA: <Settlement>MADRID</Settlement> EN LA IMPRENTA DE
         <persName>MANUEL GONZALEZ</persName>. <zbr/> MDCCLXXXVIII. <zbr/>
     <zbr/> @@@Alcedo_vol_4-0001@@@<zbr/>
-    <zbr/> #DICCIONARIO GEOGRÁFICO DE LAS INDIAS OCCIDENTALES O AMERICA<zbr/>
+    <zbr/> #DICCIONARIO GEOGRÁFICO DE LAS <Territory>INDIAS OCCIDENTALES</Territory> O
+        <Territory>AMERICA</Territory><zbr/>
     <zbr/> §§§id_11904§§§<zbr/> #PABON, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory>,
@@ -39,8 +41,7 @@
         <Territory>Nuevo Reyno de León</Territory> en la <Territory>América
         Septentrional</Territory>, situado al O del
         <Concept_Settlement>Presidio</Concept_Settlement> de <Settlement>Santa Engracia</Settlement>.<zbr/>
-    <zbr/> §§§id_11907§§§<zbr/>
-    <Territory>S.</Territory> PABLO, <Concept_Settlement>Ciudad</Concept_Settlement> de la
+    <zbr/> §§§id_11907§§§<zbr/> S. PABLO, <Concept_Settlement>Ciudad</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de <Territory>S. Vicente</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>,
@@ -68,7 +69,7 @@
         >Españoles</humanGroup> e <humanGroup type="social_group">Indios</humanGroup> que pueden: no
     tienen religión alguna, y mantienen algún comercio con los <humanGroup type="political_group"
         >Españoles</humanGroup> y <humanGroup type="political_group">Portugueses</humanGroup> del
-        <Landmark>Paraguay</Landmark>. La <Concept_Settlement>Ciudad</Concept_Settlement> está
+        <Territory>Paraguay</Territory>. La <Concept_Settlement>Ciudad</Concept_Settlement> está
     situada en una altura, rodeada de <Concept_Landmark>montañas</Concept_Landmark> asperísimas que
     la hacen inaccesible, a la orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Harihambú</Landmark> o <Landmark>Tiete</Landmark>, en 333 gr. 50 min. de long. y en 23
@@ -109,17 +110,17 @@
     <zbr/> §§§id_11914§§§<zbr/> Otro pequeño o <Concept_Settlement>Barrio</Concept_Settlement> de la
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guanchinango</Territory>
     en el mismo <Concept_Territory>Reyno</Concept_Territory>, anexo al
-        <Concept_District>Curato</Concept_District> del de <Settlement>Pahuatlán</Settlement>,<zbr/>
+        <Concept_District>Curato</Concept_District> del de <Settlement>Pahuatlán</Settlement>.<zbr/>
     <zbr/> §§§id_11915§§§<zbr/> Otro <Concept_Settlement>Cabecera de partido</Concept_Settlement> de
     la <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Villalta</Territory> en
-    el mismo Rey<zbr/>
-    <zbr/> @@@Alcedo_vol_4-0003@@@<zbr/> #no es de temperamento frío, y tiene 51 familias de
-        <humanGroup type="social_group">Indios</humanGroup>.<zbr/>
+    el mismo <Concept_Territory>Rey<zbr/>
+        <zbr/> @@@Alcedo_vol_4-0003@@@<zbr/> #no</Concept_Territory> es de temperamento frío, y
+    tiene 51 familias de <humanGroup type="social_group">Indios</humanGroup>.<zbr/>
     <zbr/> §§§id_11916§§§<zbr/> Otro de las Misiones que tenían los Regulares de la Compañía en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Topia</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de la <Territory>Nueva Vizcaya</Territory>,
     situado en medio de la <Concept_Landmark>sierra</Concept_Landmark> de
-        <Territory>Topia</Territory>, a orilla del <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Topia</Landmark>, a orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Piastla</Landmark>.<zbr/>
     <zbr/> §§§id_11917§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> de
         <Territory>Barcelona</Territory> y <Concept_Territory>Gobierno</Concept_Territory> de
@@ -134,7 +135,7 @@
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Guajozinco</Territory>
     en <Territory>Nueva España</Territory>.<zbr/>
     <zbr/> §§§id_11919§§§<zbr/> Otro del <Concept_District>partido</Concept_District> de
-        <Settlement>Chiriqui</Settlement> en la <Concept_Territory>Provincia</Concept_Territory> y
+        <Territory>Chiriqui</Territory> en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> y
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra-Firme</Territory> está
     legua y media de su <Concept_Settlement>Cabecera</Concept_Settlement> en el camino real.<zbr/>
@@ -148,8 +149,9 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Guayana
         Francesa</Territory>, fundado el año de 1735 a orilla del
-        <Concept_Landmark>río</Concept_Landmark> Oya##poco de <humanGroup type="social_group"
-        >Indios</humanGroup> de muchas <Concept_Group>naciones</Concept_Group> convertidos a la Fe Católica.<zbr/>
+        <Concept_Landmark>río</Concept_Landmark>
+    <Landmark>Oya##poco</Landmark> de <humanGroup type="social_group">Indios</humanGroup> de muchas
+        <Concept_Group>naciones</Concept_Group> convertidos a la Fe Católica.<zbr/>
     <zbr/> §§§id_11922§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Chiapa</Territory> en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Guatemala</Territory>.<zbr/>
@@ -181,7 +183,7 @@
     ella sale un <Concept_Landmark>brazo</Concept_Landmark> que es el
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Blanco</Landmark>, a la parte del E hay una
-        <Concept_Structure>hacienda</Concept_Structure> que llaman Caxas.<zbr/>
+        <Concept_Structure>hacienda</Concept_Structure> que llaman <Structure>Caxas</Structure>.<zbr/>
     <zbr/> §§§id_11927§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory> en el
@@ -193,7 +195,8 @@
     sobrenombre de los Paeces en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Buenos Ayres</Territory> corre
     al O, y entra en el de <Landmark>Jacegua</Landmark>, entre el de Joseph
-        <Landmark>Díaz</Landmark> y el paso del <Landmark>Chileno</Landmark>.<zbr/>
+        <Landmark>Díaz</Landmark> y el <Concept_Landmark>paso</Concept_Landmark> del
+        <Landmark>Chileno</Landmark>.<zbr/>
     <zbr/> §§§id_11929§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory> nace de una
@@ -268,19 +271,21 @@
         <Territory>Cochabamba</Territory> maíz, harinas y otras semillas. Antiguamente fue muy rica
     y opulenta de <Concept_Landmark>minas</Concept_Landmark>, siendo célebres las que se trabajaron
     de <Landmark>Verenguela</Landmark>, de <Landmark>San Juan</Landmark> y de
-        <Settlement>Tampaya</Settlement>, pero hoy no se benefician, y lo mismo sucede con una que
-    hay de esmeraldas: cerca de la primera, que tenía 700 betas descubiertas, y de que se sacó
-    muchísimo metal, hubo una crecida población de <humanGroup type="political_group"
-        >Españoles</humanGroup> según manifiestan los vestigios que permanecen: tiene también una
+        <Landmark>Tampaya</Landmark>, pero hoy no se benefician, y lo mismo sucede con una que hay
+    de esmeraldas: cerca de la primera, que tenía 700 betas descubiertas, y de que se sacó muchísimo
+    metal, hubo una crecida población de <humanGroup type="political_group">Españoles</humanGroup>
+    según manifiestan los vestigios que permanecen: tiene también una
         <Concept_Landmark>mina</Concept_Landmark> de talco muy blanco y transparente que abastece a
     todo el <Territory>Perú</Territory> para vidrieras de las ventanas en las Iglesias y en las
     casas. Tenía de repartimiento su Corregidor 96505 pesos fuertes, pagando de alcavala cada año
     772. Su población consta de los <Concept_Settlement>Pueblos</Concept_Settlement> siguientes:<zbr/>
     <zbr/> ßßß<zbr/> #<Settlement>Caquiaviri</Settlement>. <zbr/>
-    <Settlement>Viacha</Settlement>.<zbr/> ##<Settlement>Tiahuanaco</Settlement>.<zbr/> Huaqul
+    <Settlement>Viacha</Settlement>.<zbr/> ##<Settlement>Tiahuanaco</Settlement>.<zbr/>
+    <Settlement>Huaqui.</Settlement>
     <zbr/> ###<Settlement>S. Andrés de Machaca</Settlement>.<zbr/>
     <zbr/> @@@Alcedo_vol_4-0006@@@<zbr/>
-    <zbr/> #Jesús de Machaca, en que hay un Beaterío de 12 Beatas Franciscanas. <zbr/>
+    <zbr/> #<Settlement>Jesús de Machaca</Settlement>, en que hay un Beaterío de 12 Beatas
+    Franciscanas. <zbr/>
     <Settlement>Santiago de Machaca</Settlement>. <zbr/>
         ##<Concept_Settlement>Asiento</Concept_Settlement> de <Settlement>San Juan de
         Berenguela</Settlement>.<zbr/>
@@ -290,17 +295,16 @@
     <Settlement>Hulloma</Settlement>. <zbr/>
     <Settlement>Achocalla</Settlement>. <zbr/>
     <Settlement>S. Pedro del Desaguadero</Settlement>.<zbr/> $$$<zbr/>
-    <zbr/> §§§id_11938§§§<zbr/> #PACAMOROS Yaguarsongo, o <Territory>San Juan</Territory> de
-        <Concept_Landmark>Salinas</Concept_Landmark>,
+    <zbr/> §§§id_11938§§§<zbr/> #PACAMOROS Yaguarsongo, o San Juan de Salinas,
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> llamado vulgarmente de Bracamoros en el
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> al Mediodía,
-    antiguamente se llamaba <Territory>Silla</Territory> y <Territory>Chacainga</Territory>, y hoy
-    de <Territory>San Juan</Territory> por su <Concept_Settlement>Capital</Concept_Settlement>,
-    confina por el N con el <Concept_Territory>territorio</Concept_Territory> de
-        <Territory>Zamora</Territory> y con la <Concept_Territory>Provincia</Concept_Territory> de
-        <Territory>Loxa</Territory>, por el Poniente con la de <Territory>Piura</Territory>, por el
-    Mediodía con el <Concept_Landmark>río</Concept_Landmark>
+    antiguamente se llamaba <Territory>Silla y Chacainga</Territory>, y hoy de <Territory>San
+        Juan</Territory> por su <Concept_Settlement>Capital</Concept_Settlement>, confina por el N
+    con el <Concept_Territory>territorio</Concept_Territory> de <Territory>Zamora</Territory> y con
+    la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Loxa</Territory>, por el
+    Poniente con la de <Territory>Piura</Territory>, por el Mediodía con el
+        <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Marañon</Landmark>, y por Levante con los <Concept_Landmark>bosques</Concept_Landmark>
     y <Concept_Territory>territorio</Concept_Territory> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Xibaros</humanGroup>: consta su población de las
@@ -315,7 +319,7 @@
         <Landmark>Turumbasa</Landmark>, <Landmark>Numballe</Landmark>, <Landmark>Palanda</Landmark>,
         <Landmark>Simanchi</Landmark>, <Landmark>Sangalla</Landmark> y <Landmark>San
         Francisco</Landmark>, el qual divide el <Concept_Territory>Obispado</Concept_Territory> de
-    Qui##to del de <Territory>Truxillo</Territory>; tiene ricas
+        <Territory>Qui##to</Territory> del de <Territory>Truxillo</Territory>; tiene ricas
         <Concept_Landmark>minas</Concept_Landmark> de oro, pero no de la mejor calidad, y está poco
     poblado, y sin comercio alguno; los pastos son excelentes, y coge muy buen tabaco, cera
     silvestre y algodón, y riquísimo cacao, aunque poco: está muy sujeta a las invasiones de los
@@ -868,11 +872,11 @@
     embargo de lo debil de estos edificios resisten porque nunca llueve, y habiendo sucedido el
     fenómeno raro de llover el año de 1728 se arruinó la major parte, el clima es seco y cálido,
     pero sano; tiene un castillejo para defensa del <Concept_Landmark>Puerto</Concept_Landmark> en
-    lo alto de un <Concept_Landmark>montecillo</Concept_Landmark> que llaman la Silla de Paita: el
-    Almirante <persName>Inglés Jorge Anson</persName> tomó esta
+    lo alto de un <Concept_Landmark>montecillo</Concept_Landmark> que llaman la <Landmark>Silla de
+        Paita</Landmark>: el Almirante <persName>Inglés Jorge Anson</persName> tomó esta
         <Concept_Settlement>Ciudad</Concept_Settlement>, la saqueó y quemó el año de 1741: está 204
     leguas de <Settlement>Lima</Settlement>, y 140 por <Concept_Landmark>mar</Concept_Landmark> del
-        <Landmark>Callao</Landmark>, en 296 gr. 56 min. de long. y 5 gr. 1 5 min. de lat.<zbr/>
+        <Settlement>Callao</Settlement>, en 296 gr. 56 min. de long. y 5 gr. 15 min. de lat.<zbr/>
     <zbr/> §§§id_12016§§§<zbr/> Tiene el mismo nombre una <Concept_Landmark>punta de
         tierra</Concept_Landmark> de la <Concept_Landmark>Costa</Concept_Landmark> del
         <Territory>Perú</Territory> en la propia <Concept_Territory>Provincia</Concept_Territory> y
@@ -905,8 +909,9 @@
     cuya cima están estampadas las plantas de un hombre que dicen los <humanGroup
         type="social_group">Indios</humanGroup> por tradición de sus mayores que predicó en aquellas
     Regiones después del Diluvio a quien llamaban Paizuma, y conserva la piedra: algunos
-    Historiadores pretenden probar que fue el Apóstol Santo Tomás, agregando a la tradición otras
-    pruebas de diferentes señales que existen en varias partes de la <Territory>América</Territory>.<zbr/>
+    Historiadores pretenden probar que fue el <persName>Apóstol Santo Tomás</persName>, agregando a
+    la tradición otras pruebas de diferentes señales que existen en varias partes de la
+        <Territory>América</Territory>.<zbr/>
     <zbr/> §§§id_12021§§§<zbr/> PAREBSEI, <Concept_Settlement>Ciudad</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Nueva Yorck</Territory>,
@@ -993,7 +998,7 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Patáz</Territory> en el
         <Territory>Perú</Territory>, corre al N en el <Concept_District>distrito</Concept_District>
-    de las Misiones de <Territory>Caxamarquilla</Territory> muchas leguas, y luego se une con el de
+    de las <Territory>Misiones de Caxamarquilla</Territory> muchas leguas, y luego se une con el de
         <Landmark>Pangon</Landmark> para entrar muy caudaloso en el <Landmark>Ucayale</Landmark>.<zbr/>
     <zbr/> §§§id_12035§§§<zbr/> Tiene el mismo nombre un
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -1053,7 +1058,7 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory>, y
         <Concept_District>distrito</Concept_District> de la
-        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>María</Settlement>, al N en el
+        <Concept_Settlement>Villa</Concept_Settlement> de <Territory>María</Territory>, al N en el
         <Territory>Nuevo Reyno de Granada</Territory>.<zbr/>
     <zbr/> §§§id_12043a§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> en el
@@ -1240,7 +1245,7 @@
         <Concept_Landmark>Costa</Concept_Landmark> de la <Concept_Landmark>mar</Concept_Landmark>
     del <Landmark>Sur</Landmark> de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory>, que
-    está baxo de la misma linea equinoccial.<zbr/>
+    está baxo de la misma línea equinoccial.<zbr/>
     <zbr/> §§§id_12072§§§<zbr/> Un <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Guayaquil</Territory> ##en el
@@ -1278,16 +1283,17 @@
     <zbr/> #palmar; pero la abandonaron <humanGroup type="social_group">sus vecinos</humanGroup>
     poco después, acosados de los <Concept_Group>Indios infieles</Concept_Group> que la destruyeron:
     el año de 1555 volvió a poblarla el Capitán <persName>Diego Parada</persName> con el nombre de
-    Nirúa, por haberla mudado a orilla de este <Concept_Landmark>río</Concept_Landmark>, donde no
-    tuvo mejor fortuna que la otra; pero el de 1583 la fundó tercera vez a donde está hoy el
-    Gobernador <persName>Francisco de Cáceres</persName>, de orden del Maestre de Campo
-        <persName>Alonso Estevan Rangél</persName>, por Cabeza de <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> que conservaron muchos años sus succesores: es de temperamento
-    cálido, y está entre unos <Concept_Landmark>montes</Concept_Landmark> ásperos y fragosos; pero
-    muy abundante de cacao, cañas dulces, plátanos, yucas y maíz: tiene además de la Iglesia
-    Parroquial otra Capilla de <Structure>Nuestra Señora de Belén</Structure>; su vecindario se
-    compone de 400 <humanGroup type="social_group">vecinos</humanGroup> muy pobres: está 16 leguas
-    al NO de <Settlement>Pamplona</Settlement>, de cuya
+        <Settlement>Nirúa</Settlement>, por haberla mudado a orilla de este
+        <Concept_Landmark>río</Concept_Landmark>, donde no tuvo mejor fortuna que la otra; pero el
+    de 1583 la fundó tercera vez a donde está hoy el Gobernador <persName>Francisco de
+        Cáceres</persName>, de orden del Maestre de Campo <persName>Alonso Estevan
+    Rangél</persName>, por Cabeza de <Concept_Territory>Alcaldía mayor</Concept_Territory> que
+    conservaron muchos años sus succesores: es de temperamento cálido, y está entre unos
+        <Concept_Landmark>montes</Concept_Landmark> ásperos y fragosos; pero muy abundante de cacao,
+    cañas dulces, plátanos, yucas y maíz: tiene además de la Iglesia Parroquial otra Capilla de
+        <Structure>Nuestra Señora de Belén</Structure>; su vecindario se compone de 400 <humanGroup
+        type="social_group">vecinos</humanGroup> muy pobres: está 16 leguas al NO de
+        <Settlement>Pamplona</Settlement>, de cuya
         <Concept_Territory>jurisdicción</Concept_Territory> la divide el
         <Concept_Landmark>río</Concept_Landmark> de <Territory>Salazar</Territory>.<zbr/>
     <zbr/> §§§id_12077§§§<zbr/> Otra <Concept_Settlement>Ciudad</Concept_Settlement> hay de este
@@ -1303,7 +1309,7 @@
         <Concept_Settlement>Ciudades</Concept_Settlement> pertenece al
         <Concept_District>partido</Concept_District> y
         <Concept_Territory>jurisdicción</Concept_Territory> de la
-        <Concept_Settlement>Villa</Concept_Settlement> del <Settlement>Sinú</Settlement>, y está
+        <Concept_Settlement>Villa</Concept_Settlement> del <Territory>Sinú</Territory>, y está
     situado en la <Concept_Landmark>ensenada</Concept_Landmark> de este nombre, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark>.<zbr/>
     <zbr/> §§§id_12079§§§<zbr/> Otro con la advocación de San Luis de las Misiones que tienen los
@@ -1402,8 +1408,8 @@
     Gorda, Coronel de Milicias de <Settlement>Queretaro</Settlement>.<zbr/>
     <zbr/> §§§id_12093§§§<zbr/> PALMISTES, Punta de) en la
         <Concept_Landmark>Costa</Concept_Landmark> del Sur de la
-        <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>San Christóval</Landmark>, una de las
-        <Landmark>Antilles menores</Landmark>, está entre el
+        <Concept_Landmark>Isla</Concept_Landmark> de <Territory>San Christóval</Territory>, una de
+    las <Landmark>Antilles menores</Landmark>, está entre el
         <Concept_Landmark>río</Concept_Landmark> de <Landmark>Pentecoste</Landmark> y el
         <Concept_Landmark>riachuelo</Concept_Landmark> de <Landmark>Pelan</Landmark>.<zbr/>
     <zbr/> §§§id_12094§§§<zbr/> PALMITAL, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
@@ -1432,8 +1438,8 @@
         <Concept_Landmark>Costa</Concept_Landmark> y boca del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Limari</Landmark>.<zbr/>
-    <zbr/> §§§id_12098§§§<zbr/> Tiene el mismo nombre de
-        <Concept_Landmark>Arrecife</Concept_Landmark> del Palo un Is##lote, cerca de la
+    <zbr/> §§§id_12098§§§<zbr/> Tiene el mismo nombre de Arrecife del Palo un
+        <Concept_Landmark>Is##lote</Concept_Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Settlement>Vera Cruz</Settlement> en el
         <Concept_Landmark>Seno</Concept_Landmark>
     <Landmark>Mexicano</Landmark> y <Concept_Territory>Reyno</Concept_Territory> de <Territory>Nueva

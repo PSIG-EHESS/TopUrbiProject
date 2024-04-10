@@ -1,7 +1,8 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_3-titular@@@<zbr/>
-    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS INDIAS OCCIDENTALES <zbr/> O
-        <Territory>AMERICA</Territory>: <zbr/> ES A SABER: <zbr/> DE LOS
+    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS <Territory>INDIAS
+        OCCIDENTALES</Territory>
+    <zbr/> O <Territory>AMERICA</Territory>: <zbr/> ES A SABER: <zbr/> DE LOS
         <Concept_Territory>REYNOS</Concept_Territory> DEL <Territory>PERU</Territory>, <zbr/>
     <Territory>Nueva España</Territory>, <Territory>Tierra Firme</Territory>,
         <Territory>Chile</Territory>, <zbr/> y <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>
@@ -26,7 +27,8 @@
     <zbr/> CON LICENCIA: <zbr/> MADRID: EN LA IMPRENTA DE <persName>BLAS ROMAN</persName>.<zbr/>
     MDCCLXXXVIII. <zbr/>
     <zbr/> @@@Alcedo_vol_3-0001@@@<zbr/>
-    <zbr/> #DICCIONARIO GEOGRÁFICO DE LAS INDIAS OCCIDENTALES O AMERICA<zbr/>
+    <zbr/> #DICCIONARIO GEOGRÁFICO DE LAS <Territory>INDIAS OCCIDENTALES</Territory> O
+        <Territory>AMERICA</Territory><zbr/>
     <zbr/> §§§id_09255§§§<zbr/> MABABI, <Concept_Landmark>Puerto</Concept_Landmark> seco de la
         <Concept_Landmark>Serranía</Concept_Landmark> en la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -247,7 +249,7 @@
         <Concept_Settlement>Ciudad</Concept_Settlement> del mismo nombre, y lo es también del
         <Concept_Territory>Gobierno</Concept_Territory>; es pequeña y pobre, y su comercio de tabaco
     y canela reducido: esta ultima tuviera más estimación si se aplicaran a aprender el modo de
-    beneficiarla y cultivarla: llamóse en los principios de su fundación <LOC>Sevilla del Oro</LOC>
+    beneficiarla y cultivarla: llamóse en los principios de su fundación <Settlement>Sevilla del Oro</Settlement>
     ##por sus riquezas y <Concept_Landmark>minas</Concept_Landmark> de este metal; pero las
     repetidas invasiones que ha sufrido de los <Concept_Group>Indios infieles</Concept_Group> la
     tienen reducida al estado de un <Concept_Settlement>Pueblo</Concept_Settlement> miserable que no
@@ -801,11 +803,11 @@
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Chile</Territory>, fue el
     pri##mer Misionero que entró por la parte de <Territory>Chiloé</Territory>, y predicó el
     Evangelio a aquellos bárbaros, a cuyas manos logró la corona del martirio: el clima acia el
-    medio día es muy frío, y de las <LOC>Pampas</LOC> a el N muy calido, los
+    medio día es muy frío, y de las <Landmark>Pampas</Landmark> a el N muy calido, los
         <Territory>Chile</Territory>nos miran este <Concept_Territory>territorio</Concept_Territory>
     como parte del reino.<zbr/>
-    <zbr/> ___CATÁLOGO DE LAS NACIONES BÁRBARAS y principales parages de la tierra
-        <LOC>Magallanica</LOC>.___<zbr/>
+    <zbr/> ___CATÁLOGO DE LAS NACIONES BÁRBARAS y principales parages de la <Concept_Territory>tierra</Concept_Territory>
+        <Territory>Magallanica</Territory>.___<zbr/>
     <zbr/> ßßß<zbr/> #___NACIONES BARBARAS___. <zbr/>
     <humanGroup type="indigenous_group">Césares</humanGroup>. <zbr/>
     <humanGroup type="indigenous_group">Chunianis</humanGroup>. <zbr/>
@@ -813,11 +815,9 @@
     <humanGroup type="indigenous_group">Patagones</humanGroup>. <zbr/>
     <humanGroup type="indigenous_group">Poyas</humanGroup>. <zbr/>
     <humanGroup type="indigenous_group">Pueches</humanGroup>.<zbr/>
-    <humanGroup type="indigenous_group">Tirumentos</humanGroup>.<zbr/> 
-	___CIUDADES___.<zbr/>
+    <humanGroup type="indigenous_group">Tirumentos</humanGroup>.<zbr/> ___CIUDADES___.<zbr/>
     <Settlement>Nombre de Dios</Settlement>.<zbr/>
-    <Settlement>Filipolis</Settlement>,<zbr/> 
-	___RIOS___.<zbr/>
+    <Settlement>Filipolis</Settlement>,<zbr/> ___RIOS___.<zbr/>
     <Landmark>Angra</Landmark>.<zbr/>
     <Landmark>Camarones</Landmark>.<zbr/>
     <Landmark>Corrientes</Landmark>.<zbr/>
@@ -828,10 +828,8 @@
     <Landmark>San Lázaro</Landmark>.<zbr/>
     <Landmark>San Matias</Landmark>.<zbr/>
     <Landmark>Sta. Catarina</Landmark>.<zbr/>
-    <Landmark>Sta. Cruz</Landmark>.<zbr/> 
-	De <Landmark>Sardinas</Landmark>.<zbr/> 
-	De los <Landmark>Sauces</Landmark><zbr/> 
-		___PROMONTORIOS___.<zbr/>
+    <Landmark>Sta. Cruz</Landmark>.<zbr/> De <Landmark>Sardinas</Landmark>.<zbr/> De los
+        <Landmark>Sauces</Landmark><zbr/> ___PROMONTORIOS___.<zbr/>
     <Landmark>Buen Suceso</Landmark>.<zbr/> De la <Landmark>Victoria</Landmark>.<zbr/>
     <Landmark>Deseado</Landmark>.<zbr/>
     <Landmark>Froivard</Landmark>.<zbr/>
@@ -840,8 +838,7 @@
     <Landmark>San Juan</Landmark>.<zbr/>
     <Landmark>San Isidoro</Landmark>.<zbr/>
     <Landmark>Santa Elena</Landmark>.<zbr/>
-    <Landmark>Once mil Vírgenes</Landmark>.<zbr/> 
-	###___PUERTOS___.<zbr/>
+    <Landmark>Once mil Vírgenes</Landmark>.<zbr/> ###___PUERTOS___.<zbr/>
     <Landmark>Buen Suceso</Landmark>.<zbr/> De <Landmark>Leones</Landmark>.<zbr/>
     <Landmark>Deseado</Landmark>.<zbr/>
     <Landmark>Enrrico</Landmark>.<zbr/> De la <Landmark>Hambre</Landmark>.<zbr/>
@@ -1157,7 +1154,7 @@
     Cabeza del E, sale al <Concept_Landmark>mar</Concept_Landmark> en la gran
         <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Samaná</Landmark> entre el
         <Concept_Landmark>Río</Concept_Landmark> de las <Landmark>Culebras</Landmark> y el de la
-        <LOC>Sabana</LOC> de la <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
+        <Landmark>Sabana</Landmark> de la <Concept_Landmark>mar</Concept_Landmark>. <zbr/>
     <zbr/> §§§id_09391§§§<zbr/> MAGUACA, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el
@@ -1349,23 +1346,18 @@
         <Settlement>Quito</Settlement> a hacer la Visita. Los demás
         <Concept_Settlement>Pueblos</Concept_Settlement> fundados por los Misioneros son los
     siguientes: <zbr/>
-    <zbr/> 
-	ßßß<zbr/>
- #<Settlement>S. Bartolomé de Necoay</Settlement>.<zbr/>
- <Settlement>S. Pedro de 
-    Aguarico</Settlement>.<zbr/>
- <Settlement>S. Estanislao de Aguarico</Settlement>.<zbr/>
- <Settlement>S. Luis Gonzaga</Settlement>.<zbr/>
+    <zbr/> ßßß<zbr/> #<Settlement>S. Bartolomé de Necoay</Settlement>.<zbr/>
+    <Settlement>S. Pedro de Aguarico</Settlement>.<zbr/>
+    <Settlement>S. Estanislao de Aguarico</Settlement>.<zbr/>
+    <Settlement>S. Luis Gonzaga</Settlement>.<zbr/>
     <Settlement>Santa Cruz</Settlement>.<zbr/>
- <Settlement>El nombre de Jesús</Settlement>.<zbr/>
-<Settlement> S. Pablo de
-        Guajoya</Settlement>.<zbr/>
- <Settlement>El nombre de María</Settlement>.<zbr/>
- <Settlement>S. Xavier de Icaguates</Settlement>.<zbr/>
-    <Settlement>S. Juan Baptista de los<zbr/>
-    Encavellados</Settlement>.<zbr/>
- <Settlement>La Reyna de los Angeles</Settlement>.<zbr/>
- <Settlement>S. Xavier de Urarines</Settlement>.<zbr/>
+    <Settlement>El nombre de Jesús</Settlement>.<zbr/>
+    <Settlement> S. Pablo de Guajoya</Settlement>.<zbr/>
+    <Settlement>El nombre de María</Settlement>.<zbr/>
+    <Settlement>S. Xavier de Icaguates</Settlement>.<zbr/>
+    <Settlement>S. Juan Baptista de los<zbr/> Encavellados</Settlement>.<zbr/>
+    <Settlement>La Reyna de los Angeles</Settlement>.<zbr/>
+    <Settlement>S. Xavier de Urarines</Settlement>.<zbr/>
     <Settlement>S. Francisco de Borja</Settlement>.<zbr/>
     <Settlement>S. Ignacio de Mainas</Settlement>.<zbr/>
     <Settlement>S. Andrés del Alto</Settlement>.<zbr/>
@@ -1373,12 +1365,11 @@
     <Settlement>Simigaes</Settlement>.<zbr/>
     <Settlement>S. Joseph de Pinches</Settlement>.<zbr/>
     <Settlement>Concepción de Caguapanes</Settlement>.<zbr/>
- <Settlement>Presentación de Chayavitas</Settlement>. <zbr/>
-    <Settlement>Encarnación de Paranapuras</Settlement>.<zbr/>
- ##<Settlement>Concepción de
-    Xibaros</Settlement>.<zbr/>
- <Settlement>S. Antonio de la Laguna</Settlement>.<zbr/>
- <Settlement>S. Xavier de Chamicuro</Settlement>.<zbr/>
+    <Settlement>Presentación de Chayavitas</Settlement>. <zbr/>
+    <Settlement>Encarnación de Paranapuras</Settlement>.<zbr/> ##<Settlement>Concepción de
+        Xibaros</Settlement>.<zbr/>
+    <Settlement>S. Antonio de la Laguna</Settlement>.<zbr/>
+    <Settlement>S. Xavier de Chamicuro</Settlement>.<zbr/>
     <Settlement>S. Antonio Abad de Aguanos</Settlement>.<zbr/>
     <Settlement>Nuestra Señora de las Nieves de Yurimaguas</Settlement>.<zbr/>
     <Settlement>S. Antonio de Padua</Settlement>.<zbr/>
@@ -1386,21 +1377,13 @@
     <Settlement>S. Pablo Apóstol de Napeanos</Settlement>.<zbr/>
     <Settlement>S. Felipe de Amaonas</Settlement>.<zbr/>
     <Settlement>S. Simón de Nahuapo</Settlement>.<zbr/>
- <Settlement>S. Francisco Regís de
-    Yaméos</Settlement>.<zbr/>
- <Settlement>S. Ignacio de Pevas y Cumaraes</Settlement>.<zbr/>
+    <Settlement>S. Francisco Regís de Yaméos</Settlement>.<zbr/>
+    <Settlement>S. Ignacio de Pevas y Cumaraes</Settlement>.<zbr/>
     <Settlement>Nuestra Señora de las Nieves</Settlement>.<zbr/>
     <Settlement>S. Francisco Regis del Baradero</Settlement>.<zbr/>
-    <Settlement>Santa Teresa de Mainas</Settlement>. <zbr/>
- $$$<zbr/>
-    <zbr/>
- ___SERIE DE LOS GOBERNADORES de <Territory>Mainas</Territory>___ <zbr/>
-    <zbr/>
- ßßß<zbr/>
- #1. Don <persName>Diego Vaca de Vega</persName>, Conquistador de la
-        <Concept_Territory>Provincia</Concept_Territory>. <zbr/>
- 2. Don <persName>Pedro Vaca de la
-        Cadena</persName>. <zbr/>
- 3. Don <persName>Martín de la Riva</persName>.<zbr/>
-
+    <Settlement>Santa Teresa de Mainas</Settlement>. <zbr/> $$$<zbr/>
+    <zbr/> ___SERIE DE LOS GOBERNADORES de <Territory>Mainas</Territory>___ <zbr/>
+    <zbr/> ßßß<zbr/> #1. Don <persName>Diego Vaca de Vega</persName>, Conquistador de la
+        <Concept_Territory>Provincia</Concept_Territory>. <zbr/> 2. Don <persName>Pedro Vaca de la
+        Cadena</persName>. <zbr/> 3. Don <persName>Martín de la Riva</persName>.<zbr/>
     <zbr/></xml>

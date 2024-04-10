@@ -1,11 +1,13 @@
 <?xml-stylesheet type="text/css" href="../test.css"?>
 <xml>@@@Alcedo_vol_5-titular@@@<zbr/>
-    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS INDIAS OCCIDENTALES <zbr/> O
-    AMERICA: <zbr/> ES A SABER: <zbr/> DE LOS REYNOS DEL <Territory>Perú</Territory>,
-        <Territory>Nueva España</Territory>, <Territory>Tierra Firme</Territory>,
-        <Territory>Chile</Territory>, y <Territory>Nuevo Reyno de Granada</Territory>. <zbr/> CON LA
-    DESCRIPCION <zbr/> de sus <Concept_Territory>Provincias</Concept_Territory>,
-        <Concept_Group>Naciones</Concept_Group>, <Concept_Settlement>Ciudades</Concept_Settlement>,
+    <zbr/> #DICCIONARIO <zbr/> GEOGRAFICO-HISTORICO <zbr/> DE LAS <Territory>INDIAS
+        OCCIDENTALES</Territory>
+    <zbr/> O <Territory>AMERICA</Territory>: <zbr/> ES A SABER: <zbr/> DE LOS REYNOS DEL
+        <Territory>Perú</Territory>, <Territory>Nueva España</Territory>, <Territory>Tierra
+        Firme</Territory>, <Territory>Chile</Territory>, y <Territory>Nuevo Reyno de
+        Granada</Territory>. <zbr/> CON LA DESCRIPCION <zbr/> de sus
+        <Concept_Territory>Provincias</Concept_Territory>, <Concept_Group>Naciones</Concept_Group>,
+        <Concept_Settlement>Ciudades</Concept_Settlement>,
         <Concept_Settlement>Villas</Concept_Settlement>,
         <Concept_Settlement>Pueblos</Concept_Settlement>, <Concept_Landmark>Ríos</Concept_Landmark>,
         <Concept_Landmark>Montes</Concept_Landmark>, <Concept_Landmark>Costas</Concept_Landmark>,
@@ -22,9 +24,11 @@
     de varios lugares: incendios, terremotos, sitios, e invasiones que han experimentado: y hombres
     ilustres que han producido.<zbr/> ESCRITO <zbr/> POR EL CORONEL DON <persName>ANTONIO DE
         ALCEDO</persName>, <zbr/> Capitán de Reales Guardias Españolas.<zbr/> TOMO V. <zbr/>
-    <zbr/> CON LICENCIA: <zbr/> MADRID EN LA IMPRENTA DE MANUEL GONZALEZ. <zbr/> MDCCLXXXIX. <zbr/>
+    <zbr/> CON LICENCIA: <zbr/> MADRID EN LA IMPRENTA DE <persName>MANUEL GONZALEZ</persName>.
+    <zbr/> MDCCLXXXIX. <zbr/>
     <zbr/> @@@Alcedo_vol_5-0001@@@<zbr/>
-    <zbr/> ___DICCIONARIO GEOGRÁFICO DE LAS INDIAS OCCIDENTALES O AMERICA___<zbr/>
+    <zbr/> ___DICCIONARIO GEOGRÁFICO DE LAS <Territory>INDIAS OCCIDENTALES</Territory> O
+        <Territory>AMERICA</Territory>___<zbr/>
     <zbr/> §§§id_15475§§§<zbr/> #TABAA, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Cabeza de partido</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Villalta</Territory> en <Territory>Nueva
@@ -478,7 +482,7 @@
         <Concept_Territory>Provincia</Concept_Territory> de la <Territory>Nueva
         Inglaterra</Territory> en los <Territory>Estados Unidos de la América</Territory>. <zbr/>
     <zbr/> §§§id_15529§§§<zbr/> TACMARA, <Concept_Group>Nación antigua de Indios</Concept_Group> de
-        <Group>Chinchaysuyu</Group> en el <Territory>Perú</Territory>, la conquistó y unió al
+        <Territory>Chinchaysuyu</Territory> en el <Territory>Perú</Territory>, la conquistó y unió al
     Imperio <persName>Yahuar-Huacac</persName>, VII Emperador, siendo Príncipe hereditario. <zbr/>
     <zbr/> §§§id_15530§§§<zbr/> TACNA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
