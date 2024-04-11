@@ -13,8 +13,8 @@
     helarse, sino por quanto facilita el transporte por el <Concept_Landmark>río</Concept_Landmark>
     de todas las producciones, aumentando el caudal de sus aguas. <zbr/>§§§id_00385a§§§ <zbr/>La
         <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo nombre, fundada por los
-        <humanGroup type="political_group">Holandeses</humanGroup> el año de 1608, con el de
-        <Settlement>Orange</Settlement> a orilla del <Concept_Landmark>río</Concept_Landmark>
+        <humanGroup type="political_group">Holandeses</humanGroup> el año de 1608, con el de Orange
+    a orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Hudson</Landmark>; es pequeña, pero de mucho comercio por la inmediación de los
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Iroqueses</humanGroup>; tiene 350 casas hechas a la moda de
@@ -39,7 +39,8 @@
         <Concept_Landmark>Costa</Concept_Landmark> del N, en la Cabecera, del O de la
         <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Santo Domingo</Territory>, y
         <Concept_Territory>territorio</Concept_Territory> que poseen los <humanGroup
-        type="political_group">Franceses</humanGroup>, está entre el trou o agujero del
+        type="political_group">Franceses</humanGroup>, está entre el
+        <Concept_Landmark>trou</Concept_Landmark> o <Concept_Landmark>agujero</Concept_Landmark> del
         <Landmark>Infierno</Landmark>, y el de <Landmark>Bombón</Landmark>. <zbr/>§§§id_00389§§§
     <zbr/>ALBARRACIN, Páramo de) <Concept_Landmark>Monte</Concept_Landmark> muy alto, cubierto
     siempre de nieve, en el <Territory>Nuevo Reyno de Granada</Territory>. <zbr/>§§§id_00390§§§
@@ -65,7 +66,7 @@
         septentrional</Territory>, uno de los dos que la componen, y es la parte más agradable, más
     fértil, y de sano temperamento; produce muchos frutos y legumbres, y el Invierno es muy
     templado: se estableció esta <Concept_Territory>Colonia</Concept_Territory> en 1670 por los
-    Señores propietarios de la <Settlement>Carolina</Settlement>, que equiparon a su
+    Señores propietarios de la <Territory>Carolina</Territory>, que equiparon a su
         <Concept_Landmark>costa</Concept_Landmark> tres navios, y considerable número de gente, con
     provisiones para 18 meses, y abundancia de géneros, instrumentos y municiones, propios para el
     nuevo establecimiento, cuidando de socorrerlo todos los años, hasta que los habitantes se vieron
@@ -83,7 +84,7 @@
         <Concept_Landmark>estrecho</Concept_Landmark>, que es la boca o salida al
         <Concept_Landmark>mar</Concept_Landmark> del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Roanoke</Landmark>. <zbr/>§§§id_00396§§§ <zbr/>ALBERTO,
-        <Concept_Settlement>Pueblo</Concept_Settlement> pequeño ó
+        <Concept_Settlement>Pueblo</Concept_Settlement> pequeño o
         <Concept_Settlement>barrio</Concept_Settlement> de la <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de <Settlement>Tlazintla</Settlement>, y
         <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Ixmiquilpan</Territory>,
@@ -124,11 +125,10 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Capitanía</Concept_Territory> de <Territory>Marañam</Territory>, en el
         <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, ha sido
-    invadida muchas veces por los <humanGroup type="social_group">Indios</humanGroup> Infieles,
-    destruyendo sus <Concept_Structure>ingenios</Concept_Structure> y labores, por lo qual es muy
-    reducido su vecindario. <zbr/>§§§id_00405§§§ <zbr/>Otro
-        <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo nombre en la
-        <Concept_Territory>Provincia</Concept_Territory> y
+    invadida muchas veces por los <Concept_Group>Indios Infieles</Concept_Group>, destruyendo sus
+        <Concept_Structure>ingenios</Concept_Structure> y labores, por lo qual es muy reducido su
+    vecindario. <zbr/>§§§id_00405§§§ <zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay
+    del mismo nombre en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_District>Partido</Concept_District> de <Territory>Chanco</Territory>,
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, cerca de la
     orilla del <Concept_Landmark>río</Concept_Landmark>
@@ -226,8 +226,8 @@
     <humanGroup type="indigenous_group">Chiquitos</humanGroup>, situado a orilla del
         <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Ubay</Landmark>, con un buen <Concept_Landmark>Puerto</Concept_Landmark> en él, por
-    cuya causa se le conocía también con el nombre de <Concept_Landmark>Puerto</Concept_Landmark> de
-    los Chiquitos; hoy está destruido, y solo se ven ruinas. <zbr/>§§§id_00422§§§ <zbr/>ALFAXAIUCA,
+    cuya causa se le conocía también con el nombre de Puerto de los Chiquitos; hoy está destruido, y
+    solo se ven ruinas. <zbr/>§§§id_00422§§§ <zbr/>ALFAXAIUCA,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Xilotepec</Territory>, en <Territory>Nueva
         España</Territory>; tiene 171 familias de <humanGroup type="social_group"
@@ -322,7 +322,7 @@
     <zbr/>#aumento, ni diminución; viven en él 172 familias de <humanGroup type="social_group"
         >Indios</humanGroup>, y dista 7 leguas al N de su
         <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>§§§id_00441§§§ <zbr/>ALKANSAS,
-        <Concept_Group>Nación de Indios</Concept_Group> Salvages del <Territory>Canadá</Territory> o
+        <Concept_Group>Nación de Indios Salvages</Concept_Group> del <Territory>Canadá</Territory> o
         <Territory>Nueva Francia</Territory>, situada en 33 grad. de latit. sept. a la parte occid.
     del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Misisipi</Landmark>. <zbr/>§§§id_00442§§§ <zbr/>ALLAUCA,
@@ -399,8 +399,8 @@
     fértil en trigo, maíz, cebada, frutas, y algún ganado; es de temperamento benigno y templado, y
     en su <Concept_District>distrito</Concept_District> tiene algunas
         <Concept_Landmark>minas</Concept_Landmark> de oro; está 7 leguas al S de
-        <Territory>Popayán</Territory>. Lat. aust. <zbr/>§§§id_00454§§§ <zbr/>ALMAS, Real del río de
-    las) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de
+        <Settlement>Popayán</Settlement>. Lat. aust. 1 53.<zbr/>§§§id_00454§§§ <zbr/>ALMAS, Real del
+    río de las) <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Real de
         minas</Concept_Settlement> de oro de los <humanGroup type="political_group"
         >Portugueses</humanGroup>, en el <Concept_Territory>territorio</Concept_Territory> de los
         <Concept_Group>Indios</Concept_Group>
@@ -410,7 +410,7 @@
         <Landmark>Tocantines</Landmark>. <zbr/>§§§id_00455§§§ <zbr/>Tiene el mismo nombre un
         <Concept_Landmark>río</Concept_Landmark> del propio
         <Concept_Territory>Reyno</Concept_Territory> y
-        <Concept_Territory>territorio</Concept_Territory> y, que nace en la
+        <Concept_Territory>territorio</Concept_Territory>, que nace en la
         <Concept_Landmark>sierra</Concept_Landmark>, cerca de la <Settlement>Villaboa</Settlement>,
     al S, corre al E, y torciendo luego su curso a aquel rumbo, entra en el de
         <Landmark>Tocantines</Landmark>. <zbr/>§§§id_00456§§§ <zbr/>ALMENAS,
@@ -434,7 +434,7 @@
     <Landmark>Aracay</Landmark>. <zbr/>§§§id_00459§§§ <zbr/>Tiene el mismo nombre una
         <Concept_Landmark>Bahía</Concept_Landmark> en la <Concept_Landmark>Costa</Concept_Landmark>
     de la <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de Veragua,
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Veragua</Territory>,
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Tierra Firme</Territory>, y al O
     del <Landmark>Escudo</Landmark>, llamada así por haberla descubierto el Almirante Don
         <persName>Christóbal Colon</persName> en su quarto viage: tiene a la entrada muchos
@@ -455,13 +455,12 @@
         <Settlement>Temascaltepec</Settlement>: dista de su
         <Concept_Settlement>Capital</Concept_Settlement> 3 leguas al O, y un quarto al SE.
     <zbr/>§§§id_00462§§§ <zbr/>Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo
-    nombre con la advocación de San Miguel del <Concept_Landmark>Río</Concept_Landmark>,
-        <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de la
-        <Concept_Territory>Alcaldía mayor</Concept_Territory> de <Territory>Metepec</Territory>, en
-    el propio <Concept_Territory>Reyno</Concept_Territory>; tiene 156 familias de <humanGroup
-        type="social_group">Indios</humanGroup>, y a su <Concept_District>Curato</Concept_District>
-    están anexos otros varios: dista 3 leguas al ONO de su
-        <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
+    nombre con la advocación de San Miguel del Río, <Concept_Settlement>Cabecera de
+        Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+        <Territory>Metepec</Territory>, en el propio <Concept_Territory>Reyno</Concept_Territory>;
+    tiene 156 familias de <humanGroup type="social_group">Indios</humanGroup>, y a su
+        <Concept_District>Curato</Concept_District> están anexos otros varios: dista 3 leguas al ONO
+    de su <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>
     <zbr/>@@@Alcedo_vol_1-0053@@@ <zbr/>§§§id_00463§§§ <zbr/>#ALMOLOLOIAN,
         <Concept_Settlement>Pueblo</Concept_Settlement> y <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
@@ -562,7 +561,7 @@
         de Partido</Concept_Settlement>, y <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Jochimilco</Territory>, en <Territory>Nueva España</Territory>, aunque está
     situado en la <Concept_Territory>jurisdicción</Concept_Territory> de la de
-        <Territory>Tétela</Territory>; comprehende 30 familias de <humanGroup type="social_group"
+        <Territory>Tetela</Territory>; comprehende 30 familias de <humanGroup type="social_group"
         >Indios</humanGroup>, y un Convento de Religiosos de Santo Domingo. <zbr/>§§§id_00481§§§
     <zbr/>ALPUIECA, Santa María de) <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera de Partido</Concept_Settlement> de
@@ -571,8 +570,8 @@
     de <humanGroup type="social_group">Indios</humanGroup>. <zbr/>§§§id_00482§§§ <zbr/>ALTA,
         <Concept_Landmark>Laguna</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Barcelona</Territory>, y
-    Go##bierno de <Territory>Cumaná</Territory>; está al S del
-        <Concept_Landmark>valle</Concept_Landmark> de la <Landmark>Pasqua</Landmark>, y al O del
+        <Concept_Territory>Go##bierno</Concept_Territory> de <Territory>Cumaná</Territory>; está al
+    S del <Concept_Landmark>valle</Concept_Landmark> de la <Landmark>Pasqua</Landmark>, y al O del
         <Concept_Landmark>río</Concept_Landmark> de <Landmark>Unare</Landmark> muy inmediata, y se
     comunica con el. <zbr/>§§§id_00483§§§ <zbr/>ALTABOIANO,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
@@ -852,7 +851,7 @@
         <Landmark>Orinoco</Landmark>, en su boca grande llamada de <Landmark>Navios</Landmark>.
     <zbr/>§§§id_00518§§§ <zbr/>AMADEA, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> y
-        <Concept_Territory>Gobierno</Concept_Territory> de S. <Territory>Juan de los
+        <Concept_Territory>Gobierno</Concept_Territory> de <Territory>S. Juan de los
         Llanos</Territory>, en el <Territory>Nuevo Reyno de Granada</Territory>, nace al N de su
         <Concept_Settlement>Capital</Concept_Settlement> y se incorpora con el
         <Landmark>Meta</Landmark> muy al principio. <zbr/>§§§id_00519§§§ <zbr/>AMAGUAJES, S. Antonio
@@ -879,16 +878,17 @@
         <Settlement>Conocoto</Settlement>, y aumentando su caudal con las aguas de los
         <Concept_Landmark>arroyos</Concept_Landmark> que baxan de la parte del O e la
         <Concept_Landmark>cordillera</Concept_Landmark>
-    <Landmark>Oriental</Landmark>; muda su nombre en el de Guaillabamba; y después de recoger las
-    aguas de otro, llamado <Landmark>Pisque</Landmark>, toma la denominación de Alchipichi,
-    siguiendo su curso al N, hasta entrar en el de <Landmark>Esmeraldas</Landmark>, tan caudaloso,
-    que cerca del <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement> S.
-        Antonio</Settlement>, en el <Concept_Territory>Corregimiento</Concept_Territory> de
-        <Territory>Quito</Territory>, es preciso atravesarlo en <Settlement>Taravita</Settlement>,
-    pues su anchura no permite <Concept_Landmark>vado</Concept_Landmark>, ni puente.
-    <zbr/>§§§id_00522§§§ <zbr/>AMAGUNTICK, <Concept_Landmark>Estanque</Concept_Landmark> o
-        <Concept_Landmark>Laguna</Concept_Landmark> de la <Territory>Nueva Francia</Territory>, en
-    los confines de la <Territory>Nueva Inglaterra</Territory>. <zbr/>§§§id_00523§§§ <zbr/>AMALA,
+    <Landmark>Oriental</Landmark>; muda su nombre en el de <Landmark>Guaillabamba</Landmark>; y
+    después de recoger las aguas de otro, llamado <Landmark>Pisque</Landmark>, toma la denominación
+    de <Landmark>Alchipichi</Landmark>, siguiendo su curso al N, hasta entrar en el de
+        <Landmark>Esmeraldas</Landmark>, tan caudaloso, que cerca del
+        <Concept_Settlement>Pueblo</Concept_Settlement> de <Settlement> S. Antonio</Settlement>, en
+    el <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Quito</Territory>, es
+    preciso atravesarlo en <Settlement>Taravita</Settlement>, pues su anchura no permite
+        <Concept_Landmark>vado</Concept_Landmark>, ni puente. <zbr/>§§§id_00522§§§ <zbr/>AMAGUNTICK,
+        <Concept_Landmark>Estanque</Concept_Landmark> o <Concept_Landmark>Laguna</Concept_Landmark>
+    de la <Territory>Nueva Francia</Territory>, en los confines de la <Territory>Nueva
+        Inglaterra</Territory>. <zbr/>§§§id_00523§§§ <zbr/>AMALA,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Chayanta</Territory> o
@@ -964,7 +964,7 @@
     <Landmark>Perene</Landmark> o <Landmark>antiguo Marañon</Landmark>. <zbr/>§§§id_00536§§§
     <zbr/>AMANTAÑE, San Miguel de) <Concept_Landmark>Isla</Concept_Landmark> de la gran
         <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Chucuito</Landmark>, perteneciente
-    ala <Concept_Territory>Provincia</Concept_Territory> de <Territory>Paucarcolla</Territory>, en
+    a la <Concept_Territory>Provincia</Concept_Territory> de <Territory>Paucarcolla</Territory>, en
     cuya altura hay unos <Concept_Landmark>llanos</Concept_Landmark> donde se ven, aunque
     maltratados de las injurias del tiempo, algunos <Concept_Settlement>Pueblos</Concept_Settlement>
     grandes, con la particularidad de ser las casas uniformes fabricadas de piedra, bóvedas de lo
@@ -972,7 +972,7 @@
         <Concept_Landmark>Isla</Concept_Landmark>, que tiene tres leguas de circunferencia está
     llena de huertas y jardines, que <zbr/>
     <zbr/>@@@Alcedo_vol_1-0061@@@ <zbr/>
-    <zbr/>#producen frutas, hortalizas y flores, <zbr/>§§§id_00537§§§ <zbr/>AMANTARA,
+    <zbr/>#producen frutas, hortalizas y flores. <zbr/>§§§id_00537§§§ <zbr/>AMANTARA,
         <Concept_Landmark>Isla</Concept_Landmark> pequeña de la
         <Concept_Landmark>laguna</Concept_Landmark>
     <Landmark>Titicaca</Landmark>, perteneciente a la
@@ -1002,7 +1002,7 @@
     de la pesca, y sus armas son arcos y flechas, que untan con veneno muy activo hecho de yervas:
     el <Concept_Territory>territorio</Concept_Territory> se llama <Territory>Amapaya</Territory>, y
     está comprehendido en la <Concept_Territory>Provincia</Concept_Territory> de
-        <Landmark>Paria</Landmark>. <zbr/>§§§id_00541§§§ <zbr/>AMAPALA,
+        <Territory>Paria</Territory>. <zbr/>§§§id_00541§§§ <zbr/>AMAPALA,
         <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de ##<Territory>Nicaragua</Territory>, en el
@@ -1058,8 +1058,7 @@
     nombre, en virtud de concesión de propiedad que le hizo el Rey Don <persName>Pedro</persName>,
     en premio de lo que. había servido en aquella Conquista; y luego la vendió al Coronel
         <persName>Manuel Araujo de Aragón</persName>, cuyos descendientes la poseen hoy. Es de corta
-        <Concept_Settlement>Población</Concept_Settlement> y comercio, situada cerca del
-        <Concept_Landmark>río</Concept_Landmark>
+    Población y comercio, situada cerca del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Longoribo</Landmark>. <zbr/>§§§id_00550§§§ <zbr/>Otro
         <Concept_Settlement>Pueblo</Concept_Settlement> hay de este nombre, con la denominación de
         <Concept_Landmark>Mina</Concept_Landmark> de Luis Amaro, en el
@@ -1089,9 +1088,10 @@
         <Concept_Territory>Provincia</Concept_Territory> donde tienen los <humanGroup
         type="political_group">Portugueses</humanGroup> un
         <Concept_Structure>Fuerte</Concept_Structure> o
-        <Concept_Structure>Castillo</Concept_Structure> con nombre de la Cruz. Está al lado de la
-        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>San Vicente</Landmark>.
-    <zbr/>§§§id_00556§§§ <zbr/>AMARUCA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
+        <Concept_Structure>Castillo</Concept_Structure> con nombre de la
+    <Structure>Cruz</Structure>. Está al lado de la <Concept_Landmark>Bahía</Concept_Landmark> de
+        <Landmark>San Vicente</Landmark>. <zbr/>§§§id_00556§§§ <zbr/>AMARUCA,
+        <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Guayana</Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cumaná</Territory>, uno de los
     de las Misiones que tienen en ella los Padres Capuchinos <humanGroup type="political_group"
@@ -1207,15 +1207,16 @@
     <zbr/>Otro con la advocación de San Joseph <Concept_Settlement>Cabecera de
         Partido</Concept_Settlement> de la <Concept_Territory>Alcaldía mayor</Concept_Territory> de
         <Territory>Zacatlán</Territory>. En él y en los
-        <Concept_Settlement>Barrios</Concept_Settlement> de su dis <zbr/>
-    <zbr/>@@@Alcedo_vol_1-0065@@@ <zbr/>
-    <zbr/>#trito están avecindadas 248 familias de <humanGroup type="social_group"
-        >Indios</humanGroup>. <zbr/>§§§id_00573§§§ <zbr/>Otro con la advocación de San Pedro de la
-        <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y <Concept_Territory>Alcaldía
-        mayor</Concept_Territory> de <Territory>Cozamaloapan</Territory>. Es de temperamento cálido,
-    situado a la orilla del caudaloso <Concept_Landmark>río</Concept_Landmark> que tiene este
-    nombre, fue antiguamente la <Concept_Settlement>Capital</Concept_Settlement>: tiene 150 familias
-    de <humanGroup type="social_group">Indios</humanGroup>, y está 2 leguas al E de la
+        <Concept_Settlement>Barrios</Concept_Settlement> de su <Concept_District>dis <zbr/>
+        <zbr/>@@@Alcedo_vol_1-0065@@@ <zbr/>
+        <zbr/>#trito</Concept_District> están avecindadas 248 familias de <humanGroup
+        type="social_group">Indios</humanGroup>. <zbr/>§§§id_00573§§§ <zbr/>Otro con la advocación
+    de San Pedro de la <Concept_Settlement>Cabecera de Partido</Concept_Settlement> y
+        <Concept_Territory>Alcaldía mayor</Concept_Territory> de
+    <Territory>Cozamaloapan</Territory>. Es de temperamento cálido, situado a la orilla del
+    caudaloso <Concept_Landmark>río</Concept_Landmark> que tiene este nombre, fue antiguamente la
+        <Concept_Settlement>Capital</Concept_Settlement>: tiene 150 familias de <humanGroup
+        type="social_group">Indios</humanGroup>, y está 2 leguas al E de la
         <Concept_Settlement>Capital</Concept_Settlement>. <zbr/>§§§id_00574§§§ <zbr/>Otro en la
         <Concept_Settlement>Cabecera de Partido</Concept_Settlement>, y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Izatlán</Territory>: está 12 leguas de
@@ -1378,9 +1379,9 @@
         <Concept_Territory>Colonia</Concept_Territory> de <Territory>Virginia</Territory>, en la
         <Territory>América Septentrional</Territory>, está entre varios
         <Concept_Landmark>ríos</Concept_Landmark> y confina por el N con el de
-        <Landmark>Cumberland</Landmark> al E con el del <Landmark>Príncipe</Landmark> Jorge, y <zbr/>
+        <Territory>Cumberland</Territory> al E con el del <Territory>Príncipe Jorge</Territory>, y <zbr/>
     <zbr/>@@@Alcedo_vol_1-0068@@@ <zbr/>
-    <zbr/>#al S y O con el de <Landmark>Lunemburg</Landmark>. <zbr/>§§§id_00594§§§ <zbr/>Tiene el
+    <zbr/>#al S y O con el de <Territory>Lunemburg</Territory>. <zbr/>§§§id_00594§§§ <zbr/>Tiene el
     mismo nombre una <Concept_Landmark>Isla</Concept_Landmark> situada 7 leguas al N de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement> S. Agustín</Settlement>,
     sobre la <Concept_Landmark>Costa</Concept_Landmark> del E de la <Territory>Florida</Territory>;
@@ -1404,7 +1405,7 @@
         <Concept_Landmark>mar</Concept_Landmark>, y solo es continente acia el Polo Artico, cuyos
     límites se ignoran: fue desconocido de los antiguos este Inmenso
         <Concept_Territory>País</Concept_Territory>, que tiene cerca de 2.000 leguas de longitud,
-    hasta que lo descubrió <persName>Christóbal Colon Genovés</persName>, en servicio de los Reyes
+    hasta que lo descubrió <persName>Christóbal Colon</persName> Genovés, en servicio de los Reyes
     Católicos, Don <persName>Fernando el V</persName>, y Doña <persName>Isabel</persName>, en quatro
     viages consecutivos, que empezó sa##líendo del <Concept_Landmark>Puerto</Concept_Landmark> de
         <Settlement>Palos de Moguer</Settlement>, con 3 Caravelas y 90 hombres, el año de 1491, en
@@ -1413,16 +1414,16 @@
     quimera la existencia de los <Concept_Territory>Países</Concept_Territory> que proponía hallar;
     y después en él viage para sosegar la gente que; lo acompañaba, y quiso matarle cansada de los
     trabajos y riesgos de tan dilatada navegación: llámase impropiamente
-        <Territory>América</Territory>, por el célebre Piloto <persName>Florentin Américo
+        <Territory>América</Territory>, por el célebre Piloto Florentin <persName>Américo
         Vespucio</persName>, que descubrió él Continente, al S de la Línea Equinoccial: algunos
     quieren que antes lo descubriese <persName>Sancho de Huelva</persName>, arrebatado de una
     tempestad, el año de 1484: los <humanGroup type="political_group">Ingleses</humanGroup> dicen
     que el de 1170 o 1190 la descubrió un tal <persName>Madoc</persName> o
         <persName>Madocro</persName>, hijo o hermano de <persName>Ousenquisneth</persName>, Príncipe
-    de Gales, que en dos viages a la <Territory>Virginia</Territory>,
-    <Territory>Florida</Territory>, <Territory>Canadá</Territory> y <Territory>México</Territory>,
-    llevó <humanGroup type="social_group">Colonos</humanGroup>
-    <humanGroup type="political_group">Ingleses</humanGroup>; pero todo esto es una invención. Este
+    de <Territory>Gales</Territory>, que en dos viages a la <Territory>Virginia</Territory>,
+        <Territory>Florida</Territory>, <Territory>Canadá</Territory> y
+        <Territory>México</Territory>, llevó Colonos <humanGroup type="political_group"
+        >Ingleses</humanGroup>; pero todo esto es una invención. Este
         <Concept_Territory>País</Concept_Territory> ha producido y produce muchísimo oro, plata, y
     demás metales y piedras preciosas, infinitas yerbas, plantas, frutos, raices, peces, aves y
     animales no conocidos, ni vistos hasta entonces, mu <zbr/>
@@ -1439,8 +1440,8 @@
         >Portugueses</humanGroup>, <humanGroup type="political_group">Holandeses</humanGroup> y
         <humanGroup type="political_group">Dinamarqueses</humanGroup>. Divídese la
         <Territory>América</Territory> en Septentrional y Meridional, por el
-        <Concept_Landmark>Itsmo</Concept_Landmark> de <Territory>Panamá</Territory>, o de
-        <Territory>Tierra Firme</Territory>. La parte Septentrional conocida hasta hoy, se extiende
+        <Concept_Landmark>Itsmo</Concept_Landmark> de <Landmark>Panamá</Landmark>, o de
+        <Landmark>Tierra Firme</Landmark>. La parte Septentrional conocida hasta hoy, se extiende
     desde 11 grados de latitud hasta 5, y comprehende los
         <Concept_Territory>Reynos</Concept_Territory> de <Territory>Nueva España</Territory>,
         <Territory>California</Territory>, <Territory>Luisiana</Territory>, <Territory>Nuevo
@@ -1456,7 +1457,7 @@
         <Territory>Quito</Territory>, <Concept_Territory>País</Concept_Territory> de las
         <Territory>Amazonas</Territory>, <Territory>Bra##sil</Territory>, y
         <Concept_Landmark>Tierras</Concept_Landmark>
-    <Landmark>Magallanicas</Landmark> o <Landmark>de los Patagones</Landmark>: sus mayores
+    <Territory>Magallanicas</Territory> o de los <Territory>Patagones</Territory>: sus mayores
         <Concept_Landmark>montañas</Concept_Landmark> son las de la gran Cadena o
         <Concept_Landmark>Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>, que corre
     del N al S, desde el <Concept_Landmark>Itsmo</Concept_Landmark> de
@@ -1499,19 +1500,23 @@
     carirredondos, de aspecto triste, sin barbas, y de buena estatura y complexión. Hay algunos, no
     obstante, que son de buen color, de semblante alegre y aspecto señoril, y entre las mugeres no
     faltan la gracia y la alegría. Ademas de los <humanGroup type="social_group">Indios</humanGroup>
-    habitan la <Territory>América</Territory> los <humanGroup type="social_group"
-        >Europeos</humanGroup>, que se han establecido en ella desde que la conquistaron, y los
-    hijos de estos, que se conocen con el nombre de <humanGroup type="social_group"
-        >criollos</humanGroup>, llamando a los otros chapetones en el <Territory>Perú</Territory>, y
-    Cachupines en <Territory>Nueva España</Territory>. Los negros, que en número muy considerable se
-    llevan de las <Concept_Landmark>Costas</Concept_Landmark> de <Territory>Africa</Territory>, y se
-    venden por <humanGroup type="social_group">esclavos</humanGroup> para trabajar en el cultivo de
-    las cañas, de que hacen azúcar, en las <Concept_Landmark>minas</Concept_Landmark> de oro y
-    plata, y demás trabajos, la mezcla que resulta de ellos llaman
-        <Concept_Group>castas</Concept_Group>, que son los <humanGroup type="social_group"
-        >Mestizos</humanGroup>, hijos de Español y de India: los <humanGroup type="social_group"
-        >Mulatos</humanGroup> de Español o blanco, y de Negra y otras, que tienen los nombres de
-    Sambo, Cholo, Puchuela, Salta atrás, Tente en el ayre, Quarteron, Quinterón, etc. Abundan en
-    este <Concept_Territory>País</Concept_Territory> el oro, la plata, cobre, azogue, fierro,
-    antimonlo, azufre, nitro, plomo, imán, y marmoles de todas especies y colores: hay diamantes, <zbr/>
+    habitan la <Territory>América</Territory> los <Concept_Group>Europeos</Concept_Group>, que se
+    han establecido en ella desde que la conquistaron, y los hijos de estos, que se conocen con el
+    nombre de <humanGroup type="social_group">criollos</humanGroup>, llamando a los otros
+        <Concept_Group>chapetones</Concept_Group> en el <Territory>Perú</Territory>, y
+        <Concept_Group>Cachupines</Concept_Group> en <Territory>Nueva España</Territory>. Los
+    negros, que en número muy considerable se llevan de las
+        <Concept_Landmark>Costas</Concept_Landmark> de <Territory>Africa</Territory>, y se venden
+    por <humanGroup type="social_group">esclavos</humanGroup> para trabajar en el cultivo de las
+    cañas, de que hacen azúcar, en las <Concept_Landmark>minas</Concept_Landmark> de oro y plata, y
+    demás trabajos, la mezcla que resulta de ellos llaman <Concept_Group>castas</Concept_Group>, que
+    son los <humanGroup type="social_group">Mestizos</humanGroup>, hijos de Español y de India: los
+        <humanGroup type="social_group">Mulatos</humanGroup> de Español o blanco, y de Negra y
+    otras, que tienen los nombres de <Concept_Group>Sambo</Concept_Group>,
+        <Concept_Group>Cholo</Concept_Group>, <Concept_Group>Puchuela</Concept_Group>,
+        <Concept_Group>Salta atrás</Concept_Group>, <Concept_Group>Tente en el ayre</Concept_Group>,
+        <Concept_Group>Quarteron</Concept_Group>, <Concept_Group>Quinterón</Concept_Group>, etc.
+    Abundan en este <Concept_Territory>País</Concept_Territory> el oro, la plata, cobre, azogue,
+    fierro, antimonlo, azufre, nitro, plomo, imán, y marmoles de todas especies y colores: hay
+    diamantes, <zbr/>
     <zbr/></xml>
