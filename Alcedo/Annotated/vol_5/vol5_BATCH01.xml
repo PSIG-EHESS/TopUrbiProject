@@ -24,8 +24,9 @@
     de varios lugares: incendios, terremotos, sitios, e invasiones que han experimentado: y hombres
     ilustres que han producido.<zbr/> ESCRITO <zbr/> POR EL CORONEL DON <persName>ANTONIO DE
         ALCEDO</persName>, <zbr/> Capitán de Reales Guardias Españolas.<zbr/> TOMO V. <zbr/>
-    <zbr/> CON LICENCIA: <zbr/> MADRID EN LA IMPRENTA DE <persName>MANUEL GONZALEZ</persName>.
-    <zbr/> MDCCLXXXIX. <zbr/>
+    <zbr/> CON LICENCIA: <zbr/>
+    <Settlement>MADRID</Settlement> EN LA IMPRENTA DE <persName>MANUEL GONZALEZ</persName>. <zbr/>
+    MDCCLXXXIX. <zbr/>
     <zbr/> @@@Alcedo_vol_5-0001@@@<zbr/>
     <zbr/> ___DICCIONARIO GEOGRÁFICO DE LAS <Territory>INDIAS OCCIDENTALES</Territory> O
         <Territory>AMERICA</Territory>___<zbr/>
@@ -47,8 +48,8 @@
     <zbr/> §§§id_15478§§§<zbr/> TABAGE, <Concept_Settlement>Pueblo</Concept_Settlement> grande de
         <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Salivas</humanGroup> con la advocación de Nuestra Señora,
-    fundado el año de 1682 por los Misioneros Regula##res de la extinguida Compañía cerca de la boca
-    del <Concept_Landmark>río</Concept_Landmark>
+    fundado el año de 1682 por los <humanGroup>Misioneros Regula##res de la extinguida
+        Compañía</humanGroup> cerca de la boca del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Sinaruco</Landmark>, en las <Concept_Landmark>llanuras</Concept_Landmark> del
         <Landmark>Orinoco</Landmark> y <Territory>Nuevo Reyno de Granada</Territory>, los
         <humanGroup type="indigenous_group">Caribes</humanGroup> lo destruyeron y quemaron
@@ -58,22 +59,22 @@
         <Landmark>Antilles menores</Landmark> o de las <Landmark>Caribes</Landmark>, situada al N de
     la de la <Territory>Trinidad</Territory>, tiene 8 leguas de largo y casi otras tantas de ancho,
     la poseían los <humanGroup type="political_group">Holandeses</humanGroup> que establecieron una
-        <Concept_Territory>Colonia</Concept_Territory> en ella el año de 1632 con el nombre de Nueva
-    Walcheren, pero los <humanGroup type="political_group">Franceses</humanGroup> mandados por el
-    Mariscal de <persName>Estrees</persName> los desalojaron el de 1677, y se quedaron con ella por
-    el tratado de Ni<zbr/>
-    <zbr/> @@@Alcedo_vol_5-0002@@@<zbr/> #mega: luego la abandonaron, y los <humanGroup
-        type="political_group">Ingleses</humanGroup> empezaron a cultivarla; pero también la dexaron
-    por las continuas incursiones que padecía de los <humanGroup type="social_group"
-        >Indios</humanGroup>
+        <Concept_Territory>Colonia</Concept_Territory> en ella el año de 1632 con el nombre de
+        <Settlement>Nueva Walcheren</Settlement>, pero los <humanGroup type="political_group"
+        >Franceses</humanGroup> mandados por el Mariscal de <persName>Estrees</persName> los
+    desalojaron el de 1677, y se quedaron con ella por el tratado de <Settlement>Ni<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0002@@@<zbr/> #mega</Settlement>: luego la abandonaron, y los
+        <humanGroup type="political_group">Ingleses</humanGroup> empezaron a cultivarla; pero
+    también la dexaron por las continuas incursiones que padecía de los <humanGroup
+        type="social_group">Indios</humanGroup>
     <humanGroup type="indigenous_group">Caribes</humanGroup> de <Territory>Tierra-Firme</Territory>
     que habitan en las <Concept_Landmark>bocas</Concept_Landmark> del <Landmark>Orinoco</Landmark>;
     y sin embargo de su fertilidad y buen clima ha quedado desde entonces inculta y desierta: dista
-    22 millas de la de la <Settlement>Trinidad</Settlement> y 124 al Mediodía de la
-        <Settlement>Barbada</Settlement>: está en 11 gr. 36 min. de lat. bor. <zbr/>
+    22 millas de la de la <Territory>Trinidad</Territory> y 124 al Mediodía de la
+        <Territory>Barbada</Territory>: está en 11 gr. 36 min. de lat. bor. <zbr/>
     <zbr/> §§§id_15480§§§<zbr/> TABAGUILLO, <Concept_Landmark>Islote</Concept_Landmark> pequeño de
     la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Norte</Landmark> que está junto a la
-    de <Landmark>Tabago</Landmark>. <zbr/>
+    de <Territory>Tabago</Territory>. <zbr/>
     <zbr/> §§§id_15481§§§<zbr/> TABAJE, Raudal de) <Concept_Landmark>Angostura</Concept_Landmark> en
     que se estrecha el <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Orinoco</Landmark>, y hace difícil y peligrosa la navegación, siendo preciso pasar a
@@ -119,8 +120,8 @@
     entraron en ella los <humanGroup type="political_group">Españoles</humanGroup> mandados del
     célebre <persName>Hernán Cortés</persName> para conquistar la <Territory>Nueva
         España</Territory>: el año de 1525 la conquistó y reduxo a la obediencia de los Reyes de
-    España el Capitán <persName>Vallecillo</persName>; es de temperamento cálido y húmedo, y la
-    tierra baxa <zbr/>
+        <Territory>España</Territory> el Capitán <persName>Vallecillo</persName>; es de temperamento
+    cálido y húmedo, y la tierra baxa <zbr/>
     <zbr/> @@@Alcedo_vol_5-0003@@@<zbr/> #y llana, pero muy llena de
         <Concept_Landmark>bosques</Concept_Landmark> en que hay abundancia de cedros, palo de brasil
     y otras muchas maderas; es <Concept_Territory>país</Concept_Territory> mal sano por los vientos
@@ -130,12 +131,11 @@
     mucho maíz, de que coge tres y quatro cosechas al año, arroz y cocos que envian a vender a la
         <Settlement>Vera-Cruz</Settlement>, legumbres, hortalizas y muchísimas yerbas medicinales,
     tabaco, y sobre todo cacao, que es el fruto más abundante y de que hace su principal comercio, y
-    en que pagaban los tributos sus naturales a los Emperadores de <Settlement>México</Settlement>;
-    no es menos abundante la pimienta, que tiene mucha estimación, y de que hace gran saca para
-    todas partes, aunque de inferior calidad a la de la <Territory>India</Territory>; la cría de
-    ganados de toda especie ha multiplicado mucho en este
-        <Concept_Territory>país</Concept_Territory>, y en sus
-        <Concept_Landmark>bosques</Concept_Landmark> hay tigres, leopardos, dantas, javalíes
+    en que pagaban los tributos sus naturales a los Emperadores de <Territory>México</Territory>; no
+    es menos abundante la pimienta, que tiene mucha estimación, y de que hace gran saca para todas
+    partes, aunque de inferior calidad a la de la <Territory>India</Territory>; la cría de ganados
+    de toda especie ha multiplicado mucho en este <Concept_Territory>país</Concept_Territory>, y en
+    sus <Concept_Landmark>bosques</Concept_Landmark> hay tigres, leopardos, dantas, javalíes
     pequeños, conejos, venados, monos, armadillos, tepeis, quintes semejantes a los ##gamos, pero
     chicos, y muchísimas aves, como faisanes, papagayos, codornices, gallinas, palomas, tórtolas y
     otras infinitas grandes y pequeñas: aunque hay con grande abundancia árboles de algodón no se
@@ -198,7 +198,7 @@
     el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento frío, pero con moderación,
     y muy sano, abundante en toda especie de frutos, tiene dos fuentes que están muy inmediatas una
     de otra de agua caliente y fría, donde tenían unos célebres baños muy deliciosos los Zipas o
-    Reyes de <Settlement>Bogotá</Settlement> quando entraron los <humanGroup type="political_group"
+    Reyes de <Territory>Bogotá</Territory> quando entraron los <humanGroup type="political_group"
         >Españoles</humanGroup>, tendrá 150 <humanGroup type="social_group">Indios</humanGroup> y
     250 familias de <humanGroup type="social_group">Españoles</humanGroup>, y dista 5 leguas al NO
     de <Settlement>Santa Fe</Settlement>. <zbr/>
@@ -223,9 +223,10 @@
         <Concept_Landmark>mar</Concept_Landmark> del <Landmark>Sur</Landmark>. <zbr/>
     <zbr/> §§§id_15497§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay del mismo
     nombre en el <Territory>Nuevo Reyno de León</Territory> y <Territory>América
-        Septentrional</Territory>, anexo al Cu<zbr/>
-    <zbr/> @@@Alcedo_vol_5-0005@@@<zbr/> #rato de la <Concept_Settlement>Villa</Concept_Settlement>
-    de <Settlement>Cadereita</Settlement>, de quien está muy inmediato por la parte del Oriente. <zbr/>
+        Septentrional</Territory>, anexo al <Concept_District>Cu<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0005@@@<zbr/> #rato</Concept_District> de la
+        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Cadereita</Settlement>, de
+    quien está muy inmediato por la parte del Oriente. <zbr/>
     <zbr/> §§§id_15498§§§<zbr/> Otro de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Quillota</Territory> en
     el <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado cerca
@@ -331,9 +332,9 @@
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Reyno</Concept_Territory> que el anterior en el
         <Concept_District>distrito</Concept_District> de la
-        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Mom</Settlement><zbr/>
-    <zbr/> @@@Alcedo_vol_5-0007@@@<zbr/>
-    <zbr/> #pox, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
+        <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Mom<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0007@@@<zbr/>
+        <zbr/> #pox</Territory>, situado a orilla del <Concept_Landmark>río</Concept_Landmark>
     <Landmark>Cauca</Landmark>, casi donde desemboca en el grande de la
         <Landmark>Magdalena</Landmark>, formado de la reunión de otros el año de 1776 por el
     Gobernador D. <persName>Francisco Pimienta</persName>. <zbr/>
@@ -356,7 +357,7 @@
         >Mulatos</humanGroup> y 170 de <humanGroup type="social_group">Indios</humanGroup>: tiene un
     Convento de Religiosos de San Agustín, y en su <Concept_District>distrito</Concept_District>
     varias <Concept_Structure>haciendas</Concept_Structure> en que cogen abundantes cosechas de
-    trigo, maíz y otras semillas, y algunos ingenios o
+    trigo, maíz y otras semillas, y algunos <Concept_Structure>ingenios</Concept_Structure> o
         <Concept_Structure>trapiches</Concept_Structure> en que fabrican porciones de azúcar, de
     cuyos frutos mantiene su comercio: media legua de la
         <Concept_Settlement>Población</Concept_Settlement> hay una
@@ -365,7 +366,7 @@
         <Concept_Structure>hacienda</Concept_Structure> de la misma casa, en que hay una profunda
     alberca de agua cristalina, dulce y delgada, que no se disminuye en tiempo de secas ni crece en
     el de lluvias, manteniéndose siempre en un mismo estado: está 14 leguas al S de
-        <Territory>Valladolid</Territory>. <zbr/>
+        <Settlement>Valladolid</Settlement>. <zbr/>
     <zbr/> §§§id_15514§§§<zbr/> TACAMES, µµµvéase Atácamesµµµ. <zbr/>
     <zbr/> §§§id_15515§§§<zbr/> TACAMOCHO, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
@@ -384,10 +385,10 @@
     <zbr/> §§§id_15517§§§<zbr/> TACARIGUA, <Concept_Landmark>Laguna</Concept_Landmark> grande de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> en el
-        <Territory>Nuevo Reyno de Granada</Territory>, llámase también de
-        <Settlement>Valencia</Settlement>, tiene 14 leguas de largo E O y 6 de ancho N S, es tan
-    profunda que a poca distancia de sus orillas no se le halla fondo, se forma de las aguas que se
-    juntan allí de catorce <Concept_Landmark>ríos</Concept_Landmark> que baxan de la
+        <Territory>Nuevo Reyno de Granada</Territory>, llámase también de Valencia, tiene 14 leguas
+    de largo E O y 6 de ancho N S, es tan profunda que a poca distancia de sus orillas no se le
+    halla fondo, se forma de las aguas que se juntan allí de catorce
+        <Concept_Landmark>ríos</Concept_Landmark> que baxan de la
         <Concept_Landmark>Sierra</Concept_Landmark>
     <Landmark>Nevada</Landmark>; sus orillas son muy alegres y de hermosa vista, pobladas de
     multitud de árboles y de aves diferentes; tiene algunas
@@ -411,7 +412,7 @@
     <zbr/> §§§id_15519§§§<zbr/> Un <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Landmark>Isla</Concept_Landmark> y <Concept_Territory>Gobierno</Concept_Territory>
     de la <Territory>Trinidad</Territory>, situado en la parte del N, casi en la extremidad del E,
-    frente de la <Concept_Landmark>Isla</Concept_Landmark> de <Landmark>Tabago</Landmark>. <zbr/>
+    frente de la <Concept_Landmark>Isla</Concept_Landmark> de <Territory>Tabago</Territory>. <zbr/>
     <zbr/> §§§id_15520§§§<zbr/> TACATA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Venezuela</Territory> y
@@ -463,7 +464,7 @@
         <Concept_Settlement>Villa</Concept_Settlement> de <Territory>San Christoval</Territory> en
     el <Territory>Nuevo Reyno de Granada</Territory>, es de temperamento cálido; con la pen##sión de
     muchos mosquitos, culebras y insectos venenosos, produce mucho cacao y tabaco, que conducen a
-        <Settlement>Maracaibo</Settlement>, <Territory>Santa Fe</Territory> y demas
+        <Territory>Maracaibo</Territory>, <Territory>Santa Fe</Territory> y demas
         <Concept_Territory>Provincias</Concept_Territory> del
         <Concept_Territory>Reyno</Concept_Territory>; el clima es muy sano, y el terreno fértil, así
     de cañas dulces, de que fabrican mucha azúcar, como de maíz y demás frutos de tierra caliente
@@ -476,14 +477,15 @@
         <Concept_Settlement>Pueblo</Concept_Settlement> anterior, nace en las
         <Concept_Landmark>montañas</Concept_Landmark> de los <Concept_Group>Indios</Concept_Group>
     <humanGroup type="indigenous_group">Guajiros</humanGroup>, y entra en la gran
-        <Concept_Landmark>laguna</Concept_Landmark> de <Territory>Maracaibo</Territory> por su parte
+        <Concept_Landmark>laguna</Concept_Landmark> de <Landmark>Maracaibo</Landmark> por su parte
     interior casi opuesta a la entrada. <zbr/>
     <zbr/> §§§id_15528§§§<zbr/> TACHOBACO, <Concept_Landmark>Río</Concept_Landmark> de la
         <Concept_Territory>Provincia</Concept_Territory> de la <Territory>Nueva
         Inglaterra</Territory> en los <Territory>Estados Unidos de la América</Territory>. <zbr/>
     <zbr/> §§§id_15529§§§<zbr/> TACMARA, <Concept_Group>Nación antigua de Indios</Concept_Group> de
-        <Territory>Chinchaysuyu</Territory> en el <Territory>Perú</Territory>, la conquistó y unió al
-    Imperio <persName>Yahuar-Huacac</persName>, VII Emperador, siendo Príncipe hereditario. <zbr/>
+        <Territory>Chinchaysuyu</Territory> en el <Territory>Perú</Territory>, la conquistó y unió
+    al <Concept_Territory>Imperio</Concept_Territory>
+    <persName>Yahuar-Huacac</persName>, VII Emperador, siendo Príncipe hereditario. <zbr/>
     <zbr/> §§§id_15530§§§<zbr/> TACNA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arica</Territory> en el
@@ -546,21 +548,22 @@
     confinante al ONO con la de <Territory>México</Territory>, es muy fértil y abundante en trigo,
     maíz y otras semillas y hortalizas que cultivan en muchísimas huertas y
         <Concept_Structure>haciendas</Concept_Structure> para abastecer a
-        <Territory>México</Territory>, como de leña, maderas y carbón que <zbr/>
+        <Settlement>México</Settlement>, como de leña, maderas y carbón que <zbr/>
     <zbr/> @@@Alcedo_vol_5-0011@@@<zbr/>
     <zbr/> #corta en sus <Concept_Landmark>montes</Concept_Landmark>; fue en la antigüedad Señorío
-    de la Sangre Real de Moctezuma, y hasta hoy se mantiene en la casa de sus descendientes gozando
-    del tributo que dio por dote y arras <persName>Hernán Cortés</persName> en nombre del Emperador
-        <persName>Carlos V</persName> a Doña <persName>Isabel hija de Moctezuma</persName> quando
-    contrajo matrimonio con <persName>Alonso de Grado</persName> su primer marido, por especial
-    encargo que de ella le hizo al tiempo de su muerte herido de la plebe: el tributo de esta
+    de la Sangre Real de <persName>Moctezuma</persName>, y hasta hoy se mantiene en la casa de sus
+    descendientes gozando del tributo que dio por dote y arras <persName>Hernán Cortés</persName> en
+    nombre del Emperador <persName>Carlos V</persName> a Doña <persName>Isabel</persName> hija de
+        <persName>Moctezuma</persName> quando contrajo matrimonio con <persName>Alonso de
+        Grado</persName> su primer marido, por especial encargo que de ella le hizo al tiempo de su
+    muerte herido de la plebe: el tributo de esta
         <Concept_Territory>jurisdicción</Concept_Territory> se reparte entre el <persName>Conde de
         la Enxirada</persName>, el <persName>Duque de Linares</persName>, como descendiente de la
     casa, Don <persName>Diego Cano Moctezuma</persName>, Don <persName>Joseph Andelo</persName> y
     los descendientes de Doña <persName>Gerónima Moctezuma</persName>, que el año de 1746 era la
-    Madre Josepha de los Dolores (y sus hermanos) Religiosa del Convento de San Gerónimo, y Doña
-        <persName>María de la Rosa</persName>, por haber declarado el Consejo de Indias en ##el
-    pleyto que se siguió en él sobre la partición, que se debían distribuir los tributos por
+    Madre <persName>Josepha de los Dolores</persName> (y sus hermanos) Religiosa del Convento de San
+    Gerónimo, y Doña <persName>María de la Rosa</persName>, por haber declarado el Consejo de Indias
+    en ##el pleyto que se siguió en él sobre la partición, que se debían distribuir los tributos por
     descendencias, a excepción del servicio Real que pertenece a su Magestad; y los
         <Concept_Settlement>Pueblos</Concept_Settlement> tributarios son
         <Settlement>Tacuba</Settlement>, <Settlement>Huizquilucan</Settlement> y <Settlement>San
@@ -592,9 +595,10 @@
         <Territory>Nueva España</Territory>, es de buen temperamento, ameno y delicioso, poblado de
     casas de campo, huertas y jardines; tiene muchos olivares y
         <Concept_Structure>molinos</Concept_Structure> para hacer aceyte, un Convento de Religiosos
-    de Santo Domingo, situado en la Plaza, y otro de Franciscos Descalzos con título de San Joseph:
-    su vecindario es de 342 familias de <humanGroup type="social_group">Indios</humanGroup>, dista
-    de <Settlement>México</Settlement> 2 leguas al SO. <zbr/>
+    de Santo Domingo, situado en la Plaza, y otro de <humanGroup type="religious_group">Franciscos
+        Descalzos</humanGroup> con título de San Joseph: su vecindario es de 342 familias de
+        <humanGroup type="social_group">Indios</humanGroup>, dista de
+        <Settlement>México</Settlement> 2 leguas al SO. <zbr/>
     <zbr/> §§§id_15541§§§<zbr/> TACUCHAMETA, <Concept_Settlement>Pueblo</Concept_Settlement> de las
     Misiones que tienen los Religiosos de San Francisco en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Culiacán</Territory> y
@@ -612,8 +616,8 @@
         <Concept_Territory>Corregimiento</Concept_Territory> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Quito</Territory> al Mediodía,
     confina por Levante con el <Concept_Landmark>Valle</Concept_Landmark>
-    <Landmark>Vicioso</Landmark>, al N con el Cor##regimiento de <Territory>Quito</Territory>, al NO
-    con la <Concept_Territory>Provincia</Concept_Territory> y
+    <Landmark>Vicioso</Landmark>, al N con el <Concept_Territory>Cor##regimiento</Concept_Territory>
+    de <Territory>Quito</Territory>, al NO con la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Esmeraldas</Territory>, al
     Poniente con la de <Territory>Guayaquil</Territory>, al SO con la de
         <Territory>Chimbo</Territory>, y al Mediodía con la de <Territory>Ambato</Territory>; tiene
@@ -630,7 +634,7 @@
         <Territory>Europa</Territory>: está muy poblada de <humanGroup type="social_group"
         >Indios</humanGroup>, en tiempo de la gentilidad de estos se llamaba Llatan-cunga: la
     conquistó <persName>Sebastián de Belalcazar</persName> el año de 1533 con poca resistencia de
-    los naturales, porque teniendo no<zbr/>
+    los <Concept_Group>naturales</Concept_Group>, porque teniendo no<zbr/>
     <zbr/> @@@Alcedo_vol_5-0013@@@<zbr/> #ticia por sus agoreros de que habían de perder el dominio
     pasando este a un Soberano desconocido, reventó al mismo tiempo el
         <Concept_Landmark>volcán</Concept_Landmark> de <Landmark>Cotopaxi</Landmark>, con cuya señal
@@ -662,8 +666,9 @@
     el <Concept_Landmark>llano</Concept_Landmark>, tendrá de 60 a 70 varas de altura, y es de figura
     redonda como la de un pan de azúcar, tan igual por todas partes que parece fabri<zbr/>
     <zbr/> @@@Alcedo_vol_5-0014@@@<zbr/> #cada a mano, como aseguran por tradición, para servir de
-        <Concept_Structure>atalaya</Concept_Structure> y descubrir la campaña; llámase Panecillo del
-    Callo, que es el nombre que daban a aquel palacio y conserva hasta hoy. <zbr/>
+        <Concept_Structure>atalaya</Concept_Structure> y descubrir la campaña; llámase
+        <Landmark>Panecillo del Callo</Landmark>, que es el nombre que daban a aquel palacio y
+    conserva hasta hoy. <zbr/>
     <zbr/> §§§id_15543a§§§<zbr/> La <Concept_Settlement>Capital</Concept_Settlement> tiene el mismo
     nombre con la advocación de San Vicente Mártir, situada en una espaciosa
         <Concept_Landmark>llanura</Concept_Landmark> al Mediodía de <Territory>Quito</Territory>, a
@@ -676,18 +681,19 @@
     aumentan sus aguas: es grande y bien ordenada, las calles anchas y rectas, las casas todas de
     piedra pomex, tan ligera que nada sobre el agua y se une bien con la cal, bovedadas, hermosas y
     de muy buena disposición, aunque baxas por el peligro a que están expuestas con los temblores:
-    tiene además de la Iglesia Parroquial un Convento de Religiosos de San Francisco, otro de Santo
-    Domingo, otro de San Agustín, otro de la Mer##ced, y tenía Colegio de los Regulares de la
-    Compañía, y un Monasterio de Carmelitas Descalzas que se transfirió a
-        <Territory>Quito</Territory>, y existe con el nombre de Carmen baxo, el año de 1698 en que
-    se arruinó como todo el <Concept_Settlement>Pueblo</Concept_Settlement> con un terremoto, no
-    quedando en pie más que el Colegio referido y una casa de más de 600 que tenía, donde pereció la
-    mayor parte de sus habitantes, repitiéndose igual desgracia en los años de 1743 y 1757 por la
-    inmediación del <Concept_Landmark>volcán</Concept_Landmark> de <Landmark>Cotopaxi</Landmark> que
-    dista 6 leguas, y la hace de un temperamento frío: sus naturales trabajan con primor en todas
-    las artes y oficios mecánicos, tienen muchos <Concept_Structure>obrages</Concept_Structure> en
-    que fabrican paños, bayetas y tucuyos, de que hacen un gran comercio, como de la carne salada de
-    cerdo que llevan a <Territory>Quito</Territory>, <Settlement>Riobamba</Settlement> y
+    tiene además de la Iglesia Parroquial un Convento de Religiosos de San Francisco, otro de
+        <humanGroup>Santo Domingo</humanGroup>, otro de <humanGroup>San Agustín</humanGroup>, otro
+    de la <humanGroup>Mer##ced</humanGroup>, y tenía Colegio de los Regulares de la Compañía, y un
+    Monasterio de Carmelitas Descalzas que se transfirió a <Settlement>Quito</Settlement>, y existe
+    con el nombre de Carmen baxo, el año de 1698 en que se arruinó como todo el
+        <Concept_Settlement>Pueblo</Concept_Settlement> con un terremoto, no quedando en pie más que
+    el Colegio referido y una casa de más de 600 que tenía, donde pereció la mayor parte de sus
+    habitantes, repitiéndose igual desgracia en los años de 1743 y 1757 por la inmediación del
+        <Concept_Landmark>volcán</Concept_Landmark> de <Landmark>Cotopaxi</Landmark> que dista 6
+    leguas, y la hace de un temperamento frío: sus naturales trabajan con primor en todas las artes
+    y oficios mecánicos, tienen muchos <Concept_Structure>obrages</Concept_Structure> en que
+    fabrican paños, bayetas y tucuyos, de que hacen un gran comercio, como de la carne salada de
+    cerdo que llevan a <Settlement>Quito</Settlement>, <Settlement>Riobamba</Settlement> y
         <Settlement>Guayaquil</Settlement>, que es muy estimada por el punto en que la preparan, que
     la da exquisito gusto, y no se corrompe: todas las campañas inmediatas están sembradas de
     alfalfa con arboledas de sauces, cuyo verdor y frondosidad alegra la vista, y hace divertido el
@@ -698,8 +704,8 @@
         >Mestizos</humanGroup>, y entre los primeros hay familias de mucha distinción ##y
     conveniencias, como el <persName>Marqués de Maenza</persName> que tiene allí una magnífica casa
     y una rica <Concept_Structure>hacienda</Concept_Structure> con
-        <Concept_Structure>obrages</Concept_Structure> llamada la
-        <Concept_Landmark>Ciénega</Concept_Landmark>: está en 55 min. 14 1/2 seg. de lat. aust. <zbr/>
+        <Concept_Structure>obrages</Concept_Structure> llamada la <Structure>Ciénega</Structure>:
+    está en 55 min. 14 1/2 seg. de lat. aust. <zbr/>
     <zbr/> §§§id_15543b§§§<zbr/> los demás <Concept_Settlement>Pueblos</Concept_Settlement> de la
         <Concept_Territory>jurisdicción</Concept_Territory> son <zbr/>
     <zbr/> ßßß<zbr/> #<Settlement>Zicchos mayo</Settlement>r. <zbr/>
@@ -721,8 +727,8 @@
     <zbr/> §§§id_15544§§§<zbr/> #TACUPETO, <Concept_Settlement>Pueblo</Concept_Settlement> y
         <Concept_Settlement>Real de Minas</Concept_Settlement> de Plata de la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Ostimuri</Territory>, que en
-    otro tiempo dio bastante riqueza y hoy está desmantelado, dista 18 leguas al NE del Real de
-        <Settlement>Río Chico</Settlement>. <zbr/>
+    otro tiempo dio bastante riqueza y hoy está desmantelado, dista 18 leguas al NE del
+        <Concept_Settlement>Real</Concept_Settlement> de <Settlement>Río Chico</Settlement>. <zbr/>
     <zbr/> §§§id_15545§§§<zbr/> TACURACHI, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Arica</Territory> en el
@@ -737,8 +743,8 @@
     <zbr/> §§§id_15547§§§<zbr/> TACURAY, <Concept_Landmark>Río</Concept_Landmark> pequeño de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el
-    Rey##no de <Territory>Quito</Territory>, corre al NNE, y entra en el
-        <Landmark>Guayaga</Landmark>. <zbr/>
+        <Concept_Territory>Rey##no</Concept_Territory> de <Territory>Quito</Territory>, corre al
+    NNE, y entra en el <Landmark>Guayaga</Landmark>. <zbr/>
     <zbr/> §§§id_15548§§§<zbr/> TACUTA, <Concept_Settlement>Pueblo</Concept_Settlement> de las
     Misiones que tenían a su cargo los Regulares de la Compañía en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Taraumara</Territory> y
@@ -772,17 +778,18 @@
         <Structure>Guairapongo</Structure> y <Structure>Yazuay</Structure>, es anexo al
         <Concept_District>Curato</Concept_District> del de <Settlement>Pendelec</Settlement>. <zbr/>
     <zbr/> §§§id_15553§§§<zbr/> S. TADEO, <Concept_Settlement>Pueblo</Concept_Settlement> de las
-    Misiones que tienen los Religiosos de San Francisco del Colegio de Santa Rosa de Ocopa en la
-        <Concept_Territory>Provincia</Concept_Territory> y
+    Misiones que tienen los Religiosos de San Francisco del
+        <Concept_Structure>Colegio</Concept_Structure> de <Structure>Santa Rosa de Ocopa</Structure>
+    en la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Caxamarquilla</Territory>
     y <Concept_Territory>Reyno</Concept_Territory> del <Territory>Perú</Territory>. <zbr/>
     <zbr/> §§§id_15554§§§<zbr/> TADOUSSAC, <Concept_Settlement>Pueblo</Concept_Settlement> pequeño
     de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, situado a la orilla
     del <Concept_Landmark>río</Concept_Landmark> de <Landmark>San Lorenzo</Landmark> y
         <Concept_Landmark>boca</Concept_Landmark> del <Landmark>Saguenay</Landmark>, tiene un gran
-    comercio porque se juntan en él los <humanGroup type="social_group">Indios</humanGroup> salvages
-    a conducir gran cantidad de pieles, para cambiarlas por paños, lienzos, utensilios de fierro y
-    otras bagatelas, tiene un ##fuerte construido para defensa del
+    comercio porque se juntan en él los <Concept_Group>Indios salvages</Concept_Group> a conducir
+    gran cantidad de pieles, para cambiarlas por paños, lienzos, utensilios de fierro y otras
+    bagatelas, tiene un ##<Concept_Structure>fuerte</Concept_Structure> construido para defensa del
         <Concept_Landmark>río</Concept_Landmark> sobre un
         <Concept_Landmark>peñasco</Concept_Landmark> inaccesible, está en 46 gr. 50 min. de lat.
     sept. y en 68 gr. 3 min. de long. occid. <zbr/>
@@ -790,8 +797,8 @@
     de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>,
     situado a orilla del <Concept_Landmark>río</Concept_Landmark>
-    <Landmark>Misisipi</Landmark>, enfrente de las ruinas del fuerte de
-    <Landmark>Rosalia</Landmark>. <zbr/>
+    <Landmark>Misisipi</Landmark>, enfrente de las ruinas del
+        <Concept_Structure>fuerte</Concept_Structure> de <Structure>Rosalia</Structure>. <zbr/>
     <zbr/> §§§id_15556§§§<zbr/> TAGANGA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Santa Marta</Territory> y
@@ -800,11 +807,10 @@
         <Concept_Landmark>Bahía</Concept_Landmark> de su nombre, es de clima cálido, se gobierna por
     un Cazique Señor de él, antes era muy poblado. <zbr/>
     <zbr/> §§§id_15557§§§<zbr/> TAGAPIPE, <Concept_Structure>Castillo</Concept_Structure> que hay
-    construido en una <Concept_Landmark>punta de tierra</Concept_Landmark> en la
-        <Concept_Landmark>Bahía</Concept_Landmark> de <Landmark>Todos Santos</Landmark> y
-        <Concept_Territory>Reyno</Concept_Territory> del <Territory>Brasil</Territory>, que
-    contribuye mucho a hacer más fuerte la <Concept_Settlement>Ciudad</Concept_Settlement> de
-        <Settlement> S. Salvador</Settlement>. <zbr/>
+    construido en una <Concept_Landmark>punta de tierra</Concept_Landmark> en la <Territory>Bahía de
+        Todos Santos</Territory> y <Concept_Territory>Reyno</Concept_Territory> del
+        <Territory>Brasil</Territory>, que contribuye mucho a hacer más fuerte la
+        <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement> S. Salvador</Settlement>. <zbr/>
     <zbr/> §§§id_15558§§§<zbr/> TAGARIBA, <Concept_Landmark>Puerto</Concept_Landmark> de la
         <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Territory>Reyno</Concept_Territory>
     del <Territory>Brasil</Territory>. <zbr/>
@@ -880,9 +886,8 @@
         <Concept_Territory>Gobierno</Concept_Territory> del <Territory>Chocó</Territory> y
         <Territory>Nuevo Reyno de Granada</Territory>, nace a la parte del N cerca del
         <Concept_Landmark>cerro</Concept_Landmark> del <Landmark>Aguila</Landmark>, y sale al
-        <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>golfo</Concept_Landmark> de
-        <Landmark>Tu</Landmark><zbr/>
-    <zbr/> @@@Alcedo_vol_5-0018@@@<zbr/> #cumari o del <Territory>Darien</Territory>. <zbr/>
+        <Concept_Landmark>mar</Concept_Landmark> en el <Concept_Landmark>golfo</Concept_Landmark> de <Landmark>Tu<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0018@@@<zbr/> #cumari</Landmark> o del <Landmark>Darien</Landmark>. <zbr/>
     <zbr/> §§§id_15571§§§<zbr/> TAIME, <Concept_Settlement>Pueblo</Concept_Settlement> de las
     Misiones que tenían los Regulares de la Compañía en los
         <Concept_Landmark>Llanos</Concept_Landmark> de <Landmark>Casanare</Landmark> y
@@ -963,7 +968,8 @@
         type="social_group">Indios</humanGroup>
     <humanGroup type="indigenous_group">Mexicanos</humanGroup>, la mayor parte habita en las
         <Concept_Structure>haciendas</Concept_Structure> de campo que son muy pingües, llamadas
-    Quesillos, San Nicolás y Cabezón, y otras muchas que tiene a la orilla de un
+        <Structure>Quesillos</Structure>, <Structure>San Nicolás</Structure> y
+        <Structure>Cabezón</Structure>, y otras muchas que tiene a la orilla de un
         <Concept_Landmark>río</Concept_Landmark> que pasa por ella y la fertiliza, corriendo luego
     hacia la <Concept_Settlement>Villa</Concept_Settlement> de la
         <Settlement>Purificación</Settlement>: la <Concept_Settlement>Capital</Concept_Settlement>
@@ -1003,7 +1009,7 @@
         <Concept_Territory>Gobierno</Concept_Territory> de <Territory>Cartagena</Territory> en el
         <Territory>Nuevo Reyno de Granada</Territory>, y del
         <Concept_District>distrito</Concept_District> de la
-        <Concept_Settlement>Villa</Concept_Settlement> de <Settlement>Mompox</Settlement>, situado a
+        <Concept_Settlement>Villa</Concept_Settlement> de <Territory>Mompox</Territory>, situado a
     orilla del <Concept_Landmark>río</Concept_Landmark> de la <Landmark>Magdalena</Landmark>, en la
         <Concept_Landmark>punta</Concept_Landmark> que forma el de <Landmark>Cauca</Landmark> para
     entrar en él. <zbr/>
@@ -1044,7 +1050,7 @@
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Andahuailas</Territory>
     en el <Territory>Perú</Territory>. <zbr/>
     <zbr/> §§§id_15592§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
-    nombre con el aditamento de Puna en la <Concept_Territory>Provincia</Concept_Territory>
+    nombre con el aditamento de Puna en la <Concept_Territory>Provincia</Concept_Territory> y
         ##<Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Porco</Territory> en el
     mismo <Concept_Territory>Reyno</Concept_Territory> del
         <Concept_Territory>Arzobispado</Concept_Territory> de <Territory>Charcas</Territory>, que es
@@ -1063,7 +1069,7 @@
     <zbr/> §§§id_15595§§§<zbr/> Tiene el mismo nombre una <Concept_Landmark>Isla</Concept_Landmark>
     de la <Concept_Landmark>mar</Concept_Landmark> del <Landmark>N</Landmark>, cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> de la <Territory>Georgia</Territory>, enfrente
-    del fuerte de <Landmark>San Jorge</Landmark>. <zbr/>
+    del <Concept_Structure>fuerte</Concept_Structure> de <Structure>San Jorge</Structure>. <zbr/>
     <zbr/> §§§id_15596§§§<zbr/> TALCA, <Concept_Settlement>Villa Capital</Concept_Settlement> de la
         <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el
@@ -1140,11 +1146,11 @@
         <Settlement>Tlaltenango</Settlement> y <Concept_Territory>Alcaldía mayor</Concept_Territory>
     de <Territory>Colotlán</Territory> en <Territory>Nueva España</Territory>, está 3 leguas al S de
     su <Concept_Settlement>Cabecera</Concept_Settlement>. <zbr/>
-    <zbr/> §§§id_15607§§§<zbr/> TALKA, lsla pequeña del
+    <zbr/> §§§id_15607§§§<zbr/> TALKA, <Concept_Landmark>lsla</Concept_Landmark> pequeña del
         <Concept_Landmark>estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> a Levante,
-    cerca de la de <Landmark>Talkamme</Landmark>, nombres que Mr. <persName>de la
-        Martiniere</persName> pretende que son los que le dan sus naturales, pero ni uno ni otro se
-    hallan en las cartas. <zbr/>
+    cerca de la de <Landmark>Talkamme</Landmark>, nombres que Mr. de la
+        <persName>Martiniere</persName> pretende que son los que le dan sus
+        <Concept_Group>naturales</Concept_Group>, pero ni uno ni otro se hallan en las cartas. <zbr/>
     <zbr/> §§§id_15608§§§<zbr/> TALMACAHUIDA, <Concept_Structure>Fortaleza</Concept_Structure> del
         <Concept_Territory>Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada a la
     otra parte del <Concept_Landmark>río</Concept_Landmark>
@@ -1266,7 +1272,7 @@
         <Concept_Landmark>canal</Concept_Landmark> estrecho, está dominado de una
         <Concept_Structure>fortaleza</Concept_Structure> que tiene en una eminencia, y fue tomado
     por los <humanGroup type="political_group">Holandeses</humanGroup> que fabricaron otro a la
-    entrada con el nombre de ##Orange, y era inaccesible por los
+    entrada con el nombre de ##<Structure>Orange</Structure>, y era inaccesible por los
         <Concept_Landmark>pántanos</Concept_Landmark> que lo rodeaban, de modo que las embarcaciones
     que querían entrar estaban expuestas a todo el fuego; la otra boca del
         <Concept_Landmark>canal</Concept_Landmark> llamada <Landmark>Catevama</Landmark> apenas
@@ -1277,8 +1283,8 @@
     <persName>Pedro López de Sousa</persName>, que habiendo conseguido que el Rey Don <persName>Juan
         III</persName> le diese cinqüenta leguas de terreno en premio de sus servicios, tomó solo
     siete de <Concept_Landmark>Costa</Concept_Landmark>, y el resto por lo interior al S; pasó luego
-    por sucesión de hembra a la casa de los Marqueses de <Settlement>Cascaes</Settlement>: estaba
-    poseída entonces de los <Concept_Group>Indios infieles</Concept_Group>
+    por sucesión de hembra a la casa de los Marqueses de Cascaes: estaba poseída entonces de los
+        <Concept_Group>Indios infieles</Concept_Group>
     <humanGroup type="indigenous_group">Pitiguares</humanGroup>, a quienes conquistó y sujetó: los
         <humanGroup type="political_group">Franceses</humanGroup> se apoderaron de esta
         <Concept_Territory>Provincia</Concept_Territory>, y la conservaron hasta el año de 1635: la
@@ -1286,9 +1292,10 @@
     cuentan 22 ingenios de azúcar, y paga anualmente al Gobernador 300 ducados de
         <Territory>Portugal</Territory>: su Población consta de la
         <Concept_Settlement>Ciudad</Concept_Settlement> de <Settlement>Goayana</Settlement>, y los
-        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Tejucupa</Settlement><zbr/>
-    <zbr/> @@@Alcedo_vol_5-0025@@@<zbr/> #po, Tacoara, <Settlement>Capibaribi</Settlement> y
-        <Settlement>Nuestra Señora del Destierro</Settlement>, además de <zbr/>
+        <Concept_Settlement>Pueblos</Concept_Settlement> de <Settlement>Tejucupa<zbr/>
+        <zbr/> @@@Alcedo_vol_5-0025@@@<zbr/> #po</Settlement>, <Settlement>Tacoara</Settlement>,
+        <Settlement>Capibaribi</Settlement> y <Settlement>Nuestra Señora del Destierro</Settlement>,
+    además de <zbr/>
     <zbr/> §§§id_15622a§§§<zbr/> la <Concept_Settlement>Capital</Concept_Settlement> que está
     situada en la <Concept_Landmark>isla</Concept_Landmark>, y tiene el mismo nombre con la
     advocación de Nuestra Señora de la Concepción: está en la cumbre de una
@@ -1306,7 +1313,7 @@
         <Territory>Nuevo Reyno de Granada</Territory>, nace cerca de la
         <Concept_Landmark>Costa</Concept_Landmark> del <Concept_Landmark>mar</Concept_Landmark>,
     corre al S, y entra a desaguar en la gran <Concept_Landmark>laguna</Concept_Landmark> de
-        <Territory>Maracaibo</Territory>. <zbr/>
+        <Landmark>Maracaibo</Landmark>. <zbr/>
     <zbr/> §§§id_15624§§§<zbr/> TAMAROAS o Tamaros, <Concept_Landmark>Isla</Concept_Landmark> grande
     de la <Concept_Territory>Provincia</Concept_Territory> y
         <Concept_Territory>Gobierno</Concept_Territory> de la <Territory>Florida</Territory> en la
@@ -1331,7 +1338,8 @@
     <zbr/> §§§id_15627§§§<zbr/> TAMAZULA, <Concept_Settlement>Pueblo</Concept_Settlement> de la
         <Concept_Settlement>Cabecera</Concept_Settlement> y <Concept_Territory>Alcaldía
         mayor</Concept_Territory> de <Territory>Zapotlán</Territory> en <Territory>Nueva
-        España</Territory>, situado al ENE de la Cabecera de <Settlement>Tuspán</Settlement>. <zbr/>
+        España</Territory>, situado al ENE de la <Concept_Settlement>Cabecera</Concept_Settlement>
+    de <Settlement>Tuspán</Settlement>. <zbr/>
     <zbr/> §§§id_15628§§§<zbr/> Otro <Concept_Settlement>Pueblo</Concept_Settlement> hay de este
     nombre, de las Misiones que tenían los Regulares de la Compañía en la
         <Concept_Territory>Provincia</Concept_Territory> de <Territory>Topia</Territory> y
