@@ -1,172 +1,17 @@
 Replacement documentation
 
-Resolve compount terms Ciudad capital  villa capital Pueblo Capital (de gobierno...) Pueblo/Villa/Ciudad cabecera
 
 
-#1 Find Compount Concepts of same type
-SEARCH
-(<Concept_)(.+?)>([^<]+?)(</Concept_)\2>(,? [yo] )\1\2>([^<]+?)\4\2>
-REPLACE
-<Compoundterm type="\2" key="@\3 @\6"><term type="\2" key="\3">\3</term>\5<term type="\2" key="\6">\6</term></Compoundterm>
-Finds 
-<Concept_Territory>Provincia</Concept_Territory> y <Concept_Territory>País</Concept_Territory>
-Result
-<Compoundterm type="Territory" key="@Provincia @País"><term type="Territory" key="Provincia">Provincia</term> y <term type="Territory" key="País">País</term></Compoundterm>
+execute REGEX TEI conversion.py
+
+Remove trailing µ\1µ\2µµ
+Remove trailing µ\1µ\2µµ
+
+resolve Keys (singularize, normalize, remove inner tags!)
+Review introduction! Wrong compounds.
+"Paí"
 
 
-#2 Find Compound concepts of mixed type
-SEARCH
-(<Concept_)(.+?)>([^<]+?)(</Concept_)\2>(,? [yo] )\1(.+?)>([^<]+?)\4\6>
-REPLACE
-<Compoundterm type="@\2 @\6" key="@\3 @\7"><term type="\2" key="\3">\3</term>\5<term type="\6" key="\7">\7</term></Compoundterm>
-Finds
-<Concept_District>distrito</Concept_District> y <Concept_Territory>jurisdicción</Concept_Territory>
-Result
-<Compoundterm type="@District @Territory" key="@distrito @jurisdicción"><term type="District" key="distrito">distrito</term> y <term type="Territory" key="jurisdicción">jurisdicción</term></Compoundterm>
-
-
-#3 Remove compound for Concept_Group 
-SEARCH
-<Compoundterm typ[^<]+?@?Group[^<]+?>(.+?)</Compoundterm>
-REPLACE
-\1
-Finds
-<Compoundterm type="Group" key="@Mulatos @Mestizos"><term type="Group" key="Mulatos">Mulatos</term> y <term type="Group" key="Mestizos">Mestizos</term></Compoundterm>
-Result
-<term type="Group" key="Mulatos">Mulatos</term> y <term type="Group" key="Mestizos">Mestizos</term>
-Finds
-<Compoundterm type="@Group @Territory key="@Naciones @Provincias"><term type="Group" key="Naciones">Naciones</term> y <term type="Territory" key="Provincias">Provincias</term></Compoundterm>
-Result
-<term type="Group" key="Naciones">Naciones</term> y <term type="Territory" key="Provincias">Provincias</term>
-
-
-#4 Remove compound for last pair in enumerations of concepts
-FIND
-(<Concept_.+?>[^<]+?</Concept_[^<]+?>, )<Compoundterm typ[^<]+?>(.+?)</Compoundterm>
-REPLACE
-\1
-Finds
-
-Result
-</Concept_Landmark>, <term type="Landmark" key="barrancas">barrancas</term> y <term type="Landmark" key="montes">montes</term>
-
-
-#5 Replace non-compound concepts
-SEARCH
-(<Concept_)(.+?)>([^<]+?)(</Concept_)\2>
-REPLACE
-<term type="\2" key="\3">\3</term>
-Finds
-<Concept_Settlement>Pueblo</Concept_Settlement>
-Result
-<term type="Settlement" key="Pueblo">Pueblo</term>
-
-# Wrap toponym-composites with variant toponyms.
-<((Territory)?(Settlement)?(Landmark)?(Structure)?)>[^<]+?</\1>,? o <\1>[^<]+?</\1>
-<placeName>$0</placeName>
-<Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>
-<placeName><Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory></placeName>
-
-
-# Temporarily change <pb/> and <cb/> to ease capturing.
-SEARCH
-<([cp]b.+?)/>
-REPLACE
-€\1µ
-Finds
-<pb n="v1-0002" facs="Alcedo_vol_1-0002"/>
-<cb n="1"/>
-Result
-€pb n="v1-0002" facs="Alcedo_vol_1-0002"µ
-€cb n="1"µ
-
-# Group type-toponym-compounds in single terms 
-SEARCH
-(<)(term type=")(.+?)("[^<]+?>)([^<]+?)(</)(term>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)\3(>[^<]+?)(</)\3(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<term type="Landmark" key="llanos">llanos</term> de <Landmark>San Juan</Landmark>
-Result
-<PLACE><term type="Landmark" key="llanos">llanos</term> de <Landmark>San Juan</Landmark></PLACE>
-
-
-# Group type-toponym-compounds in simple compounds
-SEARCH
-(<)(Compoundterm type=")(.+?)("[^<]+?>)(.+?)(</)(Compoundterm>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)\3(>[^<]+?)(</)\3(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<Compoundterm type="Territory" key="@Provincia @Gobierno"><term type="Territory" key="Provincia">Provincia</term> y <term type="Territory" key="Gobierno">Gobierno</term></Compoundterm> de <Territory>Santa Cruz de la Sierra</Territory>
-Result
-<PLACE><Compoundterm type="Territory" key="@Provincia @Gobierno"><term type="Territory" key="Provincia">Provincia</term> y <term type="Territory" key="Gobierno">Gobierno</term></Compoundterm> de <Territory>Santa Cruz de la Sierra</Territory></PLACE>
-
-
-
-# Group type-toponym-compounds in mixed-compound terms
-SEARCH
-(<Compoundterm type="@)(.+?)( )(@)(.+?)("[^<]+?>)(.+?)(</Compoundterm>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)\2?\5?(>[^<]+?)(</)\2?\5?(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<Compoundterm type="@District @Territory" key="@Partido @Alcaldía mayor"><term type="District" key="Partido">Partido</term> y <term type="Territory" key="Alcaldía mayor">Alcaldía mayor</term></Compoundterm> de <Territory>Mexilcaltzingo</Territory>
-Result
-<PLACE><Compoundterm type="@District @Territory" key="@Partido @Alcaldía mayor"><term type="District" key="Partido">Partido</term> y <term type="Territory" key="Alcaldía mayor">Alcaldía mayor</term></Compoundterm> de <Territory>Mexilcaltzingo</Territory></PLACE>
-
-
-
-
-# Group type-toponym-compounds in special single term cases - Isla
-SEARCH
-(<term type=")([^<]+?)("[^<]+?[iI]sla[^<]+?>)([^<]+?)(</term>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)Territory(>[^<]+?)(</)Territory(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<term type="Landmark" key="Isla">Isla</term> de <Territory>Santo Domingo</Territory>
-Result
-<PLACE><term type="Landmark" key="Isla">Isla</term> de <Territory>Santo Domingo</Territory></PLACE>
-
-
-# Group type-toponym-compounds in special single term cases - District-Settlement/Territory
-(<term type=")District("[^<]+?>)([^<]+?)(</term>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)(Territory)?(Settlement)?(>[^<]+?)(</)(Territory)?(Settlement)?(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<term type="District" key="Partido">Partido</term> de <Territory>Tarija</Territory>
-Result
-<PLACE><term type="District" key="Partido">Partido</term> de <Territory>Tarija</Territory></PLACE>
-
-
-# Group type-toponym-compounds in special simple compound  cases - District-Settlement/Territory
-(<Compoundterm type=")District("[^<]+?>)(.+?)(</Compoundterm>)( )(€[^<]+µ)?(del? ?)?(€[^<]+µ)?(l[oa]s? )?(<)(Territory)?(Settlement)?(>[^<]+?)(</)(Territory)?(Settlement)?(>)
-REPLACE
-<PLACE>$0</PLACE>
-Finds
-<term type="District" key="Partido">Partido</term> de <Territory>Tarija</Territory>
-Result
-<PLACE><term type="District" key="Partido">Partido</term> de <Territory>Tarija</Territory></PLACE>
-
-
-
-EXECUTED
-
-
-# Remove false type-toponym-compounds at beginning of entries
-SEARCH
-(<sense>)<PLACE>(.+?)</PLACE>
-REPLACE
-\1\2
-Finds
-
-Result
-
-
-
-del de 
-de la de
-
-
-Resolve ambiguous concepts: presidio, país, isla...
 
 
 # Replace Toponyms (Territory, Settlement, Structure, Landmark) with placeName
@@ -180,19 +25,4 @@ Result
 <placeName type="Territory">Chile</placeName>
 
 
-
-
-
-resolve Keys (singularize, normalize, remove inner tags!)
-Review introduction! Wrong compounds.
-<back>
-
-SEARCH
-
-REPLACE
-
-Finds
-
-Result
-
-
+##    #

@@ -1,0 +1,174 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le dictionnaire geographique-historique de las Indes Occidentales.</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Gazetier d'Alcedo</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div n="subscribers">
+				<head><title>LISTA DE LOS SUBSCRIBIENTES</title></head>
+				<p>Cristóbal Colón, Werner Stangl</p>
+			</div>
+			<div n="dedicatory">
+				<p>Besando el trasero de Su Magestad</p>
+			</div>
+		</front>
+		<body>
+			<div n="toponyms">
+				<entry xml:id="id_00011" n="ABANCAY">
+<form><oRef/></form>
+					<fs>
+						<f name="TopUrbiID"><symbol value="TopUrbi:00011"/></f>
+						<f name="gazetteermatch"><symbol value="hgis:JUPECUAB"/></f>
+						<f name="entrytype"><symbol value="Toponym"/></f>
+						<f name="featuretype"><symbol value="Provincia"/></f>
+						<f name="normname"><symbol value="Abancay"/></f>
+					</fs>
+					<form>
+						<orth type="lemma" norm="Abancay">ABANCAY</orth>
+						, 
+					</form>
+					<sense>
+						<term key="TopUrbi:provincia">Provincia</term>
+						y
+						<term key="TopUrbi:corregimiento">Corregimiento</term>
+						del 
+						<district key="TopUrbi:07242"><placeName>Perú</placeName></district>
+						, confina por el E con la gran 
+						<settlement key="TopUrbi:05169"><term key="TopUrbi:ciudad">Ciudad</term> del <placeName>Cuzco</placeName></settlement>
+						, empezando su jurisdicción por la Parroquia de Santa Ana de aquella Ciudad, por el O con la Provincia de Andahuailas: por el N con la de Calca y Lares, 
+						formando por esta parte una dilatada cadena de montañas nevadas: por el S con las de Cotabamba y Aimaraez: por el SO con la de Chilques y Masques. 
+						Su extensión es de 0.6 leguas E O y 14. de ancho. El Rio de mas consideración que tiene es el de Apurimac, que se separa de ella al NO, penetrando, 
+						unido á otros, las Montañas de los Andes. Se pasa por un puente de madera de 80 baras de largo y 3 de ancho, y es camino real de Lima al Cuzco, y otras 
+						Provincias de la Sierra. Paga en éi 4 rs. de plata cada carga de efectos de la tierra, y 12 la de los de Europa. El temperamento de esta Provincia es 
+						templado en casi toda ella y muy sano, á excepción de uno ú otro Valle, en que por el excesivo calor y humedad, se padecen tercianas. Produce mucho trigo, 
+						maiz y demás semillas en abundancia, y se cria en ella, no poco ganado vacuno; pero su principal fruto es el azúcar que labran tan blanca, que puede competir 
+						con la mejor de Europa, y se lleva á vender al Cuzco y otras Provincias con estimación. TamBien produce alguna ropa de la tierra, no faltando en sus 
+						territorios minas de plata, especialmente en el cerro que llaman Jalcanta: pero no se trabajan por la poca afición que sus naturales tienen á esta labor. 
+						Su jurisdicción tiene 17 Pueblos, y tenia asignados de repartimiento á su Corregimiento 108750 pesos fuertes, pagando 870 de Alcabala cada año.
+					</sense>
+				</entry>
+				<entry xml:id="id_00013" n="ABANCAY">
+<form><oRef/></form>
+					<fs>
+						<f name="TopUrbiID">
+							<symbol value="TopUrbi:00013"/>
+						</f>
+						<f name="gazetteermatch">
+							<symbol value="hgis:gz:5600401"/>
+						</f>
+					</fs>
+					<form>
+						<orth type="lemma" norm="Ayancay" orig="Abancay">Tiene el mismo nombre</orth>
+					</form>
+					<sense>un
+						<term key="Pueblo">Pueblo</term>
+						de la
+						<district key="id_07242" ref="http://hgis-indias.net/dokuwiki/php?=PRQUCU00">
+							<term key="provincia">Provincia</term>
+							y
+							<term key="corregimiento">Corregimiento</term>
+							de
+							<term key="Cuenca">Cuenca</term>
+						</district>
+						, en el
+						<district key="id_07242" ref="http://hgis-indias.net/dokuwiki/php?=AUQU0000">
+							<term key="kingdom">Reyno</term>
+							de
+							<placeName>Quito</placeName>
+						</district>
+						situado á la orilla del rio Paute.
+					</sense>
+				</entry>
+				<entry xml:id="id_07241">
+<form><oRef/></form>
+					<fs>
+						<f name="TopUrbiID">
+							<symbol value="HOCKHOCKEN_Villa"/>
+						</f>
+						<f name="gazetteermatch">
+							<symbol value="geonames:1234567"/>
+						</f>
+					</fs>
+					<form>
+						<orth type="lemma" orig="Hockhocken">HOCKHOCKEN</orth>
+						ó
+						<orth type="variant" orig="Margante">Margante</orth>
+						,
+					</form>
+					
+					<sense>
+						<term key="Villa">Villa</term>
+						de e<hi><list><head/><item>asd</item></list></hi>la
+						<district key="id_07242" ref="http://topurbi.ehess.fr/VIRGINIA_Provincia">
+							<term key="provincia">Provincia</term>
+							y
+							<term key="colonia">Colonia</term>
+							de
+							<placeName>Virginia</placeName>
+						</district>
+						, situada á orilla del
+						<geogName key="id_07242" ref="http://topurbi.ehess.fr/HOCKHOCKEN_Rio">
+							<term key="Rio">Rio</term>
+							de su nombr
+						</geogName>
+						. Está cerca de la
+						<settlement key="TopUrbi:BALTIMORE_Ciudad">
+							<term key="Ciudad">Ciudad</term>
+							de
+							<placeName>Baltimore</placeName>
+						</settlement>
+						
+						.
+					</sense>
+				</entry>
+				<entry xml:id="id_00007" n="ABACOA">
+<form><oRef/></form>
+					<form>
+						<orth type="lemma" orig="Abacoa">ABACOA</orth>
+						,
+					</form>
+					<sense>
+						<xr>
+							<ref target="#id_13440">Véase el artículo Providencia.</ref>
+						</xr>
+					</sense>
+				</entry>
+			</div>
+		</body>
+		<back>
+			<div n="corrections">
+				<entry xml:id="id_05234" n="AZEQUIAS">
+<form><oRef/></form>
+					<ptr target="#id_01234"/>
+					<form>
+						<orth type="lemma" orig="Azequias" norm="Acequias">AZEQUIAS</orth>
+						,
+					</form>
+					<sense>Línea 7 dice Turmias, ha de decir Turmas,</sense>
+				</entry>
+			</div>
+			<div n="dictionary of americanisms">
+				<entry xml:id="id_05237" n="Ciento Pies">
+<form><oRef/></form>
+				<form>
+					<orth type="lemma" orig="Ciento Pies">CIENTO PIES</orth>
+					(
+					<orth type="linnean" orig="Scolopendra forficata">Scolopendra forficata</orth>
+					).;
+				</form>
+				<sense>Insecto, ó reptil venenoso, que consta de treinta articulaciones, y cada una de estas tiene dos pies, de modo que hacen 6o: de la boca le salen dos pinzas armadas de uñas negras puntiagudas y corvas, con las quales coge á los demás insectos de que se alimenta: en la parte posterior del cuerpo tiene dos pies muy largos, cada uno formado de quatro articulaciones, y la última guarnecida de una uña negra corva y puntiaguda que je ayuda á andar: están cubiertos de escamas amarillas, se crian en los bosques, parages incultos, almacenes, y aun en las casas: tienen desde tres hasta diez pulgadas de largo: son peligrosos, porque teniendo mordientes en la cabeza y en la cola, pican fuertemente y introducen el veneno por la picadura, que produce calentura, y un dolor agudísimo..</sense>
+			</entry>
+		</div>
+	</back>
+</text>
+</TEI>

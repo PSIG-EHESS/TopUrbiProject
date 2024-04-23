@@ -25,6 +25,7 @@
 		<body>
 			<div n="toponyms">
 				<entry xml:id="id_00011" n="ABANCAY">
+<form><oRef/></form>
 					<fs>
 						<f name="TopUrbiID"><symbol value="TopUrbi:00011"/></f>
 						<f name="gazetteermatch"><symbol value="hgis:JUPECUAB"/></f>
@@ -57,6 +58,7 @@
 					</sense>
 				</entry>
 				<entry xml:id="id_00013" n="ABANCAY">
+<form><oRef/></form>
 					<fs>
 						<f name="TopUrbiID">
 							<symbol value="TopUrbi:00013"/>
@@ -88,6 +90,7 @@
 					</sense>
 				</entry>
 				<entry xml:id="id_07241">
+<form><oRef/></form>
 					<fs>
 						<f name="TopUrbiID">
 							<symbol value="HOCKHOCKEN_Villa"/>
@@ -102,6 +105,7 @@
 						<orth type="variant" orig="Margante">Margante</orth>
 						,
 					</form>
+					
 					<sense>
 						<term key="Villa">Villa</term>
 						de la
@@ -123,10 +127,12 @@
 							de
 							<placeName>Baltimore</placeName>
 						</settlement>
+						<list><head/><item>asd</item></list>
 						.
 					</sense>
 				</entry>
 				<entry xml:id="id_00007" n="ABACOA">
+<form><oRef/></form>
 					<form>
 						<orth type="lemma" orig="Abacoa">ABACOA</orth>
 						,
@@ -142,6 +148,7 @@
 		<back>
 			<div n="corrections">
 				<entry xml:id="id_05234" n="AZEQUIAS">
+<form><oRef/></form>
 					<ptr target="#id_01234"/>
 					<form>
 						<orth type="lemma" orig="Azequias" norm="Acequias">AZEQUIAS</orth>
@@ -152,6 +159,7 @@
 			</div>
 			<div n="dictionary of americanisms">
 				<entry xml:id="id_05237" n="Ciento Pies">
+<form><oRef/></form>
 				<form>
 					<orth type="lemma" orig="Ciento Pies">CIENTO PIES</orth>
 					(
