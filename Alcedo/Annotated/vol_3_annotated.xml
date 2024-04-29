@@ -489,7 +489,7 @@ MDCCLXXXVIII.
 </superEntry>
 <entry xml:id="id_09339">
 <form><orth type="lemma" orig="MADOCTEG">MADOCTEG</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en la <Territory>América septentrional</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> de <Landmark>San Juan</Landmark>, los <org type="European-political">Ingleses</org>, tienen un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> de comercio, y un <Concept_Structure type="Structure">fuerte</Concept_Structure> para su defensa construido en él. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en la <Territory>América septentrional</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> de <Landmark>San Juan</Landmark>, los <org type="European-political">Ingleses</org>, tienen un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> de comercio, y un <Concept_Structure type="Structure">fuerte</Concept_Structure> para su defensa construido en él. 
 </sense>
 </entry>
 <entry xml:id="id_09340">
@@ -542,7 +542,7 @@ MDCCLXXXVIII.
 <entry xml:id="id_09345">
 <form><orth type="lemma" orig="MAGALLANICAS">MAGALLANICAS</orth>, <orth type="specification_prefix">Tierras</orth>) </form>
 <sense><Concept_Territory type="Territory">País</Concept_Territory> dilatado y grande que se extiende del N al medio día desde las <Concept_Landmark type="Landmark">Llanuras</Concept_Landmark> del <Landmark>Paraguay</Landmark> llamadas <Landmark>Pampas</Landmark>, hasta el <Concept_Landmark type="Landmark">Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark>; por el Levante lo baña el <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>Magallanico</Landmark>, y por el Poniente el <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>Pacífico</Landmark>: está habitado de algunas <Compound><Concept_Group type="Group">Naciones</Concept_Group> bárbaras de <Concept_Group type="Group">Indios</Concept_Group></Compound> poco conocidos, entre los quales se hallan los <org type="Indigenous-political">Patagones</org> o <org type="Indigenous-political">Tirumencos</org>, de estatura muy alta y bien formados, los <org type="Indigenous-political">Cesares</org> a Levante del na<cb n="2"/>cimiento del <Concept_Landmark type="Landmark">Río</Concept_Landmark> de <Landmark>Santo Domingo</Landmark>, los <org type="Indigenous-political">Poyas</org>, y <org type="Indigenous-political">Pueches</org> más acia el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, de quien se divide por el <Concept_Landmark type="Landmark">Río</Concept_Landmark> sin fondo que desemboca en el <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>Pacífico</Landmark> o del <Landmark>Sur</Landmark> en 44 gr. 38 min. de lat. aust. y es el termino de <Territory>Chiloé</Territory> por el medio día: El terreno de la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> de Levante es baxo, estéril y desierto, y al medio día sobre el estrecho alto lleno de <Concept_Landmark type="Landmark">bosques</Concept_Landmark> y <Concept_Landmark type="Landmark">montes</Concept_Landmark>, cubiertos de nieve en los quales termina la gran cadena o <Concept_Landmark type="Landmark">Cordillera</Concept_Landmark> de los <Landmark>Andes</Landmark>; hay <pb n="v3-0016" facs="Alcedo_vol_3-0016"/><cb n="1"/>en ellos muchos tigres, lobos, culebras, monos de diferentes géneros, papagayos y otras aves de bellísimos colores; lo interior de este vasto continente está todavia desconocido de las <Concept_Group type="Group">Naciones</Concept_Group> Europeas; el Padre <persName>Nicolás Mascardi</persName>, de la <org type="religious">extinguida Compañía</org> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Chile</Territory>, fue el pri<cb n="2"/>mer Misionero que entró por la parte de <Territory>Chiloé</Territory>, y predicó el Evangelio a aquellos bárbaros, a cuyas manos logró la corona del martirio: el clima acia el medio día es muy frío, y de las <Landmark>Pampas</Landmark> a el N muy calido, los <Territory>Chile</Territory>nos miran este <Concept_Territory type="Territory">territorio</Concept_Territory> como parte del reino.
-<head>CATÁLOGO DE LAS NACIONES BÁRBARAS y principales parages de la <Concept_Territory type="Territory">tierra</Concept_Territory> <Territory>Magallanica</Territory>.</head>
+<head>CATÁLOGO DE LAS NACIONES BÁRBARAS y principales parages de la <Concept_Landmark type="Landmark">tierra</Concept_Landmark> <Landmark type="Landmark">Magallanica</Landmark>.</head>
 <hi><list subtype="mixed">
 <item><cb n="1"/><head type="organizations">NACIONES BARBARAS</head>. </item>
 <item><org type="Indigenous-political">Césares</org>. </item>
@@ -890,7 +890,7 @@ MDCCLXXXVIII.
 </entry>
 <entry xml:id="id_09396">
 <form><orth type="lemma" orig="MAGUECK">MAGUECK</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Virginia</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Seyota</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Virginia</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Seyota</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_09397">
@@ -917,7 +917,7 @@ MDCCLXXXVIII.
 </superEntry>
 <entry xml:id="id_09401">
 <form><orth type="lemma" orig="MAHA">MAHA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Missouri</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory> situado a orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Missouri</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_09402">
@@ -1141,7 +1141,7 @@ MDCCLXXXVIII.
 <superEntry>
 <entry xml:id="id_09427">
 <form><orth type="lemma" orig="MAIZ">MAIZ</orth> <orth type="specification_prefix">Valle del</orth>) </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> convertidos de las Misiones que tienen los <org type="religious">Religiosos de San Francisco</org> en el <Concept_District type="District">distrito</Concept_District> de la <Concept_Territory type="Territory">Alcaldía mayor</Concept_Territory> de <Territory>Guadalcazar</Territory> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Nueva España</Territory>: tiene 107 personas de vecindario de <Concept_Group type="Group">Españoles</Concept_Group>, <Concept_Group type="Group">Mestizos</Concept_Group> y <Concept_Group type="Group">Mulatos</Concept_Group>, y 1123 de <Concept_Group type="Group">Indios</Concept_Group>, que la mayor parte viven fuera, en <Concept_Structure type="Structure">ranchos</Concept_Structure> que hay en las <Concept_Landmark type="Landmark">montañas</Concept_Landmark>, está 22 leguas de <Settlement>Tula</Settlement>, que es la <Concept_Settlement type="Settlement">Capital</Concept_Settlement> de las Misiones. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> convertidos de las Misiones que tienen los <org type="religious">Religiosos de San Francisco</org> en el <Concept_District type="District">distrito</Concept_District> de la <Concept_Territory type="Territory">Alcaldía mayor</Concept_Territory> de <Territory>Guadalcazar</Territory> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Obispado</Concept_Territory> de <Territory>Mechoacán</Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Nueva España</Territory>: tiene 107 personas de vecindario de <Concept_Group type="Group">Españoles</Concept_Group>, <Concept_Group type="Group">Mestizos</Concept_Group> y <Concept_Group type="Group">Mulatos</Concept_Group>, y 1123 de <Concept_Group type="Group">Indios</Concept_Group>, que la mayor parte viven fuera, en <Concept_Structure type="Structure">ranchos</Concept_Structure> que hay en las <Concept_Landmark type="Landmark">montañas</Concept_Landmark>, está 22 leguas de <Settlement>Tula</Settlement>, que es la <Concept_Settlement type="Settlement">Capital</Concept_Settlement> de las Misiones. 
 </sense>
 </entry>
 <entry xml:id="id_09428">
@@ -1223,7 +1223,7 @@ MDCCLXXXVIII.
 </entry>
 <entry xml:id="id_09441">
 <form><orth type="lemma" orig="MALACATOS">MALACATOS</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Loxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Quito</Territory>: está situado a la orilla boreal del <Concept_Landmark type="Landmark">Río</Concept_Landmark> de su nombre, en un sitio apacible y alegre, es de clima cálido, abundante de frutas exquisitas, entre las quales tiene singular estimación la Chirimoya, que es mejor que en alguna otra parte; produce mucha caña dulce, y cría infinito ganado por la excelencia de sus pastos: en la <Concept_Structure type="Structure">hacienda</Concept_Structure> de <Structure>Santa Ana</Structure>, distante una legua al medio día, hay una rica <Concept_Landmark type="Landmark">mina</Concept_Landmark> de Plata, que no se trabaja por falta de gente y de dinero: está este <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> 7 leguas de <Settlement>Loxa</Settlement> en 4 gr. 12 min. 27 seg. de lat. aust. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Loxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Quito</Territory>: está situado a la orilla boreal del <Concept_Landmark type="Landmark">Río</Concept_Landmark> de su nombre, en un sitio apacible y alegre, es de clima cálido, abundante de frutas exquisitas, entre las quales tiene singular estimación la Chirimoya, que es mejor que en alguna otra parte; produce mucha caña dulce, y cría infinito ganado por la excelencia de sus pastos: en la <Concept_Structure type="Structure">hacienda</Concept_Structure> de <Structure>Santa Ana</Structure>, distante una legua al medio día, hay una rica <Concept_Landmark type="Landmark">mina</Concept_Landmark> de Plata, que no se trabaja por falta de gente y de dinero: está este <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> 7 leguas de <Settlement>Loxa</Settlement> en 4 gr. 12 min. 27 seg. de lat. aust. 
 </sense>
 </entry>
 <entry xml:id="id_09442">
@@ -1243,7 +1243,7 @@ MDCCLXXXVIII.
 </entry>
 <entry xml:id="id_09445">
 <form><orth type="lemma" orig="MALALHUE">MALALHUE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> del <Concept_District type="District">Partido</Concept_District> de <Territory>Guadalabquen</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado al N de una de las <Concept_Landmark type="Landmark">Lagunas</Concept_Landmark> de <Landmark>Huanahué</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> del <Concept_District type="District">Partido</Concept_District> de <Territory>Guadalabquen</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado al N de una de las <Concept_Landmark type="Landmark">Lagunas</Concept_Landmark> de <Landmark>Huanahué</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_09446">
@@ -1894,7 +1894,7 @@ MDCCLXXXVIII.
 </entry>
 <entry xml:id="id_09559">
 <form><orth type="lemma" orig="MANICOLA">MANICOLA</orth>, </form>
-<sense><Concept_Territory type="Territory">País</Concept_Territory> grande y dilatado, en lo que se llama <Concept_Landmark type="Landmark">tierra</Concept_Landmark> <Territory>Austral</Territory> o de <Territory>Quirós</Territory>, llamado tambien <Concept_Territory type="Territory">tierra</Concept_Territory> del <Territory>Espíritu Santo</Territory>, pero no se sabe más de él, y aun muchos dudan su existencia: <persName>Fernando Quirós</persName> descubrió un pedazo de <Concept_Landmark type="Landmark">Costa</Concept_Landmark> el año de 1606; y por algunas noticias que tuvo de aquellos <Concept_Group type="Group">salvages</Concept_Group> refirió, que eran muchas <Concept_Landmark type="Landmark">Islas</Concept_Landmark>, y las principales se llamaban <Landmark>Taumaco</Landmark>, <Landmark>Tucopia</Landmark>, y <Landmark>Guatopo</Landmark>, que estaban llenas de gente, y eran muy fértiles. Los Geógrafos en sus Cartas no hacen más que tirar algunas lineas a discreción, confinantes con la Zona, templada acia el círculo Polar, <ref>véase tierra Austral</ref>. 
+<sense><Concept_Territory type="Territory">País</Concept_Territory> grande y dilatado, en lo que se llama <Concept_Landmark type="Landmark">tierra</Concept_Landmark> <Territory>Austral</Territory> o de <Territory>Quirós</Territory>, llamado tambien <Territory>tierra del Espíritu Santo</Territory>, pero no se sabe más de él, y aun muchos dudan su existencia: <persName>Fernando Quirós</persName> descubrió un pedazo de <Concept_Landmark type="Landmark">Costa</Concept_Landmark> el año de 1606; y por algunas noticias que tuvo de aquellos <Concept_Group type="Group">salvages</Concept_Group> refirió, que eran muchas <Concept_Landmark type="Landmark">Islas</Concept_Landmark>, y las principales se llamaban <Landmark>Taumaco</Landmark>, <Landmark>Tucopia</Landmark>, y <Landmark>Guatopo</Landmark>, que estaban llenas de gente, y eran muy fértiles. Los Geógrafos en sus Cartas no hacen más que tirar algunas lineas a discreción, confinantes con la Zona, templada acia el círculo Polar, <ref>véase tierra Austral</ref>. 
 </sense>
 </entry>
 <entry xml:id="id_09560">
@@ -2165,7 +2165,7 @@ MDCCLXXXVIII.
 </entry>
 <entry xml:id="id_09612">
 <form><orth type="lemma" orig="MAGALLANICO">MAGALLANICO</orth>, </form>
-<sense>sus términos son, por el N la boca de el <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Plata</Landmark> en 35 gr. 30 min. de lat. aust. donde confina con el <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>Brasilico</Landmark>, y por el medio día la boca oriental del <Concept_Landmark type="Landmark">Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> en 52 gr. 21 min. de lat. aust dividiéndolo del <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>austral</Landmark>: baña la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> de las <Landmark>Pampas</Landmark>, y de las tierras <Territory>Magallanicas</Territory>. 
+<sense>sus términos son, por el N la boca de el <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Plata</Landmark> en 35 gr. 30 min. de lat. aust. donde confina con el <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>Brasilico</Landmark>, y por el medio día la boca oriental del <Concept_Landmark type="Landmark">Estrecho</Concept_Landmark> de <Landmark>Magallanes</Landmark> en 52 gr. 21 min. de lat. aust dividiéndolo del <Concept_Landmark type="Landmark">mar</Concept_Landmark> <Landmark>austral</Landmark>: baña la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> de las <Landmark>Pampas</Landmark>, y de las tierras <Landmark type="Landmark">Magallanicas</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_09613">
@@ -3369,12 +3369,12 @@ Confina por el N con la <Territory>Pensilvania</Territory> con otra parte de la 
 </entry>
 <entry xml:id="id_09796">
 <form><orth type="lemma" orig="MARILEB">MARILEB</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Valdivia</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de <Landmark>Valdivia</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Valdivia</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de <Landmark>Valdivia</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_09797">
 <form><orth type="lemma" orig="MARIMAN">MARIMAN</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la misma <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la misma <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior. 
 </sense>
 </entry>
 <entry xml:id="id_09798">
@@ -4297,7 +4297,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_09927">
 <form><orth type="lemma" orig="MATAMUSKET">MATAMUSKET</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Septentrional</Territory> y Parti<cb n="2"/>do de <Settlement>Hyde</Settlement>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Septentrional</Territory> y Parti<cb n="2"/>do de <Settlement>Hyde</Settlement>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark>. 
 </sense>
 </entry>
 <superEntry>
@@ -5061,7 +5061,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 <superEntry>
 <entry xml:id="id_10068">
 <form><orth type="lemma" orig="MEAD">MEAD</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Barbada</Territory> en el <Concept_District type="District">distrito</Concept_District> de la <Concept_District type="District">Parroquia</Concept_District> de <Settlement>San Felipe</Settlement>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Barbada</Territory> en el <Concept_District type="District">distrito</Concept_District> de la <Concept_District type="District">Parroquia</Concept_District> de <Settlement>San Felipe</Settlement>. 
 </sense>
 </entry>
 <entry xml:id="id_10069">
@@ -5331,7 +5331,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_10107">
 <form><orth type="lemma" orig="MELIRUPU">MELIRUPU</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> del <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la <Concept_Settlement type="Settlement">Cabezera</Concept_Settlement> del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Cauchupil</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> del <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la <Concept_Settlement type="Settlement">Cabezera</Concept_Settlement> del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Cauchupil</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10108">
@@ -5356,7 +5356,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_10112">
 <form><orth type="lemma" orig="MEMBRILLAR">MEMBRILLAR</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> del <Concept_District type="District">Partido</Concept_District> de <Territory>Puchacay</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Itata</Landmark> en el parage donde está la barca del paso. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> del <Concept_District type="District">Partido</Concept_District> de <Territory>Puchacay</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Itata</Landmark> en el parage donde está la barca del paso. 
 </sense>
 </entry>
 <entry xml:id="id_10113">
@@ -5376,7 +5376,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_10116">
 <form><orth type="lemma" orig="MEMRUNCOOK">MEMRUNCOOK</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en la <Territory>América Septentrional</Territory>, situado a la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Patcotyeak</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Nueva Escocia</Territory> o <Territory>Acadia</Territory> en la <Territory>América Septentrional</Territory>, situado a la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Patcotyeak</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10117">
@@ -5449,7 +5449,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_10130">
 <form><orth type="lemma" orig="MENTOS">MENTOS</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en que hay un fuerte cons<pb n="v3-0150" facs="Alcedo_vol_3-0150"/><cb n="1"/>truido por los <org type="European-political">Franceses</org>, está situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Akansas</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en que hay un fuerte cons<pb n="v3-0150" facs="Alcedo_vol_3-0150"/><cb n="1"/>truido por los <org type="European-political">Franceses</org>, está situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Akansas</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10131">
@@ -5587,7 +5587,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </entry>
 <entry xml:id="id_10156">
 <form><orth type="lemma" orig="MESSETA">MESSETA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la orilla y Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Carampangue</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la orilla y Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Carampangue</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10157">
@@ -5703,7 +5703,7 @@ En esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> reside el Gobe
 </superEntry>
 <entry xml:id="id_10178">
 <form><orth type="lemma" orig="METENQUEN">METENQUEN</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la Pro<cb n="2"/>vincia y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la Pro<cb n="2"/>vincia y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Maule</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>. 
 </sense>
 </entry>
 <superEntry>
@@ -6854,7 +6854,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 </entry>
 <entry xml:id="id_10322">
 <form><orth type="lemma" orig="MILLALAB">MILLALAB</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Isla de la Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bureu</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Isla de la Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a la orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bureu</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10323">
@@ -6864,7 +6864,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 </entry>
 <entry xml:id="id_10324">
 <form><orth type="lemma" orig="MILLAQUI">MILLAQUI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Isla de la Laxa</Territory> en el mismo <Concept_Territory type="Territory">Reyno</Concept_Territory> que los dos anteriores, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Tolpán</Landmark> al E de la <Concept_Settlement type="Settlement">Villa</Concept_Settlement> de <Settlement>Colhue</Settlement>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Isla de la Laxa</Territory> en el mismo <Concept_Territory type="Territory">Reyno</Concept_Territory> que los dos anteriores, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Tolpán</Landmark> al E de la <Concept_Settlement type="Settlement">Villa</Concept_Settlement> de <Settlement>Colhue</Settlement>. 
 </sense>
 </entry>
 <entry xml:id="id_10325">
@@ -6965,7 +6965,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 </entry>
 <entry xml:id="id_10343">
 <form><orth type="lemma" orig="MINABAUJOU">MINABAUJOU</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> del <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Superior</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> del <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Superior</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10344">
@@ -7011,7 +7011,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 </entry>
 <entry xml:id="id_10352">
 <form><oRef orig="MINAS"/></form>
-<sense>Otro <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Isla de Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de los <Landmark>Sauces</Landmark>. 
+<sense>Otro <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Isla de Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situada a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de los <Landmark>Sauces</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10352a">
@@ -7073,7 +7073,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 </superEntry>
 <entry xml:id="id_10362">
 <form><orth type="lemma" orig="MINGOS">MINGOS</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Ohio</Landmark>, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Structure type="Structure">fuerte</Concept_Structure> y <Concept_Settlement type="Settlement">establecimento</Concept_Settlement> para su comercio. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Ohio</Landmark>, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Structure type="Structure">fuerte</Concept_Structure> y <Concept_Settlement type="Settlement">establecimento</Concept_Settlement> para su comercio. 
 </sense>
 </entry>
 <superEntry>
@@ -7318,7 +7318,7 @@ Contentándonos por no extender más de lo que pide lo ceñido de un artículo; 
 <superEntry>
 <entry xml:id="id_10408">
 <form><orth type="lemma" orig="MISOURI">MISOURI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado, a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre, en que hay un <Concept_Structure type="Structure">fuerte</Concept_Structure> construido por los <org type="European-political">Franceses</org> para defensa de aquel <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado, a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre, en que hay un <Concept_Structure type="Structure">fuerte</Concept_Structure> construido por los <org type="European-political">Franceses</org> para defensa de aquel <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement>. 
 </sense>
 </entry>
 <entry xml:id="id_10409">
@@ -7701,12 +7701,12 @@ MOA Cayo de) <Concept_Landmark type="Landmark">Islote</Concept_Landmark> de la <
 </superEntry>
 <entry xml:id="id_10478">
 <form><orth type="lemma" orig="MOHANET">MOHANET</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">brazo</Concept_Landmark> del E de el <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Susquehanna</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">brazo</Concept_Landmark> del E de el <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Susquehanna</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10479">
 <form><orth type="lemma" orig="MOHICKANS">MOHICKANS</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la misma <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bever</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la misma <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bever</Landmark>. 
 </sense>
 </entry>
 <superEntry>
@@ -7941,7 +7941,7 @@ MOA Cayo de) <Concept_Landmark type="Landmark">Islote</Concept_Landmark> de la <
 </superEntry>
 <entry xml:id="id_10524">
 <form><orth type="lemma" orig="MONDAQUE">MONDAQUE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado en el camino que va al <Territory>Nuevo México</Territory> no lejos del <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Trinidad</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado en el camino que va al <Territory>Nuevo México</Territory> no lejos del <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Trinidad</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10525">
@@ -9660,7 +9660,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </entry>
 <entry xml:id="id_10814">
 <form><orth type="lemma" orig="NACATCHES">NACATCHES</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Rouge</Landmark> o <Landmark>Colorado</Landmark>, y al N del <Concept_Structure type="Structure">fuerte</Concept_Structure> de <Structure>Natchitoches</Structure>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Rouge</Landmark> o <Landmark>Colorado</Landmark>, y al N del <Concept_Structure type="Structure">fuerte</Concept_Structure> de <Structure>Natchitoches</Structure>. 
 </sense>
 </entry>
 <entry xml:id="id_10815">
@@ -9670,7 +9670,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </entry>
 <entry xml:id="id_10816">
 <form><orth type="lemma" orig="NACANNE">NACANNE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Trinidad</Landmark> en el camino que va al <Territory>Nuevo México</Territory>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> de la <Landmark>Trinidad</Landmark> en el camino que va al <Territory>Nuevo México</Territory>. 
 </sense>
 </entry>
 <entry xml:id="id_10817">
@@ -9727,7 +9727,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </superEntry>
 <entry xml:id="id_10827">
 <form><orth type="lemma" orig="NADACO">NADACO</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado entre las Cabezeras de los <Concept_Landmark type="Landmark">ríos</Concept_Landmark> <Landmark>Adayes</Landmark> y la <Landmark>Trinidad</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado entre las Cabezeras de los <Concept_Landmark type="Landmark">ríos</Concept_Landmark> <Landmark>Adayes</Landmark> y la <Landmark>Trinidad</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10828">
@@ -9737,7 +9737,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </entry>
 <entry xml:id="id_10829">
 <form><orth type="lemma" orig="NAFOLI">NAFOLI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina Meridional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Albama</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina Meridional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Albama</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10830">
@@ -9849,7 +9849,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </entry>
 <entry xml:id="id_10851">
 <form><orth type="lemma" orig="NANOUCHI">NANOUCHI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Group type="Group">Nación</Concept_Group> <org type="Indigenous-political">Cherakis</org> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Apalachicola</Landmark>, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> para su comercio. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Group type="Group">Nación</Concept_Group> <org type="Indigenous-political">Cherakis</org> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Apalachicola</Landmark>, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> para su comercio. 
 </sense>
 </entry>
 <superEntry>
@@ -9865,7 +9865,7 @@ Que eran antes como manadas de fieras con apariencias de hombres: vi<cb n="2"/>v
 </entry>
 <entry xml:id="id_10854">
 <form><oRef orig="NANSEMOND"/></form>
-<sense>Otro <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> distinto del anterior, y no lexos de él. 
+<sense>Otro <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> distinto del anterior, y no lexos de él. 
 El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido corre al N, y sale al <Concept_Landmark type="Landmark">mar</Concept_Landmark> en la <cb n="2"/>boca o salida de el de <Landmark>James</Landmark>. 
 </sense>
 </entry>
@@ -9877,7 +9877,7 @@ El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido corre al N
 </entry>
 <entry xml:id="id_10856">
 <form><orth type="lemma" orig="NANTUCKET">NANTUCKET</orth>, </form>
-<sense><Concept_Landmark type="Landmark">Isla</Concept_Landmark> de la <Concept_Landmark type="Landmark">mar</Concept_Landmark> del <Landmark>N</Landmark>, situada al SE del Continente de la <Territory>Nueva Inglaterra</Territory>, 80 millas al S de <Settlement>Bostón</Settlement>, cerca de una de las meiores y más considerables Pesqueras de la <Concept_Territory type="Territory">Provincia</Concept_Territory>, especialmente de ballenas, que es la principal ocupación de sus habitantes, que pocos años hace han llegado para ello hasta la <Territory>Groenlandia</Territory>; y si los hubieran fomentado los <org type="European-political">Ingleses</org>, se ahorrarían la excesiva cantidad de huesos de ballenas que compran a los <org type="European-political">Holandeses</org>: esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> se mira como uno de los <Concept_Territory type="Territory">Condados</Concept_Territory> de la <Concept_Landmark type="Landmark">Bahía</Concept_Landmark> de <Territory>Massachusets</Territory>: es montuosa, de terreno arenisco y desierta, pues solo habitan pocos pescadores; tiene 14 millas de largo E O, y 4 de ancho N S: hay en ella un <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de su mismo nombre, cuyo comercio no dexa de ser lucroso, y sus habitantes tienen 70 ú 80 embarcaciones propias: está en 70 gr. 10 min. de loag. y en 41 gr. 12 min. de lat, 
+<sense><Concept_Landmark type="Landmark">Isla</Concept_Landmark> de la <Concept_Landmark type="Landmark">mar</Concept_Landmark> del <Landmark>N</Landmark>, situada al SE del Continente de la <Territory>Nueva Inglaterra</Territory>, 80 millas al S de <Settlement>Bostón</Settlement>, cerca de una de las meiores y más considerables Pesqueras de la <Concept_Territory type="Territory">Provincia</Concept_Territory>, especialmente de ballenas, que es la principal ocupación de sus habitantes, que pocos años hace han llegado para ello hasta la <Landmark>Groenlandia</Landmark>; y si los hubieran fomentado los <org type="European-political">Ingleses</org>, se ahorrarían la excesiva cantidad de huesos de ballenas que compran a los <org type="European-political">Holandeses</org>: esta <Concept_Landmark type="Landmark">Isla</Concept_Landmark> se mira como uno de los <Concept_Territory type="Territory">Condados</Concept_Territory> de la <Concept_Landmark type="Landmark">Bahía</Concept_Landmark> de <Territory>Massachusets</Territory>: es montuosa, de terreno arenisco y desierta, pues solo habitan pocos pescadores; tiene 14 millas de largo E O, y 4 de ancho N S: hay en ella un <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de su mismo nombre, cuyo comercio no dexa de ser lucroso, y sus habitantes tienen 70 ú 80 embarcaciones propias: está en 70 gr. 10 min. de loag. y en 41 gr. 12 min. de lat, 
 </sense>
 </entry>
 <entry xml:id="id_10857"><pb n="v3-0284" facs="Alcedo_vol_3-0284"/>
@@ -9904,7 +9904,7 @@ El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido corre al N
 </superEntry>
 <entry xml:id="id_10861">
 <form><orth type="lemma" orig="NAOUADICHES">NAOUADICHES</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado entre los <Concept_Landmark type="Landmark">ríos</Concept_Landmark> <Landmark>Adaes</Landmark> y <Landmark>Trinidad</Landmark> en el camino que va a <Settlement>México</Settlement>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Texas</Territory> en la <Territory>América Septentrional</Territory>, situado entre los <Concept_Landmark type="Landmark">ríos</Concept_Landmark> <Landmark>Adaes</Landmark> y <Landmark>Trinidad</Landmark> en el camino que va a <Settlement>México</Settlement>. 
 </sense>
 </entry>
 <entry xml:id="id_10862">
@@ -9936,7 +9936,7 @@ El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido corre al N
 </entry>
 <entry xml:id="id_10867">
 <form><orth type="lemma" orig="NAQUASEE">NAQUASEE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory> en los confines que la separan de la <Territory>meridional</Territory>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de la <Territory>Carolina Septentrional</Territory> en los confines que la separan de la <Territory>meridional</Territory>. 
 </sense>
 </entry>
 <entry xml:id="id_10868">
@@ -10403,7 +10403,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_10948">
 <form><orth type="lemma" orig="NECOYA">NECOYA</orth> <orth type="specification_prefix">San Bartolome de</orth>) </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Quito</Territory>, <Concept_Settlement type="Settlement">reducción</Concept_Settlement> de las Misiones que tenían allí los <org type="religious">Regulares de la Compañía</org>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Napo</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de <Territory>Mainas</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Quito</Territory>, <Concept_Settlement type="Settlement">reducción</Concept_Settlement> de las Misiones que tenían allí los <org type="religious">Regulares de la Compañía</org>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Napo</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10949">
@@ -10668,7 +10668,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_10996">
 <form><orth type="lemma" orig="NENINCO">NENINCO</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Isla de la Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Pecoiquen</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Isla de la Laxa</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Pecoiquen</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_10997">
@@ -11415,7 +11415,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_11118">
 <form><orth type="lemma" orig="NININE">NININE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> del mismo <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior, situado en la cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Biobio</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> del mismo <Concept_Territory type="Territory">Reyno</Concept_Territory> que el anterior, situado en la cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Biobio</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11119">
@@ -11470,7 +11470,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_11128">
 <form><orth type="lemma" orig="NITAHAURITZ">NITAHAURITZ</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Meridional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Albama</Landmark> o <Landmark>Cousas</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Meridional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Albama</Landmark> o <Landmark>Cousas</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11129">
@@ -11593,7 +11593,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_11148">
 <form><orth type="lemma" orig="NOGUNCHE">NOGUNCHE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Itata</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> cerca de la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Itata</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Itata</Territory> en el <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Chile</Territory>, situado en la <Concept_Landmark type="Landmark">Costa</Concept_Landmark> cerca de la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Itata</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11149">
@@ -11803,7 +11803,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </entry>
 <entry xml:id="id_11187"><pb n="v3-0344" facs="Alcedo_vol_3-0344"/>
 <form><orth orig="NORRIDGEWAOK"><cb n="1"/>NORRIDGEWAOK</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Hampshire</Territory>, na de las de la <Territory>Nueva Inglaterra</Territory>, situada cerca del salto de <Landmark>Schoagun</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Hampshire</Territory>, na de las de la <Territory>Nueva Inglaterra</Territory>, situada cerca del salto de <Landmark>Schoagun</Landmark>. 
 </sense>
 </entry>
 <superEntry>
@@ -12243,7 +12243,7 @@ Una <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> <Concept_S
 </superEntry>
 <entry xml:id="id_11272">
 <form><orth type="lemma" orig="NUNTIALI">NUNTIALI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Septentrional</Territory> en el <Concept_Territory type="Territory">territorio</Concept_Territory> de los <org type="Indigenous-political">Moyens Cherakis.</org>
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Septentrional</Territory> en el <Concept_Territory type="Territory">territorio</Concept_Territory> de los <org type="Indigenous-political">Moyens Cherakis.</org>
 </sense>
 </entry>
 <entry xml:id="id_11273">
@@ -12347,7 +12347,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11284">
 <form><orth type="lemma" orig="OBEITA">OBEITA</orth> o <orth type="variant">Ubeyta</orth>) </form>
-<sense><Concept_Territory type="Territory">País</Concept_Territory> antiguamente muy poblado y rico en la antigua <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Tensa</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, a la parte de Levante y baxo del dominio del Rey de <Territory>Tunja</Territory>: entró en ella <persName>Gonzalo Ximénez de Queda</persName> el año de 1537, y hizo un rico botín: hoy está reducido a un miserable <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>>. 
+<sense><Concept_Territory type="Territory">País</Concept_Territory> antiguamente muy poblado y rico en la antigua <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Tensa</Territory> en el <Territory>Nuevo Reyno de Granada</Territory>, a la parte de Levante y baxo del dominio del Rey de <Territory>Tunja</Territory>: entró en ella <persName>Gonzalo Ximénez de Queda</persName> el año de 1537, y hizo un rico botín: hoy está reducido a un miserable <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>. 
 </sense>
 </entry>
 <entry xml:id="id_11285">
@@ -12538,7 +12538,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 <superEntry>
 <entry xml:id="id_11320">
 <form><orth type="lemma" orig="OCONI">OCONI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Georgia</Territory> y <Territory>América Septentrional</Territory>, situado a la orilla y Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre, donde tienen los <org type="European-political">Ingleses</org> un establecímiento para su comercio con los <Concept_Group type="Group">Indios</Concept_Group>, y un fuerte construido para su defensa 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Georgia</Territory> y <Territory>América Septentrional</Territory>, situado a la orilla y Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre, donde tienen los <org type="European-political">Ingleses</org> un establecímiento para su comercio con los <Concept_Group type="Group">Indios</Concept_Group>, y un fuerte construido para su defensa 
 </sense>
 </entry>
 <entry xml:id="id_11321">
@@ -12675,7 +12675,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11345">
 <form><orth type="lemma" orig="OCTIBEA">OCTIBEA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Meridional</Territory>, situado a la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Sonlahue</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Meridional</Territory>, situado a la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Sonlahue</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11346">
@@ -12786,12 +12786,12 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </superEntry>
 <entry xml:id="id_11366">
 <form><orth type="lemma" orig="OFOGOULAS">OFOGOULAS</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Group type="Group">Nación</Concept_Group> así llamada en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory>, situado a la <pb n="v3-0368" facs="Alcedo_vol_3-0368"/><cb n="1"/>orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Misisipi</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Group type="Group">Nación</Concept_Group> así llamada en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory> en la <Territory>América Septentrional</Territory>, situado a la <pb n="v3-0368" facs="Alcedo_vol_3-0368"/><cb n="1"/>orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Misisipi</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11367">
 <form><orth type="lemma" orig="OGECHI">OGECHI</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Meridional</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> de este nombre, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Structure type="Structure">fuerte</Concept_Structure> y <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> para su comercio. El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido es grande y corre al SE, y sale al <Concept_Landmark type="Landmark">mar</Concept_Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Meridional</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> de este nombre, donde tienen los <org type="European-political">Ingleses</org> un <Concept_Structure type="Structure">fuerte</Concept_Structure> y <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement> para su comercio. El <Concept_Landmark type="Landmark">río</Concept_Landmark> referido es grande y corre al SE, y sale al <Concept_Landmark type="Landmark">mar</Concept_Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11368">
@@ -12806,7 +12806,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11370">
 <form><orth type="lemma" orig="OIBA">OIBA</orth> <orth type="specification_prefix">San Miguel de</orth>) </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de la <Concept_Territory type="Territory">Jurisdicción</Concept_Territory> de la <Concept_Settlement type="Settlement">Villa</Concept_Settlement> de <Territory>San Gil</Territory> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> y <Territory>Nuevo Reyno de Granada</Territory>: es de temperamento cálido, pero sano, aunque de mala situación por estar situado en un hondo: fue <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> solamente, y con el comercio de los blancos se han ido convirtiendo en <Concept_Group type="Group">Mestizos</Concept_Group>, extinguiéndose aquellos y agregándose los pocos que quedaron al <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Settlement>Chitaraque</Settlement>: hoy tendrá 900 <Concept_Group type="Group">vecinos</Concept_Group>, gente agreste, soberbia e inquieta que da mucho que hacer y se matan vestialmente unos a <pb n="v3-0369" facs="Alcedo_vol_3-0369"/><cb n="1"/>otros; produce su terreno mucha caña dulce, maíz, yucas, plátanos y otras frutas: está 8 leguas al S de <Settlement>San Gil</Settlement>, poco menos del <Settlement>Socorro</Settlement>, y enmedio de éste, del de <Settlement>Tirano</Settlement>, <Settlement>Charala</Settlement> y <Settlement>Zimacota</Settlement>, pues confina su <Concept_District type="District">distrito</Concept_District> con el de estos quatro <Concept_Settlement type="Settlement">Pueblos</Concept_Settlement>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de la <Concept_Territory type="Territory">Jurisdicción</Concept_Territory> de la <Concept_Settlement type="Settlement">Villa</Concept_Settlement> de <Territory>San Gil</Territory> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Corregimiento</Concept_Territory> de <Territory>Tunja</Territory> y <Territory>Nuevo Reyno de Granada</Territory>: es de temperamento cálido, pero sano, aunque de mala situación por estar situado en un hondo: fue <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> solamente, y con el comercio de los blancos se han ido convirtiendo en <Concept_Group type="Group">Mestizos</Concept_Group>, extinguiéndose aquellos y agregándose los pocos que quedaron al <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Settlement>Chitaraque</Settlement>: hoy tendrá 900 <Concept_Group type="Group">vecinos</Concept_Group>, gente agreste, soberbia e inquieta que da mucho que hacer y se matan vestialmente unos a <pb n="v3-0369" facs="Alcedo_vol_3-0369"/><cb n="1"/>otros; produce su terreno mucha caña dulce, maíz, yucas, plátanos y otras frutas: está 8 leguas al S de <Settlement>San Gil</Settlement>, poco menos del <Settlement>Socorro</Settlement>, y enmedio de éste, del de <Settlement>Tirano</Settlement>, <Settlement>Charala</Settlement> y <Settlement>Zimacota</Settlement>, pues confina su <Concept_District type="District">distrito</Concept_District> con el de estos quatro <Concept_Settlement type="Settlement">Pueblos</Concept_Settlement>. 
 </sense>
 </entry>
 <entry xml:id="id_11371">
@@ -12863,7 +12863,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </superEntry>
 <entry xml:id="id_11381">
 <form><orth type="lemma" orig="OKELOUSA">OKELOUSA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Carolina Meridional</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> des <Landmark>Buffles</Landmark> o de los <Landmark>Búfalos</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Carolina Meridional</Territory>, situado en la Cabezera del <Concept_Landmark type="Landmark">río</Concept_Landmark> des <Landmark>Buffles</Landmark> o de los <Landmark>Búfalos</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11382">
@@ -13194,12 +13194,12 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11442">
 <form><orth type="lemma" orig="ONINGO">ONINGO</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> en la <Territory>America Septentrional</Territory>, y en el <Concept_District type="District">distrito</Concept_District> de la <Concept_Group type="Group">Nación</Concept_Group> de los <org type="Indigenous-political">Mesagues</org>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> en la <Territory>America Septentrional</Territory>, y en el <Concept_District type="District">distrito</Concept_District> de la <Concept_Group type="Group">Nación</Concept_Group> de los <org type="Indigenous-political">Mesagues</org>. 
 </sense>
 </entry>
 <entry xml:id="id_11443">
 <form><orth type="lemma" orig="ONONDAGO">ONONDAGO</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de esta <Concept_Group type="Group">Nación</Concept_Group> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> y <Territory>América Septentrional</Territory>, situado a orilla del pequeño <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Oneido</Landmark>, cerca del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre. Este corre al E, luego tuerce su curso al. N, y entra en el <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Ontario</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de esta <Concept_Group type="Group">Nación</Concept_Group> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">País</Concept_Territory> de los <org type="Indigenous-political">Iroqueses</org> y <Territory>América Septentrional</Territory>, situado a orilla del pequeño <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Oneido</Landmark>, cerca del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre. Este corre al E, luego tuerce su curso al. N, y entra en el <Concept_Landmark type="Landmark">lago</Concept_Landmark> <Landmark>Ontario</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11444">
@@ -13958,7 +13958,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11574">
 <form><orth type="lemma" orig="OSTIONES">OSTIONES</orth>, </form>
-<sense><Concept_Landmark type="Landmark">Puerto</Concept_Landmark> de la <Concept_Landmark type="Landmark">mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> del <Territory>Chocó</Territory> y <Territory>Nuevo Reyna de Granada</Territory>, entre el de <Landmark>Buenaventura</Landmark> y la <Concept_Landmark type="Landmark">punta</Concept_Landmark> de <Landmark>Arena</Landmark>. 
+<sense><Concept_Landmark type="Landmark">Puerto</Concept_Landmark> de la <Concept_Landmark type="Landmark">mar</Concept_Landmark> del <Landmark>Sur</Landmark> en la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> del <Territory>Chocó</Territory> y <Territory>Nuevo Reyno de Granada</Territory>, entre el de <Landmark>Buenaventura</Landmark> y la <Concept_Landmark type="Landmark">punta</Concept_Landmark> de <Landmark>Arena</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11575">
@@ -13968,7 +13968,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11576">
 <form><orth type="lemma" orig="OSTOGERON">OSTOGERON</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">brazo</Concept_Landmark> de el E del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Susquehanna</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Colonia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">brazo</Concept_Landmark> de el E del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Susquehanna</Landmark>. 
 </sense>
 </entry>
 <superEntry>
@@ -14141,7 +14141,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11606">
 <form><orth type="lemma" orig="OTOCTATA">OTOCTATA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en la <Territory>América Sept</Territory>. situado a Orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Panis</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en la <Territory>América Sept</Territory>. situado a Orilla del <Concept_Landmark type="Landmark">Río</Concept_Landmark> <Landmark>Panis</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11607">
@@ -14171,7 +14171,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11612">
 <form><orth type="lemma" orig="OTOPUN">OTOPUN</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de las Misiones que tienen los <org type="religious">Religiosos de Santo Domingo</org> en el <Concept_Territory type="Territory">territorio</Concept_Territory> y <Concept_District type="District">distrito</Concept_District> de la <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> de <Settlement>San Christóval</Settlement> en el <Territory>Nuevo Reyno de Granada</Territory>, situado a la orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Apure</Landmark>: es de temperamento cálido, abundante en cacao, maíz, yucas y demás frutos de tierra caliente, pero de tan corta población que apenas lo habitan 50 <Concept_Group type="Group">Indios</Concept_Group>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de las Misiones que tienen los <org type="religious">Religiosos de Santo Domingo</org> en el <Concept_Territory type="Territory">territorio</Concept_Territory> y <Concept_District type="District">distrito</Concept_District> de la <Concept_Settlement type="Settlement">Ciudad</Concept_Settlement> de <Settlement>San Christóval</Settlement> en el <Territory>Nuevo Reyno de Granada</Territory>, situado a la orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Apure</Landmark>: es de temperamento cálido, abundante en cacao, maíz, yucas y demás frutos de tierra caliente, pero de tan corta población que apenas lo habitan 50 <Concept_Group type="Group">Indios</Concept_Group>. 
 </sense>
 </entry>
 <entry xml:id="id_11613"><pb n="v3-0413" facs="Alcedo_vol_3-0413"/>
@@ -14275,7 +14275,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11632">
 <form><orth type="lemma" orig="OUADAOUGEOUNATON">OUADAOUGEOUNATON</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en el <Concept_Territory type="Territory">territorio</Concept_Territory> de los <org type="Indigenous-political">Sioux del Oeste</org>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en el <Concept_Territory type="Territory">territorio</Concept_Territory> de los <org type="Indigenous-political">Sioux del Oeste</org>. 
 </sense>
 </entry>
 <entry xml:id="id_11633">
@@ -14295,7 +14295,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11636">
 <form><orth type="lemma" orig="OUAINCO">OUAINCO</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Rouge</Landmark> o <Landmark>colorado</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Rouge</Landmark> o <Landmark>colorado</Landmark>. 
 </sense>
 </entry>
 <entry xml:id="id_11637">
@@ -14505,13 +14505,13 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11675"><pb n="v3-0421" facs="Alcedo_vol_3-0421"/>
 <form><orth orig="OUYAPE"><cb n="1"/>OUYAPE</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Misisipi</Landmark>, 550 leguas de su boca o entrada tienen los <org type="European-political">Franceses</org> en él construido un <Concept_Structure type="Structure">fuerte</Concept_Structure> para su defensa. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> y <Concept_Territory type="Territory">Gobierno</Concept_Territory> de la <Territory>Luisiana</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Misisipi</Landmark>, 550 leguas de su boca o entrada tienen los <org type="European-political">Franceses</org> en él construido un <Concept_Structure type="Structure">fuerte</Concept_Structure> para su defensa. 
 </sense>
 </entry>
 <superEntry>
 <entry xml:id="id_11676">
 <form><orth type="lemma" orig="OWEGY">OWEGY</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Pensilvania</Territory> en la <Territory>América Septentrional</Territory>, situado a la boca del <Concept_Landmark type="Landmark">río</Concept_Landmark> de su nombre. 
 </sense>
 </entry>
 <entry xml:id="id_11677">
@@ -14522,7 +14522,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </superEntry>
 <entry xml:id="id_11678">
 <form><orth type="lemma" orig="OWENDOES">OWENDOES</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bever</Landmark>: en él tenían los <org type="European-political">Ingleses</org> un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement>, que era el primero y más antiguo que formaron en el <Landmark>Ohio</Landmark>. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Territory>Nueva Francia</Territory> o <Territory>Canadá</Territory> en la <Territory>América Septentrional</Territory>, situado a orilla del <Concept_Landmark type="Landmark">río</Concept_Landmark> <Landmark>Bever</Landmark>: en él tenían los <org type="European-political">Ingleses</org> un <Concept_Settlement type="Settlement">establecimiento</Concept_Settlement>, que era el primero y más antiguo que formaron en el <Landmark>Ohio</Landmark>. 
 </sense>
 </entry>
 <superEntry>
@@ -14569,7 +14569,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11687">
 <form><orth type="lemma" orig="OYACATLA">OYACATLA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Misteca</Territory> en <Territory>Nueva España</Territory> en tiempo de la gentilidad de los <Concept_Group type="Group">Indios</Concept_Group>, que hoy no existe. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Territory type="Territory">Provincia</Concept_Territory> de <Territory>Misteca</Territory> en <Territory>Nueva España</Territory> en tiempo de la gentilidad de los <Concept_Group type="Group">Indios</Concept_Group>, que hoy no existe. 
 </sense>
 </entry>
 <entry xml:id="id_11688">
@@ -14633,7 +14633,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11699">
 <form><orth type="lemma" orig="OZCOTICA">OZCOTICA</orth>, </form>
-<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> del <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Tezcuco</Territory> en la <Territory>Nueva España</Territory> en tiempo de la gen<pb n="v3-0424" facs="Alcedo_vol_3-0424"/><cb n="1"/>tilidad de los <Concept_Group type="Group">Indios</Concept_Group>, que ya no existe: era uno de los destinados a mantener las provisiones de la Casa Real. 
+<sense><Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> del <Concept_Territory type="Territory">Reyno</Concept_Territory> de <Territory>Tezcuco</Territory> en la <Territory>Nueva España</Territory> en tiempo de la gen<pb n="v3-0424" facs="Alcedo_vol_3-0424"/><cb n="1"/>tilidad de los <Concept_Group type="Group">Indios</Concept_Group>, que ya no existe: era uno de los destinados a mantener las provisiones de la Casa Real. 
 </sense>
 </entry>
 <entry xml:id="id_11700">
@@ -14756,7 +14756,7 @@ Se erigió el año de 1535. La <Concept_Settlement type="Settlement">Capital</Co
 </entry>
 <entry xml:id="id_11721">
 <form><orth type="lemma" orig="MACUILACATLAN">MACUILACATLAN</orth>, </form>
-<sense><lb/>Id. <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Group type="Group">Nación</Concept_Group> <org type="Indigenous-political">Totonaque</org> en la <Territory>Nueva España</Territory> (que dexó el Señor de ellos llamado <persName>Xatontán</persName> por su muerte a uno de sus tres hijos nombrado <persName>Ichcatzinteuhtli</persName>) y estaba una legua distante del que ahora es <Settlement>Ahuacatlán</Settlement>. 
+<sense><lb/>Id. <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Group type="Group">Nación</Concept_Group> <org type="Indigenous-political">Totonaque</org> en la <Territory>Nueva España</Territory> (que dexó el Señor de ellos llamado <persName>Xatontán</persName> por su muerte a uno de sus tres hijos nombrado <persName>Ichcatzinteuhtli</persName>) y estaba una legua distante del que ahora es <Settlement>Ahuacatlán</Settlement>. 
 </sense>
 </entry>
 <superEntry>
@@ -14928,7 +14928,7 @@ produce muchos frutos sin cultivar, y la vaynilla es allí tan común como una e
 </entry>
 <entry xml:id="id_11748"><pb n="v3-0453" facs="Alcedo_vol_3-0453"/>
 <form><orth orig="MANICARAO"><cb n="1"/>MANICARAO</orth>, </form>
-<sense>Id. lin. 22 <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group>> de la <Concept_Landmark type="Landmark">Isla</Concept_Landmark> de <Territory>Cuba</Territory>, que tuvo por encomienda <persName>Hernán Cortes</persName>, quando se avecindó allí antes de pasar a la conquista de <Territory>Nueva España</Territory>, <persName>Gomara</persName> llama Manicaras a estos <Concept_Group type="Group">Indios</Concept_Group>.
+<sense>Id. lin. 22 <Concept_Settlement type="Settlement">Pueblo</Concept_Settlement> de <Concept_Group type="Group">Indios</Concept_Group> de la <Concept_Landmark type="Landmark">Isla</Concept_Landmark> de <Territory>Cuba</Territory>, que tuvo por encomienda <persName>Hernán Cortes</persName>, quando se avecindó allí antes de pasar a la conquista de <Territory>Nueva España</Territory>, <persName>Gomara</persName> llama Manicaras a estos <Concept_Group type="Group">Indios</Concept_Group>.
 </sense>
 </entry>
 <entry xml:id="id_11748a">
