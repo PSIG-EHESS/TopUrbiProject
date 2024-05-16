@@ -6,5 +6,10 @@
     </meta>
     <projectTree name="newProject.xpr">
         <folder path="."/>
+        <file name="vol_1_annotated_TEId.xml"/>
+        <file name="vol_2_annotated_TEId.xml"/>
+        <file name="vol_3_annotated_TEId.xml"/>
+        <file name="vol_4_annotated_TEId.xml"/>
+        <file name="vol_5_annotated_TEId.xml"/>
     </projectTree>
 </project>

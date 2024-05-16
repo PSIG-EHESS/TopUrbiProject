@@ -28,7 +28,7 @@ def count_characters(file_path):
 rootpath="F:/EHESS/TopUrbiGit/Alcedo/Annotated/"
 filename_list = ['vol_1_annotated','vol_2_annotated','vol_3_annotated','vol_4_annotated','vol_5_annotated']
 #filename_list = ['vol_1_annotated','vol_2_annotated']
-filename_list = ['vol_2_annotated','vol_3_annotated','vol_4_annotated','vol_5_annotated']
+#filename_list = ['vol_3_annotated','vol_4_annotated','vol_5_annotated']
 type_list=['Settlement','Structure','Territory','Landmark']
 countstrings = ["<Territory", "<Settlement", "<Landmark"]
 substring_counts = {substring: 0 for substring in countstrings}
@@ -269,12 +269,12 @@ for filename in filename_list:
             },
             # Subsequent list items
             {
-                "search": r'(?P<front>µ[^µ]+?µµ)(?P<back>(<item>.*?)</item>\r\n)',
+                "search": r'(?P<front>µ[^µ]+?µµ)(?P<back>(€[^ß]+?ß)?(<item>.*?)</item>\r\n)',
                 "replace": r'\g<front>\§\g<back>\g<front>'
             },
             # Subsequent list items
             {
-                "search": r'(?P<fore>(µ)(?P<type>[^µ]+?)(µµ\\§))(?P<front><item>.*?)<'+typeq+'>(?P<topo>.+?)</'+typeq+'>(?P<back>.*?</item>)',
+                "search": r'(?P<fore>(µ)(?P<type>[^µ]+?)(µµ\\§))(?P<front>(€[^ß]+?ß)?<item>.*?)<'+typeq+'>(?P<topo>.+?)</'+typeq+'>(?P<back>.*?</item>)',
                 "replace": r'\g<front><PLACE subtype="inferred_term" type="'+typeq+'" key="\g<type>">€placeName type="'+typeq+'"ß\g<topo>€/placeNameß</PLACE>\g<back>'
             },
         ]
@@ -953,7 +953,7 @@ for filename in filename_list:
         },
         {
             "search": r'<Landmark>(?P<topo>(?:(?!(<Landmark)).)*?)</Landmark>',
-            "replace": r'<geogFeat subtype="unresolved_term"><placeName>\g<topo></placeName></geogFeat>'
+            "replace": r'<geogName subtype="unresolved_term"><placeName>\g<topo></placeName></geogName>'
         },
         {
             "search": r'Compoundterm',
@@ -964,80 +964,80 @@ for filename in filename_list:
             "replace": r''
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="Territory" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1">\g<topo></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="Territory" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2">\g<topo></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="Settlement" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<settlement subtype="\1">\g<topo></settlement>'
+            "search": r'<PLACE subtype="([^"]+?)" type="Settlement" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<settlement subtype="\1" type="\2">\g<topo></settlement>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="Landmark" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<geogFeat subtype="\1">\g<topo></geogFeat>'
+            "search": r'<PLACE subtype="([^"]+?)" type="Landmark" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<geogName subtype="\1" type="\2">\g<topo></geogName>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="Structure" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<objectName subtype="\1">\g<topo></objectName>'
+            "search": r'<PLACE subtype="([^"]+?)" type="Structure" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<objectName subtype="\1" type="\2">\g<topo></objectName>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="District" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1">\g<topo></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="District" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2">\g<topo></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Territory" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><settlement subtype="\1">\g<topo></settlement></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Territory" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><settlement subtype="\1">\g<topo></settlement></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @Settlement" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><settlement subtype="\1">\g<topo></settlement></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @Settlement" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><settlement subtype="\1">\g<topo></settlement></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Structure" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<settlement subtype="\1"><objectName subtype="\1">\g<topo></objectName></settlement>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Structure" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<settlement subtype="\1" type="\2"><objectName subtype="\1">\g<topo></objectName></settlement>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Structure @Settlement" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<settlement subtype="\1"><objectName subtype="\1">\g<topo></objectName></settlement>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Structure @Settlement" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<settlement subtype="\1" type="\2"><objectName subtype="\1">\g<topo></objectName></settlement>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Territory" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><geogFeat subtype="\1">\g<topo></geogFeat></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Territory" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><geogName subtype="\1">\g<topo></geogName></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @Landmark" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><geogFeat subtype="\1">\g<topo></geogFeat></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @Landmark" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><geogName subtype="\1">\g<topo></geogName></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@District @Territory" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1">\g<topo></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@District @Territory" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2">\g<topo></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @District" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1">\g<topo></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Territory @District" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2">\g<topo></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@District @Settlement" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><settlement subtype="\1">\g<topo></settlement></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@District @Settlement" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><settlement subtype="\1">\g<topo></settlement></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @District" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<district subtype="\1"><settlement subtype="\1">\g<topo></settlement></district>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @District" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<district subtype="\1" type="\2"><settlement subtype="\1">\g<topo></settlement></district>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Structure @Landmark" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<geogFeat subtype="\1"><objectName subtype="\1">\g<topo></objectName></geogFeat>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Structure @Landmark" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<geogName subtype="\1" type="\2"><objectName subtype="\1">\g<topo></objectName></geogName>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Structure" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<geogFeat subtype="\1"><objectName subtype="\1">\g<topo></objectName></geogFeat>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Structure" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<geogName subtype="\1" type="\2"><objectName subtype="\1">\g<topo></objectName></geogName>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Landmark" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<settlement subtype="\1"><geogFeat subtype="\1">\g<topo></geogFeat></settlement>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Settlement @Landmark" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<settlement subtype="\1" type="\2"><geogName subtype="\1">\g<topo></geogName></settlement>'
         },
         {
-            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Settlement" key="[^"]+?">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
-            "replace": r'<settlement subtype="\1"><geogFeat subtype="\1">\g<topo></geogFeat></settlement>'
+            "search": r'<PLACE subtype="([^"]+?)" type="@Landmark @Settlement" key="([^"]+?)">(?P<topo>(?:(?!(<PLACE)).)*?)</PLACE>',
+            "replace": r'<settlement subtype="\1" type="\2"><geogName subtype="\1">\g<topo></geogName></settlement>'
         },
 
         {
@@ -1048,9 +1048,13 @@ for filename in filename_list:
             "search": r'<term type="@([^"]+?) @([^"]+?)"[^>]*?>(?P<back><term[^>]+?>(?:(?!(<term>)).)*?</term>(?:(?!(<term>)).)*?<term[^>]+?>(?:(?!(</term>)).)*?</term>)</term>',
             "replace": r'\g<back>'
         },
+            {
+            "search": r'type="@([^"]+?) @([^"]+?)"',
+            "replace": r'type="\1 y \2"'
+        },
         {
             "search": r'<Compound>(?P<back><term[^>]+?>(?:(?!(<term>)).)*?</term>(?:(?!(<term>)).)*?<term[^>]+?>(?:(?!(</term>)).)*?</term>)</Compound>',
-            "replace": r'<term type="Compound">\g<back></term>'
+            "replace": r'<term subtype="Compound">\g<back></term>'
         },
 
         {
@@ -1066,39 +1070,79 @@ for filename in filename_list:
             "replace": r''
         },
         {
-            "search": r'(key="[^"]*?)<[^>]+?>([^"]*?")',
+            "search": r'(="[^"]*?)<[^>]+?>([^"]*?")',
+            "replace": r'\1\2'
+        },
+        {
+            "search": r'(="[^"]*?)<[^>]+?>([^"]*?")',
             "replace": r'\1\2'
         },
         #simple compound variant toponyms (Complex are done above!)
         {
             "search": r'<term type="Landmark" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Landmark"(.+?)</placeName></placeName>',
-            "replace": r'<geogFeat subtype="explicit_term"><term type="Landmark" key="\1">\1</term>\3<placeName subtype="Compound" type="Landmark"\4</placeName></placeName></geogFeat>'
+            "replace": r'<geogName subtype="explicit_term" type="\1"><term type="Landmark" key="\1">\1</term>\3<placeName subtype="Compound" type="Landmark"\4</placeName></placeName></geogName>'
         },
         {
             "search": r'<term type="Structure" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Structure"(.+?)</placeName></placeName>',
-            "replace": r'<objectName subtype="explicit_term"><term type="Structure" key="\1">\1</term>\3<placeName subtype="Compound" type="Structure"\4</placeName></placeName></objectName>'
+            "replace": r'<objectName subtype="explicit_term" type="\1"><term type="Structure" key="\1">\1</term>\3<placeName subtype="Compound" type="Structure"\4</placeName></placeName></objectName>'
         },
         {
             "search": r'<term type="Settlement" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Settlement"(.+?)</placeName></placeName>',
-            "replace": r'<settlement subtype="explicit_term"><term type="Settlement" key="\1">\1</term>\3<placeName subtype="Compound" type="Settlement"\4</placeName></placeName></settlement>'
+            "replace": r'<settlement subtype="explicit_term" type="\1"><term type="Settlement" key="\1">\1</term>\3<placeName subtype="Compound" type="Settlement"\4</placeName></placeName></settlement>'
         },
         {
             "search": r'<term type="District" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Settlement"(.+?)</placeName></placeName>',
-            "replace": r'<settlement subtype="explicit_term"><term type="District" key="\1">\1</term>\3<placeName subtype="Compound" type="Settlement"\4</placeName></placeName></settlement>'
+            "replace": r'<settlement subtype="explicit_term" type="\1"><term type="District" key="\1">\1</term>\3<placeName subtype="Compound" type="Settlement"\4</placeName></placeName></settlement>'
         },
         {
             "search": r'<term type="District" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Territory"(.+?)</placeName></placeName>',
-            "replace": r'<district subtype="explicit_term"><term type="District" key="\1">\1</term>\3<placeName subtype="Compound" type="Territory"\4</placeName></placeName></district>'
+            "replace": r'<district subtype="explicit_term" type="\1"><term type="District" key="\1">\1</term>\3<placeName subtype="Compound" type="Territory"\4</placeName></placeName></district>'
         },
         {
             "search": r'<term type="Territory" key="([^"]+?)">(?:(?!(</term>)).)*?</term>( ?del? ?l?[oa]?s? )<placeName subtype="Compound" type="Territory"(.+?)</placeName></placeName>',
-            "replace": r'<district subtype="explicit_term"><term type="Territory" key="\1">\1</term>\3<placeName subtype="Compound" type="Territory"\4</placeName></placeName></district>'
+            "replace": r'<district subtype="explicit_term" type="\1"><term type="Territory" key="\1">\1</term>\3<placeName subtype="Compound" type="Territory"\4</placeName></placeName></district>'
         },
         {
             "search": r'([^>][^> ]( ?del? ?l?[oa]?s? )?)<placeName subtype="Compound" type="Landmark"(.+?)</placeName></placeName>',
-            "replace": r'\1<geogFeat subtype="unresolved_term"><placeName subtype="Compound" type="Landmark"\3</placeName></placeName></geogFeat>'
+            "replace": r'\1<geogName subtype="unresolved_term"><placeName subtype="Compound" type="Landmark"\3</placeName></placeName></geogName>'
         },
-        ###other types
+                {
+            "search": r'([^>][^> ]( ?del? ?l?[oa]?s? )?)<placeName subtype="Compound" type="Settlement"(.+?)</placeName></placeName>',
+            "replace": r'\1<settlement subtype="unresolved_term"><placeName subtype="Compound" type="Settlement"\3</placeName></placeName></settlement>'
+        },
+                {
+            "search": r'([^>][^> ]( ?del? ?l?[oa]?s? )?)<placeName subtype="Compound" type="Structure"(.+?)</placeName></placeName>',
+            "replace": r'\1<objectName subtype="unresolved_term"><placeName subtype="Compound" type="Structure"\3</placeName></placeName></objectName>'
+        },
+                {
+            "search": r'([^>][^> ]( ?del? ?l?[oa]?s? )?)<placeName subtype="Compound" type="Territory"(.+?)</placeName></placeName>',
+            "replace": r'\1<district subtype="unresolved_term"><placeName subtype="Compound" type="Structure"\3</placeName></placeName></district>'
+        },
+        ###
+                {
+            "search": r'(<term type="[^"]+?" )type=[^>]+?><term type="([^"]+?)" key="([^"]+?)">(.+?)</term>(.+?)<term type="([^"]+?)" key="([^"]+?)">(.+?)</term></term>',
+            "replace": r'\1subtype="Compound" key="\3 y \7"><term type="\2" key="\3">\4</term>\5<term type="\6" key="\7">\8</term></term>'
+        },
+                {
+            "search": r'(_term" )type(="[^"]+?")',
+            "replace": r'\1key\2'
+        },
+                {
+            "search": r'<item><label.+?/>',
+            "replace": r''
+        },
+                {
+            "search": r'<geogName',
+            "replace": r'<geogName type="landmark"'
+        },        
+                {
+            "search": r'<objectName',
+            "replace": r'<geogName type="structure"'
+        },
+                {
+            "search": r'</objectName>',
+            "replace": r'</geogName>'
+        },
 ]
     #Next group of patterns
     modified_content = original_content

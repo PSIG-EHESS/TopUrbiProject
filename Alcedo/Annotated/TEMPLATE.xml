@@ -15,7 +15,7 @@
 	<text>
 		<front>
 			<div n="subscribers">
-				<head><title>LISTA DE LOS SUBSCRIBIENTES</title></head>
+				<hi><label><title>LISTA DE LOS SUBSCRIBIENTES</title></label></hi>
 				<p>Cristóbal Colón, Werner Stangl</p>
 			</div>
 			<div n="dedicatory">
@@ -108,7 +108,7 @@
 					
 					<sense>
 						<term key="Villa">Villa</term>
-						de e<hi><list><head/><item>asd</item></list></hi>la
+						de e<hi><list><hi><label/><item>asd</item></list></hi>la
 						<district key="id_07242" ref="http://topurbi.ehess.fr/VIRGINIA_Provincia">
 							<term key="provincia">Provincia</term>
 							y

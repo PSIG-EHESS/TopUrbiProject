@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -11,35 +10,32 @@
         <editionStmt>
             <edition>
                 <date>2024</date>
-                <respStmt>
-                    <resp>digital edition by</resp>
-                    <name>Projet TopUrbi, ANR-21-CE27-0023</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Project Lead</resp>
-                    <name ref="#JPZ">Jean-Paul Zúñiga</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Technical Project Lead</resp>
-                    <name ref="#CB">Carmen Brando</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Facsimile digitzed vol. 1 by</resp>
-                    <name>École Saint-Geneviève</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Facsimile digitzed vol. 2-5 by</resp>
-                    <name>HathiTrust</name>
-                </respStmt>
-                <respStmt>
-                    <resp>baseline OCR vol. 1-3 and 5 by</resp>
-                    <name>John Carter Brown Library</name>
-                </respStmt>
-                <respStmt>
-                    <resp>baseline OCR vol. 4 by</resp>
-                    <name>Duke University</name>
-                </respStmt>
             </edition>
+            <respStmt><resp>digital edition by</resp><name>Projet TopUrbi, ANR-21-CE27-0023</name></respStmt>
+            <respStmt>
+                <resp>Project Lead</resp>
+                <name ref="#JPZ">Jean-Paul Zúñiga</name>
+            </respStmt>
+            <respStmt>
+                <resp>Technical Project Lead</resp>
+                <name ref="#CB">Carmen Brando</name>
+            </respStmt>
+            <respStmt>
+                <resp>Facsimile digitzed vol. 1 by</resp>
+                <name>École Saint-Geneviève</name>
+            </respStmt>
+            <respStmt>
+                <resp>Facsimile digitzed vol. 2-5 by</resp>
+                <name>HathiTrust</name>
+            </respStmt>
+            <respStmt>
+                <resp>baseline OCR vol. 1-3 and 5 by</resp>
+                <name>John Carter Brown Library</name>
+            </respStmt>
+            <respStmt>
+                <resp>baseline OCR vol. 4 by</resp>
+                <name>Duke University</name>
+            </respStmt>
         </editionStmt>
         <publicationStmt>
             <distributor>École des hautes éstudes en sciences sociales</distributor>
@@ -150,73 +146,18 @@
             </interpretation>
         </editorialDecl>
     </encodingDesc>
-    <profileDesc>
-        <particDesc>
-            <listPerson>
-                <person xml:id="JPZ">
-                    <persName>Jean-Paul Zúñiga</persName>
-                    <p>Principal investigator. Manual sample annotation, corrections</p>
-                </person>
-                <person xml:id="CB">
-                    <persName>Carmen Brando</persName>
-                    <p>Technical director. Workflow design, programming (NLP), manual sample
-                        annotation, annotation revision</p>
-                </person>
-                <person xml:id="WS">
-                    <persName>Werner Stangl</persName>
-                    <p>House elf. Coordination of edition, data modeling, workflow design,
-                        programming, documentation, metadata extraction, automatted geomatching,
-                        manual geolocation, rule based correction, manual correction, manual sample
-                        annotation, annotation revision, quality control</p>
-                </person>
-                <person xml:id="JB">
-                    <persName>Jerónimo Bermúdez</persName>
-                    <p>Collaborator. Manual annotation, correction, manual geolocation</p>
-                </person>
-                <person xml:id="MO">
-                    <persName>Mickael Orantin</persName>
-                    <p>Collaborator. Manual annotation, correction, manual sample annotation,
-                        annotation revision</p>
-                </person>
-                <person xml:id="BB">
-                    <persName>Jerónimo Bermúdez</persName>
-                    <p>Manual geolocation</p>
-                </person>
-                <person xml:id="AH">
-                    <persName>Anahí Haedo</persName>
-                    <p>Student intern, explorative </p>
-                </person>
-                <person xml:id="EL">
-                    <persName>Elvira Labarca</persName>
-                    <p>Student intern, manual correction </p>
-                </person>
-                <person xml:id="FDS">
-                    <persName>Fábio da Silva</persName>
-                    <p>Student intern, manual correction </p>
-                </person>
-                <person xml:id="DC">
-                    <persName>Daniela Cárdenas</persName>
-                    <p>Student intern, manual correction </p>
-                </person>
-                <person xml:id="GQ">
-                    <persName>Gabriela Quezada</persName>
-                    <p>Student intern, manual correction </p>
-                </person>
-            </listPerson>
-        </particDesc>
-    </profileDesc>
     <revisionDesc>
-        <change notAfter="2024-03-31" who="#WS #MO #CB"> Manual annotation review</change>
-        <change when="2024-01-15" who="#CB"> NLP annotation added </change>
-        <change notAfter="2023-11-30" who="#WS #JB">Manual proofreading vol. 1</change>
-        <change notAfter="2023-05-31" who="#WS #MO #JB">Manual proofreading vol. 1</change>
-        <change notAfter="2023-05-31" who="#WS #EL #CB #FDS">Manual proofreading vol. 2</change>
-        <change notAfter="2023-05-31" who="#WS #DC">Manual proofreading vol. 3</change>
-        <change notAfter="2023-05-31" who="#WS #EL #GQ">Manual proofreading vol. 4</change>
-        <change notAfter="2023-05-31" who="#WS">Manual proofreading vol. 5</change>
-        <change notAfter="2022-12-31" who="#WS">Automatic geomatching done for entries</change>
-        <change notAfter="2022-10-31" who="#WS">Structural analysis completed, entry elements
+        <change notAfter="2024-03-31" who="alcedo_meta.xml#WS alcedo_meta.xml#MO alcedo_meta.xml#CB"> Manual annotation review</change>
+        <change when="2024-01-15" who="alcedo_meta.xml#CB"> NLP annotation added </change>
+        <change notAfter="2023-11-30" who="alcedo_meta.xml#WS alcedo_meta.xml#JB">Manual proofreading vol. 1</change>
+        <change notAfter="2023-05-31" who="alcedo_meta.xml#WS alcedo_meta.xml#MO alcedo_meta.xml#JB">Manual proofreading vol. 1</change>
+        <change notAfter="2023-05-31" who="alcedo_meta.xml#WS alcedo_meta.xml#EL alcedo_meta.xml#CB alcedo_meta.xml#FDS">Manual proofreading vol. 2</change>
+        <change notAfter="2023-05-31" who="alcedo_meta.xml#WS alcedo_meta.xml#DC">Manual proofreading vol. 3</change>
+        <change notAfter="2023-05-31" who="alcedo_meta.xml#WS alcedo_meta.xml#EL alcedo_meta.xml#GQ">Manual proofreading vol. 4</change>
+        <change notAfter="2023-05-31" who="alcedo_meta.xml#WS">Manual proofreading vol. 5</change>
+        <change notAfter="2022-12-31" who="alcedo_meta.xml#WS">Automatic geomatching done for entries</change>
+        <change notAfter="2022-10-31" who="alcedo_meta.xml#WS">Structural analysis completed, entry elements
             defined, lemma and type established</change>
-        <change notAfter="2017-01-01" who="#WS">Initial rule based cleaning of OCR</change>
+        <change notAfter="2017-01-01" who="alcedo_meta.xml#WS">Initial rule based cleaning of OCR</change>
     </revisionDesc>
 </teiHeader>
