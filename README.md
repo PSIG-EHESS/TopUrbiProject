@@ -2,13 +2,14 @@
 
 ## Site github du projet pour centraliser les données et les traitements
 
-Chargé des traitements des données extuels et géohistoriques : 
+Chargé des traitements des données textuels et géohistoriques : 
 
-**Werner Stangl**, PhD, historien et humaniste digital
+**Werner Stangl**, PhD, historien et humaniste digital, CRH CNRS/EHESS
 
-Avec le soutien de **Carmen Brando**, responsable du WP, plateforme Géomatique EHESS
+Avec le soutien de **Carmen Brando**, responsable du WP, plateforme Géomatique EHESS, CRH CNRS/EHESS
 
 Porteur (PI) : **Jean Paul Zuniga**, Directeur d'études EHESS et directeur de recherches CNRS
+
 Laboratoire porteur : **CRH CNRS/EHESS**
 
 Contributions : 
