@@ -1,19 +1,40 @@
 <TEI>
-<geoDecl xml:id="geoWGS" datum="WGS84">World Geodetic System</geoDecl>
+<teiHeader>
+       <fileDesc>
+            <titleStmt>
+                <title xml:lang="es">Índice y metadatos de la edición digital del Diccionario geográfico-histórico de las Indias Occidentales</title>
+				<title xml:lang="en">Diccionario geográfico-histórico de las Indias Occidentales, digital edition</title>
+				<title xml:lang="fr">Diccionario geográfico-histórico de las Indias Occidentales, digital edition</title>
+                <author>Stangl, Werner</author>
+                <funder>Agence Nationale de la Recherche (ANR) <idno>ANR-21-CE27-0023</idno></funder>
+                <editor role="main" ref="TopUrbiIndex.xml#WS">Werner Stangl</editor>
+            </titleStmt>
+
+            <publicationStmt>
+                <distributor>École des hautes éstudes en sciences sociales</distributor>
+                <address>
+                    <addrLine>Plateforme géomatique de l'EHESS</addrLine>
+                    <addrLine>54, Boulevard Raspail</addrLine>
+                    <addrLine>75006 Paris</addrLine>
+                    <addrLine>France</addrLine>
+                </address>
+            </publicationStmt>
+		</fileDesc>
+		<geoDecl xml:id="geoWGS" datum="WGS84">World Geodetic System</geoDecl>
 <particDesc>
-	<listPerson xml:id="indexProjectmembers">
+	<listPerson xml:id="indexTopUrbiMembers">
 		<person xml:id="JPZ">
 			<p><persName>Jean-Paul Zúñiga</persName>, Principal investigator. Manual sample annotation</p>
 		</person>
 		<person xml:id="CB">
-			<p><persName>Carmen Brando</persName>, Technical director.  programming (NLP), workflow design, manual sample
+			<p><persName>Carmen Brando</persName>, Technical head. Programming (NLP), workflow design, manual sample
 				annotation, annotation revision</p>
 		</person>
 		<person xml:id="WS">
-			<p><persName>Werner Stangl</persName>, House elf. Coordination of edition, TEI modeling, workflow design,
+			<p><persName>Werner Stangl</persName>, Factotum. Coordination of edition, TEI modeling, workflow design,
 				programming, documentation, metadata extraction, automated geomatching,
 				manual geolocation, rule based correction, manual OCR correction, manual sample
-				annotation, annotation revision, quality control</p>
+				annotation, annotation revision, structural transformation, quality control</p>
 		</person>
 		<person xml:id="JB">
 			<p><persName>Jerónimo Bermúdez</persName>, Collaborator. Manual annotation, manual OCR correction, manual geolocation</p>
@@ -51,115 +72,5 @@
 		</person>
 	</listPerson>
 </particDesc>
-
-
-<listPlaces xml:id="indexTerritories">
-	<desc xml:lang="en">The location of reviewed places (status indicated in note) are established by the project members and does not follow Alcedo if his indications are problematic or mistaken. The location of unreviewed places is usually simply taken from the document, although frequently in normalized form and some supplied or inferred elements. </desc>
-	<desc xml:lang="es">La ubicación de los lugares revisados (estatus indicado en nota) es establecida por los miembros del proyecto y no sigue a Alcedo si sus indicaciones son problemáticas o erróneas. La ubicación de los lugares no revisados generalmente se toma simplemente del documento, aunque frecuentemente en forma normalizada y con algunos elementos suministrados o inferidos.</desc>
-	<desc xml:lang="fr">La localisation des lieux révisés (status indiqué dans note) est établie par les membres du projet et ne suit pas Alcedo si ses indications sont problématiques ou erronées. La localisation des lieux non révisés est généralement simplement prise du document, bien que souvent sous une forme normalisée et avec certains éléments fournis ou inférés.</desc>
-	<place xml:id="TopUrbiPlace{id}">
-		<district>
-			<placeName>{nombre_estandar}</placeName>
-			<term type="featuretype" target="#{featuretype}">{featuretype}</term>
-			<idno type="uri" cert="{conf_identity}">{idno_base}{gazetteermatch}</idno>
-			<location resp= "{reviewer}">
-				<district type="container">{Province}</district>
-				<region type="container">{Region}</region>
-				<geo decls="#geoWGS" cert="{conf_loc}">{Lat} {Lon}</geo>
-			</location>
-			<linkGrp type="corresponding_entries">
-				<link target="Alcedo_vol{volume}.xml#{entry_id}"/>
-			</linkGrp>
-			<noteGrp>
-				<note xml:lang="es" type="review">{review-note-es}</note>
-				<note xml:lang="es" type="categorical">{category-note-es}</note>
-				<note xml:lang="es" type="doublettes">{doublette-note-es}</note>
-				<note xml:lang="es" type="imaginary">{imaginary-note-es}</note>
-				<note xml:lang="es" type="artifact">{artifact-note-es}</note>
-				<note xml:lang="es" type="historical">{historical-note-es}</note>
-			</noteGrp>
-			<noteGrp>
-				<note xml:lang="fr" type="review">{review-note-fr}</note>
-				<note xml:lang="en" type="categorical">{category-note-en}</note>
-				<note xml:lang="en" type="doublettes">{doublette-note-en}</note>
-				<note xml:lang="en" type="imaginary">{imaginary-note-en}</note>
-				<note xml:lang="en" type="artifact">{artifact-note-en}</note>
-				<note xml:lang="en" type="historical">{historical-note-en}</note>
-			</noteGrp>
-			<noteGrp>
-				<note xml:lang="fr" type="review">{review-note-fr}</note>
-				<note xml:lang="fr" type="categorical">{category-note-fr}</note>
-				<note xml:lang="fr" type="doublettes">{doublette-note-fr}</note>
-				<note xml:lang="fr" type="imaginary">{imaginary-note-fr}</note>
-				<note xml:lang="fr" type="artifact">{artifact-note-fr}</note>
-				<note xml:lang="fr" type="historical">{historical-note-fr}</note>
-			</noteGrp>
-		</district>
-	</place>
-</listPlaces>
-<listPlaces xml:id="indexSettlements">
-	<place xml:id="TopUrbiPlace{id}">
-		<settlement>
-		...
-		</settlement>
-	</place>
-
-</listPlaces>
-<listPlaces xml:id="indexLandmarks">
-	<place xml:id="TopUrbiPlace{id}">
-		<geogName type="landmark">
-		...
-		</geogName>
-	</place>
-</listPlaces>
-<listPlaces xml:id="indexStructures">
-	<place xml:id="TopUrbiPlace{id}">
-		<geogName type="structure">
-		...
-		</geogName>
-	</place>
-</listPlaces>
-
-<listOrg>
-	<org>
-		<orgName xml:id="TopUrbiGroup{id}" type="Indigenous-political"></orgName>
-		<term type="organizationtype" target="#{featuretype}">{featuretype}</term>
-		<idno type="uri" cert="{conf_identity}">{idno_base}{gazetteermatch}</idno>
-		<location resp= "{reviewer}">
-			<district type="container">{Province}</district>
-			<region type="container">{Region}</region>
-			<geo decls="#geoWGS" cert="{conf_loc}">{Lat} {Lon}</geo>
-		</location>
-		<linkGrp type="corresponding_entries">
-			<link target="Alcedo_vol{volume}.xml#{entry_id}"/>
-		</linkGrp>
-		<noteGrp>
-			<note xml:lang="es" type="review">{review-note-es}</note>
-			<note xml:lang="es" type="categorical">{category-note-es}</note>
-			<note xml:lang="es" type="imaginary">{imaginary-note-es}</note>
-			<note xml:lang="es" type="artifact">{artifact-note-es}</note>
-			<note xml:lang="es" type="historical">{historical-note-es}</note>
-			</noteGrp>
-		<noteGrp>
-			<note xml:lang="fr" type="review">{review-note-fr}</note>
-			<note xml:lang="en" type="categorical">{category-note-en}</note>
-			<note xml:lang="en" type="imaginary">{imaginary-note-en}</note>
-			<note xml:lang="en" type="artifact">{artifact-note-en}</note>
-			<note xml:lang="en" type="historical">{historical-note-en}</note>
-		</noteGrp>
-		<noteGrp>
-			<note xml:lang="fr" type="review">{review-note-fr}</note>
-			<note xml:lang="fr" type="categorical">{category-note-fr}</note>
-			<note xml:lang="fr" type="imaginary">{imaginary-note-fr}</note>
-			<note xml:lang="fr" type="artifact">{artifact-note-fr}</note>
-			<note xml:lang="fr" type="historical">{historical-note-fr}</note>
-		</noteGrp>
-	</org>
-</listOrg>
-
-<list xml:id="indexConcepts">
-<item><term xml:id="TopUrbiConcept{id}" type="org"></term></item>
-</list>
-
-
+</teiHeader>
 </TEI>

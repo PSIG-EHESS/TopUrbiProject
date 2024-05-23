@@ -1,0 +1,4276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list type="index" xml:id="TopUrbiAmericanisms">
+	<desc xml:lang="es">Esta lista contiene información estructurada sobre los términos del diccionario de americanismos del vol. 5 del diccionario de Alcedo, así como un par de términos en todos los volúmenes que no corresponden a elementos geográficos concretos sino tipos/conceptos.</desc>
+	<desc xml:lang="en">This list contains structured information about the terms from the dictionary of Americanisms of vol. 5 of the Alcedo dictionary, as well as a couple of terms in all volumes that do not correspond to specific geographical elements but rather types/concepts.</desc>
+	<desc xml:lang="fr">Cette liste contient des informations structurées sur les termes du dictionnaire des américanismes du volume 5 du dictionnaire d'Alcedo, ainsi que quelques termes dans tous les volumes qui ne correspondent pas à des éléments géographiques spécifiques mais plutôt à des types/concepts.</desc>
+	<item xml:id="TopUrbiTerm16195">
+		<label>Estero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_05866"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm16825">
+		<label>Golfo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_06457"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm16954">
+		<label>Guaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_06583"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm17343">
+		<label>Guechas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_06981"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm18145">
+		<label>Indios</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_07810"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm18256">
+		<label>Isla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_07969"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm18928">
+		<label>Lago</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol2.xml#id_08659"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm20874">
+		<label>Monte</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol3.xml#id_10569"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm21237">
+		<label>Negros</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol3.xml#id_10981"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm21979">
+		<label>Mestizos</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol3.xml#id_11788"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm21999">
+		<label>Mitimaes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol3.xml#id_11808"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm22040">
+		<label>Mulato</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol3.xml#id_11848"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23317">
+		<label>Estancia</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18640"/>
+			<f name="type" fVal="#Structure"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23318">
+		<label>Estoraque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18641"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23319">
+		<label>Estrella del Mar</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18642"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23320">
+		<label>Papas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18851"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23321">
+		<label>Papaya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18852"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23322">
+		<label>Paramo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18853"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23323">
+		<label>Pardillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18854"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23324">
+		<label>Pareida braba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18855"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23325">
+		<label>Parotani</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18856"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23326">
+		<label>Pasmo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18857"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23327">
+		<label>Pastuzo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18858"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23328">
+		<label>Patilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18859"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23329">
+		<label>Patisaranda</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18860"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23330">
+		<label>Pauji</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18861"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23331">
+		<label>Pebetero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18862"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23332">
+		<label>Pellon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18863"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23333">
+		<label>Perico ligero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18864"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23334">
+		<label>Pericote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18865"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm23335">
+		<label>Periquito</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18866"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24322">
+		<label>Muca-muca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18802"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24323">
+		<label>Mulato</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18803"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24324">
+		<label>Mulita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18804"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24325">
+		<label>Murtilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18805"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24326">
+		<label>Muzo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18806"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24327">
+		<label>Naphta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18807"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24328">
+		<label>Ñame</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18808"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24329">
+		<label>Nazareno</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18809"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24330">
+		<label>Nigua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18810"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24331">
+		<label>Nispero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18811"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24333">
+		<label>Ñopo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18813"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24334">
+		<label>Ñorbo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18814"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24335">
+		<label>Polvos de Oaxaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18815"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24336">
+		<label>Obraje</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18816"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24337">
+		<label>Oca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18817"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24338">
+		<label>Ocote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18818"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24339">
+		<label>Oleacazan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18819"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24340">
+		<label>Omanto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18820"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24341">
+		<label>Organo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18821"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24342">
+		<label>Oso hormiguero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18822"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24343">
+		<label>Otoe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18823"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24344">
+		<label>Otova</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18824"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24347">
+		<label>Pacho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18827"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24348">
+		<label>Paco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18828"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24349">
+		<label>Pajaro bobo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18829"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24350">
+		<label>Pajaro mono</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18830"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24351">
+		<label>Pajaro niño</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18831"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24354">
+		<label>Palo borracho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18834"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24355">
+		<label>Palo de Luz</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18835"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24357">
+		<label>Palo manteca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18837"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24359">
+		<label>Palillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18839"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm24360">
+		<label>Palmito</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18840"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm25256">
+		<label>Savana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol4.xml#id_14822"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26756">
+		<label>Cascalote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18516"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26757">
+		<label>Cascarilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18517"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26758">
+		<label>Cascol</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18518"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26759">
+		<label>Caspiroleta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18519"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26760">
+		<label>Castañuela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18520"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26761">
+		<label>Castellano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18521"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26762">
+		<label>Castor</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18522"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26763">
+		<label>Catachi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18524"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26764">
+		<label>Cavima</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18525"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26765">
+		<label>Caxon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18526"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26766">
+		<label>Cazave</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18527"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26767">
+		<label>Cazon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18528"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26768">
+		<label>Cedro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18529"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26769">
+		<label>Ceiba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18530"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26770">
+		<label>Chacaranda</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18531"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26771">
+		<label>Chacharita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18532"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26772">
+		<label>Chacra</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18533"/>
+			<f name="type" fVal="#Structure"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26773">
+		<label>Chagllas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18534"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26774">
+		<label>Chaguala</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18535"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26775">
+		<label>Chaguarama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18536"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26776">
+		<label>Chalchihuites</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18537"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26777">
+		<label>Currucai</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18622"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26778">
+		<label>Cusicusi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18623"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26779">
+		<label>Cuy</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18624"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26780">
+		<label>Daconia</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18625"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26781">
+		<label>Daino</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18626"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26782">
+		<label>Dama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18627"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26783">
+		<label>Dictamo real</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18628"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26784">
+		<label>Diuca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18629"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26785">
+		<label>Dividivi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18630"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26786">
+		<label>Dominico</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18631"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26787">
+		<label>Dormilona</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18632"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26788">
+		<label>Drago</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18633"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26789">
+		<label>Drago</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18634"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26790">
+		<label>Durazno</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18635"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26791">
+		<label>Elemi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18636"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26792">
+		<label>Equis</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18637"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26794">
+		<label>Esponjilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18639"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26796">
+		<label>Petaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18868"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26797">
+		<label>Petate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18869"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26798">
+		<label>Petoregui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18870"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm26799">
+		<label>Pexe buey</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18871"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27768">
+		<label>Giquilite</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18663"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27769">
+		<label>Girasol</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18664"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27771">
+		<label>Granadilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18666"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27772">
+		<label>Guaba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18667"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27773">
+		<label>Guacamayo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18668"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27774">
+		<label>Guacarito</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18669"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27775">
+		<label>Guachapeli</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18670"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27776">
+		<label>Guacharaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18671"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27777">
+		<label>Guadua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18672"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27778">
+		<label>Guamache</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18673"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27779">
+		<label>Guamanga</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18674"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27780">
+		<label>Guanabana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18675"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27781">
+		<label>Guarango</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18676"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27782">
+		<label>Guarapo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18677"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27783">
+		<label>Guare</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18678"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27784">
+		<label>Guayaba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18679"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27785">
+		<label>Guayacan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18680"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm27787">
+		<label>Guembe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18682"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28705">
+		<label>Achote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18384"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28706">
+		<label>Achupalla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18385"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28707">
+		<label>Acre</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18386"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28708">
+		<label>Acuri</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18387"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28709">
+		<label>Aetites</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18388"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28710">
+		<label>Agi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18389"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28711">
+		<label>Agiaco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18390"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28712">
+		<label>Agraz</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18391"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28713">
+		<label>Aguacate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18392"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28714">
+		<label>Aguay</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18393"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28715">
+		<label>Aguarrica</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18394"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28716">
+		<label>Aguililla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18395"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28717">
+		<label>Ahogato</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18396"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28718">
+		<label>Alacran</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18397"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28719">
+		<label>Alanes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18398"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28721">
+		<label>Albures</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18400"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28722">
+		<label>Alcaravan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18401"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28723">
+		<label>Alpaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18402"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28724">
+		<label>Alerce</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18403"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28725">
+		<label>Alicuya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18404"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28726">
+		<label>Aljosucha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18405"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28727">
+		<label>Allullas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18406"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28728">
+		<label>Almadana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18407"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28729">
+		<label>Almofrez</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18408"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28730">
+		<label>Aloes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18409"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28731">
+		<label>Amonanas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18410"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28733">
+		<label>Anabaptistas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18412"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28734">
+		<label>Anchoueta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18413"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28735">
+		<label>Añil</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18413a"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28736">
+		<label>Anime</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18414"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28737">
+		<label>Anona</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18415"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28738">
+		<label>Anta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18416"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28739">
+		<label>Aperiades</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18417"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28740">
+		<label>Apotoyomatsi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18419"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28741">
+		<label>Arador</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18420"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28742">
+		<label>Ara guata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18421"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28743">
+		<label>Arandelas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18422"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28744">
+		<label>Aranoake</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18423"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28745">
+		<label>Ardilla volante</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18424"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28746">
+		<label>Arepa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18425"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28747">
+		<label>Armadillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18426"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28748">
+		<label>Arracacha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18427"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28749">
+		<label>Asnaucho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18428"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28750">
+		<label>Ayate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18429"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28751">
+		<label>Auyama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18430"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28752">
+		<label>Babagui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18431"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28753">
+		<label>Bacha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18432"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28754">
+		<label>Badea</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18433"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28755">
+		<label>Bagre</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18434"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28756">
+		<label>Bainilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18435"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28757">
+		<label>Bajareque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18436"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28758">
+		<label>Balsamo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18437"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28759">
+		<label>Banano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18438"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28760">
+		<label>Balsa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18439"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28761">
+		<label>Baqueano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18440"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28762">
+		<label>Baquira</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18441"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28763">
+		<label>Barqueta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18442"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28764">
+		<label>Barrio</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18443"/>
+			<f name="type" fVal="#Settlement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28765">
+		<label>Barro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18444"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28766">
+		<label>Batea</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18445"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28767">
+		<label>Bayuca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18446"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28768">
+		<label>Bejuco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18447"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28769">
+		<label>Bejuco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18448"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28770">
+		<label>Bejuquillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18449"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28771">
+		<label>Berrendo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18450"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28772">
+		<label>Blandengue</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18451"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28773">
+		<label>Bicho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18452"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28774">
+		<label>Bio</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18453"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28775">
+		<label>Bobo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18454"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28776">
+		<label>Bocachico</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18455"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28777">
+		<label>Bodoquero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18456"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28778">
+		<label>Bollo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18457"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28779">
+		<label>Bombilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18458"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28780">
+		<label>Bongo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18459"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28781">
+		<label>Boguilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18460"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28782">
+		<label>Bordillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18461"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28783">
+		<label>Botija</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18462"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28784">
+		<label>Bozal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18463"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28785">
+		<label>Brasil</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18464"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28786">
+		<label>Briza</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18465"/>
+			<f name="type" fVal="#Climate"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28787">
+		<label>Buairon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18466"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28788">
+		<label>Bucaniers</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18467"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28789">
+		<label>Buho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18468"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28790">
+		<label>Bujio</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18470"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28791">
+		<label>Cabuya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18471"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28792">
+		<label>Cacao</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18472"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28794">
+		<label>Cachupin</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18474"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28795">
+		<label>Cagui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18475"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28796">
+		<label>Caiman</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18476"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28797">
+		<label>Caimito</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18477"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28798">
+		<label>Calaguala</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18478"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28799">
+		<label>Calemback</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18479"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28800">
+		<label>Cajeta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18480"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28801">
+		<label>Cambures</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18481"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28802">
+		<label>Camellones</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18482"/>
+			<f name="type" fVal="#Structure"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28804">
+		<label>Camiseta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18484"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28805">
+		<label>Camote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18485"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28806">
+		<label>Campeche</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18486"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28807">
+		<label>Cañabrava</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18487"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28808">
+		<label>Cañafistula</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18488"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28809">
+		<label>Cañahua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18489"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28810">
+		<label>Cañahuate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18490"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28811">
+		<label>Canalete</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18491"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28812">
+		<label>Canapia</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18492"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28813">
+		<label>Canchalagua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18493"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28814">
+		<label>Candela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18494"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28815">
+		<label>Candelon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18495"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28816">
+		<label>Canela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18496"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28817">
+		<label>Canela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18497"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28818">
+		<label>Canelon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18498"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28819">
+		<label>Canime</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18499"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28820">
+		<label>Canoa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18500"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28821">
+		<label>Caoba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18501"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28822">
+		<label>Capae</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18502"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28824">
+		<label>Capitan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18504"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28825">
+		<label>Capuli</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18505"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28826">
+		<label>Carana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18506"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28827">
+		<label>Caratas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18507"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28828">
+		<label>Carate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18508"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28829">
+		<label>Caraya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18509"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28830">
+		<label>Cardenal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18509a"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28831">
+		<label>Cardo santo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18510"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28832">
+		<label>Carei</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18511"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28834">
+		<label>Carotu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18513"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28835">
+		<label>Caruata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18514"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28836">
+		<label>Cascabel</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18515"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28837">
+		<label>Chalona</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18538"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28838">
+		<label>Chamarreta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18539"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28839">
+		<label>Champan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18540"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28840">
+		<label>Changame</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18541"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28841">
+		<label>Chapeton</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18542"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28842">
+		<label>Chapetonada</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18543"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28843">
+		<label>Charaguaray</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18544"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28844">
+		<label>Charal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18545"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28845">
+		<label>Charapa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18546"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28846">
+		<label>Charquecillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18547"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28847">
+		<label>Charquican</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18548"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28848">
+		<label>Chasqui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18549"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28849">
+		<label>Chata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18550"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28850">
+		<label>Chavacano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18551"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28851">
+		<label>Chepe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18552"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28852">
+		<label>Chia</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18553"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28853">
+		<label>Chicha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18554"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28854">
+		<label>Chicle</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18555"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28855">
+		<label>Chico zapote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18556"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28856">
+		<label>Chiguire</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18557"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28857">
+		<label>Chile</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18558"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28858">
+		<label>China</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18559"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28859">
+		<label>Chingate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18560"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28860">
+		<label>Chinchilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18561"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28861">
+		<label>Chingana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18562"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28862">
+		<label>Chinguirito</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18563"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28863">
+		<label>Chini</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18564"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28864">
+		<label>Chircate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18565"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28865">
+		<label>Chiricles</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18566"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28866">
+		<label>Chirimoya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18567"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28867">
+		<label>Cholo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18568"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28868">
+		<label>Chombo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18569"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28869">
+		<label>Chonta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18570"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28870">
+		<label>Chorote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18571"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28871">
+		<label>Chorillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18572"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28872">
+		<label>Chuahu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18573"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28873">
+		<label>Chuce</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18574"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28874">
+		<label>Chucha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18575"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28875">
+		<label>Chumbe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18576"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28876">
+		<label>Chuño</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18577"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28877">
+		<label>Chupe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18578"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28878">
+		<label>Chuspas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18579"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28879">
+		<label>Cibolo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18580"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28880">
+		<label>Ciego</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18581"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28881">
+		<label>Ciento pies</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18582"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28883">
+		<label>Cimarron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18584"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28884">
+		<label>Cinto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18585"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28885">
+		<label>Coca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18586"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28886">
+		<label>Cocada</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18587"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28887">
+		<label>Cochinilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18588"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28889">
+		<label>Coco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18590"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28890">
+		<label>Cocobolo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18591"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28892">
+		<label>Colpa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18593"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28893">
+		<label>Comejen</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18594"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28894">
+		<label>Condor</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18595"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28895">
+		<label>Congo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18596"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28896">
+		<label>Contrayerba</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18597"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28897">
+		<label>Copal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18598"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28899">
+		<label>Copei</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18600"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28900">
+		<label>Coral</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18601"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28901">
+		<label>Corita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18602"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28902">
+		<label>Corozo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18603"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28903">
+		<label>Corpiño</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18604"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28904">
+		<label>Cotita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18605"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28905">
+		<label>Coto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18606"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28906">
+		<label>Cotopriz</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18607"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28907">
+		<label>Coya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18608"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28908">
+		<label>Coyote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18609"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28909">
+		<label>Crane</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18610"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28910">
+		<label>Crizneja</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18611"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28911">
+		<label>Cucaracha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18612"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28912">
+		<label>Cucuma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18613"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28913">
+		<label>Cuja</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18614"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28914">
+		<label>Culebrilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18615"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28915">
+		<label>Culen</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18616"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28916">
+		<label>Cumbes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18617"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28917">
+		<label>Cunaguaro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18618"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28918">
+		<label>Curbinata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18619"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28920">
+		<label>Curiquingui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18621"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28921">
+		<label>Faldellin</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18643"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28922">
+		<label>Famacosio</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18644"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28924">
+		<label>Figueroa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18646"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28925">
+		<label>Flibustiers</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18647"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28926">
+		<label>Fragata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18648"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28927">
+		<label>Fraylecillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18649"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28928">
+		<label>Fraylejon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18650"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28929">
+		<label>Fruta de</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18651"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28930">
+		<label>Fruta de Pava</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18652"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28931">
+		<label>Fustan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18653"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28932">
+		<label>Fustete</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18654"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28933">
+		<label>Gacha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18655"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28934">
+		<label>Gallinaza</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18656"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28935">
+		<label>Gallinazo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18657"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28936">
+		<label>Gamalota</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18658"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28937">
+		<label>Garua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18659"/>
+			<f name="type" fVal="#Climate"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28938">
+		<label>Gegenes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18660"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28939">
+		<label>Getudo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18661"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28940">
+		<label>Gicama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18662"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28941">
+		<label>Guepil</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18683"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28942">
+		<label>Guineo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18684"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28943">
+		<label>Habillas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18685"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28944">
+		<label>Hacana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18686"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28945">
+		<label>Hacer las</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18687"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28946">
+		<label>Hamaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18688"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28948">
+		<label>Hicacos</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18690"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28949">
+		<label>Higuerilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18691"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28950">
+		<label>Higueron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18692"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28951">
+		<label>Hilo de Caracol</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18693"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28952">
+		<label>Huaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18694"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28953">
+		<label>Huaipuru</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18695"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28955">
+		<label>Huano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18697"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28956">
+		<label>Huembe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18698"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28957">
+		<label>Icotea</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18699"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28958">
+		<label>Ichu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18700"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28959">
+		<label>Iguana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18701"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28960">
+		<label>Intiyuyu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18702"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28961">
+		<label>Invernadero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18703"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28962">
+		<label>Ipecacuana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18704"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28963">
+		<label>Itil</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18705"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28964">
+		<label>Jalapa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18706"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28965">
+		<label>Jenjibre</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18707"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28966">
+		<label>Jeniquen</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18708"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28967">
+		<label>Jicarazo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18709"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28968">
+		<label>Jobo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18710"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28969">
+		<label>Jugano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18711"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28970">
+		<label>Julepe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18712"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28971">
+		<label>Labadero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18713"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28972">
+		<label>Lanudo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18714"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28973">
+		<label>Lapa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18715"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28974">
+		<label>Latino</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18716"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28975">
+		<label>Leche miel</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18717"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28976">
+		<label>Lengua de Vaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18718"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28977">
+		<label>Leño blanco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18719"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28979">
+		<label>Leon marino</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18721"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28980">
+		<label>Lere</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18722"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28981">
+		<label>Lico</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18723"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28982">
+		<label>Lignum vitae</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18724"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28984">
+		<label>Limpia ojos</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18726"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28985">
+		<label>Limpion</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18727"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28986">
+		<label>Linches</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18728"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28987">
+		<label>Liquidambar</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18729"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28988">
+		<label>Liquira</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18730"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28989">
+		<label>Liron aquatil</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18731"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28990">
+		<label>Listadillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18732"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28991">
+		<label>Llaccho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18733"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28992">
+		<label>Llama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18734"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28993">
+		<label>Lliclla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18735"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28994">
+		<label>Lobo marino</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18736"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28995">
+		<label>Loro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18738"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28996">
+		<label>Lucma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18739"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28997">
+		<label>Lucuma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18740"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28998">
+		<label>Macagua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18741"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm28999">
+		<label>Macana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18742"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29000">
+		<label>Machete</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18743"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29001">
+		<label>Macno</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18744"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29002">
+		<label>Macuquina</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18745"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29003">
+		<label>Madi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18746"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29004">
+		<label>Maguei</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18747"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29005">
+		<label>Maiten</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18748"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29006">
+		<label>Maiz</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18749"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29008">
+		<label>Mamei</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18751"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29009">
+		<label>Mamon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18752"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29010">
+		<label>Manares</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18753"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29011">
+		<label>Manati</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18754"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29013">
+		<label>Mangle</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18756"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29014">
+		<label>Mani</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18757"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29015">
+		<label>Manta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18758"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29016">
+		<label>Manzanillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18759"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29017">
+		<label>Mapanae</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18760"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29018">
+		<label>Mapula</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18761"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29019">
+		<label>Mapuriti</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18762"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29020">
+		<label>Maqui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18763"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29021">
+		<label>Marañón</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18764"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29022">
+		<label>María</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18765"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29023">
+		<label>Marquesote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18766"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29024">
+		<label>Mata-palo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18767"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29025">
+		<label>Mata-sarna</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18768"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29026">
+		<label>Mate</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18769"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29027">
+		<label>Matlazahua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18770"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29029">
+		<label>Maya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18772"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29030">
+		<label>Mazato</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18773"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29031">
+		<label>Mechoacan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18774"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29032">
+		<label>Melero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18775"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29033">
+		<label>Mennonistas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18776"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29035">
+		<label>Metedor</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18778"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29036">
+		<label>Methodistas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18779"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29038">
+		<label>Mezquite</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18781"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29039">
+		<label>Mestizo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18782"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29040">
+		<label>Mita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18783"/>
+			<f name="type" fVal="#Institution"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29041">
+		<label>Mitote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18784"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29042">
+		<label>Mixe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18785"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29043">
+		<label>Miztlapique</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18786"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29044">
+		<label>Mocoa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18787"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29045">
+		<label>Mochilera</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18788"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29046">
+		<label>Molle</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18789"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29047">
+		<label>Moniato</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18790"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29049">
+		<label>Moquingana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18792"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29051">
+		<label>Moravitas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18794"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29052">
+		<label>Moriche</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18795"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29054">
+		<label>Moron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18797"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29055">
+		<label>Mosquito de Gusano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18798"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29056">
+		<label>Motaqui</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18799"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29057">
+		<label>Motete</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18800"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29058">
+		<label>Moya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18801"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29060">
+		<label>Pampano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18843"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29061">
+		<label>Pampero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18844"/>
+			<f name="type" fVal="#Climate"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29062">
+		<label>Panela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18845"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29063">
+		<label>Panequiri</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18846"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29064">
+		<label>Pañete</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18847"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29065">
+		<label>Paño de</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18848"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29066">
+		<label>Pantaura</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18849"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29067">
+		<label>Panuira</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18850"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29068">
+		<label>Pexe judio</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18872"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29069">
+		<label>Pexe rey</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18873"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29070">
+		<label>Picaflor</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18874"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29072">
+		<label>Piedra de Cruz</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18876"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29073">
+		<label>Pilco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18877"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29075">
+		<label>Pimienta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18879"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29076">
+		<label>Piña</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18880"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29077">
+		<label>Pinipichi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18881"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29078">
+		<label>Piñones</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18882"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29079">
+		<label>Piñuela</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18883"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29080">
+		<label>Piojo de Sabana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18884"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29081">
+		<label>Pipian</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18885"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29083">
+		<label>Pique</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18887"/>
+			<f name="type" fVal="#Activity"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29084">
+		<label>Piragua</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18888"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29085">
+		<label>Piritu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18889"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29086">
+		<label>Pita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18890"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29087">
+		<label>Pita haya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18891"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29089">
+		<label>Piuquen</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18893"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29090">
+		<label>Pixbae</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18894"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29091">
+		<label>Planta universal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18895"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29092">
+		<label>Platano</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18896"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29093">
+		<label>Polizon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18897"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29094">
+		<label>Polizones</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18898"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29095">
+		<label>Polleras</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18899"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29096">
+		<label>Pomo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18900"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29097">
+		<label>Poncho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18901"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29098">
+		<label>Pongo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18902"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29099">
+		<label>Potichi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18903"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29101">
+		<label>Preñadilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18905"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29102">
+		<label>Presbiterianos</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18906"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29103">
+		<label>Prieto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18907"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29104">
+		<label>Puchugchu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18908"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29105">
+		<label>Puelche</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18909"/>
+			<f name="type" fVal="#Climate"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29106">
+		<label>Pulperia</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18910"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29107">
+		<label>Pulque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18911"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29108">
+		<label>Puma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18912"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29109">
+		<label>Puna</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18913"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29110">
+		<label>Pupitiri</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18914"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29111">
+		<label>Purpura</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18915"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29112">
+		<label>Quacaro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18916"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29113">
+		<label>Quapaxtle</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18917"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29114">
+		<label>Quarteron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18918"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29115">
+		<label>Quartillo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18919"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29116">
+		<label>Quebracho</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18920"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29117">
+		<label>Quebranta huesos</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18921"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29118">
+		<label>Quechue</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18922"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29119">
+		<label>Quesadilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18923"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29120">
+		<label>Queyapi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18924"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29121">
+		<label>Quiaguequenoto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18925"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29122">
+		<label>Quina</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18926"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29124">
+		<label>Quinchamali</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18928"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29125">
+		<label>Quinte</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18929"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29126">
+		<label>Quinteron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18930"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29127">
+		<label>Rabo pelado</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18931"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29128">
+		<label>Racoon</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18932"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29129">
+		<label>Rancheria</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18933"/>
+			<f name="type" fVal="#Settlement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29130">
+		<label>Rapadura</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18934"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29131">
+		<label>Raton</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18935"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29132">
+		<label>Reyeque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18936"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29133">
+		<label>Rodadores</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18937"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29134">
+		<label>Rogerernes</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18938"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29136">
+		<label>Ruana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18940"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29137">
+		<label>Sabana</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18941"/>
+			<f name="type" fVal="#Landmark"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29138">
+		<label>Sabanilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18942"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29140">
+		<label>Salta atras</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18944"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29141">
+		<label>Saramicues</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18945"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29142">
+		<label>Sargazo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18946"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29143">
+		<label>Sasafras</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18947"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29144">
+		<label>Seña</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18948"/>
+			<f name="type" fVal="#Measurement"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29146">
+		<label>Separatistas</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18950"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29147">
+		<label>Sierpe volante</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18951"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29148">
+		<label>Siote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18952"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29149">
+		<label>Soata</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18953"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29151">
+		<label>Suche</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18955"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29152">
+		<label>Sopilote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18956"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29153">
+		<label>Sopilote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18957"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29154">
+		<label>Suelda consuelda</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18958"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29156">
+		<label>Tabaco</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18960"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29157">
+		<label>Tacamauaca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18961"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29158">
+		<label>Tache</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18962"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29159">
+		<label>Tajibo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18963"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29160">
+		<label>Tamal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18964"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29161">
+		<label>Tamarindo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18965"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29162">
+		<label>Tambo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18966"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29163">
+		<label>Taravita</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18967"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29164">
+		<label>Tarai</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18968"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29165">
+		<label>Tasajo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18969"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29166">
+		<label>Taya</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18970"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29167">
+		<label>Taye</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18971"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29168">
+		<label>Teanguis</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18972"/>
+			<f name="type" fVal="#Institution"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29169">
+		<label>Tecolote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18973"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29170">
+		<label>Tembladera</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18974"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29172">
+		<label>Temepechin</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18977"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29173">
+		<label>Tente en el Ayre</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18978"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29174">
+		<label>Tepeiscuntli</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18979"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29175">
+		<label>Tepexilote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18980"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29176">
+		<label>Tigrilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18981"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29177">
+		<label>Tinajero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18982"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29178">
+		<label>Tipa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18983"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29179">
+		<label>Tiradera</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18984"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29180">
+		<label>Titi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18985"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29181">
+		<label>Titi</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18986"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29182">
+		<label>Toche</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18987"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29183">
+		<label>Tolu</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18988"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29184">
+		<label>Tortuga</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18989"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29185">
+		<label>Toto</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18990"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29186">
+		<label>Totora</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18991"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29187">
+		<label>Trillis</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18992"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29188">
+		<label>Trompetero</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18993"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29189">
+		<label>Tropico</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18994"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29191">
+		<label>Tucuyo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18996"/>
+			<f name="type" fVal="#Textiles"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29192">
+		<label>Tulcan</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18997"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29193">
+		<label>Taricha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18998"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29194">
+		<label>Turma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18999"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29196">
+		<label>Turquesa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19001"/>
+			<f name="type" fVal="#Mineralogy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29197">
+		<label>Tutuma</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19002"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29200">
+		<label>Ubaque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19005"/>
+			<f name="type" fVal="#Climate"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29201">
+		<label>Vergonzosa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19006"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29202">
+		<label>Vicuña</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19007"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29203">
+		<label>Vijao</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19008"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29204">
+		<label>Viravira</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19009"/>
+			<f name="type" fVal="#Pharmacy"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29205">
+		<label>Viruli</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19010"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29206">
+		<label>Vizcacha</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19011"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29207">
+		<label>Umiri</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19012"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29208">
+		<label>Vomito negro</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19013"/>
+			<f name="type" fVal="#Illness"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29209">
+		<label>Urundei</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19014"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29210">
+		<label>Uta</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19015"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29211">
+		<label>Uyama</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19016"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29212">
+		<label>Xacal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19017"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29213">
+		<label>Xaguel</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19018"/>
+			<f name="type" fVal="#Construction"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29214">
+		<label>Xicara</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19019"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29215">
+		<label>Xuchicopal</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19020"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29217">
+		<label>Yanacona</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19022"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29219">
+		<label>Yerba del Paraguay</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19025"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29220">
+		<label>Yuca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19026"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29221">
+		<label>Zambo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19027"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29222">
+		<label>Zancudo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19028"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29223">
+		<label>Zapayo</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19029"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29224">
+		<label>Zapote</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19030"/>
+			<f name="type" fVal="#Nutriment"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29225">
+		<label>Zaque</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19031"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29226">
+		<label>Zarzaparrilla</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19032"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29227">
+		<label>Zenzontli</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19033"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29228">
+		<label>Zipa</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19034"/>
+			<f name="type" fVal="#Social"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29229">
+		<label>Zuhe</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19035"/>
+			<f name="type" fVal="#Synonym"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29230">
+		<label>Zumbador</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19036"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29231">
+		<label>Zumgut</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19037"/>
+			<f name="type" fVal="#Animal"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29232">
+		<label>Zurron</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_19038"/>
+			<f name="type" fVal="#Produce"/>
+		</fs>
+	</item>
+	<item xml:id="TopUrbiTerm29270">
+		<label>Muca-muca</label>
+		<fs>
+			<f name="corresp_entry" fVal="Alcedo_vol5.xml#id_18802a"/>
+			<f name="type" fVal="#Botany"/>
+		</fs>
+	</item>
+</list>
