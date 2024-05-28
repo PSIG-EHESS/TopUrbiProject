@@ -31,7 +31,7 @@ def get_namespaces(xml_file):
     return ns
 
 # Loop through volumes 1 to 5
-for vol_number in range(1, 6):
+for vol_number in range(3, 6):
     file_pattern = os.path.join(rootpath, f"Alcedo_vol_{vol_number}.xml")
     file_list = glob.glob(file_pattern)
     
