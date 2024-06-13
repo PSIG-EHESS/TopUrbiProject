@@ -62,7 +62,7 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
 
                 location_elem = create_xml_element('location', None, {'resp': row['reviewer']})
                 district_elem = create_xml_element('district', row['Province'], {'type': 'container'})
-                region_elem = create_xml_element('region', row['Region'], {'type': 'container'})
+                region_elem = create_xml_element('region', row['region'], {'type': 'container'})
                 note_elem = create_xml_element('note', f"{row['conf_loc_verbal']}.", {'type': 'location_representation'})
 
                 location_elem.extend([district_elem, region_elem, note_elem])
@@ -73,9 +73,11 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
 
                 inner_elem.append(location_elem)
 
-                linkGrp_elem = create_xml_element('linkGrp', None, {'type': 'corresponding_entries'})
-                link_elem = create_xml_element('link', None, {'target': f"Alcedo_vol{row['volume']}.xml#{row['corresp_entry']}"})
-                linkGrp_elem.append(link_elem)
+                linkGrp_elem = create_xml_element('linkGrp', None, {'type': 'references'})
+                link_entry_elem = create_xml_element('link', None, {'type': 'entry', 'target': f"Alcedo_vol{row['volume']}.xml#{row['corresp_entry']}"})
+                link_page_elem = create_xml_element('link', None, {'type': 'page', 'target': f"Alcedo_vol{row['volume']}.xml#{row['alcedo-page']}", 'facs': f"facsimg:{row['facsimile']}.jpg"})
+                
+                linkGrp_elem.extend([link_entry_elem, link_page_elem])
                 inner_elem.append(linkGrp_elem)
 
                 noteGrp_es_elem = create_xml_element('noteGrp')
@@ -130,8 +132,6 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
 
     tree = ET.ElementTree(root)
     tree.write(xml_file_path, encoding='utf-8', xml_declaration=True)
-
-
 
 # Usage
 rootpath = "F:/EHESS/TopUrbiGit/"
