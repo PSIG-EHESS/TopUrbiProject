@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI Minimal Alcedo</title>
+        <author>Werner Stangl</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a Creative Commons
+            Attribution-ShareAlike 3.0 Unported License </licence>
+          <licence target="http://www.opensource.org/licenses/BSD-2-Clause">
+            <p>Copyright 2013 TEI Consortium.</p>
+            <p>All rights reserved.</p>
+            <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that
+              the following conditions are met:</p>
+            <list>
+              <item>Redistributions of source code must retain the above copyright notice, this list of conditions and the
+                following disclaimer.</item>
+              <item>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
+                the following disclaimer in the documentation and/or other materials provided with the
+                distribution.</item>
+            </list>
+            <p>This software is provided by the copyright holders and contributors "as is" and any express or implied
+              warranties, including, but not limited to, the implied warranties of merchantability and fitness for a
+              particular purpose are disclaimed. In no event shall the copyright holder or contributors be liable for any
+              direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to,
+              procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however
+              caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence
+              or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such
+              damage.</p>
+          </licence>
+          <p>TEI material can be licensed differently depending on the use you intend to make of it. Hence it is made
+            available under both the CC+BY and BSD-2 licences. The CC+BY licence is generally appropriate for usages which
+            treat TEI content as data or documentation. The BSD-2 licence is generally appropriate for usage of TEI content
+            in a software environment. For further information or clarification, please contact the <ref target="mailto:info@tei-c.org">TEI Consortium</ref>. </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Created from based on the TEI minimal template created by James Cummings.</p>
+      </sourceDesc>
+    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.1.0" when="2024-06-26T10:12:51.520Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>A Minimal TEI Customization for the Alcedo edition-</head>
+      
+      <p>This TEI ODD defines a TEI customization that is as minimal as possible. It includes only the existing elements of the edition.
+      </p>
+      <schemaSpec ident="tei_minimal_alcedo" start="TEI" prefix="tei_" targetLang="en" docLang="en">
+        
+        <!-- required minimal header elements -->
+        <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc encodingDesc"/>
+        
+        <!-- required core elements (p and title for use in titleStmt) -->
+        <moduleRef key="core" include="p title"/>
+        
+        <!-- required textstructure elements (TEI, text, and body) -->
+        <moduleRef key="textstructure" include="TEI text body back div front"/>
+        
+        <!-- required module tei instantiates lots of classes used for further expansion of this odd -->
+        <moduleRef key="tei"/>
+        
+        
+      <moduleRef key="dictionaries" include="entry form oRef orth sense superEntry xr"/><moduleRef key="iso-fs" include="fs f symbol"/><moduleRef key="linking" include="link linkGrp"/><moduleRef key="namesdates" include="district forename geo geogName listOrg listPerson listPlace location org orgName persName person place placeName region settlement surname"/><classRef key="att.locatable"/><classRef key="att.naming"/><classRef key="att.global.facs"/><classRef key="att.global.change"/><classRef key="att.anchoring"/></schemaSpec>
+    </body>
+  </text>
+</TEI>

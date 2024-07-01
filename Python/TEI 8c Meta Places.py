@@ -87,6 +87,7 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
                 notes_es = [
                     ('review', row['review-note-es']),
                     ('categorical', row['category-note-es']),
+                    ('doublette', row['doublette-note-es']),
                     ('imaginary', row['imaginary-note-es']),
                     ('artifact', row['artifact-note-es']),
                     ('historical', row['historical-note-es'])
@@ -94,6 +95,7 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
                 notes_en = [
                     ('review', row['review-note-en']),
                     ('categorical', row['category-note-en']),
+                    ('doublette', row['doublette-note-en']),
                     ('imaginary', row['imaginary-note-en']),
                     ('artifact', row['artifact-note-en']),
                     ('historical', row['historical-note-en'])
@@ -101,6 +103,7 @@ def convert_csv_to_xml(csv_file_path, xml_file_path):
                 notes_fr = [
                     ('review', row['review-note-fr']),
                     ('categorical', row['category-note-fr']),
+                    ('doublette', row['doublette-note-fr']),
                     ('imaginary', row['imaginary-note-fr']),
                     ('artifact', row['artifact-note-fr']),
                     ('historical', row['historical-note-fr'])
