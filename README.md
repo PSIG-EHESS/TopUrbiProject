@@ -13,7 +13,7 @@ Porteur (PI) : **Jean Paul Zuniga**, Directeur d'études EHESS et directeur de r
 Laboratoire porteur : **CRH CNRS/EHESS**
 
 Avec les contributions de : 
-- **Baptiste Bonnefoy**, Phd, Maitre de conférences,  
+- **Baptiste Bonnefoy**, Maître de conférences en histoire moderne, Université de Paris Nanterre  
 - **Mickael Orantin**, PhD, historien et chercheur post-doctoral, TopUrbi
 - **Jeronimo Bermudez**, doctorant en Histoire, TopUrbi
 
