@@ -6,13 +6,13 @@ Chargé des traitements des données textuelles et géohistoriques :
 
 **Werner Stangl**, PhD, historien et humaniste digital, CRH CNRS/EHESS
 
-Avec le soutien de **Carmen Brando**, responsable du WP, plateforme Géomatique EHESS, CRH CNRS/EHESS
+Avec le soutien de **Carmen Brando**, responsable de Working Packages, plateforme Géomatique EHESS, CRH CNRS/EHESS
 
 Porteur (PI) : **Jean Paul Zuniga**, Directeur d'études EHESS et directeur de recherches CNRS
 
 Laboratoire porteur : **CRH CNRS/EHESS**
 
-Avec les contributions : 
+Avec les contributions de : 
 - **Mickael Orantin**, PhD, historien et chercheur post-doctoral, TopUrbi
 - **Jeronimo Bermudez**, doctorant en Histoire, TopUrbi
 
