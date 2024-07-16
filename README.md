@@ -2,7 +2,7 @@
 
 ## Site github du projet pour centraliser les données et les traitements
 
-Chargé des traitements des données textuels et géohistoriques : 
+Chargé des traitements des données textuelles et géohistoriques : 
 
 **Werner Stangl**, PhD, historien et humaniste digital, CRH CNRS/EHESS
 
@@ -12,10 +12,21 @@ Porteur (PI) : **Jean Paul Zuniga**, Directeur d'études EHESS et directeur de r
 
 Laboratoire porteur : **CRH CNRS/EHESS**
 
-Contributions : 
+Avec les contributions : 
 - **Mickael Orantin**, PhD, historien et chercheur post-doctoral, TopUrbi
 - **Jeronimo Bermudez**, doctorant en Histoire, TopUrbi
 
+Stagiaires (plateforme géomatique)
+- **Lise Bernard**, Master humanités numériques ENC
+Réalisation du site TEI Publisher pour la diffusion de l'édition numérique du dictionnaire d'Alcedo avec cartographie
+- **Diego Bilsky Guerscovich**, master Histoire EHESS
+Réaliasation du story Map (ESRI), Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier
+- **Anahi Haedo**, master Technologiques numériques appliquées à l'Histoire, ENC
+Curation des données
+
+Stagiaires (TopUrbi)
+- ..
+  
 Citation:
 
 Werner Stangl, Carmen Brando, Jean-Paul Zúñiga, Anahi Haedo, "With the 5ame name and adrvocation of S.Juan there is another one, in the sámeprovince"- towards a digital edition of the historical-geographical dictionary of the Indies by Antonio de Alcedo, presented at ADHO - 2023 - Graz - Karl-Franzens Universität Graz (University of Graz). https://dh-abstracts.library.virginia.edu/works?keywords=1096 
