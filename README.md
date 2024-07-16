@@ -13,16 +13,19 @@ Porteur (PI) : **Jean Paul Zuniga**, Directeur d'études EHESS et directeur de r
 Laboratoire porteur : **CRH CNRS/EHESS**
 
 Avec les contributions de : 
+- **Baptiste Bonnefoy**, Phd, Maitre de conférences,  
 - **Mickael Orantin**, PhD, historien et chercheur post-doctoral, TopUrbi
 - **Jeronimo Bermudez**, doctorant en Histoire, TopUrbi
 
-Stagiaires (plateforme géomatique)
+et des travaux des stagiaires:
 - **Lise Bernard**, Master Humanités numériques ENC, réalisation du site TEI Publisher pour la diffusion de l'édition numérique du dictionnaire d'Alcedo avec cartographie
 - **Diego Bilsky Guerscovich**, master Histoire EHESS, réaliasation du story Map (ESRI), Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier
-- **Anahi Haedo**, master Technologies numériques appliquées à l'Histoire, ENC, curation des données
-
-Stagiaires (TopUrbi)
-- ..
+  
+Curation des données:
+- **Anahi Haedo**
+- **Daniela Cardenas** 
+- **Gabriela Quezada**
+- **Elvira Labarca Pinto**
   
 Citation:
 
