@@ -17,9 +17,9 @@ Avec les contributions de :
 - **Jeronimo Bermudez**, doctorant en Histoire, TopUrbi
 
 Stagiaires (plateforme géomatique)
-- **Lise Bernard**, Master humanités numériques ENC, réalisation du site TEI Publisher pour la diffusion de l'édition numérique du dictionnaire d'Alcedo avec cartographie
+- **Lise Bernard**, Master Humanités numériques ENC, réalisation du site TEI Publisher pour la diffusion de l'édition numérique du dictionnaire d'Alcedo avec cartographie
 - **Diego Bilsky Guerscovich**, master Histoire EHESS, réaliasation du story Map (ESRI), Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier
-- **Anahi Haedo**, master Technologiques numériques appliquées à l'Histoire, ENC, curation des données
+- **Anahi Haedo**, master Technologies numériques appliquées à l'Histoire, ENC, curation des données
 
 Stagiaires (TopUrbi)
 - ..
