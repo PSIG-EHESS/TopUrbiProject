@@ -1,0 +1,171 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+         <title>Carte des localisations du dictionnaire d'Alcedo</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <meta name="pb-template" content="places2.html"/>
+        
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script type="module" src="pb-leaflet-map.js" data-template="pages:load-components"/>
+        
+        <style>
+        body {
+            --pb-view-height: calc(120vh - 220px); <!-- LBL faire en sorte que la vue s'adapte à la taille de l'écran -->
+            }
+
+        aside {
+            width: 45%;
+            padding-left: 0.5rem;
+            margin-left: 0.5rem;
+            float: right;
+            }
+
+        pb-leaflet-map {
+            width: 45%;
+            height: var(--pb-view-height);
+            float: left;
+        }
+        
+        .content-body .transcript {
+                max-width: none;
+            }
+            
+        .radios {
+                display: flex;
+                justify-content: space-between;
+                width: 75%;
+                align-items: center;
+            }
+            
+        .transcript {
+            height: var(--pb-view-height);
+            max-width: 99%;
+            overflow: auto;
+            }
+        
+        [slot=controls] {
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+                align-items: center;
+            }
+            
+        pb-split-list::part(items) {
+                margin-top: 1em;
+            }
+            
+        .place iron-icon {
+                margin-left: 1em;
+                --iron-icon-height: 22px;
+            }
+            
+        @media (max-width: 767px) {
+                .list {
+                    --pb-categorized-list-columns: 1;
+                    max-width: auto;
+                    margin-left: 10px;
+                    margin-right: 10px;
+                    height: var(--pb-view-height);
+                }
+
+                form {
+                    display: block;
+                    height: var(--pb-view-height);
+                    overscroll-behavior-block: contain;
+                }
+                form label {
+                    margin: 0;
+                    display: block;
+                    height: var(--pb-view-height);
+                }
+            }
+
+    </style>
+    </head>
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-header-layout fullblead="">
+            <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                <app-toolbar data-template="lib:include" data-template-path="templates/menu.html">
+                    <pb-progress subscribe="search" indeterminate="indeterminate" bottom-item="bottom-item" data-target="menubar-after"/>
+                </app-toolbar>
+            </app-header>
+        
+        <main class="content-body double-col">
+                <div class="map">
+                    <pb-leaflet-map id="map" subscribe="map" emit="map" zoom="3" cluster="" latitude="0" longitude="-70" no-scroll="true"> <!-- fit-marker="true" pour que la carte se cadrent sur les markers dispos-->
+                    <pb-map-layer show="" base="" label="Mapbox OSM" url="https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}" max-zoom="19" access-token="pk.eyJ1Ijoid29sZmdhbmdtbSIsImEiOiJjam1kMjVpMnUwNm9wM3JwMzdsNGhhcnZ0In0.v65crewF-dkNsPF3o1Q4uw" attribution="© Mapbox © OpenStreetMap">
+                    </pb-map-layer>
+                </pb-leaflet-map>
+                </div>
+                <aside>
+                <div class="transcript">
+                    <pb-custom-form id="options" auto-submit="paper-input,paper-icon-button" emit="transcription">
+                        <paper-input name="search" label="Recherche" data-template="templates:form-control">
+                            <paper-icon-button icon="search" slot="suffix"/>
+                        </paper-input>
+                       <div class="radios">
+                            <label>
+                                <input id="view-all" type="radio" name="view" value="all" data-template="templates:form-control"/> Lieux et Groupes humains
+                            </label>
+                            <label>
+                                <input id="view-place" type="radio" name="view" value="place" data-template="templates:form-control"/> Lieux
+                            </label>
+                            <label>
+                                <input id="view-org" type="radio" name="view" value="org" data-template="templates:form-control"/> Groupes humains
+                            </label>
+                        </div>
+                    </pb-custom-form>
+                    <pb-split-list url="api/places" selected="A" subforms="#options" emit="transcription" subscribe="transcription"/>
+                </div> <!-- Peut-être enlever la catégorie "All", charge longtemps et éléments vides-->
+                <footer data-template="templates:include" data-template-path="templates/footer.html"/>
+                </aside>
+                </main>
+            </app-header-layout>
+        </pb-page>
+        <div class="splash"/>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const radioButtons = document.querySelectorAll('input[name="view"]');
+                
+                radioButtons.forEach(function(radioButton) {
+                    radioButton.addEventListener('change', function() {
+                        window.location.reload();
+                    });
+                });
+            });
+        
+        
+            window.addEventListener('WebComponentsReady', function() {
+                 pbEvents.subscribe('pb-page-ready', null, function() {
+                     const endpoint = document.querySelector("pb-page").getEndpoint();
+                     const url = `${endpoint}/api/places/all`;
+                     console.log(`fetching places from: ${url}`);
+                     fetch(url)
+                     .then(function(response) {
+                         return response.json();
+                     })
+                     .then(function(json) {
+                        pbEvents.emit("pb-update-map", "map", json) <!-- Affichage des points sur la carte -->
+                     });
+                    pbEvents.subscribe('pb-leaflet-marker-click', 'map', function(ev) { <!-- Récupération des données ensuite envoyées -->
+                        const label = ev.detail.element.label;
+                        const name = ev.detail.element.id;
+                        console.log(`${name}`); <!-- Affichage dans console page lieu, marche aléatoirement -->
+                        const category = label.substring(0, 1); <!-- Récupère la première lettre du lieu pour créer même lien que celui de la liste -->
+                        window.location = `place.html?name=${name}`;
+                    });
+                });
+            });
+         </script>
+         <script data-template="lib:include" data-template-path="templates/matomo.html"/>
+    </body>
+</html>

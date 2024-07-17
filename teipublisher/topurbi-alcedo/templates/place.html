@@ -1,0 +1,88 @@
+<html data-template="app:load-place" data-template-name="${name}">
+<!--TEST : TopUrbiGroup10010 /TopUrbiPlace10008 / TopUrbiPlace10020 / TopUrbiPlace10001, data-template-name="${name}"-->
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-16.png" sizes="16x16"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-24.png" sizes="24x24"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
+        <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
+
+        <title data-template="pages:parse-params">${title}</title>
+        <meta name="description" content="Description lieu"/>
+        <meta name="pb-template" content="place.html"/>
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+        <script type="module" src="pb-leaflet-map.js" data-template="pages:load-components"/>
+        <style>
+            div {
+                margin: 25px;
+            }
+
+            section {
+                margin: 25px;
+                max-width: 1014px;
+            }
+
+            main {
+                position: relative;
+                display: grid;
+                height: var(--pb-view-height);
+            }
+
+            #map {
+                width:1014px;
+                height:50vh;
+            }
+        </style>
+    </head>
+
+    <body data-template="pages:parse-params">
+        <pb-page data-template="pages:pb-page" unresolved="unresolved" locales="resources/i18n/{{ns}}/{{lng}}.json">
+            
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-drawer data-template="lib:include" data-template-path="templates/drawer.html"/>
+                <app-header-layout fullbleed="">
+                    <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                        <app-toolbar data-template="lib:include" data-template-path="templates/menu.html"/>
+                    </app-header>
+                    <main class="content-body single-col">
+                    <pb-page endpoint="https://teipublisher.com/exist/apps/topurbi-alcedo" api-version="1.0.0" url-path="query">
+                    <pb-document id="document2" path="/apps/topurbi-alcedo/data/${vol}" odd="places"/>
+                        <section class="transcript noscroll place">
+                            <pb-geolocation latitude="${latitude}" longitude="${longitude}" label="${title}" auto="" data-template="pages:parse-params"> <h1>${title}</h1>
+                            </pb-geolocation>
+                            <pb-leaflet-map id="map" zoom="5">
+                                <pb-map-layer show="" base="" label="Mapbox OSM" url="https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}" max-zoom="19" access-token="pk.eyJ1Ijoid29sZmdhbmdtbSIsImEiOiJjam1kMjVpMnUwNm9wM3JwMzdsNGhhcnZ0In0.v65crewF-dkNsPF3o1Q4uw" attribution="© Mapbox © OpenStreetMap">
+                                </pb-map-layer>
+                            </pb-leaflet-map>
+                            <h3 data-template="pages:parse-params"> Identifiant dans l'index : ${name} </h3>
+                            <h3 data-template="pages:parse-params"> Identifiant dans le volume : ${vol_id} </h3>
+                            <h3 data-template="pages:parse-params"> Coordonnées géographiques : ${latitude}, ${longitude} </h3>
+                           <!-- <h3 data-template="pages:parse-params"> Infos index : ${key} </h3>
+                            <h3 data-template="pages:parse-params"> Volume : ${vol} </h3> -->
+                            <p id="info"/>
+                            
+                            <h2 id="text"> Description au sein du manuscrit </h2>
+                            <pb-progress subscribe="transcription"/>
+                            <div class="text">
+                                <pb-view id="document2" src="document2" xpath="//text//body//div[@n='toponyms']//entry[@xml:id=${vol_id}]//sense" view="single" odd="places" subscribe="transcription" emit="transcription">
+                                    <pb-param name="header" value="short"/>
+                                </pb-view>
+                            </div>
+
+                          <pb-link path="db/apps/topurbi-alcedo/Alcedo_vol_1.xml" odd="teipublisher" xml-id="v1-V" view="page" root="1.5.2.8.5.88"> Accéder à la page du manuscrit décrivant le lieu </pb-link>
+                        </section>
+                        </pb-page>
+                    </main>
+                    <footer data-template="lib:include" data-template-path="templates/footer.html"/>
+                </app-header-layout>
+            </app-drawer-layout>
+        </pb-page>
+        <div class="splash"/>
+        <script data-template="lib:include" data-template-path="templates/matomo.html"/>
+    </body>
+</html>

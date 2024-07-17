@@ -1,0 +1,401 @@
+<html class="fond-platre">
+    <head>
+        <meta charset="utf-8"/>
+        <title>TopUrbi - Topographie de l'urbanisme impérial hispanique au XVIIIe siècle</title>
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+        <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon/favicon.ico"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+        <link href="https://fonts.googleapis.com/css2?family=Slabo+27px&amp;display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&amp;family=Slabo+27px&amp;display=swap" rel="stylesheet"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/belleville_theme.css"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"/>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+            <script defer="defer" src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"/>
+            <script defer="defer" src="https://unpkg.com/web-animations-js@2.3.2/web-animations-next-lite.min.js"/>
+            <script type="module" src="https://unpkg.com/@teipublisher/pb-components@1.36.3/dist/pb-components-bundle.js"/>
+            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"/>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"/>
+        <custom-style>
+            <style>
+                .page-title-margin{
+                margin: 6em 10em 5em 10em;
+                }
+                .txt-16pt{
+                font-size: 16pt;
+                }
+                .page-title-blue{
+                color: #1B019B;
+                font-size: 30pt;
+                text-transform: uppercase;
+                margin: 0 0 0 0;
+                }
+                .section-title-grey{
+                color: #5A5E6B;
+                text-transform: uppercase;
+                font-size: 23pt;
+                margin: 0 0 0.5em 0;
+                }
+                /* Set the image-container as a relative positioned element */
+                .image-container {
+                position: relative;
+                display: inline-block;
+                width: 100%;
+                }
+                /* Style the image */
+                .image-container img {
+                display: block;
+                width: 100%;
+                height: auto;
+                }
+                /* Style the overlay-text */
+                .overlay-text {
+                position: absolute;
+                top: 50%; /* Adjust this value to vertically center the text */
+                left: 50%; /* Adjust this value to horizontally center the text */
+                transform: translate(-50%, -50%); /* Center the text precisely */
+                color: #fff; /* Set the text color */
+                padding: 10px 20px; /* Add some padding to the text */
+                text-align: center; /* Center the text horizontally */
+                }
+                .overlay-text:hover {
+                color: #1B019B;
+                }
+                .fond-platre{
+                background-image: url('resources/images/fond-platre.png') !important;
+                }
+                body{
+                /*background-color: rgba(255,255,255,0.7);*/
+                background-color: transparent;
+                color: #5A5E6B;
+                }
+                .floated-label-placeholder{
+                color: yellow !important;
+                }
+                .slabo-27px-regular {
+                font-family: "Slabo 27px", serif;
+                font-weight: 400;
+                font-style: normal;
+                }
+                .bevan-regular {
+                font-family: "Bevan", serif;
+                font-weight: 400;
+                font-style: normal;
+                }
+                .bevan-regular-italic {
+                font-family: "Bevan", serif;
+                font-weight: 400;
+                font-style: italic;
+                }
+                main {
+                margin: 0 20px 0 20px;
+                }
+                @media (max-width: 1023px) {
+                    main {
+                        margin: 0 8px 0 8px;
+                    }
+                    .doclist {
+                        margin-bottom: 20px;
+                    }
+                    .documents {
+                        padding-left: 10px;
+                    }
+                    .documents .label {
+                        display: none;
+                    }
+                    .toolbar pb-search {
+                        padding-left: 0;
+                    }
+                    .page-title-margin{
+                        margin: 3em 1em 5em 1em;
+                    }
+                    #facets {
+                        display: none;
+                    }
+                }
+                .tp-title {
+                font-family: "Oswald", Verdana, "Helvetica", sans-serif;
+                font-size: 36px;
+                font-weight: 400;
+                }
+                .tp-title span {
+                color: #9e9e9e;
+                font-size: 26px;
+                margin-top: 12px;
+                }
+                pb-results {
+                overflow: scroll;
+                margin: 0 20px;
+                height: calc(100vh - 128px);
+                }
+                @media (min-width: 1024px) {
+                .toolbar {
+                display: none;
+                }
+                .panels {
+                display: flex;
+                flex-direction: row;
+                }
+                .panels .doclist {
+                flex: 2 auto;
+                margin-right: 20px;
+                }
+                }
+                .panels {
+                margin-bottom: 40px;
+                }
+                .panels .doclist {
+                --paper-tabs-selection-bar-color: #607D8B;
+                --paper-tab-content: {
+                font-family: "Oswald", Verdana, "Helvetica", sans-serif;
+                font-weight: 400;
+                }
+                ;
+                --paper-card-header: {
+                background-color: #d1dae0;
+                }
+                ;
+                --paper-card-header-text: {
+                font-family: "Oswald", Verdana, "Helvetica", sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                }
+                ;
+                }
+                .panels .doclist .card-content {
+                padding: 0;
+                }
+                .panels .doclist .browse {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                padding: 0;
+                }
+                #document-list {
+                flex: 2;
+                margin-right: 20px;
+                }
+                .upload-panel {
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                min-width: 360px;
+                }
+                aside .upload {
+                --paper-card-header: {
+                background-color: #607D8B;
+                }
+                ;
+                --paper-card-header-text: {
+                font-family: "Oswald", Verdana, "Helvetica", sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                color: white;
+                }
+                ;
+                }
+                aside .upload {
+                width: 100%;
+                }
+                .parent-link iron-icon {
+                padding-right: 4px;
+                }
+                .parent-link {
+                display: block;
+                margin-bottom: 10px;
+                margin-top: 16px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+                }
+                .documents ul {
+                list-style: none;
+                }
+                .documents app-toolbar {
+                @apply --layout-start-justified;
+                font-size: 14px;
+                margin-top: 10px;
+                padding-left: 0;
+                }
+                .documents div {
+                margin: 0;
+                }
+                .documents .error {
+                color: #c02020;
+                }
+                .documents a,
+                .documents a:visited {
+                color: #303F9F;
+                text-decoration: none;
+                }
+                .documents li {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 10px;
+                padding: 6px 0;
+                border-bottom: thin solid var(--paper-grey-300);
+                }
+                .documents li:last-child {
+                border: none;
+                }
+                .documents .document-select {
+                flex: 0 0;
+                margin-right: 20px;
+                }
+                h1,
+                h2,
+                h3,
+                h4,
+                h5,
+                h6 {
+                font-family: "Oswald", Verdana, "Helvetica", sans-serif;
+                font-weight: 400 !important;
+                line-height: 1.2;
+                }
+                h5 {
+                font-size: 16px;
+                margin: 0;
+                }
+                #facets {
+                flex: 0;
+                min-width: 220px;
+                margin-right: 20px;
+                background-color: #F0F0F0;
+                padding: 0 10px;
+                }
+                #facets h3 {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                }
+                #facets h3 paper-checkbox {
+                margin-left: 16px;
+                font-size: 11px;
+                }
+                #facets table {
+                font-size: 14px;
+                }
+                #facets table table {
+                padding-left: 16px;
+                width: 100%;
+                }
+                #facets table td {
+                padding: 4px 0;
+                }
+                #facets table td:nth-child(2) {
+                color: #808080;
+                text-align: right;
+                padding-left: 1em;
+                vertical-align: middle;
+                }
+                .timeline {
+                --pb-timeline-padding: 0 20px;
+                }
+                .navbar-toggler{
+                color: red !important;
+                }
+            </style>
+        </custom-style>
+    </head>
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
+            <app-drawer-layout force-narrow="force-narrow">
+                <app-header-layout>
+                    <app data-template="lib:include" data-template-path="templates/menu.html"/>
+                    <main class="page-title-margin">
+                        <div style="margin: 3em 0 3em 0;" class="text-center">
+                            <p class="bevan-regular" style="color: #ff9500; font-size: 5vw; text-transform: uppercase; margin: 0 0 0 0;">TopUrbi</p>
+                            <p class="slabo-27px-regular" style="border-bottom: 1px solid #3e3e3f; margin-bottom: 0.5em; font-size: 3vw;">Topographie de l'urbanisme impérial hispanique au XVIII<sup>e</sup> siècle</p>
+                        </div>
+                        <div style="margin: 0 0 3em 0;">
+                            <p style="font-size: 20pt; text-align: justify;" class="slabo-27px-regular"> Description du projet
+                                <a href="about.html" style="text-decoration: underline; color: inherit;">En savoir plus.</a>
+                            </p>
+                            <aside>
+                            <a href="carte/lieux.html">
+                                <div class="image-container">
+                                    <img src="" alt="image"/> <!-- Ajouter une image sous le texte -->
+                                    <div class="overlay-text">
+                                        <p class="bevan-regular" style="color: #ff9500; font-size: 3vw">Accéder à la carte</p>
+                                    </div>
+                                </div> 
+                            </a>
+                            </aside>
+                            <a href="index.html">
+                                <div class="image-container">
+                                    <img src="" alt="image"/> <!-- Ajouter une image sous le texte -->
+                                    <div class="overlay-text">
+                                        <p class="bevan-regular" style="color: #ff9500; font-size: 3vw">Accéder au corpus </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </main>
+                    <app data-template="lib:include" data-template-path="templates/footer.html"/>
+                </app-header-layout>
+            </app-drawer-layout>
+            <paper-dialog id="downloadDialog">
+                <h2>
+                    <pb-i18n key="dialogs.generatingFile">Generating File...</pb-i18n>
+                </h2>
+                <paper-dialog-scrollable>
+                    <pb-i18n key="dialogs.downloadMessage"/>
+                </paper-dialog-scrollable>
+                <div class="buttons">
+                    <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                        <pb-i18n key="dialogs.close">Close</pb-i18n>
+                    </paper-button>
+                </div>
+            </paper-dialog>
+            <paper-dialog id="errorDialog">
+                <h2>
+                    <pb-i18n key="dialogs.error">Error</pb-i18n>
+                </h2>
+                <paper-dialog-scrollable/>
+                <div class="buttons">
+                    <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                        <pb-i18n key="dialogs.close">Close</pb-i18n>
+                    </paper-button>
+                </div>
+            </paper-dialog>
+        </pb-page>
+        <div class="splash"/>
+        <script>
+            $(document).ready( function () {
+                var includes = $('[data-include]')
+                $.each(includes, function () {
+                    var file = 'templates/' + $(this).data('include') + '.html'
+                    $(this).load(file)
+                })
+            });
+            const facets = document.getElementById('facets');
+            if (facets) {
+                facets.addEventListener('pb-custom-form-loaded', function(ev) {
+                    const elems = ev.detail.querySelectorAll('.facet');
+                    elems.forEach(facet =&gt; {
+                        facet.addEventListener('change', () =&gt; {
+                            const table = facet.closest('table');
+                            if (table) {
+                                const nested = table.querySelectorAll('.nested .facet').forEach(nested =&gt; {
+                                    if (nested != facet) {
+                                        nested.checked = false;
+                                    }
+                                });
+                            }
+                            facets.submit();
+                        });
+                    });
+                });
+            }
+            function submitForm() {
+                var query = document.querySelector('input[name="query"]').value;
+                window.location.href = "search.html?query=" + encodeURIComponent(query);
+                return false; // Prevent default form submission
+            }
+        </script>
+    </body>
+</html>
