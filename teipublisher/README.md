@@ -16,7 +16,7 @@ Le site est organisé autour de deux fonctionnalités principales :
         - __`home.html`__ : _Template_ d'une page d'accueil avec titre, images et liens vers les autres pages du site (en travaux).
         - __`footer.html`__ : Modification texte "Contact".
         - __`places2.html`__ : _Template_ de la page "carte" contenant la carte principale  `<pb-leaflet-map>` ainsi que la liste des lieux `<pb-split-list>`. Le tri de la liste selon les catégories "lieux" et "groupes humains" et la barre de recherche sont définis dans le _web component_ `<pb-custom-form>` et dans la `<div class="radios">`.
-        - __`place.html`__ : _Template_ des pages de description des lieux. <html data-template="app:load-place" data-template-name="${name}">
+        - __`place.html`__ : _Template_ des pages de description des lieux. Au moment de la définition de la page, on appelle la fonction `app:load-place` à laquelle on fournit le paramètre `name` qui est l'identifiant du lieu dans l'index : `<html data-template="app:load-place" data-template-name="${name}">`. Cette fonction nous permet de récupérer les informations sur les lieux pour les afficher ensuite en texte brut ou bien au sein des _web components_ `<pb-view>` qui appellent les parties des manuscrits correspondantes.
     - `modules/`: dossier contenant les modules utilisés au sein du site : API, configuration générale et fonctions annexes.
         - __`config.xqm`__ : fichier qui contient les configurations générales de l'instance. Les modifications principales sont : 
             - `declare variable $config:default-view :="page";` : modification de la manière dont le texte des manuscrits est présenté.
