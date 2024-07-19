@@ -38,6 +38,7 @@
             "description": "Endpoints providing IIIF presentation manifests"
         }
     ],
+    
     "paths": {
     	"/api/places/all": {
 		    "get": {
@@ -67,10 +68,6 @@
 		                                    "id": {
 		                                        "type": "string",
 		                                        "description": "Xml id to show in the tooltip"
-		                                    },
-		                                    "view": {
-		                                        "type": "string",
-		                                        "description": "View type"
 		                                    }
 		                                }
 		                            }

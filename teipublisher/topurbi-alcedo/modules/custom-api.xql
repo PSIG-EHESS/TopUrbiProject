@@ -28,45 +28,40 @@ declare function api:lookup($name as xs:string, $arity as xs:integer) {
     }
 };
 
-(:~
- : LBL Ensemble de fonctions nécessaires à la création d'une carte avec index. :)
-
 declare function api:places-all($request as map(*)) {
-    let $places := 
-        (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:place,
-        doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg//tei:org)
+    let $places := (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:place, doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg//tei:org)
     return 
       array { 
             for $place in $places
-               let $test := 
+               let $cas := 
                     if ($place/tei:settlement/tei:location/tei:geo) then $place/tei:settlement/tei:location/tei:geo
                     else if ($place/tei:geogName/tei:location/tei:geo) then $place/tei:geogName/tei:location/tei:geo
                     else if ($place/tei:district/tei:location/tei:geo) then $place/tei:district/tei:location/tei:geo
                     else $place/tei:location/tei:geo
-                let $tokenized := tokenize($test)
+                let $tokenized := tokenize($cas)
                 let $id := 
                     if ($place/@xml:id/string()) then $place/@xml:id/string()
                     else $place/tei:orgName/@xml:id/string()
                 
-                let $placename := 
+                let $placename := (:  LBL Voir comment on gère les cas pour lesquels </placeName> et qui ont corresp :)
                     if ($place/tei:settlement/tei:placeName/string()) then $place/tei:settlement/tei:placeName/string()
                     else if ($place/tei:geogName/tei:placeName/string()) then $place/tei:geogName/tei:placeName/string()
                     else if ($place/tei:district/tei:placeName/string()) then $place/tei:district/tei:placeName/string()
                     else $place//tei:orgName/tei:name/string()
                     
+                (: LBL TEST AFFICHAGE POINT SELON CATEGORIES
                 let $view := 
                     if ($place/tei:settlement/tei:placeName/string()) then "place"
                     else if ($place/tei:geogName/tei:placeName/string()) then "place"
                     else if ($place/tei:district/tei:placeName/string()) then "place"
-                    else "org"
+                    else "org" :)
                     
                 return 
                     map {
                         "latitude": replace($tokenized[1],',','.'),
                         "longitude": replace($tokenized[2],',','.'),
                         "label":$placename,
-                        "id":$id,
-                        "view" : $view
+                        "id":$id
                     }
                     
             }  
@@ -77,46 +72,30 @@ declare function api:places($request as map(*)) {
     let $letterParam := $request?parameters?category (: Lettre est le paramètre catagory de l'API :)
     let $view := $request?parameters?view
     let $limit := $request?parameters?limit
-    
-     (: let $places :=
-        if ($search and $search != '') then
+    let $places :=
+        if ($view = "org") then 
+             if ($search and $search != '') then
+                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name[matches(string(.), "^" || $search, "i")]
+            else
+                 doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name
+                     
+        else if ($view = "place") then 
+            if ($search and $search != '') then
+                (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName[matches(string(.), "^" || $search, "i")],
+                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName[matches(string(.), "^" || $search, "i")],
+                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName[matches(string(.), "^" || $search, "i")])
+                         
+            else
+                (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName, 
+                 doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName, 
+                 doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName)
+            
+        else 
+            if ($search and $search != '') then
             (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName[matches(string(.), "^" || $search, "i")],
             doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName[matches(string(.), "^" || $search, "i")],
             doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName[matches(string(.), "^" || $search, "i")],
-            doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg//tei:org//tei:orgName/tei:name[matches(string(.), "^" || $search, "i")])
-                 
-        else
-            (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName, 
-             doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName, 
-             doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName, 
-             doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg//tei:org//tei:orgName/tei:name) 
-
-     VERSION API pour avoir liste selectionnable, NON FONCTIONNEL :)
-    
-        let $places :=
-            if ($view = "org") then 
-                 if ($search and $search != '') then
-                    doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name[matches(string(.), "^" || $search, "i")]
-                 else
-                     doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name
-                     
-            else if ($view = "place") then 
-                if ($search and $search != '') then
-                    (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName[matches(string(.), "^" || $search, "i")],
-                    doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName[matches(string(.), "^" || $search, "i")],
-                    doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName[matches(string(.), "^" || $search, "i")])
-                         
-                else
-                    (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName, 
-                     doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName, 
-                     doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName)
-            
-            else 
-                if ($search and $search != '') then
-                (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName[matches(string(.), "^" || $search, "i")],
-                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:district/tei:placeName[matches(string(.), "^" || $search, "i")],
-                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:geogName/tei:placeName[matches(string(.), "^" || $search, "i")],
-                doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name[matches(string(.), "^" || $search, "i")])
+            doc($config:data-root || "/TopUrbiIndex.xml")//tei:listOrg/tei:org/tei:orgName/tei:name[matches(string(.), "^" || $search, "i")])
                  
             else
                 (doc($config:data-root || "/TopUrbiIndex.xml")//tei:listPlace//tei:settlement/tei:placeName, 

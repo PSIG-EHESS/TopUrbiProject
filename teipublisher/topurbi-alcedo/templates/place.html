@@ -1,5 +1,5 @@
 <html data-template="app:load-place" data-template-name="${name}">
-<!--TEST : TopUrbiGroup10010 /TopUrbiPlace10008 / TopUrbiPlace10020 / TopUrbiPlace10001, data-template-name="${name}"-->
+
     <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
@@ -51,7 +51,7 @@
                     </app-header>
                     <main class="content-body single-col">
                     <pb-page endpoint="https://teipublisher.com/exist/apps/topurbi-alcedo" api-version="1.0.0" url-path="query">
-                    <pb-document id="document2" path="/apps/topurbi-alcedo/data/${vol}" odd="places"/>
+                    <pb-document id="document2" path="/apps/topurbi-alcedo/data/${vol}" odd="teipublisher" disable-history="true"/>
                         <section class="transcript noscroll place">
                             <pb-geolocation latitude="${latitude}" longitude="${longitude}" label="${title}" auto="" data-template="pages:parse-params"> <h1>${title}</h1>
                             </pb-geolocation>
@@ -62,19 +62,26 @@
                             <h3 data-template="pages:parse-params"> Identifiant dans l'index : ${name} </h3>
                             <h3 data-template="pages:parse-params"> Identifiant dans le volume : ${vol_id} </h3>
                             <h3 data-template="pages:parse-params"> Coordonnées géographiques : ${latitude}, ${longitude} </h3>
-                           <!-- <h3 data-template="pages:parse-params"> Infos index : ${key} </h3>
-                            <h3 data-template="pages:parse-params"> Volume : ${vol} </h3> -->
                             <p id="info"/>
                             
                             <h2 id="text"> Description au sein du manuscrit </h2>
                             <pb-progress subscribe="transcription"/>
-                            <div class="text">
-                                <pb-view id="document2" src="document2" xpath="//text//body//div[@n='toponyms']//entry[@xml:id=${vol_id}]//sense" view="single" odd="places" subscribe="transcription" emit="transcription">
+                           <div class="text">
+                                <pb-view id="document2" src="document2" xpath="${path_text}" view="single" odd="teipublisher" subscribe="transcription" emit="transcription">
                                     <pb-param name="header" value="short"/>
                                 </pb-view>
                             </div>
 
-                          <pb-link path="db/apps/topurbi-alcedo/Alcedo_vol_1.xml" odd="teipublisher" xml-id="v1-V" view="page" root="1.5.2.8.5.88"> Accéder à la page du manuscrit décrivant le lieu </pb-link>
+                            <div class="corr">
+                                <pb-view id="document2" src="document2" xpath="${path_corr}" view="single" odd="teipublisher" subscribe="transcription" emit="transcription">
+                                    <pb-param name="header" value="short"/>
+                                </pb-view>
+                            </div>
+                            
+                           <!-- <a href="https://sourcesetdonnees.huma-num.fr/exist/apps/topurbi-alcedo/Alcedo_vol_1.xml?root=1.5.2.10.5.205.4" target="_blank">manuscrit</a>
+
+                          <pb-link path="Alcedo_vol_1.xml" odd="teipublisher" xml-id="id_00326"> Accéder à la page du manuscrit décrivant le lieu </pb-link> -->
+                          
                         </section>
                         </pb-page>
                     </main>

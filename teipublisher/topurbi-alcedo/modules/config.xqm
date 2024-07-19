@@ -338,6 +338,10 @@ declare variable $config:data-default := $config:data-root;
 declare variable $config:data-exclude :=
     doc($config:data-root || "/taxonomy.xml")//tei:text,
     doc($config:data-root || "/TopUrbiIndex_completo.xml")//tei:text,
+    doc($config:data-root || "/TopUrbiIndex_old01072024.xml")//tei:text,
+    doc($config:data-root || "/id_00005.xml")//tei:text,
+    doc($config:data-root || "/imagemapping.xml")//tei:text,
+    doc($config:data-root || "/placestest.xml")//tei:text,
     collection($config:register-root)//tei:text
 ;
 

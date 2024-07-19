@@ -8,7 +8,7 @@
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-32.png" sizes="32x32"/>
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
 
-         <title>Carte des localisations du dictionnaire d'Alcedo</title>
+        <title>Carte des localisations du dictionnaire d'Alcedo</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
         <link rel="stylesheet" href="resources/css/theme.css"/>
         <meta name="pb-template" content="places2.html"/>
@@ -33,10 +33,6 @@
             height: var(--pb-view-height);
             float: left;
         }
-        
-        .content-body .transcript {
-                max-width: none;
-            }
             
         .radios {
                 display: flex;
@@ -50,6 +46,13 @@
             max-width: 99%;
             overflow: auto;
             }
+            
+        .loading-message{
+            font-weight: bold;
+            font-size: 1.2rem;
+            padding-top: 30%;
+            padding-left: 25%;
+        }
         
         [slot=controls] {
                 display: flex;
@@ -124,9 +127,10 @@
                             </label>
                         </div>
                     </pb-custom-form>
+                    <div class="loading-message" id="loading-message">Chargement des données...</div>
                     <pb-split-list url="api/places" selected="A" subforms="#options" emit="transcription" subscribe="transcription"/>
                 </div> <!-- Peut-être enlever la catégorie "All", charge longtemps et éléments vides-->
-                <footer data-template="templates:include" data-template-path="templates/footer.html"/>
+                <!-- <footer data-template="templates:include" data-template-path="templates/footer.html"/>-->
                 </aside>
                 </main>
             </app-header-layout>
@@ -142,20 +146,36 @@
                     });
                 });
             });
-        
+            
+            function showLoadingMessage() {
+                document.getElementById('loading-message').style.display = 'block';
+            }
+
+            function hideLoadingMessage() {
+                document.getElementById('loading-message').style.display = 'none';
+            }
         
             window.addEventListener('WebComponentsReady', function() {
                  pbEvents.subscribe('pb-page-ready', null, function() {
                      const endpoint = document.querySelector("pb-page").getEndpoint();
                      const url = `${endpoint}/api/places/all`;
                      console.log(`fetching places from: ${url}`);
+                     
+                     showLoadingMessage();
+                     
                      fetch(url)
                      .then(function(response) {
                          return response.json();
                      })
                      .then(function(json) {
-                        pbEvents.emit("pb-update-map", "map", json) <!-- Affichage des points sur la carte -->
+                        hideLoadingMessage();
+                        pbEvents.emit("pb-update-map", "map", json); <!-- Affichage des points sur la carte -->
+                     })
+                     .catch(function(error) {
+                         hideLoadingMessage();
+                         console.error('Error fetching data:', error);
                      });
+
                     pbEvents.subscribe('pb-leaflet-marker-click', 'map', function(ev) { <!-- Récupération des données ensuite envoyées -->
                         const label = ev.detail.element.label;
                         const name = ev.detail.element.id;

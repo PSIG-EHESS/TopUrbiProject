@@ -786,19 +786,22 @@
             </outputRendition>
         </elementSpec> -->
         
+         <!-- LBL name dans index en orange avec lien vers thésaurus getty 
+        <elementSpec ident="name" mode="add">
+                    <model behaviour="link">
+            <param name="uri" value="../idno"/>
+            <outputRendition xml:space="preserve">
+            color : orange;
+            </outputRendition>
+        </model>
+                </elementSpec>-->
+        
     <!-- LBL suppression affichage lien Getty-->
         <elementSpec ident="idno" mode="add">
                     <model behaviour="omit"/>
                 </elementSpec>
-        
-                <elementSpec ident="sense" mode="add">
-                    <model behaviour="inline">
-                        <outputRendition xml:space="preserve">
-                            color:black;
-                        </outputRendition>
-                    </model>
-                </elementSpec>
-    <!-- LBL
+
+            <!-- LBL
                 <elementSpec ident="placeName" mode="add">
                     <model behaviour="inline">
                     <outputRendition xml:space="preserve">
@@ -806,6 +809,23 @@
                     </outputRendition>
                     </model>
                 </elementSpec>-->
+         <elementSpec ident="term" mode="add">
+            <model behaviour="alternate">
+            <param name="default" value="."/>
+            <param name="alternate" value="let $ids := @ref let $id:= tokenize($ids, &#34;#&#34;)[2] let $text:= string(doc(&#34;/db/apps/topurbi-alcedo/data/TopUrbiIndex.xml&#34;)//list[@xml:id=&#34;TopUrbiConcepts&#34;]/item[@xml:id = $id]/desc[@xml:lang=&#34;fr&#34;]) return $text"/>
+            <outputRendition xml:space="preserve">
+            <!--"id(substring-after(@ref, '#'),root(.))"-->
+            <!--string(doc('/db/apps/topurbi-alcedo/data/TopUrbiIndex.xml')//list[@xml:id='TopUrbiConcepts']//item[@xml:id='$id'])-->
+            color:green;
+            </outputRendition>
+        </model>
+                </elementSpec>
+
+               <elementSpec ident="district" mode="add">
+                    <model behaviour="link">
+                         <param name="uri" value="if (@ref) then let $ids := @ref let $id:= tokenize($ids, '#')[2] let $idno:='https://sourcesetdonnees.huma-num.fr/exist/apps/topurbi-alcedo/carte/place.html?name='||$id return $idno else empty"/>
+                    </model>
+                </elementSpec>
             </schemaSpec>
         </body>
     </text>
