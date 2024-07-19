@@ -15,7 +15,7 @@ Le site est organisé autour de deux fonctionnalités principales :
     - `templates/`: dossier contenant les pages HTML créées/modifiées au sein du site.
         - __`home.html`__ : _Template_ d'une page d'accueil avec titre, images et liens vers les autres pages du site (en travaux).
         - __`footer.html`__ : Modification texte "Contact".
-        - __`places2.html`__ : _Template_ de la page "carte" contenant la carte principale  `<pb-leaflet-map>` ainsi que la liste des lieux `<pb-split-list>`. Le tri de la liste selon les catégories "lieux" et "groupes humains" et la barre de recherche sont définis dans le _web component_ `<pb-custom-form>` et à la `<div class="radios">`.
+        - __`places2.html`__ : _Template_ de la page "carte" contenant la carte principale  `<pb-leaflet-map>` ainsi que la liste des lieux `<pb-split-list>`. Le tri de la liste selon les catégories "lieux" et "groupes humains" et la barre de recherche sont définis dans le _web component_ `<pb-custom-form>` et dans la `<div class="radios">`.
         - __`place.html`__ : _Template_ des pages de description des lieux. <html data-template="app:load-place" data-template-name="${name}">
     - `modules/`: dossier contenant les modules utilisés au sein du site : API, configuration générale et fonctions annexes.
         - __`config.xqm`__ : fichier qui contient les configurations générales de l'instance. Les modifications principales sont : 
