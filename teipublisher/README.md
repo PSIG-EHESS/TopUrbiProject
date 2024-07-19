@@ -5,13 +5,13 @@ Ce dossier contient l'ensemble des documents modifiés/créés dans le cadre de 
 
 Le site est organisé autour de deux fonctionnalités principales : 
 - Dictionnaire d'Alcedo complet, mettant en parallèle les fascimilés et leurs transcriptions : https://sourcesetdonnees.huma-num.fr/exist/apps/topurbi-alcedo/index.html
-- Représentation cartographique des données d'Alcedo avec une carte principale contenant l'ensemble des objets géographiques présenté dans le dictionnaire et une page de description pour chacun de ces lieux : https://sourcesetdonnees.huma-num.fr/exist/apps/topurbi-alcedo/carte/lieux.html?search=&category=A&view=all
+- Représentation cartographique des données d'Alcedo avec une carte principale contenant l'ensemble des objets géographiques présentés dans le dictionnaire et une page de description pour chacun de ces lieux : https://sourcesetdonnees.huma-num.fr/exist/apps/topurbi-alcedo/carte/lieux.html?search=&category=A&view=all
 
 ### Éléments présents dans le dépôt
 - `topurbi-alcedo/` : dossier contenant les documents modifiés/créés dans le cadre de la création du site.
     - `odd/` : dossier contenant les différentes ODD utilisées pour mettre en forme le texte.
-        - `teipublisher.odd` : ODD Tei Publisher modifiée. Les modifications concernent les éléments `<term>` (hover avec définition), `<district>` (lien vers la page lieu), `<idno>` (suppression de l'affichage des liens Getty), `<name>` (liens externes vers le Thesaurus), 
-        - `places.odd` : ODD créée pour les extraits de manuscrit dans les pages `place.html`, inutilisée pour le moment.
+        - __`teipublisher.odd`__ : ODD Tei Publisher modifiée. Les modifications concernent les éléments `<term>` (hover avec définition), `<district>` (lien vers la page lieu) et `<idno>` (suppression de l'affichage des liens externes vers le thésaurus).
+        - __`places.odd`__ : ODD créée pour les extraits de manuscrit dans les pages `place.html`, inutilisée pour le moment.
     - `templates/`: dossier contenant les pages HTML créées/modifiées au sein du site.
         - 
         - 
