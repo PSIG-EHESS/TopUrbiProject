@@ -10,11 +10,13 @@ Le site est organisé autour de deux fonctionnalités principales :
 ### Éléments présents dans le dépôt
 - `topurbi-alcedo/` : dossier contenant les documents modifiés/créés dans le cadre de la création du site.
     - `odd/` : dossier contenant les différentes ODD utilisées pour mettre en forme le texte.
-        - __`teipublisher.odd`__ : ODD Tei Publisher modifiée. Les modifications concernent les éléments `<term>` (hover avec définition), `<district>` (lien vers la page lieu) et `<idno>` (suppression de l'affichage des liens externes vers le thésaurus).
-        - __`places.odd`__ : ODD créée pour les extraits de manuscrit dans les pages `place.html`, inutilisée pour le moment.
+        - __`teipublisher.odd`__ : ODD Tei Publisher modifié. Les modifications concernent les éléments `<term>` (hover avec définition), `<district>` (lien vers la page lieu) et `<idno>` (suppression de l'affichage des liens externes vers le thésaurus).
+        - __`places.odd`__ : ODD créé pour les extraits de manuscrit dans les pages `place.html`, déclarée dans `config.xqm`, inutilisé pour le moment.
     - `templates/`: dossier contenant les pages HTML créées/modifiées au sein du site.
-        - 
-        - 
+        - __`home.html`__ : _Template_ d'une page d'accueil avec titre, images et liens vers les autres pages du site (en travaux).
+        - __`footer.html`__ : Modification texte "Contact".
+        - __`places2.html`__ : _Template_ de la page "carte" contenant la carte principale  `<pb-leaflet-map>` ainsi que la liste des lieux `<pb-split-list>`. Le tri de la liste selon les catégories "lieux" et "groupes humains" et la barre de recherche sont définis dans le _web component_ `<pb-custom-form>` et à la `<div class="radios">`.
+        - __`place.html`__ : _Template_ des pages de description des lieux. <html data-template="app:load-place" data-template-name="${name}">
     - `modules/`: dossier contenant les modules utilisés au sein du site : API, configuration générale et fonctions annexes.
         - __`config.xqm`__ : fichier qui contient les configurations générales de l'instance. Les modifications principales sont : 
             - `declare variable $config:default-view :="page";` : modification de la manière dont le texte des manuscrits est présenté.
