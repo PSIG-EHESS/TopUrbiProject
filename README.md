@@ -19,7 +19,8 @@ Avec les contributions de :
 
 et des travaux des stagiaires:
 - **Lise Bernard**, Master Humanités numériques ENC, réalisation du site TEI Publisher pour la diffusion de l'édition numérique du dictionnaire d'Alcedo avec cartographie
-- **Diego Bilsky Guerscovich**, master Histoire EHESS, réaliasation du story Map (ESRI), Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier
+- **Diego Bilsky Guerscovich**, master Histoire EHESS, réalisation du story Map [Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier](https://storymaps.arcgis.com/stories/76d085901c7d419bbdd1dec9b04203a2)
+- **Sigfrid Socher**, master franco-allemand en Histoire EHESS, co-auteur du texte du story map [Entangled Geographies - 18th-Century Visions of New Spain’s Northern Frontier](https://storymaps.arcgis.com/stories/76d085901c7d419bbdd1dec9b04203a2)   
   
 Curation des données:
 - **Anahi Haedo**
